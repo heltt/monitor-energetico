@@ -40,6 +40,7 @@ from google.genai import types
 
 from utils_busca import carregar_indice, buscar
 from utils_normas_ons import extrair_modulo_sufixo_do_titulo
+from utils_grafo import carregar_grafo, titulos_relacionados
 
 PASTA_WIKI_ONS = os.path.join("data", "wiki", "ons")
 
@@ -82,7 +83,14 @@ responder com confianca, diga isso explicitamente em vez de completar a \
 resposta com suposicoes.
 3. Seja direto e objetivo. Nao repita o texto dos trechos na integra; \
 sintetize com suas proprias palavras.
-4. A pergunta pode usar termos tematicos amplos (ex.: "transicao \
+4. Se houver uma secao de "Contexto adicional do grafo de normas", mencione \
+essas normas relacionadas em PROSA NORMAL (ex.: "esta regra tambem se \
+relaciona com a Lei no 14.300"), SEM usar colchetes, numeracao ou qualquer \
+notacao de citacao formal para elas -- a notacao [Trecho N] e reservada \
+EXCLUSIVAMENTE para os trechos numerados da secao principal. Nunca descreva \
+o conteudo dessas normas relacionadas caso ele nao esteja nos trechos \
+principais; mencione so o nome/numero delas.
+5. A pergunta pode usar termos tematicos amplos (ex.: "transicao \
 energetica") que nao aparecem literalmente nos documentos, que costumam \
 usar vocabulario tecnico especifico. Reconheca essa relacao: trechos \
 sobre geracao eolica e fotovoltaica, armazenamento de energia, \
@@ -91,6 +99,57 @@ exemplos concretos do tema perguntado, mesmo sem a expressao exata. So \
 diga que falta informacao se os trechos realmente nao tratarem, nem \
 tecnicamente, do assunto perguntado.
 """
+
+
+_grafo_em_cache = None
+
+
+def obter_grafo():
+    """Carrega o grafo de normas uma unica vez por execucao (arquivo
+    pequeno, mas evita reler o CSV a cada pergunta no chat)."""
+    global _grafo_em_cache
+    if _grafo_em_cache is None:
+        _grafo_em_cache = carregar_grafo()
+    return _grafo_em_cache
+
+
+def montar_contexto_do_grafo(chunks_relevantes):
+    """Para cada chunk que corresponde a um documento real (nao uma
+    pagina de wiki consolidada -- essas ja tem seu proprio historico),
+    busca no grafo de normas o que ele cita e quem o cita, e monta um
+    bloco de texto extra para o prompt. Se o grafo ainda nao foi
+    gerado, devolve string vazia (a resposta segue normal, so sem essa
+    camada extra)."""
+    df_nos, df_arestas = obter_grafo()
+    if df_nos is None:
+        return ""
+
+    linhas = []
+    for chunk in chunks_relevantes:
+        arquivo = chunk.get("arquivo")
+        if not arquivo:
+            continue
+
+        citadas, citada_por = titulos_relacionados(arquivo, df_nos, df_arestas, tipo_relacao="cita")
+        if not citadas and not citada_por:
+            continue
+
+        linha = f'- "{chunk["titulo"]}"'
+        if citadas:
+            linha += f" cita: {', '.join(citadas[:5])}"
+        if citada_por:
+            linha += f"; e e citada por: {', '.join(citada_por[:5])}"
+        linhas.append(linha)
+
+    if not linhas:
+        return ""
+
+    return (
+        "\n\nContexto adicional do grafo de normas (relacoes entre "
+        "documentos -- use so para apontar normas relacionadas, NAO "
+        "invente o conteudo delas a menos que tambem esteja nos trechos "
+        "acima):\n" + "\n".join(linhas)
+    )
 
 
 def expandir_pergunta(pergunta, cliente):
@@ -123,8 +182,9 @@ def montar_prompt_usuario(pergunta, chunks_relevantes):
         blocos.append(f"{cabecalho}\n{chunk['texto_chunk']}")
 
     contexto = "\n\n".join(blocos)
+    contexto_grafo = montar_contexto_do_grafo(chunks_relevantes)
 
-    return f"Trechos de documentos disponiveis:\n\n{contexto}\n\nPergunta: {pergunta}"
+    return f"Trechos de documentos disponiveis:\n\n{contexto}{contexto_grafo}\n\nPergunta: {pergunta}"
 
 
 def buscar_chunks_com_expansao(pergunta, indice, cliente):

@@ -21,6 +21,7 @@ sys.path.append(os.path.join(os.path.dirname(__file__), "..", "src"))
 
 from utils_busca import carregar_indice  # noqa: E402
 from utils_normas_ons import extrair_ano_mes_do_titulo  # noqa: E402
+from utils_grafo import carregar_grafo, titulos_relacionados  # noqa: E402
 from gerar_resposta import gerar_resposta  # noqa: E402
 from google import genai  # noqa: E402
 
@@ -70,6 +71,12 @@ def carregar_indice_busca():
     return carregar_indice()
 
 
+@st.cache_data
+def carregar_grafo_cache():
+    """Wrapper com cache do Streamlit em cima de utils_grafo.carregar_grafo()."""
+    return carregar_grafo()
+
+
 @st.cache_resource
 def carregar_cliente_gemini():
     return genai.Client()
@@ -78,7 +85,7 @@ def carregar_cliente_gemini():
 st.title("⚡ Copiloto Regulatorio Inteligente")
 st.caption("Transicao energetica no setor eletrico brasileiro — ONS, ANEEL e DOU")
 
-aba_painel, aba_chat = st.tabs(["📊 Painel de Normas", "💬 Chat"])
+aba_painel, aba_grafo, aba_chat = st.tabs(["📊 Painel de Normas", "🕸️ Grafo de Normas", "💬 Chat"])
 
 # ----------------------------------------------------------------------
 # Aba 1: painel com as publicacoes mais recentes, filtravel por fonte
@@ -161,7 +168,88 @@ with aba_painel:
     )
 
 # ----------------------------------------------------------------------
-# Aba 2: chat com resposta gerada a partir dos documentos, com citacao
+# Aba 2: grafo de relacoes entre normas (citacao entre fontes + sucessao
+# de versoes do ONS), gerado por construir_grafo_normas.py
+# ----------------------------------------------------------------------
+with aba_grafo:
+    df_nos, df_arestas = carregar_grafo_cache()
+
+    if df_nos is None:
+        st.info(
+            "O grafo de normas ainda nao foi gerado. Rode "
+            "`python src/construir_grafo_normas.py` e recarregue esta pagina."
+        )
+    else:
+        df_citacoes = df_arestas[df_arestas["tipo_relacao"] == "cita"]
+        df_sucessao = df_arestas[df_arestas["tipo_relacao"] == "sucede"]
+
+        colunas_metricas_grafo = st.columns(4)
+        colunas_metricas_grafo[0].metric("Nós", len(df_nos))
+        colunas_metricas_grafo[1].metric("Arestas de citação", len(df_citacoes))
+        colunas_metricas_grafo[2].metric("Arestas de sucessão", len(df_sucessao))
+        colunas_metricas_grafo[3].metric(
+            "Referências externas", (df_nos["fonte"] == "referencia_externa").sum()
+        )
+
+        st.divider()
+        st.subheader("📌 Normas mais citadas")
+
+        titulo_por_id = dict(zip(df_nos["id"], df_nos["titulo"]))
+        contagem_citacoes = (
+            df_citacoes["destino_id"].value_counts().head(10).rename_axis("id").reset_index(name="quantidade")
+        )
+        contagem_citacoes["titulo"] = contagem_citacoes["id"].map(titulo_por_id)
+
+        if contagem_citacoes.empty:
+            st.caption("Nenhuma citação encontrada no grafo.")
+        else:
+            grafico_citacoes = (
+                alt.Chart(contagem_citacoes)
+                .mark_bar()
+                .encode(
+                    x=alt.X("quantidade:Q", title="Vezes citada"),
+                    y=alt.Y("titulo:N", sort="-x", title=None),
+                    tooltip=["titulo", "quantidade"],
+                )
+            )
+            st.altair_chart(grafico_citacoes, use_container_width=True)
+
+        st.divider()
+        st.subheader("🔎 Explorar vizinhança de uma norma")
+
+        opcoes_documentos = df_nos[df_nos["tipo"] == "documento"].sort_values("titulo")
+        titulo_selecionado = st.selectbox(
+            "Escolha uma norma para ver o que ela cita, quem a cita, e a versão anterior/posterior:",
+            opcoes_documentos["titulo"],
+        )
+
+        if titulo_selecionado:
+            id_selecionado = opcoes_documentos[opcoes_documentos["titulo"] == titulo_selecionado]["id"].iloc[0]
+
+            cita, citada_por = titulos_relacionados(id_selecionado, df_nos, df_arestas, tipo_relacao="cita")
+            # Na aresta 'sucede', origem = versao nova, destino = versao
+            # antiga. Entao para este documento: o que ele "referencia"
+            # (aponta como origem) e sua versao anterior; quem o
+            # "referencia de volta" (aponta para ele como destino) e
+            # sua versao posterior.
+            versao_anterior, versao_posterior = titulos_relacionados(
+                id_selecionado, df_nos, df_arestas, tipo_relacao="sucede"
+            )
+
+            coluna_esquerda, coluna_direita = st.columns(2)
+            with coluna_esquerda:
+                st.markdown(f"**Esta norma cita** ({len(cita)}):")
+                st.write(cita or "Nenhuma citação encontrada.")
+                st.markdown(f"**Versão anterior** ({len(versao_anterior)}):")
+                st.write(versao_anterior or "Nenhuma (é a mais antiga conhecida, ou não faz parte de um submódulo versionado).")
+            with coluna_direita:
+                st.markdown(f"**É citada por** ({len(citada_por)}):")
+                st.write(citada_por or "Nenhuma citação encontrada.")
+                st.markdown(f"**Versão posterior** ({len(versao_posterior)}):")
+                st.write(versao_posterior or "Nenhuma (é a mais recente conhecida, ou não faz parte de um submódulo versionado).")
+
+# ----------------------------------------------------------------------
+# Aba 3: chat com resposta gerada a partir dos documentos, com citacao
 # ----------------------------------------------------------------------
 with aba_chat:
     try:

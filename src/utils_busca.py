@@ -37,6 +37,7 @@ def buscar(pergunta, indice, top_n=NUMERO_RESULTADOS_PADRAO):
         linha = df_chunks.iloc[indice_chunk]
         resultados.append({
             "chunk_id": linha["chunk_id"],
+            "arquivo": linha["arquivo"],
             "score": similaridades[indice_chunk],
             "fonte": linha["fonte"],
             "titulo": linha["titulo"],
