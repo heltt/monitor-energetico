@@ -1,0 +1,115 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 5.3-OP_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 5.3-OP_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 5.3
+Controle da geração
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Integração de Submódulo Tipo Revisão Vigência
+Controle da geração 5.3 Operacional 2020.12 01/01/2021
+ÍNDICE
+1. CONTROLE DA GERAÇÃO.................................................................................................................3
+2. REFERÊNCIAS...................................................................................................................................5
+3. ANEXOS...........................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Integração de Submódulo Tipo Revisão Vigência
+Controle da geração 5.3 Operacional 2020.12 01/01/2021
+1. CONTROLE DA GERAÇÃO
+1.1. Os centros de operação do Operador Nacional do Sistema Elétrico – ONS, em atendimento ao Programa
+Diário da Operação (PDO), estabelecido conforme Submódulo 5.2 – Elaboração do Programa Diário da
+Operação, no que se refere ao Programa Diário de Produção (PDP) e Programa Diário de Carga e Frequência
+(PDFC), controlam as ações relativas ao processo de controle da geração do Sistema Interligado Nacional
+(SIN) em tempo real, que abrange:
+(a) controle da geração programada e as reprogramações realizadas por razões eletroenergéticas;
+(b) controle das usinas da Rede de Operação;
+(c) controle Automático de Geração (CAG);
+(d) manutenção da frequência; e
+(e) controle do intercâmbio entre áreas de controle da Rede de Operação e nas Interligações
+Internacionais.
+1.2. O Centro Nacional de Operação do Sistema – CNOS coordena a operação dos CAG, a geração das usinas
+da Rede de Operação não ligadas a um CAG e a utilização da reserva de potência operativa.
+1.3. O SIN está dividido em áreas de CAG. O Centro de Operação do Sistema – COSR controla a operação do
+CAG em sua área de controle considerando as modalidades de operação estabelecidas no Submódulo 5.14 –
+Instruções de Operação e nas Referências Técnicas dos Procedimentos de Rede.
+1.4. O COSR ajusta o CAG em sua área de controle em atendimento ao PDP, que consta do PDO, e
+acompanham os valores de geração realizados, comparando-os permanentemente com os valores
+programados.
+1.4.1. A programação de geração e intercâmbio de cada área de controle é realizada de maneira que a
+operação tenha, a todo instante, capacidade suficiente para atender, na frequência programada, a carga, o
+intercâmbio programado e a reserva de potência operativa.
+1.5. O COSR, sob coordenação do CNOS, reprograma o despacho de geração em sua área de controle para
+viabilizar as manobras nas instalações da Rede de Operação Sistêmica ou da Rede de Operação Regional, na
+ocorrência de desvios ocasionados por variações de carga, geração eólica ou geração solar, desligamentos
+não programados ou quaisquer outras necessidades operativas no SIN que inviabilizem o cumprimento do
+PDO.
+1.5.1. Em casos de necessidade de reprogramação em caráter de emergência, o COSR executa a
+reprogramação e, posteriormente, informa ao CNOS e aos demais agentes envolvidos.
+1.5.2. As reprogramações para evitar ou corrigir violações de limites elétricos têm prioridade em relação às
+ações para a otimização energética.
+1.5.3. Para toda reprogramação, com exceção das urgentes, é feito contato com os centros de operação
+envolvidos, com antecedência mínima de 10 minutos.
+1.5.4. As usinas da Rede de Operação operam com uma reserva de potência operativa, conforme
+disponibilizados no PDO, para regulação da frequência e para cobrir saídas não programadas de unidades
+geradoras.
+1.6. O COSR executa ações de comando para elevar ou reduzir a potência gerada pelas unidades ou usinas
+em regulação secundária, em atendimento ao PDFC, que consta do PDO.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Integração de Submódulo Tipo Revisão Vigência
+Controle da geração 5.3 Operacional 2020.12 01/01/2021
+1.6.1. O COSR mantém nas unidades geradoras sob CAG os valores recomendados de reserva secundária
+para elevação de geração e da reserva secundária para a redução de geração, conforme estabelecido no
+Submódulo 2.3 – Premissas, critérios e metodologia para estudos elétricos.
+1.6.1.1. Em caso de dificuldades para manter os valores recomendados de reserva secundária, o COSR, sob
+coordenação do CNOS, adota procedimentos adicionais conforme estabelecido em instruções de operação
+do Submódulo 5.14.
+1.7. O COSR, sob coordenação do CNOS, adota para o CAG sob sua responsabilidade procedimentos
+conforme estabelecido em instruções de operação do Submódulo 5.14, para os casos de anormalidades no
+mesmo.
+1.8. O COSR controla a geração das usinas da Rede de Operação não ligadas a um CAG, sendo efetuado pelo
+agente de geração proprietário da usina os comandos e execuções da operação para elevar e reduzir a
+geração desta usina de forma direta ou por meio de órgão designado como executor da operação.
+1.9. O agente de geração, sob coordenação e controle dos centros de operação do ONS, executa a conversão
+de unidades geradoras para compensador síncrono, a reversão para gerador, a inserção e retirada de
+unidades geradoras no controle conjunto da usina.
+1.10. O agente de geração informa ao COSR, para providências, a necessidade de reprogramação de uma
+usina da Rede de Operação em atendimento a compromissos decorrentes do uso múltiplo das águas.
+1.11. O agente de geração executa o redespacho de usina da Rede de Operação conectada em instalações
+não integrantes da Rede Básica nem da Rede Complementar, mediante solicitação do agente de transmissão
+ou de distribuição responsável pela operação desta rede, quando de emergência nestas instalações.
+1.11.1. Após o redespacho, o agente de geração informa, na sequência, ao COSR responsável pelo despacho
+de geração da usina envolvida.
+1.12. O agente de geração responsável por unidade geradora de usina da Rede de Operação solicita ao COSR
+ao qual se relaciona a realização da comprovação de disponibilidade de geração, após ocorrência de
+indisponibilidade por desligamento programado ou forçado, conforme estabelecido em instruções de
+operação do Submódulo 5.14.
+1.13. O COSR, sob coordenação do CNOS, supervisiona e controla ações para a realização da comprovação
+de disponibilidade solicitada pelo agente de geração.
+1.14. No período de testes de uma nova unidade geradora, o agente de geração responsável comprova a
+capacidade de escoamento da potência instalada total ou máxima que será incrementada ao sistema com a
+inserção de cada unidade geradora, conforme estabelecido no Submódulo 5.15 – Rotinas Operacionais, e
+declara ao COSR, em tempo real, o término dos testes de forma satisfatória, com a data e a hora da conclusão.
+1.15. O COSR registra as alterações na programação de geração e intercâmbio do PDO, feitas pelas equipes
+de tempo real, como reprogramação contendo:
+(a) motivos;
+(b) horários de alteração e de retorno à programação normal;
+(c) agentes envolvidos e executores; e
+(d) as repercussões sobre a operação da Rede de Operação.
+1.16. Os centros de operação do ONS registram, na execução do PDO, os desvios decorrentes do não
+cumprimento das recomendações operativas para as intervenções na Rede de Operação.
+2. REFERÊNCIAS
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Integração de Submódulo Tipo Revisão Vigência
+Controle da geração 5.3 Operacional 2020.12 01/01/2021
+2.1. Não há referências neste documento.
+3. ANEXOS
+3.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 5 / 5

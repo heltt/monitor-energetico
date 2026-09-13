@@ -1,0 +1,238 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.9-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.9-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.9
+Acompanhamento da manutenção de
+equipamentos e linhas de transmissão
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Acompanhamento da manutenção de
+6.9 Responsabilidades 2020.12 01/01/2021
+equipamentos e linhas de transmissão
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTO........................................................................................................................................3
+2.1. Relatório de Acompanhamento da Realização dos Planos de Manutenção em Equipamentos e
+Linhas de Transmissão (RAM).......................................................................................................3
+2.2. Relatório de Acompanhamento dos Indicadores de Realização dos Programas de Manutenção
+de Equipamentos e Linhas de Transmissão (RAI)..........................................................................3
+2.3. Plano de Contingência (PC)...........................................................................................................3
+2.4. Relatório de Manutenção de Urgência (RMU)..............................................................................3
+2.5. Relatório de Manutenção de Emergência (RME)..........................................................................3
+2.6. Relatório de Avaliação do Desempenho de Manutenção (RAD)...................................................3
+2.7. Plano de ação para recuperação de indicadores de desempenho................................................4
+3. RESPONSABILIDADES.......................................................................................................................4
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................4
+3.2. Agentes de Transmissão................................................................................................................4
+3.3. Agentes de geração.......................................................................................................................5
+4. PRAZOS............................................................................................................................................5
+5. REFERÊNCIA.....................................................................................................................................7
+Endereço na internet: http://www.ons.org.br 2 / 7
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Acompanhamento da manutenção de
+6.9 Responsabilidades 2020.12 01/01/2021
+equipamentos e linhas de transmissão
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas dos processos relativos ao
+acompanhamento da manutenção de equipamentos e linhas de transmissão, da Rede Básica e das usinas
+classificadas na modalidade de operação Tipo I, conforme Submódulo 7.2 – Classificação da modalidade de
+operação de usinas, visando contribuir com os níveis de desempenho requeridos à operação do Sistema
+Interligado Nacional (SIN).
+2. PRODUTO
+2.1. Relatório de Acompanhamento da Realização dos Planos de Manutenção em Equipamentos e
+Linhas de Transmissão (RAM)
+2.1.1. Relatório que apresenta as realizações e os resultados da verificação do cumprimento dos planos de
+manutenção dos agentes de transmissão e de geração, contendo conclusões sobre a avaliação destes
+resultados.
+2.2. Relatório de Acompanhamento dos Indicadores de Realização dos Programas de Manutenção de
+Equipamentos e Linhas de Transmissão (RAI)
+2.2.1. Relatório que apresenta os indicadores relativos às realizações das manutenções dos equipamentos
+dos agentes de geração e transmissão acompanhados neste submódulo, contendo conclusões sobre a
+avaliação destes indicadores.
+2.3. Plano de Contingência (PC)
+2.3.1. Planos elaborados pelos agentes de transmissão e de geração para atender emergências de linhas de
+transmissão, reatores e transformadores de potência da Rede Básica e de usinas consideradas instalações
+estratégicas, conforme Submódulo 2.2 – Definição das instalações estratégicas, e com modalidade de
+operação Tipo I, conforme Submódulo 7.2.
+2.4. Relatório de Manutenção de Urgência (RMU)
+2.4.1. Relatório que deve ser elaborado pelos agentes de transmissão e geração proprietários de
+equipamentos e linhas de transmissão, da Rede Básica, e de usinas consideradas instalações estratégicas,
+conforme Submódulo 2.2, e com modalidade de operação Tipo I, conforme Submódulo 7.2, que tenham
+apresentado defeito reincidente num período de 12 meses, caracterizando a urgência da manutenção no
+equipamento, e informando as providências tomadas para evitar novos eventos.
+2.5. Relatório de Manutenção de Emergência (RME)
+2.5.1. Relatório que deve ser elaborado pelos agentes de transmissão e geração proprietários de
+equipamentos e linhas de transmissão, da Rede Básica, e de usinas consideradas instalações estratégicas,
+conforme Submódulo 2.2, e com modalidade de operação Tipo I, conforme Submódulo 7.2, que tenham
+apresentado defeito reincidente num período de 12 meses, caracterizando a emergência da manutenção no
+equipamento, e informando as providências tomadas para evitar novos eventos.
+2.6. Relatório de Avaliação do Desempenho de Manutenção (RAD)
+Endereço na internet: http://www.ons.org.br 3 / 7
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Acompanhamento da manutenção de
+6.9 Responsabilidades 2020.12 01/01/2021
+equipamentos e linhas de transmissão
+2.6.1. Relatório contendo avaliação baseada nos indicadores de desempenho na perspectiva da manutenção
+dos agentes de transmissão e de geração proprietários de equipamentos e linhas de transmissão, da Rede
+Básica, e de usinas com modalidade de operação Tipo I, conforme Submódulo 7.2.
+2.7. Plano de ação para recuperação de indicadores de desempenho
+2.7.1. Plano de ação elaborados pelos agentes de transmissão e de geração para recuperação de indicadores
+de desempenho na perspectiva da manutenção, encontram-se nas faixas de alerta ou insatisfatória definidas
+pela ANEEL, ou, na ausência, pelo ONS.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Acompanhar, por meio de registros, a realização pelos agentes de transmissão e geração das
+atividades indicadas nos planos de manutenção.
+(b) Verificar se os agentes de transmissão e geração estão respeitando o momento de execução da
+manutenção conforme critérios norteadores informados por estes agentes.
+(c) Calcular os indicadores de realização e de não realização das atividades indicadas nos planos de
+manutenção.
+(d) Elaborar o RAI.
+(e) Elaborar o RAM.
+(f) Solicitar aos agentes de transmissão e de geração a elaboração do RMU.
+(g) Solicitar aos agentes de transmissão e de geração a elaboração do RME.
+(h) Disponibilizar para a ANEEL e para os agentes de transmissão e geração, utilizando sistema
+computacional, os relatórios acima citados e a relação das atividades dos planos de manutenção.
+(i) Analisar os indicadores de desempenho especificados neste submódulo e suas tendências.
+(j) Identificar os agentes de operação cujos indicadores de desempenho estejam nas faixas de alerta ou
+insatisfatória.
+(k) Elaborar e disponibilizar o RAD para a ANEEL e para cada agente de operação utilizando o sistema de
+acompanhamento da manutenção.
+(l) Disponibilizar para consulta das áreas de fiscalização da ANEEL e dos agentes de operação, os Planos
+de ação para recuperação de indicadores de desempenho elaborados pelos agentes de operação.
+(m)Avaliar os impactos no SIN quando o Plano de ação contiver ações de recuperação superiores a um
+ano após a disponibilização do RAD e informar à ANEEL os cenários avaliados.
+3.2. Agentes de Transmissão
+(a) Estabelecer a política, o planejamento e a técnica de execução da manutenção de equipamentos e
+linhas de transmissão integrantes da Rede Básica.
+(b) Disponibilizar no sistema computacional do ONS o plano de manutenção para equipamentos e linhas
+de transmissão integrantes da Rede Básica.
+Endereço na internet: http://www.ons.org.br 4 / 7
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Acompanhamento da manutenção de
+6.9 Responsabilidades 2020.12 01/01/2021
+equipamentos e linhas de transmissão
+(c) Estabelecer a sistemática de manutenção preventiva e preditiva para equipamentos e linhas de
+transmissão integrantes da Rede Básica.
+(d) Disponibilizar no sistema computacional do ONS o PC com o conteúdo especificado, para atendimento
+em emergência de linhas de transmissão, reatores e transformadores de potência classificados como
+instalações estratégicas pelo ONS, conforme Submódulo 2.2.
+(e) Atualizar, utilizando o sistema computacional do ONS, o Plano de manutenção das suas instalações
+integrantes da Rede Básica.
+(f) Enviar ao ONS, quando solicitado, o RMU com o conteúdo especificado no sistema computacional.
+(g) Enviar ao ONS, quando solicitado, o RME com o conteúdo especificado no sistema computacional.
+(h) Elaborar e enviar utilizando o sistema computacional do ONS o Plano de ação para recuperação dos
+indicadores de desempenho, com o conteúdo especificado, que se encontrem nas faixas de alerta ou
+insatisfatória.
+(i) Justificar à ANEEL quando seu Plano de ação contiver ações de recuperação superiores a um ano após
+a disponibilização do RAD.
+(j) Implementar as ações propostas no Plano de ação para recuperar os indicadores de desempenho
+situados em faixa de alerta ou insatisfatória.
+3.3. Agentes de geração
+(a) Estabelecer a política, o planejamento e a técnica de execução da manutenção dos equipamentos
+das usinas consideradas instalações estratégicas e com modalidade de operação Tipo I.
+(b) Disponibilizar no sistema computacional do ONS o Plano de Manutenção para os equipamentos das
+usinas consideradas instalações estratégicas e com modalidade de operação Tipo I.
+(c) Disponibilizar no sistema computacional do ONS o PC com o conteúdo especificado, para atendimento
+em emergência de transformadores de potência classificados como instalações estratégicas pelo ONS.
+(d) Enviar ao ONS, quando solicitado, o RMU com o conteúdo especificado.
+(e) Enviar ao ONS, quando solicitado, o RME com o conteúdo especificado.
+4. PRAZOS
+Quadro 1 - Prazos para Acompanhamento da manutenção de equipamentos e linhas de transmissão
+Atividade Responsável Prazo Periodicidade Horizonte
+Disponibilização, no sistema
+computacional do ONS, dos
+Agente de Entre agosto
+1 planos de manutenção para Anual -
+transmissão e novembro
+equipamentos e linhas de
+transmissão da Rede Básica
+Endereço na internet: http://www.ons.org.br 5 / 7
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Acompanhamento da manutenção de
+6.9 Responsabilidades 2020.12 01/01/2021
+equipamentos e linhas de transmissão
+Atividade Responsável Prazo Periodicidade Horizonte
+Inclusão, no sistema, de Até 30 dias
+manutenções decorrentes de após término
+Agente de
+2 manutenções preditivas e da Sob Demanda -
+transmissão
+preventivas já cadastradas no manutenção
+plano de manutenção originária
+Disponibilização, no sistema
+computacional do ONS, dos
+planos de manutenção para as Agente de Entre agosto
+3 Anual -
+usinas consideradas instalações geração e novembro
+estratégicas e com modalidade
+de operação Tipo I
+Atualizar a relação de instalações
+4 estratégicas, conforme ONS 30 de junho Anual -
+Submódulo 2.2
+Publicação do RAI e RAM, em 90 dias após
+5 ONS Anual Ano anterior
+seu site final do ano
+Disponibilização, no sistema Agente de
+computacional do ONS, dos PC transmissão e
+6 Setembro Anual -
+dos equipamentos definidos nas agente de
+responsabilidades geração
+Solicitação de emissão de RMU Sob
+7 ONS - -
+ou RME, aos agentes Demanda
+Agente de
+transmissão e 10 dias após
+8 Envio do RMU ou RME ao ONS - -
+agente de a atividade 7
+geração
+Indicadores
+Disponibilização dos indicadores, do mês
+com a avaliação de desempenho, anterior,
+9 ONS 10o dia útil Mensal
+para os agentes e para a Aneel, conforme
+no sistema computacional Submódulo
+9.2
+Disponibilização do RAD para
+Até 31 de
+10 cada agente e para a Aneel, no ONS Anual Ano anterior
+março
+sistema computacional
+Endereço na internet: http://www.ons.org.br 6 / 7
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Acompanhamento da manutenção de
+6.9 Responsabilidades 2020.12 01/01/2021
+equipamentos e linhas de transmissão
+Atividade Responsável Prazo Periodicidade Horizonte
+Apresentação ao ONS de Plano Agentes de
+de Ação para Recuperação de transmissão e 60 dias após
+11 - -
+Indicadores de Desempenho em agentes de atividade 10
+faixa de alerta ou insatisfatória geração
+Envio de justificativa à Aneel Agentes de
+para as ações de recuperação transmissão e 60 dias após
+12 - -
+dos indicadores de desempenho agentes de atividade 10
+com prazo acima de 1 ano geração
+Envio, à Aneel e aos agentes de
+operação, de avaliação de
+30 dias após
+13 impacto de ações com prazo ONS - -
+atividade 11
+acima de 1 ano para recuperação
+dos indicadores de desempenho
+5. REFERÊNCIA
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 7 / 7

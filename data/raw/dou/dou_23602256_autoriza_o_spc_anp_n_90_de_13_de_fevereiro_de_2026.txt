@@ -1,0 +1,132 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Autorização
+TITULO: AUTORIZAÇÃO SPC-ANP Nº 90, DE 13 DE FEVEREIRO DE 2026
+DATA_PUBLICACAO: 18/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=18/02/2026&jornal=515&pagina=197
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional do Petróleo, Gás Natural e Biocombustíveis/Superintendência de Produção de Combustíveis
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+AUTORIZAÇÃO SPC-ANP Nº 90, DE 13 DE FEVEREIRO DE 2026
+O SUPERINTENDENTE DE PRODUÇÃO DE COMBUSTÍVEIS DA ANP, no uso das atribuições que lhe foram conferidas pela Portaria ANP nº 265, de 10 de setembro de 2020, considerando a Lei nº 9.478, de 6 de agosto de 1997, a Resolução ANP nº 852, de 23 de setembro de 2021, para o caso previsto no inciso II do art. 5º, e o que consta do Processo ANP nº 48610.208263/2025-70, resolve:
+Art.1º Fica autorizada a operação da refinaria de petróleo PRESIDENTE BERNARDES - RPBC, da PETRÓLEO BRASILEIRO S.A. - Petrobras, CNPJ nº 33.000.167/0147-57, situada na Praça Marechal Stênio Caio de Albuquerque Lima, nº 1, Zona Industrial, Cubatão - SP, com capacidade de processamento de petróleo de 29.288 m³/d e com capacidade de processamento de 2.500.000 Nm3/d de gás natural, com as seguintes unidades e suas respectivas capacidades nominais:
+
+
+Identificação
+Sigla
+Unidade de Processo
+Capacidade nominal
+U-01
+UC
+Destilação Atmosférica
+13.588 m³/d
+U-25
+UN
+Destilação Atmosférica
+9.700 m³/d
+U-02
+UV
+Destilação Atmosférica
+6.000 m³/d
+U-27
+UVC
+Destilação a Vácuo
+10.000 m3/d
+U-26
+UVV
+Destilação a Vácuo
+3.200 m3/d
+U-24
+UFCC
+Craqueamento Catalítico
+10.000 m3/d
+U-34
+UCP-1
+Coqueamento Retardado
+2.600 m3/d
+U-84
+UCP-2
+Coqueamento Retardado
+2.750 m³/d
+U-22313
+HDT-1
+Hidrotratamento de Diesel
+6.000 m³/d
+U-2311
+UGH-1
+Geração de Hidrogênio
+800.000 Nm³/d
+U-2225
+URE-1
+Recuperação de Enxofre
+35 t/d
+U-22225
+URE-2
+Recuperação de Enxofre
+35 t/d
+U-12
+URA
+Recuperação de Aromáticos
+520 m³/d
+U-13R
+URC
+Reforma Catalítica
+2.300 m³/d
+U-16
+UPF
+Pré-Fracionamento de Nafta
+4.200 m³/d
+U-42
+UGAV
+Alquilação de Gasolina
+463 m³/d
+U-04
+UP-GLP
+Fracionamento de GLP
+700 m³/d
+U-04
+UP-Hex
+Produção de Hexano
+500 m³/d
+U-06
+UTG
+Tratamento Cáustico de Gasolina
+4.000 m³/d
+U-2316
+HDS-NC
+Hidrodessulfurização de Nafta Craqueada
+6.000 m³/d
+U-2315
+HDT-NK
+Hidrotratamento de Nafta de Coque
+2.600 m³/d
+U-32225
+URE-3
+Recuperação de Enxofre
+42 t/d
+U-32225
+UTGR
+Tratamento de Gás Residual
+126 t/d
+U-13P
+PSA
+Purificação de Hidrogênio
+520.000 Nm³/d
+U-32313
+HDT-2
+Hidrotratamento de Diesel
+11.000 m³/d
+U-22311
+UGH-2
+Geração de Hidrogênio
+2.070.000 Nm³/d
+U-42225
+URE-4
+Recuperação de Enxofre
+42 t/d
+Art.2º Ficam autorizadas também a operação da unidade U-32313 com o processo HBio, empregando carga contendo óleo vegetal (até 10%), para a produção de óleo diesel, bem como a operação das unidades intermediárias, sistemas auxiliares e área de armazenamento.
+Art.3º Fica revogada a Autorização ANP nº 601, de 7 de agosto de 2023, publicada no DOU de 8 de agosto de 2023.
+Art.4º Esta Autorização entra em vigor na data de sua publicação.
+MARCUS VINÍCIUS QUINTANILHA WERNER

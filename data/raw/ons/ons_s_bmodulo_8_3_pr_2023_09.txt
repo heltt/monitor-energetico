@@ -1,0 +1,1623 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Súbmodulo 8.3-PR_2023.09
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Súbmodulo 8.3-PR_2023.09.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 8.3
+Apuração mensal de serviços e encargos
+da transmissão e encargos setoriais
+Procedimental
+Revisão Motivo da revisão Data de aprovação
+2023.09 Despacho ANEEL nº 3.245/2023 04/09/2023
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+ÍNDICE
+1. APURAÇÃO DE ENCARGOS DE TRANSMISSÃO..................................................................................4
+1.1. Obtenção de dados.......................................................................................................................4
+1.2. Apuração do valor total atribuído a cada usuário relativo às instalações de Rede Básica e
+Interligações Internacionais..........................................................................................................4
+1.3. Apuração do valor total atribuído a cada usuário relativo às instalações de TRFR e DIT de uso
+compartilhado...............................................................................................................................6
+1.4. Disponibilização dos demonstrativos de cálculo aos usuários do sistema de transmissão..........6
+2. APURAÇÃO DE ENCARGOS SETORIAIS..............................................................................................7
+2.1. Obtenção de dados.......................................................................................................................7
+2.2. Apuração do valor total atribuído à cada unidade consumidora relativo aos encargos setoriais.7
+2.3. Disponibilização dos demonstrativos de cálculo às unidades consumidoras................................7
+3. APURAÇÃO DE SERVIÇOS DE TRANSMISSÃO....................................................................................8
+3.1. Obtenção de dados.......................................................................................................................8
+3.2. Apuração do valor total a creditar à cada agente de transmissão relativo às instalações da Rede
+Básica e Interligações Internacionais............................................................................................8
+3.3. Apuração do valor total a creditar à cada agente de transmissão relativos às instalações de TRFR
+e DIT de uso compartilhado........................................................................................................10
+3.4. Apuração do valor total a ser creditado ao ONS.........................................................................11
+3.5. Disponibilização dos demonstrativos de cálculo aos agentes de transmissão............................11
+4. CÁLCULO DOS VALORES A FATURAR E EMISSÃO DE AVISO DE CRÉDITO E AVISO DE DÉBITO..........11
+4.1. Cálculo dos valores a faturar por cada agente de transmissão...................................................11
+4.2. Cálculo dos valores a faturar pelo ONS.......................................................................................13
+4.3. Emissão de Avisos de Débito e Avisos de Crédito.......................................................................13
+4.4. Elaboração do Relatório de Apuração Mensal de Serviços e Encargos de Transmissão.............13
+5. ACOMPANHAMENTO DA LIQUIDAÇÃO DOS ENCARGOS.................................................................14
+6. EMISSÃO DE RELATÓRIOS ANUAIS.................................................................................................15
+7. REFERÊNCIAS.................................................................................................................................16
+8. ANEXOS.........................................................................................................................................16
+Anexo A - Detalhamento das parcelas que compõem os valores mensais de encargos (VME)............16
+Endereço na internet: http://www.ons.org.br 2 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+Anexo B - Detalhamento das parcelas que compõem os valores mensais de serviços (VMST)............16
+Anexo C - Apuração de Parcela Variável (PV)........................................................................................16
+Endereço na internet: http://www.ons.org.br 3 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+1. APURAÇÃO DE ENCARGOS DE TRANSMISSÃO
+1.1. Obtenção de dados
+1.1.1. O Operador Nacional do Sistema Elétrico – ONS, para o processo de apuração de encargos de
+transmissão, tem por base, conforme [1][2], os Montantes de Uso do Sistema de Transmissão (MUST)
+contratados por cada usuário do sistema de transmissão do Sistema Interligado Nacional (SIN) nos
+respectivos Contratos de Uso do Sistema de Transmissão (CUST), celebrados conforme Submódulo 8.1 –
+Administração dos Contratos, e MUST verificados apurados conforme Submódulo 6.8 – Apuração dos
+Montantes de Uso do Sistema de Transmissão.
+1.1.2. No que se refere ao uso do sistema de transmissão para fins de importação ou exportação, relativas
+às Interligações Internacionais de que trata [1][2], o ONS considera os valores medidos de energia elétrica,
+conforme Submódulo 6.8.
+1.1.3. O ONS obtém as seguintes informações homologadas anualmente pela Agência Nacional de Energia
+Elétrica – ANEEL:
+(a) Tarifa de Uso do Sistema de Transmissão (TUST) do ciclo tarifário vigente, quais sejam:
+(1) TUST , relativa às instalações de Rede Básica;
+RB
+(2) TUST , relativa aos Transformadores de Fronteira (TRFR) e Demais Instalações de Transmissão (DIT)
+FR
+de uso compartilhado;
+(3) TUST , relativa ao ponto de conexão à Rede Básica contratado para importação ou
+IMP/EXP
+exportação;
+(4) TUST , relativas às centrais de geração com contratação em caráter temporário.
+TEMP
+(b) Tarifa de Uso de Interligação Internacional (TUII) relativas às Interligações Internacionais;
+(c) encargos a serem atribuídos à concessionária ou permissionária de distribuição que tenha CUST
+celebrado com o ONS e Contratos de Uso do Sistema de Distribuição (CUSD) celebrados com os
+agentes responsáveis por centrais geradoras conectadas a Redes Unificadas conforme [4]; e
+(d) potência contratada da Usina Hidrelétrica Itaipu Binacional (UHE Itaipu) e TUST associada, bem como
+quotas-partes da potência contratada junto a esta usina.
+1.1.4. O ONS obtém da Câmara de Comercialização de Energia Elétrica – CCEE os percentuais de desconto
+aplicados sobre as TUST relacionadas às centrais de geração de energia elétrica proveniente de fontes
+renováveis, centrais de geração híbridas com medição individualizada por tecnologia, centrais geradoras
+associadas e às unidades consumidoras compradoras de energia proveniente das mencionadas fontes.
+1.1.5. Para centrais geradoras associadas haverá uma única tarifa para o conjunto, calculada conforme
+regulamentação vigente [8].
+1.2. Apuração do valor total atribuído a cada usuário relativo às instalações de Rede Básica e
+Interligações Internacionais
+1.2.1. O ONS contabiliza o valor total a ser debitado de cada usuário do sistema de transmissão relativo às
+instalações da Rede Básica e Interligações Internacionais considerando os encargos contabilizados no mês
+descontados do montante financeiro relativo à condição de disponibilidade destas instalações.
+Endereço na internet: http://www.ons.org.br 4 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+(1)
+Sendo,
+VD RB: valor total a ser debitado de cada usuário do sistema de transmissão relativo às instalações da
+u
+Rede Básica e Interligações Internacionais
+VME RB: valor mensal de encargos, atribuído ao usuário “u”, relativo às instalações de Rede Básica e
+u
+Interligações Internacionais
+CPV RB: montante financeiro relativo à compensação ao usuário “u” em função da aplicação de Parcela
+u
+Variável das instalações da Rede Básica e das Interligações Internacionais
+1.2.1.1. Para a apuração do VMEuRB são considerados:
+(a) Encargos de Uso do Sistema de Transmissão (EUST) relativos à Rede Básica em função do MUST
+contratado e da TUST ;
+RB
+(b) EUST relativos à importação ou exportação de energia elétrica em função da TUST e quando uso
+IMP/EXP
+de Interligações Internacionais também em função da TUII;
+(c) eventuais diferenças de encargos, configuradas entre MUST verificado e MUST contratado, apuradas
+no mês anterior;
+(d) encargo relativo à TUSD a ser atribuído à concessionária ou permissionária de distribuição que
+g-T
+tenha CUST celebrado com o ONS e CUSD celebrados com os agentes responsáveis por centrais
+geradoras conectadas a Redes Unificadas, conforme [4];
+(e) encargo relativo à TUSD a ser atribuído à distribuidora que tenha CUST celebrado com o ONS e
+g-ONS
+CUSD celebrado com os agentes responsáveis por centrais geradoras conectadas a Redes Unificadas,
+conforme [4];
+(f) encargo relativo ao repasse de potência oriunda da Itaipu Binacional, atribuído apenas aos detentores
+das respectivas quotas-partes da potência contratada junto a esta usina;
+(g) encargo relativo ao ressarcimento financeiro às agentes de transmissão em caso de sobrecarga de
+transformadores integrantes de concessões de transmissão causada por valor de demanda acima do
+MUST contratado, atribuído apenas aos usuários de transformador em sobrecarga;
+(h) montante financeiro relativo à Parcela de Ineficiência por Ultrapassagem (PIU) do MUST contratado,
+em função da TUST , conforme [1][2];
+RB
+(i) montante financeiro relativo à Parcela de Ineficiência por Sobrecontratação (PIS) do MUST
+contratado, atribuído apenas às distribuidoras após o encerramento do ano civil, conforme [1][2]; e
+(j) montante financeiro de retificação de encargos apurados nos meses anteriores.
+1.2.1.1.1. O Anexo A deste submódulo apresenta o detalhamento das parcelas que compõem o VMEuRB.
+1.2.1.2. Para a apuração do CPVuRB, é considerado o rateio dos valores deduzidos dos agentes de
+transmissão em função da aplicação de Parcela Variável (PV) de suas instalações, conforme item 3.2.1.1. (c)
+deste submódulo, entre todos os usuários, na proporção dos seus respectivos EUST.
+1.2.2. Quando VDuRB resultar em um valor negativo, o ONS limita as componentes negativas de encargos
+de forma a igualar a zero e registra os valores negativos não contabilizados na apuração vigente, para subtraí-
+Endereço na internet: http://www.ons.org.br 5 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+los dos valores a debitar nos meses seguintes ao da apuração, sendo considerados juros e correção monetária
+somente se os respectivos valores ou critérios de cálculo forem definidos formalmente pela ANEEL.
+1.3. Apuração do valor total atribuído a cada usuário relativo às instalações de TRFR e DIT de uso
+compartilhado
+1.3.1. O ONS contabiliza o valor a ser debitado de cada usuário do sistema de transmissão relativo às
+instalações de TRFR e DIT de uso compartilhado, considerando os encargos apurados no mês descontados
+do montante financeiro relativo à condição de disponibilidade destas instalações.
+(2)
+Sendo,
+VD FR: valor total a ser debitado de cada usuário do sistema de transmissão relativo às instalações TRFR
+u
+e DIT de uso compartilhado
+VME FR: valor mensal de encargos, atribuído ao usuário “u”, relativo às instalações de TRFR e DIT de uso
+u
+compartilhado
+CPV FR: montante financeiro relativo à compensação ao usuário “u” em função da aplicação de Parcela
+u
+Variável das instalações de TRFR
+1.3.1.1. Para a apuração do VMEuFR são considerados:
+(a) EUST relativos às instalações de TRFR e DIT de uso compartilhado, em função do MUST contratado e
+da TUST ;
+FR
+(b) eventuais diferenças de encargos, configuradas entre MUST verificado e MUST contratado, apuradas
+no mês anterior;
+(c) montante financeiro relativo à PIU do MUST contratado, em função de TUST , atribuído apenas aos
+FR
+usuários que atingirem tal situação, conforme [1][2];
+(d) encargo relativo ao ressarcimento financeiro aos agentes de transmissão em caso de sobrecarga de
+transformadores integrantes de concessões de transmissão causada por valor de demanda acima do
+MUST contratado, atribuído apenas aos usuários de TRFR em sobrecarga; e
+(e) montante financeiro de retificação de encargos apurados nos meses anteriores.
+1.3.1.1.1. O Anexo A deste submódulo apresenta o detalhamento das parcelas que compõem o VMEuFR.
+1.3.1.2. Para a apuração do CPVuFR é considerado o rateio dos valores deduzidos dos agentes de transmissão
+em função da aplicação de PV de suas instalações, associada aos pontos de conexão contratados, entre todas
+as distribuidoras que remuneram o TRFR, na proporção de seus respectivos MUST.
+1.3.2. Quando VDuFR resultar em um valor negativo, o ONS limita as componentes negativas de encargos
+de forma a igualar a zero e registra os valores negativos não contabilizados na apuração vigente para subtraí-
+los dos valores a debitar nos meses seguintes ao da apuração, sendo considerados juros e correção monetária
+somente se os respectivos valores ou critérios de cálculo forem definidos formalmente pela ANEEL.
+1.4. Disponibilização dos demonstrativos de cálculo aos usuários do sistema de transmissão
+1.4.1. O ONS disponibiliza a todos os usuários do sistema de transmissão os demonstrativos de cálculo
+relativos às parcelas que compõem os encargos totais devidos, quando da alteração dessas parcelas em
+relação às consideradas na apuração anterior ou quando da configuração de valores retroativos em função
+de retificações ou entrada de novos dados com referência retroativa.
+Endereço na internet: http://www.ons.org.br 6 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+1.4.2. Os usuários analisam os demonstrativos de cálculo disponibilizados pelo ONS e, quando julgarem
+necessário, encaminham seus comentários e dúvidas, bem como a solicitação de retificação de valores.
+1.4.3. O ONS analisa a solicitação do usuário e, quando avaliar pertinente, retifica os valores no processo de
+apuração do mês vigente.
+2. APURAÇÃO DE ENCARGOS SETORIAIS
+2.1. Obtenção de dados
+2.1.1. O ONS obtém as TUST homologadas pela ANEEL relativas à Conta de Desenvolvimento Energético
+(CDE) e à conta do Programa de Incentivo às Fontes Alternativas de Energia Elétrica (conta PROINFA),
+TUSTCDE e TUSTPROINFA, respectivamente.
+2.1.2. O ONS obtém da CCEE os dados de medição de energia consumida por unidades consumidoras
+conectadas à Rede Básica e com CUST celebrado com o ONS e de energia gerada, no mês anterior ao da
+apuração, por unidades de autoprodução e produção independente própria que atendem diretamente as
+unidades consumidoras
+2.1.3. Na eventual ausência de informações de medição, o ONS considera os menores valores da parcela de
+consumo que excede a geração de autoprodução e/ou produção independente, verificados nos últimos seis
+meses ou os valores declarados pelos consumidores.
+2.2. Apuração do valor total atribuído à cada unidade consumidora relativo aos encargos setoriais
+2.2.1. O ONS contabiliza os encargos setoriais relativos à CDE e conta PROINFA, a serem atribuídos à cada
+unidade consumidora, apenas sobre a parcela de consumo que exceder a geração de autoprodução e/ou
+produção independente própria no mês para a unidade consumidora.
+(3)
+Sendo,
+ESET valor total de encargos setoriais atribuído ao usuário “u”
+:
+ECDE valor total de encargos setoriais relativos à CDE atribuído ao usuário “u”
+:
+EPROINFA valor total de encargos setoriais relativos à conta PROINFA atribuído ao usuário “u”
+:
+(4)
+(5)
+TUST e TUST : TUST homologadas pela ANEEL, em R$/MWh
+CDE PROINFA
+ETC: energia total, em MWh, consumida pela unidade consumidora no mês anterior ao da apuração
+ES: energia suprida no mês anterior ao da apuração, em MWh, para a unidade consumidora, por
+unidades de geração caracterizadas como autoprodução e/ou produção independente própria
+2.3. Disponibilização dos demonstrativos de cálculo às unidades consumidoras
+Endereço na internet: http://www.ons.org.br 7 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+2.3.1. O ONS disponibiliza às unidades consumidoras os demonstrativos de cálculo relativos aos encargos
+setoriais devidos.
+2.3.2. Os usuários analisam os demonstrativos de cálculo disponibilizados pelo ONS e, quando julgarem
+necessário, encaminham seus comentários e dúvidas, bem como a solicitação de retificação de valores.
+2.3.3. O ONS analisa a solicitação do usuário e, quando avaliar pertinente, retifica os valores no processo de
+apuração do mês vigente.
+3. APURAÇÃO DE SERVIÇOS DE TRANSMISSÃO
+3.1. Obtenção de dados
+3.1.1. Para o processo de apuração dos serviços de transmissão, o ONS obtém as seguintes informações:
+(a) Receita Anual Permitida (RAP), homologada pela ANEEL, para o ciclo tarifário vigente, relativas às
+instalações da Rede Básica e Interligações Internacionais;
+(b) Termos de Liberação emitidos, conforme Submódulo 7.15 – Emissão de Termo de Liberação para
+instalações de transmissão, referentes às instalações de Rede Básica e Interligações Internacionais.
+(c) Parcela de Ajuste (PA), definida pela ANEEL, no ciclo tarifário vigente, para cada agente de transmissão
+relativa às suas instalações de Rede Básica e Interligações Internacionais;
+(d) percentuais de participação dos EUST calculados por meio de TUST , em cada ponto de conexão, a
+FR
+serem apropriados por cada agente de transmissão.
+(e) resultado do processo estabelecido no Submódulo 6.7 – Apuração de indisponibilidade, restrição da
+capacidade operativa e sobrecarga nas instalações de transmissão da Rede Básica e das Interligações
+Internacionais, no que se refere às indisponibilidades, restrições operativas temporárias,
+cancelamentos de intervenções previamente aprovadas pelo ONS, atrasos de entrada em operação
+de nova Função Transmissão (FT) e registro de sobrecarga em transformadores; e
+(f) modulação do orçamento do ONS.
+3.2. Apuração do valor total a creditar à cada agente de transmissão relativo às instalações da Rede
+Básica e Interligações Internacionais
+3.2.1. O ONS contabiliza o valor total a creditar à cada agente de transmissão relativo às suas instalações de
+Rede Básica e Interligações Internacionais considerando o montante financeiro resultante da quantificação
+dos serviços de transmissão prestados no mês de apuração, das parcelas de ajustes de receitas e retificações
+de receita em decorrência de revisões na apuração.
+(6)
+Sendo,
+VCRB: valor mensal total a creditar à cada agente de transmissão relativo às suas instalações de Rede
+t
+Básica e Interligações Internacionais
+VMST: valor mensal correspondente ao serviço prestado por cada agente de transmissão “t” relativo
+t
+às suas instalações de Rede Básica e Interligações Internacionais no mês da apuração
+Endereço na internet: http://www.ons.org.br 8 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+VMPA: valor mensal da Parcela de Ajuste (PA) definida pela ANEEL para cada concessão de
+t
+transmissão, atribuída ao agente de transmissão “t”, correspondente ao ajuste de receita relativo à
+Rede Básica e Interligações Internacionais
+VMANT: valor mensal a ser antecipado à cada agente de transmissão decorrente da diferença entre o
+t
+montante mensal atribuído ao agente de transmissão relativo às suas instalações de Rede Básica e
+Interligações Internacionais e o montante efetivamente arrecadado de encargos
+VMRETRB: valor mensal de retificações de parcelas de receita, em decorrência de revisões pelo ONS,
+t
+atribuída ao agente de transmissão “t”, relativas às instalações de Rede Básica e Interligações
+Internacionais
+3.2.1.1. Para a apuração do VMSTt são considerados, para cada concessão de transmissão:
+(a) receita mensal das instalações de Rede Básica e Interligações Internacionais, discriminadas conforme
+regulamentação específica, correspondente à soma dos Pagamentos Base (PB) relativas às instalações
+em operação comercial;
+(b) Termos de Liberação emitidos conforme Submódulo 6.7, com o objetivo de identificar a entrada em
+operação de novas instalações e situação de pendências relativas às instalações em operação
+comercial [5];
+(c) PV de cada FT das instalações de Rede Básica e Interligações Internacionais, apurada conforme [1] e
+[6], devido às indisponibilidades, inclusive aquelas de FT assistida remotamente conforme Submódulo
+6.7; restrições operativas temporárias; cancelamentos de intervenções previamente aprovadas pelo
+ONS; e atrasos de entrada em operação de novas FT integrantes destas instalações.
+(d) Adicional Financeiro por Sobrecargas (AFS) que corresponde a adicionais de receita decorrentes da
+operação de transformadores em condições de sobrecarga que ocasionem perda adicional de vida
+útil, conforme[6]; e
+(e) Ressarcimento Financeiro por Sobrecargas (RFS) que corresponde a redução de receita decorrente de
+sobrecarga provocada pela agente de transmissão em transformadores da Rede Básica e Interligações
+Internacionais de outras agentes de transmissão, conforme [6][6].
+3.2.1.1.1. O Anexo B e o Anexo C deste submódulo apresentam respectivamente, o detalhamento das
+parcelas que compõem o VMSTt e de apuração de PV.
+3.2.1.2. Para a apuração do VMPAt, o ONS considera 1/12 (um doze avos) da PA estabelecida pela ANEEL,
+em função de superávit ou déficit de receita no ciclo tarifário anterior ou outros reajustes de receita.
+3.2.1.3. Para a apuração do VMANTt, o ONS considera o rateio do Saldo Mensal de Serviços e Encargos
+(SMSE) na proporção direta das respectivas receitas mensais das instalações em operação.
+(7)
+Sendo,
+VAMT: valor mensal a ser antecipado à cada agente de transmissão decorrente da diferença entre o
+t
+montante mensal atribuído ao agente de transmissão relativo às suas instalações de Rede Básica e
+Interligações Internacionais e o montante efetivamente arrecadado de encargos
+Endereço na internet: http://www.ons.org.br 9 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+SMSE: saldo mensal de serviços e encargos, calculado conforme item 3.2.1.3.1. deste submódulo
+PB: Pagamento Base de todas as FT em operação relativas à Rede Básica e Interligações Internacionais
+t
+de propriedade de um agente de transmissão “t”
+N: quantidade de agentes de transmissão proprietários de instalações da Rede Básica e Interligações
+t
+Internacionais
+3.2.1.3.1. O SMSE corresponde à diferença entre o total de encargos a ser debitado dos usuários das
+instalações da Rede Básica e Interligações Internacionais e a receita destas instalações a ser paga aos agentes
+de transmissão e ao ONS, no mês da apuração.
+(8) ]
+Sendo,
+VD RB: valor total a ser debitado de cada usuário do sistema de transmissão relativo às instalações da
+u
+Rede Básica e Interligações Internacionais, conforme item 1.2
+N : quantidade de usuários das instalações da Rede Básica e Interligações Internacionais
+u
+N: quantidade de agentes de transmissão proprietárias de instalações da Rede Básica e Interligações
+t
+Internacionais
+VMST: valor mensal de serviços de transmissão relativo às instalações da Rede Básica e Interligações
+t
+Internacionais, conforme item 3.2.1.1. deste submódulo
+RMONS: receita mensal do ONS, conforme item 3.4
+VMRETRB: valor mensal de retificações, conforme item 3.2.1.4. deste submódulo
+t
+VMPA: valor mensal da Parcela de Ajuste definida pela ANEEL para cada concessão de transmissão,
+t
+conforme item 3.2.1.2. deste submódulo
+3.2.1.3.2. O SMSE, rateado entre as agentes de transmissão, é considerado como antecipação de receitas
+quando resultar em valor positivo e como postergação de receitas quando resultar em valor negativo.
+3.2.1.4. Em caso de retificações requeridas pelos agentes de transmissão, mediante solicitação formal ao
+ONS, ou decorrentes de reavaliação, pelo próprio ONS, dos parâmetros que originaram os valores mensais
+de serviços apurados, os valores retificados são considerados como VMRETtRB.
+3.3. Apuração do valor total a creditar à cada agente de transmissão relativos às instalações de TRFR e
+DIT de uso compartilhado
+3.3.1. O ONS apura o valor total a creditar à cada agente de transmissão relativo às suas instalações de TRFR
+e DIT de uso compartilhado considerando o somatório dos valores mensais de encargos pagos pelos usuários
+conectados a estas instalações e redução de receita devido à apuração de PV.
+(9)
+Sendo,
+VMEFR: valor mensal total a creditar à cada agente de transmissão relativo às suas instalações de TRFR
+t
+e DIT de uso compartilhado
+∑VMEFR: somatório dos valores mensais de encargos pagos pelos usuários conectados às instalações
+t
+de TRFR e DIT de uso compartilhado referentes à transmissora “t”, calculado conforme item 1.3.1.1.
+Endereço na internet: http://www.ons.org.br 10 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+PVFR: valor total de PV descontada de cada agente de transmissão “t”, apurada conforme [6] e
+t
+detalhada no Anexo C deste submódulo
+3.4. Apuração do valor total a ser creditado ao ONS
+3.4.1. O ONS contabiliza a parcela de sua receita mensal relativa aos serviços prestados quanto à
+coordenação e controle da operação do SIN e à administração dos serviços de transmissão.
+(10)
+Sendo,
+RMONS: receita mensal do ONS em conformidade com a modulação do orçamento aprovado pela
+ANEEL
+ETUSD : encargo destinado à remuneração do orçamento do ONS atribuído à distribuidora que
+g-ONS
+tenha CUST celebrado com o ONS e CUSD celebrado com os agentes responsáveis por centrais
+geradoras conectadas a Redes Unificadas, que corresponde a um duodécimo do valor anual
+homologado pela ANEEL
+RMONS : parcela a ser provida por meio dos encargos relativos às instalações de Rede Básica e
+EUST
+Interligações Internacionais
+3.5. Disponibilização dos demonstrativos de cálculo aos agentes de transmissão
+3.5.1. O ONS disponibiliza aos agentes de transmissão os demonstrativos de cálculo relativos às parcelas que
+compõem as receitas a serem creditadas.
+3.5.1.1. Os demonstrativos de cálculo relativos à apuração de PV são disponibilizados mensalmente.
+3.5.1.2. Os demonstrativos de cálculo relativos às demais parcelas são disponibilizados quando da alteração
+em relação às consideradas na apuração anterior, ou quando da configuração de valores retroativos em
+função de retificações ou entrada de novos dados com referência retroativa.
+3.5.2. Os agentes de transmissão analisam os demonstrativos de cálculo disponibilizados pelo ONS e, quando
+julgarem necessário, encaminham seus comentários e dúvidas, bem como a solicitação de retificação de
+valores.
+3.5.3. O ONS analisa a solicitação de cada agente de transmissão e, quando de acordo, retifica os valores no
+processo de apuração do mês vigente.
+3.5.3.1. Caso o agente de transmissão não conteste os valores apresentados pelos ONS no prazo
+estabelecido, o ONS analisa a solicitação do agente no processo de apuração de serviços e encargos do mês
+seguinte.
+Endereço na internet: http://www.ons.org.br 11 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+4. CÁLCULO DOS VALORES A FATURAR E EMISSÃO DE AVISO DE CRÉDITO E AVISO DE DÉBITO
+4.1. Cálculo dos valores a faturar por cada agente de transmissão
+4.1.1. O ONS calcula o valor a ser faturado por cada agente de transmissão a cada usuário considerando o
+resultado da apuração do valor total a creditar a cada agente de transmissão e a debitar de cada usuário.
+(11)
+Sendo,
+VF : valor total a faturar por cada agente de transmissão atribuído a cada usuário
+tu
+VC RB: valor a ser creditado à cada agente de transmissão “t” atribuído a cada usuário “u” relativo às
+tu
+instalações de Rede Básica e Interligações Internacionais
+VC FR: valor a ser creditado à cada agente de transmissão “t” atribuído a cada usuário “u” relativo às
+tu
+instalações de TRFRe DIT de uso compartilhado
+F : alíquotas tributárias previstas em regulamentação específica a serem aplicadas sobre a receita
+aliq
+mensal a ser creditada a agente de transmissão
+VC SET: valor a ser creditado à cada agente de transmissão “t” atribuído a cada usuário “u” relativo aos
+tu
+encargos setoriais
+4.1.1.1. Para o cálculo de VCtuRB é considerado o rateio dos valores a debitar dos usuários, na proporção
+dos VD de cada um deles.
+(12)
+Sendo,
+VC RB: valor total a ser creditado à cada agente de transmissão “t” por cada usuário “u” relativo às
+tu
+instalações de Rede Básica e Interligações Internacionais
+VCRB: valor mensal total a creditar à cada agente de transmissão relativo às suas instalações de Rede
+t
+Básica e Interligações Internacionais, conforme 3.2.1. deste submódulo
+N : quantidade de usuários das instalações da Rede Básica e Interligações Internacionais
+u
+VD RB: valor total a debitar de cada usuário “u” referente aos encargos associados à Rede Básica e
+u
+Interligações Internacionais, conforme item 1.2. deste submódulo
+4.1.1.2. Para o cálculo de VCtuFR é considerado o percentual de participação de cada ponto de conexão na
+parcela de VMEuFR das distribuidoras usuárias de um determinado TRFR ou agrupamento de DIT de uso
+compartilhado.
+(13)
+Sendo,
+VC FR: valor de receita a ser creditada a uma concessão de transmissão “t”, atribuído ao usuário “u”,
+tu
+relativo às instalações de TRFR ou de DIT de uso compartilhado
+Endereço na internet: http://www.ons.org.br 12 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+VME FR: parcela de VME FR referente a cada ponto de conexão “j”
+uj u
+j: representa todos os pontos de conexão contratados pelo usuário “u”
+PPCt : percentual do VME FR, referente a ponto de conexão “j”, calculado considerando a relação entre
+uj u
+as receitas dos conjuntos de instalações de propriedade de cada agente de transmissão “t” e as receitas
+de todos os conjuntos de instalações que servem o mesmo ponto de conexão e a mesma rede de
+fronteira. A base de dados utilizada para este cálculo é a mesma utilizada para o cálculo das TUST do
+ciclo tarifário vigente
+∑PV FR: somatório do valor total de PV descontada de instalações do agente de transmissão “t”
+tu
+associadas a pontos de conexão contratados pela usuária “u””, apurada conforme [6][6] e detalhada
+no Anexo C deste submódulo
+4.1.1.3. O valor de VCtuSE refere-se especificamente ao valor ESET apurado no item 2.2.1. deste submódulo.
+4.2. Cálculo dos valores a faturar pelo ONS
+4.2.1. O ONS calcula a parcela da sua receita a ser faturada atribuída a cada usuário.
+(14)
+Sendo,
+VC FR: valor de receita a ser creditada ao ONS atribuído ao usuário “u”
+ONS-u
+ETUSD : encargo destinado à remuneração do orçamento do ONS, atribuído à distribuidora que
+g-ONS d
+tenha CUST celebrado com o ONS e CUSD celebrado com os agentes responsáveis por centrais
+geradoras conectadas a Redes Unificadas
+RMONS : valor de receita a creditar ao ONS provido por meio da TUST
+EUST RB
+N : quantidade de usuários das instalações da Rede Básica e Interligações Internacionais
+u
+VD RB: valor total a debitar de cada usuário “u” referente aos encargos associados à Rede Básica e
+u
+Interligações Internacionais, conforme item 1.2. deste submódulo
+4.3. Emissão de Avisos de Débito e Avisos de Crédito
+4.3.1. O ONS emite Avisos de Débito (AVD) e Avisos de Crédito (AVC) e os disponibiliza aos agentes
+envolvidos, contendo:
+(a) AVD: para cada usuário do sistema de transmissão, apresenta o valor total de encargos devido à cada
+agente de transmissão e ao ONS relativo ao uso das instalações da Rede Básica, Interligações
+Internacionais, TRFR e DIT de uso compartilhado, bem como quotas de custeio de encargos setoriais
+relativas à CDE e conta PROINFA.
+(b) AVC: para cada agente de transmissão, apresenta o valor total de receita a ser cobrado de cada
+usuário do sistema de transmissão referentes à prestação de serviços relativos às instalações de Rede
+Básica, Interligações Internacionais, TRFR e DIT de uso compartilhado, bem como quotas de custeio de
+encargos setoriais relativas à CDE e conta PROINFA, e para o ONS a ser cobrado de cada usuário do
+sistema de transmissão.
+4.3.2. O ONS informa à ANEEL os valores totais a serem arrecadados por cada agente de transmissão a título
+de CDE e conta PROINFA no respectivo mês de apuração.
+Endereço na internet: http://www.ons.org.br 13 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+4.4. Elaboração do Relatório de Apuração Mensal de Serviços e Encargos de Transmissão
+4.4.1. O ONS elabora o Relatório de Apuração Mensal de Serviços e Encargos de Transmissão (RAMSET),
+contendo os resultados da apuração mensal de serviços e encargos, e o disponibiliza aos agentes envolvidos
+e à ANEEL.
+4.4.2. Os agentes envolvidos analisam os dados relativos às suas receitas ou encargos apresentados no
+RAMSET, e, quando julgarem necessário, encaminham ao ONS os seus comentários e dúvidas, bem como a
+solicitação de retificação de valores.
+4.4.3. O ONS analisa a solicitação dos agentes e, quando de acordo, retifica os valores na apuração de
+serviços e encargos do mês seguinte.
+5. ACOMPANHAMENTO DA LIQUIDAÇÃO DOS ENCARGOS
+5.1. Os agentes de transmissão e os usuários atualizam, junto ao ONS, os dados necessários ao acesso aos
+sistemas computacionais destinados a consultas e processos de consistência de cálculos, bem como os dados
+necessários à devida operacionalização do processo de faturamento e de liquidação dos encargos.
+5.2. O ONS disponibiliza a todos os agentes envolvidos no processo de apuração mensal de serviços e
+encargos os dados institucionais e demais informações atualizadas, necessárias à atividade de faturamento
+e liquidação recebidos de cada usuário e agente de transmissão.
+5.3. Os agentes de transmissão e o ONS, de posse dos AVC e dos dados institucionais atualizados, emitem os
+documentos de cobrança cabíveis a cada usuário do sistema de transmissão, conforme prazos estabelecidos
+no CUST.
+5.3.1. Os valores a serem faturados são consistidos até a segunda casa decimal (centavos) evitando erros
+nos documentos de cobrança.
+5.3.2. No caso de atraso no pagamento, os agentes de transmissão e o ONS consideram as seguintes regras
+para o cálculo das multas:
+(a) atualização pelo índice Geral de Preços do Mercado (IGPM), conforme estabelecido no CUST, com, no
+mínimo, 4 casas decimais;
+(i) Exemplo: parcela vencida em 15/03/20XX e pagamento em 04/04/20XX: Para o período devedor
+de 15/03/20XX a 31/03/20XX, usa-se o IGPM de Fev/20XX (com 31 dias corridos do mês de
+março/20XX) e para o período de 01/04/20XX a 04/04/20XX, usa-se o IGPM de Mar/20XX (com 30
+(trinta) dias corridos de abril/20XX) e considera-se como período devedor: 16 (dezesseis) dias em
+março e 04 (quatro) dias em abril.
+(15)
+(b) para o cálculo de juros, é adotado o ano civil (365 dias);
+(c) sobre o capital, são aplicadas atualização monetária, multa e juros, exatamente nessa ordem;
+(i) atualização monetária sobre o principal: (principal) x var IGPM;
+(ii) multa sobre o principal acrescido da atualização monetária: multa x (principal + var IGPM);e
+Endereço na internet: http://www.ons.org.br 14 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+(iii) juros sobre o principal acrescido da atualização monetária e da multa: juros x (principal + var
+IGPM + multa).
+(d) quando o pagamento ocorrer após o vencimento, deve ser calculada a proporcionalidade do valor
+pago correspondente ao principal, a atualização monetária, a multa e os juros. Sobre o saldo principal
+restante, incidem os acréscimos moratórios, desde a data de vencimento até a data de pagamento.
+5.4. No caso de pendência de pagamento, os agentes de transmissão encaminham ao ONS, quando julgarem
+necessário, a solicitação de acionamento do mecanismo de garantia financeira associada ao usuário devedor.
+Serão considerados também como motivo para avaliação pelo ONS, de acionamento do Instrumento de
+Garantia Financeira, eventuais valores devidos referentes ao próprio ONS, no que se refere às suas parcelas
+de direito, quando assim forem identificadas e estiverem vinculadas ao CUST e seu respectivo instrumento
+de garantia.
+5.5. O ONS avalia a prioridade do atendimento de solicitação de acionamento do mecanismo de garantia
+financeira, considerando valor da dívida, duração do atraso do pagamento, quantidade de concessões
+reclamantes ou outros fatores específicos que julgar relevantes.
+5.6. O ONS inicia o processo de acionamento do instrumento de garantia financeira de interesse dos agentes
+de transmissão, conforme estabelecido no CUST, encaminhando à respectiva instituição garantidora ou
+fiadora, documento com a solicitação do acionamento da garantia, compreendendo os valores reclamados
+por todas as concessões de transmissão solicitantes.
+5.7. O ONS pode, com base nos critérios definidos na regulamentação ou contratos, quando verificar
+inadimplência de um usuário, iniciar o processo de acionamento do Instrumento de Garantia Financeira sem
+a necessidade de solicitação por parte dos agentes de transmissão, quando se tratar de etapa pré-
+operacional ou pré-energização de empreendimentos, ou seja, empreendimentos que ainda não obtiveram
+respectivamente a Declaração de Atendimento aos Requisitos dos Procedimentos de Rede para Início da
+Operação em Definitiva (DAPR/D) ou Declaração de Atendimento aos Requisitos dos Procedimentos de Rede
+para Energização (DAPR/E), associadas aos respectivos CUST.
+5.7.1. O ONS instrui o banco gestor ou instituição financeira responsável pela operacionalização da execução
+da garantia, conforme definido nos respectivos Instrumentos de Garantia Financeira ou no CUST.
+5.8. Após identificação da necessidade de acionamento da garantia financeira conforme item 5.5. , o ONS
+notifica o agente inadimplente, que tem o prazo de 1 mês após notificado para a quitação de seus débitos.
+Após o decurso de prazo citado, o ONS avalia novamente a prioridade como objeto de acionamento. Uma
+vez confirmada a decisão de execução de garantia, prossegue-se conforme disposto no item 5.6.
+5.9. Após ser formalmente notificado pelo agente de transmissão do pagamento parcial pelo usuário, sem a
+realização do rateio proporcional entre os prestadores de serviço e o ONS, este informa imediatamente o
+fato à ANEEL para a aplicação das penalidades cabíveis, sem prejuízo do acionamento das garantias
+estabelecidas e da incidência dos encargos moratórios devidos.
+6. EMISSÃO DE RELATÓRIOS ANUAIS
+6.1. O ONS encaminha anualmente à ANEEL:
+(a) relatório de acompanhamento das diferenças entre o MUST contratado e a demanda máxima medida,
+por horário e ponto de conexão, conforme [1][2], contendo:
+(1) casos de sobrecontratação e de ultrapassagem de distribuidoras;
+(2) encargos efetivamente cobrados a título de ineficiência de contratação por ultrapassagem; e
+Endereço na internet: http://www.ons.org.br 15 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+(3) encargos apurados a título de ineficiência de contratação por sobrecontratação a serem aplicados
+no ciclo tarifário subsequente.
+(b) relatório de apuração das Parcelas Variáveis, conforme [6], contendo:
+(1) atrasos, indisponibilidades, restrições de capacidade operativa e os descontos das parcelas
+variáveis associadas a cada evento, considerados nos processos de apuração mensal de serviços e
+encargos, para as FT integrantes das instalações de Rede Básica e Interligações Internacionais.
+(2) FT por concessão que tiveram os limites de descontos de Parcela Variável por Indisponibilidade
+(PVI); Parcela Variável de FT Conversora (PVC) e Parcela Variável por Restrição Operativa (PVRO)
+atingidos, conforme[6].
+(c) relatório contendo o número de Outros Desligamentos de FT que ultrapassou o correspondente
+Padrão de Frequência de Outros Desligamentos, no período contínuo de doze meses anteriores ao da
+apuração mensal de serviços e encargos, incluindo este, conforme [6].
+(d) base de dados de receitas apuradas, contendo as receitas a serem creditadas a cada agente de
+transmissão entre os meses de junho a maio do ano seguinte, incluindo a discriminação das
+antecipações, como subsídio ao processo de revisão tarifária, conforme [1][2].
+7. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de
+Transmissão de Energia Elétrica no Sistema Elétrico Nacional. Módulo 5 - Acesso ao Sistema.
+[2] ANEEL. Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de
+Transmissão de Energia Elétrica no Sistema Elétrico Nacional. Módulo 6 - Coordenação e Controle
+da Operação.
+[3] ANEEL. Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de
+Transmissão de Energia Elétrica no Sistema Elétrico Nacional. Módulo 2 - Classificação das
+Instalações.
+[4] ANEEL. Resolução Normativa nº 349, de 13 de janeiro de 2009.
+[5] ANEEL. Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de
+Transmissão de Energia Elétrica no Sistema Elétrico Nacional. Módulo 3 - Instalações e
+Equipamentos de Transmissão.
+[6] ANEEL. Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de
+Transmissão de Energia Elétrica no Sistema Elétrico Nacional. Módulo 4 - Prestação dos Serviços.
+[7] Lei nº 9.427 de 26 de dezembro de 1996.
+[8] ANEEL, Resolução Normativa nº 954, de 30 de novembro de 2021.
+8. ANEXOS
+Anexo A - Detalhamento das parcelas que compõem os valores mensais de encargos (VME)
+Anexo B - Detalhamento das parcelas que compõem os valores mensais de serviços (VMST)
+Anexo C - Apuração de Parcela Variável (PV)
+Endereço na internet: http://www.ons.org.br 16 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+Endereço na internet: http://www.ons.org.br 17 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+ANEXO A - DETALHAMENTO DAS PARCELAS QUE COMPÕEM OS VALORES MENSAIS DE ENCARGOS (VME)
+A.1. Os valores mensais de encargos atribuídos à cada usuário das instalações de Rede Básica, Interligações
+Internacionais, de TRFR e DIT de uso compartilhado, são apurados da seguinte forma, conforme [1][2]:
+(A1-1)
+(A1-2)
+Sendo,
+EUST RB e EUST FR: encargos relativos à contratação do uso do sistema de transmissão na
+PER PER
+modalidade permanente de instalações de Rede Básica e de instalações de TRFR e DIT de uso
+compartilhado, respectivamente
+EUST RB e EUST FR: encargos relativos à redução de forma onerosa do MUST contratado na
+RO RO
+modalidade permanente, de instalações de Rede Básica e de instalações de TRFR e DIT de uso
+compartilhado, respectivamente
+EUST : encargo relativo à contratação do uso de capacidade remanescente do sistema de transmissão
+T
+por tempo determinado na modalidade temporária de instalações de Rede Básica, firmados por
+agentes signatários de CUST associados a centrais de geração
+EUST RB e EUST FR: encargos relativos à contratação do uso de capacidade remanescente do
+FLEX FLEX
+sistema de transmissão por tempo determinado na modalidade flexível de instalações de Rede Básica
+e de instalações de TRFR e DIT de uso compartilhado, respectivamente, firmados por unidades
+consumidoras diretamente conectadas à Rede Básica, distribuidoras e produtores independentes e
+autoprodutores quando a carga própria for superior à geração
+EUST : encargo relativo à contratação do uso de capacidade remanescente do sistema de transmissão
+RC
+por tempo determinado na modalidade reserva de capacidade de instalações de Rede Básica, firmados
+por agentes responsáveis por central de geração com unidades consumidoras conectadas às
+instalações de interesse exclusivo do gerador
+EUST : encargo relativo ao uso do sistema de transmissão para fins de importação e exportação
+IE
+firmados por agentes de importação e exportação diretamente conectados à Rede Básica e por
+agentes autorizados a importar e exportar energia por meio de Interligações Internacionais.
+ETUSD : encargo atribuído às distribuidoras que tenham CUST celebrado com o ONS e CUSD
+g-T
+celebrados com os agentes responsáveis por centrais geradoras conectadas a Redes Unificadas,
+destinado às agentes de transmissão
+ETUSD : encargo atribuído às distribuidoras que tenha CUST celebrado com o ONS e CUSD
+g-ONS
+celebrado com os agentes responsáveis por centrais geradoras conectadas a Redes Unificadas,
+destinado à remuneração do orçamento do ONS
+EUST : encargo atribuído às distribuidoras detentoras das respectivas quotas-partes de potência
+ITAIPU
+contratada da usina Itaipu Binacional, calculados em função de TUST
+RB
+ADCEUSTRB e ADCEUSTFR: encargos adicionais decorrentes de diferenças entre MUST verificado e MUST
+contratado quanto às instalações de Rede Básica e de instalações de TRFR e DIT de uso compartilhado,
+respectivamente
+Endereço na internet: http://www.ons.org.br 18 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+PIURB e PIUFR: montantes financeiros relativos à parcela de ineficiência por ultrapassagem do MUST
+contratado, quanto às instalações de Rede Básica e de instalações de TRFR e DIT de uso compartilhado
+respectivamente
+PIS: montante financeiro relativo à parcela de ineficiência por sobrecontratação em relação ao MUST
+contratado, atribuído apenas às distribuidoras após o encerramento do ano civil
+ERFSRB e ERFSFR: montantes financeiros relativos ao ressarcimento às agentes de transmissão em caso
+de sobrecarga de transformadores de Rede Básica e de TRFR, respectivamente, integrantes de
+concessões de transmissão causada por valor de demanda acima do MUST contratado
+VMERET e VMERET : montantes financeiros relativos às diferenças entre valores atualizados ou
+RB FR
+corrigidos e os valores utilizados em apurações anteriores, referentes a quaisquer das demais parcelas
+que compõem VMERB e VMEFR, respectivamente
+A.1.1. Cálculo do EUST
+PER
+A.1.1.1. Os EUST relativos ao CUST permanente são calculados em base mensal, independentemente do
+efetivo uso do sistema, conforme [1][2].
+A.1.1.2. No mês de início de execução de novo ponto de contratação do CUST, os EUST associados ao novo
+ponto de conexão são devidos a partir do dia de início de vigência do novo MUST, o que não afeta os
+demais pontos de conexão.
+A.1.1.3. No caso de agentes de distribuição, os EUST são calculados por ponto de conexão, nos horários de
+PER
+ponta e fora de ponta.
+(A1-3)
+Sendo,
+TUST : TUST , relativas às instalações de Rede Básica, e TUST , relativas às instalações de TRFR e
+P RB FR
+DIT de uso compartilhado, por ponto de conexão contratado, no horário de ponta, do ciclo tarifário
+vigente
+TUST : TUST , relativas às instalações de Rede Básica, e TUST , relativas às instalações de TRFR e
+FP RB FR
+DIT de uso compartilhado, por ponto de conexão contratado, no horário fora de ponta, do ciclo
+tarifário vigente
+MUST : Maior MUST contratado na modalidade permanente, por ponto de conexão, no horário
+PER P
+de ponta, vigente no mês da apuração
+MUST : Maior MUST contratado na modalidade permanente, por ponto de conexão, no horário
+PER FP
+fora de ponta, vigente no mês da apuração
+A.1.1.4. No caso de acesso de unidades consumidoras e de centrais de geração em TRFR e DIT de uso
+compartilhado, o acesso é ao âmbito de distribuição, de forma que a concessionária ou permissionária
+de distribuição local responde pela totalidade dos MUST contratados por esses usuários.
+A.1.1.5. No caso de unidades consumidoras conectadas diretamente à Rede Básica e consumidores e
+autoprodutores com acesso à Rede Básica, em tensão igual ou superior à 230 kV, por meio de instalações
+da Distribuidora local, os EUST são calculados por ponto de conexão, nos horários de ponta e fora de
+PER
+ponta, em função de TUST .
+RB
+Endereço na internet: http://www.ons.org.br 19 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+(A1-4)
+Sendo,
+TUST : TUST relativa às instalações de Rede Básica no horário de ponta, referente ao ciclo
+RB P
+tarifário vigente
+TUST : TUSTrelativa às instalações de Rede Básica no horário fora de ponta, referente ao ciclo
+RB FP
+tarifário vigente
+MUST : Maior MUST contratado na modalidade permanente no horário de ponta, vigente no
+PER P
+mês da apuração
+MUST : Maior MUST contratado na modalidade permanente no horário fora de ponta, vigente
+PER FP
+no mês da apuração
+(a) Unidades consumidoras que fazem uso de energia proveniente de fontes renováveis têm direito a
+desconto na TUST homologada pela ANEEL.
+(A1-5)
+(A1-6)
+Sendo,
+TUST : TUST relativa às instalações de Rede Básica no horário de ponta com aplicação
+RB P INCENTIVADA
+de desconto, referente ao mês do uso de fonte de energia incentivada
+TUST : TUST relativa às instalações de Rede Básica no horário fora de ponta com
+RB FP INCENTIVADA
+aplicação de desconto, referente ao mês do uso de fonte de energia incentivada
+P : percentual de desconto na TUST, obtido pela CCEE, por posto horário, relativo às unidades
+DESC-UC
+consumidoras que utilizem fonte de energia incentivada
+(1) Tendo em vista a inviabilidade de obtenção do P no próprio mês das medições, os descontos
+DESC-UC
+nos EUST das unidades consumidoras contempladas são incluídos no processo da apuração de
+PER
+serviços e encargos de transmissão como valores retroativos de EUST.
+A.1.1.6. No caso de agentes de geração não há posto horário associado aos parâmetros de MUST e TUST para
+o cálculo de EUST .
+PER
+(A1-7)
+Sendo,
+TUST : TUSTrelativa às instalações de Rede Básica do ciclo tarifário vigente
+RB
+MUST : Maior MUST contratado na modalidade permanente, vigente no mês da apuração
+PER
+(a) Agentes de geração com CUST associado a empreendimentos de geração caracterizados como fontes
+renováveis de energia têm direito a desconto na TUST, conforme critérios estabelecidos em [6][6],
+mediante autorização regulamentar específica.
+(A1-8)
+Endereço na internet: http://www.ons.org.br 20 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+(A1-9)
+Sendo,
+TUST : TUST com aplicação de desconto em função de classificação de fonte de
+INCENTIVADA
+energia incentivada
+P : percentual de desconto na TUST, estabelecido em regulamentação específica, relativo
+DESC-G
+a empreendimento de geração.
+(1) Para Centrais Geradoras Híbridas sem individualização de medição por tecnologia, o valor P
+DESC-G
+será igual ao menor percentual de desconto correspondente às fontes de energia consideradas na
+outorga, sendo zero caso uma das fontes não seja elegível ao desconto.
+(b) Agentes de geração com CUST referentes a Centrais Geradoras Híbridas com medição individualizada
+por tecnologia de geração e centrais Geradoras Associadas têm direito a desconto na TUST, conforme
+critérios estabelecidos em [8].
+(A1-10)
+(A1-11)
+Sendo,
+TUST : TUST com aplicação de desconto em função de classificação de fonte de
+INCENTIVADA
+energia incentivada
+P : percentual de desconto na TUST, estabelecido conforme item 1.1.4.
+DESC-G
+(1) Tendo em vista a inviabilidade de obtenção do P no próprio mês das medições, os descontos
+DESC-G
+nos EUST das Centrais Geradoras Híbridas com medição individualizada por tecnologia de
+PER
+geração e centrais Geradoras Associadas contempladas são incluídos no processo da apuração de
+serviços e encargos de transmissão como valores retroativos de EUST.
+A.1.2. Cálculo do EUST
+RO
+A.1.2.1. Os MUST de unidades consumidoras e de distribuidoras contratados na modalidade permanente
+podem ser reduzidos, conforme critérios estabelecidos em [1][2].
+A.1.2.1.1. Caso a redução do MUST seja superior ao limite estabelecido [1][2], esta redução ocorre de forma
+onerosa por meio de EUST , calculado por ponto de conexão, nos horários de ponta e fora de ponta.
+RO
+(A1-12)
+Sendo,
+TUST : TUST , relativas às instalações de Rede Básica, e TUST , relativas às instalações de TRFR e DIT
+P RB FR
+de uso compartilhado, no horário de ponta
+TUST : TUST , relativas às instalações de Rede Básica, e TUST , relativas às instalações de TRFR e DIT
+FP RB FR
+de uso compartilhado, referente ao horário fora de ponta
+ΔMUST : redução do MUST superior ao limite estabelecido em [1][2]
+P P
+Endereço na internet: http://www.ons.org.br 21 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+ΔMUST : redução do MUST superior ao limite estabelecido em [1][2]
+FP FP
+N : quantidade de meses associados à vigência do valor do MUST reduzido de forma onerosa até o
+RO
+final do terceiro ano civil subsequente
+A.1.2.1.2. As reduções de MUST que ocorrem de forma onerosa não serão consideradas no ciclo tarifário
+vigente no momento da solicitação.
+A.1.2.1.3. A liquidação dos EUST ocorre na primeira apuração após a redução e efetuada uma única vez.
+RO
+A.1.2.2. Os MUST de contratos em caráter permanente de Centrais Geradoras Híbridas e Associadas podem
+ser reduzidos, conforme critérios estabelecidos em [8].
+A.1.2.2.1. Caso a redução do MUST seja superior ao limite estabelecido em [8], esta redução ocorre de forma
+onerosa por meio de EUST , calculado da forma a seguir:
+RO
+(A1-13)
+Sendo,
+TUST: TUST vigente no primeiro mês da redução onerosa, homologada pela ANEEL no caso das
+Centrais de Geração Híbrida, ou calculadas conforme [8], no caso das Centrais Geradoras Associadas.
+ΔMUST: redução do MUST superior ao limite estabelecido em [8].
+N : quantidade de meses associados à vigência do valor do MUST reduzido de forma onerosa até
+RO
+fim do terceiro ano civil subsequente, conforme [8]
+A.1.2.2.2. As reduções de MUST que ocorrem de forma onerosa não serão consideradas no ciclo tarifário
+vigente no momento da solicitação e devem ser solicitadas ao ONS até dia 31 de março anterior ao ciclo
+tarifário da data de início da redução pretendida.
+A.1.2.2.3. A liquidação dos EUST ocorre na primeira apuração após a redução e é efetuada uma única vez.
+RO
+A.1.3. Cálculo do EUST
+T
+A.1.3.1. Os EUST relativos ao CUST na modalidade temporária, EUST , são apurados mensalmente e devidos
+T
+a partir dos valores medidos de energia elétrica.
+(A1-14)
+Sendo,
+TUST : TUST estabelecida conforme [1][2], em R$/MWh, aplicável no ponto de conexão à Rede
+TEMP
+Básica contratado em caráter temporário, referente ao mês da medição
+E: energia elétrica medida, em MWh
+A.1.4. Cálculo do EUST
+FLEX
+Endereço na internet: http://www.ons.org.br 22 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+A.1.4.1. Os EUST relativos ao CUST na modalidade flexível, EUST , são calculados no mês anterior ao da
+FLEX
+apuração.
+A.1.4.2. Os EUST atribuídos a unidades consumidoras, produtores independentes e autoprodutores
+FLEX
+quando a carga própria for superior à geração, conectados à Rede Básica, são devidos em base mensal e
+apenas nos meses em que ocorrer o uso, por horário de contratação, e sobre o MUST total contratado
+em caráter flexível.
+(A1-15)
+Sendo,
+TUST : TUST estabelecida conforme [1][2] aplicável à contratação em caráter flexível no horário
+RB FLEX P RB
+de ponta, referente ao mês da medição
+TUST TUST estabelecida conforme [1][2], aplicável à contratação em caráter flexível no
+RB FLEX FP: RB
+horário de ponta, referente ao mês da medição
+MUST : MUST contratado em caráter flexível no horário de ponta, referente ao mês da medição
+FLEX P
+MUST : MUST contratado em caráter flexível no horário fora de ponta, referente ao mês da
+FLEX FP
+medição
+A.1.4.3. Os EUSTFLEX atribuídos às distribuidoras são devidos apenas nos dias em que ocorrer o uso, por
+horário de contratação, e sobre o MUST total contratado em caráter flexível.
+(A1-16)
+Sendo,
+TUST : TUST , relativas às instalações de Rede Básica, e TUST , relativas às instalações de TRFR e
+FLEX P RB FR
+DIT de uso compartilhado, estabelecidas conforme [1][2], aplicável à contratação em caráter flexível
+no horário de ponta, referentes ao mês da medição
+TUST TUST , relativas às instalações de Rede Básica, e TUST , relativas às instalações de TRFR e
+FLEX FP: RB FR
+DIT de uso compartilhado, estabelecidas conforme [1][2], aplicável à contratação em caráter flexível
+no horário fora de ponta, referentes ao mês da medição
+N : quantidade de dias de uso do MUST
+FLEX P FLEX P
+N : quantidade de dias de uso do MUST
+FLEX FP FLEX FP
+N : quantidade de dias do mês
+MÊS
+A.1.5. Cálculo do EUST
+RC
+A.1.5.1. Os EUST relativos ao CUST na modalidade de reserva de capacidade, EUSTRC, são calculados em
+função da medição no mês anterior ao da apuração, sendo devido apenas nos dias em que ocorrer o uso,
+por horário de contratação, e sobre o MUST contratado em caráter de reserva de capacidade.
+(A1-17)
+Endereço na internet: http://www.ons.org.br 23 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+Sendo,
+TUST : TUST relativas às instalações de Rede Básica no horário de ponta, referente ao mês da
+RB P
+medição
+TUST : TUST relativas às instalações de Rede Básica no horário fora de ponta, referente ao mês da
+RB FP
+medição
+N : quantidade de dias do mês em que ocorreu o uso da reserva de capacidade no horário de ponta
+RC-P
+N : quantidade de dias do mês em que ocorreu o uso da reserva de capacidade fora do horário de
+RC-FP
+ponta
+N : quantidade de dias do mês
+MÊS
+(a) Caso os valores de N e/ou N , acumulados no ciclo tarifário, sejam superiores a 60 dias, os EUST
+RC-P RC-FP RC
+relativos aos dias após a superação citada, são calculados com os valores de TUST e/ou TUST ,
+RB P RB FP
+respectivamente, multiplicadas por 4.
+A.1.6. Cálculo do EUST
+IE
+A.1.6.1. Os EUST para fins de importação/exportação são devidos a partir dos valores medidos de energia
+IE
+elétrica.
+(A1-18)
+Sendo,
+TUST : TUST estabelecida conforme [1][2], em R$/MWh, aplicável no ponto de conexão
+IMP/EXP
+à Rede Básica contratado para importação ou exportação, referente ao mês da medição
+E: energia elétrica medida, em MWh
+A.1.6.2. Caso o importador/exportador seja usuário de Interligações Internacionais o EUST será apurado em
+IE
+função da TUII.
+(A1-19)
+Sendo,
+TUII: TUST estabelecida conforme [1][2], referente ao mês da medição
+E: energia elétrica medida, em MWh
+A.1.7. Apuração de ETUSD e ETUSD
+g-T g-ONS
+A.1.7.1. Os ETUSD e ETUSD são atribuídos apenas às concessionárias ou permissionárias de distribuição
+g-T g-ONS
+que tenham CUST celebrado com o ONS e CUSD celebrado com os agentes responsáveis por centrais
+geradoras conectadas a Redes Unificadas, calculados como sendo um duodécimo do valor anual
+homologado pela ANEEL.
+A.1.7.2. Os valores de ETUSD são destinados exclusivamente à composição da receita mensal do ONS.
+g-ONS
+A.1.7.3. Os valores de ETUSD são destinados aos agentes de transmissão na proporção do somatório de
+g-T
+suas receitas associadas a Rede Básica e Interligações Internacionais.
+Endereço na internet: http://www.ons.org.br 24 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+A.1.8. Cálculo de EUST
+ITAIPU
+A.1.8.1. Os EUST referem-se à potência oriunda da Itaipu Binacional e são atribuídos apenas pelos
+ITAIPU
+detentores das respectivas quotas-partes da potência contratada junto a esta usina, com referência ao
+próprio mês da apuração.
+(A1-20)
+Sendo,
+TUST : Tarifa de uso da UHE Itaipu
+ITAIPU
+P Potência máxima contratada por UHE Itaipu no ano civil
+ITAIPU:
+Q Quota parte para rateio da potência de UHE Itaipu, associada a cada usuário
+PITAIPU:
+A.1.9. Cálculo do ADCEUST
+A.1.9.1. Considerando a inviabilidade da obtenção dos valores medidos de MUST no mês da apuração de
+serviços e encargos e, conforme [1][2], para o cálculo de EUST deve ser considerado o maior valor de
+MUST entre o contrato e o verificado, é necessária, mensalmente, a apuração desta diferença,
+denominada ADCEUST.
+A.1.9.2. No caso de unidades consumidoras e distribuidoras com CUST na modalidade permanente, os
+ADCEUST são calculados da seguinte forma:
+(A1-21)
+Sendo,
+MUST : MUST contratado na modalidade permanente, no horário de ponta, vigente no mês da
+PER P
+apuração
+MUST : MUST contratado na modalidade permanente, no horário fora de ponta, vigente no mês
+PER FP
+da apuração
+TUST : TUST , relativas às instalações de Rede Básica, e TUST , relativas às instalações de TRFR e DIT
+P RB FR
+de uso compartilhado, referente ao horário de ponta
+TUST : TUST , relativas às instalações de Rede Básica, e TUST , relativas às instalações de TRFR e DIT
+FP RB FR
+de uso compartilhado, referente ao horário fora de ponta
+MUST : Maior MUST verificado no horário de ponta no mês de apuração, quando este for maior que
+V P
+MUST
+PER P
+MUST : Maior MUST verificado no horário fora ponta no mês de apuração, quando este for maior
+V FP
+que MUST
+PER FP
+(a) No caso em que distribuidoras têm contratados MUST na modalidade flexível, ou no caso em que
+unidades consumidoras, autoprodutores ou produtores independentes têm contratados MUST na
+modalidade de reserva de capacidade, o ADCEUST é determinado em função do MUSTv configurado
+no dia em que ocorrer a maior diferença entre MUSTv e o somatório dos montantes contratados e
+ativos neste dia.
+A.1.9.3. No caso de agentes de geração com CUST na modalidade permanente, os ADCEUST são calculados
+da seguinte forma:
+Endereço na internet: http://www.ons.org.br 25 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+(A1-22)
+Sendo,
+MUST : MUST contratado na modalidade permanente vigente no mês da apuração
+PER
+TUST: TUST , relativas às instalações de Rede Básica, e TUST , relativas às instalações de TR e DIT
+RB FR FR
+de uso compartilhado
+MUST : Maior MUST verificado no mês de apuração
+V
+(a) No caso de agentes de geração com direito a desconto na TUST, para o cálculo do ADCEUST são
+analisadas as seguintes situações:
+(1) Se MUSTv ≤ P :
+incentivada
+(A1-23)
+Sendo,
+MUST : MUST contratado na modalidade permanente vigente no mês da apuração
+PER
+MUSTv: Maior MUST verificado no mês
+TUST com aplicação de desconto em função de classificação de fonte de energia incentivada
+P : Potência máxima considerada como requisito, segundo a regulamentação
+INCENTIVADA
+vigente, para aplicação de percentual de redução na TUST
+(2) Se MUSTv > P , o agente de geração perde o direito ao desconto na TUST..
+incentivada
+(3) Para as centrais geradoras hibridas com individualização da medição por tecnologia de geração e
+as centrais geradoras associadas a perda de incentivo se dará conforme regulamentação [8].
+A.1.9.4. Como a informação do MUSTv refere-se ao mês anterior ao da apuração, além do ADCEUST, os EUST
+cobrados a menor na apuração anterior são compensados retroativamente na apuração atual.
+A.1.9.5. No caso em que os EUST relativos a novos pontos de contratação são calculados proporcionalmente
+a partir do dia da execução do MUST, conforme item A.1.1.2. deste submódulo, o ADCEUST é calculado
+da seguinte forma:
+(A1-24)
+Sendo,
+MUST : MUST contratado na modalidade permanente vigente no mês da apuração
+PER
+MUSTv: Maior MUST verificado no mês
+N : Quantidade de dias de execução do MUST no mês
+DIASMUST PER
+N : Quantidade de dias do mês
+DIASMÊS
+A.1.10. Apuração da PIU
+A.1.10.1. A avaliação da eficiência da contratação do uso do sistema de transmissão é contabilizada por meio
+da apuração das diferenças entre os MUST contratados e a demanda máxima medida por posto horário
+e ponto de conexão, conforme Submódulo 6.8, com aplicação de tarifa de ultrapassagem igual a três
+vezes ao valor da TUST, conforme [1][2].
+Endereço na internet: http://www.ons.org.br 26 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+A.1.10.2. No caso de usuários com desconto na TUST, a parcela associada à PIU será apurada considerando-
+se a TUST sem desconto.
+A.1.10.3. No caso de unidades consumidoras ou produtores independentes e autoprodutores com MUST
+contratados no segmento de consumo, a PIU é apurada com a aplicação da tarifa de ultrapassagem, por
+posto horário e ponto de conexão, em função dos montantes apresentados na Tabela A1.
+Tabela A1 - Montante exposto à aplicação da tarifa de ultrapassagem - unidades consumidoras ou produtores
+independentes e autoprodutores contratados no segmento de consumo
+Situação MUST contratado Montante exposto à aplicação da tarifa de
+ultrapassagem
+(i) MUST
+PER
+(ii) MUST e MUST
+PER FLEX ) + ]
+(iii) MUST e MUST
+PER RC ) + ]
+(iv) MUST e MUST sendo MUST =
+PER RC, PER
+0
+(v) MUST , MUST e MUST
+PER FLEX RC )+
+]
+(a) Em função da apuração do EUST na modalidade de reserva de capacidade ser caracterizado em base
+diária (pro rata dia), conforme Submódulo 6.8, para o cálculo dos adicionais de ultrapassagem das
+situações (iv) e (v) da Tabela A1, é considerado o máximo montante exposto à aplicação da tarifa de
+ultrapassagem, apurado dentre todos os dias do mês.
+(b) Considerando as situações apresentadas na Tabela A1, a PIU é calculada da seguinte forma:
+(1) Situação (i): para unidades consumidoras, quando o MUSTv for superior a 105% do montante
+contratado em caráter permanente, na inexistência de contratos de uso em caráter flexível:
+(A1-25)PIU = [3 x TUST x (MUSTv – (1,05 x MUST )] + [3 x TUST x ( MUSTv – (1,05 x MUST )]
+PER P PER FP
+(2) Situação (ii): para unidades consumidoras, quando o MUSTv for superior ao somatório dos
+montantes de 105% dos MUST em caráter permanente com os MUST na modalidade flexível
+contratados no mesmo ponto de conexão.
+(A1-26)PIU = [3 x TUST x (MUSTv – ((1,05 x MUST ) + MUST ))] + [3 x TUST x (MUSTv – ((1,05
+PER FLEX P
+x MUST ) + MUST ))]
+PER FLEX FP
+(3) Situação (iii): para autoprodutores e produtores independentes cuja máxima carga própria é maior
+que a geração e com montante contratado na modalidade de reserva de capacidade. Neste caso,
+quando o MUSTv no ponto de conexão for superior ao somatório de 105% do montante contratado
+em caráter permanente e do contratado na modalidade de reserva de capacidade no mesmo
+ponto de conexão.
+Endereço na internet: http://www.ons.org.br 27 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+(A1-27)PIU = 3 x TUST x MÁXIMO [(MUSTv – ((1,05 x MUST ) + MUST ))] + 3 x TUST x
+P PER RC P FP
+MÁXIMO [(MUSTv – ((1,05 x MUST ) + MUST ))]
+PER RC FP
+(4) Situação (iv): para agentes de geração, inclusive autoprodutor ou produtor independente de
+energia com geração maior que a carga própria quando o MUSTv for superior a 105% do montante
+contratado em caráter de reserva de capacidade. Refere-se ao caso de autoprodutor cuja geração
+é maior que a carga própria e que celebra CUST na modalidade permanente com MUST igual a
+PER
+zero.
+(A1-28)PIU = 3 x TUST x MÁXIMO (MUSTv – (1,05 x MUST ) ] P + 3 x TUST x MÁXIMO [ (
+P RC FP
+MUSTv – ( 1,05 x MUST ) ]
+RC FP
+(5) Situação (v): para autoprodutores e produtores independentes cuja máxima carga própria é maior
+que a geração, com montante contratado nas modalidades de reserva de capacidade e flexível.
+Neste caso, quando o MUSTv no ponto de conexão for superior ao somatório de 105% do
+montante contratado em caráter permanente, do contratado em caráter flexível e do contratado
+na modalidade de reserva de capacidade no mesmo ponto de conexão.
+(A1-29)PIU = 3 x TUST x MÁXIMO [(MUSTv– ((1,05 x MUST ) + MUST + MUST ))] + 3 x T
+P PER FLEX RC P
+TUST x MÁXIMO [(MUSTv – ((1,05 x MUST ) + MUST + MUST ))]
+FP PER FLEX RC FP
+A.1.10.4. No caso de distribuidoras, a PIU é apurada com a aplicação da tarifa de ultrapassagem, por posto
+horário e ponto de conexão, em função dos montantes apresentados na Tabela A2.
+Tabela A2 - Montante exposto à aplicação da tarifa de ultrapassagem - distribuidoras
+Situação MUST contratado Montante exposto à aplicação da tarifa de ultrapassagem
+(i) MUST
+PER
+(ii) MUST e MUST
+PER FLEX ) + ]
+(a) Em função da apuração do EUST na modalidade flexível para as distribuidoras ser caracterizado em
+base diária (pro rata dia), conforme Submódulo 6.8, para o cálculo dos adicionais de ultrapassagem
+na situação (ii) da Tabela A2, é considerado o máximo montante exposto à aplicação da tarifa de
+ultrapassagem, apurado dentre todos os dias do mês.
+(b) Considerando as situações apresentadas na Tabela A2, a PIU é calculada da seguinte forma:
+(1) Situação (i): para ponto de conexão contratado por agentes de distribuição, quando o MUSTv em
+cada ponto de conexão for superior a 110% do montante contratado em caráter permanente, na
+inexistência de contratos de uso em caráter flexível em execução.
+(A1-30)PIU = [3 x TUST x (MUSTv – 1,1 x MUST )] + [3 x TUST x (MUSTv – (1,1 x MUST )]
+PER P PER F P
+Endereço na internet: http://www.ons.org.br 28 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+(2) Situação (ii):para cada ponto de conexão contratado por agentes de distribuição, quando o
+MUSTv for superior ao somatório dos montantes dos contratos em caráter permanente e flexível
+no mesmo ponto de conexão.
+(A1-31)PIU = 3 x TUST x MÁXIMO [(MUSTv – ((1,1 x MUST ) + MUST )] + 3 x TUST x
+P PER FLEX P FP
+MÁXIMO [(MUSTv – ( (1,1 x MUST ) + MUST )]
+PER FLEX FP
+A.1.10.5. No caso de agentes de geração, incluindo autoprodutor ou produtor independente de energia com
+geração maior que a carga própria, a PIU é apurada, com a aplicação da tarifa de ultrapassagem, em
+função dos montantes apresentados na Tabela A4.
+Tabela A3 - Montante exposto à aplicação da tarifa de ultrapassagem - agentes de geração ou autoprodutor ou
+produtor independente de energia com geração maior que a carga própria
+Situação MUST contratado Montante exposto à aplicação da tarifa de ultrapassagem
+(i) MUST
+PER
+(a) Considerando a situação (i) apresentada na Tabela A3, a PIU é calculada da seguinte forma:
+(A1-32) PIU = 3 x TUST x [MUSTv – (1,01 x MUST ))]
+PER
+A.1.11. Apuração da PIS
+A.1.11.1. Após o encerramento do ano civil é verificada a máxima demanda medida no ano anterior e
+apurado o valor da PIs, a ser atribuída à distribuidora, conforme [1][2].
+(A1-33)
+Sendo,
+PIS: parcela de ineficiência por sobrecontratação a ser cobrada da distribuidora, por ponto de conexão
+associada à TUST
+RB
+D demanda máxima anual medida no ponto de conexão quando inferior a 90% do MUST
+máx anual-P:
+contratado no mesmo ponto de conexão no horário de ponta
+D : demanda máxima anual medida no ponto de conexão quando inferior a 90% do MUST
+máx anual-P
+contratado no mesmo ponto de conexão no horário fora de ponta
+A.1.11.2. No caso específico em que, durante o ano civil, o MUSTPER de um determinado ponto de conexão
+tenha sofrido alteração de valor, a PIS será determinada pelo maior valor apurado no ano civil, da razão
+entre a demanda máxima verificada e o MUST contratado apurado mensalmente.
+A.1.12. Apuração do ERFS
+A.1.12.1. O ERFS é devido em caso de sobrecarga em transformadores integrantes de concessões de
+transmissão causada por valor de demanda acima dos MUST contratados.
+Endereço na internet: http://www.ons.org.br 29 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+A.1.12.2. Dependendo do agente causador da sobrecarga, os montantes de ressarcimento financeiro
+associados aos usuários são considerados da seguinte forma:
+(a) quando a sobrecarga for originada por usuários, o valor de ERFS é considerado na apuração mensal
+de encargos dos respectivos usuários;
+(b) quando a sobrecarga for decorrente da coordenação da operação pelo ONS, atendendo a razões
+sistêmicas, ou não forem identificados agentes causadores pela mesma, o valor de ERFS é rateado
+entre todos os usuários da Rede Básica, na proporção dos MUST contratados por cada um no mês de
+apuração, conforme item A.1.12.3. deste submódulo; ou
+(c) quando a sobrecarga for decorrente da coordenação da operação pelo ONS, por motivos outros que
+os citados no item A.1.12.2. (b) deste submódulo, o seu valor somente é apresentado no RAMSET,
+devendo ser faturado à parte pelo agente de transmissão contra o ONS.
+(A1-34)
+Sendo,
+ERFSr: ressarcimento financeiro por sobrecargas em transformadores, calculado conforme
+i
+(A1-23), provocadas pelo usuário “i”
+ERFSs: somatório dos valores de ressarcimentos atribuídos ao usuário “i”, calculado
+i
+conforme (A1-24), referente a sobrecargas sem a identificação de agentes causadores, ou
+motivadas por ações ou omissões do ONS, por razões sistêmicas
+(A1-35)
+AFS: adicional financeiro por sobrecarga atribuído ao agente de transmissão, calculado
+conforme item B.1.2 deste submódulo
+MUST: corresponde ao MUST total contratado pelo usuário “i” no mês de apuração,
+i
+excluídas as contratações de uso temporárias que não apresentavam demanda durante o
+período da sobrecarga
+MUST: corresponde ao somatório dos MUST contratados por todos os usuários no mês de
+j
+apuração, excluídas as contratações de uso temporárias que não apresentavam demanda
+durante o período da sobrecarga
+A.1.12.3. O valor de ressarcimento financeiro referente a sobrecargas sem a identificação de agentes
+causadores ou motivadas por coordenação da operação do ONS atendendo a razões sistêmicas é rateado
+entre todos os usuários da Rede Básica, excluídas as contratações de uso temporárias que não
+apresentavam demanda durante o período da sobrecarga.
+A.1.13. Apuração do VMERET
+A.1.13.1. O pedido de retificação de um agente é analisado pelo ONS e, se julgado procedente, a respectiva
+alteração é incluída na apuração mensal de serviços e encargos, constando em um item à parte do
+relatório, para possibilitar a adequada contabilização do recurso pelo agente requisitante e informar aos
+demais agentes.
+A.1.13.2. Quando confirmada a existência de atualização ou correção de parâmetros utilizados no cálculo de
+quaisquer parcelas que compõem o VME de meses anteriores, o ONS recontabiliza a parcela e calcula as
+Endereço na internet: http://www.ons.org.br 30 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+diferenças entre o valor apurado e o revisto, incorporando a diferença na apuração vigente,
+considerando eventuais restrições de compensação no próprio mês.
+(a) Caso não seja possível efetuar a compensação no mês vigente do montante integral da diferença
+citada no item A.1.13.2. deste submódulo, o valor remanescente é incorporado nas apurações
+seguintes.
+A.1.13.3. O ONS considera os valores históricos a serem retificados, sem correção monetária, juros ou
+qualquer reajuste.
+Endereço na internet: http://www.ons.org.br 31 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+ANEXO B - DETALHAMENTO DAS PARCELAS QUE COMPÕEM OS VALORES MENSAIS DE SERVIÇOS (VMST)
+B.1. Os valores mensais de serviços de transmissão correspondente ao serviço prestado por cada agente de
+transmissão “t” relativos às suas instalações da Rede Básica e Interligações Internacionais são apurados
+da seguinte forma:
+(B1-1)
+Sendo,
+RMIO (Receita Mensal das Instalações de Rede Básica e Interligações Internacionais): corresponde à
+soma dos Pagamentos Base (PB) relativas às instalações em operação comercial, pertencentes a uma
+agente de transmissão
+AFSRB (Adicional Financeiro por Sobrecarga relativo à Rede Básica e Interligações Internacionais):
+corresponde à soma dos adicionais de receita mensal decorrentes da operação de transformadores da
+Rede Básica e Interligações Internacionais pertencentes a uma agente de transmissão, em condições
+de sobrecarga que ocasionem perda adicional de vida útil
+RFSRB (Ressarcimento Financeiro por Sobrecarga relativo à Rede Básica e Interligações Internacionais):
+corresponde à soma dos montantes financeiros decorrentes de sobrecarga provocada pela agente de
+transmissão em transformadores da Rede Básica e Interligações Internacionais de outras agentes de
+transmissão
+PVRB: corresponde à soma dos descontos de receita devido às indisponibilidades, restrições operativas
+temporárias, cancelamentos de intervenções previamente aprovadas pelo ONS, e atrasos de entrada
+em operação de novas FT integrantes da Rede Básica e Interligações Internacionais
+RTLIRB (Receita não devida de Termo de Liberação de instalações de Rede Básica e Interligações
+Internacionais): corresponde à soma das parcelas suprimidas das receitas RMIO, em decorrência da
+emissão de Termos de Liberação que indiquem a existência de pendências não impeditivas próprias
+conforme [1][2]
+B.1.1 Cálculo da RMIO
+B.1.1.1. O valor da RMIO corresponde ao somatório dos Pagamento Base das instalações em operação
+comercial.
+B.1.1.2. A incorporação na receita mensal do valor do PB de uma determinada FT considera as disposições
+relativas à suspensão dessas receitas, conforme [1], [2] e [6].
+B.1.2 Cálculo da AFS
+B.1.2.1. O valor de AFS corresponde ao somatório dos valores de adicional financeiro relacionado à
+quantidade de transformadores integrantes da Rede Básica de uma determinada concessão de
+transmissão, com ocorrências de sobrecargas registradas, apuradas e aprovadas.
+(B1-2)
+Sendo,
+AFS: valor total de adicional financeiro a ser creditado ao agente de transmissão, devido a sobrecargas
+em seus transformadores
+Endereço na internet: http://www.ons.org.br 32 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+AFSRB: valor de adicional financeiro a ser creditado ao agente de transmissão, devido a sobrecargas no
+i
+equipamento “i”, calculado conforme (B1-4)
+m: quantidade de transformadores integrantes da Rede Básica de uma determinada concessão de
+transmissão, com ocorrências de sobrecargas
+(B1-3)
+PB: PB da FT correspondente ao transformador “i” no mês de ocorrência da sobrecarga
+i
+Si: fator de carregamento referente ao transformador “i”, com valor > 1, resultante dos processos
+definidos no Submódulo 6.7
+B.1.3 Cálculo do RFS
+B.1.3.1. Quando verificada sobrecarga em transformador provocada por agente de transmissão “r”, não
+proprietário do transformador, é descontado na apuração da receita mensal de serviços de transmissão
+deste agente “r”, o valor de RFS.
+(B1-4)
+Sendo,
+RFSr: ressarcimento financeiro por sobrecarga, a ser descontado de cada agente de transmissão “r”
+responsabilizado por sobrecarga em transformador de propriedade de outro agente de transmissão
+n: quantidade de equipamentos com ocorrências de sobrecargas ocasionadas pelo agente
+responsabilizado “r”
+AFS: adicional financeiro por sobrecarga ocorrida no transformador “j”
+j
+PRjr: percentual de responsabilidade do agente “r” na sobrecarga no equipamento “j”, conforme
+resultado do processo estabelecido no Submódulo 6.7
+B.1.4 Apuração de PVRB
+B.1.4.1. Resultante da apuração dos eventos associados à disponibilidade e à capacidade operativa das
+instalações de transmissão, detalhada no Anexo C deste submódulo.
+B.1.5 Apuração da RTLI
+B.1.5.1. A transmissora fará jus ao recebimento da parcela de RAP por FT liberada para operação, a partir da
+data de liberação especificada nos Termos de Liberação emitidos conforme Submódulo 7.15.
+B.1.5.2. Eventuais diferenças de recebimento de receitas decorrentes de retificações, por parte da ANEEL,
+dos Termos de Liberação são consideradas no reajuste anual de receitas subsequente à publicação da
+decisão.
+Endereço na internet: http://www.ons.org.br 33 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+ANEXO C - APURAÇÃO DE PARCELA VARIÁVEL (PV)
+C.1. A apuração de parcela variável (PV) resulta da análise de desempenho das instalações no que se refere
+à disponibilidade e capacidade ao longo do mês, conforme processo estabelecido no Submódulo 6.7.
+C.2. O montante financeiro total relativo à PV, a ser descontado de cada agente de transmissão “t” no
+montante de VMST, conforme item B.1. deste submódulo, considera os eventos apurados em cada FT
+t
+sob sua responsabilidade.
+(C1-1)
+Sendo,
+PVIROL: valor mensal de desconto que atenda aos limites estabelecidos para a aplicação dos
+descontos financeiros de PV, conforme C.5. , quando da ocorrência de aplicação de PVI e PVRO a
+uma mesma FT exceto FT Conversora, conforme C.5.1. ; ou quando da ocorrência de aplicação de PVC
+a uma mesma FT Conversora, conforme C.5.2.
+PVA: Parcela Variável decorrentes de indisponibilidade por atraso na entrada em operação de novas
+FT da Rede Básica e Interligações Internacionais
+PVCI: Parcela Variável decorrente de cancelamentos de intervenções previamente aprovadas
+PVR: Parcela Variável decorrente de utilização de equipamento reserva remunerado
+C.3. Os critérios e detalhamento de apuração de PV são apresentados em [6].
+C.4. Os critérios e detalhamento de apuração de PVC são apresentados em [6].
+C.5. Quando da ocorrência de aplicação de PVI e PVRO a uma mesma FT, o somatório destas deve ser
+analisado considerando limites de aplicação, sendo que:
+C.5.1. para FT exceto FT Conversora; e
+(C1-2) PVIRO = PVI + PVRO
+Sendo,
+PVIRO: somatório das parcelas variáveis mensais PVI e PVRO imputadas a uma FT
+PVI: Parcela Variável por Indisponibilidade
+PVRO: Parcela Variável por Restrição Operativa
+C.5.2. para FT Conversora.
+(C1-3) PVIRO = PVC
+Sendo,
+PVIRO: somatório das parcelas variáveis mensais PV imputadas a uma FT Conversora
+PVC: Parcela Variável por Indisponibilidade da FT Conversora
+(a) Limite (a): o desconto referente à soma dos valores da PVI, da PVRO de cada FT, ou, no caso de FT
+Conversora, da PVC, dentro do mês de apuração, é limitado a 50% (cinquenta por cento) do valor do
+PB da FT, deslocando-se para os meses subsequente o saldo restante.
+(1) Se (PVIRO + PVIROEX) < 0,5 x PB
+Endereço na internet: http://www.ons.org.br 34 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+(C1-4) PVIROLA = PVIRO + PVIROEX
+Sendo,
+PVIRO: Somatório de PVI, PVRO e PVC atribuídas a uma FT
+PVIROEX: remanescente de PVIRO excedente ao limite de 50% do PB de uma FT no mês anterior
+PVIROLA: somatório de valores apurados de PVI, PVRO, PVC e PVROEX de uma determinada FT,
+afetados da satisfação ao limite (a)
+(2) Se (PVIRO + PVIROEX) >= 0,5 x PB
+(C1-5) PVIROLA = 0,5 x PB
+(b) Limite (b): o somatório dos descontos no período contínuo de doze meses, incluindo os descontos do
+mês da apuração vigente, estará limitado a 25% do somatório dos PB da FT no mesmo período.
+Se
+(C1-6)
+Então
+(C1-7) )
+Se
+(C1-8)
+Então
+(C1-9)
+Sendo,
+m: meses contidos no período entre o mês da apuração das parcelas variáveis (m0) e o décimo
+primeiro mês anterior (m11);
+PVIRO : somatório dos montantes PVI e PVRO de uma FT, ou de PVC para FT Conversora,
+m0A
+configurados no mês da apuração das parcelas variáveis, referentes a eventos ocorridos antes
+daquele que ocasiona a superação do limite (b)
+PVIROEX:remanescente de parcela variável PVIRO excedente ao limite de 50% do PB de uma FT
+m1
+no mês anterior ao da apuração das parcelas variáveis;
+PVIROLB: somatório dos montantes PVI, PVRO e PVIROEX de uma determinada FT, ou para FT
+Conversora, PVC e PVIROEX, afetados da satisfação ao limite (b) de desconto.
+Endereço na internet: http://www.ons.org.br 35 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+(1) No caso da configuração de uma série de eventos de indisponibilidade em FT – distintas ou não
+num determinado mês, a análise do limite (b) para cada evento será efetuada por ordem
+cronológica de ocorrência.
+(2) No caso de ultrapassagem do limite de 25% referido, o excedente ao limite descrito não será
+descontado da receita da agente de transmissão e a ANEEL será informada sobre a
+ultrapassagem do limite.
+(c) Limite (c): o somatório dos descontos referentes aos valores das PVI, PVRO e das PVC de todas as FT
+de uma concessão, no período contínuo de doze meses, incluindo os descontos do mês da apuração
+vigente, estará limitado a 12,5% do valor da RAP da concessão, correspondente ao mesmo período.
+Se
+mm11  mm11 
+NF  PVIRO PVIROEX 0,125NF  PB 
+j  m m1  j  m 
+(C1-10) mm0 j mm0 j
+Então
+ 
+PVIRO LC  PVIRO  PVIRO EX
+(C1-11) m0 m1
+Se
+mm11  mm11 
+(C1-12) NF  PVIRO PVIROEX 0,125NF  PB 
+j  m m1  j  m 
+mm0 j mm0 j
+Então
+(C1-13) PVIROLC  PVIRO PVIROEX      NF  m  m1 P 1 VIRO PVIROEX    -  0,125 NF  m  m1 P 1 B      
+m0A m1     j  mm0 m m1  j     j  mm0 m  j   
+Sendo,
+j: número de funções transmissão de uma determinada concessão;
+PVIRO : somatório dos montantes PVI e PVRO, referentes a eventos da mesma FT, ou PVC no
+m0A
+caso de FT Conversora, ocorridos antes daquele que ocasionou a superação do limite (c).
+PVIROLC: somatório dos montantes de PVI, PVRO e PVIROEX de uma determinada FT, ou no caso de
+FT Conversora, PVC e PVIROEX, afetados da satisfação ao limite (c) de desconto.
+(1) No caso da configuração de uma série de eventos de indisponibilidade em FT - distintas ou não
+num determinado mês, a análise do limite (c) para cada evento será efetuada por ordem
+cronológica de ocorrência.
+(2) Serão expurgados os eventos apurados no mês vigente, que cronologicamente sucederem aquele
+evento cuja PVIRO, ao somar-se com os valores de PVIRO dos demais eventos ocorridos em
+Endereço na internet: http://www.ons.org.br 36 / 37
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Procedimental 2023.09 04/09/2023
+transmissão e encargos setoriais
+data/horário anteriores, mais os valores dos eventuais remanescentes do mês anterior, mais os
+valores acumulados de PVIRO efetivamente descontados nos últimos 11 meses, configurar
+ultrapassagem ao limite referido de 12,5%.
+(3) À FT associada ao evento descrito no item C.5. (c)(2)que perfez o limite de 12,5%, será apropriado
+o valor de PVIROLC para efeito de análise do limite (b) nos meses seguintes de apuração.
+(d) No caso de FT constituídas de instalações de propriedade de mais de uma concessão, além dos
+critérios de limitação associados aos descontos descritos nos itens C.5. (a), C.5. (b) e C.5. (c), será
+considerada regra adicional de limitação de desconto associada especificamente ao conjunto de
+equipamentos de propriedade de cada concessão:
+(1) No período contínuo de 12 meses, incluindo a apuração vigente, o desconto acumulado de Parcela
+Variável atribuída ao conjunto de equipamentos de uma determinada concessão estará limitado a
+50% do somatório dos PB dos referidos equipamentos no mesmo período.
+(2) O excedente à eventual ultrapassagem do limite de 50% referido, não será descontado da receita
+do agente de transmissão.
+C.6. Assim, o montante total cabível a cada FT, resultante da incidência dos limites descritos sobre o
+somatório das parcelas PVI, PVRO e PVC é considerado da seguinte forma:
+NER
+PVIRO PVIROL
+j
+(C1-14) j1
+Sendo,
+PVIROL: valor mensal de desconto que atenda os três limites descritos nos itens C.5. (a), C.5. (b) e
+C.5. (c), para uma determinada FT, ou seja, PVIROL será o menor valor entre PVIROLA, PVIROLB e
+PVIROLC
+j: número de funções transmissão de uma determinada concessão
+C.7. No caso de FT constituída por equipamentos de mais de uma concessão, quando da ocorrência de
+evento cuja responsabilidade é atribuída a mais de uma concessão, os descontos de Parcelas Variáveis,
+já afetados dos limites previstos, serão apropriados a cada um dos responsáveis na proporção das
+receitas homologadas pela ANEEL, referentes aos seus respectivos equipamentos que compõem a FT em
+relação ao PB da FT.
+C.8. Caso seja retificado um evento apurado anteriormente, os novos dados serão utilizados para refazer
+todas as apurações da FT em questão, inclusive as verificações das franquias e limitações de 50%, 25% e
+12,5%, compreendidas entre a apuração do evento original até a apuração atual, quando foi informada
+a retificação.
+C.9. Quando houver suspensão da aplicação dos descontos, caso a decisão do mérito seja favorável à
+cobrança, os valores devidos serão atualizados pelo ONS para o mês do início da cobrança, utilizando o
+respectivo índice de atualização contratual da RAP.
+C.10. Quando houver recontabilização de descontos, os valores a serem cobrados ou devolvidos serão
+atualizados pelo ONS para o mês da recontabilização, utilizando os respectivos índices de atualização
+contratual da RAP.
+C.11. As estatísticas de frequência/duração de desligamentos considerarão os valores retificados.
+Endereço na internet: http://www.ons.org.br 37 / 37

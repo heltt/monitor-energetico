@@ -1,0 +1,168 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.8-RS_2025.06
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.8-RS_2025.06.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.8
+Apuração dos Montantes de Uso do
+Sistema de Transmissão
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2025.06 Despacho ANEEL nº 1.700/2025 05/06/2025
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração dos Montantes de Uso do Sistema de
+6.8 Responsabilidades 2025.06 09/06/2025
+Transmissão
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Montantes de Uso do Sistema de Transmissão apurados.............................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de transmissão................................................................................................................3
+3.3. Agentes de distribuição.................................................................................................................3
+3.4. Agentes de geração.......................................................................................................................4
+3.5. Consumidores livres conectados à Rede Básica............................................................................4
+3.6. Importadores e exportadores.......................................................................................................4
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIAS...................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração dos Montantes de Uso do Sistema de
+6.8 Responsabilidades 2025.06 09/06/2025
+Transmissão
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas de processos relativos à apuração
+do Montante de Uso do Sistema de Transmissão (MUST), em caráter permanente, flexível, temporário e de
+reserva de capacidade, para subsidiar as atividades de apuração mensal de serviços e encargos.
+2. PRODUTOS
+2.1. Montantes de Uso do Sistema de Transmissão apurados
+2.1.1. Montante de Uso do Sistema de Transmissão (MUST) apurado, por ponto de conexão, com intervalo
+de integralização de 15 minutos.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Apurar o MUST, por ponto de conexão, e classificar os eventos na ocorrência de ultrapassagem e/ou
+sobrecontratação.
+(b) Disponibilizar os pontos de medição e as equações utilizadas na modelagem de Sistema de Medição
+para Faturamento (SMF) para obtenção dos Montante de Uso do Sistema de Transmissão verificado
+(MUSTV) aos agentes envolvidos.
+(c) Disponibilizar os MUST apurados e a classificação dos eventos na ocorrência de ultrapassagem e/ou
+sobrecontratação aos agentes envolvidos.
+(d) Interagir com os agentes para dirimir dúvidas e inconsistências nos dados e nas informações obtidas,
+bem como na classificação dos eventos.
+(e) Analisar as indicações e contestações dos agentes de situações de expurgo e/ou correção de parcela
+de ineficiência por ultrapassagem e/ou por sobrecontratação apresentadas pelos agentes envolvidos.
+(f) Encaminhar à Agência Nacional de Energia Elétrica – ANEEL relatórios de acompanhamento do uso
+do sistema de transmissão.
+(g) Armazenar, em banco de dados, os resultados das consistências dos dados, informações e
+classificações efetuadas, por um período de 5 anos.
+3.2. Agentes de transmissão
+(a) Informar ao ONS, quando solicitado, os valores medidos em cada ponto de conexão e/ou ponto de
+medição de sua responsabilidade, bem como esclarecimentos sobre as informações disponibilizadas.
+3.3. Agentes de distribuição
+(a) Informar ao ONS, quando solicitado, os valores medidos em cada ponto de conexão e/ou ponto de
+medição de sua responsabilidade.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração dos Montantes de Uso do Sistema de
+6.8 Responsabilidades 2025.06 09/06/2025
+Transmissão
+(b) Verificar as equações utilizadas na modelagem de SMF para obtenção dos MUST em todos os
+V
+pontos de conexão referentes ao(s) Contrato(s) de Uso do Sistema de Transmissão (CUST) de sua
+responsabilidade e informar ao ONS eventuais mudanças da configuração que impactem na
+modelagem dos seus pontos contratados.
+(c) Consistir, nos prazos estabelecidos, os dados e as informações disponibilizados pelo ONS, bem como
+os eventos classificados como ultrapassagem e sobrecontratação.
+(d) Elaborar, quando solicitado pelo ONS, documento específico com o objetivo de subsidiar a análise
+dos eventos apurados, quando não concordar com os dados e informações disponibilizados pelo
+ONS.
+3.4. Agentes de geração
+(a) Informar ao ONS, quando solicitado, os valores medidos em cada ponto de conexão e/ou ponto de
+medição de sua responsabilidade.
+(b) Verificar as equações utilizadas na modelagem de SMF para obtenção dos MUST em todos os
+V
+pontos de conexão referentes ao(s) CUST de sua responsabilidade e informar ao ONS eventuais
+mudanças da configuração que impactem na modelagem dos seus pontos contratados.
+(c) Consistir, nos prazos estabelecidos, os dados e as informações disponibilizados pelo ONS, bem como
+os eventos classificados como ultrapassagem de MUST.
+(d) Elaborar, quando solicitado pelo ONS, documento específico com o objetivo de subsidiar a análise dos
+eventos apurados, quando não concordar com os dados e informações coletados pelo ONS.
+3.5. Consumidores livres conectados à Rede Básica
+(a) Informar ao ONS, quando solicitado, os valores medidos em cada ponto de conexão e/ou ponto de
+medição de sua responsabilidade.
+(b) Verificar as equações utilizadas na modelagem de SMF para obtenção dos MUST em todos os
+V
+pontos de conexão referentes ao(s) CUST de sua responsabilidade e informar ao ONS eventuais
+mudanças da configuração que impactem na modelagem dos seus pontos contratados.
+(c) Consistir, nos prazos estabelecidos, os dados e as informações disponibilizados pelo ONS, bem como
+os eventos classificados como ultrapassagem de MUST.
+(d) Elaborar, quando solicitado pelo ONS, documento específico com o objetivo de subsidiar a análise dos
+eventos apurados, quando não concordar com os dados e informações coletados pelo ONS.
+3.6. Importadores e exportadores
+(a) Informar ao ONS, quando solicitado, os valores medidos em cada ponto de conexão e/ou ponto de
+medição de sua responsabilidade.
+(b) Consistir, nos prazos estabelecidos, os dados e as informações disponibilizados pelo ONS.
+(c) Elaborar, quando solicitado pelo ONS, documento específico com o objetivo de subsidiar a análise
+dos eventos apurados, quando não concordar com os dados e informações coletados pelo ONS.
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração dos Montantes de Uso do Sistema de
+6.8 Responsabilidades 2025.06 09/06/2025
+Transmissão
+4. PRAZOS
+Quadro 1 - Prazos para a apuração do MUST
+Atividade Responsável Prazo Periodicidade
+Disponibilização dos eventos
+Até o 16º dia útil do mês
+classificados como
+1 ONS subsequente ao da Mensal
+ultrapassagem de MUST aos
+medição
+agentes envolvidos
+Consistência dos dados e
+eventos apurados pelo ONS Agentes Até 10 dias úteis após a
+2 Mensal
+referentes a ultrapassagens de envolvidos Atividade (1)
+MUST
+Disponibilização dos eventos
+classificados como
+3 ONS Até 31 de janeiro Anual
+sobrecontratação de MUST
+aos agentes de distribuição
+Consistência dos eventos
+Agentes de
+4 classificados como Até 1º de março Anual
+distribuição
+sobrecontratação de MUST
+Encaminhamento dos dados e
+Agentes Até 03 dias úteis após a
+5 informações complementares Sob demanda
+envolvidos solicitação do ONS
+necessários às apurações
+Até 90 dias após a
+Solicitação de revisão de disponibilização das
+Agentes
+6 apuração de ultrapassagem ou ultrapassagens (atividade Sob demanda
+envolvidos
+sobrecontratação de MUST 1) ou sobrecontratação
+(atividade 3)
+Após decisão do ONS para
+Solicitação de pedido de
+atividade 6 deste quadro,
+impugnação da apuração de Agentes
+7 conforme prazo Sob demanda
+ultrapassagem ou envolvidos
+estabelecido no
+sobrecontratação de MUST [1]
+Submódulo 1.3
+5. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa nº 1.017, de 19 de abril de 2022 (alterada pela REN nº 1.107, 3 de
+dezembro de 2024).
+Endereço na internet: http://www.ons.org.br 5 / 5

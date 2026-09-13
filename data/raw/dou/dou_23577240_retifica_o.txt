@@ -1,0 +1,48 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Retificação
+TITULO: RETIFICAÇÃO
+DATA_PUBLICACAO: 06/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=06/02/2026&jornal=515&pagina=76
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Secretaria Nacional de Transição Energética e Planejamento
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+RETIFICAÇÃO
+Na linha 19 do quadro do Anexo II, coluna "solicitante", da Portaria SNTEP/MME nº 3.043, de 23 de janeiro de 2026, publicada no Diário Oficial da União em 28 de janeiro de 2026, Edição 19, Seção 1, página 66, onde se lê:
+ANEXO II
+
+
+Dados enviados pelas distribuidoras - Referência de envio à ANEEL: outubro/2025
+
+Dados dos Interessados
+Dados dos Projetos
+N.
+Solicitante
+CNPJ
+Número(s) do Contrato de Uso do Sistema de Distribuição (CUSD) informado(s)
+Número(s) da(s) Unidade(s) Consumidora(s)
+19
+
+47.114.424/0001-40
+1001572994
+1000001522
+Leia-se:
+ANEXO II
+
+
+Dados enviados pelas distribuidoras - Referência de envio à ANEEL: outubro/2025
+
+Dados dos Interessados
+Dados dos Projetos
+N.
+Solicitante
+CNPJ
+Número(s) do Contrato de Uso do Sistema de Distribuição (CUSD) informado(s)
+Número(s) da(s) Unidade(s) Consumidora(s)
+19
+ASSOCIAÇÃO CARNAUBINHAS ENERGIA SOLAR
+47.114.424/0001-40
+1001572994
+1000001522

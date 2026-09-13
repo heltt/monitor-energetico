@@ -1,0 +1,294 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 4.5-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 4.5-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 4.5
+Programação Diária da Operação
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação Diária da Operação 4.5 Responsabilidades 2020.12 01/01/2021
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Programa Diário da Operação (PDO).............................................................................................3
+2.2. Estudos Comparativos e Análises das Principais Diferenças DESSEM e Programação Diária.......3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de geração hidrelétrica, eólica e solar.............................................................................4
+3.3. Agente de geração termelétrica....................................................................................................4
+3.4. Agente de geração Itaipu Binacional.............................................................................................5
+3.5. Agente comercializador Itaipu Binacional.....................................................................................5
+3.6. Agentes de importação e exportação...........................................................................................5
+3.7. Agentes de transmissão................................................................................................................5
+3.8. Agentes de distribuição.................................................................................................................5
+4. PRAZOS............................................................................................................................................6
+5. REFERÊNCIAS...................................................................................................................................9
+Endereço na internet: http://www.ons.org.br 2 / 9
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação Diária da Operação 4.5 Responsabilidades 2020.12 01/01/2021
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas de processos relativos à
+programação diária da operação eletroenergética, para garantir a otimização energética dos recursos de
+geração e a segurança operacional do Sistema Interligado Nacional (SIN).
+2. PRODUTOS
+2.1. Programa Diário da Operação (PDO)
+2.1.1. Consolida as propostas de geração hidráulica, térmica, eólica e solar como a programação diária
+eletroenergética e fornece aos centros de operação do Operador Nacional do Sistema Elétrico – ONS e aos
+agentes de operação as diretrizes eletroenergéticas específicas, necessárias à execução da operação, sendo
+composto pelos programas de operação, informações, observações e dados de entrada utilizados na sua
+elaboração.
+2.1.2. Apresenta o conjunto de dados do modelo de curtíssimo prazo e o Programa Diário de Produção (PDP),
+o Programa Diário de Intervenções (PDI), Programa Diário de Defluências (PDF), Validação elétrica da
+programação energética (VALIDAÇÂO), Informações Meteorológicas (INFMET), Programa Diário de Carga e
+Frequência (PDCF), Recomendações e Diretrizes Eletroenergéticas Consolidadas (RDE), com periodicidade
+diária e discretização de meia em meia hora para o período de programação.
+2.2. Estudos Comparativos e Análises das Principais Diferenças DESSEM e Programação Diária
+2.2.1. Apresenta a comparação e análise das principais diferenças entre os despachos resultantes do modelo
+de curtíssimo prazo e os da programação diária.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Aprovar e estabelecer os programas finais de geração, após interação com os agentes.
+(b) Informar aos agentes de distribuição os elementos da Rede de Distribuição que irão impor restrições
+à rede que será considerada no processo de validação elétrica da programação energética.
+(c) Analisar as variações ocorridas em relação aos valores programados de geração e intercâmbio, bem
+como as ocorrências nas usinas e no sistema de transmissão que impliquem restrições com
+consequências nas gerações e nos intercâmbios dos dias a serem programados.
+(d) Solicitar aos agentes envolvidos as informações e os dados necessários à realização da programação
+diária da operação eletroenergética.
+(e) Consistir e consolidar as informações e dados recebidos dos agentes envolvidos, interagindo com os
+mesmos, quando da verificação de inconsistências e/ou necessidade de alterações.
+(f) Efetuar a compatibilização dos cronogramas de manutenção de unidades geradoras e, caso
+necessário, solicitar alterações nos prazos, desde que não envolvam riscos para os equipamentos e
+outras restrições operativas pertinentes.
+(g) Avaliar a viabilidade da política de operação energética para a semana operativa.
+Endereço na internet: http://www.ons.org.br 3 / 9
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação Diária da Operação 4.5 Responsabilidades 2020.12 01/01/2021
+(h) Elaborar as previsões de geração para as usinas do Tipo II-B e Tipo II-C.
+(i) Emitir o deck de entrada e saída do modelo de curtíssimo prazo.
+(j) Analisar e compatibilizar as propostas de programas de geração e intercâmbio definidas pelo modelo
+de curtíssimo prazo, interagindo com os agentes de geração envolvidos, quando detectada a
+necessidade de alterações.
+(k) Implementar, em conjunto com os agentes responsáveis, as alterações nos programas de geração e
+intercâmbio provenientes da validação elétrica e energética, de forma a conciliar os benefícios
+sistêmicos, respeitando as restrições locais.
+(l) Emitir o PDO e disponibilizá-lo aos agentes envolvidos.
+(m)Analisar as ocorrências relevantes após o fechamento do PDO e realizar, quando julgar necessário,
+nova programação diária.
+(n) Reprogramar as manutenções em unidades geradoras e equipamentos da transmissão, que, em
+comum acordo com os agentes envolvidos, não puderam ser contemplados na programação.
+(o) Elaborar e disponibilizar os Estudos Comparativos e Análises das Principais Diferenças DESSEM e
+Programação Diária.
+3.2. Agentes de geração hidrelétrica, eólica e solar
+(a) Fornecer ao ONS, nos formatos e prazos estabelecidos, os dados e informações necessários para a
+para a realização da programação diária da operação eletroenergética.
+(b) Analisar as solicitações do ONS de alterações no cronograma de manutenção para atendimento das
+necessidades do SIN, implementando-as e, caso tenha impossibilidades, encaminhar as devidas
+justificativas técnicas.
+(c) Interagir com o ONS de forma a compatibilizar as propostas de geração de suas usinas, definidas pelo
+modelo de curtíssimo prazo, com as restrições operativas existentes.
+(d) Interagir com o ONS de forma a compatibilizar as alterações nos programas de geração de suas usinas
+e intercâmbio provenientes da validação elétrica e energética.
+3.3. Agente de geração termelétrica
+(a) Fornecer ao ONS, nos formatos e prazos estabelecidos, os dados e informações necessários para a
+realização da programação diária da operação eletroenergética.
+(b) Fornecer ao ONS, nos formatos e prazos estabelecidos, os dados e informações integrantes do
+cadastro de representação do unit commitment por configuração.
+(c) Analisar as solicitações do ONS de alterações no cronograma de manutenção para atendimento das
+necessidades do SIN, implementando-as e, caso tenha impossibilidades, encaminhar as devidas
+justificativas técnicas.
+(d) Interagir com o ONS de forma a compatibilizar as propostas de geração de suas usinas, definidas pelo
+modelo de curtíssimo prazo, com as restrições operativas existentes.
+(e) Interagir com o ONS de forma a compatibilizar as alterações nos programas de geração de suas usinas
+e intercâmbio provenientes da validação elétrica e energética.
+Endereço na internet: http://www.ons.org.br 4 / 9
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação Diária da Operação 4.5 Responsabilidades 2020.12 01/01/2021
+3.4. Agente de geração Itaipu Binacional
+(a) Fornecer ao ONS, nos formatos e prazos estabelecidos, os dados e informações necessários para a
+para a realização da programação diária da operação eletroenergética, respeitando os requisitos do
+Acordo Tripartite.
+(b) Analisar as solicitações do ONS de alterações no cronograma de manutenção para atendimento das
+necessidades do SIN, implementando-as, e, caso tenha impossibilidades, encaminhar as devidas
+justificativas técnicas
+(c) Interagir com o ONS de forma a compatibilizar as propostas de geração definidas pelo modelo de
+curtíssimo prazo com suas restrições operativas e os seus requisitos do Acordo Tripartite.
+3.5. Agente comercializador Itaipu Binacional
+(a) Fornecer ao ONS, nos formatos e prazos estabelecidos, os dados e informações necessários para a
+para a realização da programação diária da operação eletroenergética.
+3.6. Agentes de importação e exportação
+(a) Fornecer ao ONS, nos formatos e prazos estabelecidos, os dados e informações necessários para a
+realização da programação diária da operação eletroenergética.
+(b) Analisar a programação efetuada pelo ONS para a Interligação Internacional e submeter ao ONS
+eventuais comentários e necessidades de alterações.
+3.7. Agentes de transmissão
+(a) Analisar as solicitações do ONS de alterações no cronograma de manutenção de equipamentos de
+transmissão que afetem a segurança e/ou restrinjam a geração de usinas hidrelétricas Tipo I e Tipo II-
+B, bem como de usinas termelétricas Tipo I e Tipo II-A, e, caso tenha impossibilidades, encaminhar as
+devidas justificativas técnicas.
+3.8. Agentes de distribuição
+(a) Fornecer ao ONS, nos formatos e prazos estabelecidos, os dados e informações necessários para a
+para a realização da programação diária da operação eletroenergética.
+(b) Analisar as solicitações do ONS de alterações no cronograma de manutenção de equipamentos fora
+da Rede de Operação que restrinjam a geração de usinas hidrelétricas Tipo I e Tipo II-B, das usinas
+termelétricas Tipo I e Tipo II-A, bem como das usinas Tipo II-C e, caso não esteja de acordo,
+encaminhar as devidas justificativas técnicas.
+(c) Informar as indisponibilidades dos circuitos da Rede de Distribuição, previamente estabelecidos com
+o ONS, que irão impor restrições à rede que será considerada no processo de validação elétrica da
+programação energética.
+Endereço na internet: http://www.ons.org.br 5 / 9
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação Diária da Operação 4.5 Responsabilidades 2020.12 01/01/2021
+4. PRAZOS
+Quadro 1 - Cronograma para elaboração da programação diária da operação eletroenergética
+Dia a ser programado
+Dia da elaboração da programação
+Segunda-feira Terça-feira
+Terça-feira Quarta-feira
+Quarta-feira Quinta-feira
+Quinta-feira Sexta-feira
+Sexta-feira Sábado
+Sábado Domingo
+Domingo Segunda-feira
+Quadro 2 - Prazos para elaboração da programação diária eletroenergética (D-1)
+Responsável Prazo Periodicidade
+Atividade
+Até às 16h00 do
+Envio ao ONS das ofertas semanais de
+penúltimo dia útil da
+preço e restrições operativas para a
+Agentes semana anterior à
+1 prestação do serviço de despacho Semanal
+envolvidos semana de
+complementar para manutenção da
+efetivação do
+reserva de potência operativa
+despacho
+Envio ao ONS de dados informações A depender do
+Agentes
+2 necessárias para a programação diária agente de geração, Diária
+envolvidos
+da operação eletroenergética conforme Quadro 3
+Análise e consolidação de dados e
+3 ONS Até às 10h00min Diária
+informações, exceto previsão de carga
+Recebimento da previsão consolidada
+de carga de demanda integralizada e
+de demandas instantâneas, conforme
+4 ONS Até às 11h30min Diária
+Submódulo 4.4 - Consolidação da
+previsão de carga para programação
+eletroenergética
+Endereço na internet: http://www.ons.org.br 6 / 9
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação Diária da Operação 4.5 Responsabilidades 2020.12 01/01/2021
+Responsável Prazo Periodicidade
+Atividade
+Análise das condições de atendimento
+5 ONS Até às 12h30min Diária
+às cargas de demanda e energia
+Processamento do modelo de
+6 curtíssimo prazo para definição das ONS Até às 16h00min Diária
+propostas de geração
+Análise da viabilidade das propostas
+7 de geração definidas pelo modelo de ONS Até às 18h00min Diária
+curtíssimo prazo
+Análise das propostas de geração
+definidas pelo modelo de curtíssimo
+8 ONS Até às 18h00min Diária
+prazo, em função das condições
+hidroenergéticas verificadas
+Análise e compatibilização das
+9 propostas dos programas de geração e ONS Até às 18h30min Diária
+intercâmbio
+Validação energética e elétrica das
+10 propostas de programas de geração e ONS Até às 19h00min Diária
+intercâmbios compatibilizados
+Aprovação e estabelecimento do
+programa de geração final, elaboração
+11 ONS Até às 20h00min Diária
+do programa diário de operação
+eletroenergético
+Disponibilização do PDO aos agentes e
+12 às salas de controle da operação do ONS Até às 21h00min Diária
+tempo real
+Reinício do processo de programação
+13 devido à ocorrência de fato relevante ONS Quando necessário -
+na operação
+Endereço na internet: http://www.ons.org.br 7 / 9
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação Diária da Operação 4.5 Responsabilidades 2020.12 01/01/2021
+Quadro 3 - Prazos meta para disponibilização de dados pelos agentes de operação
+Periodi-
+Responsável Prazo
+Atividade cidade
+Informação ao ONS de inflexibilidades
+Agente de geração
+operativas, contratuais e outras, bem Até às
+1 responsável por usina Diária
+como as suas disponibilidades de 10h00min
+térmica Tipo I e Tipo II-A
+energia e potência
+Agente de geração
+Informação ao ONS dos cronogramas
+responsável por usina Até às
+2 de manutenção de suas unidades Diária
+térmica, hidráulica, eólica e 10h00min
+geradoras
+solar Tipo I e Tipo II
+Informação ao ONS das
+inflexibilidades associadas aos
+Agente que detêm
+contratos de suprimento e/ou a Até às
+3 contratos de importação Diária
+restrições de equipamentos, bem 10h00min
+de energia
+como as disponibilidades de
+suprimento das interligações
+Quadro 4 - Prazo para estudos comparativos do modelo de curtíssimo prazo com a programação diária
+Responsável Prazo Periodicidade Horizonte
+Atividade
+Disponibilização dos Estudos
+Comparativos e Análises das Mês
+1 ONS 10º dia útil Mensal
+Principais Diferenças DESSEM e subsequente
+Programação Diária
+Quadro 5 - Prazos para atualização do cadastro de representação do unit commitment das usinas termelétricas
+Responsável Prazo Periodicidade
+Atividade
+Agente de geração 30 dias após envio
+Manifestação sobre a listagem
+1 responsável por aos agentes pelo Anual
+dos parâmetros cadastrais
+usina termelétrica ONS
+Consolidação dos novos dados
+15 dias após prazo
+cadastrais para uso no modelo
+2 ONS de manifestação dos Anual
+de curtíssimo prazo e no
+agentes
+processo de programação diária
+A partir da 1ª
+Vigência do cadastro com os
+3 ONS semana operativa de Anual
+novos dados
+maio
+Endereço na internet: http://www.ons.org.br 8 / 9
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação Diária da Operação 4.5 Responsabilidades 2020.12 01/01/2021
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 9 / 9

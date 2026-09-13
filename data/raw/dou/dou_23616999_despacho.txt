@@ -1,0 +1,39 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 24/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=24/02/2026&jornal=515&pagina=48
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado de Santa Catarina
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 46/2026
+Fase de Autorização de Pesquisa
+Concede anuência e autoriza averbação da cessão total de direitos(281)
+815.364/2024-NIVALDO SANTOS- Cessionário:DIAGO LUIS SCHUSTER- CPF ou CNPJ ***.260.800-**- Alvará n°10052/2024
+Fase de Direito de Requerer a Lavra
+Concede anuência e autoriza averbação da cessão total do direito de requerer a lavra.(2259)
+815.252/2023-ANR EXTRACAO MINERAL LTDA- Cessionário:MINERACAO MINERA LTDA- CPF ou CNPJ 63.335.451/0001-08- Alvará n°Nenhum título associado/
+815.253/2023-ANR EXTRACAO MINERAL LTDA- Cessionário:MINERACAO MINERA LTDA- CPF ou CNPJ 63.335.451/0001-08- Alvará n°Nenhum título associado/
+Fase de Licenciamento
+Determina cumprimento de exigência - Prazo 30 dias(718)
+815.559/2017-BRITAGEM GASPAR LTDA-OF. N°9432/2026/COROUT-SC/ANM
+815.020/2018-MINERACAO E TRANSPORTES JEGI EIRELI ME-OF. N°9937/2026/COROUT-SC/ANM
+Fase de Registro de Extração
+Determina cumprimento de exigência - Prazo 60 dias(2965)
+815.486/2016-MUNICIPIO DE SANTA TEREZINHA-OF. N°9382/2026/COROUT-SC/ANM
+815.487/2016-MUNICIPIO DE SANTA TEREZINHA-OF. N°9371/2026/COROUT-SC/ANM
+Fase de Requerimento de Lavra
+Determina cumprimento de exigência - Prazo 60 dias(361)
+815.467/2007-SL VIEIRA COMÉRCIO E TERRAPLANAGEM LTDA ME-OF. N°9496/2026/COROUT-SC/ANM
+Indefere requerimento de Guia de Utilização(626)
+815.467/2007-SL VIEIRA COMÉRCIO E TERRAPLANAGEM LTDA ME
+Fase de Requerimento de Registro de Extração
+Determina cumprimento de exigência - Prazo 60 dias(2964)
+815.869/2013-PREFEITURA MUNICIPAL DE GRAVATAL-OF. N°8676/2026/COROUT-SC/ANM
+815.338/2013-PREFEITURA MUNICIPAL DE GRAVATAL-OF. N°8679/2026/COROUT-SC/ANM
+JOSE AUGUSTO SIMOES NETO
+Gerente

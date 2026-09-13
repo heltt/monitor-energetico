@@ -1,0 +1,25 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 26/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=26/02/2026&jornal=515&pagina=63
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Secretaria Nacional de Geologia, Mineração e Transformação Mineral
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+FASE DE REQUERIMENTO DE CONCESSÃO DE LAVRA
+Outorga de Concessão de Lavra. (Cód. 4.00)
+48068.866959/2021-95 - PORTARIA SNGM/MME Nº 786 - Santa Felicidade Mineração Spe Ltda - Minério de Ouro - Nossa Senhora do Livramento, Estado de Mato Grosso - 35,02 hectares.
+48068.866958/2021-41 - PORTARIA SNGM/MME Nº 787 - Santa Felicidade Mineração Spe Ltda - Minério de Ouro - Nossa Senhora do Livramento - Mato Grosso - 40,42 hectares.
+48068.866456/2021-10 - PORTARIA SNGM/MME Nº 788 - Santa Felicidade Mineração Spe Ltda - Minério de Ouro - Nossa Senhora do Livramento - Mato Grosso - 49,00 hectares.
+48068.866560/2021-12 - PORTARIA SNGM/MME Nº 789 - Santa Felicidade Mineração Spe Ltda - Minério de Ouro - Nossa Senhora do Livramento - Mato Grosso - 49,00 hectares.
+48068.866477/2021-35 - PORTARIA SNGM/MME Nº 790 - Santa Felicidade Mineração Spe Ltda - Minério de Ouro - Nossa Senhora do Livramento - Mato Grosso - 49,01 hectares.
+48068.866476/2021-91 - PORTARIA SNGM/MME Nº 791 - Santa Felicidade Mineração Spe Ltda - Minério de Ouro - Nossa Senhora do Livramento - Mato Grosso - 49,00 hectares.
+48068.866463/2021-11 - PORTARIA SNGM/MME Nº 792 - Santa Felicidade Mineração Spe Ltda - Minério de Ouro - Nossa Senhora do Livramento - Mato Grosso - 49,00 hectares.
+48068.866464/2021-66 - PORTARIA SNGM/MME Nº 793 - Santa Felicidade Mineração Spe Ltda - Minério de Ouro - Nossa Senhora do Livramento - Mato Grosso - 49,00 hectares.
+Os processos serão remetidos à Agência Nacional de Mineração, para vistas e cópias.
+ANA PAULA LIMA VIEIRA BITTENCOURT
+Secretária

@@ -1,0 +1,90 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.8-OP_2022.10
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.8-OP_2022.10.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.8
+Avaliação do impacto do acesso ou
+integração à Rede Básica de instalações
+com elementos não lineares ou especiais
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2022.10 Resolução da Reunião de Diretoria 18/10/2022
+do ONS nº 104/2022
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Avaliação do impacto do acesso ou integração à Rede
+Básica de instalações com elementos não lineares ou 7.8 Operacional 2022.10 18/10/2022
+especiais
+ÍNDICE
+1. AVALIAÇÃO DO IMPACTO DE INSTALAÇÃO NÃO LINEAR EM PROCESSO DE ACESSO OU DE
+INTEGRAÇÃO À REDE BÁSICA ........................................................................................................ 3
+1.1. Estudos para avaliação de desempenho quanto à QEE ................................................................ 3
+1.2. Campanhas de medição para avaliação de desempenho quanto a QEE ...................................... 3
+2. REFERÊNCIAS ................................................................................................................................ 4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Avaliação do impacto do acesso ou integração à Rede
+Básica de instalações com elementos não lineares ou 7.8 Operacional 2022.10 18/10/2022
+especiais
+1. AVALIAÇÃO DO IMPACTO DE INSTALAÇÃO NÃO LINEAR EM PROCESSO DE ACESSO OU DE
+INTEGRAÇÃO À REDE BÁSICA
+1.1. Estudos para avaliação de desempenho quanto à QEE
+1.1.1. O agente realiza estudos de Qualidade de Energia Elétrica (QEE) definidos no Submódulo 2.3 –
+Premissas, critérios e metodologias para estudos elétricos, que tratam das avaliações de impacto da
+instalação quanto à flutuação, desequilíbrio e distorção harmônica de tensão no Ponto de Acoplamento
+Comum (PAC), e os submete à apreciação do ONS, dentro do prazo estabelecido no Submódulo 7.1 – Acesso
+às instalações de transmissão ou do prazo estabelecido nos documentos de outorga, sob a forma de relatório,
+incluindo informações detalhadas quanto aos dados, modelos e metodologias utilizadas, bem como os
+resultados obtidos e as eventuais ações a serem desenvolvidas no sentido de adequar o desempenho da
+instalação aos limites individuais estabelecidos.
+1.1.2. Em função dos resultados obtidos pelos estudos, podem ser solicitados procedimentos
+complementares de medição. No Submódulo 2.3, o ONS apresenta um guia básico para a realização desses
+estudos, a ser utilizado pelo agente como referência.
+1.1.3. Após avaliação dos relatórios de estudo, o ONS pode apresentar comentários e recomendações
+relacionadas às metodologias de cálculo utilizadas, atendendo aos procedimentos estabelecidos no processo
+de acesso ou nos documentos de outorga. Os dados utilizados e os resultados obtidos são de
+responsabilidade do agente.
+1.1.4. O ONS repassa ao agente todas as informações disponíveis relativas aos estudos a serem realizados.
+1.2. Campanhas de medição para avaliação de desempenho quanto a QEE
+1.2.1. De forma a atender e complementar o processo de conexão de uma instalação que contenha
+elementos não lineares ou especiais, são realizadas campanhas de medição de tensão e/ou de corrente, a
+depender do tipo de empreendimento. Tais campanhas devem ser realizadas a cargo do agente.
+1.2.2. As campanhas de medição de QEE são pré-requisito para a emissão das declarações de atendimento
+aos Procedimentos Rede para os acessantes à Rede Básica que possuem componentes não lineares.
+Similarmente, as campanhas de medição de tensão (pré e pós-tensão) são pré-requisito para a emissão dos
+termos de liberação para integração de instalações de transmissão à Rede Básica e de interligações
+internacionais ao SIN que possuam componentes não lineares.
+1.2.3. As campanhas de tensão são realizadas principalmente em dois momentos: imediatamente antes
+(campanha pré-tensão) e após a entrada em operação da instalação (campanha pós-tensão). Entretanto,
+especificamente para parques eólicos e solares fotovoltaicos, inclusive quando fizerem parte de centrais
+híbridas ou associadas, pode ser necessária a realização da campanha de monitoramento, a depender do
+resultado do estudo de impacto harmônico, conforme detalhado no Submódulo 2.9.
+1.2.4. A campanha de corrente, quando aplicável, é realizada após a entrada em operação do
+empreendimento, conforme requisitos estabelecidos no Submódulo 2.9.
+1.2.5. Para empreendimentos de geração eólica e solar fotovoltaica, inclusive quando fizerem parte de
+centrais híbridas ou associadas, tendo em vista que o impacto da sua operação na QEE do PAC depende do
+regime de ventos ou da irradiância solar da região onde se encontra instalada, a campanha pós-tensão é
+realizada, e o respectivo relatório enviado ao ONS, no prazo máximo estabelecido neste submódulo contado
+a partir da entrada em operação comercial do parque.
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Avaliação do impacto do acesso ou integração à Rede
+Básica de instalações com elementos não lineares ou 7.8 Operacional 2022.10 18/10/2022
+especiais
+1.2.6. Para empreendimentos de transmissão, as medições devem ser realizadas imediatamente antes e
+após a entrada em operação do empreendimento. Esses resultados devem ser encaminhados ao ONS na
+forma de relatório e planilha, no prazo máximo estabelecido neste submódulo.
+1.2.7. O agente encaminha ao ONS os relatórios e planilhas com os resultados das campanhas de medição
+realizadas.
+1.2.8. Caso julgue necessário, o ONS pode acompanhar a realização da campanha de medição. Nesse
+sentido, torna-se necessário que o agente forneça ao ONS, com antecedência mínima estabelecida no
+presente submódulo, informações quanto à data de realização de cada campanha de medição, bem como
+informações quanto ao tipo de transdutor e instrumento de medição a ser utilizado.
+2. REFERÊNCIAS
+2.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 4 / 4

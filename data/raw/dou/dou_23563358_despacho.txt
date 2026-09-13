@@ -1,0 +1,54 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 03/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=03/02/2026&jornal=515&pagina=173
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado do Pará
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 32/2026
+Fase de Autorização de Pesquisa
+Determina o arquivamento definitivo do processo(279)
+850.311/2005-IVAN DE SOUSA BAHIA
+850.648/2006-NILO FRANCISCO WEBER
+Não conhece requerimento protocolizado(270)
+851.705/2021-BR COMERCIO ATACADISTA DE PRODUTOS MINERAIS EXPOR
+Determina cumprimento de exigência - Prazo 60 dias(250)
+850.003/2020-ANTONIO CLAUDIO PEREIRA DA COSTA-OF. N°5454/2026/COROUT-PA/AP/ANM
+850.730/2019-TETRAMEC CALCINAÇÃO E COMERCIALIZAÇÃO DE GIPSITA LTDA-OF. N°5435/2026/COROUT-PA/AP/ANM
+850.231/2020-HELTON SERGIO DA SILVA-OF. N°3893/2026/COROUT-PA/AP/ANM
+Fase de Direito de Requerer a Lavra
+Prorroga por 01 (um) ano o prazo para requerer a Concessão de Lavra(2243)
+850.491/2006-MINERACAO DO PARA LTDA
+859.844/1996-BRI MINERAÇÃO LTDA
+Determina cumprimento de exigência - Prazo 60 dias(2224)
+850.853/2011-COOPERATIVA DOS GARIMPEIROS DOS MINÉRIOS DE SERRA PELADA-OF. N°5042/2026/COROUT-PA/AP/ANM
+Fase de Disponibilidade
+Determina arquivamento definitivo do processo(1678)
+300.642/2010-Área descartada colocada em disponibilidade.
+Fase de Licenciamento
+Determina cumprimento de exigência - Prazo 30 dias(718)
+850.985/2018-JOÃO RIBEIRO DE MELO EIRELI-OF. N°5058/2026/COROUT-PA/AP/ANM
+850.905/2024-HELIOMAR DA SILVA MAGALHAES-OF. N°Ofício nº 4579/2026/COROUT-PA/AP/ANM
+Autoriza averbação da Prorrogação do Registro de Licença(742)
+850.905/2024-HELIOMAR DA SILVA MAGALHAES- Registro de Licença N° 178/2025 - Vencimento em 09/12/2026
+Reconsidera o despacho de indeferimento(745)
+851.363/2017-CERAMICA LACERDA LTDA
+Fase de Requerimento de Licenciamento
+Determina o cumprimento de exigência - Prazo 30 dias(1155)
+Processo nº: 850.503/2025
+Titular: MINERACAO VALE DO MONTENEGRO LTDA
+Ofício nº: Ofício nº 5489/2026/COROUT-PA/AP/ANM
+Processo nº: 850.488/2025
+Titular: DRAGAGEM GRAO DE OURO LTDA
+Ofício nº: 5602/2026/COROUT-PA/AP/ANM
+Fase de Requerimento de Pesquisa
+Determina cumprimento de exigência - Prazo 60 dias(131)
+850.487/2025-LUCIANO DO CARMO DOS SANTOS FERREIRA-OF. N°4273/2026/COROUT-PA/AP/ANM
+850.139/2017-MAGELLAN MINERAIS PROSPECCAO GEOLOGICA LTDA-OF. N°5693/2026/COROUT-PA/AP/ANM
+HUGO PAIVA TAVARES DE SOUZA
+Gerente

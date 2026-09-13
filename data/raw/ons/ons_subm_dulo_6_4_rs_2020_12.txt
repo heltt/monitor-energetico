@@ -1,0 +1,132 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.4-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.4-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.4
+Análise de Falhas em Equipamentos e
+Linhas de Transmissão
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise de Falhas em Equipamentos e Linhas de
+6.4 Responsabilidades 2020.12 01/01/2021
+Transmissão
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Relatório de Análise de Falhas em Equipamentos e Linhas de Transmissão (RAF).......................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de operação responsáveis pelos equipamentos e linhas de transmissão.......................3
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIA.....................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise de Falhas em Equipamentos e Linhas de
+6.4 Responsabilidades 2020.12 01/01/2021
+Transmissão
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas dos processos relativos à Análise
+de Falhas em Equipamentos e Linhas de Transmissão.
+2. PRODUTOS
+2.1. Relatório de Análise de Falhas em Equipamentos e Linhas de Transmissão (RAF)
+2.1.1. Relatório contendo análise de causas da falha ou do defeito de um equipamento ou linha de
+transmissão integrante da Rede de Operação, ou fora da Rede de Operação quando apresentar desempenho
+inferior ao esperado e deixar de cumprir as funções para as quais foi projetado, quando recomendado por
+Relatório de Análise de Perturbação (RAP) ou quando há consequência no desempenho da Rede de
+Operação.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Solicitar ao agente de operação a análise da falha em um equipamento ou uma linha de
+transmissão.
+(b) Disponibilizar ao agente de operação as informações e dados, sob responsabilidade do ONS,
+necessários para realizar os estudos e análise técnica.
+(c) Aprovar ou indeferir o RAF.
+(d) Disponibilizar o RAF para o agente de operação e para a ANEEL.
+(e) Informar sobre a disponibilização do RAF, aos agentes envolvidos na elaboração do RAP, do RAO ou
+do RO que recomendou a elaboração da análise de falhas.
+(f) Disponibilizar o sistema computacional para ser utilizado como meio eletrônico na troca de
+documentos e informações deste submódulo.
+3.2. Agentes de operação responsáveis pelos equipamentos e linhas de transmissão
+(a) Elaborar, a partir de solicitação do ONS, a análise técnica da falha de um equipamento ou de uma
+linha de transmissão que tenha registrado ocorrência ou perturbação.
+(b) Elaborar o RAF, a partir da análise técnica elaborada pelo próprio agente de operação, e enviar ao
+ONS o relatório e informações através do sistema computacional disponibilizado pelo ONS.
+(c) Executar, no contexto da análise técnica solicitada, ensaios adicionais relevantes para a elucidação
+das causas da falha.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise de Falhas em Equipamentos e Linhas de
+6.4 Responsabilidades 2020.12 01/01/2021
+Transmissão
+4. PRAZOS
+Quadro 1 - Prazos para Análise de Falhas em Equipamentos e Linhas de Transmissão
+Atividade Responsável Prazo Observação
+1 Solicitação formal de emissão do RAF. ONS Sob demanda -
+Disponibilização, para o Agente de
+Operação, do link “elaborar versão inicial até 02 dias úteis
+2 ONS -
+do RAF” através do Sistema após a atividade 1
+Computacional
+Elaboração e disponibilização para o ONS
+a versão inicial do RAF Agente de até 18 dias úteis
+3 -
+Operação após a atividade 2
+O ONS analisa e faz as suas considerações
+sobre a versão inicial do RAF até 05 dias úteis
+4 ONS -
+após a atividade 3
+Em caso de
+Elaboração da versão final do RAF, e
+redisponibilização
+disponibilização ao ONS. Agente de até 10 dias úteis
+5 o prazo será
+Operação após a atividade 4
+relativo à
+atividade 6
+Casos de
+redisponibilização
+retornam à
+Aprovação, redisponibilização ou até 03 dias úteis atividade 5 e
+6 ONS
+indeferimento da versão final do RAF após a atividade 5 casos de
+indeferimento,
+retornam à
+atividade 2
+Exceto nos casos
+Disponibilização para Aneel e para o até 03 dias úteis
+7 ONS de
+agente de operação após a atividade 5
+redisponibilização
+Conclusão do RAF, quando não houver
+redisponibilização ou necessidade de Agente de até 38 dias úteis
+8 -
+realização de ensaios adicionais ou operação após atividade 1
+desmontagens.
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise de Falhas em Equipamentos e Linhas de
+6.4 Responsabilidades 2020.12 01/01/2021
+Transmissão
+Atividade Responsável Prazo Observação
+Conclusão do RAF, quando houver
+redisponibilização e não houver Agente de até 51dias úteis
+9 -
+necessidade de realização de ensaios Operação após atividade 1
+adicionais ou desmontagens
+Conclusão do RAF, quando houver
+necessidade de realização de ensaios Agente de Acordado entre
+10 -
+adicionais ou desmontagens. Esse novo Operação ONS e agentes
+prazo será acordado com o ONS.
+5. REFERÊNCIA
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 5 / 5

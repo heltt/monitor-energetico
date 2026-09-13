@@ -1,0 +1,19 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 25/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=25/02/2026&jornal=515&pagina=91
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado de Pernambuco
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 34/2026
+Fase de Licenciamento
+Aprovo o Plano de Fechamento de Mina(2507)
+840.229/2022-ELECNOR DO BRASIL LTDA
+840.250/2016-ARIANDNE RAMOS GOMES
+WERTHER LARRAZABAL DA SILVA JÚNIOR
+Gerente

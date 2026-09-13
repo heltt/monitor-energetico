@@ -1,0 +1,282 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 4.6-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 4.6-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 4.6
+Análise e tratamento dos dados
+hidroenergéticos e previsão e geração
+de cenários de vazões
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise e tratamento dos dados
+hidroenergéticos e previsão e geração de 4.6 Responsabilidades 2020.12 01/01/2021
+cenários de vazões
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Relatório Diário da Situação Hidráulico-Hidrológica e Hidroenergética do SIN (RDH)..................3
+2.2. Relatório de Acompanhamento da Operação Hidroenergética do SIN (OPHEN)..........................3
+2.3. Relatório de Atualização de Séries Históricas de Vazões..............................................................3
+2.4. Relatório de Previsão de Vazões Diárias.......................................................................................3
+2.5. Relatório de Previsão e Geração de Cenários de Vazões..............................................................3
+2.6. Relatório Anual de Avaliação das Previsões de Vazões.................................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de geração.......................................................................................................................5
+4. PRAZOS............................................................................................................................................6
+5. REFERÊNCIAS...................................................................................................................................8
+Endereço na internet: http://www.ons.org.br 2 / 8
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise e tratamento dos dados
+hidroenergéticos e previsão e geração de 4.6 Responsabilidades 2020.12 01/01/2021
+cenários de vazões
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas de processos relativos à análise e
+tratamento dos dados hidroenergéticos, à previsão e geração de cenários de vazões, a serem utilizados na
+programação da operação eletroenergética do Sistema Interligado Nacional (SIN).
+2. PRODUTOS
+2.1. Relatório Diário da Situação Hidráulico-Hidrológica e Hidroenergética do SIN (RDH)
+2.1.1. Apresenta as energias naturais afluentes e as energias armazenadas diárias, semanais e mensais, as
+vazões naturais médias diárias, semanais e mensais, as vazões afluentes e defluentes diárias, os níveis e os
+armazenamentos diários verificados e os volumes recomendados para controle de cheias.
+2.2. Relatório de Acompanhamento da Operação Hidroenergética do SIN (OPHEN)
+2.2.1. Apresenta, além das informações constantes no RDH, os volumes previstos no Programa Mensal da
+Operação Energética (PMO) e em suas revisões, e as chuvas médias ocorridas e previstas nas bacias.
+2.3. Relatório de Atualização de Séries Históricas de Vazões
+2.3.1. Apresenta as vazões naturais mensais nos locais de aproveitamentos hidroelétricos em operação, em
+expansão e em outros locais de interesse ao SIN, a serem utilizadas no planejamento hidroenergético.
+2.4. Relatório de Previsão de Vazões Diárias
+2.4.1. Apresenta as previsões de vazões diárias para a programação diária da operação.
+2.5. Relatório de Previsão e Geração de Cenários de Vazões
+2.5.1. Apresenta as previsões de vazões naturais médias diárias, semanais e mensais e cenários de vazões
+naturais médias mensais a serem utilizados na programação da operação eletroenergética.
+2.6. Relatório Anual de Avaliação das Previsões de Vazões
+2.6.1. Apresenta a análise dos desvios das previsões de vazões do ano anterior, relativos aos valores
+observados.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Acompanhar, analisar, tratar e consolidar os dados hidroenergéticos do SIN em conjunto com os
+agentes de geração.
+(b) Definir e/ou revisar, quando necessário, as metodologias para consistência e consolidação de dados
+hidroenergéticos e para reconstituição de vazões naturais, em conjunto com os agentes de geração.
+(c) Definir e/ou revisar, quando necessário, metodologia para cálculo de Energia Natural Afluente (ENA)
+e a Energia Armazenada (EAR), com a participação facultativa dos agentes de geração.
+Endereço na internet: http://www.ons.org.br 3 / 8
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise e tratamento dos dados
+hidroenergéticos e previsão e geração de 4.6 Responsabilidades 2020.12 01/01/2021
+cenários de vazões
+(d) Solicitar aos agentes de geração informações de aproveitamentos para subsidiar a definição e
+aplicação das metodologias para consistência e consolidação de dados hidroenergéticos,
+reconstituição de vazões naturais, cálculo das séries de vazões de postos artificiais e cálculo de ENA e
+EAR.
+(e) Convidar a Agência Nacional de Energia Elétrica – ANEEL, Agência Nacional de Águas – ANA, Ministério
+de Minas e Energia – MME e Empresa de Pesquisa Energética – EPE a participarem da definição e/ou
+revisão da metodologia para reconstituição de vazões naturais e da metodologia para
+compatibilização das séries históricas de vazões dos aproveitamentos em expansão, com as séries dos
+aproveitamentos em operação.
+(f) Constituir força-tarefa com a ANEEL e agentes responsáveis pelos aproveitamentos hidroelétricos em
+planejamento, visando a obter as séries históricas de vazões naturais totais mensais, bem como suas
+atualizações.
+(g) Definir e/ou revisar, quando necessário, as séries históricas de vazões naturais nos locais de
+aproveitamentos hidroelétricos.
+(h) Definir e/ou revisar, quando necessário, a metodologia para cálculo das séries de vazões dos postos
+artificiais, em conjunto com os agentes de geração.
+(i) Solicitar aos agentes de geração e a outras entidades responsáveis por estações fluviométricas as
+informações sobre as redes fluviométricas disponíveis.
+(j) Estabelecer o tipo, o formato, a periodicidade e os prazos de encaminhamento dos dados de estações
+fluviométricas de interesse do ONS a serem disponibilizadas pelos agentes de geração.
+(k) Analisar a rede fluviométrica disponível e, caso necessário, propor à ANEEL e à ANA, a instalação de
+novas estações e a implantação de novos sensores e de sistema de transmissão de dados em tempo
+real em estações existentes.
+(l) Solicitar aos agentes de geração, à ANA e a outras entidades responsáveis os dados de estações
+fluviométricas de interesse para o acompanhamento, análise e tratamento dos dados
+hidroenergéticos.
+(m)Elaborar os relatórios RDH e OPHEN e disponibilizá-los aos agentes de operação e à ANEEL.
+(n) Elaborar o Relatório de Atualização de Séries Históricas de Vazões e disponibilizá-lo, em conjunto com
+as séries históricas de vazões naturais médias diárias e mensais, aos agentes de operação, à ANEEL, à
+EPE e ao MME.
+(o) Processar os modelos para obtenção das previsões de vazões naturais médias diárias, semanais e
+mensais e dos cenários de vazões.
+(p) Consistir as previsões de vazões naturais médias diárias e semanais.
+(q) Disponibilizar publicamente os resultados preliminares não consistidos e os dados utilizados na
+previsão de vazões semanais.
+(r) Disponibilizar publicamente os resultados preliminares consistidos e os dados utilizados na previsão
+de vazões semanais e geração de cenários de vazões.
+Endereço na internet: http://www.ons.org.br 4 / 8
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise e tratamento dos dados
+hidroenergéticos e previsão e geração de 4.6 Responsabilidades 2020.12 01/01/2021
+cenários de vazões
+(s) Analisar as contribuições dos agentes de geração quanto à previsão e geração dos cenários de vazões,
+efetuar os ajustes necessários e informar aos agentes envolvidos as justificativas para as contribuições
+que não foram implementadas.
+(t) Elaborar o Relatório de Previsão de Vazões Diária.
+(u) Elaborar o Relatório de Previsão de Vazões e Geração de Cenários de Vazões.
+(v) Disponibilizar publicamente, o Relatório de Previsão de Vazões Diárias e o Relatório de Previsão de
+Vazões e Geração de Cenários de Vazões, bem como os dados utilizados para elaborá-los.
+(w) Elaborar o Relatório Anual de Avaliação das Previsões de Vazões e disponibilizá-lo publicamente.
+3.2. Agentes de geração
+(a) Participar da consolidação dos dados hidroenergéticos e da definição e/ou revisão das metodologias
+para consistência e consolidação de dados hidroenergéticos, para a reconstituição de vazões naturais
+dos aproveitamentos em operação e para o cálculo das séries de vazões dos postos artificiais.
+(b) Fornecer ao ONS, quando solicitadas, informações de aproveitamentos para subsidiar a definição e
+aplicação das metodologias para consistência e consolidação de dados hidroenergéticos, para
+reconstituição de vazões naturais, para cálculo das séries de vazões de postos artificiais e para cálculo
+de ENA e EAR.
+(c) Fornecer ao ONS as informações sobre a rede fluviométrica e os dados nos padrões estabelecidos de
+estações fluviométricas sob sua responsabilidade.
+(d) Fornecer ao ONS, nos formatos definidos, as previsões de vazões naturais médias diárias nos locais
+de interesse onde o ONS não disponha de modelo de previsão de vazões.
+(e) Manter o ONS atualizado sobre as metodologias, modelos e sistemas computacionais utilizados na
+obtenção das previsões de vazões naturais médias diárias.
+(f) Analisar os resultados de previsões de vazões semanais e dos cenários de vazões disponibilizados pelo
+ONS e informar qualquer inadequação.
+Endereço na internet: http://www.ons.org.br 5 / 8
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise e tratamento dos dados
+hidroenergéticos e previsão e geração de 4.6 Responsabilidades 2020.12 01/01/2021
+cenários de vazões
+4. PRAZOS
+Quadro 1 - Prazos para a análise e tratamento dos dados hidroenergéticos do SIN
+Responsável Prazo Periodicidade
+Atividade
+Até 11h00min do
+1 Obtenção das vazões naturais ONS Diária
+dia D
+Até 11h30min do
+2 Consolidação dos dados hidroenergéticos ONS Diária
+dia D
+Até 11h30min do
+3 Cálculo da ENA e da EAR ONS Diária
+dia D
+Até 12h00min do
+4 Disponibilização do RDH ONS Diária
+dia D
+5 Disponibilização do OPHEN ONS Até 15h00min Diária (dias úteis)
+Relatório de Atualização de Séries
+6 ONS 30 de novembro Anual
+Históricas de Vazões Naturais
+Nota: Dia D – Data de realização do processo de previsão de vazões para a programação diária da operação.
+Quadro 2 - Prazos para os estudos de previsão de vazões para a programação diária da operação eletroenergética
+Periodici-
+Responsável Prazo Horizonte
+Atividade
+dade
+Obtenção das vazões naturais verificadas
+1 e dos dados meteorológicos observados ONS Dia D-1 Diária -
+e previstos
+Elaboração das previsões de vazões Até 12
+2 ONS Dia D-1 Diária
+naturais médias diárias dias
+Até
+Disponibilização dos dados e resultados
+3 ONS 18h00min do Diária -
+da previsão de vazões naturais diárias
+dia D-1
+Até
+Elaboração e disponibilização do
+4 ONS 18h00min do Diária -
+Relatório de Previsão de Vazões Diárias
+dia D-1
+Nota: Dia D – Data da programação diária da operação eletroenergética.
+Endereço na internet: http://www.ons.org.br 6 / 8
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise e tratamento dos dados
+hidroenergéticos e previsão e geração de 4.6 Responsabilidades 2020.12 01/01/2021
+cenários de vazões
+Quadro 3 - Prazos para estudos de previsão de vazões e geração de cenários de afluências para PMO e
+revisões
+Responsável Prazo Periodicidade
+Atividade
+Obtenção das vazões naturais verificadas e
+1 dos dados meteorológicos observados e ONS Dia D-1 Diária
+previstos.
+Até
+Envio e recebimento pelo ONS das previsões Agente de
+2 13h00min do Diária
+de vazões naturais médias diárias geração
+dia D-1
+Elaboração da previsão de vazões naturais
+3 ONS Dia D-1 Diária
+médias diárias
+Análise e consolidação das previsões de
+4 ONS Dia D-1 Diária
+vazões naturais médias diárias
+Obtenção de vazões naturais médias semanais
+5 ONS Dia D-1 Diária
+estimadas
+Elaboração das previsões de vazões médias
+6 ONS Dia D-1 Diária
+semanais
+Obtenção de vazões naturais médias mensais
+7 ONS Dia D-1 Diária
+estimadas
+Disponibilização dos dados e resultados Até
+8 preliminares não consistidos da previsão de ONS 18h00min do Diária
+vazões naturais dia D-1
+9 Consistência da previsão de vazões ONS Dia D-1 Diária
+Geração de cenários de afluências naturais
+10 ONS Dia D-1 Diária
+médias mensais
+Análise e disponibilização dos dados e
+Até
+resultados preliminares consistidos da
+11 ONS 21h00min do Diária
+previsão de vazões naturais e geração de
+dia D-1
+cenários de afluências naturais
+Endereço na internet: http://www.ons.org.br 7 / 8
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise e tratamento dos dados
+hidroenergéticos e previsão e geração de 4.6 Responsabilidades 2020.12 01/01/2021
+cenários de vazões
+Responsável Prazo Periodicidade
+Atividade
+Até
+Análise da previsão de vazão e cenários de
+12 ONS 11h00min do Diária
+afluências pelos agentes de geração
+dia D
+Análise das avaliações e contribuições
+13 ONS Dia D Diária
+encaminhadas
+Elaboração e disponibilização pública dos Até
+14 resultados finais através do Relatório de ONS 16h00min do Diária
+Previsão e Geração de Cenários de Vazões Dia D
+Nota 1: Dia D – data de elaboração do PMO e suas revisões.
+Nota 2: No período de adoção do horário de verão, os prazos e horários estabelecidos no Quadro 2 poderão sofrer
+atraso de até 1 hora.
+Quadro 4 - Prazos para os demais processos
+Responsável Prazo Periodicidade
+Atividade
+A qualquer
+1 Revisão das séries históricas de vazões naturais ONS -
+tempo
+A qualquer
+2 Análise da rede fluviométrica disponível ONS -
+tempo
+A qualquer
+3 Elaboração das previsões de vazões mensais ONS -
+tempo
+Elaboração e disponibilização do Relatório Anual
+4 ONS - Anual
+de Avaliação das Previsões de Vazões
+Obtenção de informações sobre as metodologias Agente de A qualquer
+5 -
+utilizadas geração tempo
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 8 / 8

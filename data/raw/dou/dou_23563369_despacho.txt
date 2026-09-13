@@ -1,0 +1,36 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 03/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=03/02/2026&jornal=515&pagina=172
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado da Paraíba
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 9/2026
+Fase de Autorização de Pesquisa
+Concede anuência e autoriza averbação da cessão total de direitos(281)
+846.220/2019-GRANISTONE AMAZON MINERACAO LTDA- Cessionário:GRAND TERRA EXPORTACAO DE GRANITOS LTDA- CPF ou CNPJ 01.491.544/0001-66- Alvará n°763/2020
+Determina cumprimento de exigência - Prazo 60 dias(250)
+846.276/2021-ARCO IRIS MINERACAO E COMERCIO LTDA-OF. N°4971/2026/COROUT-RN/PB/SE/AL/ANM
+846.278/2011-MINERACAO BOA VISTA LTDA-OF. N°5117/2026/COROUT-RN/PB/SE/AL/ANM
+846.092/2023-ARCO IRIS MINERACAO E COMERCIO LTDA-OF. N°5534/2026/COROUT-RN/PB/SE/AL/ANM
+Fase de Licenciamento
+Autoriza averbação da Prorrogação do Registro de Licença(742)
+846.032/2022-MICHELLANE COELHO FERREIRA- Registro de Licença N° 97/2023 - Vencimento em indeterminado
+Determina cumprimento de exigência - Prazo 30 dias(718)
+846.032/2022-MICHELLANE COELHO FERREIRA-OF. N°54879/2025/COROUT-RN/PB/SE/AL/ANM
+Fase de Requerimento de Lavra
+Determina cumprimento de exigência - Prazo 60 dias(361)
+846.095/2009-ELIZANGELA ARAUJO GAMBARRA ME-OF. N°5379/2026/COROUT-RN/PB/SE/AL/ANM
+Determina cumprimento de exigência - Prazo 60 dias(2106)
+846.216/2006-VON ROLL DO BRASIL LTDA-OF. N°4739/2026/COROUT-RN/PB/SE/AL/ANM
+846.344/2012-NOBLE EARTH LTDA-OF. N°4593/2026/COROUT-RN/PB/SE/AL/ANM
+Fase de Requerimento de Pesquisa
+Indefere requerimento de Autorização de Pesquisa- não cumprimento de exigência(122)
+846.085/2025-CESAR AUGUSTO SEABRA MATOS
+ARNALDO BEZERRA LOPES DE ALMEIDA
+Gerente

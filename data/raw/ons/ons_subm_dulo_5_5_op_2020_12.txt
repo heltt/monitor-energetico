@@ -1,0 +1,123 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 5.5-OP_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 5.5-OP_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 5.5
+Operação hidráulica de reservatórios
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Integração de Submódulo Tipo Revisão Vigência
+Operação hidráulica de reservatórios 5.5 Operacional 2020.12 01/01/2021
+ÍNDICE
+1. DIRETRIZES GERAIS..........................................................................................................................3
+2. COORDENAÇÃO E CONTROLE DA OPERAÇÃO HIDRÁULICA DOS RESERVATÓRIOS............................4
+3. REFERÊNCIAS...................................................................................................................................5
+4. ANEXOS...........................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Integração de Submódulo Tipo Revisão Vigência
+Operação hidráulica de reservatórios 5.5 Operacional 2020.12 01/01/2021
+1. DIRETRIZES GERAIS
+1.1. A operação hidráulica dos reservatórios das bacias hidrográficas onde se localizam as usinas da Rede de
+Operação do Sistema Interligado Nacional (SIN) permite, em tempo real, o gerenciamento do
+armazenamento de água destes reservatórios considerando a otimização energética, o controle de cheias,
+as restrições operativas hidráulicas e o uso múltiplo das águas.
+1.2. As ações adotadas na operação hidráulica de um reservatório têm como prioridade preservar a
+segurança do reservatório e de suas estruturas, minimizar os impactos ou danos a terceiros ou ao meio
+ambiente e não agravar as condições naturais de eventos extremos.
+1.2.1. As ações que visem à segurança de vidas humanas ou das instalações são sempre prioritárias em
+relação às restrições operativas hidráulicas e elétricas.
+1.3. Os centros de operação do Operador Nacional do Sistema Elétrico – ONS e os agentes de geração
+consideram, para a operação hidráulica dos reservatórios, o sistema de reservatórios para o controle de
+cheias e as respectivas regras para a operação de controle de cheias, estabelecidas no Submódulo 3.7 –
+Planejamento anual de prevenção de cheias, bem como a classificação de situação em que se encontra o
+reservatório em Normal, Atenção, Alerta ou Emergência, conforme Submódulos 2.5 – Critérios para
+Operação.
+1.3.1. A operação dos reservatórios e dos sistemas de reservatórios para controle de cheias é realizada em
+compatibilidade com o uso múltiplo das águas.
+1.3.2. Na ocorrência de eventos extremos que possam comprometer a segurança do reservatório ou de suas
+estruturas, devem ser tomadas medidas, juntamente com outros órgãos envolvidos, para não agravar as
+condições naturais e, também, para evitar danos ou minimizá-los.
+1.3.3. A coordenação operacional de reservatórios, nas situações de operação Normal e Atenção, é exercida
+pelos centros de operação do ONS e consiste sobretudo na organização das ações operacionais para
+atendimento ao PDO e suas reprogramações em tempo real e na avaliação dos reflexos dessas ações em um
+ou mais reservatórios da mesma bacia ou do mesmo sistema de reservatórios para controle de cheias ou de
+outros sistemas.
+1.4. A situação de operação para um reservatório é declarada pelo respectivo agente de geração responsável
+ou pelo ONS. O ONS pode declarar uma situação de operação para um reservatório, com base nas
+informações hidrometeorológicas referentes à bacia hidrográfica na qual esse reservatório está contido ou a
+partir do relato de situações ou de ocorrências feito pelo agente ou por terceiros.
+1.4.1. Em caso de coexistência de declarações distintas de situação de operação de reservatório, prevalece
+a situação de maior severidade, sendo a escala crescente de severidade: Normal, Atenção, Alerta e
+Emergência.
+1.5. De acordo com as características da bacia e de cada reservatório, como também em função do evento
+hidrológico, tanto o agente de geração quanto o ONS, pode declarar a mudança de situação de operação
+para um reservatório, sem necessariamente passar por situações intermediárias de severidade.
+1.5.1. O declarante responsável pela situação operacional vigente retifica ou ratifica sua posição e, em caso
+de ratificação, comunica à outra parte as justificativas para o não atendimento. Tanto o agente de geração
+quanto o ONS, podem solicitar análise de situações especiais de operação de reservatórios via
+teleconferência para deliberação da situação de operação.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Integração de Submódulo Tipo Revisão Vigência
+Operação hidráulica de reservatórios 5.5 Operacional 2020.12 01/01/2021
+2. COORDENAÇÃO E CONTROLE DA OPERAÇÃO HIDRÁULICA DOS RESERVATÓRIOS
+2.1. Os Centros de Operação do ONS coordenam a operação hidráulica dos reservatórios das bacias
+hidrográficas onde se localizam as usinas da Rede de Operação e os agentes de geração executam a operação
+hidráulica dos reservatórios sob sua responsabilidade, considerando as classificações da situação de
+operação do reservatório.
+2.2. Os centros de operação do ONS coordenam, supervisionam e controlam a operação de reservatórios,
+bem como os volumes de espera, de forma ininterrupta, quando em situação de operação do reservatório
+Normal e Atenção, considerando:
+(a) programa Diário da Operação (PDO), estabelecido no Submódulo 4.5 – Programação Diária da
+Operação, no que se refere ao Programa Diário de Defluências (PDF);
+(b) instruções de Operação, cadastro de informações operacionais para a operação de reservatórios e os
+sistemas computacionais de suporte para a avaliação da operação hidráulica e tomada de decisão.
+2.3. Os centros de operação do ONS coordenam as reprogramações de geração constante no PDO, bem
+como de vazões defluentes programadas, sempre que houver necessidade de corrigir desvios de
+programação ou de atender a situações operacionais imprevistas na Rede de Operação, e informa aos
+agentes envolvidos as mudanças efetuadas.
+2.3.1. Para reprogramações de geração são priorizadas as usinas que apresentem vertimento turbinável ou
+simulações que identifiquem como estando prestes a verter, considerando que as restrições operativas
+elétricas e hidráulicas tem sempre prioridade em relação à otimização energética.
+2.4. Os centros de operação do ONS, quando de situações especiais de operação de reservatórios,
+coordenam a Teleconferência da Operação Hidráulica das Bacias Hidrográficas, com a participação dos
+agentes de geração responsáveis por reservatórios das bacias.
+2.5. O agente de geração coordena a operação do reservatório sob sua responsabilidade quando:
+(a) em situação de operação Alerta e Emergência;
+(b) em condição operativa não prevista nas instruções de operação que exija ação pronta e imediata do
+agente de geração para salvaguardar vidas humanas ou a integridade do reservatório e de suas
+instalações e que leve a operação do reservatório à situação de operação Alerta eEmergência; ou
+(c) em situação de operação Normal e Atenção, na qual se configure a perda total de todos os meios de
+comunicação entre a equipe responsável pela execução da operação do reservatório e o centro de
+operação do agente ou, quando o relacionamento for direto, dessa equipe com o centro de operação
+do ONS.
+2.5.1. Quando verificado que um ou mais reservatórios estiverem em situação de Emergência, em função da
+gravidade da situação, pode ser realizada teleconferência pelos agentes envolvidos, contando com a
+participação de outras entidades representativas do uso múltiplo das águas e do ONS de forma a analisar
+situações especiais de operação.
+2.5.2. O agente de geração coordena a operação do reservatório sob sua responsabilidade considerando
+manual de operação próprio em que estejam definidas as regras e metodologias a serem utilizadas na
+operação, em consonância com os Procedimentos de Rede.
+2.6. Quando da declaração, pelo ONS ou pelo agente de geração, de mudança de situação de operação de
+reservatório, a análise da situação operativa deste reservatório é realizada em conjunto pelo Centro Nacional
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Integração de Submódulo Tipo Revisão Vigência
+Operação hidráulica de reservatórios 5.5 Operacional 2020.12 01/01/2021
+de Operação de Sistema – CNOS, agentes de geração e Centros de Operação do Sistema – COSR envolvidos,
+a fim de harmonizar os aspectos locais e sistêmicos.
+2.7. Quando de ocorrências que resultem em restrição operativa hidráulica não prevista ou que levem à
+operação do reservatório a uma situação de operação Alerta ou Emergência, a decisão quanto às
+providências é tomada conjuntamente pelos centros de operação do ONS e pelos agentes de geração
+envolvidos.
+3. REFERÊNCIAS
+3.1. Não há referências neste documento.
+4. ANEXOS
+4.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 5 / 5

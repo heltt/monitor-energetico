@@ -1,0 +1,108 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 3.11-RS_2025.02
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 3.11-RS_2025.02.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 3.11
+Análise técnica dos serviços ancilares de
+suporte de reativos, controle secundário
+de frequência e autorrestabelecimento
+integral
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2025.02 Resolução Normativa ANEEL nº 1.112/2025 11/02/2025
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise técnica dos serviços ancilares de
+suporte de reativos, controle secundário de 3.11 Responsabilidades 2025.02 01/03/2025
+frequência e autorrestabelecimento integral
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Parecer Técnico para a prestação de Serviço Ancilar (PTSA)........................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de operação prestadores de serviços ancilares...............................................................4
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIAS...................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise técnica dos serviços ancilares de
+suporte de reativos, controle secundário de 3.11 Responsabilidades 2025.02 01/03/2025
+frequência e autorrestabelecimento integral
+1. OBJETIVO
+1.1. Estabelecer produtos e prazos, atribuir responsabilidades e descrever o processo relacionado à análise
+técnica dos requisitos para prestação de serviço ancilar por novas usinas e usinas em operação cujas unidades
+geradoras tenham possibilidade de prover os serviços de suporte de reativos (por meio de sua operação
+como compensador síncrono ou do fornecimento de potência reativa na condição de geração de potência
+ativa nula), de fornecer os serviços de controle secundário carga-frequência e/ou os serviços de
+autorrestabelecimento integral [1].
+2. PRODUTOS
+2.1. Parecer Técnico para a prestação de Serviço Ancilar (PTSA)
+2.1.1. Apresenta a consolidação das recomendações decorrentes da necessidade de prestação dos serviços
+ancilares de suporte de reativos por unidades geradoras que tenham possibilidade de operar como
+compensadores síncronos ou por centrais geradoras despachadas centralizadamente ou consideradas na
+programação em condição de geração de potência ativa nula; de fornecer serviços de controle secundário
+de frequência; e/ou de fornecer serviços de autorrestabelecimento integral.
+2.1.2. As recomendações pertinentes resultantes da análise técnica para prestação dos serviços ancilares
+citados podem ser apresentadas como um produto independente, como aqui descrito, ou podem ser
+incluídas nos produtos dos processos descritos nos Submódulo 3.1 – Planejamento da operação elétrica de
+médio prazo, Submódulo 7.1 – Acesso às instalações de transmissão, Submódulo 7.4 – Estudos pré-
+operacionais de integração de instalações da Rede de Operação, Submódulo 6.3 – Análise de perturbação ou
+outro estudo técnico do ONS.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Elaborar análise técnica da prestação dos serviços ancilares para respaldar a determinação do
+fornecimento do serviço para usinas já em operação ou para novas usinas, a ser incluída no edital de
+licitação ou ato autorizativo de novas usinas.
+(b) Solicitar aos agentes de operação os dados e informações necessários à realização da análise técnica
+dos serviços ancilares.
+(c) Consolidar os dados recebidos e proceder aos ajustes finais nos casos de referência.
+(d) Realizar as simulações e análises dos resultados dos estudos.
+(e) Elaborar e disponibilizar aos agentes de operação envolvidos o PTSA para indicação da necessidade
+de prestação de serviço ancilar.
+(f) Disponibilizar para os agentes de operação envolvidos as informações necessárias à reprodução das
+análises.
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise técnica dos serviços ancilares de
+suporte de reativos, controle secundário de 3.11 Responsabilidades 2025.02 01/03/2025
+frequência e autorrestabelecimento integral
+3.2. Agentes de operação prestadores de serviços ancilares
+(a) Fornecer ao ONS as informações necessárias à realização da análise técnica dos requisitos de sistemas
+relativos aos serviços ancilares.
+(b) Informar ao ONS eventuais incorreções ou necessidade de atualização dos dados enviados
+necessários à realização da análise técnica.
+(c) Encaminhar ao ONS informação sobre a possibilidade de prestar serviço ancilar em suas instalações.
+(d) Realizar análises, caso solicitado pelo ONS, para demonstrar o atendimento aos Procedimentos de
+Rede e garantir a segurança durante a prestação dos serviços ancilares.
+(e) Implantar as providências recomendadas no PTSA.
+4. PRAZOS
+Quadro 1 – Prazos do processo de análise técnica dos serviços ancilares de suporte de reativos, controle secundário
+de frequência e autorrestabelecimento integral
+Atividade Responsável Prazo Periodicidade
+1 Solicitação dos dados aos agentes ONS - Sob demanda
+Informe aos agentes de operação
+sobre definição do escopo e 10 dias úteis antes do
+2 ONS Sob demanda
+cronograma para execução da início da atividade 4
+análise técnica
+Confirmação ou retificação dos Até 5 dias úteis após
+Agente de
+3 dados consolidados e disponibilização dos Sob demanda
+operação
+disponibilizados pelo ONS dados pelo ONS
+Quando houver
+A definir em função do
+Elaboração do Parecer Técnico indicação de
+4 ONS escopo da análise
+Relativo a Serviço Ancilar prestação de serviço
+técnica
+ancilar
+5. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa nº 1.030, de 26 de julho de 2022.
+Endereço na internet: http://www.ons.org.br 4 / 4

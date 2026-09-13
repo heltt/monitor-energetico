@@ -1,0 +1,21 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Retificação
+TITULO: Despacho
+DATA_PUBLICACAO: 04/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=04/02/2026&jornal=515&pagina=65
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado de São Paulo
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 5/2026
+Fase de Licenciamento
+Despacho de retificação do Registro de Licença(741)
+820.240/2002-DRAGAR COMERCIO DE AREIA E PEDREGULHO LTDA- Registro de Licença N° 2687/2002-Onde se lê: "... numa área de 45,75 ha, ...no Município de Santo Antonio do Aracangua e Araçatuba, Estado de São Paulo..."; Leia-se: "... numa área de 17,25 hectares, ... no(s) Município(s) de Santo Antônio do Aracanguá/SP, delimitada por um polígono que tem seus vértices coincidentes com os pontos de coordenadas geodésicas descritos do documento SEI 18853705."
+Fase de Requerimento de Lavra
+Retifica despacho de aprovação do Relatório Final de Pesquisa(1280)
+821.656/1998-CERAMICA SAVANE LTDA - Publicado DOU de 20/09/2001, Relação n° 531/2001, Seção 1, pág. 106/107- Onde se lê: "(...) reduzida de 938,21 para 98,01ha (...)", leia-se: "reduzida de 938,21 para 94,56ha, localizada no Município de Charqueada/SP".
+MARCUS VINICIUS DE OLIVEIRA
+Gerente

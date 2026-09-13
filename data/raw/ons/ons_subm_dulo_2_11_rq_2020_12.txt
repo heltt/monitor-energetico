@@ -1,0 +1,870 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 2.11-RQ_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 2.11-RQ_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 2.11
+Requisitos mínimos para os sistemas de
+proteção, de registro de perturbações e
+de teleproteção
+Requisitos
+Revisão Motivo da revisão Data de aprovação
+2020.12 Retificação da Resolução
+31/03/2021
+Normativa nº 903/2020
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para os sistemas de
+proteção, de registro de perturbações e de 2.11 Requisitos 2020.12 01/01/2021
+teleproteção
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................4
+2. REQUISITOS GERAIS.........................................................................................................................4
+3. SISTEMAS DE PROTEÇÃO.................................................................................................................5
+3.1. Requisitos gerais............................................................................................................................5
+3.2. Linhas de transmissão...................................................................................................................6
+3.2.1. Requisitos gerais..........................................................................................................6
+3.2.2. Esquemas de religamento automático........................................................................7
+3.2.3. Função para verificação de sincronismo.....................................................................8
+3.2.4. Verificação de sincronismo manual.............................................................................9
+3.3. Unidades transformadoras de potência........................................................................................9
+3.4. Reatores em derivação................................................................................................................11
+3.5. Barramentos................................................................................................................................12
+3.6. Falha de disjuntor........................................................................................................................13
+3.7. Bancos de capacitores em derivação..........................................................................................13
+3.8. Bancos de capacitores série........................................................................................................14
+3.9. Filtros...........................................................................................................................................14
+3.10. Elos de corrente contínua...........................................................................................................15
+3.11. Compensadores estáticos...........................................................................................................15
+4. SISTEMAS DE REGISTRO DE PERTURBAÇÕES..................................................................................16
+4.1. Requisitos gerais..........................................................................................................................16
+4.2. Rede de coleta de registros de perturbação dos agentes...........................................................17
+4.3. Registro de perturbações............................................................................................................17
+4.3.1. Terminais de linha de transmissão............................................................................17
+4.3.2. Barramentos..............................................................................................................18
+4.3.3. Unidades transformadoras de potência....................................................................18
+4.3.4. Reatores em derivação..............................................................................................18
+4.3.5. Bancos de capacitores em derivação........................................................................19
+4.3.6. Bancos de capacitores série......................................................................................19
+Endereço na internet: http://www.ons.org.br 2 / 22
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para os sistemas de
+proteção, de registro de perturbações e de 2.11 Requisitos 2020.12 01/01/2021
+teleproteção
+4.3.7. Bancos de filtros........................................................................................................19
+4.3.8. Elos de corrente contínua..........................................................................................20
+4.3.9. Compensadores estáticos..........................................................................................21
+5. SISTEMAS DE TELEPROTEÇÃO.........................................................................................................21
+5.1. Canais..........................................................................................................................................21
+5.2. Esquemas de teleproteção para LT.............................................................................................22
+6. REFERÊNCIAS.................................................................................................................................23
+Endereço na internet: http://www.ons.org.br 3 / 22
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para os sistemas de
+proteção, de registro de perturbações e de 2.11 Requisitos 2020.12 01/01/2021
+teleproteção
+1. OBJETIVO
+1.1. Estabelecer requisitos técnicos mínimos e características funcionais para os seguintes sistemas:
+(a) sistema de proteção;
+(b) sistema de registro de perturbações; e
+(c) sistema de teleproteção.
+1.1.1. Os requisitos técnicos descritos neste submódulo aplicam-se às instalações de transmissão integrantes
+da Rede Básica, quando modernizadas ou quando identificada a necessidade e determinado pelo Operador
+Nacional do Sistema Elétrico – ONS e às instalações de transmissão de energia elétrica destinadas a
+interligações internacionais conectadas à Rede Básica.
+1.1.2. Os requisitos técnicos aplicáveis às instalações de transmissão integrantes da Rede de Operação com
+tensão nominal inferior a 230 kV, às Demais Instalações de Transmissão (DIT) ou às instalações de
+transmissão de interesse exclusivo de centrais de geração para conexão compartilhada (ICG) são aqueles
+definidos pelo agente de transmissão responsável por essas instalações, exceto quando requisitos específicos
+tenham sido estabelecidos em ato de outorga do empreendimento, ou por indicação do ONS.
+2. REQUISITOS GERAIS
+2.1. Os materiais e equipamentos a serem utilizados devem ser projetados, fabricados, montados e
+ensaiados em conformidade com as revisões mais recentes das normas da Associação Brasileira de Normas
+Técnicas – ABNT, no que for aplicável, e, na falta dessas, com as revisões mais recentes das normas da
+International Electrotechnical Commission – IEC, da American National Standards Institute – ANSI ou do
+Institute of Electrical and Electronics Engineers – IEEE, nessa ordem de preferência.
+2.2. Os equipamentos e sistemas devem atender aos requisitos estabelecidos nas normas de
+compatibilidade eletromagnética aplicáveis, nos graus de severidade adequados para utilização em
+instalações de transmissão de sistemas elétricos de potência, inclusive subestações de extra alta tensão.
+2.3. Cada sistema (proteção, registro de perturbações e teleproteção) deve ser integrado no nível da
+instalação para permitir o acesso local ou remoto de todos os seus dados, ajustes, registros de eventos,
+grandezas de entrada e outras informações. Essa integração não deve impor restrições à operação dos
+componentes primários da instalação.
+2.4. No caso de implantação de reforço em instalações de transmissão, os respectivos sistemas de proteção,
+registro de perturbações e teleproteção devem ser compatibilizados com os já instalados.
+2.5. Os equipamentos e sistemas devem ser dotados de recursos de automonitoramento e autodiagnóstico,
+que devem incluir bloqueio automático da atuação quando houver defeito e sinalização local e remota de
+falha e defeito.
+2.6. Os sistemas devem ter arquitetura aberta e utilizar protocolos de comunicação descritos em norma, de
+forma a não impor restrições à ampliação da rede onde se aplicam e à sua integração com sistemas e
+equipamentos de outros fabricantes.
+2.7. Os sistemas devem ter recursos que possibilitem a intervenção das equipes de manutenção, sem que
+haja a necessidade de desligamento da respectiva Função Transmissão (FT).
+2.8. Os ajustes das proteções das instalações devem ser definidos e implantados pelos agentes de
+transmissão responsáveis pelas instalações, de forma a garantir a integridade dos componentes, mantendo
+Endereço na internet: http://www.ons.org.br 4 / 22
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para os sistemas de
+proteção, de registro de perturbações e de 2.11 Requisitos 2020.12 01/01/2021
+teleproteção
+seletividade com os componentes adjacentes e atendendo aos requisitos mínimos estabelecidos neste
+submódulo e às filosofias de proteção estabelecidas pelo ONS [1][2][3].
+3. SISTEMAS DE PROTEÇÃO
+3.1. Requisitos gerais
+3.1.1. Todo componente deve ser protegido localmente por dois sistemas de proteção: proteção principal e
+proteção alternada.
+3.1.2. A proteção dos componentes deve ser concebida de maneira a não depender de proteção de
+retaguarda remota no sistema de transmissão.
+3.1.3. Devem ser previstos para os sistemas de proteção transformadores para instrumentos –
+transformadores de corrente (TC) e de potencial (TP) – em número adequado e com características nominais
+(relações nominais, número de núcleos e enrolamentos secundários, exatidão, cargas nominais, desempenho
+transitório etc.) especificadas em função da aplicação.
+3.1.4. Os TC dos sistemas de proteção devem ser utilizados na instalação de forma a permitir a superposição
+das zonas de atuação das proteções de equipamentos primários adjacentes, de forma a evitar a existência
+de “zonas mortas”. Devem ser utilizadas proteções que tenham funcionalidades que possam detectar faltas
+em eventuais “zonas mortas”.
+3.1.5. As correntes e tensões fornecidas para cada sistema de proteção – principal e alternada – devem ser
+obtidas de núcleos independentes de TC e de secundários diferentes de TP.
+3.1.6. As proteções sujeitas a operação acidental por perda de potencial devem ter supervisão de tensão
+para bloqueio de operação e alarme. Para o caso de perda simultânea de alimentação de potencial para as
+duas proteções (principal e alternada), podem ser ativadas proteções temporizadas de sobrecorrente de
+emergência.
+3.1.7. Os sistemas de proteção principal e alternada devem ser alimentados por bancos de baterias,
+retificadores e circuitos de corrente contínua independentes. Além disso, o projeto dos painéis deve levar
+em conta os cuidados necessários para facilitar os trabalhos de manutenção, de modo a minimizar o risco de
+erros e acidentes.
+3.1.8. Os IED (dispositivo eletrônico inteligente) de proteção principal e alternada devem ser independentes
+e dedicados para cada FT da instalação.
+3.1.9. Os sistemas de proteção devem ter dois circuitos de disparo independentes para acionamento de
+disjuntores, com duas bobinas de disparo.
+3.1.10. Deve ser prevista a supervisão dos circuitos de corrente contínua dos relés de proteção e dos
+equipamentos de telecomunicação utilizados para teleproteção, dos esquemas de religamento automático
+e sincronismo, de forma a indicar através de alarme qualquer anormalidade que possa implicar perda da
+confiabilidade operacional do sistema de proteção.
+3.1.11. Em esquemas com arranjo do tipo barra dupla, os TC devem ser localizados fisicamente de modo
+que, quando for utilizado o disjuntor interligador de barras (disjuntor de transferência), continuem
+fornecendo correntes para as proteções dos vãos transferidos.
+3.1.12. O agente de transmissão deve manter disponível para consulta do ONS a documentação técnica das
+instalações sob sua responsabilidade, que inclui:
+Endereço na internet: http://www.ons.org.br 5 / 22
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para os sistemas de
+proteção, de registro de perturbações e de 2.11 Requisitos 2020.12 01/01/2021
+teleproteção
+(a) diagramas funcionais;
+(b) diagramas de blocos;
+(c) diagramas unifilares e trifilares;
+(d) manuais de operação e catálogos dos equipamentos;
+(e) memórias de cálculo dos ajustes das proteções; e
+(f) relatórios de ensaios, inclusive os realizados na fase de comissionamento.
+3.2. Linhas de transmissão
+3.2.1. Requisitos gerais
+3.2.1.1. O sistema de proteção de uma linha de transmissão (LT) deve compreender o conjunto de
+dispositivos instalados nos seus terminais, necessários e suficientes para a detecção e eliminação, de forma
+seletiva, de todos os tipos de faltas – com ou sem resistência de falta – e de outras condições anormais de
+operação.
+3.2.1.2. Cada terminal da LT deve ter proteção principal e proteção alternada, composta por conjuntos de
+proteção – dispositivos, equipamentos de telecomunicação, relés auxiliares, painéis e demais acessórios –
+independentes, os quais devem ser idênticos e integrados aos conjuntos de proteção dos outros terminais
+da LT.
+3.2.1.3. Em cada terminal da LT, é admissível a utilização de conjunto de proteção principal diferente do
+conjunto de proteção alternada, desde que se atenda ao requisito explicitado no item 3.2.1.2. deste
+submódulo.
+3.2.1.4. Na implantação de uma subestação decorrente de seccionamento de LT, os sistemas de proteção
+principais dos dois terminais, na hipótese de não serem idênticos, devem possuir características de operação
+para todas as funções de proteção e métodos de polarização idênticos, de forma a garantir o desempenho
+correto dos esquemas de teleproteção, devendo a proposta de aplicação ser submetida ao ONS para
+avaliação. O mesmo se aplica à proteção alternada.
+3.2.1.5. Os sistemas de proteção devem ter as seguintes funções e lógicas de proteção:
+(a) função de distância (21/21 N) para detecção de faltas entre fases e entre fases e terra, com
+temporizadores independentes por zona;
+(b) função de sobrecorrente direcional residual (67 N) e/ou de sequência negativa (67 Q), com unidades
+instantânea e temporizada;
+(c) lógica de detecção de perda de potencial para bloqueio de operação e alarme das funções de proteção
+que dependem de informação de potencial;
+(d) lógica de detecção de faltas em eventuais zonas mortas;
+(e) lógica de detecção de faltas no trecho de LT que permanece energizado quando a chave isoladora da
+LT estiver aberta e seus disjuntores fechados (stub bus protection) em terminais de LT conectados a
+barramentos com arranjos do tipo disjuntor e meio ou anel;
+(f) lógica de detecção de faltas que ocorram durante a energização da LT (switch onto fault); e
+Endereço na internet: http://www.ons.org.br 6 / 22
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para os sistemas de
+proteção, de registro de perturbações e de 2.11 Requisitos 2020.12 01/01/2021
+teleproteção
+(g) função de bloqueio das unidades de distância por oscilação de potência (68 OSB), de disparo por
+oscilação de potência (68 OST) e de perda de sincronismo (78 OST), com as seguintes características:
+(1) ajustes das unidades de impedância e dos temporizadores independentes;
+(2) seleção do modo de disparo na entrada (trip on way in) ou na saída (trip on way out) da
+característica de medição; e
+(3) desbloqueio da função de bloqueio (68 OSB) para faltas assimétricas.
+3.2.1.6. No caso da utilização da função diferencial (87L), os sistemas de proteção devem possuir as funções
+e lógicas descritas no item 3.2.1.5. deste submódulo e sincronização de tempo.
+3.2.1.7. Os sistemas de proteção principal e alternada devem ser capazes de detectar faltas entre fases e
+entre fases e terra para 100% da extensão da LT protegida, sem retardo de tempo intencional, e possibilitar
+efetiva proteção de retaguarda para a LT protegida e para o barramento remoto, mantida a coordenação
+com as proteções dos componentes adjacentes.
+3.2.1.8. Quando de defeitos sólidos e sem ocorrência de falha de disjuntor, o tempo total de eliminação de
+faltas, que inclui o tempo de abertura dos disjuntores de todos os terminais da LT, não deve exceder a 100
+ms.
+3.2.1.9. Em LT conectada a barramento isolado a SF6, as proteções associadas ao compartimento de saída
+da LT, quando provocarem disparo local, devem comandar o envio de transferência de disparo para o
+terminal remoto (TDD mantido).
+3.2.1.10. As proteções principal e alternada de todos os terminais da LT devem ter proteção para
+sobretensões (59) nas três fases com elementos instantâneo e temporizado independentes.
+3.2.1.10.1. Os elementos instantâneos devem operar somente para sobretensões que ocorram
+simultaneamente nas três fases e os elementos temporizados devem operar para sobretensões sustentadas
+em qualquer uma das três fases.
+3.2.1.10.2. Os disparos dessas proteções devem ser realizados por relés auxiliares de alta velocidade, sem
+atuação sobre relés de bloqueio, e devem efetuar transferência de disparo para o terminal remoto sem iniciar
+o esquema de religamento automático da linha.
+3.2.1.11. Todo desligamento tripolar em um terminal da LT provocado por atuação de proteção de alta
+velocidade deve comandar o envio de sinal de transferência de disparo para abertura dos disjuntores dos
+terminais remotos.
+3.2.1.12. A lógica de transferência de disparo na recepção só deve iniciar o esquema de religamento
+automático da LT para os casos em que esse sinal é proveniente das proteções da linha (zona 1 e esquemas
+de teleproteção). Para os demais casos, o religamento não deve ser iniciado, bem como devem ser
+discriminados os desligamentos para os quais é desejado o bloqueio de fechamento manual dos disjuntores
+locais.
+3.2.2. Esquemas de religamento automático
+3.2.2.1. As LT devem ser dotadas de esquema para religamento automático tripolar e monopolar.
+3.2.2.2. Os esquemas de religamento automático devem atender à seguinte filosofia:
+(a) prover facilidades (por meio de chave seletora ou do sistema de controle) para colocação ou retirada
+de serviço do religamento automático;
+Endereço na internet: http://www.ons.org.br 7 / 22
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para os sistemas de
+proteção, de registro de perturbações e de 2.11 Requisitos 2020.12 01/01/2021
+teleproteção
+(b) em subestações com arranjo de barramento do tipo anel, barra dupla com disjuntor duplo ou
+disjuntor e meio, prever a possibilidade de religamento em quaisquer dos disjuntores associados à LT
+e prover facilidades (por meio de chave seletora ou do sistema de controle) para a seleção do disjuntor
+a religar;
+(c) para as funções de religamento monopolar e tripolar, ter ajustes independentes para o tempo morto;
+(d) uma vez iniciado um determinado ciclo de religamento, somente ser permitido um novo ciclo depois
+de decorrido um tempo mínimo ajustável, que se inicia com a abertura do disjuntor;
+(e) ser configurável para, opcionalmente, realizar o religamento automático apenas quando da
+ocorrência de curtos-circuitos internos fase-terra;
+(f) quanto ao ciclo de religamento, ser iniciado exclusivamente após a eliminação de faltas internas à LT
+por proteções de alta velocidade ou instantâneas, não devendo, por exemplo, ser iniciado quando de
+aberturas manuais dos disjuntores, operação de funções de retaguarda, faltas nos barramentos e
+reatores de linha, atuações de proteções para falha de disjuntor, recepção constante de sinal de
+transferência de disparo do terminal remoto, atuações de proteção de sobretensão e proteções de
+disparo por perda de sincronismo; e
+(g) ser prevista a possibilidade de seleção de qualquer um dos terminais da LT para religar primeiro
+(terminal líder). Esse religamento deve ocorrer depois de transcorrido o tempo morto ajustado. O
+outro terminal (terminal seguidor) deve religar com verificação de sincronismo. Para permitir a
+seleção do terminal líder, ambos os terminais devem ser equipados com esquemas de religamento e
+de verificação de sincronismo. O terminal líder deve religar somente se não houver tensão na LT. O
+terminal seguidor deve religar somente depois da verificação de sincronismo, se houver nível de
+tensão adequado na LT, ou seja, entre os limites mínimo e máximo permitidos.
+3.2.2.3. No caso de utilização de religamento automático monopolar, deve-se atender, adicionalmente, às
+seguintes condições:
+(a) o desligamento e o religamento dos dois terminais da LT devem ser monopolares para faltas
+monofásicas e tripolares para os demais tipos de falta. Caso não haja sucesso no ciclo de religamento,
+o desligamento deve ser tripolar;
+(b) durante o período de operação com fase aberta imposto pelo tempo morto do religamento
+monopolar, qualquer ordem de disparo deve ser tripolar, sem religamento da LT;
+(c) no caso de utilização de esquemas de teleproteção em sobrealcance, com funções direcionais de
+sobrecorrente residual (ou de sequência negativa), deve ser previsto o bloqueio dessas funções
+durante o período de operação com fase aberta; e
+(d) os sistemas de proteção devem permitir a correta seleção das fases defeituosas para comandar o
+desligamento do disjuntor de forma monopolar ou tripolar.
+3.2.3. Função para verificação de sincronismo
+3.2.3.1. A função para verificação de sincronismo deve permitir o ajuste do tempo total de religamento, cuja
+contagem deve incluir os tempos de abertura do disjuntor e os tempos mortos típicos para as respectivas
+classes de tensão. Além disso, deve possibilitar ajustes da diferença de tensão, defasagem angular, diferença
+de frequência e permitir seleção das seguintes condições para fechamento do disjuntor:
+Endereço na internet: http://www.ons.org.br 8 / 22
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para os sistemas de
+proteção, de registro de perturbações e de 2.11 Requisitos 2020.12 01/01/2021
+teleproteção
+(a) barra viva - linha morta;
+(b) barra morta - linha viva;
+(c) barra viva - linha viva; e
+(d) barra morta - linha morta.
+3.2.4. Verificação de sincronismo manual
+3.2.4.1. As instalações devem ser providas de dispositivo para a verificação das condições de sincronismo
+para o fechamento manual de seus disjuntores.
+3.2.4.2. No caso de ampliação ou modificação da instalação, devem ser instalados os transformadores de
+instrumentos eventualmente necessários para a realização da função de sincronização.
+3.2.4.3. O dispositivo de sincronização deve atender aos seguintes requisitos:
+(a) permitir o fechamento do disjuntor, após verificar que a diferença entre as tensões (módulo e ângulo
+de fase) e a diferença da frequência dos dois terminais estão dentro dos limites ajustados;
+(b) permitir o fechamento do disjuntor nas condições em que um ou ambos os lados do disjuntor estejam
+sem tensão – “barra viva-linha morta”, “barra morta-linha viva” ou “barra morta-linha morta”; e
+(c) exteriorizar as grandezas de tensão de ambos os lados do disjuntor a sincronizar, a diferença de
+ângulo de fase e o desvio de frequência entre seus terminais, bem como a indicação das condições de
+sincronização, de forma a permitir a adoção de medidas operativas para atingir a condição de
+sincronização.
+3.3. Unidades transformadoras de potência
+3.3.1. A proteção deve compreender o conjunto de relés e acessórios necessários e suficientes para a
+eliminação de todos os tipos de faltas internas – para terra, entre fases ou entre espiras – em unidades
+transformadoras de potência (transformadores de dois e três enrolamentos ou autotransformadores). Deve
+prover também proteção de retaguarda para falhas externas e internas à sua zona de proteção.
+3.3.2. Toda unidade transformadora de potência deve dispor dos seguintes sistemas de proteção
+independentes:
+(a) proteção principal e alternada, compostas de:
+(1) função diferencial percentual (87) com atuação diferencial por fase, com as seguintes
+características:
+(i) número de circuitos de restrição igual ao número de TC da malha diferencial; e
+(ii) restrição ou bloqueio de atuação para correntes de magnetização (inrush) e sobreexcitação;
+(2) funções de sobrecorrente temporizada de fase (51) e residual (51 R) vinculadas a cada um dos
+enrolamentos da unidade transformadora de potência;
+(3) função de sobrecorrente temporizada de neutro (51 N) vinculada a cada ponto de aterramento da
+unidade transformadora de potência; e
+(4) função de sobretensão de sequência zero (59 G) vinculada ao enrolamento terciário ligado em
+delta, para alarme de faltas à terra quando o terciário alimentar cargas locais na subestação; e
+Endereço na internet: http://www.ons.org.br 9 / 22
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para os sistemas de
+proteção, de registro de perturbações e de 2.11 Requisitos 2020.12 01/01/2021
+teleproteção
+(5) função diferencial de terra restrita (87 N) vinculada a cada ponto de aterramento da unidade
+transformadora de potência; e
+(b) proteção intrínseca, composta de:
+(1) função para detecção de faltas internas que ocasionem formação de gás (63) ou aumento da
+pressão interna (20), inclusive para o comutador;
+(2) função de sobretemperatura do óleo (26) com dois níveis de atuação (advertência e urgência);
+(3) função de sobretemperatura do enrolamento (49) com dois níveis de atuação (advertência e
+urgência); e
+(4) válvula de alívio.
+3.3.3. Para curtos-circuitos sólidos, o tempo total de eliminação de faltas, que inclui o tempo de operação
+do relé de proteção e dos relés auxiliares e o tempo de abertura dos disjuntores da unidade transformadora
+de potência pelas proteções principal e alternada (funções sem retardo intencional), não deve exceder a 100
+ms.
+3.3.4. A função diferencial do sistema de proteção alternada (87A) deve ser conectada aos enrolamentos
+dos TC do tipo pedestal localizados próximos aos disjuntores da unidade transformadora de potência, de
+forma que haja superposição entre a proteção diferencial da unidade transformadora de potência com as
+proteções diferenciais dos barramentos.
+3.3.5. A função diferencial do sistema de proteção principal (87P) pode, opcionalmente, ser conectada aos
+enrolamentos dos TC localizados nas buchas da unidade transformadora de potência. Nesse caso, deve ser
+prevista uma proteção de alta velocidade para o trecho de conexão da unidade transformadora de potência,
+entre o disjuntor e esses TC, para ser mantida uma proteção de alta velocidade para esse trecho em caso de
+indisponibilidade da proteção diferencial 87A.
+3.3.6. A atuação dos sistemas de proteção deve atender à seguinte filosofia:
+(a) as proteções diferenciais devem comandar a abertura de todos os disjuntores associados à unidade
+transformadora de potência através de relés auxiliares independentes para cada proteção (94P-
+AT/94A-AT, 94P-MT/94A-MT e 94P-BT/94A-BT). Esses relés auxiliares podem ser os mesmos utilizados
+pelas proteções de sobrecorrente;
+(b) as proteções diferenciais devem atuar em relés de bloqueio 86 para bloqueio de fechamento de todos
+os disjuntores associados à unidade transformadora de potência;
+(c) as proteções de sobrecorrente de fase e residuais devem comandar a abertura apenas dos disjuntores
+do respectivo enrolamento através de relés auxiliares de disparo independentes para cada proteção
+(94P-AT/94A-AT, 94P-MT/94A-MT e 94P-BT/94A-BT), com exceção das proteções relacionadas ao
+enrolamento terciário ligado em delta e proteções de sobrecorrente de neutro, que devem comandar
+o desligamento de todos os disjuntores associados à unidade transformadora de potência;
+(d) a função de detecção de gás (63), associada às proteções intrínsecas, deve comandar através de um
+contato independente a abertura de todos os disjuntores associados à unidade transformadora de
+potência, utilizando relé auxiliar de disparo independente (94PI) alimentado por fontes DC
+redundantes;
+Endereço na internet: http://www.ons.org.br 10 / 22
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para os sistemas de
+proteção, de registro de perturbações e de 2.11 Requisitos 2020.12 01/01/2021
+teleproteção
+(e) os níveis de advertência e urgência das funções de sobretemperatura do óleo (26) e do enrolamento
+(49) e a função para detecção de aumento da pressão interna (20), integrantes da proteção intrínseca
+da unidade transformadora de potência, devem ser utilizados para indicação e alarme; e
+(f) os níveis de urgência das funções de sobretemperatura do óleo (26) e do enrolamento (49),
+integrantes da proteção intrínseca da unidade transformadora de potência, podem ser utilizados para
+comandar a abertura de todos os disjuntores da unidade por meio de temporizadores independentes.
+3.4. Reatores em derivação
+3.4.1. A proteção deve compreender o conjunto de equipamentos e acessórios necessários e suficientes para
+a eliminação de todos os tipos de faltas internas – para a terra, entre fases ou entre espiras – em reatores
+monofásicos ou trifásicos, conectados em LT ou em barramento.
+3.4.2. Todo reator deve dispor dos seguintes sistemas de proteção independentes:
+(a) proteções principal e alternada, compostas de:
+(1) função diferencial (87), para os bancos de reatores monofásicos e trifásicos que possuam TC de
+bucha do lado de neutro, a qual:
+(i) deve ser utilizada por fase, conectada aos TC de bucha do lado de alta e aos TC de bucha do
+lado do neutro de cada reator; e
+(ii) deve possuir restrição da atuação por correntes de inrush e sobreexcitação;
+(2) função diferencial de terra restrita (87 R), a qual:
+(i) no caso de bancos de reatores monofásicos e trifásicos que possuam TC de bucha do lado de
+neutro, deve ser conectada ao circuito residual dos TC de bucha do lado de alta e ao circuito
+residual dos TC de bucha do lado do neutro; e
+(ii) no caso de reatores trifásicos que não possuam TC de bucha do lado de neutro, essa função
+deve ser conectada ao circuito residual dos TC de bucha do lado de alta e ao TC do neutro;
+(3) funções de sobrecorrente instantânea e temporizada de fase (50/51) e instantânea e temporizada
+residual (50/51 R), conectadas aos TC do lado da LT ou do barramento, conforme o caso, do reator;
+e
+(4) função de sobrecorrente instantânea e temporizada residual (50/51 R), conectada ao circuito
+residual dos TC de bucha do lado do neutro do reator, ou função de sobrecorrente instantânea e
+temporizada de neutro (50/51 N), conectada no TC de neutro do reator.
+(b) proteção intrínseca, composta de:
+(1) função para detecção de faltas internas que ocasionem formação de gás (63) ou aumento da
+pressão interna (20);
+(2) função de sobretemperatura do óleo (26) com dois níveis de atuação (advertência e urgência); e
+(3) função de sobretemperatura do enrolamento (49) com dois níveis de atuação (advertência e
+urgência).
+3.4.2.1. No caso de reatores de barra, podem ser utilizados os TC de pedestal para a conexão das proteções
+diferenciais e sobrecorrente do reator. Quando da utilização dos TC de bucha do lado de alta, para a conexão
+Endereço na internet: http://www.ons.org.br 11 / 22
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para os sistemas de
+proteção, de registro de perturbações e de 2.11 Requisitos 2020.12 01/01/2021
+teleproteção
+destas proteções, devem ser previstas proteções redundantes e de alta velocidade para o trecho de conexão
+do reator, entre o(s) disjuntor(es) e os TC de bucha de alta.
+3.4.3. O tempo total de eliminação de faltas, que inclui o tempo de operação do relé de proteção e dos relés
+auxiliares e o tempo de abertura dos disjuntores do reator, pelas proteções principal e alternada, não deve
+exceder a 100 ms.
+3.4.4. A atuação dos sistemas de proteção deve atender à seguinte filosofia:
+(a) no caso de reatores manobráveis, as proteções diferenciais e a função para detecção de formação de
+gás (63), devem comandar a abertura e o bloqueio dos disjuntores do reator;
+(b) no caso de reatores diretamente conectados à LT, as proteções diferenciais e a função para detecção
+de formação de gás (63), devem comandar a abertura e o bloqueio dos disjuntores locais e enviar
+comando para abertura e bloqueio de fechamento dos disjuntores dos terminais remotos da LT
+(transferência de disparo);
+(c) os níveis de advertência e urgência das funções de sobretemperatura do óleo (26) e do enrolamento
+(49) e a função para detecção de aumento da pressão interna (20), devem ser utilizados para indicação
+e alarme; e
+(d) os níveis de urgência das funções de sobretemperatura do óleo (26) e do enrolamento (49), podem
+ser utilizados para comandar a abertura e o bloqueio de todos os disjuntores do reator, por meio de
+temporizadores independentes.
+3.5. Barramentos
+3.5.1. O sistema de proteção de barramentos deve compreender o conjunto de relés e acessórios
+necessários e suficientes para detectar e eliminar todos os tipos de faltas nas barras, com ou sem resistência
+de falta.
+3.5.2. Cada barramento da instalação, com exceção dos barramentos com arranjo em anel, deve ser
+protegido localmente por dois sistemas de proteção independentes: principal e alternada.
+3.5.3. Em subestação com qualquer tipo de arranjo de barramento, exceto barramento em anel, é permitida
+a utilização de proteções de barra do tipo adaptativa que englobem os dois barramentos da instalação. Tais
+proteções devem ser duplicadas.
+3.5.4. O tempo total de eliminação de faltas, que inclui o tempo de operação da proteção do barramento e
+dos relés auxiliares e o tempo de abertura dos disjuntores, não deve ser superior a 100 ms.
+3.5.5. Os sistemas de proteção dos barramentos devem ter as seguintes funções e características:
+(a) proteção com princípio diferencial (87), de baixa ou alta impedância, ou por comparação de fase,
+para cada uma das três fases;
+(b) conexão a núcleos independentes dos TC;
+(c) imunidade para os diferentes níveis de saturação dos TC, com estabilidade para faltas externas e
+sensibilidade para faltas internas;
+(d) supervisão para os enrolamentos secundários dos TC dentro de sua zona de proteção, com bloqueio
+de atuação e alarme para o caso de abertura de circuito secundário; e
+(e) seletividade, para desligar apenas os disjuntores conectados à seção defeituosa do barramento.
+Endereço na internet: http://www.ons.org.br 12 / 22
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para os sistemas de
+proteção, de registro de perturbações e de 2.11 Requisitos 2020.12 01/01/2021
+teleproteção
+3.5.6. Os sistemas de proteção do barramento devem desligar e bloquear o fechamento de todos os
+disjuntores do barramento protegido.
+3.5.7. As proteções de novos vãos instalados em subestações existentes devem se adaptar à proteção do
+barramento existente. Caso isso não seja possível, a proteção do barramento deve ser substituída.
+3.6. Falha de disjuntor
+3.6.1. Todo disjuntor da subestação deve ser protegido por dois esquemas redundantes para falha de
+disjuntor, que podem estar integrados aos sistemas de proteção das diversas FT da subestação.
+3.6.2. Os esquemas de proteção para falha de disjuntor podem ser integrados aos sistemas de proteção dos
+barramentos da subestação.
+3.6.3. O tempo total de eliminação de faltas pelos esquemas de falha de disjuntor, que inclui o tempo de
+operação do relé de proteção e dos relés auxiliares e o tempo de abertura dos disjuntores, não deve exceder
+a 250 ms.
+3.6.4. Os sistemas de proteção para falha de disjuntor devem ter as seguintes funções:
+(a) funções de detecção de corrente (50 BF) e temporização (62 BF); e
+(b) função de bloqueio (86 BF).
+3.6.5. A atuação dos sistemas de proteção deve atender à seguinte filosofia:
+(a) ser acionado por todas as proteções que atuam no disjuntor protegido;
+(b) promover novo comando de abertura no disjuntor protegido (retrip), antes da atuação do bloqueio;
+e
+(c) comandar, para a eliminação da falha, a abertura e o bloqueio de fechamento dos disjuntores
+adjacentes ao disjuntor defeituoso, e comandar, se necessário, a transferência de disparo para os
+disjuntores remotos.
+3.6.6. Em unidades transformadoras de potência e reatores, devem ser previstas lógicas de paralelismo entre
+os contatos representativos de estado dos disjuntores e os contatos das unidades de supervisão de corrente
+(50 BF), de forma a viabilizar a atuação do esquema de falha de disjuntor para todos os tipos de defeitos
+nesses equipamentos, inclusive nos que não são capazes de sensibilizar os relés de supervisão de corrente
+dos referidos esquemas.
+3.6.7. O sistema de proteção para falha de disjuntor não deve ser acionado por comando manual do disjuntor
+nem por eventuais Sistemas Especiais de Proteção (SEP).
+3.7. Bancos de capacitores em derivação
+3.7.1. O sistema de proteção de banco de capacitores em derivação deve levar em consideração a potência,
+o nível de tensão, a configuração do banco e as características das unidades capacitivas.
+3.7.2. Os bancos de capacitores em derivação devem ser protegidos por dois sistemas de proteção
+independentes: principal e alternada.
+3.7.3. Os sistemas de proteção devem ter as seguintes funções e características:
+(a) função de sobrecorrente instantânea e temporizada de fase (50/51) e residual (50/51 R), para a
+eliminação de todos os tipos de falta no circuito entre o barramento e o banco de capacitores,
+inclusive defeitos oriundos do estabelecimento de arco elétrico entre racks capacitivos.
+Endereço na internet: http://www.ons.org.br 13 / 22
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para os sistemas de
+proteção, de registro de perturbações e de 2.11 Requisitos 2020.12 01/01/2021
+teleproteção
+(b) função de sobretensão de fase (59) com dois níveis, um para alarme e outro para disparo, com faixa
+de ajustes de 110% a 160% da tensão nominal e com temporizadores independentes;
+(c) função de sobrecorrente (61 N) ou sobretensão residual (59 G) para detecção de desequilíbrios
+decorrentes da queima de unidades capacitivas que possam provocar sobretensões danosas às
+unidades remanescentes, com dois níveis, um para alarme e outro para disparo, e temporizadores
+independentes. A função a ser utilizada (61 N ou 59 G) deve ser definida de acordo com o arranjo
+físico do banco de capacitores;
+(d) não deve atuar para faltas externas ao banco de capacitores; e
+(e) ser imunes a transitórios oriundos de chaveamentos e à presença de harmônicos.
+3.7.4. O tempo total de eliminação de faltas no circuito entre o barramento e o banco de capacitores em
+derivação, que inclui o tempo de operação dos relés de proteção, dos relés auxiliares e o tempo de abertura
+do disjuntor, não deve exceder a 100 ms.
+3.7.5. A atuação dos sistemas de proteção deve atender à seguinte filosofia:
+(a) as proteções de sobrecorrente de fase (50/51) e residual (50/51 R) devem comandar a abertura e o
+bloqueio de todos os disjuntores do banco de capacitores em derivação;
+(b) os níveis de atuação das funções de sobretensão de fase (59) e de detecção de desequilíbrios (61 N
+ou 59 G) devem comandar a abertura e o bloqueio de todos os disjuntores do banco de capacitores
+em derivação; e
+(c) os níveis de alarme das funções de sobretensão de fase (59) e de detecção de desequilíbrios (61 N ou
+59 G) devem ser utilizados para sinalização.
+3.8. Bancos de capacitores série
+3.8.1. Os bancos de capacitores série devem ser protegidos de acordo com a recomendação de seu
+fabricante e da norma [4].
+3.9. Filtros
+3.9.1. Os filtros devem ser protegidos por dois sistemas de proteção independentes: principal e alternada.
+3.9.2. No caso de utilização de bancos de filtros, o trecho entre o barramento principal e o barramento do
+banco de filtros deve ser protegido por proteção instantânea.
+3.9.3. O sistema de proteção de filtros deve operar para qualquer tipo de faltas em seu interior, inclusive
+para queima de unidades capacitivas.
+3.9.4. O tempo total de eliminação de faltas no trecho entre o barramento e o filtro, que inclui o tempo de
+operação dos relés de proteção, dos relés auxiliares e o tempo de abertura do disjuntor, não deve exceder a
+100 ms.
+3.9.5. Os sistemas de proteção dos filtros devem ter as seguintes funções:
+(a) contra perda de sintonia dos filtros;
+(b) contra sobretensão nas unidades capacitivas remanescentes causada pela falha de um ou mais
+elementos capacitivos associados (desbalanço);
+(c) contra sobrecarga térmica e dielétrica nos elementos individuais dos filtros;
+Endereço na internet: http://www.ons.org.br 14 / 22
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para os sistemas de
+proteção, de registro de perturbações e de 2.11 Requisitos 2020.12 01/01/2021
+teleproteção
+(d) de sobrecarga;
+(e) de sobrecorrente; e
+(f) para faltas à terra.
+3.10. Elos de corrente contínua
+3.10.1. Faltas elétricas, falhas ou operações anormais que possam submeter os equipamentos do elo de
+corrente contínua (elo CC) a danos devem ser detectadas por seus sistemas de proteção, e os equipamentos
+com defeito, com falha ou sobrecarregados devem ser retirados de operação ou ter suas sobrecargas
+controladas.
+3.10.2. Todo elo CC deve dispor de dois sistemas de proteção idênticos e independentes: principal e
+alternada.
+3.10.3. A proteção do lado CC deve ser coordenada com as proteções do lado CA.
+3.10.4. Os dois sistemas de proteção devem possuir facilidades que possibilitem a realização de testes
+durante a operação normal do elo CC, sem afetar a transmissão de energia elétrica pelo elo CC.
+3.10.5. Para os casos de polo formado por duas ou mais conversoras em série, as proteções da conversora
+devem desligar apenas a conversora defeituosa e manter as demais em operação normal.
+3.10.6. Em caso de falha total do sistema de telecomunicação entre estações conversoras, as proteções
+devem garantir que a conversora ou o polo continue protegido contra falhas.
+3.10.7. As proteções da estação conversora e as proteções entre estações conversoras devem ser
+coordenadas para eliminação de defeito com o mínimo de desligamentos.
+3.10.8. A proteção da linha de transmissão em corrente contínua (LT-CC) deve ser ativa apenas no terminal
+retificador e permitir de 1 (um) até 4 (quatro) religamentos, sendo 3 (três) religamentos com tensão plena e
+1 (um) religamento com tensão reduzida (70% da tensão nominal). Deve permitir qualquer combinação do
+número de religamentos com tensão plena, isto é: 1 (uma) plena com 1 (uma) reduzida, 2 (duas) plenas com
+1 (uma) reduzida, ou 3 (três) plenas com 1 (uma) reduzida. O último religamento deve ser efetivado sempre
+com tensão reduzida. Essa proteção não deve operar para falha de comutação na inversora.
+3.11. Compensadores estáticos
+3.11.1. Faltas elétricas, falhas ou operações anormais que possam submeter os equipamentos do
+compensador estático a danos devem ser detectadas por seus sistemas de proteção, e os equipamentos com
+defeito, com falha ou sobrecarregados devem ser retirados de operação ou ter suas sobrecargas controladas.
+3.11.2. O compensador estático deve dispor dos seguintes sistemas de proteção independentes:
+(a) proteção principal e alternada; e
+(b) proteção intrínseca.
+4. SISTEMAS DE REGISTRO DE PERTURBAÇÕES
+4.1. Requisitos gerais
+4.1.1. Para as instalações de transmissão, devem ser previstos Registradores Digitais de Perturbações (RDP)
+com configuração de canais de entradas analógicas e entradas digitais suficientes para permitir o completo
+Endereço na internet: http://www.ons.org.br 15 / 22
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para os sistemas de
+proteção, de registro de perturbações e de 2.11 Requisitos 2020.12 01/01/2021
+teleproteção
+monitoramento e registro dessas instalações, de acordo com os requisitos descritos no item 4.3 deste
+submódulo.
+4.1.2. O sistema de registro de perturbações deve atender aos seguintes requisitos funcionais:
+(a) ser implementado por equipamentos independentes dos demais sistemas de proteção ou supervisão
+(stand alone);
+(b) amostrar continuamente as grandezas analógicas e digitais supervisionadas, sendo que as amostras
+mais antigas devem ser sucessivamente substituídas por amostras mais recentes (buffer circular);
+(c) disparar o registro da perturbação por variações das grandezas analógicas e/ou digitais em quaisquer
+dos canais supervisionados, de forma livremente configurável;
+(d) transferir automaticamente os dados relativos à perturbação do buffer circular, quando houver
+disparo para registro de uma perturbação, e arquivá-los na memória do próprio RDP, sendo que
+durante a fase de armazenamento dos dados da perturbação, o RDP deve permanecer amostrando
+as grandezas analógicas e digitais, de forma a não perder nenhum evento;
+(e) interromper o registro de uma perturbação só depois de cessada a condição que ocasionou o disparo
+e transcorrido o tempo de pós-falta ajustado, sendo que, se ocorrer nova perturbação antes de
+encerrar o tempo de registro de uma perturbação, o RDP deve iniciar novo período de registro sem
+levar em conta o tempo já transcorrido da perturbação anterior;
+(f) registrar, para cada perturbação, no mínimo 160 ms de dados de pré-falta e ter tempo de pós-falta
+ajustável entre 100 e 5000 ms;
+(g) ter filtragem anti-aliasing e taxa de amostragem tal que permitam o registro nos canais analógicos de
+componentes harmônicas até a 15ª ordem (frequência nominal de 60 Hz);
+(h) registrar dia, mês, ano, hora, minuto, segundo e milissegundo de cada operação de registro;
+(i) ter relógio de tempo interno sincronizado por meio de receptor de sinal de tempo do GPS, de forma
+a manter o erro máximo da base de tempo inferior a 1 ms;
+(j) ter tempo de atraso entre a atuação de qualquer canal digital e o registro do respectivo sinal não
+superior a 2 ms;
+(k) ter tempo de atraso da amostragem entre quaisquer canais analógicos não superior a 1 grau elétrico,
+referido à frequência de 60 Hz;
+(l) ter memória suficiente para armazenar dados referentes a, no mínimo, 30 perturbações com duração
+de 5 s cada, para o caso de disparos consecutivos de registro de perturbação pelo RDP;
+(m)ter porta de comunicação para a transferência dos registros de perturbação do RDP; e
+(n) ser dotado de automonitoramento e autodiagnóstico contínuos.
+4.2. Rede de coleta de registros de perturbação dos agentes
+4.2.1. A arquitetura da rede de comunicação e o modo de transferência dos arquivos dos RDP para
+concentradores locais ou concentrador central devem ser definidos pelo agente responsável pela instalação,
+de forma a atender aos prazos e condições especificadas no Submódulo 7.10 – Implantação do sistema de
+registro de perturbações.
+Endereço na internet: http://www.ons.org.br 16 / 22
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para os sistemas de
+proteção, de registro de perturbações e de 2.11 Requisitos 2020.12 01/01/2021
+teleproteção
+4.2.2. Se o sistema de coleta realizar a transferência automática dos registros, deve ser prevista uma opção
+que permita a desativação do modo de transferência automática e a subsequente ativação de modo de
+transferência seletiva.
+4.3. Registro de perturbações
+4.3.1. Terminais de linha de transmissão
+4.3.1.1. As seguintes grandezas analógicas devem ser supervisionadas:
+(a) três correntes da LT (três fases ou duas fases e corrente residual); e
+(b) três tensões da LT (três fases ou duas fases e tensão residual).
+4.3.1.2. Os seguintes sinais digitais devem ser supervisionados pelos sistemas de proteção principal e
+alternada:
+(a) atuação de cada função de proteção que comanda disparo dos disjuntores;
+(b) atuação de cada função de proteção associada aos esquemas de teleproteção;
+(c) recepção e transmissão de sinal de transferência direta de disparo;
+(d) recepção e transmissão de sinais de teleproteção;
+(e) atuação de bloqueio por oscilação de potência;
+(f) atuação de religamento automático;
+(g) atuação do esquema de falha de disjuntor; e
+(h) desligamento pela proteção de perda de sincronismo.
+4.3.1.3. Os registros devem ser realizados para as seguintes condições:
+(a) alteração do estado de canal digital;
+(b) sobrecorrente nas fases monitoradas;
+(c) sobrecorrente residual;
+(d) subtensão nas fases monitoradas; ou
+(e) sobretensão residual.
+4.3.2. Barramentos
+4.3.2.1. Se houver TP instalados nos barramentos e estes forem utilizados por relés de proteção, devem ser
+supervisionadas, por barramento, as grandezas analógicas correspondentes às três tensões do barramento
+(três fases ou duas fases e tensão residual).
+4.3.2.2. Devem ser supervisionados pelos sistemas de proteção principal e alternada os sinais digitais do
+desligamento pela proteção diferencial.
+4.3.2.3. Os registros devem ser realizados para as seguintes condições:
+(a) alteração do estado de canal digital;
+(b) subtensão nas fases monitoradas; ou
+Endereço na internet: http://www.ons.org.br 17 / 22
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para os sistemas de
+proteção, de registro de perturbações e de 2.11 Requisitos 2020.12 01/01/2021
+teleproteção
+(c) sobretensão residual.
+4.3.3. Unidades transformadoras de potência
+4.3.3.1. As seguintes grandezas analógicas devem ser supervisionadas:
+(a) corrente das três fases para cada enrolamento da unidade transformadora de potência; e
+(b) corrente de sequência zero para cada ponto de aterramento da unidade transformadora de potência.
+4.3.3.2. Os seguintes sinais digitais devem ser supervisionados:
+(a) atuação de cada função de proteção, das proteções principal e alternada, que comanda o disparo dos
+disjuntores; e
+(b) desligamento pelas proteções intrínsecas.
+4.3.3.3. Os registros devem ser realizados para as seguintes condições:
+(a) alteração do estado de canal digital;
+(b) sobrecorrente nas fases monitoradas; ou
+(c) sobrecorrente residual.
+4.3.4. Reatores em derivação
+4.3.4.1. As seguintes grandezas analógicas devem ser supervisionadas:
+(a) correntes das três fases do reator; e
+(b) corrente de sequência zero do reator.
+4.3.4.2. Os seguintes sinais digitais devem ser supervisionados:
+(a) atuação de cada função de proteção, das proteções principais e alternadas, que comanda o disparo
+dos disjuntores; e
+(b) desligamento pelas proteções intrínsecas.
+4.3.4.3. Os registros devem ser realizados para as seguintes condições:
+(a) alteração do estado de canal digital;
+(b) sobrecorrente nas fases monitoradas; ou
+(c) sobrecorrente residual.
+4.3.5. Bancos de capacitores em derivação
+4.3.5.1. As seguintes grandezas analógicas devem ser supervisionadas:
+(a) corrente das três fases do banco de capacitores;
+(b) tensão fase-neutro das três fases do banco de capacitores, caso não supervisionadas no barramento;
+e
+(c) corrente ou tensão de desequilíbrio do banco de capacitores.
+Endereço na internet: http://www.ons.org.br 18 / 22
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para os sistemas de
+proteção, de registro de perturbações e de 2.11 Requisitos 2020.12 01/01/2021
+teleproteção
+4.3.5.2. Para as proteções principal e alternada, devem ser supervisionados os sinais digitais
+correspondentes à atuação de cada função de proteção que comanda o disparo dos disjuntores.
+4.3.5.3. Os registros devem ser realizados para as seguintes condições:
+(a) alteração do estado de canal digital;
+(b) sobrecorrente nas fases monitoradas;
+(c) sobretensão nas fases monitoradas; ou
+(d) sobretensão residual.
+4.3.6. Bancos de capacitores série
+4.3.6.1. As seguintes grandezas analógicas devem ser supervisionadas:
+(a) corrente das três fases dos capacitores ou do banco de capacitores;
+(b) corrente do gap e do Metal Oxide Varistor (MOV); e
+(c) corrente de descarga para plataforma.
+4.3.6.2. Devem ser supervisionados os sinais digitais correspondentes à atuação das proteções do banco de
+capacitores.
+4.3.6.3. Os registros devem ser realizados para as seguintes condições:
+(a) alteração do estado de canal digital;
+(b) sobrecorrente nas fases monitoradas;
+(c) sobrecorrente no gap ou no MOV; ou
+(d) sobrecorrente para plataforma.
+4.3.7. Bancos de filtros
+4.3.7.1. As seguintes grandezas analógicas devem ser supervisionadas:
+(a) corrente das três fases do banco de filtros; e
+(b) corrente ou tensão de desequilíbrio do banco de filtros.
+4.3.7.2. Devem ser supervisionados os sinais digitais correspondentes à atuação das proteções do banco de
+filtros e de suas proteções intrínsecas.
+4.3.7.3. Os registros devem ser realizados para as seguintes condições:
+(a) alteração do estado de canal digital;
+(b) sobrecorrente nas fases monitoradas; ou
+(c) sobretensão nas fases monitoradas.
+4.3.8. Elos de corrente contínua
+4.3.8.1. As seguintes grandezas analógicas devem ser supervisionadas:
+(a) corrente CC do polo, medida entre a linha e o reator de alisamento;
+Endereço na internet: http://www.ons.org.br 19 / 22
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para os sistemas de
+proteção, de registro de perturbações e de 2.11 Requisitos 2020.12 01/01/2021
+teleproteção
+(b) tensão CC do polo, medida entre a linha e o reator de alisamento;
+(c) corrente CC no inversor;
+(d) tensão CC no inversor;
+(e) ângulo de disparo α (alfa) do retificador;
+(f) ângulo de extinção Ɣ (gama) do inversor;
+(g) corrente das três fases de cada enrolamento do transformador conversor;
+(h) tensão das três fases de cada enrolamento do transformador conversor;
+(i) tensão na linha do eletrodo do elo CC, em todos os pontos necessários; e
+(j) corrente na linha do eletrodo do elo CC, em todos os pontos necessários.
+4.3.8.2. Os seguintes sinais digitais devem ser supervisionados:
+(a) falha de comutação;
+(b) falta na linha CC;
+(c) proteção do polo;
+(d) bloqueio do polo;
+(e) partida do polo; e
+(f) di/dt.
+4.3.8.3. Os registros devem ser realizados para as seguintes condições:
+(a) alteração do estado de canal digital;
+(b) sobrecorrente nas fases monitoradas; ou
+(c) subtensão nas fases monitoradas.
+4.3.9. Compensadores estáticos
+4.3.9.1. As seguintes grandezas analógicas devem ser supervisionadas:
+(a) corrente de fase dos equipamentos componentes do compensador estático, inclusive as correntes
+residuais;
+(b) tensões do barramento a ser controlado pelo compensador estático; e
+(c) tensões do barramento de conexão do elemento do compensador estático controlado a tiristor.
+4.3.9.2. Os seguintes sinais digitais devem ser supervisionados:
+(a) atuação da proteção de quaisquer dos equipamentos componentes do compensador estático;
+(b) atuação das funções de controle que comandam o desligamento de parte ou de todos os
+equipamentos componentes do compensador estático; e
+(c) atuação das funções de controle necessárias para análise de seu desempenho.
+4.3.9.3. Os registros devem ser realizados para as seguintes condições:
+Endereço na internet: http://www.ons.org.br 20 / 22
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para os sistemas de
+proteção, de registro de perturbações e de 2.11 Requisitos 2020.12 01/01/2021
+teleproteção
+(a) alteração do estado de canal digital;
+(b) sobrecorrente nas fases monitoradas; ou
+(c) subtensão ou sobretensão nas fases monitoradas.
+5. SISTEMAS DE TELEPROTEÇÃO
+5.1. Canais
+5.1.1. A função teleproteção, que converte os sinais e mensagens das proteções em sinais e mensagens
+compatíveis com os canais dos sistemas de telecomunicação e vice-versa, pode ser executada pelos
+dispositivos de proteção, pelos equipamentos de telecomunicação ou ainda por equipamentos dedicados,
+denominados equipamentos de teleproteção.
+5.1.2. Funções de teleproteção integradas em equipamentos de telecomunicação devem ter interfaces
+dedicadas e independentes. Por sua vez, os equipamentos que têm tais funções integradas devem ser
+adequados para uso em instalações de transmissão de sistemas elétricos de potência, conforme o item 2.2.
+deste submódulo.
+5.1.3. Os canais para teleproteção devem:
+(a) ser adequados ao esquema de teleproteção selecionado ou à quantidade de grandezas ou
+informações a serem transferidas, no que concerne ao número de comandos, largura de banda, taxa
+de transmissão, tempo de propagação, simetria e variação de tempo de propagação e integridade das
+informações; e
+(b) manter a confiabilidade e segurança de operação em situações de baixa relação sinal/ruído (canal
+analógico) ou erro na taxa de transmissão (BER) acima do especificado.
+5.1.4. Os equipamentos de teleproteção devem:
+(a) ter facilidades para a simulação do funcionamento dos esquemas de teleproteção, ponta a ponta,
+com o bloqueio simultâneo da saída de comando para a proteção, independentemente do meio de
+comunicação utilizado, para que seja possível realizar verificações dos enlaces sem ser necessário
+desligar a LT; e
+(b) ter chaves de teste para permitir realizar intervenção nos equipamentos de proteção e de
+telecomunicação sem ser necessário desligar a LT.
+5.1.5. Se o equipamento de teleproteção for instalado em edificação distinta da dos equipamentos de
+telecomunicação, a interligação entre ambos, independentemente da distância envolvida, deve ser efetuada
+de forma a não comprometer a confiabilidade e a segurança da teleproteção.
+5.1.6. Os canais de telecomunicação providos por sistema de onda portadora sobre linha de transmissão
+(OPLAT) devem manter a confiabilidade e a segurança de operação em condições adversas de relação
+sinal/ruído, sobretudo na ruptura ou curto-circuito para terra de uma das fases da LT utilizadas pelo sistema
+OPLAT.
+5.1.7. Os esquemas de teleproteção integrantes das proteções principal e alternada devem ser
+implementados através de meios físicos totalmente independentes, de modo a evitar falhas de modo
+comum.
+Endereço na internet: http://www.ons.org.br 21 / 22
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para os sistemas de
+proteção, de registro de perturbações e de 2.11 Requisitos 2020.12 01/01/2021
+teleproteção
+5.1.7.1. Se houver necessidade de utilização dos esquemas de teleproteção das LT para envio de sinal de
+transferência de disparo para o terminal remoto, isso deve ser realizado através dos esquemas de
+teleproteção das proteções principal e alternada da LT.
+5.1.7.2. Se o esquema de transferência direta de disparo da proteção principal ou alternada utilizar sistema
+OPLAT, devem ser previstos dois canais de telecomunicação para atendimento aos requisitos do item 5.1.8.
+deste submódulo. Nesses casos, o outro sistema de teleproteção deve obrigatoriamente utilizar outro meio
+físico para implementação, igualmente dotado de dois canais de comunicação.
+5.1.8. Em condições normais, o disparo nos esquemas de transferência de disparo se dá pelo recebimento
+dos comandos de disparo em ambos os canais. No caso de falha de um dos canais de telecomunicação, o
+esquema deve permitir o disparo apenas com o recebimento do comando no canal íntegro (lógica
+monocanal).
+5.2. Esquemas de teleproteção para LT
+5.2.1. Os esquemas de teleproteção para LT devem atender aos seguintes requisitos:
+(a) não devem ser permissivos por subalcance;
+(b) a unidade instantânea da proteção de sobrecorrente direcional residual (67 N) e/ou de sequência
+negativa (67 Q) deve(m) atuar incorporada(s) ao esquema de teleproteção selecionado e utilizar canal
+de teleproteção independente do canal utilizado para as proteções de distância;
+(c) em esquemas de teleproteção permissivos por sobrealcance, devem ser utilizadas lógicas de bloqueio
+temporário para evitar operação incorreta durante a eliminação sequencial de faltas em LT paralelas
+(transient blocking); e
+(d) os esquemas de teleproteção permissivos por sobrealcance devem ter lógicas para a devolução de
+sinal permissivo (echo) e de disparo para proteção de terminais com fraca alimentação (weak infeed).
+5.2.2. Os canais para teleproteção devem ser dedicados, específicos para proteção e não compartilhados
+com outras aplicações.
+5.2.3. Os esquemas de teleproteção devem ser redundantes para as proteções principal e alternada e utilizar
+meios físicos de transmissão independentes, de tal forma que a indisponibilidade de uma via de
+telecomunicação não comprometa a disponibilidade da outra via.
+5.2.4. Os equipamentos dos sistemas de teleproteção devem observar o requisito do item 3.2.1.2. deste
+submódulo.
+6. REFERÊNCIAS
+[1] ONS RE 3 200/2012 – FILOSOFIAS DAS PROTEÇÕES DOS TRANSFORMADORES E
+AUTOTRANSFORMADORES DA REDE DE OPERAÇÃO DO ONS
+[2] ONS RE 3 109/2011 – FILOSOFIAS DAS PROTEÇÕES DAS LTS DE ALTA E EXTRA ALTA TENSÃO DA REDE DE
+OPERAÇÃO DO ONS
+[3] ONS RE 3 220/2012 – FILOSOFIAS DAS PROTEÇÕES DAS LTS DE TENSÃO INFERIOR A 345 kV DA REDE DE
+OPERAÇÃO DO ONS
+[4] IEC, Series capacitors for power systems — Part 2 Protective equipment for series capacitor banks.
+Standard IEC 143
+Endereço na internet: http://www.ons.org.br 22 / 22

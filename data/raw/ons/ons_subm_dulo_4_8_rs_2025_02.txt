@@ -1,0 +1,136 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 4.8-RS_2025.02
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 4.8-RS_2025.02.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 4.8
+Acompanhamento e previsão
+meteorológica e climática
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2025.02 Despacho ANEEL nº 370/2025 27/02/2025
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Acompanhamento e previsão meteorológica e
+4.8 Responsabilidades 2025.02 01/05/2025
+climática
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Boletim Climático Mensal..............................................................................................................3
+2.2. Boletim de Tempo Severo.............................................................................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de geração, transmissão e distribuição...........................................................................4
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIAS...................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Acompanhamento e previsão meteorológica e
+4.8 Responsabilidades 2025.02 01/05/2025
+climática
+1. OBJETIVO
+1.1. Estabelecer os produtos, responsabilidades, prazos e etapas de processo para o acompanhamento e
+previsão meteorológica e climática, necessários à realização das atividades de planejamento, programação
+e operação do Sistema Interligado Nacional (SIN).
+2. PRODUTOS
+2.1. Boletim Climático Mensal
+2.1.1. Apresenta as tendências e os indicadores climáticos com ênfase nas bacias hidrográficas e centros de
+carga de interesse.
+2.2. Boletim de Tempo Severo
+2.2.1. Apresenta a abrangência, o período de vigência e classificação de severidade, sempre que se prevê ou
+se observa condição meteorológica severa, associada a rajadas de vento, precipitação e descargas
+atmosféricas nas regiões onde é realizado o monitoramento meteorológico.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Estabelecer, com a participação facultativa dos agentes de geração, transmissão e distribuição, o
+tipo, o formato, a periodicidade e os prazos de encaminhamento, por estes agentes, das
+informações relativas ao acompanhamento e à previsão meteorológica e climática.
+(b) Analisar as informações relativas ao acompanhamento e à previsão meteorológica e climática
+disponibilizadas pelos agentes envolvidos e, se necessário, solicitar as correções necessárias.
+(c) Elaborar relatórios com as informações e os resultados de estudos meteorológicos e climáticos e
+disponibilizá-los aos agentes e à Agência Nacional de Energia Elétrica – ANEEL.
+(d) Analisar as redes meteorológicas e pluviométricas disponíveis e, caso necessário, propor à ANEEL
+e à Agência Nacional de Águas e Saneamento Básico – ANA a instalação de novas estações
+meteorológicas e postos pluviométricos, novos sensores e sistemas de transmissão de dados em
+tempo real nas estações e postos existentes.
+(e) Elaborar o Boletim de Tempo Severo e disponibilizá-lo aos agentes envolvidos e à ANEEL.
+(f) Acompanhar, analisar, consolidar e tratar os dados meteorológicos observados.
+(g) Acompanhar, analisar, consolidar e tratar os dados meteorológicos previstos.
+(h) Definir e/ou revisar, quando necessário, as metodologias para consistência dos dados
+meteorológicos.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Acompanhamento e previsão meteorológica e
+4.8 Responsabilidades 2025.02 01/05/2025
+climática
+3.2. Agentes de geração, transmissão e distribuição
+(a) Fornecer ao ONS, nos formatos, prazos e periodicidades estabelecidos, as informações sobre a rede
+meteorológica e pluviométrica sob sua responsabilidade.
+(b) Fornecer ao ONS os dados meteorológicos consolidados, sob sua responsabilidade, coletados nas
+estações anemométricas, meteorológicas, solarimétricas e postos pluviométricos localizados em
+áreas de interesse para a operação do SIN.
+Atividade Responsável Prazo Periodicidade Horizonte
+Elaboração do Boletim Mês anterior ao da
+Até o 5º
+1 Climático Mensal e ONS Mensal elaboração até, no mínimo,
+dia útil
+disponibilização 3 meses após a elaboração
+4. PRAZOS
+Quadro 1 – Prazos para acompanhamento e previsão climática
+Quadro 2 - Prazos para acompanhamento e previsão meteorológica
+Periodi-
+Atividade Responsável Prazo Horizonte
+cidade
+Agente de
+Envio de dados e
+geração, de
+1 informações Até às 10h Diária -
+transmissão e
+meteorológicas
+distribuição
+Agente de
+Envio de dados e
+geração, de Até 15 minutos
+2 informações Horária -
+transmissão e após cada hora
+meteorológicas
+distribuição
+Atualização das
+3 ONS Até às 14h Diária -
+previsões numéricas
+Mínimo 7 dias, relativos
+aos dados de precipitação
+Análise dos dados
+Diária e temperatura; e
+4 meteorológicos ONS Até às 11h
+(dias úteis) Mínimo 48 horas,
+obtidos
+relativos aos dados de
+vento.
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Acompanhamento e previsão meteorológica e
+4.8 Responsabilidades 2025.02 01/05/2025
+climática
+Periodi-
+Atividade Responsável Prazo Horizonte
+cidade
+Elaboração de mapas
+5 de precipitação ONS Até às 14h Diária -
+observada
+Até o 1º dia útil
+Disponibilização do
+subsequente à Sob
+6 Boletim de Tempo ONS -
+data de sua demanda
+Severo
+emissão
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 5 / 5

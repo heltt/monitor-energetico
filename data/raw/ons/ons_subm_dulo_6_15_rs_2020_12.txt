@@ -1,0 +1,233 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.15-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.15-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.15
+Gerenciamento da qualidade da energia
+elétrica da Rede Básica
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede – Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Gerenciamento da qualidade da energia elétrica
+6.15 Responsabilidades 2020.12 01/01/2021
+da Rede Básica
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Relatório Gerencial dos Indicadores de Continuidade do Serviço................................................3
+2.2. Relatório Gerencial dos Indicadores de Frequência e de Tensão de Atendimento em Regime
+Permanente...................................................................................................................................3
+2.3. Relatório Gerencial dos Indicadores de Flutuação, Desequilíbrio e Distorção Harmônica de
+Tensão...........................................................................................................................................3
+2.4. Relatório Gerencial dos Indicadores de Variação de Tensão de Curta Duração...........................4
+3. RESPONSABILIDADES.......................................................................................................................4
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................4
+3.2. Agentes de transmissão, de distribuição, de geração, de importação/exportação e dos
+consumidores livres e potencialmente livres................................................................................5
+3.3. Agentes de transmissão................................................................................................................5
+3.4. Agentes de geração, distribuição e consumidores........................................................................6
+3.5. Consumidores livres e potencialmente livres e agentes de importação/exportação...................6
+4. PRAZOS............................................................................................................................................7
+5. REFERÊNCIAS...................................................................................................................................7
+Endereço na internet: http://www.ons.org.br 2 / 7
+Procedimentos de Rede – Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Gerenciamento da qualidade da energia elétrica
+6.15 Responsabilidades 2020.12 01/01/2021
+da Rede Básica
+1. OBJETIVO
+1.1. O objetivo deste submódulo é atribuir responsabilidades, apresentar os produtos, estabelecer os
+prazos e descrever as atividades relacionadas ao gerenciamento do desempenho da Rede Básica sob o
+ponto de vista da Qualidade de Energia Elétrica (QEE), a fim de:
+(a) balizar as ações do Operador Nacional do Sistema Elétrico – ONS relativas ao Plano de Ampliações e
+Reforços – PAR elaborado pelo ONS com a participação dos agentes;
+(b) subsidiar os estudos de planejamento e programação da operação, bem como a própria operação em
+tempo real do sistema de transmissão;
+(c) subsidiar os usuários conectados ou que requeiram conexão às instalações sob responsabilidade de
+concessionária de transmissão com as informações necessárias sobre QEE nos pontos de conexão;
+(d) subsidiar os agentes de transmissão com as informações sobre QEE necessárias ao dimensionamento
+de suas instalações;
+(e) fornecer aos usuários, acessantes e concessionárias de transmissão, informações sobre os limites
+relativos aos indicadores de QEE; e
+(f) permitir a verificação da conformidade do desempenho das FT em relação aos requisitos
+estabelecidos nos Procedimentos de Rede e nos editais de licitação das instalações de transmissão.
+1.1.1. O desempenho da Rede Básica sob o ponto de vista da QEE é observado por meio de indicadores de
+continuidade do serviço, variação da frequência, tensão de atendimento em regime permanente, flutuação
+da tensão, desequilíbrio de tensão, distorção harmônica de tensão e variação de tensão de curta duração –
+VTCD definidos no Submódulo 9.7 – Indicadores de qualidade de energia elétrica da Rede Básica.
+1.1.2. Os valores dos indicadores são monitorados em barramentos sob responsabilidade de concessionária
+de transmissão, pontos de controle e pontos de observação da tensão e são obtidos a partir de registro de
+interrupções, medição através de campanha ou de forma contínua, monitoração, simulação, supervisão etc.
+2. PRODUTOS
+2.1. Relatório Gerencial dos Indicadores de Continuidade do Serviço
+2.1.1. Apresenta os estudos, análises, recomendações e eventuais ações relacionados aos indicadores de
+continuidade do serviço definidos no Submódulo 9.7.
+2.2. Relatório Gerencial dos Indicadores de Frequência e de Tensão de Atendimento em Regime
+Permanente
+2.2.1. Apresenta os principais aspectos relacionados aos indicadores de frequência e de tensão de
+atendimento em regime permanente definidos no Submódulo 9.7.
+2.3. Relatório Gerencial dos Indicadores de Flutuação, Desequilíbrio e Distorção Harmônica de Tensão
+2.3.1. Apresenta resultados de estudos e medições relacionados aos indicadores de flutuação, desequilíbrio
+e distorção harmônica de tensão definidos no Submódulo 9.7.
+Endereço na internet: http://www.ons.org.br 3 / 7
+Procedimentos de Rede – Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Gerenciamento da qualidade da energia elétrica
+6.15 Responsabilidades 2020.12 01/01/2021
+da Rede Básica
+2.4. Relatório Gerencial dos Indicadores de Variação de Tensão de Curta Duração
+2.4.1. Apresenta resultados de estudos e medições relacionados aos indicadores de Variação de Tensão de
+Curta Duração – VTCD definidos no Submódulo 9.7.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Avaliar o desempenho da Rede Básica quanto à QEE com base nos indicadores definidos no
+Submódulo 9.7 e requisitos estabelecidos no Submódulo 2.9 – Requisitos mínimos de qualidade de
+energia elétrica para acesso ou integração à Rede Básica.
+(b) Identificar as causas das violações de limites de desempenho dos indicadores de continuidade do
+serviço, frequência, tensão de atendimento em regime permanente, flutuação, desequilíbrio e
+distorção harmônica de tensão e propor as ações corretivas cabíveis ao agente responsável,
+diferenciando as questões sistêmicas das questões individuais.
+(c) Coordenar, no caso de violação dos limites globais de desempenho em pontos compartilhados por
+vários agentes, os estudos, análises e medições de grandezas elétricas necessárias à identificação das
+causas da violação, bem como à definição das ações a serem empreendidas, e à atribuição de
+responsabilidade pelas ações necessárias ao restabelecimento do adequado desempenho.
+(d) Propor, no caso de violação causadas por questões sistêmicas dos limites globais de desempenho em
+pontos compartilhados por vários agentes, alternativas de solução para a implantação de reforço ou
+ampliação das instalações de transmissão visando ao restabelecimento do adequado desempenho.
+(e) Solicitar, no caso de violação causadas por questões individuais dos limites globais de desempenho
+em pontos compartilhados por vários agentes, providências aos agentes responsáveis visando ao
+restabelecimento do adequado desempenho.
+(f) Levantar, consistir, tratar os dados, analisar e disponibilizar as informações referentes aos indicadores
+de QEE.
+(g) Especificar, contratar e coordenar os serviços relativos à apuração de indicadores de QEE, tanto sob
+a forma de medição contínua quanto através de campanhas de medição.
+(h) Emitir o Relatório Gerencial dos Indicadores de Continuidade do Serviço.
+(i) Emitir o Relatório Gerencial dos Indicadores de Frequência e de Tensão de Atendimento em Regime
+Permanente.
+(j) Emitir o Relatório Gerencial dos Indicadores de Flutuação, Desequilíbrio e Distorção Harmônica de
+Tensão.
+(k) Emitir o Relatório Gerencial dos Indicadores de Variação de Tensão de Curta Duração.
+(l) Disponibilizar os dados relativos a configurações e parâmetros elétricos da Rede Básica, no formato
+do programa de análise de redes em regime permanente, necessários à realização, pelos agentes, dos
+estudos de desempenho associados a novos acessos.
+(m)Fornecer aos agentes, mediante consulta, os valores dos indicadores apurados.
+Endereço na internet: http://www.ons.org.br 4 / 7
+Procedimentos de Rede – Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Gerenciamento da qualidade da energia elétrica
+6.15 Responsabilidades 2020.12 01/01/2021
+da Rede Básica
+(n) Calcular os valores dos indicadores de QEE relacionados à continuidade de serviço definidos no
+Submódulo 9.7, considerando suas diversas formas de agregação, e armazenar os resultados na Base
+de Dados Técnica (BDT) do ONS.
+(o) Divulgar os valores dos indicadores calculados.
+(p) Gerenciar os indicadores de continuidade a partir dos valores apurados.
+(q) Determinar os valores de referência para um novo ponto de controle incluído no processo de
+gerenciamento dos indicadores de continuidade.
+(r) Disponibilizar no site do ONS, com a respectiva data de vigência, os valores de referência para os
+indicadores de continuidade de cada ponto de controle definidos no Submódulo 9.7.
+(s) Manter, para sua referência e dos agentes, uma base de dados com o detalhamento de cada caso
+estudado, contendo os índices apurados, as causas identificadas, as recomendações e as ações
+efetivamente realizadas.
+3.2. Agentes de transmissão, de distribuição, de geração, de importação/exportação e dos
+consumidores livres e potencialmente livres
+(a) Participar do processo de análise dos indicadores de desempenho, sob a coordenação do ONS.
+(b) Fornecer os dados e parâmetros do sistema elétrico sob sua responsabilidade para que seja possível
+a modelagem do sistema e a realização de estudos relativos à avaliação do desempenho da Rede
+Básica.
+(c) Realizar medições e estudos específicos, quando solicitados pelo ONS, relacionados à análise de
+indicadores de desempenho da Rede Básica.
+(d) Implementar as ações necessárias nas instalações sob sua responsabilidade com vistas a atender aos
+requisitos estabelecidos no Submódulo 2.9.
+(e) Disponibilizar os dados relativos ao sistema de monitoramento sob sua responsabilidade, quando
+solicitados pelo ONS.
+(f) Atender ao compromisso resultante da notificação de ação corretiva relativa ao desempenho da QEE
+quanto aos indicadores de continuidade do serviço.
+3.3. Agentes de transmissão
+(a) Consolidar os registros das interrupções nos pontos de controle.
+(b) Fornecer ao ONS os dados relativos aos valores de tensão em regime permanente e VTCD dos pontos
+sob sua responsabilidade.
+(c) Realizar a apuração dos valores dos indicadores de flutuação, desequilíbrio e distorção harmônica de
+tensão, por meio de medições contínuas ou campanhas de medição, e apresentar os resultados
+segundo formato e prazo estabelecidos pelo ONS.
+(d) Manter o desempenho individual de suas instalações de acordo com os requisitos estabelecidos no
+Submódulo 2.9, no que se refere aos indicadores de flutuação, desequilíbrio e distorção harmônica
+de tensão.
+Endereço na internet: http://www.ons.org.br 5 / 7
+Procedimentos de Rede – Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Gerenciamento da qualidade da energia elétrica
+6.15 Responsabilidades 2020.12 01/01/2021
+da Rede Básica
+(e) Atender ao estabelecido no Submódulo 7.8 – Avaliação do impacto do acesso ou integração à Rede
+Básica de instalações que contenham elementos não lineares ou especiais quanto à necessidade de
+realização de estudos prévios e medições, imediatamente antes e depois da integração à Rede Básica
+de instalações, sob sua responsabilidade, que contenham elementos não lineares ou especiais.
+(f) Implementar as ações necessárias nas instalações sob sua responsabilidade com vistas a atender aos
+requisitos estabelecidos no Submódulo 2.9.
+3.4. Agentes de geração, distribuição e consumidores
+(a) Fornecer ao ONS os dados relativos aos valores de tensão em regime permanente e VTCD nos pontos
+sob sua responsabilidade.
+(b) Manter o desempenho individual de suas instalações de acordo com os requisitos estabelecidos no
+Submódulo 2.9, no que se refere aos indicadores de flutuação, desequilíbrio e distorção harmônica
+de tensão.
+(c) Atender ao estabelecido neste submódulo quanto à necessidade de realização de estudos prévios e
+medições, imediatamente antes e depois da conexão de instalações não lineares às instalações sob
+responsabilidade de concessionária de transmissão.
+(d) Implementar as ações necessárias nas instalações sob sua responsabilidade com vistas a atender aos
+requisitos estabelecidos no Submódulo 2.9.
+(e) Realizar a apuração dos valores dos indicadores de flutuação, desequilíbrio e distorção harmônica de
+tensão, por meio de medições contínuas ou campanhas de medição, e apresentar os resultados
+segundo formato e prazo estabelecidos pelo ONS.
+3.5. Consumidores livres e potencialmente livres e agentes de importação/exportação
+(a) Manter o desempenho individual de suas instalações com base nos indicadores definidos no
+Submódulo 9.7 e requisitos estabelecidos no Submódulo 2.9, no que se refere aos indicadores de
+flutuação, desequilíbrio e distorção harmônica de tensão.
+(b) Atender ao estabelecido neste submódulo quanto à necessidade de realização de estudos prévios e
+medições, imediatamente antes e depois da conexão de instalações não lineares às instalações sob
+responsabilidade de concessionária de transmissão.
+(c) Implementar as ações necessárias nas instalações sob sua responsabilidade com vistas a atender os
+requisitos estabelecidos no Submódulo 2.9.
+Endereço na internet: http://www.ons.org.br 6 / 7
+Procedimentos de Rede – Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Gerenciamento da qualidade da energia elétrica
+6.15 Responsabilidades 2020.12 01/01/2021
+da Rede Básica
+4. PRAZOS
+Quadro 1 – Prazos para o gerenciamento da qualidade da energia elétrica da Rede Básica
+Atividade Responsável Prazos
+Emissão do Relatório Gerencial dos Indicadores
+1 ONS até 31 de março de cada ano
+de Continuidade do Serviço
+Emissão do Relatório Gerencial dos Indicadores
+2 de Frequência e de Tensão de Atendimento em ONS até 31 de março de cada ano
+Regime Permanente
+Emissão do Relatório Gerencial dos Indicadores até 30 (trinta) dias após o
+3 de Flutuação, Desequilíbrio e Distorção ONS encerramento de cada
+Harmônica de Tensão campanha de medição
+Emissão do Relatório Gerencial dos Indicadores
+4 ONS até 31 de março de cada ano
+de Variação de Tensão de Curta Duração
+Implantação das ações corretivas e preventivas
+6 Agente Estabelecido pelo ONS
+para as violações dos indicadores identificadas
+Apuração dos valores dos indicadores de
+Agentes de
+flutuação, desequilíbrio e distorção harmônica
+transmissão,
+de tensão, por meio de medições contínuas ou
+7 de geração, de Estabelecido pelo ONS
+campanhas de medição e apresentação dos
+distribuição e
+resultados segundo formato estabelecido pelo
+consumidores
+ONS.
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 7 / 7

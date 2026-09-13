@@ -1,0 +1,24 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 04/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=04/02/2026&jornal=515&pagina=65
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado de Rondônia
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 131/2026
+Fase de Licenciamento
+Determina cumprimento de exigência - Prazos estabelecidos em ofício(2807)
+886.032/2015 - MICHEL JUNIOR CAMPANHONNI - Ofício nº 5716/2026
+Fase de Requerimento de Lavra
+Determina cumprimento de exigência - Prazo 60 dias(361)
+886.299/2012-AREAL PORTO SULAMERICA LTDA-OF. N°1415/2026
+Fase de Requerimento de Pesquisa
+Determina cumprimento de exigência - Prazo 60 dias(131)
+886.236/2014-CASSIUS CLOVIS CEZEMER DE MORAIS-OF. N°5996/2026
+ANTÔNIO TEOTÔNIO DE SOUZA NETO
+Gerente

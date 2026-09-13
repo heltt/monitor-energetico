@@ -1,0 +1,21 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 18/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=18/02/2026&jornal=515&pagina=194
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado da Paraíba
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 7/2026
+Fase de Requerimento de Licenciamento
+O GERENTE REGIONAL DA AGÊNCIA NACIONAL DE MINERAÇÃO, no uso da competência delegada de que trata o Art. 23, inciso IV, alínea "a" da Ordem de Serviço nº 334, de 12 de agosto de 2025, outorga o(s) seguinte(s) Registro(s) de Licença com vigência a partir da data de publicação:(730)
+Registro de Licença n°: 39/2026 - Processo nº: 846.068/2025 - Titular: EMILIO MOREIRA DA NOBREGA - Vencimento: 14/04/2028 - Substância(s): AREIA, ARGILA - Município(s): SÃO JOÃO DO RIO DO PEIXE/PB, SANTA HELENA/PB
+Registro de Licença n°: 87/2026 - Processo nº: 846.043/2025 - Titular: JOVELINO CAROLINO DELGADO NETO - Vencimento: indeterminado - Substância(s): AREIA - Município(s): CASSERENGUE/PB, DAMIÃO/PB
+Registro de Licença n°: 88/2026 - Processo nº: 846.278/2024 - Titular: ANDERSON JUNIOR LIMA DA SILVA - Vencimento: 15/10/2026 - Substância(s): AREIA - Município(s): DONA INÊS/PB, RIACHÃO/PB
+Registro de Licença n°: 90/2026 - Processo nº: 846.016/2025 - Titular: JOSE ROCHA CAVALCANTI FILHO - Vencimento: 06/02/2030 - Substância(s): AREIA - Município(s): POCINHOS/PB
+Registro de Licença n°: 98/2026 - Processo nº: 846.029/2025 - Titular: ADONIS DE AQUINO SALES NETO - Vencimento: 27/01/2075 - Substância(s): AREIA - Município(s): MULUNGU/PB
+ARNALDO BEZERRA LOPES DE ALMEIDA

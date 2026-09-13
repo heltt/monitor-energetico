@@ -1,0 +1,25 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 04/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=04/02/2026&jornal=515&pagina=66
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Superintendência de Segurança de Barragens e Pilhas de Mineração/Gerência de Barragens de Mineração/Coordenação de Fiscalização de Barragens - Eixo Norte
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 5/2026
+Fase de Concessão de Lavra
+Prorroga prazo para cumprimento de exigência ténica de barragem - Prazos estabelecidos em ofício:(2368)
+Barragem USINA/CIP - LAGO 4 - FAZENDA BRASILEIRO DESENVOLVIMENTO MINERAL LTDA-000.367/1997-OF. N°6065/2026/CORBN/ANM
+BARRAGEM BACIA DO CASTANHEIRA - BURITIRAMA MINERACAO S.A. FALIDO-815.959/1973-OF. N°3033/2026/CORBN/ANM
+BARRAGEM DIQUE DO GROTÃO - BURITIRAMA MINERACAO S.A. FALIDO-815.959/1973-OF. N°5883/2026/CORBN/ANM
+BARRAGEM 02 - SAMACA FERROS LTDA-870.602/1980-OF. N°6526/2026/CORBN/ANM
+Determina cumprimento de exigência técnica de barragem - Prazos estabelecidos em ofício:(2890)
+BARRAGEM BACIA DO CASTANHEIRA-BURITIRAMA MINERACAO S.A. FALIDO-815.959/1973-OF. N°3032/2026/CORBN/ANM
+BARRAGEM DIQUE DO GROTÃO-BURITIRAMA MINERACAO S.A. FALIDO-815.959/1973-OF. N°5885/2026/CORBN/ANM
+BARRAGEM 02-SAMACA FERROS LTDA-870.602/1980-OF. N°6414/2026/CORBN/ANM
+TIAGO XAVIER
+Coordenador

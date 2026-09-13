@@ -1,0 +1,197 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.12-RS_2021.06
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.12-RS_2021.06.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.12
+Análise estatística de desligamentos
+forçados e do desempenho dos sistemas
+de proteção
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2021.06 Despacho ANEEL nº 1.895/2021 29/06/2021
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise estatística de desligamentos
+forçados e do desempenho dos sistemas 6.12 Responsabilidades 2021.06 02/07/2021
+de proteção
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Relatório de Análise Estatística de Desligamentos Forçados........................................................3
+2.2. Relatório de Análise Estatística do Desempenho dos Sistemas de Proteção e dos Relés de
+Proteção........................................................................................................................................3
+2.3. Relatório de Análise Estatística do Desempenho dos SEP.............................................................3
+2.4. Relatório de Análise Estatística do Desempenho dos Esquemas de Religamento Automático das
+Linhas de Transmissão...................................................................................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de operação.....................................................................................................................4
+4. PRAZOS............................................................................................................................................5
+5. REFERÊNCIAS...................................................................................................................................6
+Endereço na internet: http://www.ons.org.br 2 / 6
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise estatística de desligamentos
+forçados e do desempenho dos sistemas 6.12 Responsabilidades 2021.06 02/07/2021
+de proteção
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas do processo aplicado à Rede de
+Operação do Sistema Interligado Nacional (SIN) e relacionado à análise estatística de desligamentos forçados
+e do desempenho dos sistemas de proteção das funções transmissão e geração; do desempenho dos relés
+de proteção; do desempenho dos Sistemas Especiais de Proteção (SEP); e do desempenho dos esquemas de
+religamento automático de linhas de transmissão, no sentido de diagnosticar anormalidades e estabelecer
+providências corretivas.
+2. PRODUTOS
+2.1. Relatório de Análise Estatística de Desligamentos Forçados
+2.1.1. Consiste na análise estatística dos dados de desligamentos forçados de funções transmissão (linhas de
+transmissão, transformadores, barramentos, bancos de capacitores shunt, reatores manobráveis,
+compensadores síncronos, compensadores estáticos) e funções geração (unidades geradoras hidráulicas e
+térmicas) da Rede de Operação.
+2.2. Relatório de Análise Estatística do Desempenho dos Sistemas de Proteção e dos Relés de Proteção
+2.2.1. Consiste na análise estatística do desempenho dos sistemas de proteção de funções transmissão
+(linhas de transmissão, transformadores, barramentos, bancos de capacitores shunt, reatores manobráveis,
+compensadores síncronos, compensadores estáticos) e funções geração (unidades geradoras hidráulicas e
+térmicas) da Rede de Operação.
+2.3. Relatório de Análise Estatística do Desempenho dos SEP
+2.3.1. Consiste na análise estatística do desempenho dos SEP do SIN cujas filosofias foram concebidas pelo
+ONS.
+2.4. Relatório de Análise Estatística do Desempenho dos Esquemas de Religamento Automático das
+Linhas de Transmissão
+2.4.1. Consiste na análise estatística do desempenho e da eficácia dos esquemas de religamento automático
+das linhas de transmissão da Rede Básica.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Elaborar a classificação e o tratamento estatístico dos dados provenientes dos desligamentos
+forçados dos componentes da Rede de Operação.
+(b) Manter e disponibilizar para os agentes de operação o sistema computacional para cadastramento e
+levantamento estatístico de desligamentos forçados e atuações de proteção dos componentes da
+Rede de Operação e os dados cadastrais de esquemas de religamentos automáticos de linhas de
+transmissão e de relés de proteção.
+Endereço na internet: http://www.ons.org.br 3 / 6
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise estatística de desligamentos
+forçados e do desempenho dos sistemas 6.12 Responsabilidades 2021.06 02/07/2021
+de proteção
+(c) Disponibilizar a cada agente de operação acesso às suas respectivas bases de dados consolidados de
+desligamentos forçados dos componentes da Rede de Operação.
+(d) Disponibilizar à Agência Nacional de Energia Elétrica – ANEEL acesso irrestrito para consulta às
+informações do sistema computacional para cadastramento e levantamento estatístico de
+desligamentos forçados e atuações de proteção dos componentes da Rede de Operação e, sempre
+que solicitado, cópia da base de dados do sistema computacional e os arquivos suporte utilizados para
+os cálculos dos dados consolidados nos relatórios de análise estatística.
+(e) Atualizar e enviar para os agentes de operação as diretrizes relativas à metodologia da análise
+estatística.
+(f) Disponibilizar treinamento sobre o sistema computacional para cadastramento e levantamento
+estatístico de desligamentos forçados e atuações de proteção dos componentes do sistema para os
+agentes de operação, quando houver revisão do referido sistema.
+(g) Avaliar, em comum acordo com os agentes de operação, eventual necessidade de treinamento
+adicional em reunião promovida anualmente pelo ONS.
+(h) Elaborar e divulgar para os agentes de operação e para a ANEEL os relatórios de análise estatística.
+(i) Acompanhar o atendimento às providências originadas nos relatórios de análise estatística.
+3.2. Agentes de operação
+(a) Manter atualizados e consistidos os dados solicitados pelo ONS para realização dos estudos de análise
+estatística.
+(b) Consistir a classificação e o tratamento estatísticos realizados pelo ONS.
+(c) Informar ao ONS quando da instalação e substituição de relés de proteção e seus equipamentos
+associados.
+(d) Enviar ao ONS eventuais comentários e sugestões sobre os relatórios de análise estatística.
+(e) Atender tempestivamente às providências emitidas nos relatórios de análise estatística.
+(f) Avaliar, em comum acordo com o ONS, eventual necessidade de treinamento adicional em reunião
+promovida anualmente pelo ONS.
+Endereço na internet: http://www.ons.org.br 4 / 6
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise estatística de desligamentos
+forçados e do desempenho dos sistemas 6.12 Responsabilidades 2021.06 02/07/2021
+de proteção
+4. PRAZOS
+Quadro 1 - Prazos para as atividades do tratamento dos dados estatísticos de desligamentos forçados e
+desempenho dos sistemas de proteção
+Atividade Responsável Prazo Periodicidade
+Classificação estatística dos
+desligamentos forçados que Até o último dia útil do mês
+1 constituem as perturbações de ONS subsequente ao mês de Mensal
+cada mês e sua divulgação aos ocorrência dos desligamentos
+agentes para consistência
+Classificação dos desligamentos
+forçados associados às
+Após
+perturbações pendentes de
+atendimento
+parecer em sistema computacional Até 3 dias úteis após a data do
+2 ONS da providência
+do ONS cujo atendimento ocorra referido atendimento
+no sistema
+após o prazo determinado na
+computacional
+atividade 1 (tratamento como
+excepcionalidade)
+Até 15 dias úteis após o
+término do prazo estabelecido
+para a divulgação da
+Consistência da análise estatística Agente de
+3 classificação estatística dos Mensal
+realizada pelo ONS operação
+desligamentos forçados que
+constituem as perturbações
+de cada mês (atividade 1)
+Consistência dos desligamentos
+forçados associados a
+perturbações pendentes de
+parecer em sistema computacional
+Até 10 dias após a data de
+do ONS, cujo atendimento tenha Agente de
+4 disponibilização dos eventos Sob demanda
+sido posterior ao prazo operação
+para consistência (atividade 2)
+determinado ao ONS para a
+realização da análise estatística
+(tratamento como
+excepcionalidade)
+Endereço na internet: http://www.ons.org.br 5 / 6
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise estatística de desligamentos
+forçados e do desempenho dos sistemas 6.12 Responsabilidades 2021.06 02/07/2021
+de proteção
+Atividade Responsável Prazo Periodicidade
+Tratamento das eventuais
+discordâncias dos agentes de Até 5 dias úteis após o
+operação quanto à classificação término do prazo estabelecido
+5 ONS Sob demanda
+estatística realizada pelo ONS, para a consistência da análise
+devidamente registradas no estatística (atividade 3)
+sistema computacional
+Quadro 2 - Prazos para as atividades de elaboração e emissão dos relatórios de análise estatística
+Atividade Responsável Prazo Periodicidade
+Envio aos agentes de operação das
+minutas dos relatórios de análise Até o último dia útil do mês de
+1 ONS Anual
+estatística descritos neste abril do ano subsequente
+submódulo
+Envio ao ONS de eventuais
+Até 15 dias após recebimento
+comentários e sugestões sobre os Agente de
+2 das minutas dos relatórios de Anual
+relatórios de análise estatística operação
+análise estatística (atividade 1)
+descritos neste submódulo
+Disponibilização aos agentes de
+operação e à ANEEL, após
+Até o último dia útil do mês de
+3 consolidação, dos relatórios de ONS Anual
+maio do ano subsequente
+análise estatística descritos neste
+submódulo
+Atendimento às providências dos
+Agente de Estabelecido, em conjunto,
+4 relatórios de análise estatística Sob demanda
+operação pelo ONS e agente de operação
+descritos neste submódulo
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 6 / 6

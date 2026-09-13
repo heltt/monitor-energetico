@@ -1,0 +1,368 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.11-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.11-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.11
+Implantação do Sistema de Medição
+para Faturamento
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação do Sistema de Medição para
+7.11 Responsabilidades 2020.12 01/01/2021
+Faturamento
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Avaliação do Projeto do SMF........................................................................................................3
+2.2. Avaliação do Relatório de Comissionamento do SMF...................................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Câmara de Comercialização de Energia Elétrica – CCEE................................................................3
+3.3. Agentes conectados, exceto quando o agente conectante é um consumidor livre ou especial...4
+3.4. Agentes conectados, quando o agente conectante é um consumidor livre ou especial..............4
+3.5. Agentes conectantes, exceto consumidor livre ou especial..........................................................5
+3.6. Consumidores livres ou especiais conectantes a uma instalação de transmissão........................5
+4. PRAZOS............................................................................................................................................6
+5. REFERÊNCIAS...................................................................................................................................9
+Endereço na internet: http://www.ons.org.br 2 / 9
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação do Sistema de Medição para
+7.11 Responsabilidades 2020.12 01/01/2021
+Faturamento
+1. OBJETIVO
+1.1. Estabelecer os produtos, responsabilidades, prazos e etapas dos processos relativos à implantação do
+Sistema de Medição para Faturamento (SMF) nos casos de conexão de qualquer agente às instalações sob
+responsabilidade agente de transmissão e de conexão de usina classificada na modalidade de operação Tipo
+I ou Tipo II, conforme estabelecido no Submódulo 7.2 – Classificação da modalidade de operação das usinas,
+às instalações sob responsabilidade de agente de distribuição.
+1.1.1. Os produtos, responsabilidades, prazos e etapas dos processos relativos à implantação do SMF nos
+casos de conexão de agentes de distribuição, usina classificada na modalidade de operação Tipo III ou
+consumidores livres ou especiais às instalações sob responsabilidade de agente de distribuição estão
+estabelecidos nos Procedimentos de Distribuição de Energia Elétrica no Sistema Elétrico Nacional (PRODIST)
+e em regulação [1][2].
+2. PRODUTOS
+2.1. Avaliação do Projeto do SMF
+2.1.1. Consiste na análise e aprovação em sistema computacional da Câmara de Comercialização de Energia
+Elétrica – CCEE dos documentos referentes ao Projeto do SMF de cada ponto de medição enviado pelos
+agentes.
+2.2. Avaliação do Relatório de Comissionamento do SMF
+2.2.1. Consiste na análise e aprovação em sistema computacional da CCEE dos documentos referentes ao
+Relatório de Comissionamento do SMF de cada ponto de medição enviado pelos agentes.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Estabelecer, em conjunto com a CCEE, as especificações técnicas para o SMF.
+(b) Definir, em conjunto com a CCEE, a localização dos pontos de medição.
+(c) Analisar, em conjunto com a CCEE, as eventuais exceções de procedimento de instalação do SMF para
+aprová-las, reprová-las e/ou propor soluções.
+(d) Analisar, em conjunto com a CCEE, as eventuais exceções de configuração de instalação do SMF e
+encaminhá-las para análise da Agência Nacional de Energia Elétrica – ANEEL.
+(e) Analisar e aprovar os projetos do SMF e os relatórios de comissionamento do SMF pré-aprovados ou
+elaborados pelo agente conectado ou, no caso de SMF para geração bruta, elaborados pelo agente
+de geração.
+(f) Arbitrar possíveis controvérsias entre os agentes envolvidos, por ocasião da aprovação do projeto, da
+montagem e/ou do comissionamento do SMF.
+3.2. Câmara de Comercialização de Energia Elétrica – CCEE
+Endereço na internet: http://www.ons.org.br 3 / 9
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação do Sistema de Medição para
+7.11 Responsabilidades 2020.12 01/01/2021
+Faturamento
+(a) Estabelecer, em conjunto com o ONS, as especificações técnicas para o SMF.
+(b) Definir, em conjunto com a ONS, a localização dos pontos de medição.
+(c) Elaborar o Parecer de localização do ponto de medição e enviá-lo ao agente responsável pelo SMF.
+(d) Realizar os testes de comunicação da CCEE com os medidores do SMF e os testes de coleta de dados.
+(e) Analisar, em conjunto com o ONS, as eventuais exceções do procedimento de instalação do SMF para
+aprová-las, reprová-las e/ou propor soluções.
+(f) Analisar, em conjunto com o ONS, as eventuais exceções da configuração de instalação do SMF e
+encaminhá-las para análise da ANEEL.
+(g) Disponibilizar todas as informações de instalação do SMF constante em seu banco de dados para
+consulta dos agentes.
+(h) Estabelecer o plano de endereçamento e TCP/IP (Transmission Control Protocol/Internet Protocol) e
+os parâmetros de configuração de VPN (Virtual Private Network) para a rede de comunicação do SMF.
+3.3. Agentes conectados, exceto quando o agente conectante é um consumidor livre ou especial
+(a) Informar os dados necessários e cooperar com o agente conectante para elaboração do projeto,
+instalação e comissionamento do SMF.
+(b) Analisar e pré-aprovar o projeto e o relatório de comissionamento do SMF a ser implantado nas
+instalações sob sua responsabilidade ou sob responsabilidade do agente conectante.
+(c) Submeter ao ONS o projeto e o relatório de comissionamento do SMF pré-aprovados.
+(d) Fornecer alimentação auxiliar CA/CC para o SMF que for instalado nas instalações sob sua
+responsabilidade.
+(e) Fiscalizar a montagem e inspecionar os equipamentos do SMF a ser instalado nas instalações sob sua
+responsabilidade ou sob responsabilidade do agente conectante.
+(f) Fornecer ao agente conectante o atestado de recebimento dos SMF instalados nas suas instalações.
+(g) Coordenar o comissionamento do SMF nas instalações sob sua responsabilidade.
+3.4. Agentes conectados, quando o agente conectante é um consumidor livre ou especial
+(a) No caso de conexão à Rede Básica ou às instalações de transmissão destinas a interligações
+internacionais conectadas à Rede básica, responsabilizar-se tecnicamente pelo projeto, montagem,
+comissionamento, operação e leitura do SMF.
+(b) Solicitar à CCEE o Parecer de localização do ponto de medição.
+(c) Disponibilizar ao consumidor livre ou especial as informações sobre os equipamentos a serem
+adquiridos para a implantação do SMF.
+(d) Elaborar e, após aprovação do ONS, executar o projeto do SMF.
+(e) Submeter ao ONS os projetos do SMF.
+Endereço na internet: http://www.ons.org.br 4 / 9
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação do Sistema de Medição para
+7.11 Responsabilidades 2020.12 01/01/2021
+Faturamento
+(f) Estabelecer e cumprir acordo com o consumidor livre ou especial para definição das normas de
+segurança a serem seguidas quando da montagem do SMF nas instalações da propriedade do
+consumidor.
+(g) Informar ao ONS a previsão de término da montagem e instalação do SMF.
+(h) Fornecer alimentação auxiliar CA/CC para o SMF que for instalado nas instalações sob sua
+responsabilidade.
+(i) Realizar o comissionamento do SMF e elaborar o relatório de comissionamento do SMF.
+(j) Submeter ao consumidor livre ou especial e ao ONS os relatórios de comissionamento dos SMF.
+3.5. Agentes conectantes, exceto consumidor livre ou especial
+(a) Desenvolver as atividades para implantação do SMF e arcar com os ônus relativos a essas atividades.
+(b) Solicitar à CCEE o Parecer de localização do ponto de medição.
+(c) Disponibilizar os dados necessários e cooperar com o agente conectado para a instalação e
+comissionamento do SMF.
+(d) Elaborar, submeter ao agente conectado e, após pré-aprovação do agente conectado e aprovação do
+ONS, executar o projeto do SMF.
+(e) Executar as adequações necessárias nos sistemas de medição existentes para atender ao disposto nos
+Procedimentos de Rede.
+(f) Cumprir as normas e regulamentos dos agentes conectados quando da montagem do SMF ou
+prestação de outros serviços de medição nas instalações desse agente.
+(g) Informar ao ONS as etapas do processo de montagem do SMF.
+(h) Realizar o comissionamento do SMF, elaborar o relatório de comissionamento do SMF e submetê-lo
+ao agente conectado.
+(i) Disponibilizar acesso direto da CCEE aos seus medidores para realização de inspeção lógica, avaliação
+de performance dos medidores e da comunicação, teste de interligação e estudos para melhoria da
+coleta de dados.
+(j) Disponibilizar ao agente conectado os dados medidos.
+(k) No caso de SMF para medição da geração bruta de usina classificada na modalidade de operação Tipo
+I ou Tipo II-A, submeter ao ONS o projeto do SMF e o relatório de comissionamento.
+(l) No caso de consumidor livre ou especial com conexão à ICG ou às DIT, a distribuidora deve
+responsabilizar-se financeiramente pela implantação do medidor principal e dos transformadores de
+instrumentos; tecnicamente por todo SMF, inclusive perante a CCEE; e após a implantação, pela
+operação do SMF.
+3.6. Consumidores livres ou especiais conectantes a uma instalação de transmissão
+(a) No caso de conexão à Rede Básica ou às instalações de transmissão destinas a interligações
+internacionais conectadas à Rede Básica, responsabilizar-se financeiramente pelos processos de
+elaboração do projeto, aquisição de equipamentos, instalação, operação, manutenção e comunicação
+do SMF.
+Endereço na internet: http://www.ons.org.br 5 / 9
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação do Sistema de Medição para
+7.11 Responsabilidades 2020.12 01/01/2021
+Faturamento
+(b) No caso de consumidor livre ou especial com conexão às ICG ou às DIT, ressarcir a distribuidora pelo
+custo de aquisição e implantação do medidor de retaguarda e do sistema de comunicação de dados.
+(c) Responsabilizar-se técnica e financeiramente pelas obras civis e adequações das instalações
+associadas ao SMF.
+(d) Informar os dados necessários e cooperar com o agente responsável pelo SMF para o projeto e
+instalação do SMF.
+(e) Estabelecer e cumprir acordo com o agente conectado para definição das normas de segurança a
+serem seguidas quando da montagem do SMF nas suas propriedades.
+(f) Acompanhar a montagem do SMF executada pelo agente responsável pelo SMF.
+(g) Fornecer alimentação auxiliar CA/CC para o SMF que for instalado nas instalações sob sua
+responsabilidade.
+4. PRAZOS
+Quadro 1 - Prazos para as atividades relativas ao projeto do SMF
+Atividade Responsável Prazo Periodicidade Observação
+Agente
+Até 10 dias úteis
+Envio de informações conectado ou
+contados a partir da
+ao agente responsável consumidor
+data de solicitação
+1 pelo SMF para livre ou Por demanda -
+das informações pelo
+elaboração do projeto especial,
+agente responsável
+do SMF conforme o
+pelo SMF
+caso
+Exceto quando o
+Análise do projeto do agente conectado
+Até 10 dias úteis
+SMF e pré-aprovação é o agente
+Agente contados a partir do
+2 ou solicitação de Por demanda responsável pelo
+conectado recebimento do
+adequações SMF ou de SMF
+projeto do SMF
+necessárias para geração
+bruta
+Exceto quando o
+Quando da agente conectado
+Até 7 dias úteis a
+Análise e pré- solicitação de é o agente
+Agente partir do recebimento
+3 aprovação do projeto adequações responsável pelo
+conectado do projeto do SMF
+do SMF ajustado pelo agente SMF ou de SMF
+ajustado
+conectado para geração
+bruta
+Endereço na internet: http://www.ons.org.br 6 / 9
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação do Sistema de Medição para
+7.11 Responsabilidades 2020.12 01/01/2021
+Faturamento
+Atividade Responsável Prazo Periodicidade Observação
+Análise e aprovação
+Até 15 dias úteis
+do projeto ou
+contados a partir do
+4 solicitação das ONS Por demanda -
+recebimento do
+adequações
+projeto do SMF
+necessárias
+Ajuste do projeto do
+Até 45 dias úteis Quando da
+SMF conforme Agente
+contados a partir da solicitação de
+5 solicitação e reenvio responsável -
+data da solicitação do adequações
+para aprovação do pelo SMF
+ONS (atividade 4) pelo ONS
+ONS
+Até 15 dias úteis
+Quando da
+Análise e aprovação contados a partir do
+solicitação de
+6 do projeto do SMF ONS recebimento do -
+adequações
+ajustado projeto do SMF
+pelo ONS
+ajustado (atividade 5)
+Quadro 2 - Prazos para as atividades de montagem do SMF
+Atividade Responsável Prazo Periodicidade
+Solicitação de acesso de pessoal ou
+Agente Antecedência mínima de
+prepostos às instalações do agente
+1 responsável pelo 10 dias úteis da data de Por demanda
+conectado ou do consumidor livre
+SMF montagem do SMF
+ou especial, conforme o caso
+Antecedência mínima de
+Estabelecimento e disponibilização Agente
+10 dias úteis da data
+2 aos agentes envolvidos da previsão responsável pelo Por demanda
+prevista de término da
+do término da montagem do SMF SMF
+montagem
+Quadro 3 - Prazos para as atividades relativas ao comissionamento do SMF
+Atividade Responsável Prazo Periodicidade Observação
+Programação da data de
+Antecedência
+realização do
+Agente mínima de 20 dias
+1 comissionamento do SMF Por demanda -
+conectado da data do
+junto aos agentes
+comissionamento
+envolvidos
+Endereço na internet: http://www.ons.org.br 7 / 9
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação do Sistema de Medição para
+7.11 Responsabilidades 2020.12 01/01/2021
+Faturamento
+Atividade Responsável Prazo Periodicidade Observação
+Quando o agente
+Agente
+conectado é o
+conectado ou
+Envio ao ONS do relatório Até 5 dias úteis da agente
+agente de
+2 de comissionamento para data de término do Por demanda responsável pelo
+geração,
+aprovação comissionamento SMF ou de SMF
+conforme o
+para geração
+caso
+bruta
+Exceto quando o
+agente conectado
+Envio ao agente conectado
+Agente Até 5 dias úteis da é o agente
+do relatório de
+3 responsável data de término do Por demanda responsável pelo
+comissionamento do SMF
+pelo SMF comissionamento SMF ou de SMF
+para pré-aprovação
+para geração
+bruta
+Análise e pré-aprovação do
+relatório de Exceto quando o
+Até 10 dias úteis do
+comissionamento do SMF, agente conectado
+recebimento do
+e emissão e envio ao é o agente
+Agente relatório de
+4 agente responsável pelo Por demanda responsável pelo
+conectado comissionamento
+SMF do atestado de SMF ou de SMF
+do SMF
+recebimento do SMF para geração
+(atividade 3)
+instalado em suas bruta
+instalações
+Exceto quando o
+Até 2 dias úteis da
+agente conectado
+Envio ao ONS do relatório pré-aprovação do
+é o agente
+de comissionamento do Agente relatório de
+5 Por demanda responsável pelo
+SMF pré-aprovado para conectado comissionamento
+SMF ou de SMF
+aprovação do SMF
+para geração
+(atividade 4)
+bruta
+Até 15 dias úteis
+Análise e aprovação do contados a partir
+relatório de do recebimento do
+6 comissionamento ou ONS relatório de Por demanda -
+solicitação das adequações comissionamento
+necessárias do SMF
+(atividades 2 ou 4)
+Endereço na internet: http://www.ons.org.br 8 / 9
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação do Sistema de Medição para
+7.11 Responsabilidades 2020.12 01/01/2021
+Faturamento
+Atividade Responsável Prazo Periodicidade Observação
+Execução das ações
+Até 10 dias úteis
+corretivas necessárias no Quando da
+Agente contados a partir
+relatório de solicitação de
+7 responsável da data de -
+comissionamento do SMF e adequações
+pelo SMF solicitação do ONS
+reenvio para aprovação do pelo ONS
+(atividade 6)
+ONS
+Até 10 dias úteis
+Análise e aprovação do contados a partir
+Quando da
+relatório de do recebimento do
+solicitação de
+8 comissionamento após ONS relatório de -
+adequações
+execução das ações comissionamento
+pelo ONS
+corretivas do SMF ajustado
+(atividade 7)
+5. REFERÊNCIAS
+[1] ANEEL. PRODIST, Módulo 5 – Sistemas de medição.
+[2] ANEEL. Resolução Normativa nº 759, de 7 de fevereiro de 2017.
+Endereço na internet: http://www.ons.org.br 9 / 9

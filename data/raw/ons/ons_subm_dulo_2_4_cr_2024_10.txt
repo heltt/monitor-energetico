@@ -1,0 +1,827 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 2.4-CR_2024.10
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 2.4-CR_2024.10.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 2.4
+Premissas, critérios e metodologias para
+estudos energéticos
+Critérios
+Revisão Motivo da revisão Data de aprovação
+2024.10 Resolução Normativa ANEEL nº 22/10/2024
+1.104/2024
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para estudos energéticos e
+2.4 Critérios 2024.10 30/10/2024
+hidrológicos
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. CRITÉRIOS PARA ESTUDOS ENERGÉTICOS.........................................................................................3
+2.1. Premissas.................................................................................................................................................3
+2.2. Critérios gerais.........................................................................................................................................4
+2.3. Critérios para Planejamento da Operação Energética de Médio Prazo (PEN)........................................5
+2.4. Critérios para Programação Mensal da Operação Energética (PMO).....................................................6
+2.5. Critérios para Programação Diária da Operação (PDO)...........................................................................7
+3. CRITÉRIOS PARA ESTUDOS HIDROLÓGICOS....................................................................................10
+3.1. Premissas...............................................................................................................................................10
+3.2. Critérios para acompanhamento, análise e tratamento dos dados hidroenergéticos..........................10
+3.3. Critérios para Planejamento Anual de Prevenção de Cheias (PAPC).....................................................15
+3.4. Critérios para previsão de vazões e geração dos cenários de afluências..............................................17
+4. CRITÉRIOS PARA CÁLCULO DA CURVA DE PRODUTIVIDADE EÓLICA................................................18
+4.1. Usinas Eólicas........................................................................................................................................18
+5. REFERÊNCIAS.................................................................................................................................25
+Endereço na internet: http://www.ons.org.br 2 / 24
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para estudos energéticos e
+2.4 Critérios 2024.10 30/10/2024
+hidrológicos
+1. OBJETIVO
+1.1. Estabelecer os critérios e diretrizes para realização dos estudos energéticos e hidrológicos do Sistema
+Interligado Nacional (SIN), conforme as etapas dos processos descritas no Submódulo 3.3 – Planejamento da
+operação energética de médio prazo, Submódulo 3.7 – Planejamento anual de prevenção de cheias,
+Submódulo 4.3 – Programação Mensal da Operação Energética, 4.5 – Programação Diária da Operação e
+Submódulo 4.6 – Análise e tratamento dos dados hidroenergéticos e previsão e geração de cenários de
+vazões.
+2. CRITÉRIOS PARA ESTUDOS ENERGÉTICOS
+2.1. Premissas
+2.1.1.Dados considerados
+2.1.1.1 A oferta considerada nos estudos energéticos é composta pelo parque gerador existente e por suas
+previsões de expansão.
+2.1.1.2 A expansão da oferta é considerada de acordo com o Poder Concedente e Agência Nacional de
+Energia Elétrica – ANEEL.
+2.1.1.3 O parque gerador considerado nos modelos energéticos é composto pelas usinas simuladas
+individualmente e centrais geradoras não simuladas individualmente, as quais devem estar aptas a operar
+em algum intervalo de tempo dentro do horizonte abrangido pelo estudo.
+2.1.1.4 Os valores de geração mínima por razões de confiabilidade elétrica das usinas simuladas
+individualmente e os limites elétricos de intercâmbio entre subsistemas para todos os patamares de carga
+são obtidas a partir dos estudos de planejamento da operação elétrica, conforme Submódulo 3.1 –
+Planejamento da operação elétrica de médio prazo, Submódulo 3.4 – Planejamento da operação elétrica com
+horizonte quadrimestral e Submódulo 4.1 – Planejamento da operação elétrica com horizonte mensal.
+2.1.1.4.1 Os limites elétricos de transmissão também incluem os desligamentos que impõem limites na
+transmissão entre subsistemas e os desligamentos previstos para a primeira semana operativa.
+2.1.1.5 Os parâmetros associados à metodologia CVaR de aversão a risco (percentual de cenários a ponderar
+e peso dado aos cenários de custo mais elevados - α e λ, respectivamente), a função de custo de déficit e a
+taxa de desconto são estabelecidos pela Comissão Permanente para Análise de Metodologias e Programas
+Computacionais do Setor Elétrico – CPAMP, instituída pelo Ministério de Minas e Energia – MME, conforme
+determinação do Conselho Nacional de Política Energética – CNPE.
+2.1.2.Representação de novos aproveitamentos
+2.1.2.1 Nos modelos energéticos de médio e curto prazo, a entrada de uma nova unidade geradora ou uma
+expansão da capacidade de transmissão entre subsistemas é representada no início do estágio mensal
+subsequente à data prevista para entrada em operação e, no modelo de curtíssimo prazo, é representada
+após entrada efetiva em operação comercial.
+2.1.2.1.1 Caso a data prevista para entrada em operação for o primeiro dia do mês, os estudos elaborados
+em estágios mensais consideram a entrada no estágio correspondente a essa data.
+2.1.2.2 Nos estudos de médio prazo, novos reservatórios são representados no início do mês subsequente
+ao mês de finalização do enchimento do seu volume morto.
+Endereço na internet: http://www.ons.org.br 3 / 24
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para estudos energéticos e
+2.4 Critérios 2024.10 30/10/2024
+hidrológicos
+2.1.2.3 Nos estudos de curto e curtíssimo prazo, os reservatórios são representados a partir do início de
+enchimento do volume morto.
+2.1.3 Representação de aproveitamento com vínculo hidráulico em diferentes subsistemas
+2.1.3.1 No caso de haver limitações nos modelos computacionais e/ou restrições regulatórias que impeçam
+a representação adequada dos aproveitamentos com vínculo hidráulico, pertencentes a subsistemas
+diferentes, deve-se adotar uma representação específica para esses aproveitamentos, conforme descrito a
+seguir.
+(a) um primeiro aproveitamento, com reservatório e unidades geradoras, alocado no subsistema ao qual
+o aproveitamento está conectado à rede de transmissão. A água desse reservatório é valorizada tanto
+pela produtibilidade da própria usina, quanto pela produtibilidade das usinas a jusante no mesmo
+subsistema.
+(b) um segundo aproveitamento, com reservatório e sem unidades geradoras, é alocado em um
+subsistema diferente daquele ao qual o aproveitamento está conectado eletricamente, o que faz com
+que apenas seu volume útil seja considerado nesse subsistema.
+(1) Caso o armazenamento do reservatório não possa ser completamente aproveitado no subsistema
+ao qual foi alocado, torna-se necessária a limitação de seu volume útil para o cálculo da energia
+armazenada nos estudos que empregam sistema equivalente.
+2.1.4 Representação dos limites de transmissão entre subsistemas
+2.1.4.1 Os limites de intercâmbio são obtidos com base em estudos elétricos de médio, curto e curtíssimo
+prazo, que são adequados à forma de representação requerida pelos modelos computacionais em que serão
+empregados.
+2.1.4.2 A representação dos limites de transmissão entre os subsistemas equivalentes é afetada pela forma
+de consideração da UHE Itaipu.
+2.1.4.2.1 Caso o subsistema de Itaipu seja representado separadamente, é adotada uma topologia de rede
+interligando os subsistemas Itaipu, Sul e Sudeste/Centro-Oeste.
+2.1.4.3 A geração das usinas conectadas aos sistemas de interligação dos subsistemas limita a capacidade de
+transmissão entre os subsistemas adjacentes, sendo abatida uma estimativa dessa geração do limite de
+transmissão na modelagem.
+2.1.4.4 A metodologia de transformação dos limites de intercâmbio em limitação energética e o
+detalhamento dos intercâmbios e usinas relacionados são apresentados no Plano da Operação Energética
+(PEN).
+2.2. Critérios gerais
+2.2.1.Usinas e aproveitamentos simulados ou não simuladas individualmente
+2.2.1.1 As usinas termoelétricas e os aproveitamentos hidroelétricos simulados individualmente nos
+modelos energéticos e representados de acordo com as características específicas de cada modelo são
+aquelas classificadas nas seguintes modalidades de operação, conforme Submódulo 7.2 – Classificação da
+modalidade de operação de usinas:
+(a) usinas termoelétricas Tipo I ou Tipo II-A com Custo Variável Unitário (CVU) declarado;
+(b) usinas hidroelétricas Tipo I ou Tipo II-A;
+Endereço na internet: http://www.ons.org.br 4 / 24
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para estudos energéticos e
+2.4 Critérios 2024.10 30/10/2024
+hidrológicos
+(c) reservatórios de usinas hidroelétricas Tipo II-B ou Tipo III, cuja operação hidráulica afete ou seja
+afetada pela operação das usinas simuladas nos modelos energéticos; e
+(d) excepcionalmente, usinas não enquadradas nos critérios anteriores, desde que respaldadas por
+justificativa técnica aprovada pelo ONS ou regulamentação específica.
+2.2.1.2 As usinas simuladas individualmente são representadas de forma integral e não são abatidas as
+eventuais parcelas de cargas atendidas, como autoprodução, cargas conectadas aos produtores
+independentes ou consumos próprios.
+2.2.1.3 As usinas não simuladas individualmente nos modelos energéticos, além da contribuição própria das
+usinas hidroelétricas Tipo II-B e Tipo III cujos reservatórios são simulados, são representadas por blocos de
+energia a serem abatidos da carga global, de acordo com as características específicas de cada modelo e
+conforme as disponibilidades de energia definidas na regulamentação.
+2.2.2 Simulações com histórico de vazões naturais e com séries sintéticas
+2.2.2.1 As simulações com o histórico de vazões naturais e com séries sintéticas são utilizadas nos estudos
+de planejamento da operação energética de médio prazo.
+2.2.2.2 As séries históricas de vazões naturais médias mensais, definida no Submódulo 4.6, são empregadas
+nos aproveitamentos hidroelétricos.
+2.2.2.3 As séries históricas de energias naturais afluentes, utilizadas na representação a sistema equivalente,
+são calculadas a partir do histórico de vazões naturais médias mensais e da configuração dos
+aproveitamentos hidroelétricos representados.
+2.2.2.4 As séries sintéticas de energias ou de vazões naturais em base mensal são empregadas para ampliar
+o significado estatístico dos resultados das simulações.
+2.3. Critérios para Planejamento da Operação Energética de Médio Prazo (PEN)
+2.3.1.Representação da Usina Hidroelétrica Itaipu
+2.3.1.1 A UHE Itaipu é considerada como um subsistema separado, vinculado hidraulicamente ao subsistema
+Sudeste/Centro-Oeste, com carga correspondente ao seu consumo interno e ao suprimento para
+Administración Nacional de Electricidad – ANDE em 50 Hz.
+2.3.1.2 Caso haja impedimentos de natureza computacional e/ou regulatória para a representação da UHE
+Itaipu como um subsistema separado, adota-se a representação de Itaipu no subsistema Sudeste/Centro-
+Oeste. Nesse caso, a carga do Sudeste/Centro-Oeste é acrescida do consumo interno da UHE Itaipu e do
+suprimento de Itaipu à ANDE em 50 Hz.
+2.3.2.Disponibilidade dos aproveitamentos
+2.3.2.1 Na determinação das disponibilidades máximas dos aproveitamentos, são consideradas as reduções
+decorrentes das taxas equivalentes de indisponibilidade forçada e programada da usina, definidas pelo ONS
+conforme Submódulo 6.5 – Apuração da geração e de indisponibilidade de empreendimentos de geração.
+2.3.2.2 No cálculo das disponibilidades máximas dos aproveitamentos, é considerada também a capacidade
+de transmissão da instalação de conexão ao SIN.
+2.3.2.3 Nos estudos de médio prazo, para usinas térmicas simuladas individualmente, são consideradas
+reduções por manutenções programadas no primeiro ano civil do horizonte de estudo, definidas com base
+nos cronogramas informados pelos agentes de geração. Para os demais anos do horizonte de estudo, as
+Endereço na internet: http://www.ons.org.br 5 / 24
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para estudos energéticos e
+2.4 Critérios 2024.10 30/10/2024
+hidrológicos
+reduções por manutenções programadas são obtidas a partir das taxas equivalentes de indisponibilidade
+programada da usina.
+2.3.2.3.1 A declaração de manutenções programas é opcional para o segundo ano do estudo, conforme
+Submódulo 3.3. Para as usinas que não tiverem cronograma declarado para o segundo ano de estudo,
+aplicam-se as taxas equivalentes conforme item 2.3.2.3.
+2.3.2.4 Na determinação das disponibilidades máximas dos aproveitamentos hidráulicos são consideradas
+as reduções decorrentes das taxas equivalentes de indisponibilidade programada em todo o horizonte de
+estudo.
+2.3.2.4.1 Na ausência de informações para determinação das taxas equivalentes de indisponibilidade
+programada, são utilizados os valores de referência oriundos do cálculo da garantia física, as informações
+oficiais dos agentes de geração ou os índices da tabela do Bracier, nessa ordem.
+2.3.3.Análises das condições de atendimento
+2.3.3.1 As condições de atendimento à carga de energia são avaliadas por meio de parâmetros obtidos das
+simulações com modelos a usinas individualizadas e a sistemas equivalentes, utilizando séries históricas e
+séries sintéticas.
+2.3.3.2 As condições de atendimento à carga de demanda sistêmica do SIN são analisadas por meio de
+balanços de potência, nos quais os requisitos de demanda são confrontados com a disponibilidades de
+potência das diversas fontes de energia, e resultam em estimativas das sobras ou déficits.
+2.3.3.3 Os resultados das análises de condições de atendimento citadas anteriormente deverão ser
+confrontados com os critérios de garantia de suprimento vigentes.
+2.4. Critérios para Programação Mensal da Operação Energética (PMO)
+2.4.1.Disponibilidade dos aproveitamentos
+2.4.1.1 Para determinação da disponibilidade máxima dos aproveitamentos no contexto do modelo de curto
+prazo, a disponibilidade das usinas geradoras hidráulicas e térmicas é calculada a partir das informações dos
+agentes de geração e é determinística para o mês do PMO e são consideradas as reduções por manutenções
+programadas de acordo com cronograma informado pelo agente de geração.
+2.4.1.2 Para fins de PMO, no modelo de otimização energética de médio prazo, as declarações de
+cronograma de manutenções para usinas termoelétricas serão consideradas somente nos dois primeiros
+anos civis e as taxas equivalentes de indisponibilidade programa a partir do terceiro ano, conforme descrito
+no item 2.3.2.3.
+2.4.1.3 Para usinas hidroelétricas são consideradas as taxas equivalentes de indisponibilidade programada
+para todo o horizonte de planejamento conforme item 2.3.2.4.
+2.4.2 Atualização das funções de custo futuro
+2.4.2.1 A atualização das funções de custo futuro (FCF) para o PMO utiliza diversos parâmetros do modelo
+para otimização da operação energética de médio prazo, definidos conforme diretrizes estabelecidos em [1].
+2.4.3 Cálculo dos custos marginais de operação semanal
+2.4.3.1 Os custos marginais de operação semanais são calculados diretamente pelo modelo para otimização
+da operação de curto prazo com base em usinas individualizadas para cada semana operativa do PMO,
+Endereço na internet: http://www.ons.org.br 6 / 24
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para estudos energéticos e
+2.4 Critérios 2024.10 30/10/2024
+hidrológicos
+considerando todas as restrições operativas nas usinas hidráulicas e térmicas, bem como no sistema elétrico
+de interconexão entre os diversos subsistemas.
+2.5. Critérios para Programação Diária da Operação (PDO)
+2.5.1 Descrição geral
+2.5.1.1 O modelo de despacho hidrotérmico de curtíssimo prazo no processo de programação diária
+eletroenergética recebe a função de custo futuro do modelo de curto prazo, inclui como dados de entrada a
+previsão de vazões, a previsão de carga, a previsão da geração eólica e a rede elétrica e, resulta no valor do
+custo marginal de operação (CMO) semi-horário, conforme processo descrito no Submódulo 4.5 –
+Programação Diária da Operação.
+2.5.1.2 O modelo de despacho hidrotérmico de curtíssimo prazo é executado diariamente em D-1, com
+horizonte de D até o final da semana operativa, em que é feita a consulta à função de custo futuro do modelo
+de curto prazo, conforme mostrado na Figura 1.
+Figura 1 - Acoplamento com o modelo de curto prazo
+2.5.1.3 O primeiro dia (D) é detalhado em 48 intervalos semi-horários, considerando a Rede de Transmissão.
+Os demais dias da semana operativa (D+1 até D+6) são divididos em patamares de carga.
+2.5.2 Diretrizes para a montagem de casos diários no modelo de despacho hidrotérmico de curtíssimo
+prazo
+2.5.2.1. Previsão da vazão natural diária
+Endereço na internet: http://www.ons.org.br 7 / 24
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para estudos energéticos e
+2.4 Critérios 2024.10 30/10/2024
+hidrológicos
+2.5.4.1.1 A previsão de vazões incrementais diárias tem um horizonte máximo de 7 dias à frente e é
+utilizada conforme descrito no Submódulo 4.6.
+2.5.4.1.2 A previsão de vazões, realizada com frequência diária, é obtida utilizando os modelos
+chuva-vazão para todos os dias do horizonte. Para as bacias que não possuem modelo chuva-vazão, é
+utilizado o modelo que produz previsões de vazões semanais.
+2.5.2.2. Previsão da carga diária
+2.5.4.2.1 A carga prevista para a programação do dia D é utilizada conforme Submódulo 4.4 - Consolidação
+da previsão de carga para programação eletroenergética. Para os demais dias da semana operativa, a carga
+é obtida diretamente do modelo de previsão de carga, agregada em patamares.
+2.5.4.2.2 A carga para o dia D, considerando as perdas elétricas, é prevista por área em intervalos semi-
+horários e distribuída pelas barras do SIN.
+2.5.2.3. Representação de usinas hidroelétricas
+2.5.4.3.1 Os reservatórios de todas as usinas, inclusive àquelas consideradas como a fio d´água nos
+estudos de médio e curto prazo, podem ser representados nos estudos de curtíssimo prazo.
+2.5.2.4. Representação de usinas termoelétricas
+2.5.4.4.1 As usinas termoelétricas são representadas, conforme Submódulo 4.5, com unit commitment e
+ciclo combinado sendo representados conforme aplicável à modelagem do DESSEM.
+2.5.2.5. Representação das restrições hidráulicas
+2.5.4.5.1 As restrições hidráulicas passíveis de modelagem são representadas dentre as descritas no
+Submódulo 4.7 - Atualização de informações sobre restrições hidráulicas dos aproveitamentos hidroelétricos.
+2.5.2.6. Geração de centrais geradoras não simuladas individualmente
+2.5.4.6.1 A geração das usinas classificadas na modalidade de operação Tipo III que injetam na rede elétrica
+simulada e das usinas térmicas e hidráulicas Tipo II-B ou Tipo II-C são previstas com base nos dados de
+geração verificados.
+2.5.4.6.2 No caso de usinas classificadas na modalidade de operação Tipo III que não injetam na rede elétrica
+simulada, a geração é considerada agregada por subsistema e abatida da carga, também com base em valores
+verificados.
+2.5.4.6.3 As metodologias da representação das centrais geradoras não simuladas individualmente são
+descritas no Submódulo 2.4 (Operacional).
+2.5.2.7. Geração de fonte eólica
+2.5.4.7.1 A previsão de geração de fonte eólica das usinas classificadas na modalidade de operação Tipo I,
+Tipo II-B e Tipo II-C, para o dia D, é fornecida pelo modelo de previsão de geração eólica para os 48 intervalos
+semi-horários.
+2.5.4.7.2 A previsão de geração eólica é agregada por patamar da carga do dia D+1 até o final do horizonte.
+2.5.2.8. Geração de fonte solar
+Endereço na internet: http://www.ons.org.br 8 / 24
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para estudos energéticos e
+2.4 Critérios 2024.10 30/10/2024
+hidrológicos
+2.5.4.8.1 A previsão de geração de fonte solar de usinas classificadas na modalidade de operação Tipo I,
+Tipo II-B ou Tipo II-C, para o dia D, é fornecida pelo modelo de previsão solar fotovoltaico para os 48 intervalos
+semi-horários.
+2.5.4.8.2 A previsão de geração solar é agregada por patamar da carga do dia D+1 até o final do horizonte.
+2.5.2.9. Sistema de transmissão - rede elétrica
+2.5.4.9.1O sistema de transmissão é considerado para o dia D. Para os demais dias, é considerada a
+modelagem por subsistemas agregados.
+2.5.4.9.2 O sistema de transmissão é definido pelo caso base de fluxo de potência do planejamento elétrico
+mensal e atualizado diariamente ao longo do mês em função de intervenções e entrada de novos
+equipamentos.
+2.5.4.9.3 É adotado o método linearizado (Flow DC) para determinação dos fluxos de potência, sem o
+cálculo de perdas elétricas.
+2.5.4.9.4 As restrições de segurança elétrica, bem como os limites de fluxo para controle de carregamento
+(inequações) são definidos pelos estudos de planejamento elétrico quadrimestral e mensal, conforme
+Submódulos 3.4 e 4.1.
+2.5.2.10.Intervenções e Desligamentos
+2.5.4.10.1 As intervenções são provenientes de sistema de gestão específico, conforme Submódulo 4.2 –
+Programação de intervenções em instalações da Rede de Operação.
+2.5.3 Balanço operativo de demanda na ponta
+2.5.3.1 O balanço operativo, “carga - geração + intercâmbio”, é elaborada para cada meia hora do dia da
+programação, inclusive para o horário de ponta, garantindo que tenha resultado nulo por agente de
+operação.
+2.5.3.2 Este balanço operativo segue os critérios definidos anteriormente e o procedimento descrito no
+Submódulo 4.5.
+2.5.3.3 Adicionalmente ao atendimento da carga, é necessário verificar se a folga de geração por agente seja
+suficiente para garantir que o somatório das disponibilidades das usinas hidrelétricas seja superior ou igual
+ao somatório do valor programado de geração e da reserva de potência alocada em suas usinas.
+3. CRITÉRIOS PARA ESTUDOS HIDROLÓGICOS
+3.1. Premissas
+3.1.1 Os agentes de geração considerados nos critérios para os estudos hidrológicos são aqueles
+responsáveis pelas usinas simuladas individualmente nos modelos energéticos, conforme os critérios para
+estudos energéticos descrito no item 2.
+3.2. Critérios para acompanhamento, análise e tratamento dos dados hidroenergéticos
+3.2.1 Consistências diárias de primeiro, segundo e terceiro níveis para consolidação dos dados
+hidráulicos
+Endereço na internet: http://www.ons.org.br 9 / 24
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para estudos energéticos e
+2.4 Critérios 2024.10 30/10/2024
+hidrológicos
+3.2.1.1 A consistência de primeiro nível e a consolidação em base diária dos dados hidráulicos informados
+pelos agentes de geração são realizadas conforme os seguintes critérios:
+(a) o nível de água do reservatório deve estar entre os valores de nível de água mínimo e máximo
+operativo, salvo em situações excepcionais;
+(b) a taxa de variação diária do nível de água do reservatório deve estar dentro de uma faixa predefinida
+para cada reservatório;
+(c) a vazão turbinada deve ser compatível com a geração do aproveitamento; e
+(d) a vazão afluente (Q ) deve ser compatível com o valor calculado pelo método de balanço hídrico do
+afl
+reservatório, a partir da equação ():
+()
+sendo,
+Q : vazão afluente ao reservatório (m3/s);
+afl
+Q : vazão defluente total, composta pela soma das vazões turbinada, vertida e de outras estruturas
+def
+do reservatório (m3/s);
+A vazão de outras estruturas é a vazão restituída ao rio a jusante do aproveitamento, através de
+estruturas hidráulicas diversas, como eclusas, escadas de peixe e descargas de fundo, quando utilizada
+com objetivo diferente de controle dos níveis e de cheias.
+Q : vazão transferida ou recebida de outro reservatório, por meio de canal, túnel, estação de
+tra
+bombeamento etc. (m3/s); e
+DV: variação diária do volume acumulado, obtida a partir da tabela cota-volume do reservatório (m3).
+3.2.1.2 A consistência de segundo nível e a consolidação de terceiro nível dos dados hidráulicos diários
+abrangem as seguintes atividades:
+(a) cálculo da vazão da bacia incremental relativa a cada aproveitamento, denominada “vazão natural
+incremental” (Q ), a partir da equação ():
+inc
+()
+sendo,
+Q : vazão natural incremental, entre o aproveitamento e os aproveitamentos a montante (m3/s);
+inc
+Q : vazão afluente ao reservatório, obtida conforme equação ();
+afl
+Q : vazão defluente dos reservatórios a montante, devidamente propagada em condição de
+defmp
+reservatório (m3/s);
+Q : vazão relativa aos usos consuntivos da bacia incremental (m3/s); e
+uso
+Q : vazão relativa à evaporação do reservatório, obtida a partir do polinômio Cota x Área e do vetor
+evp
+mensal de evaporação líquida do reservatório (m3/s).
+(b) consistência das vazões naturais incrementais (Q ) para eliminar ou minimizar a ocorrência e
+inc
+magnitude dos valores negativos e para suavizar as grandes oscilações de vazões incompatíveis com
+a natureza da bacia, realizado a partir de pelo menos uma das seguintes metodologias:
+Endereço na internet: http://www.ons.org.br 10 / 24
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para estudos energéticos e
+2.4 Critérios 2024.10 30/10/2024
+hidrológicos
+(1) médias móveis;
+(2) modulação, a partir de hidrogramas das vazões observadas em estações fluviométricas existentes
+na bacia incremental ou em regiões próximas;
+(3) agrupamento de bacias incrementais, e
+(4) cálculo a partir da vazão afluente adotada com base em curvas referenciais de cota e afluência,
+estabelecidas conforme metodologia específica para cada reservatório.
+(c) propagação das vazões defluentes dos aproveitamentos a montante, em condições de reservatório,
+e propagação das vazões naturais dos aproveitamentos a montante, em condições naturais, a partir
+de pelo menos uma das seguintes metodologias:
+(1) defasagem das vazões, considerando o tempo de viagem da água entre os aproveitamentos em
+horas;
+(2) propagação hidrológica, como a utilizada nos métodos Muskingum, Todini Modificado e SSARR; e
+(3) propagação hidráulica, como a utilizada em modelos hidrodinâmicos.
+3.2.1.3 As metodologias utilizadas para as consistências diárias de primeiro, segundo e terceiro níveis dos
+dados hidráulicos são definidas pelo Operador Nacional do Sistema Elétrico – ONS, em conjunto com os
+agentes de geração.
+3.2.2 Obtenção das vazões naturais
+3.2.2.1 A vazão natural de cada aproveitamento (Qnat) é obtida a partir da equação ():
+()
+sendo,
+Q : vazão natural no local do aproveitamento (m3/s);
+nat
+Q : vazão natural dos reservatórios a montante, devidamente propagada em condição natural
+natp
+(m3/s); e
+Q : vazão natural incremental consistida, entre o aproveitamento e os aproveitamentos a
+inc con
+montante (m3/s).
+3.2.3 Cálculo da energia natural afluente (ENA)
+3.2.3.1 A Energia Natural Afluente (ENA) é calculada a partir das vazões naturais e das produtibilidades
+equivalentes ao armazenamento de 65% do volume útil dos reservatórios dos aproveitamentos
+hidroelétricos.
+3.2.3.2 A ENA pode ser calculada em base diária, semanal, mensal ou anual e, também, por bacia (ENA )e
+BACIA
+por subsistema (ENA ), de acordo com os sistemas de aproveitamentos hidroelétricos existentes nas
+SUBSISTEMA
+configurações das bacias hidrográficas e dos subsistemas elétricos, conforme as equações () e ():
+()
+()
+Endereço na internet: http://www.ons.org.br 11 / 24
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para estudos energéticos e
+2.4 Critérios 2024.10 30/10/2024
+hidrológicos
+sendo,
+t: intervalo de tempo de cálculo da ENA;
+i: aproveitamento pertencente ao sistema de aproveitamentos da bacia considerada;
+n: número de aproveitamentos existentes no sistema de aproveitamentos da bacia considerada;
+Q : vazão natural do aproveitamento no intervalo de tempo considerado, conforme item 3.2.2.1;
+nat
+p: produtibilidade média do conjunto turbina-gerador do aproveitamento hidrelétrico, referente à
+queda obtida pela diferença entre o nível de montante, correspondente a um armazenamento de 65%
+do volume útil, e o nível médio do canal de fuga;
+j: aproveitamento pertencente ao sistema de aproveitamentos do subsistema considerado; e
+m: número de aproveitamentos existentes no sistema de aproveitamentos do subsistema
+considerado.
+3.2.4 Cálculo da energia armazenada (EAR)
+3.2.4.1 A Energia Armazenada (EAR) é calculada a partir dos volumes armazenados nos reservatórios e das
+produtibilidades dos aproveitamentos hidroelétricos.
+3.2.4.2 A EAR pode ser calculada por bacia (EAR ) e por subsistema e leva em consideração os desvios de
+Bacia
+água para reservatórios e aproveitamentos da mesma bacia ou de outras, por meio de canais, túneis,
+estações de bombeamento etc.
+3.2.4.3 A EAR por subsistema é calculada de forma análoga aos cálculos efetuados para EAR , levando
+Bacia
+em consideração que a energia produzida pela água armazenada em alguns reservatórios, como Três Marias
+e Serra da Mesa, é distribuída em dois subsistemas.
+3.2.4.4 A EAR é calculada conforme as equações (), () e ():
+Bacia
+()
+()
+()
+sendo,
+EAR% : relação entre a energia armazenada e a energia armazenada máxima na bacia considerada
+Bacia
+(%);
+EAR : energia armazenada na bacia considerada (MWmed);
+Bacia
+EARmax : energia armazenada máxima na bacia considerada (MWmed);
+Bacia
+EAR: energia associada ao volume armazenado no reservatório, em um período de um mês,
+considerando a produtividade na própria usina e em todas as usinas a jusante da bacia considerada,
+descontando-se o volume morto (MWmed), conforme item 0;
+EARmax: energia associada ao máximo de água armazenada no reservatório, em um período de um
+mês, considerando a produtividade na própria usina e em todas as usinas a jusante da bacia
+considerada, descontando-se o volume morto (MWmed), conforme item 0;
+Endereço na internet: http://www.ons.org.br 12 / 24
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para estudos energéticos e
+2.4 Critérios 2024.10 30/10/2024
+hidrológicos
+i: aproveitamento pertencente à bacia considerada; e
+n: número de aproveitamentos existentes na bacia considerada.
+3.2.4.5 Os valores de EAR e EARmax são obtidos a partir das equações () e ():
+()
+()
+sendo,
+V: volume acumulado no reservatório (hm3);
+Vmin: volume mínimo normal do reservatório (hm3);
+Vmax: volume máximo normal do reservatório (hm3);
+PRODeq: produtibilidade equivalente do aproveitamento hidrelétrico (MW/m3/s), conforme item
+3.2.4.6;
+PRODeqmax: produtibilidade equivalente máxima do aproveitamento hidrelétrico (MW/m3/s),
+conforme item 3.2.4.6;
+i: aproveitamento considerado;
+j: aproveitamentos existentes a jusante do aproveitamento considerado; e
+m: número de aproveitamentos existentes a jusante do aproveitamento considerado.
+3.2.4.6 Os valores de PRODeq e PRODeqmax são obtidos a partir das equações () e ():
+()
+()
+sendo,
+PRODesp: produtibilidade específica do aproveitamento hidrelétrico (MW/m3/s/m);
+Heq: queda líquida equivalente (m), conforme item 0; e
+Heqmax= máxima queda líquida equivalente (m), conforme item 0.
+3.2.4.7 Os valores de Heq e Heqmax são obtidos a partir dos seguintes condicionantes:
+(a) se a regularização proporcionada pelo reservatório for mensal, é utilizada as equações () e (1):
+()
+(1)
+(b) se a regularização proporcionada pelo reservatório for semanal ou diária, é utilizada a equação ():
+Endereço na internet: http://www.ons.org.br 13 / 24
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para estudos energéticos e
+2.4 Critérios 2024.10 30/10/2024
+hidrológicos
+()
+sendo,
+CotaGeo: cota geométrica equivalente do aproveitamento (m), conforme item 3.2.4.8;
+CFugamed: nível médio do canal de fuga do aproveitamento (m);
+Perdas: perda de carga hidráulica média do aproveitamento (m);
+CotaGeomax: máxima cota geométrica equivalente do aproveitamento (m), conforme item 3.2.4.8; e
+Cotaref: cota de referência do reservatório (m), conforme item 3.2.4.8.
+3.2.4.8 Os valores de CotaGeo, CotaGeomax e Cotaref são obtidos a partir das equações (), () e (2):
+()
+()
+(2)
+sendo, as seguintes variáveis obtidas conforme descrito no Submódulo 3.8 – Atualização de dados
+técnicos dos aproveitamentos hidroelétricos:
+Vmin: volume mínimo operativo normal do reservatório (hm3);
+i
+Vmax: volume máximo operativo normal do reservatório (hm3);
+i
+PRODesp: produtibilidade específica do aproveitamento hidrelétrico (MW/m3/s/m);
+i
+CFugamed: nível médio do canal de fuga do aproveitamento (m);
+i
+Perdas: perda de carga hidráulica média do aproveitamento (m);
+i
+a, b, c, d, e: coeficientes do polinômio cota-volume do reservatório; e
+i i i i i
+Vref: volume de referência do reservatório (hm3).
+i
+3.3. Critérios para Planejamento Anual de Prevenção de Cheias (PAPC)
+3.3.1.Análise de consistência das séries sintéticas das vazões diárias
+3.3.1.1 As séries sintéticas das vazões incrementais diárias geradas, correspondentes aos cenários
+hidrológicos, são analisadas a fim de se buscar consistência em relação às séries históricas, conforme os
+seguintes critérios (entre parênteses, estão os valores de referência para ajuste ótimo):
+(a) probabilidade de a média da vazão diária da série sintética ser superior à da série histórica (0,5);
+Endereço na internet: http://www.ons.org.br 14 / 24
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para estudos energéticos e
+2.4 Critérios 2024.10 30/10/2024
+hidrológicos
+(b) probabilidade de o desvio padrão da vazão diária da série sintética ser superior ao da série histórica
+(0,5);
+(c) probabilidade de a média do volume de espera anual da série sintética ser superior à da série histórica
+(0,5);
+(d) probabilidade de o desvio padrão do volume de espera anual da série sintética ser superior ao da
+série histórica (0,5);
+(e) probabilidades de a distância multivariada da média e o desvio padrão do volume de espera anual da
+série sintética serem superiores aos das séries históricas (1,0); e
+(f) teste de Smirnov para os volumes de espera anuais das séries sintética e histórica (aceitação com nível
+de significância de 10%).
+3.3.2.Cálculo dos volumes de espera em sistemas de reservatórios
+3.3.2.1 Os volumes de espera são calculados para cada cenário hidrológico, utilizando séries sintéticas de
+vazões naturais incrementais médias diárias, quando estas se apresentarem consistentes, ou séries históricas
+das vazões naturais incrementais médias diárias.
+(a) caso sejam utilizadas séries sintéticas de vazões, os volumes de espera resultantes representam os
+valores mínimos a serem adotados nos reservatórios do sistema ou, quando o sistema possui um
+único reservatório, o volume de espera resultante representa exatamente o volume a ser adotado
+nesse reservatório.
+(b) caso sejam utilizadas séries históricas de vazões, os volumes de espera resultantes representam
+exatamente os volumes a serem adotados nos reservatórios do sistema.
+3.3.2.2 Caso não exista um reservatório imediatamente a montante do local da restrição de vazão máxima,
+é definido um reservatório fictício e os volumes de espera resultantes são distribuídos entre os reservatórios
+do sistema localizados a montante desse local, considerando os seguintes aspectos:
+(a) distribuição proporcional ao fator de contribuição das vazões em cada local do reservatório, em
+relação ao local onde foi calculado o volume de espera;
+(b) capacidade para alocação do volume de espera;
+(c) efetividade para o controle de cheias nos locais de restrição de vazão máxima; e
+(d) impactos energéticos decorrentes.
+3.3.3.Avaliação dos impactos energéticos das alternativas de volumes de espera
+3.3.3.1 A partir das alternativas de volumes de espera para todos os reservatórios dos sistemas de
+reservatórios para controle de cheias, definidas conforme Submódulo 3.7, e a partir da alternativa de não
+alocação dos volumes de espera, os impactos na operação eletroenergética são avaliados utilizando-se os
+seguintes resultados dos modelos de avaliação energética:
+(a) risco de déficit;
+(b) CMO;
+(c) probabilidade de reenchimento dos subsistemas ou reservatórios ao final do período de controle de
+cheias; e
+Endereço na internet: http://www.ons.org.br 15 / 24
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para estudos energéticos e
+2.4 Critérios 2024.10 30/10/2024
+hidrológicos
+(d) vertimentos realizados.
+3.3.4.Classificação das situações de operação para controle de cheias
+3.5.6.1 A definição das regras de operação de controle de cheias, conforme descrito no Submódulo 3.7, deve
+considerar a classificação das situações de operação apresentada no Quadro 1, sendo:
+(a) indicativo de violação das restrições hidráulicas de vazões máximas: obtido com base nos estados de
+armazenamento, de afluências aos reservatórios e de vazões incrementais entre os reservatórios e os
+pontos de controle;
+(b) ocupação de volumes de espera:
+(1) para os sistemas de reservatórios independentes constituídos de um único reservatório de
+regularização: quando os volumes vazios disponíveis são inferiores aos volumes de espera
+estabelecidos no PAPC.
+(2) para os sistemas de reservatórios interdependentes: quando os tempos de recorrência
+proporcionados pelos volumes vazios disponíveis são inferiores aos tempos de recorrência
+recomendados no PAPC.
+(c) caracterização de cheia: previsão ou ocorrência de vazões naturais nos pontos de controle superiores
+às restrições de vazões máximas consideradas.
+Quadro 1 – Classificações das situações de operação para controle de cheias
+Situação de
+Descrição
+Operação
+Não há:
+ indicativo de violação de restrições hidráulicas de vazões máximas; e
+Normal
+ ocupação de volumes de espera; e
+ caracterização de cheia.
+Não há:
+ indicativo de violação de restrições hidráulicas de vazões máximas; e
+Atenção
+Há:
+ caracterização de cheia ou há ocupação de volumes de espera.
+Há:
+ indicativo de violação das restrições hidráulicas de vazões máximas; e
+Alerta
+ ocupação de volumes de espera; e
+ caracterização de cheia.
+Endereço na internet: http://www.ons.org.br 16 / 24
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para estudos energéticos e
+2.4 Critérios 2024.10 30/10/2024
+hidrológicos
+Situação de
+Descrição
+Operação
+Há:
+ violação de restrições hidráulicas de vazões máximas; e
+Emergência
+ ocupação de volumes de espera; e
+ caracterização de cheia.
+3.4. Critérios para previsão de vazões e geração dos cenários de afluências
+3.4.1.Análise de consistência e consolidação das vazões naturais médias diárias previstas
+3.4.1.1 As vazões naturais médias diárias previstas pelos agentes de geração e pelo ONS são analisadas com
+base nos seguintes critérios de consistência:
+(a) inexistência de valores negativos de vazões naturais incrementais médias diárias;
+(b) inexistência de incompatibilidade entre, por um lado, as previsões de vazões naturais médias diárias
+e, por outro, os valores de vazões observadas e os valores de previsões de precipitação na área
+incremental da bacia hidrográfica; e
+(c) inexistência de incompatibilidade nas parcelas relativas às vazões de uso consuntivo e de evaporação
+líquida que foram adicionadas às vazões previstas.
+3.4.2.Estimação das vazões naturais médias de semana ou de mês incompletos
+3.4.2.1 As vazões naturais afluentes médias de semana ou de mês incompletos são estimadas, para
+aproveitamentos hidroelétricos, pelo critério da média proporcional entre os valores das vazões naturais
+médias diárias verificadas no período decorrido e os valores das vazões naturais médias diárias previstas para
+os dias restantes da semana ou do mês.
+3.4.2.2 A proporção representativa de cada período é definida pelo número de dias com valores verificados
+e pelo número de dias com valores previstos.
+3.4.2.3A estimação das vazões naturais médias é calculada a partir da equação ():
+()
+sendo,
+i: identificação do aproveitamento hidroelétrico onde está sendo estimada a vazão natural média de
+semana ou de mês incompletos;
+t: identificação da semana ou do mês para o qual está sendo estimada a vazão natural média;
+d: identificação do dia da semana ou do mês considerado;
+n: número de dias com valores de vazões naturais verificadas;
+m: número de dias do período total considerado (semana ou mês);
+QN : vazão natural média diária verificada no aproveitamento hidroelétrico; e
+VERIF
+Endereço na internet: http://www.ons.org.br 17 / 24
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para estudos energéticos e
+2.4 Critérios 2024.10 30/10/2024
+hidrológicos
+QN : vazão natural média diária prevista no aproveitamento hidroelétrico.
+PREV
+4. CRITÉRIOS PARA CÁLCULO DA CURVA DE PRODUTIVIDADE EÓLICA
+4.1. Usinas Eólicas
+4.1.1. Premissas
+4.1.1.1 Para cálculo da curva é necessário o histórico de vento e de geração das usinas eólicas.
+4.1.1.2 Esses dados são enviados pelos agentes através do sistema de supervisão do ONS.
+4.1.2.Critérios Gerais
+4.1.2.1 O desenvolvimento metodológico foi dividido em três etapas:
+(a) a primeira etapa consiste na caracterização do processo e tratamento dos dados históricos verificados
+de geração e velocidade do vento;
+(b) na segunda etapa, o histórico verificado de vento e geração alimenta um modelo de criação das curvas
+Vento x Potência (VxP). Essas curvas, posteriormente, são utilizadas no cálculo de referência de
+energia frustrada, conforme Submódulo 6.5 - Apuração da geração e de indisponibilidade de
+empreendimentos de geração; e
+(c) Finalmente, de posse da velocidade do vento verificada no momento de restrição de geração eólica
+decorrente de comando do ONS, a expectativa da energia que teria sido gerada é calculada.
+4.1.2.2 Em geral, a curva de potência física é caracterizada por dois parâmetros principais, sendo esses
+velocidade do vento denominada cut-in e cut-out.
+4.1.2.2.1 A velocidade cut-in é a velocidade mínima do vento que permite o início de geração de energia
+elétrica pelo aerogerador e a velocidade cut-out é a velocidade máxima de vento que a máquina ainda poderá
+operar sem ser desligada.
+4.1.2.2.2 A Figura 2 ilustra o comportamento teórico de um aerogerador típico.
+Endereço na internet: http://www.ons.org.br 18 / 24
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para estudos energéticos e
+2.4 Critérios 2024.10 30/10/2024
+hidrológicos
+Figura 2 – Representação física da curva Vento x Potência
+4.1.2.3 Na próxima seção, as características do modelo utilizado para estimação das curvas de potência das
+usinas eólicas são apresentadas.
+4.1.3.Características das Curvas Vento x Potência
+4.1.3.1 Com base nos dados históricos, a curva empírica é construída através de funções sigmoides –
+Equação (3), sendo os parâmetros , , , , e características próprias de cada parque
+eólico, conforme Figura 3.
+Figura 3 – Curva genérica para criação das curvas Vento x Potência
+Endereço na internet: http://www.ons.org.br 19 / 24
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para estudos energéticos e
+2.4 Critérios 2024.10 30/10/2024
+hidrológicos
+(3)
+sendo,
+(4)
+(5)
+4.1.3.2 Cada usina eólica possui características distintas. As curvas VxP de usinas que possuem uma região
+de saturação bem definida para velocidades elevadas de vento podem ser modeladas através de uma função
+com a primeira e a segunda parcela da Equação (3).
+4.1.3.2.1 Em caso de usinas em que a geração eólica a partir de dada velocidade do vento começa a decair,
+é necessário utilizar também a terceira parcela da Equação (3) para modelar as respectivas curvas VxP.
+4.1.3.2.2 A Figura 4 ilustra um exemplo de curvas VxP estimadas utilizando a Equação (3), cada curva com
+seu comportamento distinto, conforme acima mencionado.
+Figura 4 - Curva Vento x Potência com e sem saturação na geração
+4.1.4.Estimação de Limites das Dispersões Vento x Potência
+4.1.4.1 Para uma boa estimação da curva VxP, inicialmente, é necessário eliminar os pontos da dispersão,
+de cada usina, que não representam valores plausíveis, tentando manter o maior número de pontos corretos
+[2].
+4.1.4.2 Sendo assim, são criadas uma função superior e uma inferior, de forma a considerar apenas os dados
+que se encontram dentro destes limites. A criação destes limites é feita com funções sigmoides, conforme
+Equação (3).
+Endereço na internet: http://www.ons.org.br 20 / 24
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para estudos energéticos e
+2.4 Critérios 2024.10 30/10/2024
+hidrológicos
+4.1.4.3 De posse dos parâmetros , , , , e é possível a criação dos limites
+inferiores e superiores para filtragem dos dados.
+4.1.4.3.1 Esses parâmetros devem ser estimados tomando as próprias curvas de dispersão dos dados
+verificados, uma vez que os parâmetros teóricos nem sempre são compatíveis com os estimados pela curva
+de dispersão real.
+4.1.4.3.2 Os parâmetros da sigmoide são calculados de forma automática pelo modelo que estima as curvas
+VxP.
+4.1.4.3.3 A ideia geral consiste em selecionar dentro do conjunto de pontos verificados aqueles pertencentes
+aos intervalos prováveis de cada parâmetro da equação. Para cada coeficiente a ser especificado, um
+conjunto de pontos é selecionado e um determinado quantil desse vetor é calculado e atribuído como o valor
+do parâmetro desejado.
+4.1.4.4 Na Figura 5, a região em vinho contém os pontos selecionados para a estimação dos parâmetros
+das curvas limites inferior e superior, enquanto a região em amarelo filtra os pontos previamente escolhidos
+na região vinho para a definição do parâmetro . Marcações semelhantes são realizadas para estimar os
+demais parâmetros das curvas.
+Figura 5 - Dispersão VxP de um parque eólico
+4.1.4.5 A Figura 6 apresenta um exemplo da criação destes limites e de como se torna a dispersão após a
+eliminação de dados incompatíveis.
+Endereço na internet: http://www.ons.org.br 21 / 24
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para estudos energéticos e
+2.4 Critérios 2024.10 30/10/2024
+hidrológicos
+Figura 6 - Curvas limites e aplicação
+4.1.4.6 Os dados eliminados nem sempre representam problemas de medição. Muitos dados podem ser
+medições precisas e serem cortados por não estarem dentro dos limites calculados. Esses dados podem ser
+originais de restrições operativas diversas, tais como máquinas em manutenção, equipamentos em falha ou
+restrições de transmissão.
+4.1.4.6.1 Estes fatores fazem com que mesmo com a disponibilidade de recurso (vento) a usina não gere a
+respectiva energia. Embora os dados que estão sendo eliminados possam ser reais, não é interessante mantê-
+los na calibração dos modelos, dado que o que importa são os pontos em que o parque opera em condições
+usuais.
+4.1.4.7 Em situações normais, a dispersão da curva de potência verificada é composta por pontos
+majoritariamente plausíveis, e neste caso as limitações impostas apenas melhoram a qualidade do ajuste,
+conforme pode ser observado na Figura 7.
+Figura 7 - Curvas limites de parques eólicos com saturação e decaimento na geração
+Endereço na internet: http://www.ons.org.br 22 / 24
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para estudos energéticos e
+2.4 Critérios 2024.10 30/10/2024
+hidrológicos
+4.1.5.Estimação das Curvas Vento x Potência
+4.1.5.1 Após o tratamento da dispersão VxP, a equação que representa cada usina pode ser selecionada.
+4.1.5.2 O modelo desenvolvido estima os parâmetros da função sigmoide Equação (3). A mesma função
+utilizada no processo de filtragem dos dados verificados é adotada para modelar a curva média VxP de
+parques eólicos.
+4.1.5.3 A estimação dos parâmetros que permite o melhor ajuste da curva à dispersão VxP pode ser realizada
+através de uma função capaz de selecionar os parâmetros de um modelo não-linear que resultem nos
+menores desvios quadráticos entre os dados calculados e observados.
+4.1.5.4 A quantidade e qualidade dos dados, principalmente na região de saturação, influenciam
+diretamente na estimação dos parâmetros da função. Um artifício utilizado para evitar ocorrência de erros e
+estimações imprecisas é a inclusão de pontos fictícios ao conjunto de dados que é utilizado no processo de
+estimação.
+4.1.5.5 A Figura 8 ilustra uma usina eólica, cujo histórico é insuficiente para uma previsão adequada das
+gerações na região de saturação. É possível observar na Figura8 que o número de pontos VxP verificados
+nessa região é escasso, o que compromete a qualidade da estimação da curva.
+4.1.5.6 No processo de inclusão de pontos fictícios, busca-se conhecer as maiores velocidades de vento
+verificadas bem como as gerações eólicas associadas a elas.
+4.1.5.6.1 De posse dessas informações, é possível criar um conjunto de pontos formado por uma sequência
+de ventos partindo de um valor, que é especificado como um quantil do vetor contendo os ventos registrados
+mais altos, até uma velocidade elevada.
+4.1.5.6.2 Esse vetor com velocidades de vento deve ser relacionado a um vetor de mesmo tamanho contendo
+as gerações correspondentes.
+4.1.5.6.3 O valor estabelecido para as gerações é constante justamente no intuito de representar de forma
+adequada a região de saturação. Esse valor constante é escolhido através do cálculo de um quantil das
+gerações associadas aos maiores ventos, que se aproxima da geração eólica verificada em casos que a
+saturação é atingida.
+Endereço na internet: http://www.ons.org.br 23 / 24
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para estudos energéticos e
+2.4 Critérios 2024.10 30/10/2024
+hidrológicos
+Figura 8 - Comparação entre curvas VxP estimadas sem e com a inserção de pontos fictícios
+4.1.5.7 Na imagem da direita da Figura 8, os pontos fictícios são plotados em azul e garantem um ajuste da
+curva VxP bem mais aderente à região de saturação, conforme demonstrado pela curva em amarelo.
+4.1.5.7.1 Observa-se que na imagem da esquerda da Figura 8, a curva VxP estimada ultrapassa o limite
+superior de geração da usina.
+4.1.5.8 A metodologia de estimação das curvas de potência de usinas eólicas descrita acima possui a
+vantagem de ser capaz de modelar usinas com a região de saturação bem definida, assim como usinas que
+possuem a característica de decaimento, explicada anteriormente, conforme observado na Figura 9.
+Figura 9 - Curvas VxP de parques eólicos com saturação e decaimento na geração
+5. REFERÊNCIAS
+[1] CNPE. Resolução nº 01, de 12 de março de 2024.
+[2] M. N. M. Rolo, “Previsão de Produção Eólica com Modelização de Incertezas,” Faculdade de Engenharia
+da Universidade do Porto, 2014.
+Endereço na internet: http://www.ons.org.br 24 / 24

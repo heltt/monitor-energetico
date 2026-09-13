@@ -1,0 +1,140 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 3.8-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 3.8-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 3.8
+Atualização de dados técnicos dos
+aproveitamentos hidroelétricos
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Atualização de dados técnicos dos
+3.8 Responsabilidades 2020.12 01/01/2021
+aproveitamentos hidroelétricos
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Inventário de Dados Técnicos dos Aproveitamentos Hidroelétricos............................................3
+2.2. Parecer Técnico sobre a Solicitação de Atualização de Dados Técnicos de Aproveitamentos
+Hidroelétricos................................................................................................................................3
+2.3. Relatório de Atualização de Dados Técnicos de Aproveitamentos Hidroelétricos.......................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de geração.......................................................................................................................4
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIAS...................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Atualização de dados técnicos dos
+3.8 Responsabilidades 2020.12 01/01/2021
+aproveitamentos hidroelétricos
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades e os prazos relativos ao processo de atualização dos dados
+técnicos dos aproveitamentos hidroelétricos necessários aos processos de planejamento, programação e
+operação do Sistema Interligado Nacional (SIN).
+2. PRODUTOS
+2.1. Inventário de Dados Técnicos dos Aproveitamentos Hidroelétricos
+2.1.1. Apresenta os dados técnicos de aproveitamentos hidroelétricos, os quais referem-se a características
+das usinas e dos reservatórios, a evaporações líquidas nas áreas inundadas pelos reservatórios e a outros
+processos físicos relevantes a serem utilizados nas atividades de planejamento, programação e operação dos
+aproveitamentos hidroelétricos integrantes do SIN.
+2.2. Parecer Técnico sobre a Solicitação de Atualização de Dados Técnicos de Aproveitamentos
+Hidroelétricos
+2.2.1. Apresenta o resultado das análises quanto à solicitação do agente de geração para as atualizações de
+dados técnicos de aproveitamentos hidroelétricos.
+2.3. Relatório de Atualização de Dados Técnicos de Aproveitamentos Hidroelétricos
+2.3.1. Apresenta a atualização de dados técnicos dos aproveitamentos hidroelétricos em função de evolução
+metodológica de obtenção dos dados técnicos de aproveitamentos hidroelétricos ou da necessidade de
+aplicação de novos insumos às metodologias adotadas.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Complementar, quando necessária, a relação de dados técnicos de forma a atender às necessidades
+dos processos de planejamento, programação e operação dos aproveitamentos hidroelétricos
+integrantes do SIN.
+(b) Informar aos agentes de geração os formatos, os meios e os prazos para o encaminhamento de
+solicitações de atualização de dados técnicos dos aproveitamentos hidroelétricos.
+(c) Analisar as solicitações de atualização de dados técnicos dos aproveitamentos hidroelétricos com as
+devidas justificativas técnicas, encaminhadas pelos agentes de geração.
+(d) Informar aos agentes de geração, sempre que solicitado, o andamento da atualização dos dados
+técnicos dos aproveitamentos hidroelétricos.
+(e) Emitir Parecer Técnico sobre a Solicitação de Atualização de Dados Técnicos de Aproveitamentos
+Hidroelétricos específico para cada agente e encaminhá-lo à Agência Nacional de Energia Elétrica –
+ANEEL e ao agente de geração envolvido. Dependendo da indicação do parecer, a atualização estará
+sujeita à aprovação pela ANEEL.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Atualização de dados técnicos dos
+3.8 Responsabilidades 2020.12 01/01/2021
+aproveitamentos hidroelétricos
+(f) Realizar estudos de atualização de dados técnicos dos aproveitamentos hidroelétricos, quando da
+existência de novas metodologias ou de novos insumos, com a participação facultativa dos agentes
+de geração, e elaborar um relatório de atualização de dados técnicos de aproveitamentos
+hidroelétricos.
+(g) Encaminhar o Relatório de Atualização de Dados Técnicos de Aproveitamentos Hidroelétricos à
+ANEEL, para aprovação, e aos agentes de geração e à EPE, para conhecimento.
+(h) Realizar estudos para a atualização de dados técnicos dos aproveitamentos hidroelétricos, com a
+participação facultativa dos agentes de geração, quando solicitados pela ANEEL.
+(i) Implementar as atualizações de dados técnicos de aproveitamentos hidroelétricos aprovadas ou
+encaminhadas pela ANEEL.
+(j) Disponibilizar o Inventário de Dados Técnicos dos Aproveitamentos Hidroelétricos em seu site e
+mantê-lo atualizado.
+(k) Comunicar aos agentes de geração e à ANEEL quando da identificação de inconsistências nos dados
+técnicos dos aproveitamentos hidroelétricos.
+3.2. Agentes de geração1
+(a) Encaminhar ao ONS as solicitações de atualização de dados técnicos dos aproveitamentos
+hidroelétricos, com as respectivas justificativas técnicas.
+(b) Fornecer ao ONS, sempre que solicitado, os esclarecimentos adicionais quanto às solicitações de
+atualização encaminhadas, às metodologias de cálculo e aos procedimentos de medição das
+grandezas relativos aos dados técnicos de aproveitamentos hidroelétricos.
+4. PRAZOS
+Quadro 1 – Prazos para a atualização de dados técnicos dos aproveitamentos hidroelétricos
+Responsável Prazo
+Atividade
+Solicitação de atualizações de dados técnicos Agentes de
+1 Quando necessário
+com as respectivas justificativas técnicas geração
+Análise das solicitações de atualização
+30 dias úteis após o recebimento
+2 recebidas dos agentes de geração e elaboração ONS
+das solicitações de atualizações.
+e disponibilização de Parecer Técnico específico
+1 Os agentes de geração considerados neste submódulo são aqueles detentores, por concessão ou autorização de usinas
+ou reservatórios simulados individualmente nos modelos computacionais conforme critérios estabelecidos no
+Submódulo 2.4 – Critérios para estudos energéticos e hidrológicos.
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Atualização de dados técnicos dos
+3.8 Responsabilidades 2020.12 01/01/2021
+aproveitamentos hidroelétricos
+Responsável Prazo
+Atividade
+5 dias úteis após a emissão de
+parecer técnico favorável à
+solicitação dos agentes de geração
+3 Implementação das alterações ONS
+ou após o recebimento de
+informação de atualização
+encaminhada pela ANEEL
+Comunicação sobre as atualizações
+implementadas e disponibilização do Inventário
+4 ONS 5 dias úteis após a implementação
+de Dados Técnicos dos Aproveitamentos
+Hidroelétricos atualizado
+Realização de estudos de atualização de dados
+técnicos dos aproveitamentos hidroelétricos,
+5 Quando da existência de novas
+elaboração do Relatório de Atualização de ONS
+metodologias ou de novos insumos
+Dados Técnicos de Aproveitamentos
+Hidroelétricos e disponibilização deste relatório
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 5 / 5

@@ -1,0 +1,22 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 03/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=03/02/2026&jornal=515&pagina=170
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Secretaria Nacional de Geologia, Mineração e Transformação Mineral
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+FASE DE REQUERIMENTO DE CONCESSÃO DE LAVRA
+Outorga de Concessão de Lavra. (Cód. 4.00)
+48403.831175/2015-40- Portaria SNGM/MME Nº 781 - Areal Central Ltda - Minério de Ouro e Areia - Guaraciaba - Minas Gerais - 23,27 hectares.
+48403.831381/2013-98 - Portaria SNGM/MME Nº 782 - Hidromineração Princesa do Vale Ltda - Água Mineral - Capitão Andrade - Minas Gerais - 49,99 hectares.
+27212.866328/2000-61 - Portaria SNGM/MME Nº 783 - Companhia Matogrossense de Mineração - Água Mineral - Barra do Garças - Mato Grosso - 50,00 hectares.
+27206.862223/1984-41 - Portaria SNGM/MME Nº 784 - Taiyo Thermas Hotel Ltda - Água Mineral - Caldas Novas - Goiás - 0,32 hectares.
+48059.850291/2024-16 - Portaria SNGM/MME Nº 785 - SLM - Santa Lúcia Mineração Ltda. - Minério de Cobre e Minério de Ouro - Canaã dos Carajás - Pará - 200,06 hectares.
+Os processos serão remetidos à Agência Nacional de Mineração, para vistas e cópias.
+ANA PAULA LIMA VIEIRA BITTENCOURT
+Secretária

@@ -1,0 +1,992 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 9.2-IN_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 9.2-IN_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 9.2
+Indicadores de desempenho de
+equipamentos e linhas de transmissão e
+das funções transmissão e geração
+Indicadores
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho de equipamentos e
+linhas de transmissão e das funções 9.2 Indicadores 2020.12 01/01/2021
+transmissão e geração
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. INDICADORES DE DESEMPENHO DOS EQUIPAMENTOS E LINHAS DE TRANSMISSÃO E DAS FUNÇÕES
+TRANSMISSÃO E GERAÇÃO NA OPERAÇÃO......................................................................................3
+3. INDICADORES DE DESEMPENHO DOS EQUIPAMENTOS E LINHAS DE TRANSMISSÃO E DAS FUNÇÕES
+TRANSMISSÃO E GERAÇÃO NA MANUTENÇÃO..............................................................................13
+4. REFERÊNCIAS.................................................................................................................................25
+Endereço na internet: http://www.ons.org.br 2 / 25
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho de equipamentos e
+linhas de transmissão e das funções 9.2 Indicadores 2020.12 01/01/2021
+transmissão e geração
+1. OBJETIVO
+1.1. Estabelecer os procedimentos para o cálculo dos indicadores de desempenho dos equipamentos e linhas
+de transmissão (LT) e dos indicadores de desempenho das funções transmissão e geração, na perspectiva da
+operação e da manutenção.
+1.1.1. Os indicadores de desempenho das funções transmissão e geração, definidos neste submódulo,
+possuem caráter operacional, sem expurgos.
+2. INDICADORES DE DESEMPENHO DOS EQUIPAMENTOS E LINHAS DE TRANSMISSÃO E DAS FUNÇÕES
+TRANSMISSÃO E GERAÇÃO NA OPERAÇÃO
+2.1. Disponibilidade das Funções Transmissão e Geração (DISPF)
+2.1.1. Objetivo
+2.1.1.1. Gerenciamento do desempenho das funções transmissão – LT, transformação e controle de reativo
+– e de geração, quanto à porcentagem de tempo em que a função esteve em operação ou disponível para
+operar, durante o período considerado.
+2.1.2. Formulação
+2.1.2.1. O indicador Disponibilidade das Funções Transmissão e Geração é dado por:
+ntotal dehorasdisponíveisno períodoconsiderado ( 1 )
+DISPF  x100 [%]
+ntotaldehorasdoperíodoconsiderado
+2.1.2.2. Para cálculo de indicadores em bases anuais, adotam-se 8.760 (oito mil e setecentos e sessenta)
+horas para anos normais e 8.784 (oito mil e setecentos e oitenta e quatro) horas para anos bissextos.
+2.1.2.3. Para funções transmissão e geração que entraram em operação durante o período considerado,
+deve-se considerar o número de horas a partir da entrada em operação comercial de tais funções.
+2.1.3. Agregações
+2.1.3.1. Sistêmica: sistema.
+2.1.3.2. Espacial: nível de tensão, agente de operação e tipo de função.
+2.1.3.3. Temporal: mensal e anual.
+2.1.4. Divulgação
+2.1.4.1. O Operador Nacional do Sistema Elétrico – ONS calcula e divulga esse indicador por meio de
+relatório, estabelecido no Submódulo 6.5 – Apuração da geração e de indisponibilidade de empreendimentos
+de geração, encaminhado aos agentes de operação e à ANEEL, e pelo site do ONS.
+2.1.4.2. A periodicidade de atualização do indicador no site do ONS é mensal.
+Endereço na internet: http://www.ons.org.br 3 / 25
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho de equipamentos e
+linhas de transmissão e das funções 9.2 Indicadores 2020.12 01/01/2021
+transmissão e geração
+2.1.4.3. O ONS fornece aos agentes de operação, mediante consulta, os valores dos indicadores calculados
+para os equipamentos e LT sob sua responsabilidade.
+2.2. Duração Média de Desligamento Forçado das Funções Transmissão e Geração (DMDFF)
+2.2.1. Objetivo
+2.2.1.1. Gerenciamento do desempenho das funções transmissão – LT, transformação e controle de reativo
+– e geração, quanto à duração média dos desligamentos forçados da função durante o período considerado.
+2.2.2. Formulação
+2.2.2.1. O indicador DMDFF é dado por:
+Númerodehorasdedesligamentos forçadosda função ( 2 )
+DMDFF 
+Númerodedesligamentos forçadosda função
+2.2.3. Agregações
+2.2.3.1. Sistêmica: sistema.
+2.2.3.2. Espacial: nível de tensão, agente de operação e tipo de função.
+2.2.3.3. Temporal: anual.
+2.2.4. Divulgação
+2.2.4.1. O ONS calcula e divulga esse indicador por meio de relatório, estabelecido no Submódulo 6.12 –
+Análise estatística de desligamentos forçados e de desempenho dos sistemas de proteção, encaminhado aos
+agentes de operação e à ANEEL, e pelo site do ONS.
+2.2.4.2. A periodicidade de atualização do indicador no site do ONS é anual.
+2.2.4.3. O ONS fornece aos agentes de operação, mediante consulta, os valores dos indicadores calculados
+para os equipamentos e LT sob sua responsabilidade.
+2.3. Frequência de Desligamentos Forçados das Funções Transmissão e Geração (FDFF)
+2.3.1. Objetivo
+2.3.1.1. Gerenciamento do desempenho das funções transmissão – LT, transformação e controle de reativo
+– e geração, quanto à frequência de desligamento da função durante o período considerado.
+2.3.2. Formulação
+2.3.2.1. O indicador FDFF é dado por:
+Endereço na internet: http://www.ons.org.br 4 / 25
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho de equipamentos e
+linhas de transmissão e das funções 9.2 Indicadores 2020.12 01/01/2021
+transmissão e geração
+Númerodedesligamentos forçadosda funçãono períodoconsiderado ( 3 )
+FDFF 
+Númerodehorasdo períodoconsiderado
+2.3.2.2. Para o cálculo do indicador, considera-se o estabelecido nos itens 2.1.2.2. e 2.1.2.3. deste
+submódulo.
+2.3.3. Agregações
+2.3.3.1. Sistêmica: sistema.
+2.3.3.2. Espacial: nível de tensão, agente de operação e tipo de função.
+2.3.3.3. Temporal: anual.
+2.3.4. Divulgação
+2.3.4.1. O ONS calcula e divulga esse indicador por meio de relatório, estabelecido no Submódulo 6.12,
+encaminhado aos agentes de operação e à ANEEL, e pelo site do ONS.
+2.3.4.2. A periodicidade de atualização do indicador no site do ONS é anual.
+2.3.4.3. O ONS fornece aos agentes de operação, mediante consulta, os valores dos indicadores calculados
+para os equipamentos e LT sob sua responsabilidade.
+2.4. Indisponibilidade Programada das Funções Transmissão e Geração (INDISPPF)
+2.4.1. Objetivo
+2.4.1.1. Gerenciamento da indisponibilidade programada das funções transmissão – LT, transformação,
+controle de reativo – e geração durante o período considerado.
+2.4.2. Formulação
+2.4.2.1. O indicador INDISPPF é dado por:
+ntotaldehorasindisponíveis programadas.da funçãono períodoconsiderado ( 4 )
+INDISPPF  x100
+ntotaldehorasdo períodoconsiderado
+2.4.2.2. Para o cálculo do indicador, considera-se o estabelecido nos itens 2.1.2.2. e 2.1.2.3. deste
+submódulo.
+2.4.3. Agregações
+2.4.3.1. Sistêmica: sistema.
+2.4.3.2. Espacial: nível de tensão, agente de operação e tipo de função.
+2.4.3.3. Temporal: mensal e anual.
+Endereço na internet: http://www.ons.org.br 5 / 25
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho de equipamentos e
+linhas de transmissão e das funções 9.2 Indicadores 2020.12 01/01/2021
+transmissão e geração
+2.4.4. Divulgação
+2.4.4.1. O ONS calcula e divulgação esse indicador por meio de relatório, estabelecido no Submódulo 6.5,
+encaminhado aos agentes de operação e à ANEEL, e pelo site do ONS.
+2.4.4.2. A periodicidade de atualização do indicador no site do ONS é mensal.
+2.4.4.3. O ONS fornece aos agentes de operação, mediante consulta, os valores dos indicadores calculados
+para os equipamentos e LT sob sua responsabilidade.
+2.5. Indisponibilidade Forçada das Funções Transmissão e Geração (INDISPFF)
+2.5.1. Objetivo
+2.5.1.1. Gerenciamento da indisponibilidade forçada das funções transmissão – LT, transformação e controle
+de reativo – e geração durante o período considerado.
+2.5.2. Formulação
+2.5.2.1. O indicador INDISPFF é dado por:
+ntotaldehorasindisponíveis forçadasda funçãono períodoconsiderado ( 5 )
+INDISPFF  x100
+ntotaldehorasdo períodoconsiderado
+2.5.2.2. Para o cálculo do indicador, considera-se o estabelecido nos itens 2.1.2.2. e 2.1.2.3. deste
+submódulo.
+2.5.3. Agregações
+2.5.3.1. Sistêmica: sistema.
+2.5.3.2. Espacial: nível de tensão, agente de operação e tipo de função.
+2.5.3.3. Temporal: mensal e anual.
+2.5.4. Divulgação
+2.5.4.1. O ONS calcula e divulga esse indicador por meio de relatório, estabelecido no Submódulo 6.5,
+encaminhado aos agentes de operação e à ANEEL, e pelo site do ONS.
+2.5.4.2. A periodicidade de atualização do indicador no site do ONS é mensal.
+2.5.4.3. O ONS fornece aos agentes de operação, mediante consulta, os valores dos indicadores calculados
+para os equipamentos e LT sob sua responsabilidade.
+2.6. Taxa de Desligamento Forçado das Funções Transmissão – Linha de Transmissão (TDFFLT)
+2.6.1. Objetivo
+2.6.1.1. Gerenciamento da incidência de desligamentos forçados das funções transmissão – LT nas horas de
+serviço durante o período considerado.
+Endereço na internet: http://www.ons.org.br 6 / 25
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho de equipamentos e
+linhas de transmissão e das funções 9.2 Indicadores 2020.12 01/01/2021
+transmissão e geração
+2.6.2. Formulação:
+2.6.2.1. O indicador TDFFLT é dado por:
+N
+ NDF
+i
+TDFFLT  i1 x 8760 ( 6 )
+N extLT 
+  i xHD 
+ 100 i 
+i1
+Onde:
+NDF = Número de desligamentos forçados da função transmissão - LT i, no período
+i
+considerado.
+HD = Número total de horas de serviço da função transmissão - LT i no período
+i
+considerado.
+i = Contador do número de circuitos da LT.
+N = Número total de função transmissão - LT, conforme agregação apresentada.
+extLT = Extensão total da função transmissão - LT i em km.
+i
+100 = Trecho da função transmissão - LT de 100 km.
+8760 = Fator de anualização (8.784 para anos bissextos).
+2.6.3. Agregações
+2.6.3.1. Sistêmica: sistema.
+2.6.3.2. Espacial: nível de tensão e agente de operação.
+2.6.3.3. Temporal: anual.
+2.6.4. Divulgação
+2.6.4.1. O ONS calcula e divulga esse indicador por meio de relatório, estabelecido no Submódulo 6.12,
+encaminhado aos agentes de operação e à ANEEL, e pelo site do ONS.
+2.6.4.2. A periodicidade de atualização do indicador no site do ONS é anual.
+2.6.4.3. O ONS fornece aos agentes de operação, mediante consulta, os valores dos indicadores calculados
+para os equipamentos e LT sob sua responsabilidade.
+2.7. Taxa de Desligamento Forçado das Funções Transmissão – Transformação e Controle de Reativos –
+e Geração (TDFF)
+2.7.1. Objetivo
+2.7.1.1. Gerenciamento da incidência de desligamentos forçados das funções transmissão – transformação
+e controle de reativos – e geração nas horas de serviço durante o período considerado.
+Endereço na internet: http://www.ons.org.br 7 / 25
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho de equipamentos e
+linhas de transmissão e das funções 9.2 Indicadores 2020.12 01/01/2021
+transmissão e geração
+2.7.2. Formulação:
+2.7.2.1. O indicador TDFF é dado por:
+N
+ NDF
+i
+TDFF  i1 x 8.760 ( 7 )
+N
+HX
+i
+i1
+Onde:
+NDF = Número de desligamentos forçados da função i, no período considerado.
+i
+HX = Número total de horas de serviço da função i, no período considerado.
+i
+i = Contador do número de funções.
+N = Número total de funções, conforme agregações apresentadas.
+8760 = Fator de anualização (8.784 para anos bissextos).
+2.7.3. Agregações
+2.7.3.1. Sistêmica: sistema.
+2.7.3.2. Espacial: nível de tensão, agente de operação e tipo de função.
+2.7.3.3. Temporal: anual.
+2.7.4. Divulgação
+2.7.4.1. O ONS calcula e divulga esse indicador por meio de relatório, estabelecido no Submódulo 6.12,
+encaminhado aos agentes de operação e à ANEEL, e pelo site do ONS.
+2.7.4.2. A periodicidade de atualização do indicador no site do ONS é anual.
+2.7.4.3. O ONS fornece aos agentes de operação, mediante consulta, os valores dos indicadores calculados
+para os equipamentos e LT sob sua responsabilidade.
+2.8. Taxa Equivalente de Indisponibilidade Forçada apurada (TEIFa)
+2.8.1. Objetivo
+2.8.1.1. Gerenciamento da taxa equivalente de indisponibilidade forçada apurada, definida segundo critérios
+estabelecidos pela ANEEL em regulação [1], calculado para cada usina.
+2.8.2. Formulação
+2.8.2.1. O indicador TEIFa é dado por:
+Endereço na internet: http://www.ons.org.br 8 / 25
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho de equipamentos e
+linhas de transmissão e das funções 9.2 Indicadores 2020.12 01/01/2021
+transmissão e geração
+60 n
+P (HDF HEDF)
+i ij
+TEIFa  j1 i1 ( 8 )
+60 n
+P (HDF HEDF HS HDCEHRD)
+i ij
+j1 i1
+Onde:
+i = Índice da unidade geradora em operação comercial.
+n = Número de unidades geradoras em operação comercial.
+j = Índice do mês apurado.
+P = Potência instalada da unidade geradora.
+HDF = Número de horas de desligamento forçado da unidade i no mês j.
+HEDF = Número de horas equivalentes de desligamento forçado da unidade i no mês j
+(a unidade opera com potência nominal limitada, associada a uma condição
+forçada)
+HS = Número de horas em serviço da unidade i no mês j (número de horas
+equivalentes em serviço somado ao número de horas em que a unidade opera
+sincronizada ao sistema, sem restrição de potência).
+HRD = número de horas de reserva desligada da unidade i no mês j (período em que
+a unidade não está em serviço por interesse sistêmico, apesar de disponível
+para operação - pode haver eventual restrição operativa na unidade, mesmo
+estando desligada, sendo que o correspondente período nessa situação deverá
+ser computado de forma proporcional aos períodos sem restrição)
+HDCE = número de horas desligada por condições externas da unidade i no mês j (a
+unidade não está em serviço por condições externas às suas instalações).
+2.8.3. Agregações
+2.8.3.1. Espacial: usina.
+2.8.3.2. Temporal: quinquenal.
+2.8.4. Divulgação
+2.8.4.1. O ONS calcula e divulga esse indicador para a Câmara de Comercialização de Energia Elétrica – CCEE,
+por meio eletrônico, e pelo site do ONS, conforme Submódulo 6.5.
+2.8.4.2. A periodicidade de divulgação desse indicador é mensal, até o 8º (oitavo) dia útil de cada mês.
+2.8.4.3. O ONS fornece aos agentes de operação, mediante consulta, os valores dos indicadores calculados
+para os equipamentos e LT sob sua responsabilidade.
+2.9. Taxa Equivalente de Indisponibilidade Programada (TEIP)
+2.9.1. Objetivo
+Endereço na internet: http://www.ons.org.br 9 / 25
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho de equipamentos e
+linhas de transmissão e das funções 9.2 Indicadores 2020.12 01/01/2021
+transmissão e geração
+2.9.1.1. Gerenciamento da taxa equivalente de indisponibilidade programada, definida segundo critérios
+estabelecidos pela ANEEL em regulação [1], calculado para cada usina.
+2.9.2. Formulação
+2.9.2.1. O indicador TEIP é dado por:
+60 n
+P (HDPHEDP)
+i ij
+TEIP  j1 i1 ( 9 )
+60 n
+P (HP)
+i ij
+j1 i1
+Onde:
+i = Índice da unidade geradora em operação comercial.
+n = Número de unidades geradoras em operação comercial.
+j = Índice do mês apurado.
+P = Potência instalada da unidade geradora.
+HDP = Número de horas de desligamento programado da unidade i no mês j.
+HEDP = Número de horas equivalentes de desligamento programado da unidade i no
+mês j (a unidade opera com potência nominal limitada, associada a uma
+condição programada)
+HP = Número de horas do período de apuração considerado no mês j para a
+unidade i.
+2.9.3. Agregações
+2.9.3.1. Espacial: usina.
+2.9.3.2. Temporal: quinquenal.
+2.9.4. Divulgação
+2.9.4.1. O ONS calcula e divulga esse indicador para a CCEE, por meio eletrônico, e pelo site do ONS,
+conforme Submódulo 6.5.
+2.9.4.2. A periodicidade de divulgação desse indicador é mensal, até o 8º (oitavo) dia útil de cada mês.
+2.9.4.3. O ONS fornece aos agentes de operação, mediante consulta, os valores dos indicadores calculados
+para os equipamentos e LT sob sua responsabilidade.
+2.10. Taxa Equivalente de Indisponibilidade Forçada utilizada nos processos do planejamento da
+operação energética (TEIF )
+OPER
+2.10.1.Objetivo
+Endereço na internet: http://www.ons.org.br 10 / 25
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho de equipamentos e
+linhas de transmissão e das funções 9.2 Indicadores 2020.12 01/01/2021
+transmissão e geração
+2.10.1.1. Gerenciamento da taxa equivalente de indisponibilidade forçada, durante o período considerado.
+A TEIF é utilizada nos processos do planejamento da operação energética, conforme definido no
+OPER
+Submódulo 3.3 – Planejamento da operação energética de médio prazo.
+2.10.2.Formulação geral
+2.10.2.1. O indicador TEIF é dado por:
+OPER
+60 n
+P (HDF HEDF)
+i ij
+TEIFoper  j1 i1 ( 10 )
+60 n
+P (HDF HEDF HS)
+i ij
+j1 i1
+Onde:
+i = Índice da unidade geradora em operação comercial.
+n = Número de unidades geradoras em operação comercial.
+j = Índice do mês apurado.
+P = Potência instalada da unidade geradora.
+HDF = Número de horas de desligamento forçado da unidade i no mês j.
+HEDF = Número de horas equivalentes de desligamento forçado da unidade i no mês j
+(a unidade opera com potência nominal limitada, associada a uma condição
+forçada)
+HS = número de horas em serviço da unidade i no mês j (número de horas
+equivalentes em serviço somado ao número de horas em que a unidade
+geradora opera sincronizada ao sistema, sem restrição de potência).
+2.10.3.Agregações
+2.10.3.1. Espacial: usina.
+2.10.3.2. Temporal: quinquenal.
+2.10.4.Divulgação
+2.10.4.1. O ONS calcula e divulga esse indicador por meio de relatório e pelo site do ONS.
+2.10.4.2. A periodicidade de atualização do indicador no site do ONS é mensal.
+2.10.4.3. A periodicidade de divulgação do relatório é anual, até o oitavo (8º) dia útil do mês de abril.
+2.10.4.4. O ONS fornece aos agentes de operação, mediante consulta, os valores dos indicadores calculados
+para os equipamentos e LT sob sua responsabilidade.
+2.10.5.Observações
+Endereço na internet: http://www.ons.org.br 11 / 25
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho de equipamentos e
+linhas de transmissão e das funções 9.2 Indicadores 2020.12 01/01/2021
+transmissão e geração
+2.10.5.1. Os valores para o Planejamento da Operação Energética têm expurgadas as horas de
+indisponibilidade por motivos conjunturais, tais como as horas de indisponibilidade de geração por falta de
+combustível.
+2.10.5.2. O valor divulgado é a média dos valores mensais de cada usina, relativo aos 60 (sessenta) meses
+imediatamente anteriores ao mês de dezembro do ano civil anterior, inclusive.
+2.10.5.3. Caso não se disponha dos valores mensais apurados que totalizem 60 (sessenta) meses, os valores
+faltantes serão contemplados com valores de referência, considerados no cálculo da respectiva energia
+assegurada/garantia física da usina.
+2.11. Taxa Equivalente de Indisponibilidade Programada utilizada nos processos do planejamento da
+operação energética (TEIP )
+OPER
+2.11.1.Objetivo
+2.11.1.1. Gerenciamento da taxa equivalente de indisponibilidade programada, durante o período
+considerado. A TEIP é utilizada nos processos do planejamento da operação energética conforme definido
+OPER
+no Submódulo 3.4.
+2.11.2.Formulação
+2.11.2.1. O indicador TEIP é dado por:
+OPER
+60 n
+P (HDPHEDP)
+i ij
+TEIPoper  j1 i1 ( 11 )
+60 n
+P (HP)
+i ij
+j1 i1
+Onde:
+i = Índice da unidade geradora em operação comercial.
+n = Número de unidades geradoras em operação comercial.
+j = Índice do mês apurado.
+P = Potência instalada da unidade geradora.
+HDP = Número de horas de desligamento programado da unidade i no mês j.
+HEDP = Número de horas equivalentes de desligamento programado da unidade i no
+mês j (a unidade geradora opera com potência nominal limitada, associada a
+uma condição programada).
+HP = Número total de horas do período de apuração considerado no mês j para a
+unidade i.
+2.11.3.Agregações
+2.11.3.1. Espacial: usina.
+Endereço na internet: http://www.ons.org.br 12 / 25
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho de equipamentos e
+linhas de transmissão e das funções 9.2 Indicadores 2020.12 01/01/2021
+transmissão e geração
+2.11.3.2. Temporal: quinquenal.
+2.11.4.Divulgação
+2.11.4.1. O ONS calcula e divulga esse indicador por meio de relatório e pelo site do ONS.
+2.11.4.2. A periodicidade de atualização do indicador no site do ONS é mensal.
+2.11.4.3. A periodicidade de divulgação do relatório é anual, até o oitavo (8º) dia útil do mês de abril.
+2.11.4.4. O ONS fornece aos agentes de operação, mediante consulta, os valores dos indicadores calculados
+para os equipamentos e LT sob sua responsabilidade.
+2.11.5.Observações
+2.11.5.1. Os valores para o Planejamento da Operação Energética têm expurgadas as horas de
+indisponibilidade por motivos conjunturais, tais como horas de indisponibilidade de geração por falta de
+combustível.
+2.11.5.2. O valor divulgado é a média dos valores mensais de cada usina, relativo aos 60 (sessenta) meses
+imediatamente anteriores ao mês de dezembro do ano civil anterior, inclusive.
+2.11.5.3. Caso não se disponha dos valores mensais apurados que totalizem 60 (sessenta) meses, os valores
+faltantes serão contemplados com valores de referência, considerados no cálculo da respectiva energia
+assegurada/garantia física da usina.
+3. INDICADORES DE DESEMPENHO DOS EQUIPAMENTOS E LINHAS DE TRANSMISSÃO E DAS FUNÇÕES
+TRANSMISSÃO E GERAÇÃO NA MANUTENÇÃO
+3.1. Disponibilidade de Unidades Geradoras Térmicas (DISPGT) e Hidráulicas (DISPGH), Compensadores
+Síncronos (DISPCS) e Compensadores Estáticos (DISPCE)
+3.1.1. Objetivo
+3.1.1.1. Gerenciamento do desempenho das unidades geradoras, compensadores síncronos e
+compensadores estáticos, verificando os valores limites das faixas classificadas como normal, alerta e
+insatisfatória.
+3.1.2. Formulação
+3.1.2.1. Os indicadores DISPGT, DISPGH, DISPCS e DISPCE são dados por:
+N
+(P x HD )
+i i
+DISP  i1 x100[%] ( 12 )
+N
+(P x HP)
+i i
+i1
+Onde:
+HD = Número de horas disponíveis do equipamento i.
+i
+Endereço na internet: http://www.ons.org.br 13 / 25
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho de equipamentos e
+linhas de transmissão e das funções 9.2 Indicadores 2020.12 01/01/2021
+transmissão e geração
+HP = Número total de horas de existência do equipamento i no período
+i
+considerado.
+P = Potência efetiva do equipamento i homologada pela ANEEL, em MW para
+i
+unidades geradoras e ou em Mvar para equipamentos de compensação
+reativa.
+N = Número total de equipamentos, conforme agregações apresentadas.
+i = Contador do número de equipamentos.
+3.1.2.2. Para o cálculo do indicador, considera-se o estabelecido no item 2.1.2.2. deste submódulo.
+3.1.3. Agregações
+3.1.3.1. Espacial: tipo de equipamento (unidade geradora térmica, unidade geradora hidráulica,
+compensador estático ou compensador síncrono) e agente de operação.
+3.1.3.2. Temporal: anual e mensal.
+3.2. Disponibilidade de Transformadores de Potência (DISPTR) e Reatores (DISPRT)
+3.2.1. Objetivo
+3.2.1.1. Gerenciamento do desempenho dos transformadores de potência e reatores, verificando os valores
+limites das faixas classificadas como normal, alerta e insatisfatória.
+3.2.2. Formulação
+3.2.2.1. Os indicadores DISPTR e DISPRT são dados por:
+N
+HD
+i
+DISP  i1 x100[%] ( 13 )
+N
+HP
+i
+i1
+Onde:
+HD = Número de horas disponíveis do equipamento i.
+i
+HP = Número total de horas de existência do equipamento i no período
+i
+considerado.
+N = Número total de equipamentos, conforme agregações apresentadas.
+i = Contador do número de equipamentos.
+3.2.2.2. Para o cálculo do indicador, considera-se o estabelecido no item 2.1.2.2. deste submódulo.
+3.2.3. Agregações
+3.2.3.1. Espacial: tipo de equipamento (transformador de potência ou reator), nível de tensão (230, 345,
+440, 500 ou 750 kV, do lado de alta no caso de transformador) e agente de operação.
+Endereço na internet: http://www.ons.org.br 14 / 25
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho de equipamentos e
+linhas de transmissão e das funções 9.2 Indicadores 2020.12 01/01/2021
+transmissão e geração
+3.2.3.2. Temporal: anual e mensal.
+3.3. Disponibilidade de Linhas de Transmissão (DISPLT)
+3.3.1. Objetivo
+3.3.1.1. Gerenciamento do desempenho dos circuitos das LT, verificando os valores limites das faixas
+classificadas como normal, alerta e insatisfatória.
+3.3.2. Formulação
+3.3.2.1. O indicador DISPLT é dado por:
+N extLTi 
+ xHD 
+ 100 i 
+DISPLT  i1 x100[%] ( 14 )
+N extLTi 
+ xHP
+ 100 i 
+i1
+Onde:
+HD = Número de horas disponíveis do circuito da LT i.
+i
+HP = Número total de horas de existência do circuito da LT i no período
+i
+considerado.
+extLT = Extensão total do circuito da LT i em km.
+i
+N = Número total de circuitos da LT, conforme agregações apresentadas.
+i = Contador do número de circuitos da LT.
+100 = Trecho do circuito de linha de 100 km.
+3.3.2.2. Para o cálculo do indicador, considera-se o estabelecido no item 2.1.2.2. deste submódulo.
+3.3.3. Agregações
+3.3.3.1. Espacial: nível de tensão (230, 345, 440, 500, 600 ou 750 kV) e agente de operação.
+3.3.3.2. Temporal: anual e mensal.
+3.4. Indisponibilidade para Manutenção Programada de Unidades Geradoras Térmicas (INDISPMPGT) e
+Hidráulicas (INDISPMPGH), Compensadores Síncronos (INDISPMPCS) e Compensadores Estáticos
+(INDISPMPCE)
+3.4.1. Objetivo
+3.4.1.1. Gerenciamento da indisponibilidade para a operação devido à manutenção programada de unidades
+geradoras, compensadores síncronos e compensadores estáticos, durante o período considerado.
+3.4.2. Formulação
+Endereço na internet: http://www.ons.org.br 15 / 25
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho de equipamentos e
+linhas de transmissão e das funções 9.2 Indicadores 2020.12 01/01/2021
+transmissão e geração
+3.4.2.1. Os indicadores INDISPMPGT, INDISPMPGH, INDISPMPCS e INDISPMPCE são dados por:
+N
+
+(P xHIX )
+i i
+INDISPMP = i1 x100[%] ( 15 )
+N
+
+(P xHP )
+i i
+i1
+Onde:
+HIX = Número de horas indisponíveis do equipamento i, para manutenção.
+i
+HP = Número total de horas de existência do equipamento i no período
+i
+considerado.
+P = Potência efetiva do equipamento i homologada pela ANEEL, em MW para
+i
+unidades geradoras e ou em Mvar para equipamentos de compensação
+reativa.
+N = Número total de equipamentos, conforme agregações apresentadas.
+i = Contador do número de equipamentos.
+3.4.2.2. Considera-se o início da manutenção o momento em que se abre o disjuntor – retirando-se, assim,
+o equipamento de operação – e seu término o momento em que é fechado o disjuntor, com a volta do
+equipamento à operação, ou quando o equipamento é disponibilizado pelo agente e o ONS indica que irá
+mantê-lo fora de operação por conveniência operativa.
+3.4.2.3. Para o cálculo da INDISPMP, utiliza-se HIX = HIMP para número de horas indisponíveis do
+i i
+equipamento i para manutenções programadas.
+3.4.2.4. Para o cálculo do indicador, considera-se o estabelecido no item 2.1.2.2. deste submódulo.
+3.4.3. Agregações
+3.4.3.1. Espacial: tipo de equipamento (unidade geradora térmica, unidade geradora hidráulica,
+compensador estático ou compensador síncrono) e agente de operação.
+3.4.3.2. Temporal: mensal e anual.
+3.5. Indisponibilidade para Manutenção Programada de Transformadores de Potência (INDISPMPTR) e
+Reatores (INDISPMPRT)
+3.5.1. Objetivo
+3.5.1.1. Gerenciamento da indisponibilidade para a operação devido à manutenção programada de
+transformadores e reatores, durante o período considerado.
+3.5.2. Formulação
+3.5.2.1. Os indicadores INDISPMPTR e INDISPMPRT são dados por:
+Endereço na internet: http://www.ons.org.br 16 / 25
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho de equipamentos e
+linhas de transmissão e das funções 9.2 Indicadores 2020.12 01/01/2021
+transmissão e geração
+N
+HIX
+i
+INDISPMP = i1 x100[%] ( 16 )
+N
+HP
+i
+i1
+Onde:
+HIX = Número de horas indisponíveis do equipamento i, para manutenção.
+i
+HP = Número total de horas de existência do equipamento i no período
+i
+considerado.
+P = Potência efetiva do equipamento i homologada pela ANEEL, em MW para
+i
+unidades geradoras e ou em Mvar para equipamentos de compensação
+reativa.
+N = Número total de equipamentos, conforme agregações apresentadas.
+i = Contador do número de equipamentos.
+3.5.2.2. Para o cálculo do indicador, considera-se o estabelecido nos itens 2.1.2.2. , 3.4.2.2. e 3.4.2.3. deste
+submódulo.
+3.5.3. Agregações
+3.5.3.1. Espacial: tipo de equipamento (transformador de potência ou reator), nível de tensão (230, 345,
+440, 500 ou 750 kV, do lado de alto no caso de transformador) e agente de operação.
+3.5.3.2. Temporal: mensal e anual.
+3.6. Indisponibilidade para Manutenção Programada de Linhas de Transmissão (INDISPMPLT)
+3.6.1. Objetivo
+3.6.1.1. Gerenciamento da indisponibilidade para a operação devido à manutenção programada de circuitos
+de LT, durante o período considerado.
+3.6.2. Formulação
+3.6.2.1. O indicador INDISPMPLT é dado por:
+ N  extLT i xHIX  
+ 100 i 
+INDISPMPLT = i1 x100[%] ( 17 )
+ N  extLT i xHP  
+ 100 i 
+i1
+Onde:
+HIX = Número de horas indisponíveis do circuito da LT i, para manutenção.
+i
+HP = Número total de horas de existência do circuito da LT i no período
+i
+considerado.
+Endereço na internet: http://www.ons.org.br 17 / 25
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho de equipamentos e
+linhas de transmissão e das funções 9.2 Indicadores 2020.12 01/01/2021
+transmissão e geração
+extLT = Extensão total do circuito da LT i em km.
+i
+100 = Trecho do circuito de linha de 100 km.
+N = Número total de circuitos da LT, conforme agregações apresentadas.
+i = Contador do número de circuitos da LT.
+3.6.2.2. Considera-se o início da manutenção o momento em que se abre o disjuntor – retirando-se, assim,
+o circuito da LT de operação – e seu término o momento em que é fechado o disjuntor, com a volta do circuito
+da linha à operação, ou quando o circuito da linha é disponibilizado pelo agente e o ONS indica que irá mantê-
+lo fora de operação por conveniência operativa.
+3.6.2.3. Para o cálculo da INDISPMP, utiliza-se HIX = HIMP para número de horas indisponíveis do circuito
+i i
+da LT i para manutenções programadas.
+3.6.2.4. Para o cálculo do indicador, considera-se o estabelecido no item 2.1.2.2. deste submódulo.
+3.6.3. Agregações
+3.6.3.1. Espacial: nível de tensão (230, 345, 440, 500, 600 ou 750 kV) e agente de operação.
+3.6.3.2. Temporal: mensal e anual.
+3.7. Indisponibilidade para Manutenção Forçada de Unidades Geradoras Térmicas (INDISPMFGT) e
+Hidráulicas (INDISPMFGH), Compensadores Síncronos (INDISPMFCS) e Compensadores Estáticos
+(INDISPMFCE)
+3.7.1. Objetivo
+3.7.1.1. Gerenciamento da indisponibilidade para manutenção forçada de unidades geradoras,
+compensadores síncronos e compensadores estáticos, durante o período considerado.
+3.7.2. Formulação
+3.7.2.1. Os indicadores INDISPMFGT, INDISPMFGH, INDISPMFCS e INDISPMFCE são dados por:
+N
+
+(P xHIX )
+i i
+INDISPMF = i1 x100[%] ( 18 )
+N
+
+(P xHP )
+i i
+i1
+Onde:
+HIX = Número de horas indisponíveis do equipamento i, para manutenção.
+i
+HP = Número total de horas de existência do equipamento i no período
+i
+considerado.
+P = Potência efetiva do equipamento i homologada pela ANEEL, em MW para
+i
+unidades geradoras e ou em Mvar para equipamentos de compensação
+reativa.
+Endereço na internet: http://www.ons.org.br 18 / 25
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho de equipamentos e
+linhas de transmissão e das funções 9.2 Indicadores 2020.12 01/01/2021
+transmissão e geração
+N = Número total de equipamentos, conforme agregações apresentadas.
+i = Contador do número de equipamentos.
+3.7.2.2. Para o cálculo do indicador, considera-se o estabelecido nos itens 2.1.2.2. , 3.4.2.2. e 3.4.2.3. deste
+submódulo.
+3.7.3. Agregações
+3.7.3.1. Sistêmica: tipo de equipamento (unidade geradora térmica, unidade geradora hidráulica,
+compensador estático ou compensador síncrono).
+3.7.3.2. Espacial: agente de operação.
+3.7.3.3. Temporal: mensal e anual.
+3.8. Indisponibilidade para Manutenção Forçada de Transformadores de Potência (INDISPMFTR) e de
+Reatores (INDISPMFRT)
+3.8.1. Objetivo
+3.8.1.1. Gerenciamento da indisponibilidade para manutenção forçada de transformadores de potência e de
+reatores, durante o período considerado.
+3.8.2. Formulação
+3.8.2.1. Os indicadores INDISPMFTR e INDISPMFRT são dados por:
+N
+HIX
+i
+INDISPMF = i1 x100[%] ( 19 )
+N
+HP
+i
+i1
+Onde:
+HIX = Número de horas indisponíveis do equipamento i, para manutenção.
+i
+HP = Número total de horas de existência do equipamento i no período
+i
+considerado.
+N = Número total de equipamentos, conforme agregações apresentadas.
+i = Contador do número de equipamentos.
+3.8.2.2. Para o cálculo do indicador, considera-se o estabelecido nos itens 2.1.2.2. , 3.4.2.2. e 3.4.2.3. deste
+submódulo.
+3.8.3. Agregações
+3.8.3.1. Espacial: tipo de equipamento (transformador de potência ou reator), nível de tensão (230, 345,
+440, 500 e 750 kV, do lado de alto no caso de transformador) e agente de operação.
+Endereço na internet: http://www.ons.org.br 19 / 25
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho de equipamentos e
+linhas de transmissão e das funções 9.2 Indicadores 2020.12 01/01/2021
+transmissão e geração
+3.8.3.2. Temporal: mensal e anual.
+3.9. Indisponibilidade para Manutenção Forçada de Linhas de Transmissão (INDISPMFLT)
+3.9.1. Objetivo
+3.9.1.1. Gerenciamento da indisponibilidade para manutenção forçada de circuitos de LT, durante o período
+considerado.
+3.9.2. Formulação
+3.9.2.1. O indicador INDISPMFLT é dado por:
+ N  extLT i xHIX  
+ 100 i 
+INDISPMFLT = i1 x100[%] ( 20 )
+ N  extLT i xHP  
+ 100 i 
+i1
+Onde:
+HIX = Número de horas indisponíveis do circuito da LT i, para manutenção.
+i
+HP = Número total de horas de existência do circuito da LT i no período
+i
+considerado.
+extLT = Extensão total do circuito da LT i em km.
+i
+100 = Trecho do circuito de linha de 100 km.
+N = Número total de circuitos da LT, conforme agregações apresentadas.
+i = Contador do número de circuitos da LT.
+3.9.2.2. Para o cálculo do indicador, considera-se o estabelecido nos itens 2.1.2.2. , 3.6.2.2. e 3.6.2.3. deste
+submódulo.
+3.9.3. Agregações
+3.9.3.1. Espacial: nível de tensão (230, 345, 440, 500, 600 e 750 kV) e agente de operação.
+3.9.3.2. Temporal: mensal e anual.
+3.10. Taxa de Desligamento Forçado para Unidades Geradoras Térmicas (TDFGT) e Hidráulicas (TDFGH),
+Compensadores Síncronos (TDFCS), Compensadores Estáticos (TDFCE), Transformadores (TDFTR) e
+Reatores (TDFRT)
+3.10.1.Objetivo
+3.10.1.1. Gerenciamento do desempenho de unidades geradoras, compensadores síncronos,
+compensadores estáticos, transformadores de potência e reatores, durante o período considerado.
+Endereço na internet: http://www.ons.org.br 20 / 25
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho de equipamentos e
+linhas de transmissão e das funções 9.2 Indicadores 2020.12 01/01/2021
+transmissão e geração
+3.10.2.Formulação
+3.10.2.1. Os indicadores TDFGT, TDFGH, TDFCS, TDFCE, TDFTR e TDFRT são dados por:
+N
+ NDFi
+TDF = i1 x8.760 ( 21 )
+N
+HX
+i
+i1
+Onde:
+NDF = Número de desligamentos forçados do equipamento i.
+i
+HX = Número de horas do equipamento i, sendo HXi = HSi para número de horas
+i
+de serviço do equipamento rotativo e HXi = HDi para número de horas
+disponíveis do equipamento não rotativo i.
+N = Número total de equipamentos, conforme agregações apresentadas.
+i = Contador do número de equipamentos.
+8760 = Fator de anualização (8.748 para anos bissextos).
+3.10.3.Agregações
+3.10.3.1. Espacial: tipo de equipamento (unidade geradora térmica, unidade geradora hidráulica,
+compensador síncrono, compensador estático, transformador de potência e reator), nível de tensão – apenas
+para transformador de potência e reator (230, 345, 440, 500 e 750 kV, do lado de alta no caso de
+transformador) e agente de operação.
+3.10.3.2. Temporal: mensal e anual.
+3.11. Taxa de Desligamento Forçado para Linhas de Transmissão (TDFLT)
+3.11.1.Objetivo
+3.11.1.1. Gerenciamento do desempenho dos circuitos das LT, durante o período considerado.
+3.11.2.Formulação
+3.11.2.1. O indicador TDFLT é dado por:
+N
+ NDFi
+TDFLT = i1 x8760 ( 22 )
+N extLT 
+  i xHD 
+ 100 i 
+i1
+Onde:
+Endereço na internet: http://www.ons.org.br 21 / 25
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho de equipamentos e
+linhas de transmissão e das funções 9.2 Indicadores 2020.12 01/01/2021
+transmissão e geração
+NDF = Número de desligamentos forçados do circuito da LT i, no período
+i
+considerado.
+HD = Número total de horas disponíveis do circuito da LT i, no período
+i
+considerado.
+N = Número total de circuitos da LT, conforme agregação apresentada.
+i = Contador do número de circuitos da LT.
+extLT = Extensão total do circuito da LT i em km.
+i
+100 = Trecho do circuito de linha de 100 km.
+8760 = Fator de anualização (8.748 para anos bissextos).
+3.11.3.Agregações
+3.11.3.1. Espacial: nível de tensão (230, 345, 440, 500, 600 ou 750 kV) e agente de operação.
+3.11.3.2. Temporal: mensal e anual.
+3.12. Taxa de Falhas, na perspectiva de manutenção, para Unidades Geradoras Térmicas (TFMGT) e
+Hidráulicas (TFMGH), Compensadores Síncronos (TFMCS), Compensadores Estáticos (TFMCE),
+Transformadores (TFMTR) e Reatores (TFMRT)
+3.12.1.Objetivo
+3.12.1.1. Gerenciamento da taxa de falhas para unidades geradoras, compensadores síncronos,
+compensadores estáticos, transformadores de potência e reatores, na perspectiva de manutenção e no
+período considerado, verificando os valores limites das faixas classificadas como normal, alerta e
+insatisfatória.
+3.12.2.Formulação
+3.12.2.1. Os indicadores TFMGT, TFMGH, TFMCS, TFMCE, TFMTR e TFMRT são dados por:
+N
+ NFi
+TFM = i1 x8.760 ( 23 )
+N
+HX
+i
+i1
+Onde:
+NF = Número de falhas do equipamento i.
+i
+HX = Número de horas do equipamento i, sendo HXi = HSi para número de horas
+i
+de serviço do equipamento rotativo i e HXi = HDi para número de horas
+disponíveis do equipamento não rotativo i.
+N = Número total de equipamentos, conforme agregação apresentada.
+i = Contador do número de equipamentos.
+Endereço na internet: http://www.ons.org.br 22 / 25
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho de equipamentos e
+linhas de transmissão e das funções 9.2 Indicadores 2020.12 01/01/2021
+transmissão e geração
+8760 = Fator de anualização (8.748 para anos bissextos).
+3.12.3.Agregações
+3.12.3.1. Espacial: tipo de equipamento (unidade geradora térmica, unidade geradora hidráulica,
+compensador síncrono, compensador estático, transformador de potência e reator), nível de tensão – apenas
+para transformador de potência e reator (230, 345, 440, 500 e 750 kV, do lado de alta no caso de
+transformador) e agente de operação.
+3.12.3.2. Temporal: mensal e anual.
+3.13. Taxa de Falhas, na perspectiva de manutenção, para Linhas de Transmissão (TMFLT)
+3.13.1.Objetivo
+3.13.1.1. Gerenciamento da taxa de falhas para circuitos de LT, na perspectiva de manutenção e no período
+considerado, verificando os valores limites das faixas classificadas como normal, alerta e insatisfatória.
+3.13.2.Formulação
+3.13.2.1. O indicador TFMLT é dado por:
+N
+ NFi
+TFMLT = i1 x8760 ( 24 )
+ N  extLT i xHD  
+ 100 i 
+i1
+Onde:
+NF = Número de falhas do circuito da LT i, no período considerado.
+i
+HD = Número total de horas disponíveis do circuito da LT i, no período
+i
+considerado.
+N = Número total de circuitos da LT, conforme agregação apresentada.
+i = Contador do número de circuitos da LT.
+extLT = Extensão total do circuito da LT i em km.
+i
+100 = Trecho do circuito de linha de 100 km.
+8760 = Fator de anualização (8.748 para anos bissextos).
+3.13.3.Agregações
+3.13.3.1. Espacial: nível de tensão (230, 345, 440, 500, 600 e 750 kV) e agente de operação.
+3.13.3.2. Temporal: mensal e anual.
+Endereço na internet: http://www.ons.org.br 23 / 25
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho de equipamentos e
+linhas de transmissão e das funções 9.2 Indicadores 2020.12 01/01/2021
+transmissão e geração
+3.14. Tempo Médio de Reparo para Unidades Geradoras Térmicas (TMRGT) e Hidráulicas (TMRGH),
+Compensadores Síncronos (TMRCS), Compensadores Estáticos (TMRCE), Transformadores de
+Potência (TMRTR), Reatores (TMRRT) e Linhas de Transmissão (TMRLT)
+3.14.1.Objetivo
+3.14.1.1. Gerenciamento do tempo médio de reparo das unidades geradoras, compensadores síncronos,
+compensadores estáticos, transformadores de potência, reatores e LT, verificando os valores limites das
+faixas classificadas como normal, alerta e insatisfatória.
+3.14.2.Formulação
+3.14.2.1. Os indicadores TMRGT, TMRGH, TMRCS, TMRCE, TMRTR, TMRRT e TMRLT são dados por:
+N
+
+HIR
+i
+TMR = i1 ( 25 )
+N
+
+NDF
+i
+i1
+Onde:
+HIR = Número de horas em que o equipamento i ou o circuito da LT i ficou
+i
+indisponível para operação e entregue à manutenção forçada.
+NDF = Número de desligamentos forçados do equipamento i ou LT i.
+i
+N = Índice da agregação, indicando o número de equipamentos ou circuitos da
+LT.
+i = Contador do número de equipamentos ou circuitos da LT.
+3.14.3.Agregações
+3.14.3.1. Espacial: tipo de equipamento (unidade geradora térmica, unidade geradora hidráulica,
+compensador síncrono, compensador estático, transformador de potência, reator ou LT), nível de tensão –
+apenas para transformador de potência, reator e LT (230, 345, 440, 500 e 750 kV, do lado de alta no caso de
+transformador, e, para LT, 230, 345, 440/500, 600 e 750 kV), e agente de operação.
+3.14.3.2. Temporal: mensal e anual.
+3.15. Avaliação de desempenho
+3.15.1. Visando o gerenciamento do desempenho de equipamentos (unidade geradora, compensador
+síncrono, compensador estático, transformador de potência e reator) e linhas de transmissão, são
+estabelecidas para os indicadores de Disponibilidade, Taxa de Falhas e Tempo Médio de Reparo (contexto da
+manutenção) três faixas limites, quais sejam:
+(a) normal: faixa considerada como adequada, com operação dentro dos padrões requeridos;
+(b) alerta: faixa considerada como de atenção, havendo necessidade de o agente adotar ações imediatas
+para recuperar o indicador e evitar evolução para uma operação fora dos padrões requeridos; e
+Endereço na internet: http://www.ons.org.br 24 / 25
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho de equipamentos e
+linhas de transmissão e das funções 9.2 Indicadores 2020.12 01/01/2021
+transmissão e geração
+(c) insatisfatória: faixa considerada como inadequada, havendo necessidade de o agente adotar ações
+imediatas para recuperar o indicador e voltar a operar dentro dos padrões requeridos.
+3.15.2. O ONS estabelece, provisoriamente, os valores limites das faixas denominadas “normal”, “alerta” e
+“insatisfatória” e, após a criação de banco de dados consistente, encaminha-os à Agência Nacional de Energia
+Elétrica – ANEEL para emissão de regulamentação específica.
+3.16. Divulgação
+3.16.1. O ONS calcula e divulga esses indicadores por meio do Relatório de Avaliação de Desempenho da
+Manutenção (RAD), emitido através de sistema computacional do ONS, nos termos e prazos estabelecidos
+no Submódulo 6.9 – Acompanhamento da manutenção de equipamentos e linhas de transmissão.
+3.16.2. O ONS fornece aos agentes de operação, mediante consulta, os valores dos indicadores calculados
+para os equipamentos e LT sob sua responsabilidade.
+4. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa nº 614, de 3 de junho de 2014.
+Endereço na internet: http://www.ons.org.br 25 / 25

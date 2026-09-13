@@ -1,0 +1,105 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.1-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.1-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.1
+Elaboração dos Informes e Boletins da
+Operação
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Elaboração dos informes e boletins da
+6.1 Responsabilidades 2020.12 01/01/2021
+Operação
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Informativo Preliminar Diário da Operação (IPDO).......................................................................3
+2.2. Informe Preliminar de Interrupção de Suprimento de Energia Elétrica no SIN (IPIE)...................3
+2.3. Boletim de Interrupção de Suprimento de Energia Elétrica no SIN (BISE)....................................3
+2.4. Boletim Diário da Operação (BDO)................................................................................................3
+2.5. Boletim Semanal da Operação (BSO)............................................................................................3
+2.6. Relatório de Comunicação de Ocorrência em Instalações de Geração (COIG).............................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de operação.....................................................................................................................4
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIA.....................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Elaboração dos informes e boletins da
+6.1 Responsabilidades 2020.12 01/01/2021
+Operação
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas dos processos relativos à
+elaboração dos informes e boletins da Operação.
+2. PRODUTOS
+2.1. Informativo Preliminar Diário da Operação (IPDO)
+2.1.1. Relatório com o objetivo de divulgar, de forma preliminar, as informações relativas à operação do dia
+anterior, para uso das equipes de operação do Operador Nacional do Sistema Elétrico – ONS e dos agentes
+de operação.
+2.2. Informe Preliminar de Interrupção de Suprimento de Energia Elétrica no SIN (IPIE)
+2.2.1. Relatório que informa, em caráter preliminar, eventos ocorridos no SIN que resultem na interrupção
+de suprimento de energia elétrica.
+2.3. Boletim de Interrupção de Suprimento de Energia Elétrica no SIN (BISE)
+2.3.1. Relatório com finalidade de informar sobre eventos ocorridos no SIN, com interrupção de suprimento
+de energia elétrica, classificados de forma a permitir a caracterização adequada da severidade desses
+eventos.
+2.4. Boletim Diário da Operação (BDO)
+2.4.1. Relatório com objetivo de registrar e divulgar as informações relativas à operação do dia anterior, para
+realimentação dos demais processos operativos.
+2.5. Boletim Semanal da Operação (BSO)
+2.5.1. Relatório com objetivo de registrar e divulgar as informações relativas à operação da semana anterior,
+para realimentação dos demais processos operativos.
+2.6. Relatório de Comunicação de Ocorrência em Instalações de Geração (COIG)
+2.6.1. Relatório com finalidade de comunicar à ANEEL ocorrências de indisponibilidades prolongadas em
+usinas de geração de energia elétrica com modalidade de despacho do Tipo I, II-A e II-C, conforme Submódulo
+7.2 – Classificação da modalidade de operação de usinas.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Solicitar aos agentes de operação dados e informações complementares para elaboração dos
+produtos deste submódulo.
+(b) Fornecer aos agentes de operação, mediante consulta, os dados estratificados sob sua
+responsabilidade.
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Elaboração dos informes e boletins da
+6.1 Responsabilidades 2020.12 01/01/2021
+Operação
+(c) Elaborar e disponibilizar, aos agentes de operação e à Agência Nacional de Energia Elétrica – ANEEL,
+o IPDO, IPIE, BDO, BSO, COIG e BISE.
+3.2. Agentes de operação
+(a) Fornecer dados e informações complementares ao ONS para a realização, das análises e dos
+produtos previstos neste submódulo.
+4. PRAZOS
+Quadro 1 - Prazos para Emissão de informes da operação
+Respo
+Atividade Prazo Periodicidade Horizonte
+nsável
+Conforme definido no
+Disponibilizar IPDO e BDO para agentes Dia
+1 ONS Submódulo 5.13 - Diária
+de operação e para a Aneel anterior
+Rotinas Operacionais
+Conforme definido no
+Disponibilizar BSO para agentes de Semana
+2 ONS Submódulo 5.13 - Semanal
+operação e para a Aneel anterior
+Rotinas Operacionais
+Período
+Quando da
+Disponibilizar COIG para agentes de 4 dias úteis após início de
+3 ONS ocorrência do
+operação e para a Aneel da indisponibilidade indisponi
+evento
+bilidade
+5. REFERÊNCIA
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 4 / 4

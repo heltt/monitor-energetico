@@ -1,0 +1,23 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 18/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=18/02/2026&jornal=515&pagina=196
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado do Rio Grande do Sul
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 30/2026
+Fase de Direito de Requerer a Lavra
+Concede anuência e autoriza averbação da cessão total do direito de requerer a lavra.(2259)
+810.202/2006-COMPANHIA BRASILEIRA DO COBRE- Cessionário:Mineração Carmec Ltda- CPF ou CNPJ 42.510.073/0001-73- Alvará n°3420/2014
+Fase de Licenciamento
+Determina cumprimento de exigência - Prazo 30 dias(718)
+810.576/2009-BASALTO CECCHIN LTDA-OF. N°7470/2026
+Concede anuência e autoriza averbação da cessão total de direitos(749)
+810.009/2020-PEDREIRA SANTA RITA DE CASSIA LTDA- Cessionário:Britagem Signor Ltda- CNPJ 61.863.228/0001-08- Registro de Licença N° 25/2020- Vencimento da Licença: 03/01/2029
+JOSE EDUARDO DA COSTA DUARTE
+Gerente Interino

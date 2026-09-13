@@ -1,0 +1,21 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 25/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=25/02/2026&jornal=515&pagina=91
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado de Pernambuco
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 35/2026
+Fase de Autorização de Pesquisa
+Aprova o relatório de pesquisa com redução de área(291)
+840.114/2018-QUARTZBLUE MINERACAO LTDA- Área de 400,99 para 190,61-QUARTZITO-PETROLINA/PE
+Aprova o relatório de Pesquisa(317)
+840.137/2017-DEBORAH TRANSPORTE E MINERAÇÃO EIRELI-ARGILA-Feira Nova, Glória de Goitá, Limoeiro e Passira/PE
+840.289/2018-CONE S.A.-GRANITO-Jaboatão dos Guararapes/PE
+WERTHER LARRAZABAL DA SILVA JÚNIOR
+Gerente

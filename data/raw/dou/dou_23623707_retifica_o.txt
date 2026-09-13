@@ -1,0 +1,125 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Retificação
+TITULO: RETIFICAÇÃO
+DATA_PUBLICACAO: 25/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=25/02/2026&jornal=515&pagina=87
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Energia Elétrica/Superintendência de Gestão Tarifária e Regulação Econômica
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+RETIFICAÇÃO
+No Despacho nº 11, de 5 de janeiro de 2026, constante do Processo nº 48500.904110/2024-11, cujo resumo foi publicado no DOU nº 6 de 9 de janeiro de 2026, seção 1, v. 164, p. 55, retificar, no Anexo, os valores de Taxa de Fiscalização de Serviços de Energia Elétrica - TFSEE relativos às usinas Ibirité (Aureliano Chaves), Itaúba, Sebastianópolis I (Antiga Noroeste Paulista), Ventos de São Vitor 11, Ventos de São Vitor 12 e Ventos de São Vitor 13, que foi disponibilizado no endereço eletrônico biblioteca.aneel.gov.br.
+Onde se lê:
+
+
+PETRÓLEO BRASILEIRO S.A. PETROBRAS
+235.000
+1.052.875,20
+- 852,41
+1.052.022,79
+Leia-se:
+
+
+PETRÓLEO BRASILEIRO S.A. PETROBRAS
+226.000
+1.012.552,32
+- 852,41
+1.011.699,91
+Onde se lê:
+
+
+COMPANHIA SIDERURGICA NACIONAL
+250.200
+1.120.976,06
+
+1.120.976,06
+Leia-se:
+
+
+COMPANHIA SIDERURGICA NACIONAL
+195.306
+875.033,92
+
+875.033,92
+Onde se lê:
+
+
+CSN CIMENTOS BRASIL S.A.
+250.200
+1.120.976,06
+
+1.120.976,06
+Leia-se:
+
+
+CSN CIMENTOS BRASIL S.A.
+305.094
+1.366.918,21
+
+1.366.918,21
+Onde se lê:
+
+
+COFCO INTERNATIONAL BRASIL S.A.
+68.000
+304.661,76
+1.811.744,78
+2.116.406,54
+Leia-se:
+
+
+COFCO INTERNATIONAL BRASIL S.A.
+68.000
+304.661,76
+213.146,45
+517.808,21
+Onde se lê:
+
+
+VENTOS DE SAO VITOR 11 ENERGIAS RENOVAVEIS S/A
+32.000
+143.370,24
+7.138,63
+150.508,87
+Leia-se:
+
+
+VENTOS DE SAO VITOR 11 ENERGIAS RENOVAVEIS S/A
+32.000
+143.370,24
+3.965,90
+147.336,14
+Onde se lê:
+
+
+VENTOS DE SAO VITOR 12 ENERGIAS RENOVAVEIS S/A
+32.000
+143.370,24
+7.138,63
+150.508,87
+Leia-se:
+
+
+VENTOS DE SAO VITOR 12 ENERGIAS RENOVAVEIS S/A
+32.000
+143.370,24
+3.965,90
+147.336,14
+Onde se lê:
+
+
+VENTOS DE SAO VITOR 13 ENERGIAS RENOVAVEIS S/A
+32.000
+143.370,24
+7.138,63
+150.508,87
+Leia-se:
+
+
+VENTOS DE SAO VITOR 13 ENERGIAS RENOVAVEIS S/A
+32.000
+143.370,24
+3.965,90
+147.336,14

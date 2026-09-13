@@ -1,0 +1,24 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 06/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=06/02/2026&jornal=515&pagina=79
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado de Minas Gerais
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 33/2026
+Fase de Autorização de Pesquisa
+Aprova o relatório de Pesquisa(317)
+830.226/2025-MINERIUM DO BRASIL MINERACAO LTDA-Calcário (produção de cimento e cal)-Montes Claros/MG.
+Aprova o relatório de pesquisa com redução de área(291)
+830.002/2020-AGROTURFA MINERACAO AGRICOLA LTDA- Área de 803,06 ha para 678,81 ha-Turfa (insumo agrícola)-Cascalho Rico e Estrela do Sul/MG.
+830.009/2020-AGROTURFA MINERACAO AGRICOLA LTDA- Área de 1701,05 ha para 663,86 ha-Turfa (insumo agrícola)-Santa Juliana/MG
+830.012/2020-AGROTURFA MINERACAO AGRICOLA LTDA- Área de 775,63 ha para 605,57 ha-Turfa (insumo agrícola)-Romaria/MG.
+Determina cumprimento de exigência - Prazo 60 dias(250)
+830.007/2020-AGROTURFA MINERACAO AGRICOLA LTDA-OF. N°4061/2026/UAMC-MG/ANM.
+CAIRO COSTA DUARTE
+Gerente

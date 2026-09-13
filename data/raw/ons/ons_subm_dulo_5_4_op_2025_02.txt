@@ -1,0 +1,177 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 5.4-OP_2025.02
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 5.4-OP_2025.02.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 5.4
+Controle da transmissão
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2025.02 Resolução Normativa ANEEL nº 1.112/2025 11/02/2025
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Controle da transmissão 5.4 Operacional 2025.02 01/03/2025
+ÍNDICE
+1. DIRETRIZES GERAIS..........................................................................................................................3
+2. CONTROLE DE TENSÃO.....................................................................................................................5
+3. CONTROLE DE CARREGAMENTO DE EQUIPAMENTOS E LINHAS DE TRANSMISSÃO...........................5
+4. REFERÊNCIAS...................................................................................................................................6
+5. ANEXOS...........................................................................................................................................6
+Endereço na internet: http://www.ons.org.br 2 / 6
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Controle da transmissão 5.4 Operacional 2025.02 01/03/2025
+1. DIRETRIZES GERAIS
+1.1. O Operador Nacional do Sistema Elétrico – ONS define a filosofia, a estratégia e as diretrizes para a
+realização do controle da transmissão em operação normal por meio dos estudos elaborados de acordo com
+o Submódulo 2.3 – Premissas, critérios e metodologia para estudos elétricos, Submódulo 3.1 – Planejamento
+da operação elétrica de médio prazo, Submódulo 3.4 – Planejamento da operação elétrica com horizonte
+quadrimestral, Submódulo 4.1 – Programação mensal da operação elétrica e Submódulo 4.2 – Programação
+de intervenções em instalações da Rede de Operação, que geram subsídios para as instruções de operação
+do Manual de Procedimentos da Operação (MPO), elaborado de acordo com o Submódulo 1.1 – Elaboração
+e manutenção do Manual de Procedimentos da Operação.
+1.2. Os centros de operação do ONS supervisionam o estado corrente da Rede de Operação do Sistema
+Interligado Nacional (SIN), coordenando e controlando, nessa rede, as manobras executadas pelos agentes
+de operação, analisando os seus reflexos e atuando quando necessário para as devidas correções.
+1.3. Os agentes mantêm o ONS atualizado quanto a informações que possam impactar o controle da
+transmissão dentro dos limites operativos vigentes.
+1.3.1. Os agentes de geração informam ao centro de operação do ONS com o qual se relacionam:
+(a) as indisponibilidades e restrições, ocorridas ou prestes a ocorrer, que limitem os recursos ou influam
+no controle da transmissão dentro dos limites operativos vigentes;
+(b) as alterações nos limites operativos de suas unidades geradoras, em relação aos valores informados
+ao ONS para a programação diária da operação eletroenergética, de acordo com o Submódulo 4.5 –
+Programação Diária da Operação;
+(c) os problemas operativos em instalações sob sua responsabilidade que possam causar restrições na
+Rede de Operação; e
+(d) a disponibilidade para reintegração ao SIN de equipamento ou linha de transmissão sob sua
+responsabilidade que se encontre desligado, tão logo essa disponibilidade fique caracterizada, bem
+como a existência ou a inexistência de restrição operativa.
+1.3.2. Os agentes de transmissão, agentes de distribuição e consumidores livres ou potencialmente livres
+cujas instalações estejam conectadas à Rede Básica informam ao centro de operação do ONS com o qual se
+relacionam:
+(a) as indisponibilidades e restrições, ocorridas ou prestes a ocorrer, que afetem a operação normal da
+Rede de Operação, limitem os recursos ou influenciem no controle do sistema de transmissão
+dentro dos limites vigentes;
+(b) as alterações nos limites operativos de equipamentos e linhas de transmissão sob sua
+responsabilidade, em relação aos valores informados ao ONS, constantes nos cadastros de
+informações operacionais do Submódulo 5.11 – Cadastro de Informações Operacionais; e
+(c) a disponibilidade para reintegração ao SIN de equipamento ou linha de transmissão sob sua
+responsabilidade que se encontre desligado, tão logo essa disponibilidade fique caracterizada, bem
+como a existência ou a inexistência de restrição operativa.
+1.3.3. O Centro Nacional de Operação do Sistema – CNOS informa aos Centros de Operação do Sistema –
+COSR as restrições sistêmicas na Rede de Operação.
+Endereço na internet: http://www.ons.org.br 3 / 6
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Controle da transmissão 5.4 Operacional 2025.02 01/03/2025
+1.3.4. Os COSR informam ao CNOS as indisponibilidades, restrições e/ou limitação de equipamentos que
+influenciem no controle de tensão ou possam causar restrições sistêmicas.
+1.4. O ONS, através dos seus centros de operação, realiza, em conjunto com os centros de operação dos
+agentes, a operação em tempo real seguindo os procedimentos definidos no Submódulo 5.12 – Instruções
+de Operação, específicas para situações de operação normal de controle de tensão e carregamento, de forma
+a assegurar:
+(a) a utilização plena dos recursos disponíveis;
+(b) o fornecimento de energia com requisitos de continuidade, qualidade e confiabilidade aferidos por
+meio de indicadores;
+(c) os níveis de tensão recomendados para os barramentos da Rede de Operação; e
+(d) a não violação dos limites operativos sistêmicos, dos equipamentos e das linhas de transmissão da
+Rede de Operação.
+1.4.1. Para a gestão da segurança operativa, pode-se contar com o apoio de:
+(a) estudos adicionais desenvolvidos no planejamento da operação elétrica (Submódulo 3.3);
+(b) avaliações realizadas pela equipe de pré-operação;
+(c) ferramentas de monitoração de fatores climáticos; e
+(d) avaliações obtidas de ferramentas avançadas de análise da segurança operativa em execução na sala
+de controle dos centros de operação.
+1.4.2. O CNOS coordena e supervisiona, na Rede de Operação Sistêmica, as ações operativas para controle
+do sistema de transmissão, que abrangem:
+(a) atuação nos dispositivos de controle de tensão;
+(b) alteração na topologia da rede;
+(c) redespacho de usinas, que estejam ou não sob Controle Automático de Geração (CAG), atendendo às
+prioridades estabelecidas no Programa Diário de Operação (PDO); e
+(d) conversão de unidades geradoras em compensadores síncronos e vice-versa.
+1.4.3. Os COSR supervisionam e controlam, na Rede de Operação Sistêmica, e coordenam, supervisionam e
+controlam, na Rede de Operação Regional sob sua responsabilidade, as ações operativas para controle do
+sistema de transmissão, que abrangem:
+(a) atuação nos dispositivos de controle de tensão;
+(b) alteração na topologia da rede; e
+(c) redespacho de usinas que não estejam sob CAG.
+1.4.3.1. Os COSR informam ao CNOS a execução dos redespachos das usinas que não estejam sob o CAG.
+1.4.4. Os COSR supervisionam, controlam e executam, na Rede de Operação, os redespachos de usinas que
+estejam sob CAG, para o controle do sistema de transmissão.
+1.4.5. Os agentes de geração supervisionam, comandam e executam, sob orientação do COSR com o qual se
+relacionam, as manobras para:
+(a) o remanejamento e o redespacho de unidades geradoras que não estão conectadas a um CAG;
+Endereço na internet: http://www.ons.org.br 4 / 6
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Controle da transmissão 5.4 Operacional 2025.02 01/03/2025
+(b) a excitação de geradores, atuações nos comutadores de tapes dos transformadores e nos demais
+recursos de controle de tensão e reativo;
+(c) a conversão de unidades geradoras em compensadores síncronos e vice-versa;
+(d) o sincronismo e a desconexão de unidades geradoras ao Sistema Interligado Nacional (SIN); e
+(e) absorção/fornecimento de potência reativa proveniente de fontes renováveis intermitentes.
+1.4.6. Os agentes de transmissão, agentes de distribuição e consumidores livres ou potencialmente livres
+cujas instalações estejam conectadas à Rede Básica supervisionam, comandam e executam, conforme
+orientação dos centros de operação do ONS:
+(a) manobras de linhas de transmissão, reatores, capacitores, excitação de compensadores, atuações nos
+comutadores de tapes e nos demais recursos de controle de tensão e de potência reativa; e
+(b) manobras para o controle do carregamento de equipamentos e linhas de transmissão sob sua
+responsabilidade.
+1.5. Após a execução de um comando pelos agentes de operação, o COSR responsável verifica a eficácia da
+medida através de seu sistema de supervisão, cuidando para que novas ações sejam coordenadas, quando
+necessário.
+2. CONTROLE DE TENSÃO
+2.1. Os centros de operação do ONS utilizam os recursos de controle de tensão de influência sistêmica,
+conforme os critérios para o controle de tensão definidos no Submódulo 2.5 – Critérios para operação, sob
+coordenação do CNOS, de forma a viabilizar os intercâmbios programados para as diversas áreas de controle
+e a possibilitar que sejam mantidas as tensões nos barramentos de referência em função dos requisitos da
+carga.
+2.2. O COSR utiliza os recursos de controle de tensão de influência regional de forma coordenada, conforme
+os critérios para o controle de tensão definidos no Submódulo 2.5, de forma a evitar ações isoladas com
+prejuízo para os sistemas eletricamente mais próximos.
+2.2.1. O controle de tensão regional deve ser executado em função dos requisitos da carga (MW e Mvar) dos
+barramentos sobre os quais o controle exerce influência, de acordo com instruções de operação. A utilização
+dos recursos para o controle de tensão deve ser compatibilizada com as necessidades da Rede de Operação.
+2.3. O centro de operação do agente utiliza os recursos de controle de tensão de influência local
+prioritariamente em relação aos recursos de influência regional, conforme os critérios para o controle de
+tensão definidos no Submódulo 2.5, e sob a supervisão do COSR.
+2.4. Os centros de operação do ONS, responsáveis pela coordenação de procedimentos de gerenciamento
+de carga, em suas respectivas áreas de atuação, conforme estabelecido no Submódulo 5.7 – Gerenciamento
+da carga, devem estar preparados para iniciar prontamente o processo de gerenciamento de carga quando
+preciso, fazendo os contatos necessários assim que for constatada a necessidade.
+2.4.1. Os agentes de operação que executam os procedimentos de gerenciamento de carga devem estar
+preparados para atuar com rapidez na sua execução, uma vez que há risco de colapso de tensão para a Rede
+de Operação.
+2.5. Os agentes de geração, de transmissão ou de distribuição acionam as respectivas áreas de manutenção
+com a maior brevidade possível, tão logo constatem defeitos que venham a restringir a operação das fontes
+de reativos e/ou equipamentos de regulação de tensão.
+Endereço na internet: http://www.ons.org.br 5 / 6
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Controle da transmissão 5.4 Operacional 2025.02 01/03/2025
+3. CONTROLE DE CARREGAMENTO DE EQUIPAMENTOS E LINHAS DE TRANSMISSÃO
+3.1. Os agentes de operação e os centros de operação do ONS, ao fazer a supervisão da operação do sistema,
+observam os carregamentos de equipamentos e linhas de transmissão em relação aos limites operativos
+previamente definidos, de modo a garantir a manutenção dos níveis de segurança e confiabilidade desejados.
+3.1.1. As informações referentes aos limites de linhas de transmissão e transformadores devem considerar
+os limites de todos os equipamentos que compõe ou restringem cada uma destas funções, devendo ser
+considerado aquele de valor mais restritivo.
+3.1.2. Caso o agente de operação, em tempo real, identifique a necessidade de adoção de um novo limite
+que implique restrições severas para o SIN, conforme critérios para controle de limites operativos
+estabelecidos no Submódulo 2.5, o agente formaliza sua solicitação ao ONS com a devida justificativa.
+3.1.2.1. O ONS comunica ao agente de operação solicitante os reflexos operativos envolvidos na adoção do
+novo valor de limite para que o agente confirme sua solicitação.
+3.2. Os agentes de operação e os centros de operação do ONS identificam os recursos disponíveis na
+operação para a determinação de medidas corretivas, inclusive de reprogramação eletroenergética, para
+reduzir o carregamento em equipamentos ou linhas de transmissão com sobrecarga ou evitar a violação de
+limites operativos.
+3.2.1. Podem ser adotadas ações de gerenciamento da carga, a fim de preservar a segurança do sistema e a
+integridade de equipamentos, conforme o Submódulo 5.7 e os critérios para controle dos limites operativos
+estabelecidos no Submódulo 2.5.
+4. REFERÊNCIAS
+4.1. Não há referências neste documento.
+5. ANEXOS
+5.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 6 / 6

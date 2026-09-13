@@ -1,0 +1,175 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 1.3-RS_2026.04
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 1.3-RS_2026.04.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 1.3
+Identificação, Tratamento das não
+conformidades e Procedimento de
+Impugnação
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2026.04 Despacho STD nº 1.238/2026 09/04/2026
+Procedimentos de Rede - Módulo 1 - Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Identificação, Tratamento das não
+1.3 Responsabilidades 2026.04 01/05/2026
+conformidades e Procedimento de Impugnação
+ÍNDICE
+1. OBJETIVO............................................................................................................................3
+2. PRODUTOS..........................................................................................................................3
+2.1. Base de Registro das Não Conformidades dos Tipos I e II................................................3
+2.2. Relatório de Identificação das Não Conformidades do Tipo III........................................3
+2.3. Base de Registro das Não Conformidades do Tipo III Canceladas....................................3
+2.4. Relatório das Não Conformidades dos Tipos I e II e do Tipo III Canceladas.....................3
+3. RESPONSABILIDADES..........................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS.................................................................3
+3.2. Agentes de operação........................................................................................................4
+4. PRAZOS...............................................................................................................................4
+5. REFERÊNCIAS......................................................................................................................6
+Endereço na internet: http://www.ons.org.br 2 / 6
+Procedimentos de Rede - Módulo 1 - Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Identificação, Tratamento das não
+1.3 Responsabilidades 2026.04 01/05/2026
+conformidades e Procedimento de Impugnação
+1. OBJETIVO
+1.1. Estabelecer as responsabilidades, produtos, prazos e as etapas do processo envolvidos na identificação
+e tratamento das não conformidades resultantes do descumprimento dos Procedimentos de Rede pelos
+agentes de operação ou pelo ONS, e do procedimento de impugnação das decisões proferidas pelo ONS em
+única ou última instância.
+2. PRODUTOS
+2.1. Base de Registro das Não Conformidades dos Tipos I e II
+2.1.1. Armazena registros das não conformidades dos Tipo I e II.
+2.2. Relatório de Identificação das Não Conformidades do Tipo III
+2.2.1. Relata as informações relativas às não conformidades do Tipo III.
+2.3. Base de Registro das Não Conformidades do Tipo III Canceladas
+2.3.1. Armazena registros das não conformidades dos Tipo III canceladas.
+2.4. Relatório das Não Conformidades dos Tipos I e II e do Tipo III Canceladas
+2.4.1. Consolida, para cada 4 meses, todas as não conformidades do Tipo I e II identificadas no período e
+todas as não conformidades do Tipo III canceladas neste mesmo período, contendo respectivamente seus
+tratamentos ou justificativas de cancelamento.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Acompanhar o cumprimento das obrigações dos agentes de operação constantes nos Procedimentos
+de Rede.
+(b) Manter atualizada a Base de Registro das Não Conformidades dos Tipos I e II e garantir acesso da
+ANEEL, a qualquer momento, a todas as não conformidades dos agentes de operação e o acesso dos
+agentes de operação, a qualquer momento, às respectivas não conformidades.
+(c) Notificar o agente de operação acerca da identificação de não conformidade do Tipo III e do início do
+processo de elaboração do respectivo Relatório de Identificação das Não Conformidades do Tipo III.
+(d) Elaborar e disponibilizar para a ANEEL o Relatório de Identificação das Não Conformidades do Tipo III.
+(e) Arquivar os documentos originais emitidos e recebidos.
+(f) Analisar os pedidos de impugnação recebidos e encaminhar o processo à ANEEL, em caso de não
+aceite ou aceite parcial pelo ONS [1].
+Endereço na internet: http://www.ons.org.br 3 / 6
+Procedimentos de Rede - Módulo 1 - Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Identificação, Tratamento das não
+1.3 Responsabilidades 2026.04 01/05/2026
+conformidades e Procedimento de Impugnação
+3.2. Agentes de operação
+(a) Cumprir com o estabelecido nos Procedimentos de Rede e solucionar as não conformidades
+apontadas pelo ONS.
+(b) Encaminhar para o ONS sua manifestação sobre as não conformidades notificadas.
+(c) Encaminhar para o ONS correspondência relatando as não conformidades identificadas e cometidas
+por outro agente de operação.
+(d) Encaminhar para a ANEEL correspondência relatando as não conformidades identificadas e cometidas
+pelo ONS.
+(e) Apresentar e instruir adequadamente com as informações corretas os pedidos de impugnação em
+face das decisões finais do ONS [1].
+4. PRAZOS
+Quadro 1 – Prazos para Identificação de tratamento de não conformidades
+Atividade Responsável Prazo Periodicidade Observação
+Identificar não
+conformidades
+1 ONS - Por demanda -
+dos agentes de
+operação
+Até 2 dias úteis a Estes prazos são
+partir da contados de modo
+Notificar agente atividade 1, para contínuo,
+2 ONS -
+de operação não excluindo-se o dia
+conformidades do marco para
+do Tipo III início da contagem
+do prazo e
+Até 15 dias do
+Apresentar incluindo-se o dia
+Agente de recebimento da
+3 manifestação ao - do vencimento.
+Operação notificação do
+ONS
+Se o vencimento
+ONS
+cair em dia em que
+não houver
+Emitir Relatório de
+expediente ou este
+Identificação das
+Até 45 dias da
+for encerrado antes
+4 Não ONS -
+atividade 2
+da hora normal, o
+Conformidades do
+prazo será
+Tipo III
+Endereço na internet: http://www.ons.org.br 4 / 6
+Procedimentos de Rede - Módulo 1 - Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Identificação, Tratamento das não
+1.3 Responsabilidades 2026.04 01/05/2026
+conformidades e Procedimento de Impugnação
+Atividade Responsável Prazo Periodicidade Observação
+prorrogado até o 1º
+dia útil seguinte.
+Disponibilizar
+Relatório das Não
+Conformidades Quadrimestra
+5 ONS - -
+dos Tipos I e II e l
+do Tipo III
+Canceladas
+Quadro 2 – Prazos para procedimento de impugnação ao ONS [1]
+Responsáv Periodici-
+Atividade Prazo Observação
+el dade
+O momento da
+decisão final é
+Decisão final do ONS
+Sob descrito nos
+1 nos processos cabíveis ONS -
+demanda Submódulos dos
+de impugnação [1]
+respectivos
+processos.
+Caso o agente não
+Cientificação da Até 2 dias úteis Sob atenda ao prazo, a
+2 Agente
+decisão final do ONS após atividade 1 demanda ciência é
+automática.
+Protocolização do Até 10 dias após Sob
+3 Agente -
+pedido de impugnação atividade 2 demanda
+Análise da impugnação
+Até 10 dias a
+e envio à ANEEL, em
+partir do 1º dia Por
+4 caso de não aceite ou ONS -
+útil após atividade demanda
+aceite parcial da
+3
+impugnação
+5. REFERÊNCIAS
+Endereço na internet: http://www.ons.org.br 5 / 6
+Procedimentos de Rede - Módulo 1 - Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Identificação, Tratamento das não
+1.3 Responsabilidades 2026.04 01/05/2026
+conformidades e Procedimento de Impugnação
+[1] ANEEL. Resolução Normativa nº 1.017, de 19 de abril de 2022 (alterada pela Resolução Normativa nº 1.107, de 10
+de dezembro de 2024)
+Endereço na internet: http://www.ons.org.br 6 / 6

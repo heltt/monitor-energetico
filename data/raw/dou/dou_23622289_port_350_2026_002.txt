@@ -1,0 +1,1533 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Portaria
+TITULO: Port 350_2026_002
+DATA_PUBLICACAO: 25/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=25/02/2026&jornal=515&pagina=96
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional do Petróleo, Gás Natural e Biocombustíveis
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+
+
+22.3
+COORDENAÇÃO DE PLANEJAMENTO E ESTUDOS REGULATÓRIOS
+
+
+
+Coordenador de Planejamento e Estudos Regulatórios
+CCT V
+1
+
+Assessor de Planejamento e Estudos Regulatórios
+CCT III
+1
+22.4
+COORDENAÇÃO NACIONAL DE PROCESSOS SANCIONADORES
+
+
+
+Coordenador Nacional de Processos Sancionadores
+CCT V
+1
+
+Assessor Nacional de Processos Sancionadores
+CCT III
+1
+22.4.1
+COORDENAÇÃO REGIONAL DE JULGAMENTO DE PROCESSOS (CJP-RJ)
+
+
+
+Coordenador Regional de Julgamento de Processos (CJP-RJ)
+CCT III
+1
+22.4.2
+COORDENAÇÃO REGIONAL DE JULGAMENTO DE PROCESSOS (CJP-SP)
+
+
+
+Coordenador Regional de Julgamento de Processos (CJP-SP)
+CCT III
+1
+22.4.3
+COORDENAÇÃO REGIONAL DE JULGAMENTO DE PROCESSOS (CJP-DF)
+
+
+
+Coordenador Regional de Julgamento de Processos (CJP-DF)
+CCT III
+1
+22.4.4
+COORDENAÇÃO REGIONAL DE JULGAMENTO DE PROCESSOS (CJP-BA)
+
+
+
+Coordenador Regional de Julgamento de Processos (CJP-BA)
+CCT III
+1
+22.4.5
+COORDENAÇÃO DE REVISÃO DE PROCESSOS SANCIONADORES
+
+
+
+Coordenador de Revisão de Processos Sancionadores
+CCT III
+1
+22.A
+NÚCLEO REGIONAL DE FISCALIZAÇÃO DO ABASTECIMENTO EM BELO HORIZONTE (NBH)
+
+
+
+Chefe do Núcleo Regional de Fiscalização em Belo Horizonte
+CGE IV
+1
+22.A.1
+COORDENAÇÃO DE PLANEJAMENTO, EXECUÇÃO E RESULTADO
+
+
+
+Coordenador de Planejamento, Execução e Resultado
+CCT III
+1
+22.A.2
+COORDENAÇÃO OPERACIONAL DE CAMPO
+
+
+
+Coordenador Operacional de Campo
+CCT III
+1
+22.B
+NÚCLEO REGIONAL DE FISCALIZAÇÃO DO ABASTECIMENTO NO DISTRITO FEDERAL (NDF)
+
+
+
+Chefe do Núcleo Regional de Fiscalização no Distrito Federal
+CGE IV
+1
+22.B.1
+COORDENAÇÃO OPERACIONAL DE CAMPO
+
+
+
+Coordenador Operacional de Campo
+CCT III
+1
+22.B.2
+COORDENAÇÃO OPERACIONAL DE CAMPO
+
+
+
+Coordenador Operacional de Campo
+CCT III
+1
+22.B.3
+COORDENAÇÃO DE PLANEJAMENTO, EXECUÇÃO E RESULTADO DF
+
+
+
+Coordenador-Geral de Planejamento, Execução e Resultado - NDF
+CCT IV
+1
+22.C
+NÚCLEO REGIONAL DE FISCALIZAÇÃO DO ABASTECIMENTO EM MANAUS (NMA)
+
+
+
+Chefe do Núcleo Regional de Fiscalização em Manaus
+CGE IV
+1
+22.C.1
+COORDENAÇÃO OPERACIONAL DE CAMPO
+
+
+
+Coordenador Operacional de Campo
+CCT III
+1
+
+Assistente de Superintendência
+CAS II
+1
+22.C.2
+COORDENAÇÃO DE PLANEJAMENTO INTEGRADO, EXECUÇÃO E RESULTADO DE FISCALIZAÇÕES
+
+
+
+Coordenador de Planejamento Integrado, Execução e Resultado de Fiscalizações
+CCT IV
+1
+22.D
+NÚCLEO REGIONAL DE FISCALIZAÇÃO DO ABASTECIMENTO EM PORTO ALEGRE (NPA)
+
+
+
+Chefe do Núcleo Regional de Fiscalização em Porto Alegre
+CGE IV
+1
+22.D.1
+COORDENAÇÃO OPERACIONAL DE CAMPO
+
+
+
+Coordenador Operacional de Campo
+CCT III
+1
+22.D.2
+COORDENAÇÃO DE PLANEJAMENTO, EXECUÇÃO E RESULTADO RS
+
+
+
+Coordenador de Planejamento, Execução e Resultado
+CCT III
+1
+22.E
+NÚCLEO REGIONAL DE FISCALIZAÇÃO DO ABASTECIMENTO EM SALVADOR (NSA)
+
+
+
+Chefe do Núcleo Regional de Fiscalização em Salvador
+CGE IV
+1
+
+Chefe Adjunto do Núcleo Regional de Fiscalização em Salvador
+CCT V
+1
+22.E.1
+COORDENAÇÃO OPERACIONAL DE CAMPO
+
+
+
+Coordenador Operacional de Campo
+CCT III
+1
+22.E.2
+COORDENAÇÃO OPERACIONAL DE CAMPO
+
+
+
+Coordenador Operacional de Campo
+CCT III
+1
+22.E.3
+COORDENAÇÃO DE PLANEJAMENTO INTEGRADO, EXECUÇÃO E RESULTADO DE FISCALIZAÇÕES
+
+
+
+Coordenador de Planejamento Integrado, Execução e Resultado de Fiscalizações
+CCT IV
+1
+22.F
+NÚCLEO REGIONAL DE FISCALIZAÇÃO DO ABASTECIMENTO EM SÃO PAULO (NSP)
+
+
+
+Chefe do Núcleo de Fiscalização em São Paulo
+CGE IV
+1
+
+Chefe Adjunto do Núcleo Regional de Fiscalização em São Paulo
+CCT V
+1
+22.F.1
+COORDENAÇÃO OPERACIONAL DE CAMPO
+
+
+
+Coordenador Operacional de Campo
+CCT III
+1
+22.F.2
+COORDENAÇÃO OPERACIONAL DE CAMPO
+
+
+
+Coordenador Operacional de Campo
+CCT III
+1
+22.F.3
+COORDENAÇÃO OPERACIONAL DE CAMPO
+
+
+
+Coordenador Operacional de Campo
+CCT III
+1
+22.F.4
+COORDENAÇÃO DE PLANEJAMENTO INTEGRADO, EXECUÇÃO E RESULTADO DE FISCALIZAÇÕES
+
+
+
+Coordenador de Planejamento Integrado, Execução e Resultado de Fiscalizações
+CCT IV
+1
+22.G
+NÚCLEO REGIONAL DE FISCALIZAÇÃO DO ABASTECIMENTO NO RIO DE JANEIRO (NRJ)
+
+
+
+Chefe do Núcleo Regional de Fiscalização no Rio de Janeiro
+CGE IV
+1
+
+Assessor Técnico de Atividades Integradas de Fiscalização
+CCT IV
+1
+
+Assessor Técnico de Sistemas
+CCT III
+1
+
+Assessor Técnico de Apoio Administrativo do NRJ
+CA III
+1
+22.G.1
+COORDENAÇÃO OPERACIONAL DE CAMPO
+
+
+
+Coordenador Operacional de Campo
+CCT III
+1
+23
+SUPERINTENDÊNCIA DE GESTÃO FINANCEIRA E ORÇAMENTÁRIA (SFO)
+
+
+
+Superintendente
+CGE I
+1
+
+Superintendente Adjunto
+CGE III
+1
+23.1
+COORDENAÇÃO CONTÁBIL
+
+
+
+Coordenador Contábil
+CCT IV
+1
+23.2
+COORDENAÇÃO DE EXECUÇÃO ORÇAMENTÁRIA
+
+
+
+Coordenador de Execução Orçamentária
+CCT IV
+1
+
+Assistente Técnica da Coordenação de Execução Orçamentária
+CAS II
+1
+23.3
+COORDENAÇÃO DE PLANEJAMENTO ORÇAMENTÁRIO
+
+
+
+Coordenador de Planejamento Orçamentário
+CCT IV
+1
+
+Assistente de Superintendência
+CAS II
+1
+23.4
+COORDENAÇÃO DE TRANSFERÊNCIAS VOLUNTÁRIAS
+
+
+
+Coordenador de Transferências Voluntárias
+CCT IV
+1
+23.5
+COORDENAÇÃO-GERAL DE GESTÃO FINANCEIRA
+
+
+
+Coordenador-Geral de Gestão Financeira
+CCT V
+1
+
+Assessor de Gestão Financeira
+CCT IV
+1
+23.5.1
+COORDENAÇÃO DE CONFORMIDADE DE REGISTRO DE GESTÃO
+
+
+
+Coordenador de Conformidade de Registro de Gestão
+CCT III
+1
+
+Assistente Operacional Financeiro
+CAS II
+1
+23.5.2
+COORDENAÇÃO DE DIÁRIAS E PASSAGENS
+
+
+
+Coordenador de Diárias e Passagens
+CCT III
+1
+23.5.3
+COORDENAÇÃO FINANCEIRA
+
+
+
+Coordenador Financeiro
+CCT III
+1
+23.A
+NÚCLEO DE GESTÃO DE CRÉDITOS (NGC)
+
+
+
+Chefe do Núcleo
+CGE IV
+1
+
+Assessor de Arrecadação e Cobrança
+CCT IV
+1
+23.A.1
+COORDENAÇÃO DE INTIMAÇÃO
+
+
+
+Coordenador de Intimação
+CCT III
+1
+23.A.2
+COORDENAÇÃO DE RECEBIMENTO
+
+
+
+Coordenador de Recebimento
+CCT III
+1
+23.A.3
+COORDENAÇÃO DE PARCELAMENTO
+
+
+
+Coordenador de Parcelamento
+CCT III
+1
+24
+SUPERINTENDÊNCIA DE GESTÃO ADMINISTRATIVA E AQUISIÇÕES (SGA)
+
+
+
+Superintendente
+CGE I
+1
+
+Superintendente Adjunto
+CGE III
+1
+24.1
+COORDENAÇÃO ADMINISTRATIVA DF
+
+
+
+Coordenador Administrativo - DF
+CCT IV
+1
+
+Assistente de Patrimônio - DF
+CCT I
+1
+24.2
+COORDENAÇÃO DE GESTÃO DOCUMENTAL - DF
+
+
+
+Coordenador de Gestão Documental - DF
+CCT IV
+1
+
+Assistente de Gestão Documental - DF
+CAS I
+1
+24.3
+COORDENAÇÃO-GERAL DE INFRAESTRUTURA PREDIAL, LOGÍSTICA E SERVIÇOS ADMINISTRATIVOS
+
+
+
+Coordenador-Geral de Infraestrutura Predial, Logística e Serviçoes Administrativos
+CCT V
+1
+
+Assessor Técnico de Fiscalização dos Serviços Administrativos
+CA III
+1
+
+Assessor Técnico de Almoxarifado e Serviços Logísticos
+CA III
+1
+
+Assistente Administrativo de Viagens
+CAS I
+2
+24.3.1
+COORDENAÇÃO DE PATRIMÔNIO E INFRAESTRUTURA PREDIAL
+
+
+
+Coordenador de Patrimônio e Infraestrutura Predial
+CCT III
+1
+24.4
+COORDENAÇÃO-GERAL DE AQUISIÇÕES
+
+
+
+Coordenador-Geral de Aquisições
+CCT V
+1
+24.4.1
+COORDENAÇÃO DE LICITAÇÕES
+
+
+
+Coordenador de Licitações
+CCT IV
+1
+
+Pregoeiro
+CCT II
+4
+24.4.2
+COORDENAÇÃO DE COMPRAS DIRETAS
+
+
+
+Coordenador de Compras Diretas
+CCT IV
+1
+
+Assistente de Compras Diretas
+CAS I
+1
+24.5
+COORDENAÇÃO-GERAL DE CONTRATOS SGA
+
+
+
+Coordenador-Geral de Contratos SGA
+CCT V
+1
+
+Assessor Técnico de Contratos ANP - Urca
+CCT IV
+1
+24.5.1
+COORDENAÇÃO DE PLANEJAMENTO DE CONTRATAÇÕES
+
+
+
+Coordenador de Planejamento de Contratações
+CCT III
+1
+24.6
+COORDENAÇÃO-GERAL DE GESTÃO DOCUMENTAL DA ANP
+
+
+
+Coordenador-Geral de Gestão Documental
+CGE IV
+1
+24.6.1
+COORDENAÇÃO DE ARQUIVOS
+
+
+
+Coordenador de Arquivos
+CCT III
+1
+24.6.2
+COORDENAÇÃO DE PROTOCOLO
+
+
+
+Coordenador de Protocolo
+CA III
+1
+
+Assistente de Gestão Documental
+CAS II
+1
+25
+SUPERINTENDÊNCIA DE GESTÃO DE PESSOAS E DO CONHECIMENTO (SGP)
+
+
+
+Superintendente
+CGE I
+1
+
+Superintendente Adjunto
+CGE III
+1
+
+Assessor Técnico de Parceria de Negócios em Gestão de Pessoas
+CCT IV
+1
+25.1
+COORDENAÇÃO DE BEM-ESTAR, SAÚDE E ENGAJAMENTO ORGANIZACIONAL
+
+
+
+Coordenador de Bem-Estar. Saúde e Engajamento Organizacional
+CCT IV
+1
+
+Assistente Técnico de Promoção de Ações de Bem-estar, Saúde e Engajamento Organizacional
+CAS I
+1
+25.2
+COORDENAÇÃO DE ADMINISTRAÇÃO DE PESSOAL
+
+
+
+Coordenador de Administração de Pessoal
+CCT IV
+1
+
+Assessor Técnico de Legislação de Pessoal
+CCT III
+1
+
+Assistente Técnico de Cadastro e Legislação
+CCT II
+1
+
+Assistente Técnico de Programa de Estágio
+CCT II
+1
+25.3
+COORDENAÇÃO DE REMUNERAÇÃO E DADOS DE PESSOAL
+
+
+
+Coordenador de Remuneração e Dados de Pessoal
+CGE IV
+1
+
+Assessor Técnico de Dados de Pessoal
+CA III
+1
+
+Assessor Técnico de Remuneração
+CA III
+1
+
+Assistente de Dados de Pessoal
+CAS I
+1
+25.4
+COORDENAÇÃO-GERAL DE APRENDIZAGEM ORGANIZACIONAL
+
+
+
+Coordenador-Geral de Aprendizagem Organizacional
+CCT V
+1
+25.4.1
+COORDENAÇÃO DE EDUCAÇÃO CORPORATIVA
+
+
+
+Coordenador de Educação Corporativa
+CCT III
+1
+25.4.2
+COORDENAÇÃO DE GESTÃO DO CONHECIMENTO
+
+
+
+Coordenador de Gestão do Conhecimento
+CCT III
+1
+25.5
+COORDENAÇÃO-GERAL DE DESENVOLVIMENTO ORGANIZACIONAL
+
+
+
+Coordenador-Geral de Desenvolvimento Organizacional
+CCT V
+1
+25.5.1
+COORDENAÇÃO DE PLANEJAMENTO DA FORÇA DE TRABALHO
+
+
+
+Coordenador de Planejamento da Força de Trabalho
+CCT III
+1
+25.5.2
+COORDENAÇÃO DE GESTÃO DO DESEMPENHO DE PESSOAL
+
+
+
+Coordenador de Gestão do Desempenho de Pessoal
+CCT III
+1
+26
+SUPERINTENDÊNCIA DE GOVERNANÇA E ESTRATÉGIA (SGE)
+
+
+
+Superintendente de Governança e Estratégia
+CGE I
+1
+
+Superintendente Adjunto de Governança e Estratégia
+CGE III
+1
+
+Assessor Técnico de Governança e Estratégia
+CCT V
+1
+
+Assessor Técnico de Dados e Sistemas
+CCT IV
+1
+26.1
+COORDENAÇÃO DO PROCESSO DECISÓRIO
+
+
+
+Coordenador do Processo Decisório
+CCT IV
+1
+
+Assessor de Contratos e Publicações
+CCT III
+1
+
+Assistente Administrativo
+CAS I
+1
+26.2
+COORDENAÇÃO DE GESTÃO DE RISCOS E INTEGRIDADE
+
+
+
+Coordenador de Gestão de Riscos e Integridade
+CCT IV
+1
+26.3
+COORDENAÇÃO-GERAL DE ESTRATÉGIA
+
+
+
+Coordenador-Geral de Estratégia
+CCT V
+1
+
+Assessor Técnico de Projetos e Processos Organizacionais
+CCT IV
+1
+26,4
+COORDENAÇÃO-GERAL DE GOVERNANÇA
+
+
+
+Coordenador-Geral de Governança
+CCT V
+1
+
+Assessor Técnico de Governança
+CCT IV
+1
+
+Assistente de Governança
+CAS II
+1
+26.5
+COORDENAÇÃO DE QUALIDADE REGULATÓRIA
+
+
+
+Coordenador de Qualidade Regulatória
+CCT IV
+1
+27
+SUPERINTENDÊNCIA DE INFRAESTRUTURA E MOVIMENTAÇÃO (SIM)
+
+
+
+Superintendente
+CGE I
+1
+
+Superintendente Adjunto
+CGE III
+1
+
+Assessor Técnico de Infraestrutura e Movimentação
+CCT V
+1
+27.1
+COORDENAÇÃO DE PLANEJAMENTO E INOVAÇÃO
+
+
+
+Coordenador de Planejamento e Inovação
+CCT IV
+1
+27.2
+COORDENAÇÃO-GERAL DE TRANSPORTE E COMERCIALIZAÇÃO
+
+
+
+Coordenador-Geral de Transporte e Comercialização
+CCT V
+1
+
+Assessor Técnico de Acompanhamento do Mercado de Gás Natural
+CCT III
+1
+27.2.1
+COORDENAÇÃO DE TRANSPORTE
+
+
+
+Coordenador de Transporte
+CCT III
+1
+27.2.2
+COORDENAÇÃO DE INFORMAÇÃO E ANÁLISE DE DADOS
+
+
+
+Coordenador de Informação e Análise de Dados
+CCT III
+1
+27.3
+COORDENAÇÃO-GERAL DE OUTORGAS PARA INSTALAÇÕES
+
+
+
+Coordenador-Geral de Outorgas para Instalações
+CCT V
+1
+
+Assistente Administrativo
+CAS I
+1
+27.3.1
+COORDENAÇÃO DE FISCALIZAÇÃO
+
+
+
+Coordenador de Fiscalização
+CCT III
+1
+27.3.2
+COORDENAÇÃO DE OUTORGAS PARA INSTALAÇÕES
+
+
+
+Coordenador de Outorgas para Instalações
+CCT III
+1
+27.3.3
+COORDENAÇÃO DE EXERCÍCIO DA ATIVIDADES
+
+
+
+Coordenador de Exercício de Atividades
+CCT III
+1
+27.4
+COORDENAÇÃO-GERAL DE APOIO JURÍDICO E RESOLUÇÃO DE CONFLITOS
+
+
+
+Coordenador-Geral de Apoio Jurídico e Resolução de Conflitos
+CCT V
+1
+27.5
+COORDENAÇÃO-GERAL DE SUPERVISÃO DA MOVIMENTAÇÃO
+
+
+
+Coordenador-Geral de Supervisão da Movimentação
+CCT V
+1
+27.6
+COORDENAÇÃO-GERAL DE REGULAÇÃO DE INFRAESTRUTURA E MOVIMENTAÇÃO
+
+
+
+Coordenador-Geral de Regulação de Infraestrutura e Movimentação
+CCT V
+1
+
+Assessor técnico de Estudos e Pesquisas
+CCT III
+1
+
+Assessor técnico de Planejamento e Execução
+CCT III
+1
+27.7
+COORDENAÇÃO-GERAL DE CÁLCULO TARIFÁRIO
+
+
+
+Coordenador-Geral de Cálculo Tarifário
+CCT V
+1
+27.7.1
+COORDENAÇÃO DA BASE REGULATÓRIA DE ATIVOS
+
+
+
+Coordenador de Base Regulatória de Ativos
+CCT III
+1
+27.7.2
+COORDENAÇÃO DE CÁLCULO TARIFÁRIO
+
+
+
+Coordenador de Cálculo Tarifário
+CCT III
+1
+28
+SUPERINTENDÊNCIA DE PRODUÇÃO DE COMBUSTÍVEIS (SPC)
+
+
+
+Superintendente
+CGE I
+1
+
+Superintendente Adjunto
+CGE III
+1
+
+Assessor Técnico de Produção de Combustíveis
+CCT V
+1
+28.1
+COORDENAÇÃO DE REGULAÇÃO DE PRODUÇÃO DE COMBUSTÍVEIS
+
+
+
+Coordenador de Regulação de Produção de Combustíveis
+CCT V
+1
+
+Assessor Técnico de Regulação
+CCT IV
+1
+
+Assistente Técnico de Regulação
+CAS II
+1
+28.2
+COORDENAÇÃO-GERAL DE SEGURANÇA OPERACIONAL DE INSTALAÇÕES DE PRODUÇÃO DE COMBUSTÍVEIS
+
+
+
+Coordenador-Geral de Segurança Operacional de Instalações
+CCT V
+1
+
+Assessor Técnico de Segurança Operacional
+CCT III
+1
+28.3
+COORDENAÇÃO-GERAL DE AUTORIZAÇÕES E PRO. SANCIONADORES DE PRODUÇÃO DE COMBUSTIVEIS
+
+
+
+Coordenador-Geral de Autorizações e Proc. Sancionadores
+CCT V
+1
+28.3.1
+COORDENAÇÃO DE AUTORIZAÇÕES
+
+
+
+Coordenador de Autorizações
+CCT III
+1
+
+Assistente de Autorizações
+CAS I
+1
+
+Assistente de Autorizações
+CAS II
+1
+28.4
+COORDENAÇÃO-GERAL DE GESTÃO DA INFORMAÇÃO DE INSTALAÇÕES DE PRODUÇÃO DE COMBUSTÍVEIS
+
+
+
+Coordenador-Geral de Gestão da Informação de Instalações
+CCT V
+1
+28.4.1
+COORDENAÇÃO DE AUDITORIA DE DADOS
+
+
+
+Coordenador de Auditoria de Dados
+CCT III
+1
+29
+SUPERINTENDÊNCIA DE PARTICIPAÇÕES GOVERNAMENTAIS (SPG)
+
+
+
+Superintendente
+CGE I
+1
+
+Superintendente Adjunto
+CGE III
+1
+
+Assessor Técnico de Gestão Interna e Regulação
+CCT V
+1
+29.1
+COORDENAÇÃO DE PARTICIPAÇÃO ESPECIAL
+
+
+
+Coordenador de Participação Especial
+CCT V
+1
+29.1.1
+COORDENAÇÃO DE AUDITORIA DE PARTICIPAÇÃO ESPECIAL
+
+
+
+Coordenador de Auditoria de Participação Especial
+CCT IV
+1
+29.2
+COORDENAÇÃO-GERAL DE DEMANDAS JUDICIAIS E AUTUAÇÕES
+
+
+
+Coordenador-Geral de Demandas Judiciais e Autuações
+CCT V
+1
+29.2.1
+COORDENAÇÃO DE PROCESSOS SANCIONADORES
+
+
+
+Coordenador de Processos Sancionadores
+CCT III
+1
+29.3
+COORDENAÇÃO-GERAL DE PREÇOS E OUTRAS PARTICIPAÇÕES
+
+
+
+Coordenador-Geral de Preços e Outras Participações
+CCT V
+1
+29.4
+COORDENAÇÃO DE GESTÃO DE INFORMAÇÕES E PROCESSOS DE ROYALTIES
+
+
+
+Coordenador de Gestão de Informações e Processos de Royalties
+CCT IV
+1
+29.5
+COORDENAÇÃO DE APURAÇÃO E DISTRIBUIÇÃO DE ROYALTIES
+
+
+
+Coordenador de Apuração e Distribuição de Royalties
+CCT V
+1
+
+Assessor Técnico de Royalties
+CCT III
+1
+29.6
+COORDENAÇÃO DE REGULAÇÃO
+
+
+
+Coordenador de Regulação
+CCT III
+1
+30
+SUPERINTENDÊNCIA DE PROMOÇÃO DE LICITAÇÕES (SPL)
+
+
+
+Superintendente
+CGE I
+1
+
+Superintendente Adjunto
+CGE III
+1
+
+Assessor Técnico de Promoção de Licitações
+CCT V
+1
+30.1
+COORDENAÇÃO ADMINISTRATIVA DA SPL
+
+
+
+Coordenador Administrativo
+CCT V
+1
+
+Assessor de Processos e Administrativo
+CCT III
+1
+30.2
+COORDENAÇÃO DE CESSÃO DE DIREITOS
+
+
+
+Coordenador de Cessão de Direitos
+CCT IV
+1
+
+Assessor Técnico de Cessão
+CCT III
+1
+30.3
+COORDENAÇÃO DE PLANEJAMENTO E APRIMORAMENTO DE RODADAS
+
+
+
+Coordenador de Planejamento e Aprimoramento de Rodadas
+CCT V
+1
+
+Assessor de Ofertas Permanentes de Áreas
+CCT IV
+1
+30.3.1
+COORDENAÇÃO DE PARÂMETROS TÉCNICOS E ECONÔMICOS
+
+
+
+Coordenador de Parâmetros Técnicos e Econômicos
+CCT III
+1
+30.4
+COORDENAÇÃO DE SISTEMAS E BASE DE DADOS
+
+
+
+Coordenador de Sistemas e Base de Dados
+CCT IV
+1
+30.5
+COORDENAÇÃO-GERAL DE REALIZAÇÃO DE RODADAS
+
+
+
+Coordenador-Geral de Realização de Rodadas
+CCT V
+1
+
+Assessor Econômico-Financeiro
+CCT IV
+1
+30.5.1
+COORDENAÇÃO JURÍDICA
+
+
+
+Coordenador Jurídico
+CCT III
+1
+
+Assistente Técnico Jurídico
+CCT II
+1
+30.5.2
+COORDENAÇÃO TÉCNICA
+
+
+
+Coordenador Técnico
+CCT III
+1
+30.5.3
+COORDENAÇÃO FINANCEIRA
+
+
+
+Coordenador Financeiro
+CCT III
+1
+31
+SUPERINTENDÊNCIA DE SEGURANÇA OPERACIONAL (SSO)
+
+
+
+Superintendente
+CGE I
+1
+
+Superintendente Adjunto
+CGE III
+1
+
+Assessor Técnico de Segurança Operacional
+CCT V
+1
+31.1
+COORDENAÇÃO ADMINISTRATIVA
+
+
+
+Coordenador Administrativo
+CCT IV
+1
+31.2
+COORDENAÇÃO DE DADOS E SISTEMAS
+
+
+
+Coordenador de Dados e Sistemas
+CCT IV
+1
+31.3
+COORDENAÇÃO-GERAL DE PROCESSOS E INFRAÇÕES
+
+
+
+Coordenador-Geral de Processos e Infrações
+CCT V
+1
+
+Assessor Técnico de Processos e Infrações
+CCT III
+1
+31.4
+COORDENAÇÃO-GERAL DE REGULAÇÃO, DESCOMISSIONAMENTO E PROJETOS EM SEGURANÇA OPERACIONAL
+
+
+
+Coordenador-Geral de Regulação, Descomissionamento e Projetos em Segurança Operacional
+CCT V
+1
+
+Assessor Técnico de Regulação
+CCT III
+1
+31.4.1
+COORDENAÇÃO DE DESCOMISSIONAMENTO
+
+
+
+Coordenador de Descomissionamento
+CCT III
+1
+31.5
+COORDENAÇÃO-GERAL DE SEGURANÇA OPERACIONAL NO E&P
+
+
+
+Coordenador-Geral de Segurança Operacional no E&P
+CCT V
+1
+
+Assessor Técnico de Segurança Operacional no E&P
+CCT IV
+1
+
+Auditor Líder de Segurança Operacional no E&P
+CCT III
+1
+31.5.1
+COORDENAÇÃO DE SEGURANÇA OPERACIONAL DE SONDAS E POÇOS NO E&P
+
+
+
+Coordenador de Segurança Operacional de Sondas e Poços no E&P
+CCT IV
+1
+31.5.2
+COORDENAÇÃO DE SEGURANÇA OPERACIONAL DE DUTOS E SUBSEA NO E&P
+
+
+
+Coordenador de Segurança Operacional de Dutos e Subsea no E&P
+CCT III
+1
+31.5.3
+COORDENAÇÃO DE SEGURANÇA OPERACIONAL DA PRODUÇÃO EM ÁGUAS PROFUNDAS NO E&P
+
+
+
+Coordenador de Segurança Operacional da Produção em Águas Profundas no E&P
+CCT III
+1
+31.5.4
+COORDENAÇÃO DE SEGURANÇA OPERACIONAL DA PRODUÇÃO EM ÁGUAS RASAS E ONSHORE NO E&P
+
+
+
+Coordenador de Segurança Operacional da Produção em Águas Rasas e Onshore no E&P
+CCT III
+1
+32
+SUPERINTENDÊNCIA DE TECNOLOGIA DA INFORMAÇÃO (STI)
+
+
+
+Superintendente
+CGE I
+1
+
+Superintendente Adjunto
+CGE III
+1
+
+Assessor de Tecnologia da Informação
+CCT V
+1
+32.1
+COORDENAÇÃO-GERAL DE ATENDIMENTO
+
+
+
+Coordenador-Geral de Atendimento
+CCT V
+1
+32.2
+COORDENAÇÃO-GERAL DE INFRAESTRUTURA E OPERAÇÃO
+
+
+
+Coordenador de Infraestrutura e Operação
+CCT V
+1
+32.2.1
+COORDENAÇÃO DE INFRAESTRUTURA BÁSICA
+
+
+
+Coordenador de Infraestrutura Básica
+CCT IV
+1
+32.3
+COORDENAÇÃO-GERAL DE ESTRATÉGIA DE TI
+
+
+
+Coordenador-Geral de Estratégia de TI
+CCT V
+1
+32.4
+COORDENAÇÃO DE AQUISIÇÕES DE TI
+
+
+
+Coordenador de Aquisições de TI
+CCT IV
+1
+32.5
+COORDENAÇÃO DE EXECUÇÃO DE CONTRATOS
+
+
+
+Coordenador de Execução de Contratos
+CCT IV
+1
+
+Assessor Técnico de Contratos
+CCT III
+1
+32.6
+COORDENAÇÃO-GERAL DE SISTEMAS
+
+
+
+Coordenador-Geral de Sistemas
+CCT V
+1
+32.6.1
+COORDENAÇÃO DE SISTEMAS CORPORATIVOS E DOWNSTREAM
+
+
+
+Coordenador de Sistemas Corporativos e Downstream
+CCT IV
+1
+32.6.2
+COORDENAÇÃO DE UPSTREAM
+
+
+32.7
+COORDENAÇÃO-GERAL DE SEGURANÇA E REDES
+
+
+
+Coordenador-Geral de Segurança e Redes
+CCT V
+1
+33
+SUPERINTENDÊNCIA DE TECNOLOGIA E MEIO AMBIENTE (STM)
+
+
+
+Superintendente
+CGE I
+1
+
+Superintendente Adjunto
+CGE III
+1
+
+Coordenador-Geral de Gestão
+CCT V
+1
+
+Assessor de Tecnologia e Meio Ambiente
+CCT V
+1
+
+Assessor Jurídico
+CCT IV
+1
+33.1
+COORDENAÇÃO-GERAL DE PROGRAMAS E PARCERIAS DE PD&I
+
+
+
+Coordenador-Geral de Programas e Parcerias de PD&I
+CCT V
+1
+33.1.1
+COORDENAÇÃO DO PROGRAMA DE FORMAÇÃO DE RECURSOS HUMANOS
+
+
+
+Coordenador do Programa de Formação de Recursos Humanos
+CCT III
+1
+33.2
+COORDENAÇÃO-GERAL DE PROJETOS DE PD&I
+
+
+
+Coordenador-Geral de Projetos de PD&I
+CCT V
+1
+33.2.1
+COORDENAÇÃO DE CREDENCIAMENTO
+
+
+
+Coordenador de Credenciamento
+CCT III
+1
+33.2.2
+COORDENAÇÃO DE AUTORIZAÇÕES
+
+
+
+Coordenador de Autorizações
+CCT III
+1
+33.3
+COORDENAÇÃO-GERAL DE INVESTIMENTOS EM PD&I
+
+
+
+Coordenador-Geral de Investimentos em PD&I
+CCT V
+1
+
+Assessor Técnico de Regulação e Investimentos
+CCT IV
+1
+33.3.1
+COORDENAÇÃO DE AUDITORIA FINANCEIRA
+
+
+
+Coordenador de Auditoria Financeira
+CCT III
+1
+33.4
+COORDENAÇÃO-GERAL DE TRANSIÇÃO ENERGÉTICA E RENOVABIO
+
+
+
+Coordenador-Geral de Transição Energética e Renovabio
+CCT V
+1
+
+Assessor Técnico de Transição Energética
+CCT III
+1
+33.4.1
+COORDENAÇÃO DE REGULAÇÃO E GESTÃO DA INFORMAÇÃO
+
+
+
+Coordenador de Regulação e Gestão da Informação
+CCT III
+1
+33.4.2
+COORDENAÇÃO DE PROCESSOS SANCIONADORES
+
+
+
+Coordenador de Processos Sancionadores
+CCT III
+1
+33.5
+COORDENAÇÃO-GERAL DE DESCARBONIZAÇÃO E GOVERNANÇA AMBIENTAL
+
+
+
+Coordenador-Geral de Descarbonização e Governança Ambiental
+CCT V
+1
+33.5.1
+COORDENAÇÃO DE METAS DE DESCARBONIZAÇÃO
+
+
+
+Coordenador de Metas de Descarbonização
+CCT III
+1
+33.5.2
+COORDENAÇÃO DE INTELIGÊNCIA DE DADOS E GOVERNANÇA ANALÍTICA
+
+
+
+Coordenador de Inteligência de Dados e Governança Analítica
+CCT III
+1
+33.5.3
+COORDENAÇÃO DE MEIO AMBIENTE
+
+
+
+Coordenador de Meio Ambiente
+CCT III
+1

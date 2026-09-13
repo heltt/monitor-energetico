@@ -1,0 +1,320 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.15-RS_2025.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.15-RS_2025.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.15
+Emissão de Termo de Liberação para
+instalações de transmissão
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2025.12 Despacho ANEEL nº 3.904/2025 24/12/2025
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de Termo de Liberação para instalações
+7.15 Responsabilidades 2025.12 01/01/2026
+de transmissão
+ÍNDICE
+1. OBJETIVO............................................................................................................................3
+2. PRODUTOS..........................................................................................................................3
+2.1. Termo de Liberação para Teste (TLT)...............................................................................3
+2.2. Termo de Liberação com Pendências (TLP)......................................................................3
+2.3. Termo de Liberação de Receita (TLR)...............................................................................3
+2.4. Termo de Liberação Definitivo (TLD)................................................................................3
+3. RESPONSANBILIDADES........................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS.................................................................3
+3.2. Agentes de transmissão....................................................................................................4
+3.3. Agentes indicados como responsáveis pela Pendência Impeditivas de Terceiros...........5
+4. PRAZOS...............................................................................................................................5
+5. REFERÊNCIAS....................................................................................................................10
+Endereço na internet: http://www.ons.org.br 2 / 10
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de Termo de Liberação para instalações
+7.15 Responsabilidades 2025.12 01/01/2026
+de transmissão
+1. OBJETIVO
+1.1. Estabelecer as responsabilidades do ONS e dos agentes envolvidos, os produtos, os prazos e as
+etapas do processo referentes à emissão dos Termos de Liberação para integração das instalações
+de transmissão ao Sistema Interligado Nacional – SIN, conforme regulamentação [1].
+2. PRODUTOS
+2.1. Termo de Liberação para Teste (TLT)
+2.1.1. Autoriza o agente de transmissão a executar, em período especificado, a Operação em Teste
+das Funções Transmissão (FT) ou Grupo de FT discriminadas.
+2.2. Termo de Liberação com Pendências (TLP)
+2.2.1. Autoriza a Operação Comercial com pendências não impeditivas das FT ou Grupo de FT
+discriminadas e sem quaisquer pendências impeditivas.
+2.3. Termo de Liberação de Receita (TLR)
+2.3.1. Autoriza a liberação do recebimento de receita das FT ou Grupo de FT discriminadas, quando
+houver Pendências Impeditivas de Terceiros ou de Caráter Sistêmico e não houver pendências
+impeditivas próprias.
+2.4. Termo de Liberação Definitivo (TLD)
+2.4.1. Autoriza a Operação Comercial Definitiva das FT ou Grupo de FT discriminadas, quando não
+houver quaisquer pendências.
+3. RESPONSANBILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Verificar o atendimento aos requisitos técnicos e prazos estabelecidos nos contratos de
+concessão ou nos atos autorizativos da Agência Nacional de Energia Elétrica – ANEEL que
+outorgaram a implantação da Função Transmissão (FT) ou Grupo de FT que será integrada
+ao SIN.
+(b) Verificar o atendimento aos requisitos e prazos estabelecidos nos Procedimentos de Rede
+para a integração da FT ou Grupo de FT.
+Endereço na internet: http://www.ons.org.br 3 / 10
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de Termo de Liberação para instalações
+7.15 Responsabilidades 2025.12 01/01/2026
+de transmissão
+(c) Emitir os Termos de Liberação ou a sua negativa, e informar a ação à transmissora
+responsável pela FT ou pelo Grupo de FT que será integrado ao SIN e ao responsável pela
+Pendência Impeditiva de Terceiros, quando houver.
+(d) Disponibilizar os Termos de Liberação emitidos para consulta remota de qualquer agente
+ou usuário do SIN.
+(e) Emitir os Termos de Liberação referentes ao seccionamento de linha de Rede Básica ou
+DIT, ou a sua negativa, para a transmissora que assumirá os ativos da linha oriunda do
+seccionamento, e informar a ambas as transmissoras.
+(f) Verificar o cumprimento dos prazos de solução das Pendências Não Impeditivas Próprias
+registradas nos Termos de Liberação.
+(g) Encaminhar o Termo de Notificação de Terceiro para manifestação do agente indicado
+como responsável pelas Pendências Impeditivas de Terceiros.
+(h) Reconhecer ou negar a existência das Pendências Impeditivas de Terceiros ou Pendências
+Impeditivas de Caráter Sistêmico.
+(i) Informar ao agente de transmissão responsável pela FT ou pelo Grupo de FT e à ANEEL o
+fim das Pendências Impeditivas de Caráter Sistêmico.
+(j) Anular os Termos de Liberação emitidos quando constatar que os requisitos para operação
+das FT ou Grupo de FT não foram atendidos e informar à transmissora responsável e aos
+demais agentes afetados por estes termos de liberação.
+(k) Informar a anulação de TLP, TLR e TLD à ANEEL.
+(l) Terminar a vigência dos TLR quando as Pendências Não Impeditivas Próprias ou as
+Pendências Impeditivas de Terceiros de cada agente ou as Pendências Impeditivas de
+Caráter Sistêmico forem solucionadas e informar à transmissora, à ANEEL, e ao
+responsável por Pendências Impeditivas de Terceiros, quando houver.
+(m)Disponibilizar as informações referentes ao processo de emissão de Termos de Liberação
+em sistema computacional à ANEEL e aos agentes de transmissão responsáveis pelas
+instalações ou aos responsáveis pelas pendências de terceiros, quando houver.
+3.2. Agentes de transmissão
+(a) Atender os prazos estabelecidos nos Procedimentos de Rede para o encaminhamento ao
+ONS das informações necessárias para o processo de integração das suas FT ou Grupo de
+FT.
+(b) Manter o cronograma de implantação das ampliações, reforços e melhorias atualizado no
+ONS.
+Endereço na internet: http://www.ons.org.br 4 / 10
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de Termo de Liberação para instalações
+7.15 Responsabilidades 2025.12 01/01/2026
+de transmissão
+(c) Enviar ao ONS o cronograma de atendimento aos requisitos deste submódulo para as
+ampliações, reforços ou melhorias serem integradas ao SIN.
+(d) Solicitar ao ONS a emissão dos Termos de Liberação, após atender as condições descritas
+neste submódulo.
+(e) Solicitar ao ONS a emissão dos Termos de Liberação em conjunto com o agente de
+transmissão responsável pela implantação de seccionamento em sua linha de transmissão da
+Rede Básica ou das DIT.
+(f) Solucionar as Pendências Não Impeditivas Próprias listadas nos Termos de Liberação nos
+prazos estabelecidos e informar ao ONS.
+(g) Solucionar as Pendências identificadas nos requisitos aplicáveis para a operação comercial de
+reforços e melhorias sem estabelecimento prévio de receita e informar ao ONS.
+(h) Participar, sempre que convocados pelo ONS, das reuniões de integração com o ONS.
+3.3. Agentes indicados como responsáveis pela Pendência Impeditivas de Terceiros
+(a) Manifestar-se ao ONS sobre as pendências impeditivas de terceiros indicadas como de sua
+responsabilidade.
+(b) Informar ao ONS e à transmissora responsável pela FT ou Grupo de FT os prazos para
+solucionar as pendências sob sua responsabilidade.
+(c) Solucionar as pendências sob sua responsabilidade nos prazos estabelecidos e informar ao
+ONS e à transmissora responsável pela FT ou Grupo de FT.
+Endereço na internet: http://www.ons.org.br 5 / 10
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de Termo de Liberação para instalações
+7.15 Responsabilidades 2025.12 01/01/2026
+de transmissão
+4. PRAZOS
+Quadro 1 – Prazos para emissão dos Termos de Liberação
+Atividade Responsável Prazos 1 Observação
+Declaração de Conforme prazos dos Submódulos
+1 atendimento de Agente mencionados no Anexo C do -
+requisitos Submódulo 7.15 (Procedimental)
+No mínimo 8 dias úteis antes da data
+Solicitação do TLT ao
+2 Agente prevista para o início da Operação -
+ONS
+em Teste
+Até 5 dias úteis após o protocolo no
+Emissão ou negativa
+3 ONS ONS da solicitação da transmissora -
+de emissão do TLT
+de emissão do TLT (atividade 2)
+No caso de haver
+pendências não
+impeditivas
+próprias e sem
+Sob demanda, após disponibilização
+Solicitação do TLP ao pendências
+4 Agente da instalação para operação
+ONS impeditivas de
+integrada ao SIN
+terceiros, nem
+pendências
+impeditivas de
+caráter sistêmico.
+1 Os prazos para processamento dos documentos obedecem às seguintes regras:
+(a) os prazos serão computados excluindo o dia do protocolo no ONS da solicitação de TL e incluindo o dia do
+vencimento; e
+(b) os dias pontes, sem expediente do ONS, não são considerados dia útil.
+Endereço na internet: http://www.ons.org.br 6 / 10
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de Termo de Liberação para instalações
+7.15 Responsabilidades 2025.12 01/01/2026
+de transmissão
+Atividade Responsável Prazos 1 Observação
+Sob demanda, após disponibilização No caso de não
+Solicitação de TLD
+5 Agente da instalação para operação haver
+ao ONS
+integrada ao SIN pendências.
+Emissão ou negativa Até 5 dias úteis após o protocolo no
+de emissão de TLP e ONS da solicitação da transmissora
+6 ONS -
+TLD, para FT ou de emissão do TLP ou TLD
+Grupo de FT (atividades 4 ou 5)
+Sob Demanda:
+A partir do atendimento às
+Solicitação do TLR ao
+condicionantes estabelecidas para
+7 Agente -
+ONS
+solicitação de TLR no Submódulo
+7.15 – Procedimental dos
+Procedimentos de Rede
+Envio do Termo de
+Notificação de
+Terceiro ao agente
+indicado como Até 5 dias úteis após ONS receber a
+8 ONS -
+responsável pela solicitação do TLR (atividade 7)
+pendência
+impeditiva de
+terceiros
+Manifestação sobre Agente
+Até 15 dias após o agente indicado
+as pendências indicado como
+como responsável pela pendência
+registradas no responsável
+9 impeditiva de terceiros receber o -
+Termo de pela pendência
+Termo de Notificação de Terceiro
+Notificação de impeditiva de
+(atividade 8)
+Terceiro Terceiros
+Endereço na internet: http://www.ons.org.br 7 / 10
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de Termo de Liberação para instalações
+7.15 Responsabilidades 2025.12 01/01/2026
+de transmissão
+Atividade Responsável Prazos 1 Observação
+Emissão ou negativa
+Até 15 dias após a manifestação
+de emissão do TLR,
+(atividade 9); ou
+10 com Pendências ONS -
+Após o vencimento do prazo da
+Impeditivas de
+atividade 9.
+Terceiros
+Informe dos prazos
+Agente
+para solucionar as
+indicado como
+pendências listadas
+responsável Até 5 dias úteis após recebimento
+11 no TLR, ao ONS e ao -
+pela pendência do TLR (atividade 10)
+agente de
+impeditiva de
+transmissão
+Terceiros
+responsável pela FT
+Agente
+Informe da solução
+indicado como
+das pendências ao
+responsável Assim que as pendências forem
+12 ONS e ao agente de
+pela pendência solucionadas
+transmissão
+impeditiva de
+responsável pela FT
+Terceiros
+Emissão ou negativa
+Até 5 dias úteis após recebimento da
+de emissão do TLR,
+solicitação do TLR (atividade 7), no
+13 com Pendências ONS -
+caso de haver pendências
+Impeditivas de
+impeditivas de caráter sistêmico.
+Caráter Sistêmico
+Informe à
+transmissora
+responsável pela FT Até 1 dia útil após identificação do
+14 sobre a inexistência ONS término da pendência impeditiva de -
+da pendência caráter sistêmico
+impeditiva de
+caráter sistêmico
+Endereço na internet: http://www.ons.org.br 8 / 10
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de Termo de Liberação para instalações
+7.15 Responsabilidades 2025.12 01/01/2026
+de transmissão
+Quadro 2 - Prazos para Emissão do Relatório de Integração de Reforços e Melhorias Sem Receita
+Previamente Estabelecida
+Periodi-
+Atividade Responsável Prazos 2 Horizonte
+cidade
+Cadastro em sistema Até 15 dias após a
+computacional do ONS da entrada em
+entrada em operação comercial operação comercial
+1 Agente - -
+das melhorias e reforços sem do reforço ou
+receita prévia melhoria sem
+receita prévia
+Até 15 dias após
+cadastro da
+Validação do atendimento aos
+entrada em
+requisitos dos Procedimentos de
+operação comercial
+2 Rede para entrada em operação ONS - -
+pela transmissora
+comercial das melhorias e
+no sistema
+reforços sem receita prévia
+computacional do
+ONS (atividade 1)
+Informe da solução das
+Quando as
+pendências ao ONS e à
+3 Agente pendências forem - -
+transmissora responsável pela
+solucionadas
+FT a ser integrada ao SIN
+2 Os prazos para processamento dos documentos obedecem às seguintes regras:
+(a) os prazos serão computados excluindo o dia do protocolo no ONS da solicitação de TL e incluindo o dia do
+vencimento; e
+(b) os dias pontes, sem expediente do ONS, não são considerados dia útil.
+Endereço na internet: http://www.ons.org.br 9 / 10
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de Termo de Liberação para instalações
+7.15 Responsabilidades 2025.12 01/01/2026
+de transmissão
+5. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de Transmissão de
+Energia Elétrica no Sistema Elétrico Nacional. Módulo 3 - Instalações e Equipamentos de Transmissão.
+Endereço na internet: http://www.ons.org.br 10 / 10

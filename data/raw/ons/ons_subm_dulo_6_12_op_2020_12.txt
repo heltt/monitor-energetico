@@ -1,0 +1,126 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.12-OP_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.12-OP_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.12
+Análise estatística de desligamentos
+forçados e do desempenho dos sistemas
+de proteção
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise estatística de desligamentos forçados
+6.12 Operacional 2020.12 01/01/2021
+e do desempenho dos sistemas de proteção
+ÍNDICE
+1. ANÁLISE ESTATÍSTICA DE DESLIGAMENTOS FORÇADOS E DO DESEMPENHO DOS SISTEMAS DE
+PROTEÇÃO.......................................................................................................................................3
+1.1. Tratamento dos dados..................................................................................................................3
+1.2. Elaboração e emissão dos relatórios.............................................................................................3
+2. REFERÊNCIAS...................................................................................................................................5
+3. ANEXOS...........................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise estatística de desligamentos forçados
+6.12 Operacional 2020.12 01/01/2021
+e do desempenho dos sistemas de proteção
+1. ANÁLISE ESTATÍSTICA DE DESLIGAMENTOS FORÇADOS E DO DESEMPENHO DOS SISTEMAS DE
+PROTEÇÃO
+1.1. Tratamento dos dados
+1.1.1. Os agentes de operação fornecem e mantêm atualizados os dados referentes aos seguintes
+componentes de seus sistemas elétricos:
+(a) relés de proteção instalados; e
+(b) esquemas de religamento automático das linhas de transmissão.
+1.1.2. O Operador Nacional do Sistema Elétrico – ONS realiza a classificação estatística das perturbações
+segundo os critérios de classificação vigentes.
+1.1.3. Os agentes de operação consistem a classificação estatística realizada pelo ONS.
+1.1.4. O ONS consolida os dados fornecidos e classificação consistida pelos agentes de operação.
+1.1.5. O ONS calcula, armazena em base de dados e divulga os indicadores de desempenho de funções
+transmissão e geração e os indicadores do desempenho dos sistemas de proteção, conforme Submódulo 9.2
+– Indicadores de desempenho de equipamentos e linhas de transmissão e das funções de transmissão e
+geração e Submódulo 9.3 – Indicadores de desempenho dos sistemas de proteção, respectivamente.
+1.1.5.1. É utilizado sistema computacional do ONS para consistência e armazenamento dos dados a serem
+utilizados nas análises estatísticas de desligamentos forçados e de desempenho dos sistemas de proteção.
+1.2. Elaboração e emissão dos relatórios
+1.2.1. De posse de todos os dados já consolidados, o ONS realiza a análise dos resultados, elabora as minutas
+dos relatórios de análise estatística e as envia para comentários e sugestões dos agentes de operação.
+1.2.2. Os agentes de operação procedem à apreciação das minutas dos relatórios e encaminham ao ONS
+eventuais comentários e sugestões, inclusive com relação aos prazos para atendimento das recomendações
+constantes nos relatórios.
+1.2.3. Os relatórios de análise estatística de desligamentos forçados e do desempenho de sistemas de
+proteção apresentam a seguinte itemização básica:
+(a) Introdução: descrição sucinta dos objetivos e apresentação do universo de dados, da estrutura do
+documento e dos critérios de análise utilizados para a avaliação de desligamentos forçados ou do
+desempenho dos sistemas de proteção dos componentes da Rede de Operação.
+(b) Conclusões: resumo dos principais fatos relevantes identificados na análise de dados. A organização
+se faz por componente da Rede de Operação.
+(c) Recomendações: exposição do conjunto de providências necessárias para nortear as ações dos
+agentes de operação que visem à melhoria do desempenho dos sistemas de proteção dos
+componentes da Rede de Operação.
+(d) Análise: apresentação da classificação e consistência dos dados extraídos das análises de
+desligamentos forçados encaminhadas pelos agentes de operação, obtenção dos índices do
+desempenho dos sistemas de proteção dos componentes da Rede de Operação e descrição de
+subsídios para o gerenciamento do sistema elétrico nas áreas de manutenção, engenharia e
+planejamento.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise estatística de desligamentos forçados
+6.12 Operacional 2020.12 01/01/2021
+e do desempenho dos sistemas de proteção
+(e) Terminologia: apresentação da documentação utilizada na sistemática de análise dos desligamentos
+forçados e do desempenho dos sistemas de proteção dos componentes da Rede de Operação.
+1.2.4. O ONS realiza as análises estatísticas do desempenho de acordo com a metodologia estabelecida no
+Submódulo 6.2 – Análise da operação, ocorrências e perturbações e acompanhamento das providências.
+1.2.5. No Relatório de Análise Estatística de Desligamentos Forçados, são computados os desligamentos
+forçados de linhas de transmissão, geradores hidráulicos e térmicos, transformadores de potência,
+barramentos, equipamentos de compensação reativa (compensadores estáticos e síncronos, reatores em
+derivação manobráveis e banco de capacitores em derivação) da Rede de Operação. A análise dos dados
+considera os seguintes aspectos:
+(a) expansão da Rede Operação no período considerado;
+(b) análise quantitativa dos desligamentos forçados;
+(c) identificação das causas que originaram os desligamentos forçados; e
+(d) resultado do cálculo dos indicadores de desempenho previstos no Submódulo 9.2.
+1.2.6. Para a elaboração do Relatórios de Análise Estatística do Desempenho de Sistemas de Proteção e Relés
+de Proteção, o desempenho da proteção dos terminais de linhas de transmissão e demais equipamentos do
+sistema elétrico é considerado satisfatório quando atender aos limites do índice de atuações corretas
+constantes do Quadro 1.
+1.2.6.1. Quando há violação dos limites dos índices de atuações incorretas, recusas de atuação, atuações
+sem dados ou atuações acidentais do Quadro 1, o ONS analisa detalhadamente a ocorrência, em conjunto
+com o agente de operação, com vistas a diagnosticar anormalidades e recomendar as medidas corretivas
+necessárias.
+Quadro 1 – Desempenho satisfatório da proteção
+Sistema de proteção (apenas para
+Índice Relé de proteção
+linha de transmissão)
+Atuações corretas Superior a 95% das solicitações totais Superior a 97% das solicitações totais
+Atuações incorretas Inferior a 4,5% das solicitações totais Inferior a 2,5% das solicitações totais
+Recusas de atuação Inferior a 0,5% das solicitações totais Inferior a 0,5% das solicitações totais
+Atuações sem dados Inferior a 0,5% das solicitações totais Não aplicável
+Inferior a 0,1 atuação acidental por Inferior a 0,1 atuação acidental por
+Atuações acidentais
+sistema de proteção por ano relé de proteção por ano
+1.2.7. A apuração do desempenho dos sistemas de proteção dos demais equipamentos (reatores,
+transformadores, banco de capacitores, compensadores síncronos, compensadores estáticos, barramentos)
+consta no Relatório de Análise do Desempenho dos Sistemas de Proteção e dos Relés de Proteção.
+1.2.7.1. Parametrizações inadequadas de relés são consideradas na apuração do desempenho dos sistemas
+de proteção.
+1.2.8. Após a consolidação dos relatórios com as sugestões dos agentes de operação, o ONS disponibiliza
+suas versões finais para esses agentes e para a Agência Nacional de Energia Elétrica – ANEEL.
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise estatística de desligamentos forçados
+6.12 Operacional 2020.12 01/01/2021
+e do desempenho dos sistemas de proteção
+2. REFERÊNCIAS
+2.1. Não há referências neste documento.
+3. ANEXOS
+3.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 5 / 5

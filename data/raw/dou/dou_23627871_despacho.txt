@@ -1,0 +1,40 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 26/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=26/02/2026&jornal=515&pagina=64
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 22/2026
+Fase de Autorização de Pesquisa
+Nega provimento ao recurso interposto(2826)
+815.567/2021 - AREMIX MINERAÇÃO E COMERCIO LTDA.
+896.443/2000 - PAULO CÉSAR DO AMARAL CONTAIFER
+826.207/2013 - ODENIR WIMMER ME
+Fase de Disponibilidade
+Da provimento ao recurso interposto(1807)
+831.877/1999- Recurso interposto por EDVANIA CASAGRANDE DUARTE e R & M MINERAÇÃO LTDA
+831.095/2006- Recurso interposto por EMPRESA BRASILEIRA DO QUARTZO LTDA. e ANGLOGOLD ASHANTI CÓRREGO DO SÍTIO MINERAÇÃO S.A.
+831.223/2005- Recurso interposto por ANGLOGOLD ASHANTI BRASIL MINERAÇÃO LTDA., CYNTHIA NARA GUEDES ÁVILA
+873.238/2007- Recurso interposto por CABRAL MINERAÇÃO LTDA., ZEUS MINERAÇÃO LTDA
+Nega provimento ao recurso apresentado(1806)
+896.920/2006- Recurso interposto por PETRUS COMÉRCIO DE ROCHAS ORNAMENTAIS LTDA
+Fase de Licenciamento
+Nega provimento ao recurso interposto(2833)
+846.149/2022 - F M DA SILVA LOCACOES
+Fase de Requerimento de Lavra
+Nega provimento ao recurso interposto(2828)
+803.475/2013 - BIRK REIBEL
+Fase de Requerimento de Licenciamento
+Da provimento ao recurso interposto(2819)
+867.129/2011 - DAVID BANCOW FILHO
+Fase de Requerimento de Pesquisa
+Da provimento ao recurso interposto(2814)
+840.313/2014 - IPAR PARTICIPACOES LTDA
+MAURO HENRIQUE MOREIRA SOUSA
+Diretor-Geral

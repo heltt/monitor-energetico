@@ -1,0 +1,162 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.4-OP_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.4-OP_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.4
+Análise de Falhas em Equipamentos e
+Linhas de Transmissão
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise de Falhas em Equipamentos e Linhas de
+6.4 Operacional 2020.12 01/01/2021
+Transmissão
+ÍNDICE
+1. ANÁLISE DE FALHAS EM EQUIPAMENTOS E LINHAS DE TRANSMISSÃO............................................3
+1.1. Início do processo de análise de falhas.........................................................................................3
+1.2. Obtenção de dados e análise técnica da falha..............................................................................3
+1.3. Elaboração e emissão do RAF........................................................................................................4
+1.4. Disponibilização ou indeferimento do RAF...................................................................................5
+2. REFERÊNCIAS...................................................................................................................................6
+3. ANEXOS...........................................................................................................................................6
+Endereço na internet: http://www.ons.org.br 2 / 6
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise de Falhas em Equipamentos e Linhas de
+6.4 Operacional 2020.12 01/01/2021
+Transmissão
+1. ANÁLISE DE FALHAS EM EQUIPAMENTOS E LINHAS DE TRANSMISSÃO
+1.1. Início do processo de análise de falhas
+1.1.1. O ONS inicia o processo de elaboração do Relatório de Análise de Falha (RAF):
+(a) como decorrência expressa de um Relatório de Análise de Perturbação (RAP) (Submódulo 6.3 –
+Análise de perturbação), de um Relatório de Análise da Operação (RAO) (Submódulo 6.2 – Análise da
+operação, ocorrências e perturbações e acompanhamento das providências) ou de um Relatório de
+Análise de Ocorrência (RO) (Submódulo 6.2);
+(b) por iniciativa própria;
+(c) ou por solicitação da ANEEL.
+1.1.2. O ONS disponibiliza, ao agente de operação, as informações e dados sob sua responsabilidade que são
+necessários para realizar os estudos e análise técnica, encontrados em:
+(a) bases de dados do ONS;
+(b) RAP (Submódulo 6.3);
+(c) RAO (Submódulo 6.2); e
+(d) RO (Submódulo 6.2).
+1.2. Obtenção de dados e análise técnica da falha
+1.2.1. O ONS disponibiliza para o agente de operação, através do sistema computacional específico, o link
+“elaborar versão inicial do RAF”.
+1.2.2. O agente de operação realiza a análise técnica relativa ao equipamento ou linha de transmissão cuja
+falha ou defeito se originou e insere informações e dados próprios conforme itens a seguir:
+(a) Levantamento dos dados básicos da ocorrência ou da perturbação
+(1) (a)data e horário da ocorrência ou da perturbação; e
+(2) situação do equipamento ou da linha de transmissão especificada antes da ocorrência ou da
+perturbação.
+(b) Análise da atuação das proteções do equipamento ou linha de transmissão especificada
+(1) São consideradas as análises de atuação das proteções do equipamento ou da linha de
+transmissão especificada, bem como os dados provenientes dos registradores de perturbação.
+(c) Levantamento das condições operativas do equipamento ou da linha de transmissão
+(1) O agente de operação faz o histórico do regime operativo do equipamento ou da linha de
+transmissão especificada antes da ocorrência ou da perturbação, com dados obtidos do ONS e
+dos demais agentes ou com os resultados dos últimos testes operativos realizados.
+(d) Levantamento do histórico das intervenções
+(1) O agente de operação levanta o histórico das intervenções realizadas para manutenção do
+equipamento ou da linha de transmissão especificada, histórico documentado em registros de
+Endereço na internet: http://www.ons.org.br 3 / 6
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise de Falhas em Equipamentos e Linhas de
+6.4 Operacional 2020.12 01/01/2021
+Transmissão
+resultados de ensaios e medições, ordens de serviço executadas e programadas e registros de
+falhas anteriores.
+(e) Inspeção visual
+(1) O agente de operação realiza inspeção visual tão logo seja constatada a falha, com o objetivo de
+observar detalhes relevantes para identificar a origem da falha e quais foram suas causas.
+(i) O ONS participa, a seu critério ou quando convidado, da inspeção visual realizada pelo agente
+de operação.
+(ii) A inspeção deve ter registro fotográfico.
+(f) Ensaios
+(1) O agente de operação deve, quando necessário, realizar ensaios adicionais para determinar a
+extensão das avarias ou para elucidar as causas da falha.
+(2) Todos os resultados dos ensaios realizados devem ser incluídos no RAF.
+(g) Levantamento de avarias
+(1) O agente de operação descreve as avarias após levantamento minucioso acompanhado de
+documentação fotográfica. Quando necessário, deve-se proceder à desmontagem do
+equipamento em oficina ou no campo.
+(h) Identificação da origem e da(s) causa(s) da falha
+(1) Os dados coletados e os levantamentos realizados são utilizados para identificar a origem e as
+possíveis causas da falha.
+(2) A origem da falha é o equipamento ou a linha de transmissão onde a falha iniciou.
+(3) A causa da falha são os fatores determinantes da falha.
+(i) Análise de desempenho do equipamento, da linha de transmissão e dos processos de manutenção
+(1) A análise técnica da falha deve conter um item que trate do desempenho do equipamento ou da
+linha de transmissão, bem como dos processos de manutenção pertinentes.
+1.3. Elaboração e emissão do RAF
+1.3.1. O agente de operação elabora a versão inicial do RAF, que deve ser conclusivo e apresentar uma
+análise técnica detalhada da falha.
+1.3.2. O agente de operação encaminha a versão inicial do RAF ao ONS, através de sistema computacional
+específico, contendo:
+(a) Introdução: descrição sucinta da ocorrência ou da perturbação, composta por informações
+referentes ao equipamento ou à linha de transmissão especificada, local, data e horário da
+ocorrência ou da perturbação.
+(b) Análise técnica da falha: análise elaborada pelo agente de operação que deve abordar todas as ações
+listadas no item 1.2.2. deste submódulo.
+(c) Conclusões: resumo sucinto e objetivo resultante da análise e da avaliação realizada. As conclusões
+devem mencionar a existência de divergências por parte do ONS em relação ao RAF. Essas
+divergências devem constar em documento anexo ao RAF.
+Endereço na internet: http://www.ons.org.br 4 / 6
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise de Falhas em Equipamentos e Linhas de
+6.4 Operacional 2020.12 01/01/2021
+Transmissão
+(d) Providências já tomadas ou em andamento: apresenta a relação das providências já tomadas pelo
+agente de operação e pelo ONS e a relação, com respectivos prazos previstos de conclusão, das
+providências em implantação pelo ONS e pelo agente de operação.
+(e) Recomendações: descreve as providências e ações necessárias de serem executadas pelo ONS e pelo
+agente de operação para a solução dos problemas identificados, com respectivos prazos de conclusão.
+As recomendações e providências em andamento constantes do RAF devem ser acompanhadas
+conforme estabelecido no Submódulo 6.2.
+(f) Anexos: item em que são registradas as eventuais divergências por parte do ONS em relação à análise
+feita pelo agente de operação.
+1.4. Disponibilização ou indeferimento do RAF
+1.4.1. O ONS elabora as divergências, solicitando esclarecimentos adicionais sobre o conteúdo da versão
+inicial, propondo análises e testes adicionais e/ou registrando discordâncias do conteúdo da versão inicial e,
+quando necessário, realiza reunião técnica presencial com o agente de operação.
+1.4.2. O ONS encaminha a versão inicial revisada do RAF ao agente de operação, através de sistema
+computacional específico.
+1.4.3. O agente de operação elabora a versão final do RAF e a encaminha ao ONS através de sistema
+computacional específico.
+1.4.4. O ONS analisa a versão final elaborada pelo agente de operação, podendo “Aprovar”,
+“Redisponibilizar” ou “Indeferir”.
+1.4.4.1. Aprovar: quando as informações e dados informados pelo agente de operação, na versão final, são
+conclusivos e elucidam as causas da falha ou defeito.
+1.4.4.2. Redisponibilizar: quando as informações e dados enviados pelo agente de operação na versão final
+ainda não são conclusivos e não elucidam as causas da falha ou defeito. Ao redisponibilizar o RAF ao agente
+de operação, no SAM, é liberado novamente o link “elaborar a versão final do RAF”. Desse modo, o agente
+de operação complementa as informações e novamente envia para avaliação do ONS.
+1.4.4.3. Indeferir: quando as informações e dados enviados na versão final pelo agente de operação não são
+conclusivas e ou não elucidam as causas da falha ou do defeito.
+1.4.5. Caso a versão final do RAF seja aprovada, O ONS disponibiliza a versão final do RAF para a ANEEL, para
+o agente de operação e, quando o RAF for decorrente de recomendação do RAP, do RAO ou do RO, para os
+demais agentes envolvidos na emissão desses outros relatórios.
+1.4.6. Caso a versão final do RAF seja redisponibilizada, o ONS libera novamente o link “elaborar a versão
+final do RAF” para o agente de operação.
+1.4.6.1. O agente de operação complementa as informações e novamente envia o RAF para avaliação do
+ONS.
+1.4.7. Caso a versão final do RAF seja indeferida, o ONS encerra o RAF indeferido e de imediato um novo RAF
+será iniciado.
+2. REFERÊNCIAS
+2.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 5 / 6
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise de Falhas em Equipamentos e Linhas de
+6.4 Operacional 2020.12 01/01/2021
+Transmissão
+3. ANEXOS
+3.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 6 / 6

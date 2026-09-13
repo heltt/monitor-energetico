@@ -1,0 +1,73 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Autorização
+TITULO: AUTORIZAÇÃO SDL-ANP Nº 73, DE 30 DE JANEIRO DE 2026
+DATA_PUBLICACAO: 02/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=02/02/2026&jornal=515&pagina=101
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional do Petróleo, Gás Natural e Biocombustíveis/Superintendência de Distribuição e Logística
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+AUTORIZAÇÃO SDL-ANP Nº 73, DE 30 DE JANEIRO DE 2026
+O SUPERINTENDENTE DE DISTRIBUIÇÃO E LOGÍSTICA da AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS - ANP, no uso das atribuições que lhe foram conferidas pela Portaria ANP nº 265, de 10 de setembro de 2020, tendo em vista o disposto na Lei nº 9.478, de 6 de agosto de 1997, considerando as disposições da Resolução ANP nº 960, de 5 de outubro de 2023, e o que consta do processo nº 48610.203444/2025-18, resolve: autorizar a empresa MAXIMINO PASTORELLO S.A., CNPJ nº 73.818.767/0011-78, a operar a instalação de transportador-revendedor-retalhista (TRR) localizada a Rua Antônio de Carvalho Lage Filho 1.111, Cilo 3, Londrina/PR, 86073-010 [Coordenadas Geográficas Aproximadas (Latitude, Longitude): -23:16:41.240; -51:13:08,510 (SIRGAS 2000)]. A capacidade total de armazenamento é de 365,44 m³. Fica revogada a Autorização SDL-ANP nº 519, de 3 de junho de 2015.
+
+
+TQ
+Ø
+(m)
+Altura/
+Comp.(m)
+Capacidade
+(m³)
+Classe
+Tipo
+1
+2,55
+12,00
+60,00
+II ou III
+Horizontal Aéreo
+2-A
+2,55
+6,00
+30,00
+II ou III
+Horizontal Aéreo compartimentado
+2-B
+2,55
+6,00
+30,00
+II ou III
+Horizontal Aéreo compartimentado
+3
+3,02
+7,50
+53,86
+III
+Vertical Aéreo
+4
+3,02
+7,50
+53,86
+III
+Vertical Aéreo
+5
+3,02
+7,50
+53,86
+III
+Vertical Aéreo
+6
+3,02
+7,50
+53,86
+III
+Vertical Aéreo
+7
+2,55
+6,00
+30,00
+II ou III
+Horizontal Aéreo
+DIOGO VALERIO

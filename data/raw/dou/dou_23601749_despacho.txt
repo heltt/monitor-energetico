@@ -1,0 +1,50 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 18/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=18/02/2026&jornal=515&pagina=196
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado do Maranhão
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 16/2026
+Fase de Licenciamento
+Autoriza averbação da Prorrogação do Registro de Licença(742)
+806.286/2012-MINERADORA PORTO FRANCO LTDA- Registro de Licença N° 18/2013 - Vencimento em 31/12/2026
+806.014/2023-JOAO BATISTA OLIVEIRA- Registro de Licença N° 961/2024 - Vencimento em 14/11/2035
+Indefere pedido de prorrogação do Registro de Licença(744)
+806.090/2017-BAU MINERACAO S/A
+Determina cumprimento de exigência - Prazo 30 dias(718)
+806.025/2013-TRANSCOMIL MINERAÇÃO TRANSPORTE CONSTRUÇÕES E COMÉRCIO LTDA.-OF. N°7816/2026
+806.061/2020-DARLAN MARQUES DA CUNHA-OF. N°6248/2026; 6249/2026
+Fase de Requerimento de Licenciamento
+Determina o cumprimento de exigência - Prazo 30 dias(1155)
+Processo nº: 806.127/2023
+Titular: SERRACAL CORRETIVOS AGRICOLAS LTDA
+Ofício nº: 7066/2026
+Processo nº: 806.128/2023
+Titular: AGRENE AGROINDUSTRIAL LTDA
+Ofício nº: 7888/2026
+Processo nº: 806.129/2023
+Titular: AGRENE AGROINDUSTRIAL LTDA
+Ofício nº: 7892/2026
+Processo nº: 806.130/2023
+Titular: AGRENE AGROINDUSTRIAL LTDA
+Ofício nº: 7897/2026
+Processo nº: 806.294/2024
+Titular: MEGA CENTER COMERCIO LTDA
+Ofício nº: 7899/2026
+Processo nº: 806.295/2024
+Titular: SOUSA & TAVARES COMERCIO E SERVICOS LTDA
+Ofício nº: 7901/2026
+Processo nº: 806.291/2024
+Titular: STILO FINO STORE LTDA
+Ofício nº: 7904/2026
+Processo nº: 806.292/2024
+Titular: J DA C L SOARES COMERCIO
+Ofício nº: 7911/2026
+ERASMO DELLYS MEDEIROS BEZERRA
+Gerente

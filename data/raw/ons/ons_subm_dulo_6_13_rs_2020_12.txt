@@ -1,0 +1,148 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.13-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.13-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.13
+Diagnóstico dos sistemas de proteção e
+controle
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Diagnóstico dos sistemas de proteção e
+6.13 Responsabilidades 2020.12 01/01/2021
+controle
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Diagnóstico dos Sistemas de Proteção e Controle........................................................................3
+2.2. Plano de Ação para Implementação de Adequações nos Sistemas de Proteção e Controle........3
+2.3. Plano de Ajustes das Proteções.....................................................................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agente de operação......................................................................................................................3
+3.3. Agente de transmissão responsável pelo módulo geral de Rede Básica mais antigo de uma
+subestação que possua instalações de mais de um agente..........................................................4
+3.4. Demais agentes (transmissoras, distribuidoras, geradores, importadores/exportadores e/ou
+consumidores) responsáveis por instalações de uma subestação que possua instalações de
+mais de um agente........................................................................................................................4
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIAS...................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Diagnóstico dos sistemas de proteção e
+6.13 Responsabilidades 2020.12 01/01/2021
+controle
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas do processo relativo ao diagnóstico,
+avaliação e adequação dos sistemas de proteção e controle das instalações das subestações da Rede Básica,
+inclusive as instalações que se conectam ao barramento de transformador de fronteira.
+2. PRODUTOS
+2.1. Diagnóstico dos Sistemas de Proteção e Controle
+2.1.1. Consiste na avaliação da aderência dos sistemas de proteção aos requisitos estabelecidos no
+Submódulo 2.11 – Requisitos para os sistemas de proteção, de registro de perturbações e de teleproteção e
+às filosofias de proteção estabelecidas nos Relatórios de Filosofia, visando identificar as anormalidades e
+propor adequações com vistas a aumentar a confiabilidade do Sistema Interligado Nacional (SIN).
+2.2. Plano de Ação para Implementação de Adequações nos Sistemas de Proteção e Controle
+2.2.1. Consiste no detalhamento das adequações a serem implementadas nos sistemas de proteção no
+sentido de corrigir as anormalidades identificadas no diagnóstico.
+2.3. Plano de Ajustes das Proteções
+2.3.1. Consiste no plano de ação para a atualização dos ajustes dos sistemas de proteção, em função da
+variação dos níveis de curto-circuito na Rede de Operação, face à mudança de topologia da rede.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Definir as instalações que devem ser objeto do Diagnóstico dos Sistemas de Proteção e Controle e
+estabelecer as diretrizes para tal diagnóstico.
+(b) Elaborar, em conjunto com os agentes, o Diagnóstico dos Sistemas de Proteção e Controle, o Plano
+de Ação para Implementação de Adequações nos Sistemas de Proteção e Controle e o Plano de
+Ajustes das Proteções.
+(c) Analisar a necessidade de propor adequações às instalações conforme estabelecido em regulação [1].
+(d) Cadastrar o Plano de Ação para Implementação de Adequações nos Sistemas de Proteção e Controle
+e o Plano de Ajustes das Proteções em sistema computacional próprio.
+(e) Acompanhar a execução pelos agentes do Plano de Ação para Implementação de Adequações nos
+Sistemas de Proteção e Controle e do Plano de Ajustes das Proteções.
+3.2. Agentes de operação
+(a) Fornecer ao ONS as informações referentes aos sistemas de proteção e controle e às filosofias de
+atuação das proteções.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Diagnóstico dos sistemas de proteção e
+6.13 Responsabilidades 2020.12 01/01/2021
+controle
+(b) Participar da elaboração do Diagnóstico dos Sistemas de Proteção e Controle, do Plano de Ação para
+Implementação de Adequações nos Sistemas de Proteção e Controle e do Plano de Ajustes das
+Proteções.
+(c) Propor os prazos e prioridades para execução do Plano de Ação para Implementação de Adequações
+nos Sistemas de Proteção e Controle e do Plano de Ajustes das Proteções.
+(d) Cumprir o Plano de Ação para Implementação de Adequações nos Sistemas de Proteção e Controle e
+o Plano de Ajustes das Proteções.
+(e) Manter atualizada no sistema computacional do ONS a execução do Plano de Ação para
+Implementação de Adequações nos Sistemas de Proteção e Controle e do Plano de Ajustes das
+Proteções.
+3.3. Agentes de transmissão responsável pelo módulo geral de Rede Básica mais antigo de uma
+subestação que possua instalações de mais de um agente
+(a) Coordenar a avaliação dos sistemas de proteção e controle, inclusive os ajustes das proteções das
+instalações dessa subestação, além de consolidar as informações para envio ao ONS.
+3.4. Demais agentes de operação responsáveis por instalações de uma subestação que possua
+instalações de mais de um agente
+(a) Avaliar os sistemas de proteção e controle, inclusive os ajustes das proteções das instalações sob sua
+responsabilidade, e fornecer todas as informações solicitadas, conforme coordenação do agente de
+transmissão responsável pelo módulo geral de Rede Básica mais antigo da subestação.
+4. PRAZOS
+Quadro 1 – Prazos para as atividades referentes ao diagnóstico dos sistemas de proteção e controle
+Atividade Responsável Prazo Periodicidade
+Elaboração do Diagnóstico dos Sistemas
+de Proteção e Controle, do Plano de ação
+para implementação de adequações nos
+sistemas de proteção e controle e do
+ONS e agente de Máximo de 6
+1 Plano de ajustes das proteções de todas -
+operação anos
+as subestações da Rede Básica, incluindo
+as instalações que se conectam ao
+barramento do transformador de
+fronteira
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Diagnóstico dos sistemas de proteção e
+6.13 Responsabilidades 2020.12 01/01/2021
+controle
+Atividade Responsável Prazo Periodicidade
+Fornecimento dos resultados das análises
+Agente de Até 30 dias após a
+2 dos sistemas de proteção e controle nas Por demanda
+operação solicitação do ONS
+instalações sob sua responsabilidade
+Até 90 dias após o
+recebimento das
+Emissão do diagnóstico preliminar dos informações com as
+3 ONS Por demanda
+sistemas de proteção e controle análises realizadas
+pelos agentes
+(atividade 2)
+Apresentação das propostas de
+prioridades, as justificativas e os Até 60 dias após a
+investimentos necessários, que irão emissão do
+Agente de
+4 compor o Plano de Ação para diagnóstico Por demanda
+operação
+Implementação de Adequações nos preliminar pelo ONS
+Sistemas de Proteção e Controle e o (atividade 3)
+Plano de Ajustes das Proteções
+Emissão, em um único relatório técnico,
+do Diagnóstico dos Sistemas de Proteção Até 45 dias após o
+e Controle, do Plano de Ação para recebimento dos
+5 ONS Por demanda
+Implementação de Adequações nos comentários dos
+Sistemas de Proteção e Controle e do agentes (atividade 4)
+Plano de Ajustes das Proteções
+5. REFERÊNCIAS
+[1] Resolução Normativa nº 443, de 26 de julho de 2011.
+Endereço na internet: http://www.ons.org.br 5 / 5

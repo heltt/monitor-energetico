@@ -1,0 +1,15 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: DESPACHO Nº 529, DE 10 DE FEVEREIRO DE 2026
+DATA_PUBLICACAO: 18/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=18/02/2026&jornal=515&pagina=192
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Energia Elétrica/Diretoria Colegiada
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+DESPACHO Nº 529, DE 10 DE FEVEREIRO DE 2026
+O DIRETOR-GERAL DA AGÊNCIA NACIONAL DE ENERGIA ELEìTRICA - ANEEL, no uso de suas atribuições regimentais, tendo em vista a deliberação da Diretoria e o que consta dos Processos nº 48500.906412/2013-71, 48100.900637/1997-56, 48500.900901/2011-58 e 48500.900055/2013-38, decide:
+(i) dar provimento ao pleito de interligação elétrica entre a UTE São Martinho Bioenergia e a UTE São Martinho, por meio da conexão dos respectivos barramentos de 13,8 kV, com fins de compartilhamento de equipamentos essenciais à produção de energia e de transferência de energia elétrica entre as usinas; (ii) determinar à Bioenergia São Martinho Ltda. CNPJ nº 36.044.373/0001-01 e à São Martinho S.A. CNPJ nº 51.466.860/0001-56 a instalação de Sistema de Medição para Faturamento (SMF) na interligação 13,8 kV entre a UTE São Martinho Bioenergia e a UTE São Martinho, nos termos do disposto nos Procedimentos de Rede; (iii) determinar à Câmara de Comercialização de Energia Elétrica (CCEE) CNPJ nº 03.034.433/0001-56 que proceda à modelagem da UTE São Martinho Bioenergia e UTE São Martinho de forma que, quando houver ﬂuxo de potência entre as duas usinas, por meio da interligação 13,8 kV, essa energia seja contabilizada como energia injetada e/ou consumida da rede, para fins comerciais e de apuração do limite de potência injetada para que possam fazer jus ao desconto nas Tarifas de Uso dos Sistemas de Distribuição e Transmissão (TUSD/TUST); (iv) determinar à CCEE que, para fins de verificação do cumprimento da obrigação estabelecida nos Contratos de Comercialização de Energia no Ambiente Regulado (CCEAR) oriundos do 30º Leilão de Energia Nova (LEN), bem como eventuais outros contratos de venda, lastreados pela UTE São Martinho Bioenergia, deve ser considerado o montante de energia elétrica injetado no sistema de distribuição pela UTE São Martinho Bioenergia, por meio de sua conexão, acrescido do montante de energia elétrica medido no SMF da interligação 13,8 kV no caso de existência de ﬂuxo de potência da UTE São Martinho Bioenergia para a UTE São Martinho, abatendo-se o montante de energia elétrica medido no SMF dessa interligação 13,8 kV nos casos em que houver ﬂuxo de potência da UTE São Martinho para a UTE São Martinho Bioenergia; (v) determinar à CCEE que proceda à remodelagem da UTE São Martinho Energia e UTE São Martinho de forma que, quando houver ﬂuxo de potência entre as duas usinas, por meio da respectiva interligação 13,8 kV, essa energia seja contabilizada como energia injetada e/ou consumida da rede, para fins comerciais e de apuração do limite de potência injetada para que possam fazer jus ao eventual desconto na TUSD/TUST; e (vi) revogar o Despacho nº 2.163, de 9 de julho de 2013.
+SANDOVAL DE ARAÚJO FEITOSA NETO

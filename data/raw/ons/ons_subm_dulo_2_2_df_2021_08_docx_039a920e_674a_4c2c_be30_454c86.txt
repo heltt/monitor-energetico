@@ -1,0 +1,128 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 2.2-DF_2021.08.docx_039a920e-674a-4c2c-be30-454c86f32816
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 2.2-DF_2021.08.docx_039a920e-674a-4c2c-be30-454c86f32816.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 2.2
+Definição das instalações estratégicas
+Definição
+Revisão Motivo da revisão Data de aprovação
+2021.08 Despacho ANEEL nº 2.596/2021 31/08/2021
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Definição das instalações estratégicas 2.2 Definição 2021.08 17/09/2021
+ÍNDICE
+1. OBJETIVO ..................................................................................................................................... 3
+2. RESPONSABILIDADES .................................................................................................................... 3
+2.1. Operador Nacional do Sistema Elétrico – ONS .............................................................................. 3
+2.2. Agentes de Operação .................................................................................................................... 3
+3. IDENTIFICAÇÃO DAS INSTALAÇÕES ESTRATÉGICAS ........................................................................ 3
+3.1. Diretrizes gerais ............................................................................................................................. 3
+3.2. Subestações ................................................................................................................................... 4
+3.3. Linhas de transmissão.................................................................................................................... 4
+3.4. Usinas ............................................................................................................................................. 5
+4. PRAZOS ........................................................................................................................................ 5
+5. REFERÊNCIAS ................................................................................................................................ 5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Definição das instalações estratégicas 2.2 Definição 2021.08 17/09/2021
+1. OBJETIVO
+1.1. Estabelecer os critérios para identificação das instalações estratégicas do Sistema Interligado Nacional
+(SIN).
+2. RESPONSABILIDADES
+2.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Manter atualizada a relação das instalações estratégicas.
+(b) Disponibilizar a relação das instalações estratégicas ao Ministério de Minas e Energia – MME, à
+Agência Nacional de Energia Elétrica – ANEEL e aos agentes de operação.
+(c) Convocar os agentes de operação envolvidos para participarem das revisões da relação de instalações
+estratégicas.
+2.2. Agentes de Operação
+(a) Fornecer as informações necessárias às análises para caracterização das instalações estratégicas.
+(b) Participar das análises para revisão da relação de instalações estratégicas.
+3. IDENTIFICAÇÃO DAS INSTALAÇÕES ESTRATÉGICAS
+3.1. Diretrizes gerais
+3.1.1. Em função das características do SIN, em especial aquelas relacionadas com a topologia da rede, o
+desligamento intempestivo das instalações de transmissão ou de geração da Rede de Operação apresenta
+diferentes graus de risco para segurança operativa do SIN.
+3.1.2. O ONS identifica o conjunto de instalações que serão consideradas estratégicas, cuja interrupção total
+de seus serviços pode levar à perda de grandes blocos de carga e até mesmo blecautes, que podem causar
+impactos social, econômico, político e afetar a segurança do Estado e da sociedade.
+3.1.3. O ONS classifica as instalações estratégicas com base nos critérios para estudos elétricos estabelecidos
+no Submódulo 2.3 – Premissas, critérios e metodologia para estudos elétricos.
+3.1.4. O ONS realiza análises para determinar o grau de segurança intrínseca às instalações estratégicas,
+considerando aspectos técnicos como o arranjo físico das instalações, as condições das proteções, os
+Sistemas Especiais de Proteção (SEP), a disponibilidade dos equipamentos de reserva, entre outros, conforme
+detalhado nos submódulos específicos.
+3.1.4.1. As adequações dos aspectos técnicos identificados pelo ONS nas instalações estratégicas existentes
+são incluídas no Plano da Operação Elétrica de Médio Prazo do SIN (PAR/PEL) ou no Plano de Modernização
+de Instalações (PMI), conforme Submódulo 3.1 – Planejamento da operação elétrica de médio prazo e
+Submódulo 3.2 – Modernização de instalações.
+3.1.5. A relação das instalações estratégicas está apresentada no cadastro específico do Submódulo 5.11 –
+Cadastro de Informações Operacionais.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Definição das instalações estratégicas 2.2 Definição 2021.08 17/09/2021
+3.1.6. As novas usinas e instalações de transmissão a serem licitadas, que atendam aos critérios de
+instalações estratégicas do SIN, podem ser classificadas como tais nos respectivos editais de licitação, com
+base nas análises e estudos realizados pelo ONS.
+3.2. Subestações
+3.2.1 As subestações são classificas como instalações estratégicas do SIN, conforme as seguintes condições:
+(a) Tipo E1: subestações, cuja perda intempestiva afete o suprimento de energia a, no mínimo, 3 estados
+da federação e com corte de carga superior a 30% do total das cargas dos estados afetados.
+(b) Tipo E2:
+(1) subestações, cuja perda intempestiva afete o suprimento de energia a 2 estados da federação e
+com corte de carga superior a 30% do total das cargas dos estados afetados; e
+(2) subestações, cuja perda intempestiva afete o suprimento de energia a 1 estado da federação, com
+corte de carga superior a 50% do total das cargas do estado afetado.
+(c) Tipo E3:
+(1) subestações, cuja perda intempestiva afete o suprimento de energia a 1 estado da federação e
+com corte de carga superior a 30% do total das cargas do estado afetado;
+(2) subestações, cuja perda intempestiva afete o suprimento de energia a 1 região metropolitana e
+com corte de carga superior a 30% do total das cargas da região afetada; e
+(3) subestações, cuja perda intempestiva provoque a interrupção local de cargas supridas a partir de
+uma mesma subestação, em montantes superiores a 750 MW.
+(d) Tipo E4: subestações que participam dos corredores fluentes de recomposição, cuja indisponibilidade
+inviabiliza o processo de recomposição fluente do corredor associado.
+3.2.2 Uma subestação classificada como Tipo E1, E2 ou E3 também pode ser classificada como Tipo E4.
+3.2.3 O ONS classifica as subestações como Tipo E1, E2 ou E3 a partir de estudos em regime permanente e
+de estudos de estabilidade eletromecânica, considerando o horizonte do PAR/PEL conforme Submódulo 3.1,
+os diferentes cenários energéticos e os períodos de carga pesada, média e leve.
+3.3. Linhas de transmissão
+3.3.1 As linhas de transmissão são classificadas como instalações estratégicas do SIN, quando a perda
+intempestiva provocar as seguintes consequências:
+(a) Tipo L1: impacto significativo em, no mínimo, 3 estados da federação e com corte de carga superior a
+30% do total das cargas dos estados afetados.
+(b) Tipo L2:
+(1) impacto significativo em 2 estados da federação e com corte de carga superior a 30% do total das
+cargas dos estados afetados; ou
+(2) impacto significativo em 1 estado da federação e com corte de carga superior a 50% do total das
+cargas do estado afetado.
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Definição das instalações estratégicas 2.2 Definição 2021.08 17/09/2021
+(c) Tipo L3: impacto significativo na otimização energética, ocasionando remanejamento/restrições de
+geração entre usinas/bacias acima de 1.000 MW.
+3.4. Usinas
+3.4.1 As usinas são classificadas como instalações estratégicas do SIN, conforme as seguintes condições:
+(a) Tipo U1: usinas com maior influência no controle das oscilações eletromecânicas sistêmicas, conforme
+resultados de estudos de estabilidade a pequenas perturbações;
+(b) Tipo U2: usinas com maior influência no controle do perfil de tensão de uma área geoelétrica,
+conforme estudos de regime permanente;
+(c) Tipo U3: usinas que participam do processo de recomposição fluente do SIN, cuja indisponibilidade
+inviabilize esse processo de recomposição.
+4. PRAZOS
+Quadro 1 – Prazo para revisão da relação das instalações estratégicas
+Atividade Responsável Periodicidade
+Anualmente, em função da expansão do SIN com base
+Revisão da relação das
+1 ONS no horizonte do Plano da Operação Elétrica de Médio
+instalações estratégicas
+Prazo do SIN (PAR/PEL).
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 5 / 5

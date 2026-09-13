@@ -1,0 +1,27 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 27/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=27/02/2026&jornal=515&pagina=58
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Superintendência de Outorga de Títulos Minerários
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 63/2026
+Fase de Requerimento de Lavra Garimpeira
+Determina cumprimento de exigência - Prazo 60 dias(344)
+886.127/2013-COOPERATIVA DOS GARIMPEIROS DA AMAZONIA - COOGAM - Ofício N° 11030/2026/DIVFFO/ANM
+Fase de Requerimento de Pesquisa
+Determina cumprimento de exigência - Prazo 60 dias(131)
+826.103/2025-COOPAVEL COOPERATIVA AGROINDUSTRIAL-OF. N°10044/2026/DIVFFO/ANM
+810.112/2018-AREAL BARONESA EXTRACAO E COMERCIO DE AREIA LTDA-OF. N°9933/2026/DIVFFO/ANM
+811.374/2024-COMERCIO DE AREIA CACEQUI LTDA-OF. N°10387/2026/DIVFFO/ANM
+815.500/2024-GAIA RODOVIAS LTDA.-OF. N°10417/2026/DIVFFO/ANM
+Prorroga prazo para cumprimento de exigência- Prazo 60 dias(133)
+866.109/2024-MARBELLE BRAZIL LTDA-OF. N°10395/2026/DIVFFO/ANM
+866.110/2024-MARBELLE BRAZIL LTDA-OF. N°10395/2026/DIVFFO/ANM
+ANDRE ELIAS MARQUES
+Superintendente

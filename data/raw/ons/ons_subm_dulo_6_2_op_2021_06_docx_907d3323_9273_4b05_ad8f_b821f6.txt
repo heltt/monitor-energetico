@@ -1,0 +1,403 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.2-OP_2021.06.docx_907d3323-9273-4b05-ad8f-b821f6e5d533
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.2-OP_2021.06.docx_907d3323-9273-4b05-ad8f-b821f6e5d533.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.2
+Análise da operação, ocorrências e
+perturbações e acompanhamento das
+providências
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2021.12 Despacho ANEEL nº 3.957/2021 14/12/2021
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise da operação, ocorrência e perturbações
+6.2 Operacional 2021.12 21/12/2021
+e acompanhamento das providências
+ÍNDICE
+1. ANÁLISE PRELIMINAR DA OPERAÇÃO ............................................................................................ 3
+2. TRIAGEM DAS OCORRÊNCIAS E PERTURBAÇÕES ............................................................................ 3
+3. ELABORAÇÃO DO RELATÓRIO DE ANÁLISE DE OCORRÊNCIA (RO) ................................................... 5
+4. ELABORAÇÃO DO RELATÓRIO DE ANÁLISE DA OPERAÇÃO (RAO) ................................................... 6
+5. ELABORAÇÃO DA SINTESE GERENCIAL DAS PRINCIPAIS PERTURBAÇÕES OCORRIDAS NO SIN .......... 7
+6. ACOMPANHAMENTOS DAS PROVIDÊNCIAS ................................................................................... 9
+7. ELABORAÇÃO DO RELATÓRIO DE ANÁLISE ESTATÍSTICA DAS PERTURBAÇÕES OCORRIDAS NA REDE
+BÁSICA DO SIN ........................................................................................................................... 10
+8. REFERÊNCIAS .............................................................................................................................. 10
+9. ANEXOS...................................................................................................................................... 10
+Endereço na internet: http://www.ons.org.br 2 / 11
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise da operação, ocorrência e perturbações
+6.2 Operacional 2021.12 21/12/2021
+e acompanhamento das providências
+1. ANÁLISE PRELIMINAR DA OPERAÇÃO
+1.1. O ONS registra em sistema computacional específico as informações preliminares, obtidas em tempo
+real, referentes às ocorrências e perturbações na Rede de Operação.
+1.2. O ONS considera como ocorrências os eventos ou ações que levam a Rede de Operação a operar fora
+da sua condição normal.
+1.3. O ONS considera como perturbações as ocorrências caracterizadas pelo desligamento forçado de um
+ou mais componentes, que acarrete quaisquer das seguintes consequências: corte de carga, desligamento
+de outros componentes do sistema, danos em equipamentos ou violação de limites operativos.
+1.4. O ONS, para a seleção de ocorrências que devem ser objeto de análise, confronta as ações executadas
+em tempo real pelos agentes e ONS na Rede de Operação com os procedimentos descritos nos programas
+de operação e documentos normativos do MPO, para a identificação de desvios e suas origens.
+1.5. O ONS realiza análise preliminar da operação do sistema e seleciona as ocorrências e perturbações que
+serão objeto de análise e emissão de relatórios específicos.
+1.6. O universo de ocorrências e perturbações selecionadas para a emissão de relatórios de análise é a Rede
+de Operação, podendo eventuais exceções serem consideradas pelos agentes de operação e pelo ONS desde
+que de comum acordo.
+2. TRIAGEM DAS OCORRÊNCIAS E PERTURBAÇÕES
+2.1. O ONS efetua, nos processos de análise de ocorrências e perturbações, as seguintes avaliações:
+(a) Avaliação prévia do desempenho das equipes de tempo real dos centros de operação do ONS, das
+equipes dos centros de operação dos agentes de operação e das equipes responsáveis pela operação
+das instalações.
+(b) Avaliação da qualidade do Programa Diário de Operação (PDO), dos documentos normativos do
+Manual de Procedimentos de Operação (MPO) e do seu atendimento por parte dos centros de
+operação do ONS e agentes de operação.
+(c) Avaliação do desempenho dos Sistemas de Supervisão e Comunicação que dão suporte às ações dos
+centros de operação do ONS, identificando anormalidades e dificuldades.
+(d) Avaliação do desempenho da teleassistência quando for o caso, verificando principalmente se houve
+atraso no restabelecimento de equipamentos devido a problemas de teleassistência.
+(e) Avaliação prévia dos eventos indesejáveis e desempenhos insatisfatórios no controle de tensão,
+frequência, carregamento ou limites sistêmicos que colocaram em risco a segurança operacional do
+sistema ou a integridade de equipamentos e linhas de transmissão.
+2.2. O ONS solicita dados e informações complementares aos agentes de operação, caso necessário, para a
+conclusão da triagem das ocorrências e perturbações.
+2.2.1. Os agentes de operação enviam dados e informações complementares solicitados pelo ONS.
+2.3. O ONS faz a triagem e enquadra as ocorrências e perturbações como:
+(a) Ocorrência que origina um Relatório de Análise de Ocorrência (RO), conforme item 3, quando estiver
+relacionada a:
+Endereço na internet: http://www.ons.org.br 3 / 11
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise da operação, ocorrência e perturbações
+6.2 Operacional 2021.12 21/12/2021
+e acompanhamento das providências
+(1) desligamento forçado acidental na Rede de Operação, provocado por ação humana das equipes
+de operação ou de manutenção de instalações;
+(2) falha humana na execução das atividades em tempo real dos centros de operação do ONS ou dos
+agentes de operação ou na operação e manutenção de instalações da Rede de Operação;
+(3) anormalidade no processo de recomposição após perturbação que não se enquadra nos critérios
+para elaboração de Relatório de Análise de Perturbação (RAP);
+(4) anormalidade em equipamento ou componente associado que possa provocar dificuldade na
+recomposição da Rede de Operação ou colocar em risco a segurança do SIN;
+(5) inconsistência ou insuficiência de informação nos programas diários ou nos documentos
+normativos que resultem em dificuldade ou impossibilidade de cumprimento de recomendações,
+diretrizes, procedimentos ou limites operativos e que demandem providências corretivas; ou
+(6) falha nos recursos de suporte à operação que implique risco potencial para a operação do SIN.
+(b) Ocorrência que origina um Relatório de Análise da Operação, conforme item 4, quando estiver
+relacionada a:
+(1) eventos operativos indesejáveis que, por causar dificuldades no controle de tensão, de frequência,
+de carregamento e dos limites sistêmicos, colocam em risco a segurança operacional do SIN ou a
+integridade de equipamentos e linhas de transmissão;
+(2) desempenhos insatisfatórios das equipes de operação ou de manutenção de instalações ou dos
+recursos de suporte à operação que tenham colocado em risco a segurança operacional do SIN ou
+a integridade de equipamentos e linhas de transmissão;
+(3) um conjunto de eventos indesejáveis ou desempenhos insatisfatórios com alto índice de
+reincidência, cuja análise tenha sido solicitada por um agente de operação ou seja de interesse do
+ONS.
+(c) Perturbação que envolve linhas de transmissão, barramentos e transformadores da Rede Básica para
+inclusão na Síntese Gerencial das Principais Perturbações ocorridas no SIN, conforme item 5.
+(1) Em função de reincidências e impacto no SIN, a Síntese Gerencial pode ser complementada com
+perturbações que envolvam:
+(i) linhas de transmissão, transformadores ou barramentos da Rede Complementar;
+(ii) equipamentos de controle de reativos da Rede de Operação; ou
+(iii) unidades geradoras da Rede de Operação.
+(d) Perturbação que origina um RAP, relatório cujo processo de elaboração está descrito no Submódulo
+6.3 – Análise de perturbação, quando:
+(1) houver solicitação da ANEEL;
+(2) o ONS ou os agentes de operação solicitarem análise, desde que haja envolvimento da Rede de
+Operação, caracterizado pela ocorrência de desligamento(s) forçado(s), observadas, qualquer das
+seguintes condições:
+Endereço na internet: http://www.ons.org.br 4 / 11
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise da operação, ocorrência e perturbações
+6.2 Operacional 2021.12 21/12/2021
+e acompanhamento das providências
+(i) ocorrência de falha em componentes da Rede de Operação, ou anormalidade nessa rede que
+demande providências dos agentes de operação e/ou do ONS;
+(ii) interrupção de carga de demanda numa determinada região geográfica (Sul, Sudeste, Centro-
+Oeste, Nordeste e Norte) com severidade das perturbações (SM)  1, conforme definido no
+Submódulo 9.1, e/ou dano em equipamentos dos agentes de operação; ou
+(iii) necessidade de aprofundamento das análises quando da elaboração do Relatório de Análise de
+Ocorrência – RO.
+2.4. O ONS realiza o tratamento imediato das ocorrências que, por sua singularidade, baixa gravidade e baixa
+probabilidade de reincidência, não se enquadrem nos critérios para elaboração dos relatórios de análise, e
+também classifica e armazena em sistema computacional específico o registro dessas ocorrências.
+2.5. O ONS elabora o Relatório de Acompanhamento Mensal de Triagem de Ocorrências e Perturbações no
+Sistema Interligado Nacional e o disponibiliza para os agentes de operação e para a ANEEL, contendo:
+(a) objetivos;
+(b) descrições sucintas das principais ocorrências e perturbações;
+(c) acompanhamento da emissão de Relatórios de Análise de Perturbação (RAP), conforme Submódulo
+6.3;
+(d) acompanhamento da emissão dos RAO, item 3;
+(e) acompanhamento da emissão dos RO, item 4;
+(f) providências tomadas e em andamento registradas no mês;
+(g) estatística dos prazos de emissão dos relatórios.
+2.5.1. O ONS encaminha para a fiscalização dos serviços de Eletricidade (SFE) da ANEEL detalhes dos itens
+do Relatório de Acompanhamento Mensal de Triagem de Ocorrência e Perturbações no Sistema Interligado
+Nacional que se referirem a:
+(a) Equipamentos da rede de operação indisponíveis a mais de 1 mês e/ou com previsão de retorno a
+mais de 1 mês;
+(b) Fase reserva indisponível a mais de 1 mês e/ou com previsão de retorno a mais de 1 mês;
+(c) Equipamento funcionando com fase reserva a mais de 1 mês e/ou com previsão de retorno a mais
+de 1 mês;
+(d) Indisponibilidade de longa duração encerradas no mês, adicionalmente ao estabelecido no item 2.5.
+2.5.1.1. Estes itens são individualizados e detalhados com as seguintes informações:
+(a) equipamento ou linha de transmissão;
+(b) Identificador do Tipo do Equipamento na BDT (Tipo Eqp);
+(c) Identificador do Equipamento da BDT (Eqpld);
+(d) agente concessionário do equipamento;
+(e) subestação;
+(f) data e hora do início da indisponibilidade;
+Endereço na internet: http://www.ons.org.br 5 / 11
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise da operação, ocorrência e perturbações
+6.2 Operacional 2021.12 21/12/2021
+e acompanhamento das providências
+(g) data e hora da previsão inicial de retorno;
+(h) data e hora da previsão atual de retorno;
+(i) quantidade de reprogramações de retorno;
+(j) tipo da indisponibilidade;
+(k) motivo da indisponibilidade;
+(l) risco para o sistema em função da indisponibilidade;
+(1) tipo de vulnerabilidade identificada;
+(2) redução do nível de redundância;
+(3) risco de corte de carga com estimativa correspondente.
+(m) nº no SGI;
+(n) observações complementares (informações em caráter geral, justificativas para atraso no retorno,
+motivação de reprogramações de retorno, ações tomadas pelo agente para agilizar o retorno do
+equipamento, para redução do risco para o SIN e/ou para evitar corte de carga até o retorno do
+equipamento ou da linha, se o reserva é remunerado e para quantos equipamentos principais ele
+poderá substituir e se a unidade reserva é compartilhada com outro(s) agente(s), etc).
+3. ELABORAÇÃO DO RELATÓRIO DE ANÁLISE DE OCORRÊNCIA (RO)
+3.1. O ONS inicia a elaboração do Relatório de Análise de Ocorrência quando indicado no processo de
+triagem, item 2, ou por solicitação dos agentes de operação para ocorrências que se enquadrem no item 2.3.
+(a).
+3.2. O ONS informa aos agentes de operação envolvidos sobre o início de elaboração do RO.
+3.3. O ONS elabora a minuta do RO, conforme rotinas específicas do Submódulo 5.13 – Rotinas operacionais,
+e a disponibiliza para os agentes de operação envolvidos, contendo:
+(a) a descrição da ocorrência e das anormalidades e dificuldades observadas.
+(b) as providências tomadas e as providências em andamento, com os respectivos prazos para a
+conclusão.
+(c) como providência, a elaboração do Relatório de Análise de Falhas em Instalações e Equipamentos
+(RAF) quando identificada necessidade de maiores esclarecimentos sobre falhas de equipamentos,
+Submódulo 6.4 – Análise de falha em equipamentos e linhas de transmissão.
+(d) Informações sobre a atuação das proteções, dos Sistemas Especiais de Proteção – SEP e dos
+dispositivos de controle, somente nos casos em que forem fornecidas pelos agentes de operação
+envolvidos.
+3.4. Os agentes de operação apreciam a minuta do RO e enviam comentários ao ONS, contendo as
+providências tomadas e as providências em andamento com os respectivos prazos para a conclusão.
+3.4.1. O ONS considera o relatório aprovado quando os comentários dos agentes de operação envolvidos
+não forem recebidos nos prazos previstos neste submódulo.
+Endereço na internet: http://www.ons.org.br 6 / 11
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise da operação, ocorrência e perturbações
+6.2 Operacional 2021.12 21/12/2021
+e acompanhamento das providências
+3.5. O ONS emite a versão final do RO, após a consolidação dos comentários recebidos à minuta do RO.
+3.5.1. O ONS emite o RO inclusive quando as providências existentes nele estiverem concluídas e atendidas.
+3.5.2. Quando a ocorrência envolver mais de um agente de operação, o ONS considera as alterações
+propostas por cada agente antes da emissão da versão final do RO.
+3.6. O ONS encaminha a versão final do RO para os agentes de operação envolvidos e a disponibiliza para o
+Ministério das Minas e Energia – MME, a Agência Nacional de Energia Elétrica – ANEEL e todos os agentes de
+operação.
+3.6.1. O ONS apresenta nos anexos do RO as divergências que eventualmente persistirem entre os agentes
+de operação envolvidos e o ONS, com a explicitação dos diferentes pontos de vista. A existência de
+divergências deve ser citada na descrição das anormalidades e dificuldades observadas.
+3.7. O ONS cancela o RO, quando:
+(a) constata que o evento que motivou a análise não se enquadra no item 2.3. (a);2.3.
+(b) constata a necessidade de aprofundamento das análises e inicia:
+(1) a elaboração de um Relatório de Análise de Perturbação (RAP) (Submódulo 6.3); ou
+(2) a elaboração de um Relatório de Análise da Operação (RAO), item 4.
+4. ELABORAÇÃO DO RELATÓRIO DE ANÁLISE DA OPERAÇÃO (RAO)
+4.1. O ONS inicia a elaboração do RAO quando indicado no processo de triagem, item 2, ou no processo de
+elaboração do RO, item 3.
+4.2. O ONS informa aos agentes de operação envolvidos sobre o início de elaboração do RAO.
+4.3. O ONS elabora a minuta do RAO, conforme rotinas específicas do Submódulo 5.13, e a disponibiliza para
+os agentes de operação envolvidos, contendo:
+(a) introdução com a descrição sucinta da ocorrência, a análise detalhada dos eventos e as conclusões
+da análise;
+(b) providências tomadas, as providências em andamento, com respectivos prazos para a conclusão;
+(c) Inclusão como providência a elaboração do Relatório de Análise de Falhas em Instalações e
+Equipamentos (RAF), quando identificada necessidade de maiores esclarecimentos sobre falhas de
+equipamentos, Submódulo 6.4.
+4.3.1. Quando necessário, os agentes de operação podem ser convocados para reunião coordenada pelo
+ONS com o objetivo de elaboração da minuta do RAO.
+4.4. Os agentes de operação apreciam a minuta do RAO e enviam comentários ao ONS contendo as
+providências tomadas e as providências em andamento sob suas responsabilidades, com os respectivos
+prazos para a conclusão das providências.
+4.4.1. O ONS considera o relatório aprovado quando os comentários dos agentes de operação envolvidos
+não forem recebidos nos prazos previstos neste submódulo.
+4.5. O ONS emite a versão final do RAO, após a consolidação dos comentários recebidos à minuta do RAO.
+4.5.1. O ONS emite o RAO inclusive quando todas as providências existentes nele estiverem concluídas.
+Endereço na internet: http://www.ons.org.br 7 / 11
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise da operação, ocorrência e perturbações
+6.2 Operacional 2021.12 21/12/2021
+e acompanhamento das providências
+4.5.2. Quando a ocorrência envolver mais de um agente de operação, o ONS considera as alterações
+propostas por cada agente antes da emissão da versão final do RAO.
+4.6. O ONS encaminha a versão final do RAO para os agentes de operação envolvidos e a disponibiliza para
+a ANEEL, MME e todos os agentes de operação.
+4.6.1. O ONS apresenta nos anexos do RAO as divergências que eventualmente persistirem entre os agentes
+de operação envolvidos e o ONS, com a explicitação dos diferentes pontos de vista. A existência de
+divergências deve ser citada nas conclusões do relatório.
+5. ELABORAÇÃO DA SINTESE GERENCIAL DAS PRINCIPAIS PERTURBAÇÕES OCORRIDAS NO SIN
+5.1. O ONS solicita aos agentes de operação, por meio de sistema computacional específico, as seguintes
+informações necessárias para a consistência dos dados aos agentes de operação envolvidos em uma
+perturbação:
+(a) a descrição do(s) desligamento(s) que compõe(m) a perturbação, contendo o seu tipo (automático ou
+manual), origem, causa, tipo de defeito (elétrico ou mecânico), fases envolvidas e a localização da
+falta. Quando o desligamento envolver mais de um agente de operação, este item é de
+responsabilidade do agente de operação proprietário do equipamento principal da FT desligada;
+(b) as proteções / Sistemas Especiais de Proteção - SEP atuados por terminal, inclusive para as tentativas
+de restabelecimento sem sucesso, com o tempo de eliminação do defeito, incluindo as informações
+dos modelos dos relés que atuaram nas proteções elétricas, das funções de proteção que atuaram
+nos relés de bloqueio de geradores, barras, transformadores e reatores e, no caso específico de
+unidades geradoras, das funções de proteção que provocaram as paradas parciais ou totais das
+máquinas, sem o acionamento de relés de bloqueio;
+(c) a causa de atuações acidentais, incorretas e de recusas de atuação de proteção/SEP, inclusive para as
+tentativas de restabelecimento sem sucesso;
+(d) o desempenho do Religamento Automático (caso exista), informando o terminal líder e a causa de
+falhas ou desempenhos insatisfatórios;
+(e) as informações sobre anormalidades observadas e providências tomadas ou em andamento, visando
+o restabelecimento do equipamento ou a reincidência da anormalidade;
+(f) a proposta de prazo para conclusão das providências em andamento sob sua responsabilidade;
+(g) os dados complementares para o esclarecimento da perturbação (figuras, gráficos, relatórios, etc.).
+5.2. O agente de operação fornece, no sistema computacional, as informações solicitadas pelo ONS.
+5.3. O ONS solicita informações e esclarecimentos adicionais a respeito das perturbações ocorridas na
+semana em análise.
+5.3.1. A semana em análise é o período entre uma segunda feira e o domingo após esta segunda feira, em
+que tenha ocorrido uma perturbação triada para elaboração da síntese.
+5.4. O agente de operação apresenta as informações ou esclarecimentos adicionais solicitados.
+5.5. O ONS conclui e disponibiliza a análise da perturbação para consulta dos agentes de operação.
+5.6. Os agentes de operação consistem a análise realizada pelo ONS.
+Endereço na internet: http://www.ons.org.br 8 / 11
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise da operação, ocorrência e perturbações
+6.2 Operacional 2021.12 21/12/2021
+e acompanhamento das providências
+5.6.1. O ONS considera a análise consistida quando os comentários dos agentes de operação envolvidos não
+forem recebidos nos prazos previstos neste submódulo.
+5.7. O ONS armazena as análises realizadas em sistema computacional específico.
+5.8. O ONS seleciona as perturbações que constarão da Síntese Gerencial das Principais Perturbações
+ocorridas no SIN.
+5.9. O ONS coordena a elaboração da Síntese Gerencial das Principais Perturbações ocorridas no SIN com a
+participação dos agentes de operação envolvidos.
+5.10. A Síntese Gerencial das Principais Perturbações ocorridas no SIN apresenta:
+(a) Dados básicos da perturbação, incluindo título, data, hora de início e fim, agentes de operação com
+componentes desligados, agentes de operação afetados (com corte de carga) e demais agentes de
+operação envolvidos;
+(b) Descrição da perturbação, contendo:
+(1) descrição sucinta da perturbação, informando o equipamento desligado, o tipo de defeito, fase
+envolvida, localização do defeito, bem como a causa do desligamento.
+(2) proteções atuadas, tempo de eliminação da falta, indicando a filosofia de teleproteção, quando
+houver.
+(3) atuação de SEP.
+(4) anormalidades observadas.
+(5) a atuação ou não do religamento automático, classificando sua atuação como correta ou incorreta
+bem como se houve recusa. No caso de desempenho insatisfatório, a causa deve ser informada.
+(c) Interrupção e Restabelecimento de Carga
+(1) Informar, quando houver, a quantidade de carga interrompida, com data e hora da interrupção e
+do restabelecimento da carga, contendo a duração da interrupção.
+(d) Recomposição do Sistema
+(1) Apresentar os equipamentos desligados, com o respectivo horário de normalização. A informação
+de recomposição de linha de transmissão por meio de religamento automático também deve
+constar neste campo.
+(e) Providências Tomadas e em andamento
+(1) Relação das providências sob a responsabilidade dos agentes de operação e do ONS, tanto as
+concluídas quanto as em andamento, com os prazos de conclusão previstos para solucionar os
+problemas encontrados e evitar reincidência, a saber:
+(i) explicitação do conjunto de providências a serem tomadas pelo ONS ou pelos agentes de
+operação envolvidos;
+(ii) identificação do responsável pelas providências; e
+(iii) estabelecimento do prazo de execução.
+5.11. O ONS disponibiliza a versão final da Síntese Gerencial das Principais Perturbações ocorridas no SIN no
+sistema computacional aos agentes de operação, ao MME e à ANEEL e no sítio do ONS na internet.
+Endereço na internet: http://www.ons.org.br 9 / 11
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise da operação, ocorrência e perturbações
+6.2 Operacional 2021.12 21/12/2021
+e acompanhamento das providências
+6. ACOMPANHAMENTOS DAS PROVIDÊNCIAS
+6.1. O ONS cadastra em sistema computacional específico as providências concluídas e as que estão em
+andamento, após a disponibilização da versão final dos relatórios de análise aos agentes de operação
+envolvidos: RO (item 3); RAO (item 4); RAP (Submódulo 6.3); RAF (Submódulo 6.4); Relatório de Teste de
+Recomposição de Usinas de autorrestabelecimento (RTA) (Submódulo 5.13); relatórios de análises
+estatísticas (item 7 e submódulo 6.12); ou Síntese Gerencial das Principais Perturbações ocorridas no SIN
+(item 5).
+6.2. O agente de operação responsável pelas providências com prazo superior a 4 (quatro) meses, em
+relação à data de emissão dos relatórios do item 6.1. , deve encaminhar ao ONS um cronograma com as
+etapas necessárias para atendimento e conclusão dessas providências, após a emissão da versão final do
+citado relatório.
+6.2.1. O agente de operação informa ao ONS o cumprimento de cada etapa e as eventuais alterações no
+referido cronograma.
+6.3. O agente de operação comunica ao ONS as ações adotadas para conclusão das providências
+estabelecidas nos relatórios de análise.
+6.3.1. Quando a conclusão de uma providência sofrer atrasos por depender de ações de órgãos
+governamentais, de outros agentes de operação, ou autorização de intervenção pelo ONS, o agente de
+operação poderá solicitar reprogramação excepcional de prazo por motivos alheios ao agente de operação.
+6.4. O ONS avalia a descrição das ações tomadas pelos agentes de operação e aceita o atendimento ou
+solicita esclarecimentos e complementações.
+6.5. O agente responsável por uma providência pode justificar e solicitar ao ONS o seu cancelamento.
+6.6. O ONS analisa as solicitações de cancelamento apresentadas pelos agentes de operação, aceitando-as
+ou não, conforme a pertinência.
+6.7. Caso o agente de operação não conclua as providências em andamento nos prazos previstos, o ONS
+procede de acordo com o estabelecido no Submódulo 1.3.
+6.8. O ONS elabora o Relatório Mensal de Estatística das Providências – REMEP, conforme rotinas específicas
+do submódulo 5.13, e o disponibiliza para a ANEEL, MME e agentes de operação, no sistema computacional
+específico, contendo:
+(a) Introdução: descritivo do processo de gestão de providências;
+(b) Destaques do mês: apresenta o balanço das emissões, dos cumprimentos e das reprogramações
+excepcionais de prazos para as providências, além de um resumo das principais ações tomadas no
+mês;
+(c) Avaliação dos Indicadores da Gestão de Providências: apresenta os indicadores de Evolução do
+Cumprimento às Providências dos Relatórios de Análise – ECPA e de Pontualidade do Cumprimento
+às Providências dos Relatórios de Análise – PCPA definidos no Submódulo 9.5 – Indicadores de
+cumprimento de providências estabelecidas nos relatórios de análise;
+(d) Anexo 1 – Formulação do cálculo dos indicadores;
+(e) Anexo 2 – Estatística e Indicadores da gestão de providências por gestor;
+(f) Anexo 3 – Evolução dos indicadores da gestão de providências por gestor;
+Endereço na internet: http://www.ons.org.br 10 / 11
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise da operação, ocorrência e perturbações
+6.2 Operacional 2021.12 21/12/2021
+e acompanhamento das providências
+(g) Anexo 4 – Estatística e Indicadores da gestão de providências por agente;
+(h) Anexo 5 – Providências com prazo vencido; e
+(i) Anexo 6 – Providências concluídas no mês.
+7. ELABORAÇÃO DO RELATÓRIO DE ANÁLISE ESTATÍSTICA DAS PERTURBAÇÕES OCORRIDAS NA REDE
+BÁSICA DO SIN
+7.1. Para a elaboração do Relatório de Análise Estatística das Perturbações Ocorridas na Rede Básica do SIN,
+o ONS computa as perturbações com envolvimento da Rede Básica.
+7.2. O ONS efetua o tratamento estatístico com os dados classificados e consistidos dos desligamentos
+forçados e perturbações, conforme rotina operacional específica do Submódulo 5.13.
+7.3. O ONS elabora e disponibiliza o Relatório de Análise Estatística das Perturbações Ocorridas na Rede
+Básica do SIN para os agentes de operação e para a ANEEL, considerando os seguintes aspectos:
+(a) a expansão do SIN no período considerado;
+(b) a análise quantitativa das perturbações ocorridas na Rede Básica no ano em análise;
+(c) a identificação das causas que originaram as perturbações no SIN;
+(d) o cálculo e evolução dos indicadores de desempenho, previstos no Submódulo 9.1;
+(e) a comparação entre o ano em análise e o ano anterior;
+(f) a relação dos relatórios previstos no Submódulo 6.3, emitidos durante o período considerado, bem
+como os indicadores de atendimento às providências em andamento dos Relatórios de Análise de
+Perturbação – RAP, previstos no Submódulo 9.5.
+7.3.1. Os resultados devem ser apresentados individualmente por função (transmissão ou geração) e por
+causas, bem como agregados por região geográfica e totalizados para toda a Rede Básica.
+8. REFERÊNCIAS
+8.1. Não há referências neste documento.
+9. ANEXOS
+9.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 11 / 11

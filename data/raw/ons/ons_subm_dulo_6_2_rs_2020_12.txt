@@ -1,0 +1,322 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.2-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.2-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.2
+Análise da operação, ocorrências e
+perturbações e acompanhamento das
+providências
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise da operação, ocorrência e perturbações
+6.2 Responsabilidades 2020.12 01/01/2021
+e acompanhamento das providências
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Relatório de Acompanhamento Mensal de Triagem de Ocorrências e Perturbações no Sistema
+Interligado Nacional......................................................................................................................3
+2.2. Relatório de análise de Ocorrências (RO)......................................................................................3
+2.3. Relatório de Análise da Operação (RAO).......................................................................................3
+2.4. Síntese Gerencial das Principais Perturbações ocorridas no SIN..................................................3
+2.5. Relatório Mensal de Estatística das Recomendações e Providências (REREC)..............................3
+2.6. Relatório de Análise Estatística das Perturbações Ocorridas na Rede Básica do SIN....................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de operação.....................................................................................................................4
+4. PRAZOS............................................................................................................................................5
+5. REFERÊNCIA.....................................................................................................................................8
+Endereço na internet: http://www.ons.org.br 2 / 8
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise da operação, ocorrência e perturbações
+6.2 Responsabilidades 2020.12 01/01/2021
+e acompanhamento das providências
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas dos processos relativos à Análise
+de ocorrências e perturbações na Rede de Operação.
+2. PRODUTOS
+2.1. Relatório de Acompanhamento Mensal de Triagem de Ocorrências e Perturbações no Sistema
+Interligado Nacional
+2.1.1. Relatório que apresenta um resumo do processo de triagem de ocorrências e perturbações, com as
+principais perturbações e o acompanhamento da emissão dos relatórios de análise de ocorrências e
+perturbações.
+2.2. Relatório de análise de Ocorrências (RO)
+2.2.1. Relatório com o objetivo de investigar as origens das anormalidades e dificuldades verificadas na
+operação do SIN, bem como recomendar medidas corretivas e preventivas a serem adotadas para evitar
+essas ocorrências.
+2.3. Relatório de Análise da Operação (RAO)
+2.3.1. Relatório com o objetivo de identificar as causas dos eventos indesejáveis e dos desempenhos
+insatisfatórios por meio da avaliação dos dados e informações referentes à operação verificada, do
+desempenho das equipes de operação e de manutenção de instalações e da adequação dos processos e dos
+documentos operativos, estabelecendo medidas corretivas e preventivas a serem adotadas pelo ONS e pelos
+agentes de operação.
+2.4. Síntese Gerencial das Principais Perturbações ocorridas no SIN
+2.4.1. Documento elaborado com periodicidade semanal que apresenta uma análise sucinta das principais
+perturbações que tenham afetado a Rede de Operação, relação das anormalidades identificadas e relação
+das providências em andamento e recomendações a serem atendidas.
+2.5. Relatório Mensal de Estatística das Recomendações e Providências (REREC)
+2.5.1. Relatório contendo o acompanhamento do processo de gestão das recomendações e providências
+estabelecidas nos relatórios de análise do ONS e a avaliação dos indicadores de Evolução do Atendimento às
+Recomendações dos Relatórios de Análise – EARA e de Pontualidade do Atendimento às Recomendações dos
+Relatórios de Análise – PARA.
+2.6. Relatório de Análise Estatística das Perturbações Ocorridas na Rede Básica do SIN
+2.6.1. Relatório com finalidade analisar e acompanhar as perturbações ocorridas na Rede Básica e suas
+causas ao longo do tempo.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+Endereço na internet: http://www.ons.org.br 3 / 8
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise da operação, ocorrência e perturbações
+6.2 Responsabilidades 2020.12 01/01/2021
+e acompanhamento das providências
+(a) Identificar e realizar a triagem das ocorrências e perturbações na Rede de Operação.
+(b) Registrar e disponibilizar, por meio do sistema computacional específico, as informações a respeito
+das perturbações envolvendo a Rede de Operação, bem como perturbações que não envolvam a Rede
+de Operação, desde que tenham provocado interrupção de carga maior ou igual a 100 MW e com
+duração de no mínimo 10 minutos.
+(c) Encaminhar aviso sobre o início de elaboração do RO e do RAO aos agentes envolvidos.
+(d) Solicitar aos agentes de operação dados e informações complementares para elaboração dos
+produtos deste submódulo.
+(e) Consolidar e analisar os dados das perturbações, a partir das informações prestadas pelos agentes
+de operação.
+(f) Consolidar junto aos agentes de operação envolvidos, o RO e o RAO.
+(g) Definir prazos de atendimentos às recomendações e de conclusão das providências em andamento
+sob sua responsabilidade.
+(h) Fornecer aos agentes de operação, mediante consulta, os dados estratificados sob sua
+responsabilidade.
+(i) Elaborar e disponibilizar, aos agentes de operação e à Agência Nacional de Energia Elétrica – ANEEL,
+o Relatório de Acompanhamento Mensal de Triagem de Ocorrências e Perturbações no Sistema
+Interligado Nacional, o RO, o RAO, a Síntese Gerencial das Principais Perturbações ocorridas no SIN, o
+REREC e o Relatório de Análise Estatística das Perturbações Ocorridas na Rede Básica do SIN.
+(j) Elaborar e disponibilizar, ao Ministério das Minas e Energia – MME, o RO, o RAO, a Síntese Gerencial
+das Principais Perturbações ocorridas no SIN, e o REREC.
+(k) Armazenar em sistema computacional e acompanhar as recomendações e providências estabelecidas
+nos relatórios de análise do ONS: RO; RAO; Síntese Gerencial das Principais Perturbações ocorridas no
+SIN; Relatório de Análise de Perturbação (RAP) (Submódulo 6.3 – Análise de perturbação); Relatório
+de Análise de Falhas em Equipamentos e Linhas de Transmissão (RAF) (Submódulo 6.4 – Análise de
+falha em equipamentos e linhas de transmissão); Relatório de Teste de Recomposição de Usinas de
+Autorrestabelecimento (RTA) (Submódulo 5.13 – Rotinas Operacionais); e Relatórios de análises
+estatísticas (item 2.6 e Submódulo 6.12 – Análise estatística de desligamentos forçados e de
+desempenho dos sistemas de proteção).
+(l) Atualizar as informações dos agentes referentes aos prazos para a conclusão das providências em
+andamento e para o atendimento das recomendações estabelecidas nos relatórios citados no item
+anterior.
+(m)Avaliar atendimento das recomendações, e pedidos de reprogramação de prazos feitos pelos agentes.
+(n) Calcular os valores dos indicadores de confiabilidade da Rede Básica, definidos no Submódulo 9.1 –
+Indicadores de confiabilidade da Rede Básica, considerando suas diversas formas de agregação, e
+armazenar os resultados na Base de Dados Técnica (BDT) do ONS.
+3.2. Agentes de operação
+(a) Participar das reuniões convocadas pelo ONS.
+Endereço na internet: http://www.ons.org.br 4 / 8
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise da operação, ocorrência e perturbações
+6.2 Responsabilidades 2020.12 01/01/2021
+e acompanhamento das providências
+(b) Fornecer dados e informações complementares ao ONS para a realização das análises e dos
+tratamentos estatísticos e dos produtos previstos neste submódulo.
+(c) Consistir as informações das perturbações analisadas.
+(d) Analisar, em conjunto com o ONS, os eventos indesejáveis e os desempenhos insatisfatórios que
+envolvam seus centros de operação, suas instalações e seus sistemas de suporte à operação.
+(e) Encaminhar ao ONS as justificativas e esclarecimentos sobre eventual não atendimento às
+determinações emitidas em tempo real pelos centros de operação do ONS.
+(f) Definir com o ONS os prazos para o cumprimento das recomendações e para a conclusão das
+providências em andamento sob sua responsabilidade para solução dos problemas identificados.
+(g) Atender às recomendações e providências constantes nos produtos deste submódulo ou apresentar
+argumentação técnica para postergação ou cancelamento dessas ações.
+(h) Encaminhar ao ONS um cronograma com as etapas necessárias para o atendimento às
+recomendações ou conclusão das providências em andamento com prazo superior a 4 (quatro) meses
+e manter o ONS informado quanto ao cumprimento de cada etapa e das eventuais alterações no
+cronograma.
+(i) Informar ao ONS as medidas tomadas para o atendimento às recomendações e para a conclusão das
+providências em andamento, estabelecidas nos relatórios de análise do ONS: RO; RAO; Síntese
+Gerencial das Principais Perturbações ocorridas no SIN; RAP (Submódulo 6.3); RAF (Submódulo 6.4);
+RTA (Submódulo 5.13); e Relatórios de análises estatísticas (item 2.6 e Submódulo 6.12).
+4. PRAZOS
+Quadro 1 - Prazos para Análise de ocorrências
+Atividade Responsável Prazo
+ONS ou
+1 Identificação de necessidade de elaboração do RO Agentes de Sob demanda
+Operação
+Informação do início da elaboração do RO aos 1 dia útil após
+2 ONS
+agentes de operação envolvidos atividade 1
+Envio de minuta do RO para os agentes de operação 2 dias úteis após
+3 ONS
+envolvidos atividade 2
+Envio, ao ONS, dos comentários, das informações
+complementares, e dos prazos para o atendimento
+Agente de 3 dias úteis após
+4 às recomendações e para a conclusão das
+operação atividade 3
+providências em andamento sob sua
+responsabilidade
+Endereço na internet: http://www.ons.org.br 5 / 8
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise da operação, ocorrência e perturbações
+6.2 Responsabilidades 2020.12 01/01/2021
+e acompanhamento das providências
+Atividade Responsável Prazo
+1 dia útil após
+Disponibilização da versão final da RO para todos os término do
+5 ONS
+agentes de operação, para Aneel e MME. prazo para a
+atividade 4
+Quadro 2 - Prazos para Análise da Operação
+Atividade Responsável Prazo
+1 Identificação de necessidade de elaboração do RAO ONS Sob demanda
+Informação do início da elaboração do RAO aos 1 dia útil após
+2 ONS
+agentes de operação envolvidos atividade 1
+5 dias úteis após
+3 Levantamento de dados ONS
+atividade 2
+Agente de 5 dias úteis após
+4 Envio, ao ONS, das informações e dados solicitados
+operação atividade 2
+Envio de minuta do RAO para os agentes de
+4 dias úteis após
+5 operação envolvidos, e, caso necessário, realização ONS
+atividade 3 e 4
+de reunião conjunta
+Envio, ao ONS, dos comentários e das informações
+complementares, e dos prazos para o atendimento
+Agente de 5 dias úteis após
+6 às recomendações e para a conclusão das
+operação atividade 5
+providências em andamento sob sua
+responsabilidade
+2 dias úteis após
+Disponibilização da versão final da RAO para todos término do
+7 ONS
+os agentes de operação, para Aneel e MME prazo para a
+atividade 6
+Quadro 3 - Prazos para Elaboração da Síntese Gerencial das Principais Perturbações ocorridas no SIN
+Respon- Periodici-
+Atividade Prazo Horizonte Observação
+sável dade
+Solicitação de Informações aos No 1° dia útil
+Sob
+1 agentes envolvidos em uma ONS após a - -
+demanda
+perturbação perturbação
+Término da semana em análise, i.e.
+2 - - - - -
+período entre segunda e domingo
+Endereço na internet: http://www.ons.org.br 6 / 8
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise da operação, ocorrência e perturbações
+6.2 Responsabilidades 2020.12 01/01/2021
+e acompanhamento das providências
+Respon- Periodici-
+Atividade Prazo Horizonte Observação
+sável dade
+Agente
+Envio, ao ONS, das informações e Até 3 dias
+de Sob Semana em
+3 dados solicitados para as úteis após -
+operaçã demanda análise
+perturbações da semana em análise atividade 2
+o
+Solicitação de Informações e Até 5 dias
+Sob Semana em
+4 esclarecimentos adicionais aos ONS úteis após -
+demanda análise
+agentes atividade 2
+Agente Se atividade 4
+Até 3 dias
+Envio, ao ONS, das informações e de Sob Semana em for realizada até
+5 úteis após
+esclarecimentos adicionais operaçã demanda análise 2 dias úteis após
+atividade 2
+o atividade 2
+Se atividade 4
+Agente
+1 dia útil for realizada
+Envio, ao ONS, das informações e de Sob Semana em
+6 após após 2 dias úteis
+esclarecimentos adicionais operaçã demanda análise
+atividade 4 depois da
+o
+atividade 2
+Disponibilização da análise da Até 7 dias
+Sob Semana em
+7 perturbação dos agentes de ONS úteis após
+demanda análise
+operação atividade 2
+Agente
+Consistência da análise da 8 dias úteis
+de Sob Semana em
+8 perturbação disponibilizada pelo após
+operaçã demanda análise
+ONS atividade 2
+o
+Disponibilização da Síntese Gerencial
+10 dias úteis
+das Principais Perturbações Semana em
+9 ONS após Semanal
+ocorridas no SIN para os agentes de análise
+atividade 2
+operação, MME e ANEEL
+Quadro 4 - Prazos para acompanhamento de providências e recomendações
+Atividade Responsável Prazo Periodicidade Horizonte
+15 dias após
+Encaminhar cronograma com etapas
+emissão do
+necessárias ao atendimento às
+relatório que
+1 recomendações ou atendimento das ONS Sob demanda -
+contém as
+providências com prazo superior à 4
+recomendações
+meses.
+e providências
+Endereço na internet: http://www.ons.org.br 7 / 8
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise da operação, ocorrência e perturbações
+6.2 Responsabilidades 2020.12 01/01/2021
+e acompanhamento das providências
+Atividade Responsável Prazo Periodicidade Horizonte
+Conforme
+Envio de atualizações sobre estabelecido no Mensal ou
+Agente de
+2 providências e recomendações sob sua sistema quando da -
+Operação
+responsabilidade de atendimento computacional atualização
+específico
+Análise do atendimento às Até 7 dias úteis Mês
+3 ONS Sob Demanda
+recomendações e providências após atividade 2 anterior
+Disponibilizar REREC, em sistema
+10º dia útil do Mês
+4 computacional, para agentes de ONS Mensal
+mês anterior
+Operação, Aneel, e MME
+Quadro 5 - Prazo para Relatório de Acompanhamento Mensal da Triagem de Ocorrências e Perturbações no SIN
+Atividade Responsável Prazo Periodicidade Horizonte
+Disponibilizar Relatório de
+Acompanhamento Mensal da Triagem de
+7º dia útil Mês
+1 Ocorrências e Perturbações no Sistema ONS Mensal
+do mês anterior
+Interligado Nacional para agentes de
+operação e para a Aneel
+Disponibilizar Relatório de Análise
+31 de Ano
+2 Estatística das Perturbações Ocorridas na ONS Anual
+maio Anterior
+Rede Básica do SIN
+5. REFERÊNCIA
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 8 / 8

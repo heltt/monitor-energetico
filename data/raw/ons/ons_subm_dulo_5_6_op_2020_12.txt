@@ -1,0 +1,81 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 5.6-OP_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 5.6-OP_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 5.6
+Operação em contingência
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação em contingência 5.6 Operacional 2020.12 01/01/2021
+ÍNDICE
+1. OPERAÇÃO EM CONTINGÊNCIA.......................................................................................................3
+2. REFERÊNCIAS...................................................................................................................................4
+3. ANEXOS...........................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação em contingência 5.6 Operacional 2020.12 01/01/2021
+1. OPERAÇÃO EM CONTINGÊNCIA
+1.1. A Rede de Operação está em regime de contingência quando há indisponibilidade dos equipamentos
+principais ou de linhas de transmissão, provocando ou não violação dos limites operativos ou corte de carga,
+exceto no caso das indisponibilidades programadas.
+1.2. Os centros de operação do ONS priorizam os aspectos de segurança do sistema, dos equipamentos e
+das pessoas em relação a agilidade das ações, sem que isso prejudique o compromisso na continuidade do
+fornecimento de energia e dos procedimentos durante a operação em contingência.
+1.3. Os centros de operação do ONS consideram, durante a operação em contingência, que o Sistema
+Interligado Nacional (SIN) opera em regime permanente com a Rede de Operação Incompleta.
+1.4. Os centros de operação do ONS utilizam os seguintes estudos para a gestão da segurança operativa do
+SIN:
+(a) estudos adicionais do planejamento da operação elétrica, conforme Submódulo 3.1 – Planejamento
+da operação elétrica de médio prazo e Submódulo 3.4 – Planejamento da operação elétrica com
+horizonte quadrimestral;
+(b) avaliações realizadas nos processos da pré-operação; e
+(c) avaliações resultantes da análise de segurança operativa executada nos centros de operação.
+1.5. O detalhamento dos procedimentos para operação em tempo real em situações de contingência está
+contido no Submódulo 5.12 – Instruções de Operação.
+1.6. Os centros de operação do ONS definem os limites operativos do sistema, que não devem ser violados,
+em função dos níveis de risco da Rede de Operação, conforme detalhado no Submódulo 5.12.
+1.7. Os centros de operação do ONS observam os limites operativos das instalações de transmissão, os quais
+abrangem também eventuais restrições permanentes ou temporárias, sejam aquelas informadas pelos
+agentes de operação, sejam aquelas constantes nos cadastros de informações operacionais, conforme
+Submódulo 5.11 – Cadastro de Informações Operacionais.
+1.7.1. Os centros de operação do ONS devem considerar as restrições temporárias das instalações de
+transmissão informadas em tempo real pelos agentes de operação proprietários.
+1.8. Os centros de operação do ONS verificam se as restrições ou alterações nos limites operativos em função
+dos eventos relacionados à contingência, informados imediatamente pelos agentes, impactam nos
+procedimentos previstos nas instruções de operação do Submódulo 5.12.
+1.9. Os centros de operação do ONS coordenam as manobras nos equipamentos para eliminar as condições
+de risco ou normalizar o sistema após uma perturbação, caso sejam realizadas durante o período de ponta
+de carga do SIN, entre 17h e 22h, conforme as instruções de operação do Submódulo 5.12.
+1.10. Após a ocorrência de desligamento parcial ou geral da instalação, o agente de operação procede ao
+restabelecimento de acordo com as instruções de operação específicas.
+1.11. O agente de operação informa ao Centro de Operação do Sistema – COSR com o qual se relaciona as
+condições da instalação, as informações preliminares sobre as proteções atuadas e a origem da ocorrência.
+1.12. O agente de operação efetua o religamento de qualquer equipamento ou linha de transmissão, no
+restabelecimento das instalações, depois de atendidas as condições para garantir a integridade do
+equipamento definidas pelo agente e as condições para resguardar a segurança da Rede de Operação
+definidas pelo ONS.
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação em contingência 5.6 Operacional 2020.12 01/01/2021
+1.13. Os centros de operação do ONS restabelecem, prioritariamente, as condições de segurança do sistema
+anteriores ao desligamento dos equipamentos de transmissão sem restrição ou impedimento do seu
+funcionamento.
+1.13.1. No caso de múltiplos equipamentos desligados, os centros de operação do ONS restabelecem
+preferencialmente aquele equipamento que agrega maior segurança ao sistema de transmissão.
+1.14. Os centros de operação do ONS adotam providências para o gerenciamento de carga visando o
+restabelecimento das condições operativas definidas, caso todas as medidas para controle de tensão ou
+frequência nos limites de equipamentos e linhas de transmissão sejam esgotadas, conforme descrito no
+Submódulo 5.7 – Gerenciamento da carga.
+2. REFERÊNCIAS
+2.1. Não há referências neste documento.
+3. ANEXOS
+3.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 4 / 4

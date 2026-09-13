@@ -1,0 +1,196 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 3.7-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 3.7-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 3.7
+Planejamento anual de prevenção de
+cheias
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento anual de prevenção de cheias 3.7 Responsabilidades 2020.12 01/01/2021
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Plano Anual de Prevenção de Cheias (PAPC).................................................................................3
+2.2. Regras para Operação de Controle de Cheias...............................................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de geração.......................................................................................................................4
+4. PRAZOS............................................................................................................................................5
+5. REFERÊNCIAS...................................................................................................................................6
+Endereço na internet: http://www.ons.org.br 2 / 6
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento anual de prevenção de cheias 3.7 Responsabilidades 2020.12 01/01/2021
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas dos processos relativos a
+elaboração de um plano anual de prevenção de cheias e de diretrizes para as regras de operação de controle
+de cheias dos sistemas de reservatórios dos aproveitamentos hidroelétricos integrantes do Sistema
+Interligado Nacional (SIN).
+2. PRODUTOS
+2.1. Plano Anual de Prevenção de Cheias (PAPC)
+2.1.1. Apresenta os resultados dos estudos de planejamento da operação hidráulica relativos à prevenção
+de cheias dos sistemas de reservatório dos aproveitamentos hidroelétricos integrantes do SIN, a serem
+utilizados nas atividades de planejamento, programação e operação destes aproveitamentos hidroelétricos.
+2.2. Regras para Operação de Controle de Cheias
+2.2.1. Apresenta as regras para a operação de reservatórios, a serem consideradas na programação da
+operação do SIN, durante a ocorrência de cheias nos sistemas de reservatórios para controle de cheias
+incluídos no PAPC.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Estabelecer, em conjunto com os agentes de geração, a configuração e a classificação dos sistemas
+de reservatórios para controle de cheias nas bacias hidrográficas do SIN.
+(b) Identificar, com a participação facultativa dos agentes de geração, os sistemas de reservatórios para
+os quais serão desenvolvidos os estudos de prevenção de cheias.
+(c) Analisar e consolidar, em conjunto com os agentes de geração, os resultados dos cálculos de volumes
+de espera.
+(d) Avaliar, com a participação dos agentes de geração, os impactos energéticos decorrentes da aplicação
+das alternativas de volumes de espera e os tempos de recorrência correspondentes.
+(e) Manter informadas a Agência Nacional de Energia Elétrica – ANEEL e Agência Nacional de Águas –
+ANA sobre o desenvolvimento dos estudos de prevenção de cheias, com a disponibilização de
+resultados intermediários.
+(f) Elaborar a minuta do PAPC e disponibilizá-la aos agentes de geração.
+(g) Analisar as contribuições dos agentes de geração para a minuta do PAPC e comunicar a esses agentes
+as justificativas para as contribuições que não forem implementadas.
+(h) Disponibilizar o PAPC aos agentes de geração e encaminhá-lo à ANEEL e à ANA, para avaliação.
+(i) Definir, em conjunto com os agentes de geração, as regras para a operação de controle de cheias dos
+sistemas de reservatórios incluídos no PAPC.
+Endereço na internet: http://www.ons.org.br 3 / 6
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento anual de prevenção de cheias 3.7 Responsabilidades 2020.12 01/01/2021
+(j) Elaborar as minutas dos relatórios relativos às Regras para Operação de Controle de Cheias para cada
+um dos sistemas de reservatórios incluídos no PAPC e disponibilizá-las aos agentes de geração
+envolvidos, bem como os dados utilizados e os resultados obtidos.
+(k) Analisar as contribuições dos agentes de geração para as minutas dos relatórios relativos às Regras
+para Operação de Controle de Cheias e comunicar a esses agentes as justificativas para as
+contribuições que não forem implementadas.
+(l) Disponibilizar aos agentes de geração os relatórios relativos às Regras para Operação de Controle de
+Cheias e encaminhá-los à ANEEL e à ANA, para avaliação.
+3.2. Agentes de geração
+(a) Participar do estabelecimento da configuração dos sistemas de reservatórios para controle de cheias
+nas bacias hidrográficas do SIN e da classificação dos sistemas de reservatórios.
+(b) Informar ao ONS os tempos de recorrência propostos a serem utilizados nos estudos de prevenção
+de cheias para a proteção dos pontos de controle a jusante dos reservatórios sob sua responsabilidade
+e, em caso de estes tempos serem diferentes dos adotados no ciclo de planejamento anterior,
+apresentar ao ONS justificativa para essa alteração.
+(c) Participar do estabelecimento das séries históricas de vazões naturais incrementais de médias diárias,
+dos períodos de controle de cheias, dos cenários hidrológicos e da forma de distribuição dos volumes
+de espera.
+(d) Participar da análise e consolidação dos resultados dos cálculos de volumes de espera.
+(e) Analisar a minuta do PAPC e, quando julgar necessário, encaminhar ao ONS suas contribuições para a
+minuta.
+(f) Fornecer ao ONS as informações necessárias para a definição das regras de operação de controle de
+cheias dos sistemas de reservatórios incluídos no PAPC.
+(g) Fornecer ao ONS outros procedimentos próprios, não descritos neste submódulo, para caracterização
+das situações de operação de Alerta e de Emergência em reservatórios sob sua responsabilidade
+incluídos no PAPC.
+(h) Participar da definição das regras para a operação de controle de cheias dos sistemas de reservatórios
+incluídos no PAPC.
+(i) Analisar a minuta do relatório de Regras para Operação de Controle de Cheias dos sistemas de
+reservatórios e, quando julgar necessário, encaminhar ao ONS suas contribuições para a minuta.
+Endereço na internet: http://www.ons.org.br 4 / 6
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento anual de prevenção de cheias 3.7 Responsabilidades 2020.12 01/01/2021
+4. PRAZOS
+Quadro 1 – Prazos para a elaboração do PAPC
+Responsável Prazo Periodicidade
+Atividade
+80 dias úteis
+Configuração e classificação dos sistemas de ONS e agentes
+1 anterior ao 1º dia Anual
+reservatórios para controle de cheias de geração
+útil de setembro
+Identificação dos sistemas de reservatórios
+75 dias úteis
+para controle de cheias para os quais o ONS ONS e agentes
+2 anterior ao 1º dia Anual
+desenvolverá estudos de prevenção de de geração
+útil de setembro
+cheias
+70 dias úteis
+Identificação das informações básicas para o ONS e agentes
+3 anterior ao 1º dia Anual
+estudo de prevenção de cheias de geração
+útil de setembro
+50 dias úteis
+Determinação das séries sintéticas de
+4 ONS anterior ao 1º dia Anual
+vazões naturais incrementais médias diárias
+útil de setembro
+Cálculo dos volumes de espera e avaliação 25 dias úteis
+5 dos impactos energéticos decorrentes da ONS anterior ao 1º dia Anual
+alocação dos volumes de espera útil de setembro
+25 dias úteis
+Análise e consolidação dos resultados dos ONS e agentes
+6 anterior ao 1º dia Anual
+cálculos de volumes de espera de geração
+útil de setembro
+15 dias úteis
+Elaboração e disponibilização da minuta do
+7 ONS anterior ao 1º dia Anual
+PAPC
+útil de setembro
+5 dias úteis
+Agentes de
+8 Análise da minuta do PAPC anterior ao 1º dia Anual
+geração
+útil de setembro
+Análise das contribuições dos agentes de 1º dia útil de
+9 ONS Anual
+geração para minuta do PAPC setembro
+Encaminhamento do PAPC para avaliação da
+1º dia útil de
+10 ANEEL e da ANA e disponibilização aos ONS Anual
+setembro
+agentes de geração
+10 dias úteis após
+11 Implementação do PAPC ONS o 1º dia útil de Anual
+setembro
+Endereço na internet: http://www.ons.org.br 5 / 6
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento anual de prevenção de cheias 3.7 Responsabilidades 2020.12 01/01/2021
+Quadro 2 – Prazos para a elaboração dos relatórios relativos às Regras para Operação de Controle de Cheias
+Atividade Responsável Prazo Periodicidade
+Definição das regras para operação de ONS e agentes de
+1 D - 55 Anual
+controle de cheias geração
+Envio ao ONS de procedimentos próprios para
+Agentes de
+2 caracterização das situações de operação de D - 55 Anual
+geração
+Alerta e Emergência
+Elaboração e disponibilização das minutas de
+3 relatórios relativos às Regras para Operação de ONS D - 40 Anual
+Controle de Cheias
+Análise das minutas de relatórios relativos às Agentes de
+4 D - 30
+Regras para Operação de Controle de Cheias geração Anual
+Análise das contribuições dos agentes de
+geração para as minutas de relatórios relativos
+5 ONS D - 25 Anual
+às Regras para Operação de Controle de
+Cheias
+Envio à ANEEL e ANA dos relatórios relativos às
+Regras para Operação de Controle de Cheias
+6 ONS D - 20 Anual
+para avaliação e disponibilização aos agentes
+de geração
+Implementação das diretrizes que constam nos
+ONS e agentes de
+7 Relatório de Regras para Operação de Controle D - 10 Anual
+geração
+de Cheias
+Nota: D = Dia de início do período de controle de cheias para o sistema de reservatórios para controle de cheias
+considerado.
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 6 / 6

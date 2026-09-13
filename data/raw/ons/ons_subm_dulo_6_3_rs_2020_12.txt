@@ -1,0 +1,139 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.3-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.3-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6. 3
+Elaboração do Relatório de Análise de
+Perturbação
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Elaboração do Relatório de Análise de
+6.3 Responsabilidades 2020.12 01/01/2021
+Perturbação
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Relatório de Análise de Perturbação (RAP)...................................................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de operação.....................................................................................................................3
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIA.....................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Elaboração do Relatório de Análise de
+6.3 Responsabilidades 2020.12 01/01/2021
+Perturbação
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas dos processos relativos à
+Elaboração do Relatório de Análise de perturbação.
+2. PRODUTOS
+2.1. Relatório de Análise de Perturbação (RAP)
+2.1.1. Relatório que consolida a análise das perturbações, investigação das causas dessas perturbações e
+determinação de medidas preventivas e corretivas.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Iniciar a elaboração do Relatório de Análise de Perturbação para as perturbações triadas conforme
+critérios do Submódulo 6.2 - Análise da operação, ocorrências e perturbações e acompanhamento
+das providências.
+(b) Criar e disponibilizar para cada perturbação objeto de análise, um tópico fechado on-line em sistema
+computacional, incluindo o ONS, a Agência Nacional de Energia Elétrica – ANEEL, o Ministério das
+Minas e Energia – MME e os agentes de operação envolvidos para contribuírem, armazenarem e
+consultarem todas as informações relacionadas à perturbação.
+(c) Disponibilizar no tópico fechado on-line da perturbação os dados e as informações necessárias à
+execução da análise da perturbação encontrados em bases de dados e documentos do ONS.
+(d) Convocar os agentes de operação envolvidos na perturbação, a ANEEL e o MME para participarem da
+análise da perturbação.
+(e) Fomentar e convocar a participação, no tópico fechado on-line da perturbação, dos agentes de
+operação direta e indiretamente envolvidas na perturbação, da ANEEL e do MME.
+(f) Coordenar a análise das perturbações.
+(g) Agendar a reunião de análise da perturbação e convocar a participação da ANEEL, do MME e dos
+agentes de operação envolvidos na perturbação.
+(h) Elaborar o RAP fundamentando as eventuais recomendações endereçadas aos agentes de operação
+ou ao ONS.
+(i) Definir com a ANEEL, o MME e os agentes de operação envolvidos na perturbação os prazos para o
+cumprimento das recomendações e para a conclusão das providências em andamento.
+(j) Disponibilizar o RAP, suas minutas e versões finais, no tópico fechado on-line da perturbação e enviá-
+las aos agentes de operação envolvidos na perturbação, ao MME e à ANEEL.
+3.2. Agentes de operação
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Elaboração do Relatório de Análise de
+6.3 Responsabilidades 2020.12 01/01/2021
+Perturbação
+(a) Disponibilizar ao ONS os dados necessários às análises conjuntas das perturbações, no tópico
+fechado on-line.
+(b) Participar da reunião para análise da perturbação e consolidação do RAP.
+(c) Definir, de comum acordo com a ANEEL, o MME e o ONS, os prazos para cumprimento das
+recomendações e para conclusão das providências em andamento sob sua responsabilidade.
+4. PRAZOS
+Quadro 1 - Prazos para Emissão do Relatório de Análise de Perturbação
+Atividade Responsável Prazo
+ONS ou
+Identificação de necessidade de elaboração do RAP
+Agentes De
+1 durante triagem das ocorrências e perturbações Sob demanda
+Operação ou
+descrita no Submódulo 6.2
+ANEEL
+Criação do tópico fechado on-line da análise da até 1 dia útil após a
+2 ONS
+perturbação e convocação de participação no RAP atividade 1
+até 5 dias úteis após a
+3 Convocação da Reunião de Análise da Perturbação ONS
+atividade 1
+Envio e disponibilização no tópico fechado on-line da ONS e
+até 3 dias úteis antes da
+4 perturbação dos dados e registros para possibilitar a Agentes de
+atividade 5
+Análise da Perturbação operação
+ONS,
+Agentes de
+até 10 dias úteis após a
+5 Realização da Reunião de Análise da Perturbação Operação,
+atividade 3
+MME e
+ANEEL
+Elaboração da minuta do RAP, disponibilização da
+minuta do RAP no tópico fechado on-line da até 15 dias úteis após
+6 ONS
+perturbação e envio aos agentes de operação atividade 5
+envolvidos, à ANEEL e ao MME para consolidação
+Agentes de
+Operação, até 5 dias úteis após
+7 Envio de comentários à minuta do RAP
+MME e atividade 6
+ANEEL
+Consolidação do RAP, elaboração da redação final,
+disponibilização dessa versão do RAP no tópico até 5 dias úteis após
+8 ONS
+fechado on-line da perturbação e envio aos agentes atividade 7
+de operação envolvidos, à ANEEL e ao MME.
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Elaboração do Relatório de Análise de
+6.3 Responsabilidades 2020.12 01/01/2021
+Perturbação
+Atividade Responsável Prazo
+Agentes de
+Solicitação de inclusão na versão final do RAP de Operação ou até 5 dias úteis após
+9
+anexo de divergência MME ou Atividade 8
+ANEEL
+Disponibilização da versão final do RAP incluindo os
+anexos de divergências, no tópico fechado on-line da até 1 dia útil após
+10 ONS
+perturbação, e envio aos agentes de operação atividade 9
+envolvidos, à ANEEL e ao MME,
+5. REFERÊNCIA
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 5 / 5

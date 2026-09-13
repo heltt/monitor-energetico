@@ -1,0 +1,27 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 10/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=10/02/2026&jornal=515&pagina=61
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado do Rio Grande do Sul
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 24/2026
+Fase de Autorização de Pesquisa
+Concede anuência e autoriza averbação da cessão parcial de direitos(175)
+811.045/2024-TOP MINE SERRA ENGENHARIA LTDA- Alvará n°10520/2024 - Cessionario:48052.8109742025-81-Bruna Treviso Cenci- CPF ou CNPJ ***.613.110-**
+Fase de Concessão de Lavra
+Determina cumprimento de exigência - Prazo 60 dias(470)
+811.231/1995-COLORMINAS COLORIFICIO E MINERACAO LTDA EM RECUPERACAO JUDICIAL-OF. N°6654/2026
+Fase de Licenciamento
+Concede anuência e autoriza averbação da cessão total de direitos(749)
+810.209/2025-MARCOS J R DO AMARAL- Cessionário:Nelson Danenberg & Cia Ltda- CNPJ 92.141.597/0001-02- Registro de Licença N° 734/2025- Vencimento da Licença: 06/05/2029
+810.930/2009-MARCOS J R DO AMARAL- Cessionário:Nelson Danenberg & Cia Ltda- CNPJ 92.141.597/0001-02- Registro de Licença N° 41/2010- Vencimento da Licença: 26/04/2027
+Determina cumprimento de exigência - Prazo 30 dias(718)
+810.220/2022-PEDRAS SILVEIRA LTDA-OF. N°7152/2026
+JOSE EDUARDO DA COSTA DUARTE
+Gerente Interino

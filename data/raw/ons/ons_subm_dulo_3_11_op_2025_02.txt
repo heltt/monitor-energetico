@@ -1,0 +1,176 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 3.11-OP_2025.02
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 3.11-OP_2025.02.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 3.11
+Análise técnica dos serviços ancilares de
+suporte de reativos, controle secundário
+de frequência e autorrestabelecimento
+integral
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2025.02 Resolução Normativa ANEEL nº 1.112/2025 11/02/2025
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise técnica dos serviços ancilares de
+suporte de reativos, controle secundário de 3.11 Operacional 2025.02 01/03/2025
+frequência e autorrestabelecimento integral
+ÍNDICE
+1. IDENTIFICAÇÃO DO SERVIÇO ANCILAR.............................................................................................3
+2. COLETA E ANÁLISE DOS DADOS........................................................................................................3
+3. REALIZAÇÃO DOS ESTUDOS DE SERVIÇOS ANCILARES......................................................................4
+3.1. Considerações gerais.....................................................................................................................4
+3.2. Estudos para suporte de reativos por unidades geradoras que operam como compensadores
+síncronos ou por centrais geradoras com geração de potência ativa nula...................................4
+3.3. Estudos para controle secundário de frequência..........................................................................5
+3.4. Estudos para autorrestabelecimento integral...............................................................................5
+3.5. Elaboração e disponibilização do Parecer Técnico relativo à prestação de serviços ancilares.....6
+4. REFERÊNCIAS...................................................................................................................................6
+5. ANEXOS...........................................................................................................................................6
+Endereço na internet: http://www.ons.org.br 2 / 6
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise técnica dos serviços ancilares de
+suporte de reativos, controle secundário de 3.11 Operacional 2025.02 01/03/2025
+frequência e autorrestabelecimento integral
+1. IDENTIFICAÇÃO DO SERVIÇO ANCILAR
+1.1. O ONS realiza a análise técnica dos serviços ancilares de suporte de reativos, controle secundário de
+frequência e autorrestabelecimento integral, quando demandados pelos estudos realizados no âmbito do
+acesso ao sistema de transmissão, do planejamento da operação, da programação da operação, da análise
+de perturbações ou de outro estudo técnico realizado pelo ONS.
+1.2. O ONS identifica a necessidade de operação de unidades geradoras como compensadores síncronos ou
+do suporte de potência reativa por centrais geradoras em condição de geração de potência ativa nula nos
+estudos de ampliações e reforços, conforme Submódulo 3.1 – Planejamento da operação elétrica de médio
+prazo.
+1.3. O ONS identifica a necessidade dos serviços de controle secundário de frequência e de
+autorrestabelecimento integral das unidades geradoras no Parecer de Acesso, considerando a capacidade de
+regulação das usinas e a potência instalada, conforme Submódulo 2.10 – Requisitos técnicos mínimos para a
+conexão às instalações de transmissão.
+1.4. O ONS identifica a necessidade da adoção de um serviço ancilar quando da elaboração de um Relatório
+de Análise de Perturbação (RAP) conforme Submódulo 6.3 – Análise de perturbação, de um Relatório de
+Estudo Pré-Operacional conforme Submódulo 7.4 – Estudos pré-operacionais de integração de instalações
+da Rede de Operação, ou outro estudo técnico realizado pelo ONS.
+2. COLETA E ANÁLISE DOS DADOS
+2.1. O ONS obtém os seguintes dados para a análise técnica dos serviços ancilares de suporte de reativos,
+controle secundário de frequência e autorrestabelecimento integral:
+(a) requisitos mínimos para as instalações de transmissão e indicadores de desempenho, conforme
+Módulo 2 – Critérios e requisitos e Módulo 9 – Indicadores;
+(b) informações técnicas do acesso e especificação dos equipamentos e instalações para conexão de uma
+nova instalação, conforme Submódulo 7.1 – Acesso às instalações de transmissão;
+(c) requisitos técnicos para conexão às instalações de transmissão, conforme Submódulo 2.10;
+(d) casos de referência e diretrizes do planejamento da operação elétrica de médio e curto prazo,
+conforme Submódulo 3.1 – Planejamento da operação elétrica de médio prazo, Submódulo 3.3 –
+Planejamento da operação elétrica com horizonte quadrimestral e Submódulo 4.1 – Programação
+mensal da operação elétrica;
+(e) atualização dos limites de transmissão em função das indisponibilidades individuais dos
+equipamentos, conforme os estudos de planejamento da operação elétrica;
+(f) práticas operacionais vigentes, conforme Submódulo 5.12 – Instruções de Operação;
+(g) níveis de curto-circuito, conforme Submódulo 3.12 – Estudos de curto-circuito;
+(h) banco de dados de Sistemas Especiais de Proteção (SEP), conforme Submódulo 7.5 – Implantação de
+Sistemas Especiais de Proteção;
+(i) registros de perturbação de longa duração, conforme Submódulo 7.10 – Implantação do sistema de
+registro de perturbações;
+Endereço na internet: http://www.ons.org.br 3 / 6
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise técnica dos serviços ancilares de
+suporte de reativos, controle secundário de 3.11 Operacional 2025.02 01/03/2025
+frequência e autorrestabelecimento integral
+(j) ajustes de proteção de caráter sistêmico, conforme Submódulo 7.6 – Implantação de proteções de
+caráter sistêmico;
+(k) versões atualizadas dos modelos computacionais para estudos elétricos, conforme Submódulo 2.3 –
+Premissas, critérios e metodologia para estudos elétricos;
+(l) diretrizes e subsídios provenientes dos estudos pré-operacionais de integração de instalações da Rede
+de Operação, conforme Submódulo 7.4;
+(m)dados e modelos de componentes validados para estudos elétricos, conforme Submódulo 3.9 –
+Validação de dados e de modelos de componentes para estudos elétricos;
+(n) ajustes dos controladores de acordo com os estudos de otimização de controladores, conforme
+Submódulo 3.10 – Estudos para segurança operacional elétrica; e
+(o) premissas, critérios e metodologia a considerar na execução e análise das simulações do desempenho
+elétrico do sistema, conforme Submódulo 2.3.
+2.2. O ONS consolida os dados coletados e os disponibiliza aos agentes de operação.
+2.3. O agente de operação confirma os dados consolidados, bem como informa ao ONS eventuais
+incorreções ou necessidade de atualização desses dados.
+3. REALIZAÇÃO DOS ESTUDOS DE SERVIÇOS ANCILARES
+3.1. Considerações gerais
+3.1.1. Com base em modelos para análise de redes em regime permanente e estabilidade eletromecânica, o
+ONS realiza estudos para respaldar a análise técnica dos requisitos de sistema relativos aos seguintes serviços
+ancilares:
+(a) suporte de reativos por unidades geradoras que tenham a possibilidade de operar como
+compensador síncrono ou de centrais geradoras com geração de potência ativa nula;
+(b) controle secundário de frequência; e
+(c) autorrestabelecimento integral.
+3.2. Estudos para suporte de reativos por unidades geradoras que operam como compensadores
+síncronos ou por centrais geradoras com geração de potência ativa nula
+3.2.1. O ONS realiza a análise técnica para definição da necessidade de implementação de dispositivos que
+possibilitem a operação como compensadores síncronos de novos geradores ou de geradores já em operação
+ou da necessidade de suporte de potência reativa por centrais geradoras com geração de potência ativa nula,
+para o que considera os seguintes aspectos:
+(a) suporte de reativos em condições normais e em situações de indisponibilidade de elementos de
+geração e transmissão;
+(b) controle de tensão em condições normais e em saídas intempestivas de elementos de geração e
+transmissão;
+(c) incremento do desempenho dinâmico e dos limites de transmissão para as transferências de energia
+entre regiões;
+Endereço na internet: http://www.ons.org.br 4 / 6
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise técnica dos serviços ancilares de
+suporte de reativos, controle secundário de 3.11 Operacional 2025.02 01/03/2025
+frequência e autorrestabelecimento integral
+(d) contribuição para a redução do despacho térmico;
+(e) controle das excursões de frequência, por meio do aumento da inércia do sistema;
+(f) controle de autoexcitação;
+(g) afastamento das faixas proibitivas de operação de unidades geradoras hidráulicas; e
+(h) otimização do despacho da usina, no sentido de:
+(1) operar as unidades geradoras com maior produtividade;
+(2) evitar a necessidade de limitar a geração de potência ativa das unidades geradoras em função de
+sua capacidade de geração reativa;
+(3) ter comprometimento com a otimização energética, particularmente em condições hidrológicas
+desfavoráveis; e
+(4) fazer frente a restrições de natureza ambiental.
+3.3. Estudos para controle secundário de frequência
+3.3.1. O ONS realiza a análise técnica para definição da necessidade de implementação de dispositivos para
+participação no controle secundário de frequência de novas usinas ou de usinas já em operação, para o que
+considera os seguintes aspectos:
+(a) localização geoelétrica, uma vez que essas novas usinas não devem estar localizadas em extremidades
+de sistemas radiais ou em regiões com restrições no sistema de transmissão;
+(b) desempenho em simulações dinâmicas de longo termo ou o desempenho observado em campo;
+(c) distância elétrica em relação a outras unidades situadas em áreas de controle distintas que já estejam
+prestando serviço de controle secundário de frequência;
+(d) faixas restritivas de operação que podem limitar seu montante de alocação de reserva;
+(e) existência de outras unidades já participantes do controle secundário de frequência em suas
+proximidades, para que não haja problemas decorrentes da concentração da reserva numa mesma
+área elétrica, tais como maiores flutuações de potência seguidas de flutuações de tensão; e
+(f) custo de operação e tipo de processo térmico utilizado, no caso de unidades térmicas, em função da
+influência desses fatores nos tempos de resposta de geração.
+3.4. Estudos para autorrestabelecimento integral
+3.4.1. O ONS realiza a análise técnica para definição da necessidade de implementação de dispositivos para
+garantir o autorrestabelecimento integral de novas usinas ou de usinas já em operação, para o que considera
+os seguintes aspectos:
+(a) aspectos de natureza estratégica, considerando:
+(1) áreas onde não existe um corredor de recomposição fluente, nas quais deve ser verificada a
+necessidade e a viabilidade de criação de uma nova área de recomposição fluente a partir da usina
+sob análise; e
+(2) áreas onde existe apenas uma usina de autorrestabelecimento, nas quais deve ser verificada a
+necessidade e a possibilidade de a usina sob análise ser incluída no procedimento de recomposição
+Endereço na internet: http://www.ons.org.br 5 / 6
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise técnica dos serviços ancilares de
+suporte de reativos, controle secundário de 3.11 Operacional 2025.02 01/03/2025
+frequência e autorrestabelecimento integral
+fluente existente, o que consiste em alternativa para a continuidade e agilidade do processo de
+restabelecimento do sistema.
+(b) restrições sistêmicas ou de equipamentos para propiciar a recomposição do sistema.
+3.5. Elaboração e disponibilização do Parecer Técnico relativo à prestação de serviços ancilares
+3.5.1. O ONS elabora o Parecer Técnico Relativo a Serviço Ancilar e disponibiliza aos agentes de operação ou
+inclui as recomendações pertinentes nos estudos mencionados no item 1.
+4. REFERÊNCIAS
+4.1. Não há referências neste documento.
+5. ANEXOS
+5.1 Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 6 / 6

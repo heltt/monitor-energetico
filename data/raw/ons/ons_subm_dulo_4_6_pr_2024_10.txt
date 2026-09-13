@@ -1,0 +1,226 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 4.6-PR_2024.10
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 4.6-PR_2024.10.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 4.6
+Análise e tratamento dos dados
+hidroenergéticos e previsão e geração
+de cenários de vazões
+Procedimental
+Revisão Motivo da revisão Data de aprovação
+2024.10 Resolução Normativa ANEEL nº 22/10/2024
+1.104/2024
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise e tratamento dos dados
+hidroenergéticos e previsão e geração de 4.6 Procedimental 2024.10 30/10/2024
+cenários de vazões
+ÍNDICE
+1. ANÁLISE E TRATAMENTO DOS DADOS HIDROENERGÉTICOS.............................................................3
+1.1. Obtenção das vazões de usos consuntivos...................................................................................3
+1.2. Reconstituição e consolidação das vazões naturais verificadas....................................................3
+1.3. Cálculo da Energia Natural Afluente e a Energia Armazenada......................................................4
+1.4. Elaboração do Relatório Diário da Situação Hidráulico-Hidrológica e Hidroenergética e do
+Relatório de Acompanhamento da Operação Hidroenergética....................................................4
+1.5. Elaboração e disponiblização do Relatório de Atualização de Séries Históricas de Vazões..........4
+1.6. Análise da rede fluviométrica disponível......................................................................................5
+2. PREVISÃO E GERAÇÃO DE CENÁRIOS DE VAZÕES.............................................................................5
+2.1. Elaboração das previsões de vazões naturais médias diárias.......................................................5
+2.2. Elaboração das previsões de vazões naturais médias semanais e geração de cenários de vazões
+naturais médias mensais...............................................................................................................6
+2.3. Elaboração do Relatório de Previsão de Vazões Diárias e disponibilização..................................6
+2.4. Elaboração do Relatório de Previsão e Geração de Cenários de Vazões e disponibilização.........6
+2.5. Elaboração das previsões de vazões naturais médias mensais.....................................................7
+2.6. Elaboração do Relatório Anual de Avaliação das Previsões de Vazões e disponibilização............7
+3. REFERÊNCIAS...................................................................................................................................7
+4. ANEXOS...........................................................................................................................................7
+Endereço na internet: http://www.ons.org.br 2 / 7
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise e tratamento dos dados
+hidroenergéticos e previsão e geração de 4.6 Procedimental 2024.10 30/10/2024
+cenários de vazões
+1. ANÁLISE E TRATAMENTO DOS DADOS HIDROENERGÉTICOS
+1.1. Obtenção das vazões de usos consuntivos
+1.1.1. O ONS obtém da Agência Nacional de Águas – ANA as estimativas de vazões de usos consuntivos
+médias mensais históricas e as projeções que são relativas às bacias incrementais a montante dos
+aproveitamentos hidroelétricos.
+1.1.2. O ONS, em caso de obtenção de eventuais atualizações de vazões de usos consuntivos da água, pela
+ANA, necessita implementar as alterações com a adequação das séries de vazões naturais.
+1.1.3. Caso seja identificada inconsistência nos dados de uso consuntivos da água, o ONS informa aos agentes
+de geração envolvidos e à ANA.
+1.2. Reconstituição e consolidação das vazões naturais verificadas
+1.2.1. O ONS calcula e consiste as vazões naturais incrementais, conforme critérios estabelecidos no
+Submódulo 2.4 – Critérios para estudos energéticos e hidrológicos, a partir dos dados hidráulicos diários
+consistidos, conforme Submódulo 5.13 – Rotinas Operacionais, com o objetivo de eliminar e/ou minimizar
+os valores negativos e a suavizar grandes oscilações que forem incompatíveis com a natureza da bacia.
+1.2.2. O ONS calcula as vazões naturais totais nos locais dos aproveitamentos hidroelétricos, conforme
+critérios estabelecidos no Submódulo 2.4, a partir das vazões naturais incrementais consistidas, das vazões
+de usos consuntivos da água obtidas, conforme item 1.1, da evaporação líquida obtida conforme
+estabelecido no Submódulo 3.8 – Atualização de dados técnicos dos aproveitamentos hidroelétricos, e das
+vazões naturais totais propagadas dos aproveitamentos de montante.
+1.2.3. O ONS calcula as vazões naturais médias semanais e mensais a partir das vazões naturais médias
+diárias consolidadas.
+1.2.3.1. Para o cálculo das vazões naturais médias semanais é considerada a média dos valores observados
+na semana em estudo do Programa Mensal da Operação Energética (PMO), conforme Submódulo 4.3 –
+Programação Mensal da Operação Energética, e para o cálculo das vazões naturais médias mensais considera
+o mês civil.
+1.2.4. O ONS, com a participação dos agentes de geração, define e/ou revisa, quando necessário, a
+metodologia a ser utilizada na consistência e consolidação de dados hidroenergéticos e na reconstituição de
+vazões naturais para cada aproveitamento hidroelétrico.
+1.2.5. O ONS, quando necessário, convida a Agência Nacional de Energia Elétrica – ANEEL, a ANA, o Ministério
+de Minas e Energia – MME e a Empresa de Pesquisa Energética – EPE para participarem da definição e/ou da
+revisão da metodologia para reconstituição de vazões naturais.
+1.2.6. O ONS pode revisar as séries históricas de vazões naturais médias diárias, semanais e mensais, nos
+seguintes casos:
+(a) definição ou revisão das metodologias; ou
+(b) modificações nos valores de dados hidráulicos dos aproveitamentos, de vazões em estações
+fluviométricas, de vazões de usos consuntivos da água nas bacias incrementais, de evaporação líquida
+dos reservatórios ou de outros dados técnicos necessários ao cálculo das vazões naturais, obtidos
+conforme Submódulo 3.8.
+Endereço na internet: http://www.ons.org.br 3 / 7
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise e tratamento dos dados
+hidroenergéticos e previsão e geração de 4.6 Procedimental 2024.10 30/10/2024
+cenários de vazões
+1.2.7. Em caso de revisão das séries históricas de vazões naturais mensais, o ONS encaminha à ANEEL os
+novos valores obtidos para homologação.
+1.3. Cálculo da Energia Natural Afluente e a Energia Armazenada
+1.3.1. O ONS calcula, conforme critérios estabelecidos no Submódulo 2.4, a Energia Natural Afluente (ENA)
+e a Energia Armazenada (EAR), por aproveitamento, bacia e subsistema do SIN.
+1.3.2. O ONS, com participação facultativa dos agentes de geração, define as metodologias utilizadas para o
+cálculo das ENA e EAR.
+1.4. Elaboração do Relatório Diário da Situação Hidráulico-Hidrológica e Hidroenergética
+1.4.1. O ONS elabora o Relatório Diário da Situação Hidráulico-Hidrológica e Hidroenergética do SIN (RDH),
+que apresenta, no mínimo:
+(a) energias naturais afluentes e as energias armazenadas diárias, semanais e mensais;
+(b) vazões naturais médias diárias, semanais e mensais;
+(c) vazões afluentes e defluentes diárias;
+(d) níveis e os armazenamentos diários verificados; e
+(e) volumes recomendados para controle de cheias.
+1.4.2. O ONS disponibiliza o RDH aos agentes de operação e à ANEEL.
+1.5. Elaboração e disponibilização do Relatório de Atualização de Séries Históricas de Vazões
+1.5.1. O ONS elabora o Relatório de Atualização de Séries Históricas de Vazões em caso de revisão das séries
+de vazões naturais, conforme item 1.2.6. , ou anualmente quando há incorporação de dados de um novo ano
+às séries de vazões adotadas nos estudos para o planejamento e programação da operação eletroenergética
+do SIN.
+1.5.2. O Relatório de Atualização de Séries Históricas de Vazões apresenta:
+(a) Compatibilização das séries históricas de vazões dos aproveitamentos hidroelétricos em expansão,
+obtidas pela ANEEL, com as dos aproveitamentos em operação.
+(1) A metodologia utilizada nessa compatibilização é definida pelo ONS, em conjunto com os agentes
+de geração e com a eventual participação, mediante convite da ANEEL, da ANA, do MME e da EPE.
+(b) Séries de vazões dos denominados postos artificiais.
+(1) Para o cálculo dessas séries é considerado o efeito de qualquer regra de operação preestabelecida
+que possa alterar o regime hidrológico do local, tais como desvios e bombeamentos a montante.
+(2) A metodologia utilizada para cálculo das séries de vazões dos postos artificiais é estabelecida pelo
+ONS, em conjunto com os agentes de geração.
+1.5.3. O ONS disponibiliza em seu site o Relatório de Atualização de Séries Históricas de Vazões e as séries
+históricas de vazões naturais médias diárias e mensais.
+1.6. Análise da rede fluviométrica disponível
+Endereço na internet: http://www.ons.org.br 4 / 7
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise e tratamento dos dados
+hidroenergéticos e previsão e geração de 4.6 Procedimental 2024.10 30/10/2024
+cenários de vazões
+1.6.1. O ONS, sempre que necessário, analisa a rede fluviométrica disponível em cada bacia hidrográfica
+incremental entre aproveitamentos, a partir das informações de estações fluviométricas fornecidas pelos
+agentes de geração, pela ANA e por outras entidades responsáveis por esse tipo de estação.
+1.6.2. O ONS, caso verifique a necessidade de aprimorar a qualidade dos dados das vazões naturais
+verificadas, conforme item 1.2 ou das previsões de vazões, conforme item 2.1, pode propor à ANA e à ANEEL,
+conforme [1], a instalação de novas estações e a implantação de novos sensores e de sistema de coleta e
+transmissão de dados em tempo real em estações existentes.
+1.6.2.1. A proposta deve conter a finalidade de cada nova estação fluviométrica e/ou de cada sistema de
+coleta e referenciar os aproveitamentos relacionados.
+2. PREVISÃO E GERAÇÃO DE CENÁRIOS DE VAZÕES
+2.1. Elaboração das previsões de vazões naturais médias diárias
+2.1.1. O ONS, com a participação facultativa dos agentes de geração, estabelece, além dos aproveitamentos
+hidroelétricos, outros locais para previsão de vazões de interesse da operação do SIN.
+2.1.2. O ONS obtém previsões de vazões naturais médias diárias através dos modelos de previsão de vazões
+considerando os dados de vazões naturais médias diárias verificadas, obtidos conforme item 1.2 e os dados
+meteorológicos, observados e previstos, obtidos conforme Submódulo 4.8 – Acompanhamento e previsão
+meteorológica e climática.
+2.1.3. Os agentes de geração encaminham ao ONS, nos formatos estabelecidos, os valores, sob sua
+responsabilidade, de previsão de vazões naturais médias diárias onde o ONS não disponha de modelo de
+previsão de vazões.
+2.1.4. O ONS analisa, conforme critérios estabelecidos no Submódulo 2.4, os valores de previsão de vazões
+naturais médias diárias encaminhados pelos agentes de geração, com o objetivo de identificar valores que
+apresentem inconsistência.
+2.1.5. O ONS consolida as previsões de vazões naturais médias diárias, com base nas vazões naturais médias
+diárias previstas pelos agentes de geração e pelo próprio ONS, através dos modelos de previsão de vazões,
+definindo os valores adotados.
+2.1.6. Caso seja solicitado pelo ONS, os agentes de geração encaminham informações sobre as metodologias,
+modelos e sistemas computacionais utilizados na obtenção das previsões de vazões naturais médias diárias.
+2.1.7. O ONS, com a participação facultativa dos agentes de geração, analisa a adequação dos modelos para
+obtenção das previsões de vazões diárias.
+2.2. Elaboração das previsões de vazões naturais médias semanais e geração de cenários de vazões
+naturais médias mensais
+2.2.1. O ONS calcula as vazões naturais médias semanais estimadas a serem utilizadas na semana em curso,
+a partir de uma proporcionalidade entre as vazões naturais médias diárias observadas e previstas, conforme
+critérios estabelecidos no Submódulo 2.4.
+2.2.2. O ONS obtém as previsões de vazões naturais médias semanais, a partir da execução de modelo de
+previsão de vazões e considerando as vazões semanais verificadas e estimadas.
+Endereço na internet: http://www.ons.org.br 5 / 7
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise e tratamento dos dados
+hidroenergéticos e previsão e geração de 4.6 Procedimental 2024.10 30/10/2024
+cenários de vazões
+2.2.3. O ONS elabora relatório preliminar, com os resultados não consistidos da previsão de vazões semanais,
+e o disponibiliza publicamente, bem como os arquivos de dados utilizados.
+2.2.4. O ONS analisa os dados de entrada utilizados no processamento dos modelos de previsão de vazões,
+bem como os resultados obtidos. Caso seja identificada alguma incompatibilidade nas informações utilizadas,
+ou na compilação dos resultados, o ONS realiza a adequação da previsão de vazões.
+2.2.5. O ONS calcula as vazões naturais médias mensais estimadas, a serem consideradas para o mês em
+curso, a partir de uma proporcionalidade entre as vazões naturais médias diárias observadas e previstas,
+conforme critérios estabelecidos no Submódulo 2.4.
+2.2.6. O ONS obtém os cenários de vazões naturais médias mensais a partir da utilização de modelo
+estocástico de geração de séries sintéticas e considerando as vazões mensais verificadas e estimadas.
+2.2.7. O ONS analisa os resultados da previsão e da geração de cenários de vazões e elabora relatório
+preliminar, contendo os resultados consistidos da previsão de vazões semanais e da geração de cenários de
+vazões mensais.
+2.2.8. O ONS disponibiliza publicamente o relatório preliminar dos resultados consistidos da previsão de
+vazões semanais e da geração de cenários de vazões mensais, bem como os arquivos de dados utilizados.
+2.2.9. Os agentes envolvidos analisam a previsão os cenários de vazões e, caso sejam identificadas
+incorreções no processamento ou uso dos dados, informam ao ONS.
+2.2.10. O ONS analisa as contribuições dos agentes, efetua os ajustes necessários e apresenta as justificativas
+das contribuições que não forem consideradas.
+2.3. Elaboração do Relatório de Previsão de Vazões Diárias e disponibilização
+2.3.1. O ONS elabora e disponibiliza publicamente o Relatório de Previsão de Vazões Diárias que contém, no
+mínimo, a previsão de vazões naturais médias diárias.
+2.3.2. O ONS disponibiliza publicamente os arquivos de dados utilizados na execução dos modelos de
+previsão de vazões.
+2.4. Elaboração do Relatório de Previsão e Geração de Cenários de Vazões e disponibilização
+2.4.1. O ONS elabora o Relatório de Previsão e Geração de Cenários de Vazões, que contém:
+(a) previsão de vazões naturais médias diárias;
+(b) previsão de vazões naturais médias semanais;
+(c) cenários de vazões naturais médias mensais; e
+(d) previsão de vazões naturais médias mensais.
+2.4.2. O ONS disponibiliza o Relatório de Previsão e Geração de Cenários de Vazões e os arquivos de dados
+utilizados na execução dos modelos de previsão de vazões e nos modelos de geração de cenários de vazões.
+2.4.3. O ONS, com a participação facultativa dos agentes de geração, analisa a adequação dos modelos para
+obtenção das previsões de vazões semanais e mensais e para a geração de cenários de vazões, quando for
+identificada sua necessidade.
+2.5. Elaboração das previsões de vazões naturais médias mensais
+Endereço na internet: http://www.ons.org.br 6 / 7
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Análise e tratamento dos dados
+hidroenergéticos e previsão e geração de 4.6 Procedimental 2024.10 30/10/2024
+cenários de vazões
+2.5.1. O ONS, quando necessário, executa modelos de previsão de vazões e obtém as previsões de vazões
+naturais médias mensais, a serem consideradas como insumo no processo de análise prospectiva das
+condições operativas dos subsistemas que compõem o SIN.
+2.6. Elaboração do Relatório Anual de Avaliação das Previsões de Vazões e disponibilização
+2.6.1. O ONS elabora o Relatório Anual de Avaliação das Previsões de Vazões contendo uma análise dos
+desvios das previsões de vazões do ano anterior, relativas aos valores observados, e o disponibiliza
+publicamente.
+3. REFERÊNCIAS
+[1] ANEEL/ANA. Resolução Conjunta nº 03/2010.
+4. ANEXOS
+4.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 7 / 7

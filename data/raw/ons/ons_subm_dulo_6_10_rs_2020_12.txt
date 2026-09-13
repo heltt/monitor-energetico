@@ -1,0 +1,86 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.10-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.10-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.10
+Avaliação do desempenho dos serviços
+de telecomunicações que atendem a
+operação do Sistema Interligado
+Nacional
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Avaliação do desempenho dos serviços de
+telecomunicações que atendem a operação do 6.10 Responsabilidades 2020.12 01/01/2021
+Sistema Interligado Nacional
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTO........................................................................................................................................3
+2.1. Relatório de Avaliação de Desempenho dos Serviços de Telecomunicações...............................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de operação.....................................................................................................................3
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIA.....................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Avaliação do desempenho dos serviços de
+telecomunicações que atendem a operação do 6.10 Responsabilidades 2020.12 01/01/2021
+Sistema Interligado Nacional
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas dos processos relativos à avaliação
+do desempenho dos serviços de telecomunicações que atendem à Operação do SIN, para verificar se estes
+serviços estão em conformidade com os requisitos estabelecidos no Submódulo 2.15 – Requisitos mínimos
+para telecomunicações.
+2. PRODUTO
+2.1. Relatório de Avaliação de Desempenho dos Serviços de Telecomunicações.
+2.1.1. Relatório contendo a avaliação dos serviços de telecomunicação que atendem à Operação do SIN com
+foco nos canais de comunicação que têm uma de suas extremidades em uma instalação do Operador
+Nacional do Sistema Elétrico – ONS.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Elaborar o Relatório de Avaliação de Desempenho dos Serviços de Telecomunicações.
+(b) Disponibilizar para os agentes de operação o resultado da avaliação de desempenho dos serviços de
+telecomunicações sob sua responsabilidade e comunicar formalmente quando estes não estiverem
+atendendo aos requisitos.
+(c) Analisar as soluções apresentadas pelos agentes de operação cujos serviços de telecomunicações não
+atenderem aos requisitos de disponibilidade definidos no Submódulo 2.15.
+(d) Acompanhar o andamento das atividades propostas pelos agentes de operação para adequar seus
+serviços de telecomunicações aos requisitos.
+3.2. Agentes de operação
+(a) Disponibilizar, quando solicitado pelo ONS, as informações sobre a avaliação de desempenho dos
+serviços de telecomunicações que atendem as instalações teleassistidas sob sua responsabilidade e
+que tenham uma de suas extremidades numa instalação do ONS.
+(b) Apresentar, para análise do ONS, as soluções para os casos em que os serviços sob sua
+responsabilidade não ofereçam mais condições de atender aos requisitos de disponibilidade definidos
+no Submódulo 2.15 e acompanhar o andamento das atividades para atendimento aos requisitos.
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Avaliação do desempenho dos serviços de
+telecomunicações que atendem a operação do 6.10 Responsabilidades 2020.12 01/01/2021
+Sistema Interligado Nacional
+4. PRAZOS
+Quadro 1 - Prazos para disponibilização do Relatório de Avaliação de Desempenho dos Serviços de
+Telecomunicações
+Atividade Responsável Prazo Periodicidade Horizonte
+Indicadores do mês anterior,
+Apurar e divulgar o
+conforme Submódulo 9.6 –
+Relatório de Avaliação de
+8º dia Indicadores de desempenho
+1 Desempenho dos Serviços ONS Mensal
+útil dos sistemas de supervisão e
+de Telecomunicações aos
+controle e dos serviços de
+agentes de operação
+telecomunicações
+5. REFERÊNCIA
+5.1. Não há referências para neste documento.
+Endereço na internet: http://www.ons.org.br 4 / 4

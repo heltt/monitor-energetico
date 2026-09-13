@@ -1,0 +1,24 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Resolução
+TITULO: Int_REN_1.148_2026_STD__002
+DATA_PUBLICACAO: 20/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=20/02/2026&jornal=515&pagina=86
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Energia Elétrica/Diretoria Colegiada
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+270-E. Caso a distribuidora possua menos de 10 categorias de serviços com PSFP diferente de zero, para fins de cálculo do indicador, serão incluídas as categorias com PSFP iguais a zero e com maior número de serviços executados, até se atingir o total de 10 categorias.
+270-F. O ISFP comporá o incentivo econômico Fator Xq sendo utilizado como referência o indicador referente ao ano civil imediatamente anterior ao do processo tarifário.
+270-G. Caso a distribuidora esteja em débito com o envio à ANEEL dos dados relacionados ao cumprimento dos prazos comerciais, serão utilizados, para fins de cálculo do ISFP no fator X, os dados referentes ao último ano civil disponível na ANEEL, majorados em 50%.
+...........................................................................
+Seção 8.5
+Satisfação do Consumidor e Demais Usuários
+Diretrizes gerais
+320. A ANEEL monitorará a satisfação do consumidor e demais usuários com os serviços prestados pela distribuidora de energia por meio dos seguintes indicadores:
+a) Índice ANEEL de Satisfação do Consumidor - IASC;
+b) Índice de Contatos no Sistema de Gestão de Ouvidoria da ANEEL - ICASGO;e
+c) Índice de Satisfação na plataforma consumidor.gov.br - ISgov.
+321. Os indicadores serão apurados anualmente e o desempenho das distribuidoras as sujeitará aos benefícios e penalidades econômicos previstos nos Submódulos 2.5 e 2.5-A dos Procedimentos de Regulação Tarifária - PRORET.
+Apuração dos indicadores

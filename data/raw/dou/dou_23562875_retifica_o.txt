@@ -1,0 +1,13 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Retificação
+TITULO: RETIFICAÇÃO
+DATA_PUBLICACAO: 03/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=03/02/2026&jornal=515&pagina=170
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Secretaria Nacional de Transição Energética e Planejamento
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+RETIFICAÇÃO
+Na tabela do anexo do Despacho Decisório nº 28/2025/SNTEP, Processo nº 48360.000387/2025-06, publicado no Diário Oficial da União em 06 de janeiro de 2026, Edição 3, Seção 1, página 207, onde se lê: "Dados enviados pelas distribuidoras - Referência de envio à ANEEL: novembro/2025", leia-se: "Dados enviados pelas distribuidoras - Referência de envio à ANEEL: dezembro/2025".

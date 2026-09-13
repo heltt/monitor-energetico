@@ -1,0 +1,255 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 3.5-RS_2021.08.docx_379d5986-d9fb-4fb2-8051-7eb4065a0fac
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 3.5-RS_2021.08.docx_379d5986-d9fb-4fb2-8051-7eb4065a0fac.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 3.5
+Consolidação da previsão de carga para
+planejamento da operação
+eletroenergética
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2021.08 Despacho ANEEL nº 2.596/2021 31/08/2021
+Procedimentos de Rede - Módulo 3 – Planejamento da operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+3.5 Responsabilidades 2021.08 17/09/2021
+planejamento da operação eletroenergética
+ÍNDICE
+1. OBJETIVO ..................................................................................................................................... 3
+2. PRODUTOS ................................................................................................................................... 3
+2.1. Previsão de Carga Consolidada para Estudos de Planejamento da Operação Elétrica de Médio
+Prazo .............................................................................................................................................. 3
+2.2. Previsão de Carga Consolidada para Estudos de Planejamento da Operação Elétrica com
+Horizonte Quadrimestral ............................................................................................................... 3
+2.3. Previsão de Carga Consolidada para Estudos de Planejamento da Operação Elétrica com
+Horizonte Mensal .......................................................................................................................... 3
+2.4. Previsão de Carga Consolidada para os Estudos de Planejamento da Operação Energética de
+Médio Prazo e revisões quadrimestrais do ciclo anual de planejamento da operação energética
+....................................................................................................................................................... 3
+2.5. Informe Técnico das Previsões de Carga para os Estudos de Planejamento da Operação
+Energética de Médio Prazo e revisões quadrimestrais do ciclo anual de planejamento da
+operação energética ...................................................................................................................... 3
+3. RESPONSABILIDADES .................................................................................................................... 3
+3.1. Operador Nacional do Sistema Elétrico – ONS .............................................................................. 3
+3.2. Agentes de transmissão, agentes de geração e consumidores livres, potencialmente livres e
+parcialmente livres ........................................................................................................................ 4
+3.3. Agentes de distribuição ................................................................................................................. 4
+4. PRAZOS ........................................................................................................................................ 5
+5. REFERÊNCIAS ................................................................................................................................ 7
+Endereço na internet: http://www.ons.org.br 2 / 7
+Procedimentos de Rede - Módulo 3 – Planejamento da operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+3.5 Responsabilidades 2021.08 17/09/2021
+planejamento da operação eletroenergética
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e etapas de processos relativos à consolidação
+da previsão de carga para os estudosde planejamento da operação elétrica e de planejamento da operação
+energética de médio prazo do Sistema Interligado Nacional (SIN).
+2. PRODUTOS
+2.1. Previsão de Carga Consolidada para Estudos de Planejamento da Operação Elétrica de Médio Prazo
+2.1.1 Apresenta a previsão de carga consolidada, para um horizonte de até 84 meses, a ser considerada nos
+estudos de planejamento da operação elétrica de médio prazo, estabelecido no Submódulo 3.1 –
+Planejamento da operação elétrico de médio prazo.
+2.2. Previsão de Carga Consolidada para Estudos de Planejamento da Operação Elétrica com Horizonte
+Quadrimestral
+2.2.1 Apresenta a previsão de carga consolidada, para um horizonte de até 4 meses, a ser considerada nos
+estudos de planejamento da operação elétrica com horizonte quadrimestral, estabelecido no Submódulo 3.4
+– Planejamento da operação elétrica com horizonte quadrimestral.
+2.3. Previsão de Carga Consolidada para Estudos de Planejamento da Operação Elétrica com Horizonte
+Mensal
+2.3.1 Apresenta a previsão de carga consolidada, para um horizonte de 1 mês, a ser considerada nos estudos
+de planejamento da operação elétrica com horizonte mensal, estabelecido no Submódulo 4.1 –
+Planejamento da operação elétrica com horizonte mensal.
+2.4. Previsão de Carga Consolidada para os Estudos de Planejamento da Operação Energética de Médio
+Prazo e revisões quadrimestrais do ciclo anual de planejamento da operação energética
+2.4.1 Apresenta a previsão de carga consolidada, para um horizonte de até 60 meses, a ser considerada nos
+estudos de planejamento da operação energética de médio prazo, estabelecido no Submódulo 3.3 –
+Planejamento da operação energética de médio prazo.
+2.5. Informe Técnico das Previsões de Carga para os Estudos de Planejamento da Operação Energética
+de Médio Prazo e revisões quadrimestrais do ciclo anual de planejamento da operação energética
+2.5.1 Apresenta os resultados de previsões de carga global e as premissas consideradas para sua elaboração,
+referentes ao horizonte de estudo do planejamento da operação energética de médio prazo.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Informar aos agentes envolvidos os formatos, os meios e os prazos para o encaminhamento dos dados
+necessários para a realização dos processos de consolidação de previsões de carga.
+Endereço na internet: http://www.ons.org.br 3 / 7
+Procedimentos de Rede - Módulo 3 – Planejamento da operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+3.5 Responsabilidades 2021.08 17/09/2021
+planejamento da operação eletroenergética
+(b) Analisar os dados de carga e informações fornecidos pelos agentes e, quando necessário, solicitar
+dados e informações complementares e/ou esclarecimentos ou revisões dos dados e informações
+recebidos.
+(c) Disponibilizar aos agentes os dados utilizados na elaboração da Previsão de Carga Consolidada para
+os Estudos de Planejamento da Operação Energética de Médio prazo, de modo a garantir a
+reprodutibilidade do produto.
+(d) Disponibilizar aos agentes os produtos deste submódulo.
+3.2. Agentes de transmissão, agentes de geração1 e consumidores livres, potencialmente livres e
+parcialmente livres
+(a) Fornecer ao ONS, nos formatos, meios e prazos estabelecidos, os dados e informações necessários
+aos processos de consolidação de previsão de carga.
+(b) Fornecer ao ONS, quando solicitado, esclarecimentos e revisões de dados e informações já
+encaminhados, bem como dados e informações complementares.
+(c) Efetuar, quando necessário, revisões dos dados de carga enviados e comunicar ao ONS as devidas
+justificativas técnicas.
+(d) Tomar providências necessárias para melhoria das previsões de carga e das metodologias adotadas,
+quando forem detectados pelo ONS desvios de previsões de carga elevados ou frequentes, bem como
+incorreções nas informações, informando essas providências ao ONS.
+(e) Participar de reuniões quando convocado pelo ONS.
+3.3. Agentes de distribuição
+(a) Compatibilizar, antes da elaboração das previsões de carga, a topologia da Rede de Simulação do
+estudo com o cronograma de obras, no caso dos processos de consolidação da previsão de carga
+para os estudos elétricos.
+(b) Fornecer ao ONS, nos formatos, meios e prazos estabelecidos, os dados e informações necessários
+aos processos de consolidação de previsões de carga.
+(c) Fornecer ao ONS, e manter atualizada, a lista de usinas e de pontos de intercâmbios considerados na
+composição de sua carga global e dos barramentos.
+(d) Fornecer ao ONS, quando solicitado, esclarecimentos e revisões de dados e informações já
+encaminhados, bem como dados e informações complementares.
+(e) Efetuar, quando necessário, revisões dos dados de carga enviados e comunicar ao ONS as devidas
+justificativas técnicas.
+(f) Informar ao ONS, quando solicitado para efeito de consolidação, sobre as metodologias, modelos e
+sistemas utilizados nas previsões de carga encaminhadas.
+1 No caso dos agentes de geração, são considerados aqueles concessionários de serviço público, autoprodutores e
+produtores independentes.
+Endereço na internet: http://www.ons.org.br 4 / 7
+Procedimentos de Rede - Módulo 3 – Planejamento da operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+3.5 Responsabilidades 2021.08 17/09/2021
+planejamento da operação eletroenergética
+(g) Tomar providências necessárias para melhoria das previsões de carga e das metodologias adotadas,
+quando forem detectados pelo ONS desvios de previsões de carga elevados ou frequentes, bem como
+incorreções nas informações, informando essas providências ao ONS.
+(h) Participar de reuniões quando convocado pelo ONS.
+4. PRAZOS
+4.1 Os prazos para processamento dos dados recebidos pelo ONS são considerados em dias úteis ou no
+último dia útil anterior ao prazo estabelecido.
+4.2 Os agentes envolvidos devem negociar entre si o prazo para o envio dos dados, sem comprometimento
+dos prazos estabelecidos neste submódulo.
+Quadro 1 – Prazos relativos ao termo de referência para consolidação da previsão de carga para estudos elétricos
+Atividade Responsável Prazo Periodicidade
+Elaboração e disponibilização
+1 ONS Até 10 de agosto Anual
+do termo de referência
+Nota: Caso sejam necessárias alterações no termo de referência no decorrer do ano, este é alterado e encaminhado
+aos agentes com 20 dias de antecedência em relação à data de entrega dos dados do próximo estudo, pelos agentes.
+Quadro 2 - Prazos para consolidação da previsão de carga para os estudos de planejamento da operação elétrica de
+médio prazo
+Atividade Responsável Prazo Horizonte Periodicidade
+Agentes de geração,
+84 meses a
+transmissão, distribuição
+20 de partir de janeiro
+1 Envio dos dados e consumidores (livres, Anual
+outubro do ano
+potencialmente livres e
+subsequente
+parcialmente livres)
+84 meses a
+Disponibilização aos
+30 de partir de janeiro
+2 agentes da previsão ONS Anual
+novembro do ano
+de carga consolidada
+subsequente
+Endereço na internet: http://www.ons.org.br 5 / 7
+Procedimentos de Rede - Módulo 3 – Planejamento da operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+3.5 Responsabilidades 2021.08 17/09/2021
+planejamento da operação eletroenergética
+Quadro 3 - Prazos para consolidação da previsão de carga para planejamento da operação elétrica com horizonte
+quadrimestral
+Atividade Responsável Prazo Horizonte Periodicidade
+1º 1º quadrimestre:
+quadrimestre: janeiro a abril do ano
+10 de agosto subsequente
+Agentes de
+transmissão, geração, 2º
+2º quadrimestre: maio
+distribuição e quadrimestre:
+1 Envio dos dados a agosto do ano Quadrimestral
+consumidores (livres, 10 de
+subsequente
+potencialmente livres dezembro
+e parcialmente livres)
+3º 3º quadrimestre:
+quadrimestre: setembro a dezembro
+10 de abril do mesmo ano
+1º 1º quadrimestre:
+quadrimestre: janeiro a abril do ano
+31 de agosto subsequente
+Disponibilização
+2º
+aos agentes da 2º quadrimestre: maio
+quadrimestre:
+2 previsão de ONS a agosto do ano Quadrimestral
+31 de
+carga subsequente
+dezembro
+consolidada
+3º 3º quadrimestre:
+quadrimestre: setembro a dezembro
+30 de abril do mesmo ano
+Endereço na internet: http://www.ons.org.br 6 / 7
+Procedimentos de Rede - Módulo 3 – Planejamento da operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+3.5 Responsabilidades 2021.08 17/09/2021
+planejamento da operação eletroenergética
+Quadro 4 - Prazos para consolidação da previsão de carga para planejamento da operação elétrica com horizonte
+mensal
+Atividade Responsável Prazo Horizonte Periodicidade
+Dados previstos: 2º mês
+Agentes de geração, subsequente
+transmissão,
+Envio dos dados distribuição e Dados verificados de carga
+1 de carga previstos consumidores (livres, Dia 19 global: mês anterior Mensal
+e verificados potencialmente
+livres e parcialmente
+Dados verificados por
+livres)
+barramento: 2º mês anterior
+Disponibilização
+da previsão de
+2 ONS Dia 25 2º mês subsequente Mensal
+carga consolidada
+aos agentes
+Quadro 5 – Prazos para o processo de consolidação da previsão de carga para planejamento da operação energética
+de médio prazo
+Atividade Responsável Prazo Horizonte Periodicidade
+Agentes de geração
+60 meses a partir
+e distribuição e
+1 Envio dos dados 20 de outubro de janeiro do ano Anual
+consumidores
+subsequente
+livres
+Disponibilização aos
+60 meses a partir
+agentes da previsão
+2 ONS 10 de dezembro de janeiro do ano Anual
+de carga
+subsequente
+consolidada
+1ª revisão: 10
+de abril do ano
+Disponibilização aos
+do estudo 60 meses a partir
+agentes da revisão Duas vezes ao
+3 ONS de janeiro do ano
+da previsão de carga ano
+2ª revisão: 10 subsequente
+consolidada
+de agosto do
+ano do estudo
+5. REFERÊNCIAS
+5.1 Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 7 / 7

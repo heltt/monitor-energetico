@@ -1,0 +1,15 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: DESPACHO SSO-ANP Nº 176, DE 30 DE JANEIRO DE 2026
+DATA_PUBLICACAO: 02/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=02/02/2026&jornal=515&pagina=100
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional do Petróleo, Gás Natural e Biocombustíveis/Superintendência de Segurança Operacional
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+DESPACHO SSO-ANP Nº 176, DE 30 DE JANEIRO DE 2026
+A SUPERINTENDENTE DE SEGURANÇA OPERACIONAL DA AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS, no uso das atribuições conferidas pela Portaria ANP nº 265, de 10 de setembro de 2020, tendo em vista o disposto na Resolução ANP nº 43, de 6 de dezembro de 2007, e considerando o que consta no Parecer nº 7/2026/SSO-CSO/SSO/ANP-RJ (SEI nº 5618226), contido no processo nº 48610.223257/2025-42, resolve:
+Aprovar a Documentação de Segurança Operacional (DSO) relativa à Instalação FPSO Atlanta / Operador do Contrato: BRAVA Energia S.A. / Operador da Instalação: Yinson Bouvardia Serviços de Operação Ltda. / Contrato nº 48000.003573/97-91 (Atlanta).
+DANIELA GONI COELHO

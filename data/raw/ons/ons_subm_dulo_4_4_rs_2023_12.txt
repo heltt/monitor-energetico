@@ -1,0 +1,179 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 4.4-RS_2023.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 4.4-RS_2023.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 4.4
+Consolidação da previsão de carga para
+programação eletroenergética
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2023.12 Despacho ANEEL nº 4.714/2023 04/12/2023
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+4.4 Responsabilidades 2023.12 05/12/2023
+programação eletroenergética
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Previsão de Carga Consolidada para o Programa Mensal da Operação........................................3
+2.2. Previsão de Carga de Demanda Diária por Barramento da Rede de Simulação...........................3
+2.3. Previsão da Curva de Carga de Demanda Diária...........................................................................3
+2.4. Intervalos dos Patamares de Carga...............................................................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de geração e consumidores livres, potencialmente livres e parcialmente livres............4
+3.3. Agentes de distribuição.................................................................................................................4
+4. PRAZOS............................................................................................................................................5
+5. REFERÊNCIAS...................................................................................................................................6
+Endereço na internet: http://www.ons.org.br 2 / 6
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+4.4 Responsabilidades 2023.12 05/12/2023
+programação eletroenergética
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas de processos relativas à
+consolidação da previsão da carga para a elaboração do Programa Mensal da Operação Energética e suas
+revisões, a programação diária da operação eletroenergética e para a programação de intervenções em
+instalações da Rede de Operação.
+2. PRODUTOS
+2.1. Previsão de Carga Consolidada para o Programa Mensal da Operação
+2.1.1. Apresenta a previsão de carga consolidada, para um horizonte de até 12 meses a ser considerada nos
+estudos para a elaboração do Programa Mensal da Operação (PMO), estabelecido no Submódulo 4.3 –
+Programação da Operação Energética.
+2.2. Previsão de Carga de Demanda Diária por Barramento da Rede de Simulação
+2.2.1. Apresenta a previsão de carga consolidada a ser considerada nos estudos para a programação de
+intervenções, estabelecida no Submódulo 4.2 – Programação de intervenções em instalações da Rede de
+Operação.
+2.3. Previsão da Curva de Carga de Demanda Diária
+2.3.1. Apresenta a previsão de carga consolidada a ser considerada na programação diária eletroenergética,
+estabelecida no Submódulo 4.5 – Programação Diária da Operação.
+2.4. Intervalos dos Patamares de Carga
+2.4.1. Apresenta os intervalos de duração dos patamares de carga utilizados pela cadeia de modelos
+energéticos.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Informar aos agentes envolvidos os formatos, os meios e os prazos para o encaminhamento dos dados
+necessários para a realização do processo de consolidação de previsão de carga para o PMO.
+(b) Analisar os dados de carga e informações fornecidos pelos agentes e, quando necessário, solicitar
+dados e informações complementares e/ou esclarecimentos ou revisões dos dados e informações
+recebidos para a realização do processo de consolidação de previsão de carga para o PMO e
+programação de intervenções.
+(c) Definir as previsões da carga de subsistemas e de áreas.
+(d) Emitir documentação que contenha metodologias que subsidiem o processo de consolidação da
+previsão de carga.
+(e) Elaborar desagregação das previsões de carga de demanda ativa e reativa por barramento da Rede
+de Simulação para a programação de intervenções em instalações da Rede de Operação.
+Endereço na internet: http://www.ons.org.br 3 / 6
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+4.4 Responsabilidades 2023.12 05/12/2023
+programação eletroenergética
+(f) Elaborar as previsões de carga global em intervalos semi-horários por submercado e áreas.
+(g) Elaborar as estimativas de geração individualizada das usinas classificadas na modalidade de operação
+Tipo III que injetam energia nos sistemas de distribuição e Demais Instalações de Transmissão (DIT).
+(h) Reavaliar os intervalos de duração dos patamares de carga.
+(i) Disponibilizar aos agentes os dados, informações, critérios, procedimentos e metodologias utilizadas
+para consolidação da previsão de carga para programação diária.
+(j) Disponibilizar aos agentes os produtos deste submódulo.
+3.2. Agentes de geração e consumidores livres, potencialmente livres e parcialmente livres
+(a) Fornecer ao ONS, nos formatos, meios e prazos estabelecidos, os dados e informações necessários ao
+processo de consolidação de previsão de carga para o PMO.
+(b) Fornecer ao ONS, quando solicitado, esclarecimentos e revisões de dados e informações já
+encaminhados, bem como dados e informações complementares.
+(c) Efetuar, quando necessário, revisões dos dados de carga enviados e comunicar ao ONS as devidas
+justificativas técnicas.
+(d) Fornecer ao ONS, quando solicitado, nos formatos, meios e prazos estabelecidos, os dados e
+informações necessários para a previsão de carga para a programação de intervenções em instalações
+da Rede de Operação.
+(e) Tomar providências necessárias para melhoria das previsões de carga e das metodologias adotadas,
+quando forem detectados pelo ONS desvios de previsões de carga elevados ou frequentes, bem como
+incorreções nas informações, informando essas providências ao ONS.
+(f) Participar de reuniões quando convocado pelo ONS.
+3.3. Agentes de distribuição
+(a) Fornecer ao ONS, nos formatos, meios e prazos estabelecidos, os dados e informações necessários ao
+processo de consolidação de previsão de carga para o PMO.
+(b) Fornecer ao ONS, quando solicitado, esclarecimentos e revisões de dados e informações já
+encaminhados, bem como dados e informações complementares.
+(c) Fornecer ao ONS, e manter atualizada, a lista de usinas e de pontos de intercâmbios considerados na
+composição de sua carga global.
+(d) Efetuar, quando necessário, revisões dos dados de carga enviados e comunicar ao ONS as devidas
+justificativas técnicas.
+(e) Fornecer ao ONS, quando solicitado, nos formatos, meios e prazos estabelecidos, os dados e
+informações necessários para a previsão de carga para programação de intervenções em instalações
+da Rede de Operação.
+(f) Informar ao ONS, quando solicitado, as premissas utilizadas nas previsões de carga fornecidas ao ONS.
+(g) Tomar providências necessárias para melhoria das previsões de carga e das metodologias adotadas,
+quando forem detectados pelo ONS desvios de previsões de carga elevados ou frequentes, bem como
+incorreções nas informações, informando essas providências ao ONS.
+Endereço na internet: http://www.ons.org.br 4 / 6
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+4.4 Responsabilidades 2023.12 05/12/2023
+programação eletroenergética
+(h) Participar de reuniões quando convocado pelo ONS.
+4. PRAZOS
+Quadro 1 – Prazos para consolidação da previsão de carga para o PMO e suas revisões
+Atividade Responsável Prazo Periodicidade Horizonte
+Informe dos meios, Até o 10º dia útil do
+1 formatos e prazos mês anterior ao mês
+ONS Mensal -
+para o recebimento da consolidação da
+dos dados previsão de carga
+Agentes de geração,
+Até 6 dias úteis
+agentes de Até 12
+2 Envio dos dados anteriores à reunião Mensal
+distribuição e meses
+do PMO
+consumidores livres
+Disponibilização da
+1 dia útil anterior à Até 12
+3 Previsão de Carga ONS Mensal
+reunião do PMO meses
+Consolidada
+Agentes de geração, Até às 12 horas do dia
+Envio de dados para a Semanas
+agentes de útil anterior ao dia da
+4 revisão da Previsão Semanal operativas
+distribuição e realização da revisão
+de Carga Consolidada do PMO
+consumidores livres semanal do PMO
+Disponibilização da Até às 16 horas do dia
+Semanas
+revisão semanal da da realização da
+5 ONS Semanal operativas
+Previsão de Carga revisão semanal do
+do PMO
+Consolidada PMO
+Endereço na internet: http://www.ons.org.br 5 / 6
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+4.4 Responsabilidades 2023.12 05/12/2023
+programação eletroenergética
+Quadro 2 - Prazos para consolidação da previsão de carga para programação de intervenções e para programação
+diária eletroenergética
+Atividade Responsável Prazo Periodicidade
+Consolidação da previsão de carga para Atendendo aos prazos
+1 a programação das intervenções da ONS estabelecidos no -
+Rede de Operação Submódulo 4.2
+Atendendo aos prazos
+Consolidação da previsão de carga para
+2 ONS estabelecidos no Diária
+a programação diária eletroenergética
+Submódulo 4.5
+Quadro 3 - Prazos para divulgação dos Intervalos dos Patamares de Carga
+Atividade Responsável Prazo Periodicidade Horizonte
+Atualização dos Intervalos Ano
+1 ONS 30 de novembro Anual
+dos Patamares de Carga subsequente
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 6 / 6

@@ -1,0 +1,21 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 27/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=27/02/2026&jornal=515&pagina=58
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Superintendência de Outorga de Títulos Minerários
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 67/2026
+Fase de Concessão de Lavra
+Despacho publicado(508)
+850.516/2004-ARAGUAIA NIQUEL METAIS LTDA-AGENTE DE GARANTIA:TMF BRASIL ADMNISTRAÇÃO E GESTÃO DE ATIVOS LTDA - CNPJ: 23.103.490/0001-57,Portaria de Lavra nº 44/2020,concede prévia anuência e AUTORIZA a averbação do Terceiro Aditamento ao Contrato de Penhor.
+850.514/2004-ARAGUAIA NIQUEL METAIS LTDA-AGENTE DE GARANTIA:TMF BRASIL ADMNISTRAÇÃO E GESTÃO DE ATIVOS LTDA - CNPJ: 23.103.490/0001-57,Portaria de Lavra nº 47/2020,concede prévia anuência e AUTORIZA a averbação do Terceiro Aditamento ao Contrato de Penhor.
+850.421/2004-ARAGUAIA NIQUEL METAIS LTDA-AGENTE DE GARANTIA:TMF BRASIL ADMNISTRAÇÃO E GESTÃO DE ATIVOS LTDA - CNPJ: 23.103.490/0001-57,Portaria de Lavra nº 43/2020,concede prévia anuência e AUTORIZA a averbação do Terceiro Aditamento ao Contrato de Penhor.
+850.517/2004-ARAGUAIA NIQUEL METAIS LTDA-AGENTE DE GARANTIA:TMF BRASIL ADMNISTRAÇÃO E GESTÃO DE ATIVOS LTDA - CNPJ: 23.103.490/0001-57,Portaria de Lavra nº 46/2020,concede prévia anuência e AUTORIZA a averbação do Terceiro Aditamento ao Contrato de Penhor.
+ANDRE ELIAS MARQUES
+Superintendente

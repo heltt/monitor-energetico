@@ -1,0 +1,19 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 26/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=26/02/2026&jornal=515&pagina=67
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado do Pará
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 55/2026
+Fase de Concessão de Lavra, decide:
+A classificação da água, estabelecendo as informações para rotulagem - Resolução ANM 157/2024(2786)
+850.046/2006-RIBEIRO CORDEIRO INDUSTRIA E COMERCIO S A- Decisão nº 606/2026 - FONTE NOSSA SENHORA DE FÁTIMA. Processo ANM 48405.850046/2006-40. Concessionária: Ribeiro Cordeiro Indústria e Comércio S. A. CNPJ: 04.905.212/0001-79. Portaria de Lavra nº 125 - DOU de 07/05/2007. Local da fonte: Rodovia PA-408 Km 01 S/N. Estrada de Genipaúba. Bairro Coleipa. CEP 67030-000. Santa Bárbara do Pará. Pará. Características físico-químicas: pH a 25 °C: 4,30 - Temperatura da água na fonte: 27,7 °C - Condutividade elétrica a 25 °C: 33,90 μS/cm - Resíduo de evaporação a 180 °C calculado: 18,02 mg/L. Composição química (mg/L): Nitrato: 4,67 - Silício: 4,411* - Cloreto: 1,31 - Sódio: 0,918 - Sulfato: 0,46 - Potássio: 0,387 - Cálcio: 0,288 - Magnésio: 0,263 - Alumínio: 0,104 - Ferro: 0,036* - Brometo: 0,03*. Boletim nº 596/CPRM/LAMIN-MA/2023 de 13/07/2023. Classificação: ÁGUA MINERAL HIPOTERMAL NA FONTE. Observação: elementos identificados com (*) são informações facultativas na rotulagem, devendo ser informados os mesmos elementos em todos os rótulos da fonte.
+850.046/2006-RIBEIRO CORDEIRO INDUSTRIA E COMERCIO S A- Decisão nº 607/2026 - FONTE SANTA RITA DE CÁSSIA. Processo ANM 48405.850046/2006-40. Concessionária: Ribeiro Cordeiro Indústria e Comércio S. A. CNPJ: 04.905.212/0001-79. Portaria de Lavra nº 125 - DOU de 07/05/2007. Local da fonte: Rodovia PA-408 Km 01 S/N. Estrada de Genipaúba. Bairro Coleipa. CEP 67030-000. Santa Bárbara do Pará. Pará. Características físico-químicas: pH a 25 °C: 4,40 - Temperatura da água na fonte: 28,3 °C - Condutividade elétrica a 25 °C: 27,80 μS/cm - Resíduo de evaporação a 180 °C calculado: 15,98 mg/L. Composição química (mg/L): Silício: 4,283* - Nitrato: 3,43 - Cloreto: 1,26 - Sódio: 0,920 - Sulfato: 0,42 - Potássio: 0,302 - Magnésio: 0,172 - Cálcio: 0,119 - Alumínio: 0,068* - Brometo: 0,04* - Fluoreto: 0,02. Boletim nº 597/CPRM/LAMIN-MA/2023 de 13/07/2023. Classificação: ÁGUA MINERAL FLUORETADA E HIPOTERMAL NA FONTE. Observação: elementos identificados com (*) são informações facultativas na rotulagem, devendo ser informados os mesmos elementos em todos os rótulos da fonte.
+RAIMUNDO QUEIROZ DE ALMEIDA
+Gerente Interino

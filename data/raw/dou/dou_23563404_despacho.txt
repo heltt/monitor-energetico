@@ -1,0 +1,32 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 03/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=03/02/2026&jornal=515&pagina=175
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado do Rio Grande do Sul
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 16/2026
+Fase de Autorização de Pesquisa
+Concede anuência e autoriza averbação da cessão total de direitos(281)
+810.575/2020-MS MINERIOS DO BRASIL LTDA- Cessionário:Gaia Exploração Mineral Ltda- CPF ou CNPJ 37.171.398/0001-39- Alvará n°9563/2023
+Fase de Concessão de Lavra
+Concede prévia anuência e autoriza averbação da transferência da Concessão de Lavra ANM(2199)
+810.763/2014-COLORMINAS COLORIFICIO E MINERACAO LTDA EM RECUPERACAO JUDICIAL- PORTARIA DE LAVRA: 643/1980- Cessionário:Tecnargilas Mineração e Beneficiamento Ltda Em Recuperação Judicial- CNPJ 00.131.723/0001-20
+810.083/2014-COLORMINAS COLORIFICIO E MINERACAO LTDA EM RECUPERACAO JUDICIAL- PORTARIA DE LAVRA: 595/2014- Cessionário:Tecnargilas Mineração e Beneficiamento Ltda Em Recuperação Judicial- CNPJ 00.131.723/0001-20
+810.744/2007-COLORMINAS COLORIFICIO E MINERACAO LTDA EM RECUPERACAO JUDICIAL- PORTARIA DE LAVRA: 20/2022- Cessionário:Tecnargilas Mineração e Beneficiamento Ltda Em Recuperação Judicial- CNPJ 00.131.723/0001-20
+810.177/2018-COLORMINAS COLORIFICIO E MINERACAO LTDA EM RECUPERACAO JUDICIAL- PORTARIA DE LAVRA: 317/2022- Cessionário:Tecnargilas Mineração e Beneficiamento Ltda Em Recuperação Judicial- CNPJ 00.131.723/0001-20
+803.724/1970-COLORMINAS COLORIFICIO E MINERACAO LTDA EM RECUPERACAO JUDICIAL- PORTARIA DE LAVRA: 643/1980- Cessionário:Tecnargilas Mineração e Beneficiamento Ltda Em Recuperação Judicial- CNPJ 00.131.723/0001-20
+811.189/2014-COLORMINAS COLORIFICIO E MINERACAO LTDA EM RECUPERACAO JUDICIAL- PORTARIA DE LAVRA: 301/2024- Cessionário:Tecnargilas Mineração e Beneficiamento Ltda Em Recuperação Judicial- CNPJ 00.131.723/0001-20
+810.654/2018-COLORMINAS COLORIFICIO E MINERACAO LTDA EM RECUPERACAO JUDICIAL- PORTARIA DE LAVRA: 45/2025- Cessionário:Tecnargilas Mineração e Beneficiamento Ltda Em Recuperação Judicial- CNPJ 00.131.723/0001-20
+803.726/1970-COLORMINAS COLORIFICIO E MINERACAO LTDA EM RECUPERACAO JUDICIAL- PORTARIA DE LAVRA: 587/1980- Cessionário:Tecnargilas Mineração e Beneficiamento Ltda Em Recuperação Judicial- CNPJ 00.131.723/0001-20
+006.997/1953-COLORMINAS COLORIFICIO E MINERACAO LTDA EM RECUPERACAO JUDICIAL- PORTARIA DE LAVRA: 43693/1958- Cessionário:Tecnargilas Mineração e Beneficiamento Ltda Em Recuperação Judicial- CNPJ 00.131.723/0001-20
+Fase de Licenciamento
+Concede anuência e autoriza averbação da cessão total de direitos(749)
+810.100/2000-EXTRACAO DE BASALTO ISIDORO FORTUNATO GILIOLI LTDA- Cessionário:Matt Construtora Ltda- CNPJ 00.220.982/0001-27- Registro de Licença N° 1881/2001- Vencimento da Licença: 31/07/2035
+FABRICIO SOUZA DE SOUZA
+Gerente Substituto

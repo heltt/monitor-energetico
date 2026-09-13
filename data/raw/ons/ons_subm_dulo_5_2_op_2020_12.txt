@@ -1,0 +1,97 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 5.2-OP_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 5.2-OP_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 5.2
+Execução de intervenções
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Execução de intervenções 5.2 Operacional 2020.12 01/01/2021
+ÍNDICE
+1. EXECUÇÃO DE INTERVENÇÕES.........................................................................................................3
+2. REFERÊNCIAS...................................................................................................................................4
+3. ANEXOS...........................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Execução de intervenções 5.2 Operacional 2020.12 01/01/2021
+1. EXECUÇÃO DE INTERVENÇÕES
+1.1. O Operador Nacional do Sistema Elétrico – ONS supervisiona e controla a Rede de Operação para o início
+de uma intervenção, em conformidade com o Submódulo 4.2 – Programação de intervenções em instalações
+da Rede de Operação e o Submódulo 2.5 – Critérios para operação, coordenando e supervisionando a
+execução pelo agente.
+1.1.1. O processo de execução de intervenções abrange:
+(a) a liberação e o acompanhamento:
+(1) de todas as intervenções programadas, constantes no Programa Diário de Intervenções
+consolidado (PDI) do Programa Diário de Operação (PDO), a serem executadas em tempo real;
+(2) das intervenções de urgência solicitadas, conforme definido no Submódulo 4.2, que não foram
+consideradas no horizonte de preparação do PDI;
+(3) das intervenções aprovadas em tempo real;
+(4) das intervenções em recursos de comunicação de voz e de dados de instalações da Rede de
+Operação; e
+(5) as intervenções em recursos de supervisão e controle de equipamentos em instalações da Rede
+de Supervisão, cujos critérios de definição são estabelecidos no Submódulo 2.1 – Definição das
+redes do Sistema Interligado Nacional;
+(b) a interrupção da intervenção em função da necessidade premente daquele equipamento ou linha de
+transmissão para a segurança da operação do sistema; e
+(c) a reintegração dos equipamentos e linhas de transmissão após a conclusão da intervenção.
+1.1.2. As equipes de tempo real dos centros de operação do ONS tratam as intervenções de urgência ao
+longo da jornada diária, solicitadas a partir das 15h00min do último dia útil anterior à data pretendida, ou
+em final de semana e feriados.
+1.1.3. Durante o período de ponta de carga do Sistema Interligado Nacional (SIN), compreendido entre as
+17h e 22h, referenciado ao horário de Brasília, as manobras em equipamentos são realizadas conforme os
+critérios definidos no Submódulo 2.5.
+1.2. O agente de operação comunica, em tempo real, as intervenções classificadas como intervenções Tipo
+4, conforme Submódulo 4.2, ao centro de operação do ONS com o qual o agente se relaciona.
+1.2.1. Em função das condições da Rede de Operação, na ocasião, os centros de operação do ONS podem
+vetar a realização dessas intervenções, informando ao agente e registrando em sistema específico os motivos
+para tal negativa.
+1.3. O agente executa a intervenção autorizada e, após conclusão dos trabalhos, a equipe de manutenção
+do agente de operação aguarda, no local, a reenergização do equipamento ou da linha de transmissão.
+Quando, por conveniência operacional, não for possível a sua reenergização imediata, a equipe de
+manutenção pode, a critério do agente, ser liberada.
+1.3.1. Nenhuma intervenção na Rede de Operação pode ser iniciada pelo agente de operação sem que as
+equipes de tempo real do ONS deem sua prévia autorização em tempo real, exceto quando se tratar de ações
+emergenciais para a preservação da segurança de pessoas e instalações.
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Execução de intervenções 5.2 Operacional 2020.12 01/01/2021
+1.3.2. Toda intervenção realizada em instalações do SIN é de responsabilidade integral do agente
+proprietário da instalação, no que se refere à execução do serviço e à segurança das pessoas e dos
+equipamentos envolvidos, incluindo a qualificação dos seus executores, próprios ou terceirizados, para a
+estrita observância aos Procedimentos de Rede.
+1.3.3. Caso ocorra desligamento automático durante intervenção em equipamentos ou linhas transmissão
+energizados, o agente de operação solicitante da intervenção observa o que está previsto nos seus
+procedimentos específicos de segurança preestabelecidos. Estes procedimentos referem-se à segurança de
+instalações, e sua definição é responsabilidade do agente de operação.
+1.3.4. A reintegração de equipamentos ou linha de transmissão ao sistema, independentemente do motivo,
+deve ser precedida de autorização do centro de operação do ONS ao qual cabe controlar as condições em
+que o equipamento ou linha de transmissão é reintegrado ao sistema.
+1.3.4.1. O agente de operação informa ao ONS eventuais alterações de limites, restrições ou modernização
+operacionais, resultantes da intervenção.
+1.3.4.2. Caso a reintegração do equipamento ou linha ocorra no horário de ponta, o centro de operação do
+ONS avalia os riscos de efetuar a reenergização de equipamento e linha de transmissão nesse horário e os
+riscos de postergá-la, em atendimento aos critérios para a reenergização estabelecidos no Submódulo 2.5.
+1.4. Na execução do PDI, os centros de operação do ONS, registram os desvios ocorridos com o não
+cumprimento das recomendações operativas para as intervenções na Rede de Operação e os respectivos
+motivos.
+1.5. O ONS pode reprogramar, prorrogar, cancelar, paralisar ou suspender intervenções na Rede de
+Operação, em função da segurança, da integridade do sistema ou de outras necessidades da operação do
+sistema. Nesse caso, o ONS encaminha aos agentes envolvidos esclarecimentos relativos a tais decisões.
+1.5.1. O ONS registra como reprogramação de intervenção qualquer alteração no PDI executada em tempo
+real, antes do início ou durante a execução da intervenção, em função de mudanças nas condições
+operacionais do sistema e de decisões tomadas pelas equipes de tempo real do ONS.
+1.5.1.1. O registro da reprogramação contém os motivos, os horários de alteração, os agentes envolvidos,
+os executores e as repercussões sobre a operação da Rede de Operação.
+2. REFERÊNCIAS
+2.1. Não há referências neste documento.
+3. ANEXOS
+3.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 4 / 4

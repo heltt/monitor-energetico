@@ -1,0 +1,139 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.13-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.13-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.13
+Emissão de declaração de atendimento
+aos Procedimentos de Rede para
+instalações de geração
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de declaração de atendimento aos
+Procedimentos de Rede para instalações de 7.13 Responsabilidades 2020.12 01/01/2021
+geração
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Declaração de Inexistência de Relacionamento com o ONS (DIR)................................................3
+2.2. Declaração de Atendimento aos Requisitos dos Procedimentos de Rede para Início da
+Operação em Teste (DAPR/T)........................................................................................................3
+2.3. Declaração de Atendimento aos Requisitos dos Procedimentos de Rede para Início da
+Operação Provisória (DAPR/P)......................................................................................................3
+2.4. Declaração de Atendimento aos Requisitos dos Procedimentos de Rede para Início da
+Operação Definitiva (DAPR/D)......................................................................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de geração.......................................................................................................................4
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIAS...................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de declaração de atendimento aos
+Procedimentos de Rede para instalações de 7.13 Responsabilidades 2020.12 01/01/2021
+geração
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas de processos relativos à emissão,
+para empreendimentos de geração, de declaração de atendimento aos requisitos dos Procedimentos de
+Rede para a operação integrada ao Sistema Interligado Nacional (SIN) e de inexistência de relacionamento
+com o Operador Nacional do Sistema Elétrico – ONS.
+2. PRODUTOS
+2.1. Declaração de Inexistência de Relacionamento com o ONS (DIR)
+2.1.1. Declara a inexistência de relacionamento do ONS com a referida unidade geradora.
+2.2. Declaração de Atendimento aos Requisitos dos Procedimentos de Rede para Início da Operação em
+Teste (DAPR/T)
+2.2.1. Declara que as instalações de geração em análise atendem aos requisitos estabelecidos nos
+Procedimentos de Rede para sua operação em teste.
+2.3. Declaração de Atendimento aos Requisitos dos Procedimentos de Rede para Início da Operação
+Provisória (DAPR/P)
+2.3.1. Declara que as instalações de geração em análise atendem aos requisitos estabelecidos nos
+Procedimentos de Rede, com pendências não impeditivas, para sua operação integrada ao SIN em caráter
+provisório.
+2.4. Declaração de Atendimento aos Requisitos dos Procedimentos de Rede para Início da Operação
+Definitiva (DAPR/D)
+2.4.1. Declara que as instalações de geração em análise atendem aos requisitos estabelecidos nos
+Procedimentos de Rede, sem pendências, para sua operação integrada ao SIN em caráter definitivo.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Coordenar o processo de emissão de declarações para a operação integrada ao SIN de agente de
+geração, conforme [1], envolvendo os demais agentes de operação afetados pela integração da
+instalação.
+(b) Emitir DIR e DAPR e encaminhá-las aos agentes de geração em análise e à Agência Nacional de Energia
+Elétrica – ANEEL.
+(c) Acompanhar os prazos, a serem atendidos pelos agentes, quanto às pendências constantes da
+DAPR/P e informar à ANEEL as pendências cujos prazos estão expirados.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de declaração de atendimento aos
+Procedimentos de Rede para instalações de 7.13 Responsabilidades 2020.12 01/01/2021
+geração
+3.2. Agentes de geração
+(a) Tornar-se membro associado do ONS, nos casos em que tal associação for exigida pela
+regulamentação vigente.
+(b) Solicitar ao ONS, nos formatos, meios e prazos estabelecidos, a emissão de declaração específica à
+integração ao SIN ou a declaração de inexistência de relacionamento com o ONS.
+(c) Formalizar ao ONS o compromisso quanto às adequações necessárias para atendimento, dentro dos
+prazos estabelecidos, de quaisquer pendências constantes na sua DAPR/P.
+4. PRAZOS
+Quadro 1 - Prazos para o processo de emissão de DAPR e DIR
+Atividade Responsável Prazo Periodicidade
+Mínimo de 15 dias antes da data
+Agente de
+1 Solicitação da DIR prevista para a entrada em operação -
+geração
+isolada
+Até 10 dias após o protocolo no ONS da
+2 Emissão da DIR ONS solicitação do agente de geração de -
+emissão de DIR
+Agente de Mínimo de 15 dias antes da data
+3 Solicitação da DAPR/T -
+geração prevista para o teste
+Até 10 dias após o protocolo no ONS da
+4 Emissão da DAPR/T ONS solicitação do agente de geração de -
+emissão de DAPR/T
+Após a disponibilização da instalação
+Solicitação da Agente de para operação integrada ao SIN, na
+5 -
+DAPR/P geração existência de pendências não
+impeditivas
+Até 10 dias após o protocolo no ONS da
+6 Emissão da DAPR/P ONS solicitação do agente de geração de -
+emissão de DAPR/P
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de declaração de atendimento aos
+Procedimentos de Rede para instalações de 7.13 Responsabilidades 2020.12 01/01/2021
+geração
+Atividade Responsável Prazo Periodicidade
+Após a disponibilização da instalação
+Solicitação da Agente de
+7 para operação integrada ao SIN, quando -
+DAPR/D geração
+não houver pendências
+Até 10 dias após o protocolo no ONS da
+8 Emissão da DAPR/D ONS solicitação do agente de geração de -
+emissão de DAPR/D
+Informações do 1º trimestre:
+Até o dia 10 de abril
+Informações do 2º trimestre:
+Informação à ANEEL
+Até o dia 10 de julho
+das pendências cujos
+9 ONS Trimestral
+prazos estão
+Informações do 3º trimestre:
+expirados
+Até o dia 10 de outubro
+Informações do 4º trimestre:
+Até o dia 10 de janeiro
+5. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa n° 583, de 22 de outubro de 2013.
+Endereço na internet: http://www.ons.org.br 5 / 5

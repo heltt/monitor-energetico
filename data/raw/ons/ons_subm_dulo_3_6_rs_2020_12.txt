@@ -1,0 +1,77 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 3.6-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 3.6-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 3.6
+Estimativa do Montante Financeiro com
+Encargos de Serviços do Sistema
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estimativa do montante financeiro com
+3.6 Responsabilidades 2020.12 01/01/2021
+Encargos de Serviços do Sistema
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Estimativa do Montante Financeiro com Encargos de Serviços do Sistema e suas revisões........3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+4. PRAZOS............................................................................................................................................3
+5. REFERÊNCIAS...................................................................................................................................3
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estimativa do montante financeiro com
+3.6 Responsabilidades 2020.12 01/01/2021
+Encargos de Serviços do Sistema
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas do processo relativo à estimativa
+do montante financeiro com Encargos de Serviços do Sistema (ESS) associados à geração térmica (por
+restrição de operação) e à estimativa dos custos relativos ao ESS devido à prestação do Serviço Ancilar de
+compensação síncrona, conforme [1].
+2. PRODUTOS
+2.1. Estimativa do Montante Financeiro com Encargos de Serviços do Sistema e suas revisões
+2.1.1. Apresenta as estimativas dos montantes financeiros de ESS associados à geração térmica necessária
+para atender às restrições operativas internas aos submercados (restrição de operação), bem como a
+estimativa dos custos relativos ao ESS devido à prestação do Serviço Ancilar de compensação síncrona. Essas
+estimativas são feitas para um horizonte que abrange uma janela móvel de 12 meses a frente.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Estimar os montantes financeiros anuais de ESS por restrição de operação, bem como estimar os
+custos relativos ao ESS devido à prestação do Serviço Ancilar de compensação síncrona e disponibilizar
+os resultados à ANEEL.
+(b) Enviar informações para a ANEEL quadrimestralmente, atualizando os custos de ESS a serem cobertos
+pelas concessionárias de distribuição.
+4. PRAZOS
+Quadro 1 – Prazos relativos ao processo de cálculo da estimativa do montante financeiro com ESS
+Atividade Responsável Prazo Periodicidade Horizonte
+Cálculo da estimativa e
+Até 31 de Janeiro a dezembro do
+1 disponibilização dos ONS Anual
+outubro ano seguinte
+resultados à ANEEL
+Maio do ano corrente a
+Revisão da estimativa Até 31 de
+2 ONS Anual abril do ano
+encaminhada em outubro março
+subsequente
+Setembro do ano
+Revisão da estimativa Até 31 de
+3 ONS Anual corrente a agosto do
+encaminhada em março julho
+ano subsequente
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estimativa do montante financeiro com
+3.6 Responsabilidades 2020.12 01/01/2021
+Encargos de Serviços do Sistema
+5. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa nº 837, de 18 de dezembro de 2018.
+Endereço na internet: http://www.ons.org.br 4 / 4

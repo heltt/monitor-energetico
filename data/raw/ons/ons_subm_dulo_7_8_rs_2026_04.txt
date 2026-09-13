@@ -1,0 +1,226 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.8-RS_2026.04
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.8-RS_2026.04.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.8
+Avaliação do impacto do acesso ou
+integração à Rede Básica de instalações
+com elementos não lineares ou cargas
+elétricas especiais
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2026.04 Despacho STD nº 1.238/2026 09/04/2026
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Avaliação do impacto do acesso ou integração à
+Rede Básica de instalações com elementos não 7.8 Responsabilidades 2026.04 01/05/2026
+lineares ou especiais
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Parecer Técnico com a análise do estudo de desempenho harmônico (fontes renováveis e/ou
+consumidores livres).....................................................................................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de transmissão, de distribuição, de geração, de importação/exportação e dos
+consumidores livres e potencialmente livres................................................................................4
+3.3. Agentes de transmissão................................................................................................................4
+3.4. Agentes de geração.......................................................................................................................4
+3.5. Agentes de distribuição.................................................................................................................5
+3.6. Consumidores livres e potencialmente livres e agentes de importação/exportação...................5
+4. PRAZOS............................................................................................................................................6
+5. REFERÊNCIAS...................................................................................................................................7
+Endereço na internet: http://www.ons.org.br 2 / 7
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Avaliação do impacto do acesso ou integração à
+Rede Básica de instalações com elementos não 7.8 Responsabilidades 2026.04 01/05/2026
+lineares ou especiais
+1. OBJETIVO
+1.1. O objetivo deste submódulo é atribuir responsabilidades, apresentar os produtos, estabelecer prazos e
+descrever as atividades do processo de Qualidade de Energia Elétrica (QEE) relacionado ao acesso ou
+integração à Rede Básica de instalações que contenham elementos não lineares ou especiais. Nesse sentido,
+são observados os indicadores relacionados à flutuação da tensão, desequilíbrio de tensão e distorção
+harmônica de tensão, a fim de avaliar o impacto da conexão de tais instalações à Rede Básica.
+2. PRODUTOS
+2.1. Parecer Técnico com a análise do estudo de desempenho harmônico (fontes renováveis e/ou
+consumidores livres)
+2.1.1. Apresenta as análises em relação ao estudo de desempenho harmônico realizado com base nas
+correntes certificadas ou no resultado da campanha de corrente, conforme as exigências descritas nos
+Submódulos 2.3 e 2.9, e indica as principais recomendações para que o Agente possa prosseguir, do ponto
+de vista da QEE, com o processo de integração do empreendimento em análise. Aplica-se a centrais geradoras
+eólicas e solares fotovoltaicas. Quanto a consumidores livres com características não lineares, aplica-se em
+casos específicos indicados em Parecer de Acesso.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Avaliar o impacto, em relação à QEE, da conexão dos novos empreendimentos com elementos não
+lineares ou especiais na Rede Básica, com base nos indicadores definidos de flutuação, desequilíbrio
+e distorção harmônica de tensão.
+(b) Identificar violações de limites dos indicadores de flutuação, desequilíbrio e distorção harmônica de
+tensão, diferenciando as questões sistêmicas, para as quais propõe alternativas de solução conforme
+metodologia em vigor, das questões individuais, para as quais solicita providências aos agentes
+responsáveis.
+(c) Disponibilizar os dados relativos a configurações e parâmetros elétricos da Rede Básica, no formato
+dos programas de análise de redes em regime permanente, bem como de análise de estabilidade
+eletromecânica necessários à realização, pelos agentes, dos estudos de impacto associados a novos
+acessos.
+(d) Acompanhar os resultados das medições executadas pelos agentes relativas à apuração dos
+indicadores de desempenho no processo de implantação de conexão de agentes consumidores ou
+empreendimentos de geração às instalações de transmissão sob responsabilidade de concessionárias
+de transmissão ou de instalação de transmissão que tenha equipamentos com características não
+lineares ou especiais, tais como compensadores estáticos e estações retificadoras/conversoras.
+(e) Fornecer aos agentes, mediante consulta, os valores dos indicadores apurados a fim de subsidiar os
+estudos referentes à QEE.
+Endereço na internet: http://www.ons.org.br 3 / 7
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Avaliação do impacto do acesso ou integração à
+Rede Básica de instalações com elementos não 7.8 Responsabilidades 2026.04 01/05/2026
+lineares ou especiais
+3.2. Agentes de transmissão, de distribuição, de geração, de importação/exportação e dos
+consumidores livres e potencialmente livres
+(a) Fornecer os dados e parâmetros do sistema elétrico sob sua responsabilidade para que seja possível
+a modelagem do sistema e a realização de estudos relativos à avaliação do impacto da conexão dos
+novos empreendimentos com elementos não lineares ou especiais.
+(b) Realizar medições e estudos específicos, quando solicitados pelo ONS, relacionados à análise dos
+indicadores relacionados neste submódulo.
+(c) Implementar as ações necessárias nas instalações sob sua responsabilidade com vistas a atender aos
+limites dos indicadores de QEE relacionados neste submódulo.
+(d) Disponibilizar os dados relativos ao sistema de monitoramento sob sua responsabilidade, quando
+solicitados pelo ONS.
+(e) Atender ao compromisso resultante da notificação de ação corretiva.
+3.3. Agentes de transmissão
+(a) Realizar a apuração dos valores dos indicadores de flutuação, desequilíbrio e distorção harmônica de
+tensão, por meio de medições contínuas e campanhas de medição e apresentar os resultados segundo
+formato e prazo estabelecidos pelo ONS.
+(b) Manter o desempenho individual de suas instalações de acordo com o estabelecido no Submódulo
+2.9 – Requisitos mínimos de qualidade de energia elétrica, no que se refere aos indicadores de
+flutuação, desequilíbrio e distorção harmônica de tensão.
+(c) Atender ao estabelecido neste submódulo quanto à necessidade de realização de estudos prévios e
+medições, imediatamente antes e depois da integração à Rede Básica de instalações não lineares ou
+especiais sob sua responsabilidade.
+(d) Implementar as ações necessárias nas instalações sob sua responsabilidade com vistas a atender aos
+indicadores de desempenho de QEE estabelecidos no Submódulo 2.9.
+(e) Instalar um equipamento de monitoração contínua, que atenda aos requisitos estabelecidos no
+Submódulo 2.9.
+(f) Realizar estudos e medições que comprovem o atendimento dos requisitos estabelecidos no
+Submódulo 2.9 quanto a desempenho harmônico no ponto de acoplamento comum (PAC) de
+instalações que contenham elementos não lineares, como os Compensadores Estáticos de Reativos
+(CER) e os sistemas de Corrente Contínua em Alta Tensão (CCAT), e encaminhar ao ONS os resultados
+das medições (na forma de relatório e planilha) realizadas antes e imediatamente após a entrada em
+operação desses equipamentos não lineares.
+3.4. Agentes de geração
+(a) Manter o desempenho individual de suas instalações de acordo com o estabelecido no Submódulo
+2.9, no que se refere aos indicadores de flutuação, desequilíbrio e distorção harmônica de tensão.
+Endereço na internet: http://www.ons.org.br 4 / 7
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Avaliação do impacto do acesso ou integração à
+Rede Básica de instalações com elementos não 7.8 Responsabilidades 2026.04 01/05/2026
+lineares ou especiais
+(b) Atender ao estabelecido neste submódulo quanto à necessidade de realização de estudos prévios e
+medições, imediatamente antes e depois da conexão de instalações não lineares às instalações sob
+responsabilidade de concessionária de transmissão.
+(c) Implementar as ações necessárias nas instalações sob sua responsabilidade com vistas a atender aos
+indicadores de desempenho de QEE estabelecidos no Submódulo 2.9.
+(d) Realizar a apuração dos valores dos indicadores de flutuação, desequilíbrio e distorção harmônica de
+tensão, por meio de medições contínuas e campanhas de medição, e apresentar os resultados
+segundo formato e prazo estabelecidos pelo ONS.
+(e) Instalar um equipamento de monitoração contínua, que atenda aos requisitos estabelecidos no
+Submódulo 2.9.
+3.5. Agentes de distribuição
+(a) Manter o desempenho individual de suas instalações de acordo com o estabelecido no Submódulo
+2.9, no que se refere aos indicadores de flutuação, desequilíbrio e distorção harmônica de tensão.
+(b) Atender ao estabelecido neste submódulo quanto à necessidade de realização de estudos, quando
+necessário, e medições, imediatamente antes e depois da conexão de instalações não lineares às
+instalações sob responsabilidade de concessionária de transmissão.
+(c) Implementar as ações necessárias nas instalações sob sua responsabilidade com vistas a atender aos
+indicadores de desempenho de QEE estabelecidos no Submódulo 2.9.
+(d) Realizar a apuração dos valores dos indicadores de flutuação, desequilíbrio e distorção harmônica de
+tensão, por meio de medições contínuas e campanhas de medição, e apresentar os resultados
+segundo formato e prazo estabelecidos pelo ONS.
+(e) Instalar um equipamento de monitoração contínua, que atenda aos requisitos estabelecidos no
+Submódulo 2.9.
+3.6. Consumidores livres e potencialmente livres e agentes de importação/exportação
+(a) Manter o desempenho individual de suas instalações de acordo com o estabelecido no submódulo
+2.9, no que se refere aos indicadores de flutuação, desequilíbrio e distorção harmônica de tensão.
+(b) Atender ao estabelecido neste submódulo quanto à necessidade de realização de estudos prévios e
+medições, imediatamente antes e depois da conexão de instalações não lineares às instalações sob
+responsabilidade de concessionária de transmissão.
+(c) Implementar as ações necessárias nas instalações sob sua responsabilidade com vistas a atender aos
+indicadores de desempenho de QEE estabelecidos no Submódulo 2.9.
+(d) Realizar a apuração dos valores dos indicadores de flutuação, desequilíbrio e distorção harmônica de
+tensão, por meio de medições contínuas e campanhas de medição, e apresentar os resultados
+segundo formato e prazo estabelecidos pelo ONS.
+(e) Instalar um equipamento de monitoração contínua, que atenda aos requisitos estabelecidos no
+Submódulo 2.9.
+Endereço na internet: http://www.ons.org.br 5 / 7
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Avaliação do impacto do acesso ou integração à
+Rede Básica de instalações com elementos não 7.8 Responsabilidades 2026.04 01/05/2026
+lineares ou especiais
+4. PRAZOS
+Quadro 1 – Prazos para o acesso ou integração à Rede Básica de instalações que contenham elementos não
+lineares
+Atividade Responsável Prazos1
+Agentes de
+20 (vinte) dias úteis antes da
+geração,
+Envio dos resultados da campanha de solicitação da DAPR-T2 e do TLT3
+transmissão
+medição pré tensão ao Operador,
+1
+segundo formato estabelecido pelo Agentes de
+ONS distribuição e 5 (cinco) dias úteis antes da solicitação
+consumidores da DAPR-E4
+livres
+20 (vinte) dias úteis após o envio da
+campanha ao ONS pelo agente de
+geração e transmissão; ou
+Avaliação campanha de medição pré
+2 ONS
+tensão
+5 (cinco) dias úteis após o envio da
+campanha ao ONS pelo agente de
+distribuição e consumidores livres
+20 (vinte) dias úteis após a integração
+completa do empreendimento
+Agentes de (emissão da DAPR-P); e
+Envio dos resultados da campanha de geração
+medição pós-tensão5 ao Operador, 20 (vinte) dias úteis após a
+3
+segundo formato estabelecido pelo implantação da solução de filtragem
+ONS Agentes de 40 (quarenta) dias úteis após entrada
+transmissão, em operação comercial do
+distribuição e empreendimento ou energização com
+consumidor livre carga
+1 A contagem do prazo fica interrompida no período da notificação de pendências pelo ONS até o recebimento das
+informações solicitadas.
+2 DARP-T: Declaração de Atendimento aos Requisitos dos Procedimentos de Rede para Teste
+3 TLT: Termo de Liberação para Teste
+4 DARP-E: Declaração de Atendimento aos Requisitos dos Procedimentos de Rede para Energização
+5 Realizada em 02 momentos: Após a integração completa do empreendimento e após a implantação da solução de
+filtragem.
+Endereço na internet: http://www.ons.org.br 6 / 7
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Avaliação do impacto do acesso ou integração à
+Rede Básica de instalações com elementos não 7.8 Responsabilidades 2026.04 01/05/2026
+lineares ou especiais
+Atividade Responsável Prazos1
+20 (vinte) dias úteis após o envio da
+campanha ao ONS pelo agente de
+geração e transmissão; ou
+Avaliação campanha de medição pós-
+4 ONS
+tensão
+5 (cinco) dias úteis após o envio da
+campanha ao ONS pelo agente de
+distribuição e consumidores livres
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 7 / 7

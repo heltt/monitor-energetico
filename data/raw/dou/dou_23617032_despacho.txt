@@ -1,0 +1,39 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 24/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=24/02/2026&jornal=515&pagina=48
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado do Mato Grosso
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 47/2026
+Fase de Autorização de Pesquisa
+Homologa renúncia da Autorização de Pesquisa(294)
+866.476/2023-RZZ MINERACAO LTDA -Alvará N°6575/2023
+866.241/2023-MIC - MINERACAO IRMAOS CONCEICAO LTDA. -Alvará N°6888/2023
+866.288/2023-C. JOSE FERNANDES -Alvará N°7407/2023
+866.235/2023-PATRÍCIA DE MELO BEBER -Alvará N°4466/2023
+866.182/2023-CLEOCIR RONSONI -Alvará N°5680/2023
+Nega Aprovação ao relatório de pesquisa(318)
+866.162/2022-CLASSIC ROCHAS ORNAMENTAIS LTDA
+867.069/2019-PANTANAL MINERACAO LTDA
+867.108/2019-PANTANAL MINERACAO LTDA
+867.110/2019-PANTANAL MINERACAO LTDA
+867.109/2019-PANTANAL MINERACAO LTDA
+Fase de Concessão de Lavra, decide:
+A classificação da água, estabelecendo as informações para rotulagem - Resolução ANM 157/2024(2786)
+866.177/2014-VITÓRIA RÉGIA ÁGUA MINERAL LTDA- Decisão nº 594/2026 - I - FONTE SÃO LOURENÇO . Processo ANM 48412.866177/2014-60. Concessionária: Vitória Régia Água Mineral Ltda. CNPJ: 24.714.859/0001-20. Portaria de lavra nº 51 - DOU de 28/03/2018. Local da fonte: Rodovia MT 453 - Km 06 - Zona Rural. CEP 78830-000. Dom Aquino. Mato Grosso. Características físico-químicas: pH a 25 °C: 6,42 - Temperatura da água na fonte: 26,4 °C - Condutividade elétrica a 25 °C: 24,8 μS/cm - Resíduo de evaporação a 180 °C calculado: 41,87 mg/L. Composição química (mg/L): Silício: 13,741* - Bicarbonato: 10,87 - Potássio: 4,061 - Sódio: 0,999 - Cálcio: 0,733 - Sulfato: 0,33 - Cloreto: 0,33 - Nitrato: 0,24 - Magnésio: 0,192 - Bário: 0,055 - Fluoreto: 0,03 - Estrôncio: 0,013*. Boletim nº 142/LAMIN/2023 de 07/06/2023. Classificação: ÁGUA MINERAL FLUORETADA HIPOTERMAL NA FONTE. Observação: elementos identificados com (*) são informações facultativas na rotulagem, devendo ser informados os mesmos elementos em todos os rótulos da fonte.
+Fase de Lavra Garimpeira
+Homologa renúncia da Permissão de Lavra Garimpeira(709)
+867.082/2019-COOPERATIVA DOS GARIMPEIROS DO VALE DO RIO PEIXOTO - COOGAVEPE
+Determina arquivamento definitivo do processo(961)
+867.082/2019-COOPERATIVA DOS GARIMPEIROS DO VALE DO RIO PEIXOTO - COOGAVEPE
+Fase de Licenciamento
+Autoriza averbação da Prorrogação do Registro de Licença(742)
+866.514/2013-V DALSOQUIO & CIA LTDA- Registro de Licença N° 15/2017 - Vencimento em 13/01/2029
+JOCY GONÇALO DE MIRANDA
+Gerente

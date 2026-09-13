@@ -1,0 +1,279 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 4.4-OP_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 4.4-OP_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 4.4
+Consolidação da previsão de carga para
+programação eletroenergética
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+4.4 Operacional 2020.12 01/01/2021
+programação eletroenergética
+ÍNDICE
+1. CONSOLIDAÇÃO DA PREVISÃO DE CARGA PARA A ELABORAÇÃO DO PROGRAMA MENSAL DA
+OPERAÇÃO E SUAS REVISÕES...........................................................................................................3
+1.1. Obtenção de dados.......................................................................................................................3
+1.2. Análise e consistência dos dados..................................................................................................4
+1.3. Disponibilização da Previsão de Carga Consolidada para o Programa Mensal da Operação........5
+2. CONSOLIDAÇÃO DA PREVISÃO DE CARGA PARA A PROGRAMAÇÃO DE INTERVENÇÕES...................6
+2.1. Obtenção de dados.......................................................................................................................6
+2.2. Análise e consistência dos dados..................................................................................................7
+2.3. Disponibilização da Previsão de Carga de Demanda por barramento da Rede de Simulação......7
+3. CONSOLIDAÇÃO DA PREVISÃO DE CARGA PARA A PROGRAMAÇÃO DIÁRIA ELETROENERGÉTICA.....7
+3.1. Obtenção de dados.......................................................................................................................7
+3.2. Análise e consistência dos dados e disponibilização da Previsão de Curva de Carga de Demanda
+Diária.............................................................................................................................................7
+4. ANEXOS...........................................................................................................................................8
+ANEXO A – Intervalos horários de patamares de carga...........................................................................8
+5. REFERÊNCIAS...................................................................................................................................8
+Endereço na internet: http://www.ons.org.br 2 / 9
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+4.4 Operacional 2020.12 01/01/2021
+programação eletroenergética
+1. CONSOLIDAÇÃO DA PREVISÃO DE CARGA PARA A ELABORAÇÃO DO PROGRAMA MENSAL DA
+OPERAÇÃO E SUAS REVISÕES
+1.1. Obtenção de dados
+1.1.1. O Operador Nacional do Sistema Elétrico – ONS obtém, para o processo de consolidação da previsão
+de carga para o Programa Mensal da Operação (PMO), os valores de carga declarados nas solicitações e
+pareceres de acesso à Rede Básica, estabelecido conforme Submódulo 7.1 – Acesso às instalações de
+transmissão.
+1.1.2. O ONS disponibiliza, anualmente, no mês de janeiro, aos agentes de geração, agentes de distribuição,
+consumidores livres, potencialmente livres e parcialmente livres, o cronograma anual de envio de dados
+relativos ao processo de consolidação da previsão de carga para o PMO.
+1.1.3. O ONS, mensalmente, divulga aos agentes envolvidos o número de horas dos patamares de carga,
+definidos no Anexo A, a serem considerados no primeiro mês do horizonte do estudo do PMO, bem como os
+formatos, os meios e os prazos estabelecidos para o envio de dados e informações de carga global pelos
+agentes.
+1.1.3.1. A composição da carga global para cada tipo de agente é apresentada no Submódulo 3.5 –
+Consolidação da previsão de carga para planejamento da operação eletroenergética.
+1.1.4. Os agentes envolvidos encaminham ao ONS, nos formatos, meios e prazos estabelecidos os seguintes
+dados:
+(a) Relativos à consolidação da previsão de carga para a elaboração do PMO:
+(1) carga de energia ativa global prevista, em MW médios, com horizonte de até 12 meses com
+detalhamento mensal e, quando solicitado pelo ONS, em patamares de carga;
+(2) carga de energia ativa global prevista, em MW médios, com detalhamento semanal e, quando
+solicitado pelo ONS, em patamares de carga relativos às todas semanas operativas do mês em
+estudo;
+(3) carga de energia ativa global verificada mensal, em MW médios, do mês anterior ao mês de envio
+de dados para o PMO;
+(4) carga de energia ativa global mensal, em MW médios, estimada do mês de envio de dados para o
+PMO; e
+(5) análise qualitativa a respeito das previsões de carga, contendo as premissas adotadas, as variações
+mais significativas em relação às previsões enviadas anteriormente, com suas justificativas, bem
+como quaisquer outras informações que o agente julgar necessárias ao processo de consolidação
+da previsão de carga.
+(b) Relativos à consolidação da previsão de carga para a elaboração da revisão semanal do PMO:
+(1) carga de energia ativa global prevista semanal (em MW médios);
+(2) análise qualitativa a respeito das previsões de carga, contendo as premissas adotadas, as variações
+mais significativas em relação às previsões enviadas anteriormente, com suas justificativas, bem
+como quaisquer outras informações que o agente julgar necessárias ao processo de consolidação
+da previsão de carga.
+Endereço na internet: http://www.ons.org.br 3 / 9
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+4.4 Operacional 2020.12 01/01/2021
+programação eletroenergética
+1.1.5. Os agentes de distribuição enviam ao ONS os dados de geração verificados horários das usinas de
+geração com as seguintes características:
+(a) classificadas na modalidade de operação Tipo III;
+(b) injetam energia na sua Rede de Distribuição ou em DIT localizadas na sua área de concessão; e
+(c) a medição não consta do sistema de supervisão do ONS ou em dados enviados pela CCEE.
+1.1.5.1. O agente de distribuição mantém o cadastro dessas usinas atualizados junto ao ONS.
+1.1.6. No caso de agentes de distribuição, cujos mercados sejam inferiores à 500 GWh/ano, a necessidade
+do envio dos dados de forma direta ao ONS será determinada de acordo com a representatividade da carga
+dos agentes nos estudos energéticos. Caso ONS não julgue necessário, esses agentes devem informar seus
+dados de carga aos agentes de distribuição ao quais estão conectados, os quais, por sua vez, devem incluir
+esses valores em seus dados.
+1.1.7. No caso de autoprodutores e produtores independentes que possuírem usinas não simuladas
+individualmente na mesma planta de suas usinas simuladas individualmente, incluem em seus dados de carga
+a parcela de carga suprida por suas usinas não simuladas individualmente.
+1.1.8. No caso de agentes que tiverem carga em diferentes subsistemas, estes informam em separado os
+dados de carga previstos e verificados de cada subsistema.
+1.1.9. Os consumidores livres, potencialmente livres e parcialmente livres signatários de Contrato de Uso do
+Sistema de Transmissão (CUST) enviam dados de carga diretamente ao ONS. Os dados dos demais
+consumidores são considerados nos dados de carga do agente de distribuição com o qual assinaram Contrato
+de Uso do Sistema de Distribuição (CUSD).
+1.2. Análise e consistência dos dados
+1.2.1. O ONS realiza a consistência preliminar dos dados e informações de carga encaminhados pelos agentes
+e analisa as variações mais significativas. Em caso de dúvida ou divergência, solicita esclarecimentos aos
+agentes envolvidos.
+1.2.2. Caso o agente, ciente das implicações de não-conformidade, não disponibilize seus dados, o ONS
+elabora a previsão de carga para este agente com base nas informações disponíveis em seu banco de dados.
+1.2.3. O ONS altera a previsão encaminhada pelo agente, se for o caso, com a concordância do agente.
+1.2.4. Para todo o horizonte de estudo do PMO, o ONS calcula:
+(a) desvios dos dados de carga previstos com relação à carga de energia ativa global consolidada para os
+estudos de planejamento da operação energética de médio de prazo, em estudos anteriores do PMO
+e por modelos de previsão do ONS;
+(b) variações de carga de energia ativa previstas elaboradas pelos agentes com relação à carga de energia
+ativa verificadas do mesmo mês em anos anteriores e de meses anteriores aos do horizonte de estudo
+do PMO; e
+(c) variações de carga de energia ativa verificadas informadas pelos agentes com relação à carga de
+energia ativa verificada do mesmo mês em anos anteriores e de meses anteriores aos do horizonte
+de estudo do PMO.
+1.2.5. O ONS obtém a previsão de carga de energia ativa global dos subsistemas do Sistema Interligado
+Nacional (SIN), para os meses do horizonte de estudo do PMO, através do somatório das previsões dos
+agentes e das parcelas de perdas da Rede Básica.
+Endereço na internet: http://www.ons.org.br 4 / 9
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+4.4 Operacional 2020.12 01/01/2021
+programação eletroenergética
+1.2.6. O ONS obtém as previsões de carga de energia ativa para os subsistemas e o SIN a partir dos dados
+verificados fornecidos pelo sistema de supervisão do ONS e dos dados verificados fornecidos pela Câmara de
+Comercialização de Energia Elétrica – CCEE apurados no sistema de medição de faturamento dos agentes.
+1.2.6.1. Para a previsão de carga de energia ativa dos subsistemas, o ONS analisa os desvios dos dados
+previstos, as variações previstas e verificadas, conforme sistemática estabelecida no item 1.2.4. deste
+submódulo.
+1.2.7. O ONS consolida a previsão de carga de energia ativa global mensal dos subsistemas e do SIN com
+base na carga de energia ativa global verificada dos subsistemas, nas previsões para os subsistemas e SIN e
+em ajustes que julgar de relevância em função do comportamento de variáveis de influência que possam
+interferir na previsão.
+1.2.8. O ONS desagrega a carga de energia ativa global mensal dos subsistemas e do SIN em carga semanal,
+utilizando-se de valores em banco de dados do ONS, e obtém, para o primeiro mês do estudo do PMO, a
+previsão de carga de energia ativa global mensal e semanal por subsistema e por patamar de carga definido
+no Anexo A. Para os demais meses do horizonte de estudo do PMO, o ONS consolida a previsão de carga de
+energia ativa global mensal por subsistema e por patamar de carga.
+1.2.9. Com base nos fatores de carga apurados, o ONS obtém as previsões de carga de demanda ativa global
+mensal para os subsistemas e SIN.
+1.2.10. Para o processo de revisão semanal dos dados de previsão de carga de energia ativa do primeiro mês
+do estudo do PMO, o ONS considera os passos do processo de previsão mensal que sejam pertinentes à
+revisão semanal.
+1.2.11. A previsão de carga de energia ativa total de uma revisão semanal é apresentada pelo ONS por
+patamar de carga, por subsistema e para o SIN.
+1.3. Disponibilização da Previsão de Carga Consolidada para o Programa Mensal da Operação
+1.3.1. O ONS elabora o documento Previsão de Carga Consolidada para o Programa Mensal da Operação e
+o disponibiliza, contendo, para todo o horizonte do estudo, a previsão de carga de energia, por patamar e
+por subsistema, sendo que para o primeiro mês de estudo detalhadas para cada semana operativa.
+1.3.2. O ONS elabora os relatórios de acompanhamento mensal e semanal da carga, atualizados com os
+dados obtidos durante o processo, e o disponibiliza aos agentes, bem como os períodos horários dos
+patamares de carga mensais utilizados no PMO.
+Endereço na internet: http://www.ons.org.br 5 / 9
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+4.4 Operacional 2020.12 01/01/2021
+programação eletroenergética
+2. CONSOLIDAÇÃO DA PREVISÃO DE CARGA PARA A PROGRAMAÇÃO DE INTERVENÇÕES
+2.1. Obtenção de dados
+2.1.1. O ONS, quando necessário, solicita aos agentes envolvidos os seguintes dados para a consolidação da
+previsão de carga para o estudo da programação de intervenções, estabelecido no Submódulo 4.2 –
+Programação de intervenções em instalações da Rede de Operação:
+(a) previsão de carga de demanda ativa global, com o intervalo de integralização de 1 hora, para os dias
+e horários definidos pelo ONS.
+(b) previsão de carga de demanda ativa e reativa associada, por barramento da Rede de Simulação, com
+intervalo de integralização de 1 hora, para os dias e horários definidos pelo ONS.
+2.1.1.1. No caso de agentes de distribuição cujos mercados sejam inferiores à 500 GWh/ano, a necessidade
+do envio dos dados de forma direta ao ONS será determinada de acordo com a representatividade da carga
+destes agentes no estudo da programação de intervenções. Caso o ONS não julgue necessário, esses agentes
+devem informar seus dados de carga aos agentes de distribuição ao quais estão conectados, os quais, por
+sua vez, devem incluir esses valores em seus dados.
+2.1.1.2. O envio dos dados de carga dos agentes de distribuição, referentes à unidade consumidora auto-
+suprida e à central geradora, dos produtores independentes e autoprodutores, detentores de usinas
+classificadas nas modalidades de operação Tipo II-B e Tipo III, deve ser realizado, separadamente e sem incluí-
+los em sua carga global, quando atenderem simultaneamente às seguintes condições:
+(a) estão conectados à Rede de Distribuição ou nas Demais Instalações de Transmissão (DIT) em sua área
+de concessão;
+(b) a unidade consumidora está localizada no mesmo local que a referida central geradora; e
+(c) a referida central geradora está representada na Rede de Simulação dos estudos elétricos.
+2.1.1.3. No caso de autoprodutores e produtores independentes, enviam dados diretamente ao ONS
+somente aqueles que possuem usinas classificadas nas modalidades de operação:
+(a) Tipo I ou Tipo II-A ou Tipo II-C.
+(1) em relação aos agentes detentores de usinas classificadas na modalidade de operação Tipo II-C, as
+responsabilidades deverão ser cumpridas por meio do respectivo representante do conjunto de
+usinas a que elas pertencem.
+(b) Tipo II-B ou Tipo III, se conectadas à Rede Básica ou à instalação de transmissão de Interesse Exclusivo
+de Centrais de Geração para Conexão Compartilhada (ICG).
+2.1.1.4. No caso de autoprodutores e produtores independentes que possuírem usinas classificadas na
+modalidade de operação Tipo II-B ou Tipo III conectadas à Rede de Distribuição ou DIT, seus dados são
+considerados nos dados enviados pelo agente de distribuição com o qual assinaram CUSD.
+2.1.2. No caso de agentes que tiverem carga em diferentes subsistemas, estes informam em separado os
+dados de carga previstos e verificados de cada subsistema.
+2.1.3. Os consumidores livres, potencialmente livres e parcialmente livres signatários de CUST enviam dados
+diretamente ao ONS. Os dados dos demais consumidores são considerados nos dados enviados pelo agente
+de distribuição com o qual assinaram CUSD.
+Endereço na internet: http://www.ons.org.br 6 / 9
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+4.4 Operacional 2020.12 01/01/2021
+programação eletroenergética
+2.2. Análise e consistência dos dados
+2.2.1. O ONS, quando necessário, interage com os agentes envolvidos no processo de previsão de carga para
+o estudo da programação de intervenções para esclarecimentos ou revisão dos dados analisados.
+2.2.2. O ONS elabora, quando necessário, a desagregação das previsões de carga de demanda ativa e reativa
+por barramento da Rede de Simulação para a programação de intervenções em instalações da Rede de
+Operação, a partir da previsão carga global informada pelos agentes e dos casos de fluxo de potência dos
+estudos elétricos mensais ou quadrimestrais, conforme metodologia adotada pelo ONS, constante em nota
+técnica.
+2.2.3. O ONS avalia a necessidade de envio pelos agentes envolvidos, na intervenção programada, as
+alterações da previsão de carga por barramentos da Rede de Simulação informada para o estudo mensal ou
+quadrimestral, conforme Submódulo 3.5, tomando como base as informações de dados verificados por
+barramentos disponíveis.
+2.3. Disponibilização da Previsão de Carga de Demanda por barramento da Rede de Simulação
+2.3.1. O ONS disponibiliza a Previsão de Carga de Demanda por barramento da Rede de Simulação para os
+dias e horários previamente definidos nos estudos para programação de intervenções, conforme Submódulo
+4.2.
+3. CONSOLIDAÇÃO DA PREVISÃO DE CARGA PARA A PROGRAMAÇÃO DIÁRIA ELETROENERGÉTICA
+3.1. Obtenção de dados
+3.1.1. O ONS considera para o processo de previsão de carga para a programação diária eletroenergética,
+estabelecida no Submódulo 4.5 – Programação Diária da Operação, os valores de carga global obtidos a partir
+do sistema de medição de supervisão do ONS, dos dados de medição de geração de usinas não
+supervisionadas que injetam na Rede de Distribuição informados pela CCEE e de dados de medição de
+geração, que não estão disponíveis na CCEE, enviados pelos agentes de distribuição.
+3.2. Análise e consistência dos dados e disponibilização da Previsão de Curva de Carga de Demanda Diária
+3.2.1. O ONS elabora as previsões de curvas de carga em intervalos semi-horários referentes às áreas e
+subsistemas.
+3.2.2. O ONS utiliza o modelo de previsão de carga PrevCargaDESSEM em conjunto com outros modelos,
+inclusive desenvolvidos pelo próprio ONS.
+3.2.3. O ONS considera também outras informações para definição dos valores previstos da curva de carga
+diária, como: informações obtidas internamente de variáveis meteorológicas previstas para o dia da
+operação e de eventos especiais que possam incorrer em um comportamento atípico da curva de carga
+diária.
+3.2.4. O ONS considera as perdas na Rede Básica na carga dos subsistemas.
+3.2.4.1. No caso de necessidade de envio de previsões encaminhadas pelos agentes envolvidos, estas serão
+analisadas e consideradas ou não para as previsões de áreas e subsistemas.
+3.2.5. O ONS disponibiliza a Previsão de Curva de Carga de Demanda Diária por áreas, subsistemas e SIN.
+Endereço na internet: http://www.ons.org.br 7 / 9
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+4.4 Operacional 2020.12 01/01/2021
+programação eletroenergética
+4. ANEXOS
+ANEXO A – Intervalos horários de patamares de carga
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 8 / 9
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+4.4 Operacional 2020.12 01/01/2021
+programação eletroenergética
+ANEXO A – Intervalos horários de patamares de carga
+Intervalos horários de patamares de carga diária de energia – Leve, Média e Pesada
+Maio a Agosto Abril, Setembro e Outubro Novembro a Março
+Patamar de carga
+2ª a 6ª feira Sábado, domingo 2ª a 6ª feira Sábado, domingo 2ª a 6ª feira Sábado, domingo e
+e feriado e feriado feriado
+1ª h à 18ª h 1ª h à 18ª h 1ª h à 20ª h
+Leve 01ª h à 7ª h 1ª h à 8ª h 1ª h à 8ª h
+23ª h à 24ª h 23ª h à 24ª h 24ª h
+8ª h à 10ª h 09ª h à 10ª h 09ª h à 10ª h
+Média 19ª h à 22ª h 19ª h à 22ª h 21ª h à 23ª h
+23ª h à 24ª h 21ª h à 24ª h 19ª h à 24ª h
+Pesada 11ª h à 22ª h - 11ª h à 20ª h - 11ª h à 18ª h -
+Nota: Os horários a serem considerados neste processo referem à hora oficial de Brasília. O intervalo horário é composto
+pelo primeiro minuto após a hora anterior, até a hora em seguinte (inclusive). Exemplo: A 1ª h vai do primeiro minuto
+após a hora 24 do dia anterior até a hora 1 do dia seguinte.
+Endereço na internet: http://www.ons.org.br 9 / 9

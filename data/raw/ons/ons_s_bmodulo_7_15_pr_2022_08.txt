@@ -1,0 +1,676 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Súbmodulo 7.15-PR_2022.08
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Súbmodulo 7.15-PR_2022.08.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.15
+Emissão de Termo de Liberação para
+instalações de transmissão
+Procedimental
+Revisão Motivo da revisão Data de aprovação
+2022.08 Despacho ANEEL nº 1.772/2022 10/08/2022
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de Termo de Liberação para instalações
+7.15 Procedimental 2022.08 16/08/2022
+de transmissão
+ÍNDICE
+1. EMISSÃO DOS TERMOS DE LIBERAÇÃO PARA AS FUNÇÕES TRANSMISSÃO COM ESTABELECIMENTO
+PRÉVIO DE RECEITA ...................................................................................................................... 3
+1.1. Solicitação dos Termos de Liberação............................................................................................. 3
+1.2. Emissão do Termo de Liberação para Teste (TLT) ......................................................................... 3
+1.3. Emissão do Termo de Liberação com Pendências (TLP)................................................................ 4
+1.4. Acompanhamento e gestão dos prazos das Pendências Não Impeditivas Próprias ..................... 5
+1.5. Emissão do Termo de Liberação de Receita (TLR) ......................................................................... 5
+1.6. Acompanhamento das Pendências Impeditivas de Terceiros e das Pendências Impeditivas de
+Caráter Sistêmico ........................................................................................................................... 7
+1.7. Emissão do Termo de Liberação Definitivo (TLD) .......................................................................... 8
+1.8. Anulação de Termos de Liberação ................................................................................................ 8
+2. EMISSÃO DE RELATÓRIO DE INTEGRAÇÃO DE REFORÇOS E MELHORIAS SEM RECEITA PREVIAMENTE
+ESTABELECIDA .............................................................................................................................. 9
+3. REFERÊNCIAS ................................................................................................................................ 9
+4. ANEXOS........................................................................................................................................ 9
+ANEXO A – Declaração de Conformidade para Solicitação de Termo De Liberação ............................. 10
+ANEXO B – Relatório Comprobatório de Pendências Impeditivas de Terceiros ou de Caráter Sistêmico
+..................................................................................................................................................... 14
+ANEXO C – Requisitos Impeditivos para Emissão de Termos de Liberação para Ampliações, Reforços e
+Melhorias (Rede Básica, DIT, ICG e IEG) ...................................................................................... 15
+Endereço na internet: http://www.ons.org.br 2 / 17
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de Termo de Liberação para instalações
+7.15 Procedimental 2022.08 16/08/2022
+de transmissão
+1. EMISSÃO DOS TERMOS DE LIBERAÇÃO PARA AS FUNÇÕES TRANSMISSÃO COM ESTABELECIMENTO
+PRÉVIO DE RECEITA
+1.1. Solicitação dos Termos de Liberação
+1.1.1. O agente de transmissão solicita os termos de liberação por Função Transmissão (FT) ou Grupo de FT,
+conforme definido no contrato de concessão ou ato autorizativo, em sistema computacional do ONS.
+1.1.1.1. A solicitação dos termos de liberação para FT ou Grupo de FT associados a seccionamento de linhas
+de transmissão deverá ser feita em conjunto, quando agente de transmissão responsável pela implantação
+do seccionamento for diferente do agente de transmissão responsável pela linha de transmissão a ser
+seccionada.
+1.1.2. Antes de solicitar os termos de liberação, o agente de transmissão deve atender aos requisitos e
+prazos estabelecidos nos Procedimentos de Rede e nos contratos de concessão ou atos autorizativos para
+envio das informações requeridas no processo de integração de FT ou Grupo de FT, sem pendências
+impeditivas próprias.
+1.1.2.1. Para o caso de Grupo de FT, os requisitos e prazos devem ser atendidos para todas as FT do Grupo
+quando da solicitação de Termo de Liberação com Pendências (TLP), Termo de Liberação de Receita (TLR) ou
+Termo de Liberação Definitivo (TLD).
+1.1.2.2. O ONS negará a emissão de Termo de Liberação caso o agente de transmissão não atenda aos prazos
+estabelecidos e isso impacte no processo de emissão do termo de liberação.
+1.2. Emissão do Termo de Liberação para Teste (TLT)
+1.2.1. O agente de transmissão solicita ao ONS o TLT contendo a Declaração de Conformidade para
+Solicitação de TL apresentada no ANEXO A.
+1.2.1.1. Caso existam Pendências Impeditivas de Terceiros ou de Caráter Sistêmico que impeçam a realização
+do teste com carga, o agente de transmissão indica essas pendências na Declaração apresentada no ANEXO
+A.
+1.2.1.2. O agente de transmissão pode solicitar o TLT por FT ou para parte de uma FT, mesmo que a FT seja
+parte de um Grupo de FT.
+1.2.1.3. O agente de transmissão está dispensado de solicitar TLT para reforços e melhorias em instalações
+não classificadas como Rede Básica ou como destinadas às interligações internacionais.
+1.2.2. O ONS elabora e emite o TLT, após a verificação do atendimento aos requisitos impeditivos dos
+Procedimentos de Rede para operação em teste exemplificados no ANEXO C, contendo:
+(a) a identificação do agente de transmissão;
+(b) a identificação do contrato de concessão ou do ato autorizativo que outorgou as ampliações, reforços
+ou melhorias;
+(c) a identificação das FT associadas às ampliações, reforços ou melhorias em implantação;
+(d) a descrição das ampliações, reforços ou melhorias; e
+(e) a relação das Pendências Não Impeditivas, os eventuais requisitos não atendidos, as adequações
+necessárias e os respectivos prazos para a solução dos mesmos.
+1.2.3. O ONS informa ao agente de transmissão da emissão do TLT.
+Endereço na internet: http://www.ons.org.br 3 / 17
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de Termo de Liberação para instalações
+7.15 Procedimental 2022.08 16/08/2022
+de transmissão
+1.2.4. Caso existam Pendências Impeditivas Próprias do agente de transmissão para Operação em Teste da
+FT ou Grupo de FT, o ONS nega a emissão do TLT e informa ao agente de transmissão os impedimentos
+verificados.
+1.2.4.1. Após a solução das Pendência Impeditivas de Terceiros ou das Pendências Impeditivas de Caráter
+Sistêmico para Operação em Teste da instalação, o agente de transmissão realiza nova solicitação de TLT ao
+ONS.
+1.3. Emissão do Termo de Liberação com Pendências (TLP)
+1.3.1. O agente de transmissão solicita ao ONS o TLP contendo a Declaração de Conformidade para
+Solicitação de TL apresentada no ANEXO A.
+1.3.2. O ONS elabora e emite o TLP, após a verificação do atendimento aos requisitos impeditivos dos
+Procedimentos de Rede para operação em comercial com pendências não impeditivas exemplificados no
+ANEXO C, contendo:
+(a) a identificação do agente de transmissão;
+(b) a identificação do contrato de concessão ou do ato autorizativo que outorgou as ampliações, reforços
+ou melhorias;
+(c) a identificação das FT associadas às ampliações, reforços ou melhorias integradas;
+(d) a descrição das ampliações, reforços ou melhorias;
+(e) a relação das Pendências Não Impeditivas Próprias, dos eventuais requisitos não atendidos, das
+adequações necessárias e os respectivos prazos para a solução de cada um;
+(f) as datas acordadas e executadas de início e término da Operação em Teste das ampliações, reforços
+ou melhorias; e
+(g) a data de entrada em Operação Comercial com Pendências, que deve ser igual ou posterior às datas:
+(1) de conclusão dos testes de comissionamento e integração;
+(2) de efetiva disponibilização para operação declarada em tempo real;
+(3) de solução das Pendências Impeditivas Próprias à operação integrada ao SIN;
+(4) de solução das Pendências Impeditivas de Terceiros ou Pendências Impeditivas de Caráter
+Sistêmico à operação integrada ao SIN;
+(5) de solicitação do TLP ao ONS; e
+(6) estabelecida no contrato de concessão ou ato autorizativo.
+1.3.2.1. Para FT ou Grupo de FT não classificada como Rede Básica ou destinada à interligação internacional,
+o ONS emite o TLP no Relatório Trimestral de Termos de Liberação para Reforços em Instalações de
+Transmissão não integrantes da Rede Básica.
+1.3.3. O ONS informa ao agente de transmissão e à ANEEL a emissão do TLP.
+1.3.4. Caso existam Pendências Impeditivas Próprias para Operação Comercial com Pendências, o ONS nega
+a emissão do TLP e informa ao agente de transmissão os impedimentos verificados.
+1.3.4.1. Após a solução das Pendências Impeditivas Próprias, o agente de transmissão realiza nova
+solicitação de TLP ao ONS.
+Endereço na internet: http://www.ons.org.br 4 / 17
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de Termo de Liberação para instalações
+7.15 Procedimental 2022.08 16/08/2022
+de transmissão
+1.4. Acompanhamento e gestão dos prazos das Pendências Não Impeditivas Próprias
+1.4.1. O ONS acompanha os prazos estabelecidos para solucionar as Pendências Não Impeditivas Próprias
+listadas nos Termos de Liberação.
+1.4.2. O agente de transmissão informa ao ONS a solução das Pendências Não Impeditivas Própria listadas
+nos Termos de Liberação até a data de vencimento acordada.
+1.4.2.1. Caso o agente de transmissão identifique a impossibilidade em atender aos prazos acordados nos
+Termos de Liberação, o agente informa novo prazo e com justificativa ao ONS.
+1.4.2.2. O ONS analisa os novos prazos propostos e as justificativas apresentadas e informa à ANEEL, caso os
+novos prazos sejam aceitos.
+1.4.3. O ONS envia à ANEEL o Relatório das Pendências Não Impeditivas Próprias com Prazos Vencidos,
+relacionando as Pendências Não Impeditivas Próprias cujo prazo de solução encontra-se ultrapassado e
+contendo:
+(a) as identificações dos agentes de transmissão;
+(b) as identificações dos contratos de concessão ou ato autorizativos que outorgaram a implantação das
+ampliações, reforços ou melhorais;
+(c) as identificações das FT com Pendências Não Impeditivas Próprias com prazo de solução ultrapassado;
+(d) a descrição das ampliações, reforços ou melhorias;
+(e) as identificações dos TLP e TLR associados a essas ampliações, reforços ou melhorias; e
+(f) as identificações das Pendências Não Impeditivas Próprias com prazos vencidos.
+1.5. Emissão do Termo de Liberação de Receita (TLR)
+1.5.1. O agente de transmissão solicita ao ONS o TLR contendo a Declaração de Conformidade para
+Solicitação de TL apresentada no ANEXO A.
+1.5.1.1. O agente de transmissão informa os requisitos impeditivos para entrada em operação que não
+foram atendidos devido às Pendências Impeditivas de Terceiros ou de Caráter Sistêmico, indicando-os na
+Declaração apresentada no ANEXO A.
+1.5.1.2. O agente de transmissão envia junto à Declaração (ANEXO A) o Relatório Comprobatório de
+Pendências Impeditivas de Terceiros ou de Caráter Sistêmico (ANEXO B), comprovando que a FT ou Grupo
+de FT está impossibilitado de ser integrado ao SIN devido exclusivamente à existência dessas pendências.
+1.5.1.3. O agente de transmissão solicita ao ONS o TLR com Pendência Impeditiva de Caráter Sistêmico
+quando:
+(a) o ONS não libera a Operação em Teste da FT ou do Grupo de FT em até 30 dias após a data indicada
+na solicitação do TLT para a transmissora realizar estes testes; ou
+(b) houver negativa do ONS da solicitação de TLT, devido a existência de restrições sistêmicas que
+impeçam a Operação em Teste da FT ou Grupo de FT por, pelo menos, 30 dias após a data indicada
+na solicitação do TLT para a transmissora realizar estes testes.
+1.5.2. No caso de solicitação de TLR com Pendência Impeditiva de Terceiros, o ONS realiza as seguintes
+atividades antes da emissão do TLR:
+Endereço na internet: http://www.ons.org.br 5 / 17
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de Termo de Liberação para instalações
+7.15 Procedimental 2022.08 16/08/2022
+de transmissão
+(a) encaminha o Termo de Notificação de Terceiro, acompanhado do Relatório Comprobatório de
+Pendências Impeditivas de Terceiros ou de Caráter Sistêmico (ANEXO B) encaminhado pelo agente de
+transmissão, aos agentes apontados como responsáveis pelas Pendências Impeditivas de Terceiros;
+(b) aguarda, até o prazo estabelecido, as manifestações dos agentes apontados como responsáveis pelas
+Pendências Impeditivas de Terceiros; e
+(c) analisa as manifestações dos agentes apontados como responsáveis pelas Pendências Impeditivas de
+Terceiros.
+1.5.3. O ONS emite o TLR, após reconhecer as Pendências Impeditivas de Terceiros ou de Caráter Sistêmico
+e verificar o atendimento aos requisitos impeditivos dos Procedimentos de Rede para operação em comercial
+com pendências não impeditivas exemplificados no ANEXO C, isto é sem Pendências Impeditivas Próprias,
+contendo:
+(a) a identificação do agente de transmissão;
+(b) a identificação do contrato de concessão ou do ato autorizativo que outorgou as ampliações, reforços
+ou melhorias;
+(c) a identificação das FT associadas às ampliações, reforços ou melhorias;
+(d) a descrição das ampliações, reforços ou melhorias;
+(e) quando couber, a relação das Pendências Não Impeditivas Próprias, dos eventuais requisitos não
+atendidos, das adequações necessárias e os respectivos prazos para a solução de cada um;
+(f) quando couber, a relação das Pendências Impeditivas de Terceiros, os respectivos responsáveis por
+estas pendências e os prazos informados para solução de cada uma;
+(g) quando couber, a relação das Pendências Impeditivas de Caráter Sistêmico e, se houver, as previsões
+de término de cada uma;
+(h) em anexo, o Relatório Comprobatório de Pendências Impeditivas de Terceiros ou de Caráter Sistêmico
+(ANEXO B) encaminhado pelo agente de transmissão, a manifestação do agente apontado como
+responsável pela Pendência Impeditiva de Terceiros, se houver, e a análise do ONS de reconhecimento
+da existência de cada Pendência Impeditiva de Terceiros ou da Pendência Impeditiva de Caráter
+Sistêmico;
+(i) as datas acordadas e executadas, quando existir, de início e término da Operação em Teste das
+ampliações, reforços ou melhorias; e
+(j) a data de início do recebimento da receita, que deve ser igual ou posterior às datas:
+(1) de conclusão dos testes de comissionamento e integração possíveis de serem executados;
+(2) informada na solicitação de TLT para início previsto da Operação em Teste, quando não for possível
+a realização de nenhum teste;
+(3) de efetiva disponibilização para operação declarada em tempo real;
+(4) de solução das Pendências Impeditivas Próprias à operação integrada ao SIN;
+(5) de solicitação do TLR ao ONS; e
+(6) estabelecida no contrato de concessão ou ato autorizativo.
+Endereço na internet: http://www.ons.org.br 6 / 17
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de Termo de Liberação para instalações
+7.15 Procedimental 2022.08 16/08/2022
+de transmissão
+1.5.3.1. Para FT ou Grupo de FT não classificada como Rede Básica ou destinada à interligação internacional,
+o ONS emite o TLR no Relatório Trimestral de Termos de Liberação para Reforços em Instalações de
+Transmissão não integrantes da Rede Básica.
+1.5.4. O ONS informa da emissão do TLR ao agente de transmissão, à ANEEL e ao agente apontado como
+responsável pela Pendência Impeditiva de Terceiros.
+1.5.5. Caso existam Pendências Impeditivas Próprias ou não sejam reconhecidas as Pendências Impeditivas
+de Terceiros ou de Caráter Sistêmico, o ONS nega a emissão do TLR e informa à transmissora os
+impedimentos verificados, e ao agente apontado como responsável pela Pendência Impeditiva de Terceiros
+da negativa.
+1.5.5.1. Após a solução das Pendências Impeditivas Próprias, o agente de transmissão realiza nova
+solicitação de Termo de Liberação ao ONS.
+1.5.6. O TLR tem vigência até a solução das Pendências Não Impeditivas Próprias ou de cada Pendência
+Impeditiva de Terceiros ou de cada Pendência Impeditiva de Caráter Sistêmico.
+1.5.6.1. O agente de transmissão deverá solicitar novo Termo de Liberação após o fim de sua vigência.
+1.6. Acompanhamento das Pendências Impeditivas de Terceiros e das Pendências Impeditivas de Caráter
+Sistêmico
+1.6.1. O agente responsável pelas Pendências Impeditivas de Terceiros informa ao ONS e ao agente de
+transmissão responsável pela FT a ser integrada ao SIN os prazos para solucionar as pendências listadas no
+TLR.
+1.6.2. O agente responsável pelas Pendências Impeditivas de Terceiros informa ao ONS e ao agente de
+transmissão responsável pela FT impedida assim que as pendências forem solucionadas.
+1.6.3. O ONS informa à ANEEL e ao agente de transmissão o fim das Pendências Impeditivas de Caráter
+Sistêmico.
+1.6.4. O agente responsável pelas Pendências Impeditivas de Terceiros justifica ao ONS quando não for
+atender aos prazos acordados para solucionar as Pendências Impeditivas de Terceiros listadas no TLR, e
+informa os novos prazos ao ONS.
+1.6.5. O ONS analisa os novos prazos propostos e as justificativas apresentadas, e informa à ANEEL e ao
+agente de transmissão responsável pela FT a ser integrada.
+1.6.6. O ONS emite o Relatório de Pendências Impeditivas de Terceiros e de Pendências Impeditivas de
+Caráter Sistêmico, relacionando as pendências impeditivas vigentes e as que foram solucionadas desde o
+fechamento do relatório anterior, contendo:
+(a) as identificações dos agentes de transmissão responsáveis pelas FT com Pendências Impeditivas de
+Terceiros;
+(b) as identificações dos contratos de concessão ou ato autorizativos que outorgaram a implantação das
+ampliações, reforços ou melhorias;
+(c) as identificações das FT com Pendências Impeditivas de Terceiros ou com Pendências Impeditivas de
+Caráter Sistêmico vigentes ou que foram solucionadas desde o fechamento do relatório anterior;
+(d) a descrição das ampliações, reforços ou melhorias com Pendências Impeditivas de Terceiros ou com
+Pendências Impeditivas de Caráter Sistêmico vigentes ou que foram solucionadas desde o fechamento
+do relatório anterior;
+Endereço na internet: http://www.ons.org.br 7 / 17
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de Termo de Liberação para instalações
+7.15 Procedimental 2022.08 16/08/2022
+de transmissão
+(e) as identificações dos TLR associados a essas ampliações, reforços ou melhorias;
+(f) as identificações dos agentes responsáveis pelas Pendências Impeditivas de Terceiros ou quando for
+Pendência Impeditiva de Caráter Sistêmico, a identificação “Sistêmica”;
+(g) os prazos para solucionar as Pendências Impeditivas de Terceiros ou, quando houver, a previsão de
+solução das Pendências Impeditivas de Caráter Sistêmico e as datas em que as pendências foram
+solucionadas; e
+(h) as manifestações enviadas pelo responsável pelas Pendências Impeditivas de Terceiros ou a
+atualização das Pendências Impeditivas de Caráter Sistêmico.
+1.7. Emissão do Termo de Liberação Definitivo (TLD)
+1.7.1. A transmissora solicita ao ONS o TLD contendo a Declaração de Conformidade para Solicitação de TL
+apresentada no ANEXO A.
+1.7.2. O ONS elabora e emite o TLD, após verificação do atendimento aos requisitos impeditivos dos
+Procedimentos de Rede para operação em comercial definitiva exemplificados no ANEXO C, contendo:
+(a) a identificação do agente de transmissão;
+(b) a identificação do contrato de concessão ou do ato autorizativo que outorgou as ampliações, reforços
+ou melhorias;
+(c) a identificação das FT associadas às ampliações, reforços ou melhorias integradas;
+(d) a descrição das ampliações, reforços ou melhorias;
+(e) as datas acordadas e executadas de início e término da Operação em Teste das ampliações, reforços
+ou melhorias; e
+(f) a data de entrada em Operação Comercial Definitiva, que deve ser igual ou posterior às datas:
+(1) de conclusão dos testes de comissionamento;
+(2) de efetiva disponibilização para operação declarada em tempo real;
+(3) de solução das pendências à operação integrada ao SIN;
+(4) de solicitação da TLD; e
+(5) estabelecida no contrato de concessão ou ato autorizativo.
+1.7.2.1. Para FT ou Grupo de FT não classificada como Rede Básica ou destinada à interligação internacional,
+o ONS emite o TLD no Relatório Trimestral de Termos de Liberação para Reforços em Instalações de
+Transmissão não integrantes da Rede Básica.
+1.7.2.2. A existência de qualquer pendência impede a solicitação e emissão do TLD.
+1.7.3. O ONS informa à ANEEL e ao agente de transmissão a emissão do TLD.
+1.7.4. Caso existam pendências, o ONS nega a emissão do TLD e informa ao agente de transmissão os
+impedimentos verificados.
+1.7.4.1. Após a solução das pendências, o agente de transmissão realiza nova solicitação de TLD ao ONS.
+1.8. Anulação de Termos de Liberação
+Endereço na internet: http://www.ons.org.br 8 / 17
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de Termo de Liberação para instalações
+7.15 Procedimental 2022.08 16/08/2022
+de transmissão
+1.8.1. O ONS anula o TLT, TLP, TLR ou TLD, quando constata o não atendimento ao contrato de concessão
+ou autorização ou aos requisitos e prazos dos Procedimentos de Rede.
+1.8.2. O ONS informa ao agente de transmissão da anulação e da pendência identificada.
+1.8.3. O ONS informa à ANEEL da anulação de TLP, TLR ou TLD emitidos.
+2. EMISSÃO DE RELATÓRIO DE INTEGRAÇÃO DE REFORÇOS E MELHORIAS SEM RECEITA PREVIAMENTE
+ESTABELECIDA
+2.1. O agente de transmissão e o ONS identificam quais itens dos requisitos impeditivos para entrada em
+operação são aplicáveis ao reforço ou melhoria sem estabelecimento prévio de receita (ANEXO C), quando
+estes são cadastrados no sistema computacional do ONS, informado no site do ONS na página Integração de
+Novas Instalações.
+2.2. O agente de transmissão registra em sistema computacional do ONS a entrada em operação comercial
+dos reforços e melhorias sem estabelecimento prévio de receita, quando o reforço ou melhoria estiver
+concluído e integrado ao Sistema Interligado Nacional – SIN e atender aos requisitos impeditivos aplicáveis
+ao reforço ou melhoria implantado para entrada em operação comercial.
+2.3. O ONS verifica o atendimento aos requisitos impeditivos para entrada em operação do reforço ou
+melhoria sem estabelecimento prévio de receita.
+2.4. O ONS emite o Relatório de Integração de Reforços e Melhorias Sem Receita Previamente Estabelecida,
+contendo os reforços e melhorias sem estabelecimento prévio de receita e registrados no sistema
+computacional do ONS e validados.
+2.4.1. O ONS informa a disponibilização do relatório à Agência Nacional de Energia Elétrica – ANEEL e às
+transmissoras citadas no relatório.
+2.5. A data de entrada em operação comercial para reforços e melhorias sem estabelecimento prévio de
+receitas deverá ser registrada pela transmissora no sistema computacional do ONS, informado no site do
+ONS na página Integração de Novas Instalações, em até 15 (quinze) dias após a sua entrada em operação.
+3. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de Transmissão de
+Energia Elétrica no Sistema Elétrico Nacional. Módulo 3 - Instalações e Equipamentos de Transmissão.
+4. ANEXOS
+ANEXO A – Declaração de Conformidade para Solicitação de Termo De Liberação
+ANEXO B – Relatório Comprobatório de Pendências Impeditivas de Terceiros ou de Caráter Sistêmico
+ANEXO C – Requisitos Impeditivos para Emissão de Termos de Liberação para Ampliações, Reforços e
+Melhorias (Rede Básica, DIT, ICG e IEG)
+Endereço na internet: http://www.ons.org.br 9 / 17
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de Termo de Liberação para instalações
+7.15 Procedimental 2022.08 16/08/2022
+de transmissão
+ANEXO A – Declaração de Conformidade para Solicitação de Termo De Liberação
+ LIBERAÇÃO PARA OPERAÇÃO EM TESTE
+ LIBERAÇÃO PARA OPERAÇÃO COMERCIAL COM PENDÊNCIAS
+ EMISSÃO DE TLP COM PENDÊNCIAS IMPEDITIVAS DE TERCEIROS
+ LIBERAÇÃO PARA OPERAÇÃO COMERICAL DEFINITIVA
+AGENTE Nome da transmissora
+CNPJ Cadastro Nacional de Pessoa Jurídica da transmissora
+REPRESENTANTE PARA
+Informar nome, telefone e e-mail de pessoa física que prestará
+CONTATO
+esclarecimentos sobre a instalação.
+Identificar a Função Transmissão, nos termos da Resolução Normativa da
+FUNÇÃO TRANSMISSÃO
+ANEEL nº 191, de 2005, onde a ampliação, reforço ou melhoria foi realizada
+Informar o município e a unidade federativa onde está localizada a instalação
+MUNICÍPIO / UF
+de transmissão
+DATA DE INÍCIO DOS TESTES DE Informar a data prevista ou realizada de início dos testes de operação
+OPERAÇÃO INTEGRADA AO SIN integrada ao SIN da instalação de transmissão objeto da solicitação
+DATA DE TÉRMINO DOS TESTES Informar a data prevista ou realizada de conclusão dos testes de operação
+DE OPERAÇÃO INTEGRADA AO integrada ao SIN da instalação de transmissão objeto da solicitação e sua
+SIN respectiva disponibilização para a operação
+CONTRATO DE CONCESSÃO Informar o número e ano do contrato de concessão da transmissora
+ATO DE Identificação do documento emitido por órgão competente que outorga a
+OUTORGA/AUTORIZATIVO implantação da referida ampliação, reforço ou melhoria
+IDENTIFICAÇÃO DA AMPLIAÇÃO, Identificar a ampliação, reforço ou melhoria para o qual a integração é
+REFORÇO OU MELHORIA solicitada
+IDENTIFICAÇÃO DO(S) CCT
+Citar os Contratos de Conexão às Instalações de Transmissão – CCT e,
+(para Rede Básica de Fronteira,
+respectivos termos aditivos, no qual consta a obra realizada em instalações
+DIT, ICG e IEG) E TERMOS
+da Rede Básica de Fronteira ou classificadas como DIT, ICG e IEG
+ADITIVOS
+Citar os Contratos de Uso do Sistema de Transmissão – CUST assinados pelos
+acessantes quando houver implantação de instalações em novos pontos de
+IDENTIFICAÇÃO DO(S) CUST DIT compartilhada, de ICG ou de Rede Básica de transformadores de potência
+(pagas por TUSTFR) com tensão primária igual ou superior a 230 kV e tensões secundária e
+terciária inferiores a 230 kV, bem como nas respectivas conexões e demais
+equipamentos ligados ao terciário.
+Endereço na internet: http://www.ons.org.br 10 / 17
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de Termo de Liberação para instalações
+7.15 Procedimental 2022.08 16/08/2022
+de transmissão
+PRAZO DE
+REQUISITO DECLARAÇÃO DE CONFORMIDADE RESSALVAS ELIMINAÇÃO
+PENDÊNCIAS
+Declarar se a instalação está em
+Atendimento às conformidade com o Contrato de Concessão
+Características de ou Ato Autorizativo e com os Procedimentos
+Projeto da de Rede. As ressalvas devem ser listadas
+Instalação com as devidas justificativas, bem como o
+prazo para solução
+Declarar se as providências estabelecidas
+Atendimento às
+nos estudos pré-operacionais foram
+Providências dos
+plenamente atendidas. As ressalvas devem
+Estudos Pré-
+ser justificadas, bem como o prazo para
+Operacionais
+solução
+Estrutura
+Declarar a estrutura implementada para
+Operacional da
+operar a instalação, em especial, se a
+Instalação, quando
+instalação é assistida ou telecomandada
+aplicável
+Declarar se o Manual de Operação da
+Manual de
+Instalação está implantado e contém todo o
+Operação da
+conjunto de instruções pertinentes. Declarar
+Instalação, quando
+também se as equipes de operadores estão
+aplicável
+habilitadas
+Declaração sobre os Declarar se os testes de integração foram
+Resultados da concluídos e se existem restrições
+Operação em Teste operativas. As ressalvas e restrições devem
+(Não se aplica ao ser esclarecidas e informados os prazos para
+TLT) solução
+Declarar se foi cadastrado o ponto de
+medição para faturamento no Sistema de
+Cadastro do(s)
+Coleta de Dados de Energia – SCDE, junto à
+Ponto(s) de Medição
+CCEE. Esse cadastro se aplica aos
+para faturamento no
+transformadores de fronteira da Rede Básica
+SCDE, junto à CCEE,
+e às interligações entre submercados,
+quando aplicável
+conforme Submódulo 12.2 dos
+Procedimentos de Rede
+Inexistência de
+Sinalizar a inexistência de pendências
+Pendências
+impeditivas próprias
+Impeditivas Próprias
+Endereço na internet: http://www.ons.org.br 11 / 17
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de Termo de Liberação para instalações
+7.15 Procedimental 2022.08 16/08/2022
+de transmissão
+PRAZO DE
+REQUISITO DECLARAÇÃO DE CONFORMIDADE RESSALVAS ELIMINAÇÃO
+PENDÊNCIAS
+Listar as
+Inexistência de
+Sinalizar a inexistência de pendências pendências não
+Pendências Não
+impeditivas próprias impeditivas
+Impeditivas Próprias
+próprias.
+Identificar a
+Inexistência de
+existência de
+Pendências Sinalizar a inexistência de pendências
+pendências
+Impeditivas de impeditivas de terceiros
+impeditivas de
+Terceiros
+terceiros.
+Identificar a
+Inexistência de
+existência de
+Pendências Sinalizar a inexistência de pendências
+pendências
+Impeditivas de impeditivas de Caráter Sistêmico
+impeditivas de
+Caráter Sistêmico
+caráter sistêmico
+Citar a licença de operação, ou documento
+equivalente, emitida por órgão ambiental
+competente ou que não há necessidade
+Licença Ambiental
+desta licença para a entrada em Operação
+de Operação
+em Teste, em Operação Comercial Com
+Pendências ou em Operação Comercial
+Definitiva.
+DECLARAÇÃO DE INEXISTÊNCIA DE PENDÊNCIAS IMPEDITIVAS PRÓPRIAS
+Declaro por meio desta que não existem pendências impeditivas próprias em relação aos requisitos
+impeditivos para operação integrada (Anexo X) e prazos dos Procedimentos de Rede e às obrigações
+contratuais para a entrada em operação em ____ (teste/comercial) da
+___________________________________ (função transmissão) no________ (dia/mês/ano).
+DECLARAÇÃO DE PENDÊNCIAS NÃO IMPEDITIVAS PRÓPRIAS
+Declarar as Pendências Não Impeditivas Próprias com respectivos prazos de solução.
+DECLARAÇÃO DE PENDÊNCIAS IMPEDITIVAS DE TERCEIROS OU DE PENDÊNCIAS IMPEDITIVAS DE
+CARÁTER SISTÊMICO
+Endereço na internet: http://www.ons.org.br 12 / 17
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de Termo de Liberação para instalações
+7.15 Procedimental 2022.08 16/08/2022
+de transmissão
+Não se aplica a melhorias.
+Relação das Pendências Impeditivas de Terceiros, com identificação dos respectivos responsáveis por
+cada pendência, e das Pendências Impeditivas de Caráter Sistêmico para a entrada em operação
+integrada ao SIN das instalações.
+COMENTÁRIOS ADICIONAIS DO AGENTE
+Registrar comentários adicionais relevantes para o processo de integração.
+RESPONSÁVEL PELA DECLARAÇÃO ASSINATURA DATA
+Registrar o nome, cargo e assinatura do
+responsável pelo preenchimento da
+_______/_____/_______
+declaração e a data da emissão da
+declaração.
+Endereço na internet: http://www.ons.org.br 13 / 17
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de Termo de Liberação para instalações
+7.15 Procedimental 2022.08 16/08/2022
+de transmissão
+ANEXO B – Relatório Comprobatório de Pendências Impeditivas de Terceiros ou de Caráter
+Sistêmico
+AGENTE DE TRANSMISSÃO
+CNPJ
+REPRESENTANTE PARA CONTATO
+CONTRATO DE CONCESSÃO OU AUTORIZAÇÃO
+AGENTE DE OPERAÇÃO RESPONSÁVEL PELA (Não se aplica no caso de pendências impeditivas de
+PENDÊNCIA DE TERCEIRO caráter sistêmico)
+DESCRIÇÃO DAS PENDÊNCIAS IMPEDITIVAS DE
+TERCEIRO OU DE CARÁTER SISTÊMICO
+JUSTIFICATIVA DE IMPEDIMENTO À
+INTEGRAÇÃO CAUSADO POR PENDÊNCIA
+IMPEDITIVA DE TERCEIROS OU POR PENDÊNCIA
+IMPEDITIVA DE CARÁTER SISTÊMICO
+Anexar ao relatório laudo técnico de conclusão de
+LAUDO TÉCNICO DE CONCLUSÃO DE CADA cada etapa da ampliação ou reforço, fotos
+ETAPA DO EMPREENDIMENTO DAS comprobatórias de conclusão de cada etapa e
+INSTALAÇÕES APTAS PARA A OPERAÇÃO explicação e justificativa do impedimento do terceiro
+COMERCIAL à conclusão da implantação, testes e entrada em
+operação comercial da ampliação ou reforço
+Endereço na internet: http://www.ons.org.br 14 / 17
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de Termo de Liberação para instalações
+7.15 Procedimental 2022.08 16/08/2022
+de transmissão
+ANEXO C – Requisitos Impeditivos para Emissão de Termos de Liberação para Ampliações,
+Reforços e Melhorias (Rede Básica, DIT, ICG e IEG)
+OPERAÇÃO
+Requisitos impeditivos dos
+Submódulo Comercial
+Procedimentos de Rede Em Comercial
+com
+Teste Definitiva
+Pendências
+Licença Ambiental de Operação ou sua
+1 - X X X
+dispensa
+Parecer Técnico da Conformidade do
+2 7.3 X X X
+Projeto Básico1
+Parecer Técnico de Análise da
+3 Conformidade das Instalações como 7.3 X
+Efetivamente Implantadas
+4 Conformidade com o Ato Autorizativo 7.15 X X X
+5 Assinatura do CPST1 8.1 X X X
+6 Assinatura do CCI1 8.1 X X X
+7 Assinatura do CCT 2 8.1 X X X
+Medição para Faturamento - Aprovação
+8 7.11 X X X
+do Projeto
+Medição para Faturamento - Cadastro do
+9 ponto de medição no Sistema de Coleta 7.11 X X X
+de Dados de Energia – SCDE da CCEE
+Medição para Faturamento - Aprovação
+10 7.11 X X
+do Relatório de Comissionamento
+11 Modelos Reais para Simulação 7.4 X
+Atendimento às Providências do Pré-
+12 7.4 X X X
+operacional
+13 Relatório Final de Comissionamento 7.4 X
+14 Solicitação de Intervenções 4.2 X X X
+Fornecimento do Diagrama Unifilar para
+15 1.1 X X X
+a fase pré-operacional
+Fornecimento do Diagrama Unifilar
+16 1.1 X X
+Operacional
+17 Implantação das Instruções de Operação 1.1 X X X
+1 Aplicável somente às ampliações e reforços.
+2 Aplicável somente às ampliações e reforços em Rede Básica de Fronteira, DIT, ICG e IEG.
+Endereço na internet: http://www.ons.org.br 15 / 17
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de Termo de Liberação para instalações
+7.15 Procedimental 2022.08 16/08/2022
+de transmissão
+OPERAÇÃO
+Requisitos impeditivos dos
+Submódulo Comercial
+Procedimentos de Rede Em Comercial
+com
+Teste Definitiva
+Pendências
+Sistema de Supervisão e Controle - Base
+18 7.9 X X X
+de Dados
+Sistema de Supervisão e Controle - Canais
+19 de Comunicação de Dados (no mínimo 1 7.9 e 2.15 X X X
+canal)
+Sistema de Supervisão e Controle - Canais
+20 de Comunicação de Dados (2 canais 7.9 e 2.15 X X
+distintos)
+Sistema de Supervisão e Controle -
+21 Requisitos do Sequenciador de Eventos – 7.9 X X X
+SOE – EVENTOS DO GRUPO A3
+Sistema de Supervisão e Controle -
+22 Requisitos do Sequenciador de Eventos – 7.9 X
+SOE – EVENTOS DOS GRUPOS B e C3
+Sistema de Supervisão e Controle - Teste
+23 7.9 X X X
+Ponto a Ponto
+Sistema de Supervisão e Controle -
+Avaliação do desempenho satisfatório do
+24 7.9 e 2.15 X X
+Sistema de Supervisão e Controle durante
+operação em teste
+Sistema de Telecomunicação - Canais de
+25 Comunicação de Voz (no mínimo 1 2.15 X X X
+canal)4
+Sistema de Supervisão e Controle - Canais
+26 de Comunicação de Dados (2 canais 2.15 X X
+distintos)
+3 Aplicável somente às instalações de transmissão pertencentes à Rede de Operação.
+4 O requisito de Telecomunicação – Canais de Comunicação de Voz aplica-se somente às instalações de transmissão
+pertencentes à Rede de Operação.
+Endereço na internet: http://www.ons.org.br 16 / 17
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de Termo de Liberação para instalações
+7.15 Procedimental 2022.08 16/08/2022
+de transmissão
+OPERAÇÃO
+Requisitos impeditivos dos
+Submódulo Comercial
+Procedimentos de Rede Em Comercial
+com
+Teste Definitiva
+Pendências
+Sistema de Telecomunicação – Avaliação
+do desempenho satisfatório do Sistema
+27 2.15 X X
+de Telecomunicação durante operação
+em teste
+Declaração de Conclusão do Teste em
+28 5.2 e 5.13 X X
+Tempo Real
+Medição de resistividade do solo e
+29 7.3 X X X
+resistência de pé de torre
+Parecer técnico de conformidade da
+30 resistividade do solo e resistência de pé 7.3 X
+de torre medida com a projetada
+Realização de campanha de qualidade de
+31 7.8 X X X
+tensão (QEE), pré-operação5
+Realização de campanha de qualidade de
+32 7.8 X
+tensão (QEE), pós-operação5
+5 Aplicável somente às instalações de transmissão da Rede Básica que possuem componentes não lineares, como os
+compensadores estáticos e os sistemas de transmissão de corrente contínua em alta tensão, e à integração de
+interligações internacionais ao SIN.
+Endereço na internet: http://www.ons.org.br 17 / 17

@@ -1,0 +1,38 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 26/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=26/02/2026&jornal=515&pagina=66
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado de Santa Catarina
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 47/2026
+Fase de Autorização de Pesquisa
+Concede anuência e autoriza averbação da cessão parcial de direitos(175)
+815.144/2021-GS EXTRACAO E COMERCIO DE AREIA LTDA- Alvará n°Alvará nº 7716/2021 - Cessionario:815.531/2025, 815.532/2025, 815.533/2025, 815.534/2025, 815535/2025-Solo Mineral Extração de Areia Ltda- CPF ou CNPJ 14.203.956/0001-03
+Fase de Direito de Requerer a Lavra
+Prorroga por 01 (um) ano o prazo para requerer a Concessão de Lavra(2243)
+815.542/2017-SUPREMO CIMENTOS S.A.
+Fase de Licenciamento
+Autoriza averbação da Prorrogação do Registro de Licença(742)
+815.481/2004-KUHRA - PRESTADORA DE SERVICOS E TERRAPLENAGEM - EIRELI- Registro de Licença N° 1158/2005 - Vencimento em 21/11/2026
+815.214/2004-PRETO TERRAPLANAGEM LTDA- Registro de Licença N° 1124/2004 - Vencimento em 05/02/2028
+815.441/2015-MATERPLAN TERRAPLANAGEM E MINERACAO LTDA.- Registro de Licença N° 2113/2018 - Vencimento em 03/12/2028
+Fase de Registro de Extração
+Homologa renúncia do Registro de Extração(931)
+815.416/2019-MUNICIPIO DE CONCORDIA
+815.533/2018-MUNICIPIO DE ALTO BELA VISTA
+Fase de Requerimento de Lavra
+Determina cumprimento de exigência - Prazo 60 dias(361)
+816.282/1996-SX TRANSPORTE E EXTRAÇÃO DE AREIAS E CASCALHOS LTDA-OF. N°10350/2026/COROUT-SC/ANM
+Fase de Requerimento de Licenciamento
+Determina o cumprimento de exigência - Prazo 30 dias(1155)
+Processo nº: 815.302/2024
+Titular: JA EXTRACAO E COMERCIO DE ARGILA LTDA
+Ofício nº: 10053/2026/DIVFIS-SC/ANM
+JOSE AUGUSTO SIMOES NETO
+Gerente

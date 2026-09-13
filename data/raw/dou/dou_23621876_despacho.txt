@@ -1,0 +1,38 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 25/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=25/02/2026&jornal=515&pagina=89
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado de Minas Gerais
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 50/2026
+Fase de Requerimento de Lavra Garimpeira
+Indefere por Interferencia Total(1339)
+831.328/2022-ALDEMIR PEREIRA SANTOS
+Fase de Requerimento de Licenciamento
+Indefere requerimento de Licenciamento- área sem oneração(2096)
+830.072/2025-SANDTEK MINERAIS INDUSTRIAIS LTDA.
+831.024/2025-EXTRACAO ANDORINHA LTDA
+831.091/2025-W. N. IND. E COM. DE AREA LTDA
+832.780/2024-MARCOS TULIO CARLOS VIEIRA
+Fase de Requerimento de Pesquisa
+Determina cumprimento de exigência - Prazo 60 dias(131)
+831.817/2024-WELLINGTON HIGOR FONSECA ME-OF. N°8722/2026/CAREAS-MG/ANM
+831.909/2025-SUDOESTE MINERACAO LTDA.-OF. N°7521/2026/CAREAS-MG/ANM
+Indefere requerimento de pesquisa por interferência total(121)
+831.864/2025-GESIANE LIMA E SILVA
+831.965/2025-NK 282 EMPREENDIMENTOS E PARTICIPACOES S.A
+831.967/2025-NK 282 EMPREENDIMENTOS E PARTICIPACOES S.A
+831.966/2025-NK 282 EMPREENDIMENTOS E PARTICIPACOES S.A
+831.942/2025-KINROSS BRASIL MINERACAO S/A
+Defere pedido de reconsideração(182)
+831.982/2024-GUIDONI BRASIL S/A
+Indefere de plano o requerimento de Autorização de Pesquisa(101)
+833.300/2023-MOHAMMAD SEGALECHFAR
+CAIRO COSTA DUARTE
+Gerente

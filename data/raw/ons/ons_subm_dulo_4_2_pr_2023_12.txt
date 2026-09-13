@@ -1,0 +1,608 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 4.2-PR_2023.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 4.2-PR_2023.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 4.2
+Programação de intervenções em
+instalações da Rede de Operação
+Procedimental
+Revisão Motivo da revisão Data de aprovação
+2023.12 Despacho ANEEL nº 4.714/2023 04/12/2023
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação de intervenções em instalações da
+4.2 Procedimental 2023.12 05/12/2023
+Rede de Operação
+ÍNDICE
+1. PROGRAMAÇÃO DE INTERVENÇÕES EM INSTALAÇÕES DA REDE DE OPERAÇÃO...............................3
+1.1. Solicitação de intervenção............................................................................................................3
+1.2. Análise da solicitação de intervenção...........................................................................................4
+1.3. Ajustes dos programas de intervenções dos agentes...................................................................6
+1.4. Aprovação das intervenções solicitadas e divulgação do Programa de Intervenções em
+Instalações na Rede de Operação.................................................................................................6
+1.5. Reprogramações de intervenções.................................................................................................7
+1.6. Cancelamento de intervenções.....................................................................................................8
+2. REFERÊNCIAS...................................................................................................................................9
+3. ANEXOS.........................................................................................................................................10
+Anexo A - Informações mínimas para solicitação de intervenções.......................................................11
+Anexo B - Classificação das intervenções..............................................................................................12
+Endereço na internet: http://www.ons.org.br 2 / 17
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação de intervenções em instalações da
+4.2 Procedimental 2023.12 05/12/2023
+Rede de Operação
+1. PROGRAMAÇÃO DE INTERVENÇÕES EM INSTALAÇÕES DA REDE DE OPERAÇÃO
+1.1. Solicitação de intervenção
+1.1.1. Os agentes encaminham ao Operador Nacional do Sistema Elétrico – ONS as solicitações de
+intervenções em instalações sob sua responsabilidade, pertencentes à Rede de Operação, sendo:
+(a) Intervenções que acarretarem indisponibilidade ou restrição operativa em Função Transmissão (FT)
+integrantes da Rede Básica e das Interligações Internacionais que são objeto de Contrato de Prestação
+de Serviço de Transmissão (CPST), celebrado conforme Submódulo 8.1 – Administração dos
+Contratos;
+(b) Programa de testes e demais intervenções em equipamentos da Rede de Operação que não
+impliquem indisponibilidade de FT da Rede Básica e das Interligações Internacionais, acrescido das
+limitações à geração de usinas submetidas ao despacho centralizado e demais restrições operativas
+em equipamentos da Rede de Operação decorrentes de intervenções fora da Rede de Operação.
+1.1.1.1. A lista das intervenções solicitadas pelos agentes, conforme item 1.1.1. (a) deste submódulo,
+encaminhada com antecedência mínima estabelecida no documento de Responsabilidades deste submódulo
+e programadas para o mês civil em questão, compõe o Programa Mensal de Manutenções (PMM).
+1.1.1.2. A lista das intervenções integrantes do PMM acrescida das demais intervenções solicitadas pelos
+agentes, conforme item 1.1.1. (b) deste submódulo, encaminhadas com antecedência mínima estabelecida
+no documento de Responsabilidades deste submódulo e programadas para o mês civil em questão, compõe
+o Programa Mensal de Intervenções (PMI).
+1.1.1.3. As solicitações de intervenção devem apresentar as informações básicas apresentadas no Anexo A.
+1.1.2. Os agentes solicitam as intervenções considerando as classificações, conforme detalhado no Anexo B,
+quanto a:
+(a) o tipo da intervenção;
+(b) a caracterização da intervenção;
+(c) a natureza da intervenção;
+(d) a classificação do desligamento;
+(e) o prazo de solicitação;
+(f) a caracterização: inclusão de serviços ou de aproveitamento.
+1.1.2.1. No caso de FT que possuam equipamentos integrantes de mais de uma concessão de transmissão,
+poderá ser solicitada por outro agente, que não o responsável pela solicitação original, a inclusão de novos
+serviços, caracterizando o compartilhamento de intervenções entre os agentes.
+1.1.2.2. No caso de solicitação de intervenção fora da Rede de Operação que acarrete restrição operativa
+em equipamentos da Rede de Operação, o agente responsável pelo equipamento da Rede de Operação
+cadastra intervenção sem desligamento, informando a restrição imposta.
+1.1.2.3. No caso de solicitação de intervenção fora da Rede de Operação que acarrete desligamento de
+equipamentos da Rede de Operação, o agente responsável pelo equipamento da Rede de Operação cadastra
+intervenção com desligamento.
+Endereço na internet: http://www.ons.org.br 3 / 17
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação de intervenções em instalações da
+4.2 Procedimental 2023.12 05/12/2023
+Rede de Operação
+1.1.2.4. No caso de solicitação de intervenção fora da Rede de Operação que afete mais de um equipamento
+da Rede de Operação, envolvendo agentes diferentes, cada um dos agentes cadastram as intervenções
+relativas aos seus equipamentos.
+1.2. Análise da solicitação de intervenção
+1.2.1. O ONS analisa as informações prestadas pelos agentes nas solicitações de intervenções e, caso seja
+verificada qualquer imprecisão ou omissão de dados, solicita ao agente responsável a complementação ou
+correção da informação original.
+1.2.1.1. Sendo declarado pelo agente risco de acidente com pessoas, de danificação de equipamentos ou
+instalações ou ainda risco iminente de desligamento intempestivo do equipamento, o ONS poderá solicitar
+as informações adicionais que considere necessárias.
+1.2.2. O ONS analisa as solicitações de intervenção, conforme critérios estabelecidos no Submódulo 2.3 –
+Premissas, critérios e metodologia para estudos elétricos, considerando:
+(a) Condições de carregamento dos componentes do sistema;
+(b) Possibilidade de atendimento aos níveis de tensão desejados nas fronteiras da Rede de Operação;
+(c) Compatibilidade das condições eletroenergéticas e das metas energéticas com as restrições impostas
+pelo conjunto de intervenções solicitadas;
+(d) Realização, quando necessário, de estudos complementares não rotineiros, tais como estudos de
+transitórios eletromagnéticos, para a verificação da suportabilidade dos equipamentos; e
+(e) Avaliação dos possíveis impactos da intervenção sobre a operação do Controle Automático de
+Geração (CAG).
+1.2.2.1. Para as instalações que não compõem de forma permanente a Rede Complementar, conforme
+estabelecido no Submódulo 2.1 – Definição das redes do Sistema Interligado Nacional, deverão ser solicitadas
+apenas intervenções com desligamento de equipamentos principais dessas instalações, conforme a
+classificação para intervenções do Tipo 2 apresentada no Anexo B, atendendo aos prazos estabelecidos neste
+submódulo.
+1.2.3. O ONS analisa o desempenho do sistema elétrico durante as intervenções solicitadas, por meio de
+simulações, com base nos casos de referência dos estudos de planejamento da operação elétrica de que
+tratam os Submódulos 3.1 – Planejamento da operação elétrica de médio prazo, 3.4 – Planejamento da
+operação elétrica com horizonte quadrimestral e 4.1 – Programação mensal da operação elétrica, adaptados
+de modo a refletirem as mudanças mais atuais de configuração, de carga a partir das informações da
+consolidação da previsão de carga, conforme Submódulo 4.4 – Consolidação da previsão de carga para
+programação eletroenergética, e despacho.
+1.2.4. Para a análise das intervenções solicitadas, o ONS considera as seguintes condições:
+(a) Intervenções de urgência, conforme Anexo B, podem ser realizadas em qualquer período de carga,
+mas deve-se buscar o período mais favorável para o SIN.
+(b) Quando o sistema não dispuser de recursos para evitar as repercussões de caráter sistêmico na
+ocorrência das contingências definidas pela aplicação dos critérios estabelecidos no Submódulo 2.3,
+as intervenções são realizadas nos períodos mais propícios para o SIN e o ONS explicita os riscos
+envolvidos.
+Endereço na internet: http://www.ons.org.br 4 / 17
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação de intervenções em instalações da
+4.2 Procedimental 2023.12 05/12/2023
+Rede de Operação
+(c) Intervenções solicitadas por consumidores livres que acarretem interrupção ou riscos para suas
+cargas poderão ser realizadas em qualquer período de carga, desde que não acarretem problemas
+operativos para o SIN.
+(d) As intervenções não devem ser programadas com início ou término no período entre 17h00min e
+22h00min fora do horário de verão, tomando como referência o horário oficial de Brasília.
+(e) A programação de intervenções sem desligamentos deve considerar uma interrupção nos serviços,
+no período entre 17h00min e 22h00min fora do horário de verão, tomando como referência o horário
+oficial de Brasília.
+(f) A programação de intervenções com desligamento e elevado risco de desligamento acidental de
+outros equipamentos, deve considerar uma interrupção dos serviços no período entre 17h00min e
+22h00min fora do horário de verão, tomando como referência o horário oficial de Brasília.
+1.2.5. Para a priorização entre solicitações de intervenções incompatíveis, o ONS considera a aplicação
+sequencial das seguintes condições:
+(a) Intervenções de urgência e programadas em regime de urgência tem prioridade sobre as demais;
+(b) Existência de risco de acidente com pessoas ou de risco de danificação de equipamentos,
+caracterizado pelo próprio agente solicitante;
+(c) Existência de riscos para o sistema, caracterizados pelo ONS a partir das informações dos agentes;
+(d) Intervenções integrantes do PMI têm prioridade em relação às não integrantes do PMI;
+(e) Intervenções corretivas têm prioridade em relação às preventivas, testes de comissionamento e
+demais testes/ensaios em equipamentos;
+(f) Inexistência de período alternativo, num horizonte de 30 dias, no caso geral, ou de 10 dias, no caso
+de manutenções corretivas, em que alguma das intervenções possa ser realocada de comum acordo
+com o agente, em função das previsões de demanda, hidrologia ou de outras intervenções já
+aprovadas;
+(g) Menor índice de cancelamentos não justificados de cada agente nos últimos 6 meses;
+(h) Maior índice de reprogramações do agente, por solicitação do ONS, nos últimos 6 meses;
+(i) Restrições menos severas de despacho das usinas despachadas centralizadamente, tendo em conta
+os despachos previstos para o período em questão;
+(j) Envolvimento de instalações integrantes da Rede de Operação ou que afetem desempenho dessa
+rede; e
+(k) Antecedência da solicitação.
+1.2.5.1. No que se refere às intervenções de urgência e programadas em regime de urgência, o ONS define
+o período mais adequado para a preservação da segurança operacional do SIN, considerando as demais
+intervenções já aprovadas e consultando o agente solicitante quanto à possibilidade de aguardar até o
+período proposto, em função dos riscos de danos a equipamentos.
+1.3. Ajustes dos programas de intervenções dos agentes
+Endereço na internet: http://www.ons.org.br 5 / 17
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação de intervenções em instalações da
+4.2 Procedimental 2023.12 05/12/2023
+Rede de Operação
+1.3.1. O ONS interage com os agentes envolvidos, quando da necessidade de ajustes em seus programas de
+intervenções, para que atendam aos critérios estabelecidos no Submódulo 2.3, as condições estabelecidas
+no item1.2.4. deste submódulo e as condições de priorização entre solicitações de intervenções
+incompatíveis, estabelecidas no item 1.2.5. deste submódulo.
+1.3.1.1. As intervenções que não possam ser reprogramadas no horizonte de determinado PMM devem ter
+prioridade para sua programação, que é feita tão logo as condições do sistema o permitam.
+1.3.2. No caso de solicitação de intervenções que implicam em corte, remanejamento ou risco de corte de
+cargas, o ONS interage com os agentes de distribuição e os consumidores livres conectados à Rede Básica
+afetados.
+1.3.2.1. Caso o período proposto para a realização da intervenção não seja considerado favorável, o ONS
+define, em conjunto com os agentes afetados, períodos alternativos a serem propostos ao solicitante.
+1.3.3. Os agentes de distribuição e os consumidores livres afetados se manifestam, conforme prazos
+estabelecidos. Caso não haja manifestação, o ONS considera que o mesmo concorda com a realização da
+intervenção nas condições informadas e a intervenção poderá ser aprovada pelo ONS.
+1.3.3.1. Quando algum dos agentes de distribuição ou consumidores livres afetados pronunciar-se
+contrariamente à realização da intervenção, deverá propor um período alternativo, para reprogramação da
+intervenção pelo ONS.
+(a) A proposta poderá levar a postergação de sua execução em, no máximo, 30 dias em relação à
+solicitação original, devendo o ONS reprogramá-la de forma prioritária e coordenada com o agente
+solicitante da intervenção.
+(b) Poderá ser solicitada a reprogramação de uma intervenção por período superior ao definido no item
+1.3.3.1. (a) nos seguintes casos:
+(1) Quando, no período em questão, já existir programação para intervenção ou estiver em curso
+intervenção, na Rede de Operação ou de distribuição, incompatível com a intervenção solicitada;
+(2) Quando a intervenção, em função de sua duração, não puder ser realizada durante um final de
+semana ou feriado prolongado.
+1.3.4. Quando notificado pela Câmara de Comercialização de Energia Elétrica – CCEE referente à suspensão
+de fornecimento de energia elétrica de unidades consumidoras conectadas ao sistema de transmissão, o ONS
+encaminha ao agente de transmissão envolvido a solicitação de suspensão.
+1.3.4.1. Neste caso, o ONS propõe soluções técnicas para a interrupção, quando necessário, e realiza
+avaliações eletroenergéticas, de forma a evitar ou mitigar repercussões sistêmicas devido à suspensão.
+1.3.4.2. No caso de impossibilidade de o agente de transmissão realizar qualquer suspensão de fornecimento
+de energia em função de determinação judicial, o ONS informa à CCEE, com os devidos esclarecimentos e
+documentações.
+1.4. Aprovação das intervenções solicitadas e divulgação do Programa de Intervenções em Instalações
+na Rede de Operação
+1.4.1. O ONS analisa as intervenções solicitadas, considerando os prazos estabelecidos neste submódulo.
+1.4.1.1. Em situações especiais, explicitadas pelo agente, o ONS responde à solicitação de intervenção com
+antecedência maior que a estabelecida no documento Responsabilidades deste submódulo.
+1.4.1.2. Intervenções dos Tipos 1 e 2, solicitadas com antecedência inferior a 10 dias em relação à data
+pretendida, ou intervenções em instalações que não compõem de forma permanente a Rede Complementar
+Endereço na internet: http://www.ons.org.br 6 / 17
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação de intervenções em instalações da
+4.2 Procedimental 2023.12 05/12/2023
+Rede de Operação
+solicitadas com antecedência inferior a 7 dias, só podem ser aprovadas se for caracterizado risco de acidente
+com pessoas, de danificação de equipamentos ou instalações ou ainda risco iminente de desligamento
+intempestivo do equipamento ou quando o ONS julgar que é de interesse do sistema que intervenção seja
+realizada mesmo sem terem sido atendidos os prazos normais de programação.
+1.4.1.3. Intervenções do Tipo 3 solicitadas com antecedência inferior a 2 dias úteis só podem ser aprovadas
+se for caracterizado risco de acidente com pessoas, de danificação de equipamentos ou instalações ou ainda
+risco iminente de desligamento intempestivo do equipamento.
+1.4.2. O ONS disponibiliza aos agentes envolvidos as recomendações a serem consideradas para o período
+de execução das intervenções aprovadas.
+1.4.2.1. Ao longo do processo de programação da intervenção, todas as informações referentes à
+programação, reprogramação, alteração, aprovação e cancelamento da intervenção são registradas no
+cadastro.
+1.4.3. O ONS disponibiliza a todos os agentes a Programação de Intervenções em Instalações da Rede de
+Operação, contendo:
+(a) lista das instalações e equipamentos sob intervenção, testes e intervenções com risco de
+desligamento solicitadas, com informação da data da solicitação, período de realização do serviço,
+motivo, tempo de retorno à operação e caracterização de manutenção de urgência, quando for o
+caso;
+(b) limites de transmissão, considerando as restrições elétricas decorrentes das intervenções já
+aprovadas para cada período;
+(c) limitações no despacho de usinas, considerando as restrições de geração e as restrições elétricas
+decorrentes das intervenções já aprovadas para cada período;
+(d) diretrizes operativas para a programação eletroenergética e para a execução das intervenções;
+(e) indicação, para cada intervenção, de que as análises foram concluídas ou estão em andamento;
+(f) intervenções a serem consideradas no Programa Diário de Produção (PDP), estabelecido no
+Submódulo 4.5 – Programação Diária da Operação;
+(g) indicação de aprovação, ou não, da solicitação;
+(h) relação de intervenções canceladas e o motivo do cancelamento;
+(i) relação de intervenções reprogramadas; e
+(j) caracterização de aproveitamentos, quando for o caso, com a explicitação das intervenções e dos
+períodos para os quais a condição de aproveitamento foi identificada.
+1.5. Reprogramações de intervenções
+1.5.1. O agente pode solicitar ao ONS, a qualquer momento, a reprogramação de uma intervenção cuja
+análise ainda não tenha sido iniciada pelo ONS.
+1.5.2. O agente pode solicitar ao ONS a reprogramação de uma intervenção aprovada ou já em análise,
+atendendo aos prazos estabelecidos neste submódulo.
+1.5.2.1. No caso de intervenções já aprovadas que não possam ser executadas em função das condições
+impeditivas definidas no item 1.6.4, conforme [1], podem ser reprogramadas pelo ONS, a partir de solicitação
+do agente, para outro período.
+Endereço na internet: http://www.ons.org.br 7 / 17
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação de intervenções em instalações da
+4.2 Procedimental 2023.12 05/12/2023
+Rede de Operação
+1.5.3. No caso de solicitação, por parte do agente, de reprogramação de intervenções nas condições
+definidas nos itens 1.5.1. 1.5.2. e 1.5.2.1. deste submódulo e havendo concordância do ONS, para efeito de
+contagem dos prazos, o ONS considera a data de encaminhamento da solicitação original.
+1.5.4. O ONS pode solicitar, a qualquer momento, a reprogramação de uma intervenção.
+1.5.4.1. A reprogramação de uma intervenção, por parte do ONS, é feita em comum acordo com o agente
+solicitante.
+1.5.4.2. Quando caracterizada a necessidade de reprogramação de intervenção integrante do PMI, solicitada
+por falta de condições satisfatórias para aprovação, em função da análise ou de incompatibilidade com as
+demais intervenções da Rede de Operação, o ONS interage com o agente solicitante, propondo um ou mais
+períodos alternativos, no mesmo PMI, devendo ser definida sua prioridade em relação às solicitações
+existentes.
+1.5.4.3. Não sendo possível a aprovação de uma intervenção integrante do PMI em função de não serem as
+condições eletroenergéticas compatíveis com sua realização ou por não existir período alternativo factível
+ao longo do mês do PMI, o ONS propõe sua reprogramação para um período em que as condições para a
+realização da intervenção sejam mais adequadas, mesmo que seja necessário reprogramá-la para um mês
+civil diferente da solicitação original, desde que não haja risco para a integridade dos equipamentos.
+1.5.4.4. Não sendo possível a aprovação de uma intervenção não integrante do PMI, a mesma deve ser
+reprogramada para um novo período a ser definido pelo ONS em comum acordo com o agente solicitante.
+1.5.4.5. No caso de reprogramação de intervenções por parte do ONS, para efeito de contagem dos prazos,
+o ONS considera a data de encaminhamento da solicitação original.
+1.5.5. O ONS apura, com base no índice definido no Submódulo 9.4 – Indicadores de desempenho das
+programações eletroenergéticas, de manutenção e de intervenção, as reprogramações de intervenções já
+aprovadas feitas por iniciativa do ONS, desde que não se fundamentem nas seguintes condições:
+(a) indisponibilidades ou fatos relevantes não previstos ou de solicitações de intervenção caracterizadas
+como de urgência e incompatíveis com a intervenção anteriormente aprovada;
+(b) alteração nos dados informados pelos agentes e considerados quando da aprovação, se dessa
+alteração puderem decorrer violações dos critérios para aprovação estabelecidos no Submódulo 2.3;
+e
+(c) alterações significativas nas condições de hidrologia ou na disponibilidade de unidades geradoras que
+levem à violação dos critérios considerados quando da aprovação da solicitação.
+1.6. Cancelamento de intervenções
+1.6.1. Os agentes solicitantes de intervenções podem cancelar a solicitação a qualquer tempo, sem apuração
+dos indicadores de cancelamento, estabelecidos no Submódulo 9.4, desde que ainda não estejam aprovadas
+pelo ONS.
+1.6.2. Em caso de cancelamento de intervenções classificadas nos tipos 1 e 2, já aprovadas, fora dos prazos
+estabelecidos neste submódulo, o ONS apura os índices de cancelamento de intervenções definidos no
+Submódulo 9.4.
+1.6.2.1. Intervenções já aprovadas pelo ONS são canceladas sem apuração no índice de cancelamento do
+ONS quando:
+(a)ocorrerem indisponibilidades ou fatos relevantes não previstos ou houver solicitações de intervenção
+em que seja caracterizado risco de acidente com pessoas, de danificação de equipamentos ou
+Endereço na internet: http://www.ons.org.br 8 / 17
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação de intervenções em instalações da
+4.2 Procedimental 2023.12 05/12/2023
+Rede de Operação
+instalações ou ainda risco iminente de desligamento intempestivo do equipamento e sejam
+incompatíveis com a intervenção anteriormente aprovada;
+(b)houver alteração nos dados informados pelos agentes e considerados por ocasião da aprovação, e
+dessa alteração puderem decorrer violações dos critérios aprovação estabelecidos no Submódulo 2.3;
+(c)após a aprovação da solicitação, ocorrerem, nas condições de hidrologia ou na disponibilidade de
+unidades geradoras, alterações significativas que levem à violação dos critérios considerados quando
+da aprovação da solicitação; ou
+(d)após a aprovação da suspensão de fornecimento, ocorrer por determinação da CCEE ou do próprio
+ONS.
+1.6.3. O ONS apura o índice mensal de cancelamento dos agentes para intervenções dos tipos 1, 2 e 3
+conforme estabelecido no Submódulo 9.4.
+1.6.4. No caso de cancelamento, por parte dos agentes, motivado por uma das seguintes condições
+impeditivas, o agente envolvido deverá encaminhar relatório técnico que comprove esta caracterização:
+(a) condições climáticas adversas;
+(b) necessidade de atendimento de urgências, emergências e/ou perturbações no sistema.
+1.6.5. No caso de cancelamento, por parte dos agentes, de intervenções já aprovadas, exceto quando
+caracterizadas as condições impeditivas definidas no item 1.6.4. deste submódulo, as intervenções deverão
+ser solicitadas novamente pelo agente, conforme prazos estabelecidos neste submódulo.
+1.6.6. No caso de cancelamento, por parte do ONS, de intervenções integrantes do PMI, o ONS propõe novo
+período para a realização da intervenção, e a reprograma em data e horário acertados em comum acordo
+com o agente.
+1.6.7. As urgências, emergências ou falhas em equipamentos ou em linhas de transmissão decorrentes de
+indeferimentos ou de cancelamentos solicitados pelo ONS serão expurgadas da formação dos índices de
+controle de desempenho dos agentes, conforme Submódulo 5.13 – Rotinas Operacionais.
+1.6.8. Quando uma intervenção é cancelada ou indeferida pelo ONS, o agente solicitante poderá negociar
+com o ONS a reprogramação ou alterações da intervenção, atendendo aos prazos estabelecidos neste
+submódulo.
+1.6.9. As intervenções solicitadas pelos agentes no PMI que não puderem ser viabilizadas pelo ONS devem
+ser reprogramadas tão logo as condições do sistema o permitam, em data e horário acertados de comum
+acordo com os agentes. Essas intervenções devem ser consideradas prioritárias em relação às demais
+intervenções solicitadas.
+2. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de Transmissão
+de Energia Elétrica no Sistema Elétrico Nacional. Módulo 4 - Prestação dos Serviços..
+3. ANEXOS
+3.1 Anexo A - Informações mínimas para solicitação de intervenções
+3.2 Anexo B - Classificação das intervenções
+Endereço na internet: http://www.ons.org.br 9 / 17
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação de intervenções em instalações da
+4.2 Procedimental 2023.12 05/12/2023
+Rede de Operação
+Endereço na internet: http://www.ons.org.br 10 / 17
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação de intervenções em instalações da
+4.2 Procedimental 2023.12 05/12/2023
+Rede de Operação
+Anexo A - Informações mínimas para solicitação de intervenções
+A.1. Uma solicitação de intervenção apresenta no mínimo:
+(a) agente solicitante, tipo(s) do(s) equipamento(s), subestação(s) envolvida(s) e código(s) do(s)
+equipamento(s);
+(b) função Transmissão que ficará indisponível durante a intervenção, quando for o caso;
+(c) período pretendido para a execução (datas e horas);
+(d) tempo de retorno à operação, em caso de necessidade do sistema;
+(e) motivo da intervenção, tais como manutenção preventiva, manutenção corretiva, manutenção de
+urgência, testes ou energização de novos equipamentos;
+(f) descrição detalhada dos serviços a serem executados;
+(g) descrição das configurações necessárias para a execução do serviço;
+(h) condições atmosféricas ou climáticas impeditivas à realização da intervenção;
+(i) descrição detalhada dos riscos de desligamentos acidentais, em função da natureza dos trabalhos
+executados, nos equipamentos sob intervenção ou em outros equipamentos;
+(j) informação sobre os riscos de desligamentos quando de intervenções em sistemas de proteção e
+controle das instalações, bem como sobre os efeitos das alterações nas características dos sistemas
+de proteção durante as intervenções;
+(k) justificativas claras para as solicitações de intervenções para manutenção de urgência;
+(l) caracterização das situações em que a postergação da realização da intervenção possa trazer risco à
+integridade do equipamento, caracterização que deve ser documentada;
+(m)informação com explicitação de que se trata de uma intervenção solicitada pelo ONS ao agente
+solicitante;
+(n) informação de utilização de fase reserva para substituição de equipamento de uma Função
+Transmissão;
+(o) informação de restrição operativa temporária, quando aplicável;
+(p) informação, quando de desligamento de equipamentos do Módulo Geral de uma instalação, de que
+o mesmo acarreta a indisponibilidade de alguma Função Transmissão, se for o caso; e;
+(q) informação, quando aplicável, que a intervenção acarreta corte de carga em regime normal.
+Endereço na internet: http://www.ons.org.br 11 / 17
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação de intervenções em instalações da
+4.2 Procedimental 2023.12 05/12/2023
+Rede de Operação
+Anexo B - Classificação das intervenções
+B.1. Quanto ao tipo da intervenção
+B.1.1. Intervenções tipo 1
+(a) Intervenções em equipamentos integrantes de instalações da Rede Básica e das Interligações
+Internacionais que são objeto de CPST que resultem em desligamento ou em restrições operativas de
+Funções Transmissão relacionadas a:
+(1) linhas de transmissão;
+(2) transformadores de potência;
+(3) equipamentos que compõem a conversão ou transmissão de sistema de corrente contínua;
+(4) compensadores síncronos e compensadores estáticos;
+(5) bancos de capacitores;
+(6) reatores manobráveis; e
+(7) capacitores série.
+(b) Indisponibilidade do Módulo de Controle de compensação série variável integrante da Rede Básica e
+das Interligações Internacionais.
+(c) Indisponibilidade de reator não manobrável de FT Linha de Transmissão integrante da Rede Básica e
+das Interligações Internacionais.
+(d) Intervenções em equipamentos do Módulo Geral de uma instalação que implique desligamento ou
+restrição operativa de alguma das Funções Transmissão listadas no item B.1.1. (a).
+B.1.2. Intervenções tipo 2
+(a) Intervenções que não se enquadram no tipo 1 e implicam desligamento ou restrições operativas para
+os seguintes equipamentos da Rede de Operação:
+(1) barramentos, disjuntores e seccionadoras que afetam a topologia da subestação ou a
+confiabilidade do sistema;
+(2) capacitores série;
+(3) linhas de transmissão;
+(4) transformadores de potência;
+(5) compensadores síncronos e compensadores estáticos;
+(6) bancos de capacitores;
+(7) reatores; e
+(8) equipamentos que compõem a conversão, transmissão ou controle de sistema de corrente
+contínua.
+(b) Intervenções que implicam desligamento de unidades geradoras.
+(c) Intervenções que implicam transferência ou remanejamento de carga entre subestações da Rede de
+Operação ou cortes de carga.
+(d) Intervenções que indisponibilizam ou alteram as características de operação de esquemas de
+proteção (ECE e ECS).
+(e) Intervenções que resultam em perda de coordenação da proteção de qualquer equipamento da Rede
+de Operação.
+Endereço na internet: http://www.ons.org.br 12 / 17
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação de intervenções em instalações da
+4.2 Procedimental 2023.12 05/12/2023
+Rede de Operação
+(f) Intervenções para testes e ensaios em novos equipamentos principais que afetam a Rede de
+Operação.
+(g) Intervenções em equipamentos que não integram a Rede de Operação e que implicam restrições ou
+limitações para a operação de equipamentos da Rede de Operação, inclusive o despacho de usinas
+dos tipos I e II ou conjuntos.
+(h) Intervenções em equipamentos energizados que implicam elevação do risco de contingências
+múltiplas.
+(i) Intervenções que alteram a seletividade da proteção ou interferem na atuação dos Sistemas Especiais
+de Proteção e primeira ativação de Sistemas Especiais de Proteção.
+(j) Intervenções que indisponibilizam proteções diferenciais de barras ou proteções de falha de
+disjuntores.
+(k) Suspensão de fornecimento de energia elétrica a consumidor livre por comando da CCEE.
+(l) Intervenção em Esquema Regional de Alívio de Carga (ERAC) que reduza mais de 10% da carga por
+estágio ou mais de 10% da carga por distribuidora, do referido esquema especial de proteção.
+(m)Intervenções para testes de autorrestabelecimento de usinas (black-start).
+(n) Intervenções que indisponibilizem o autorrestabelecimento de usinas.
+(o) Intervenções que implicam, no despacho de usinas eólicas, restrição de 100% da capacidade instalada
+total do Conjunto.
+B.1.3. Intervenções tipo 3
+B.1.3.1. Intervenções sem desligamento de equipamentos principais que se enquadram em uma das
+situações abaixo:
+(a) Intervenções em equipamentos principais e complementares energizados na Rede de Operação com
+risco de desligamento acidental do próprio equipamento ou de outro equipamento da Rede de
+Operação.
+(b) Intervenções em instalações energizadas com risco de desligamento acidental de equipamento
+principal, inclusive no caso das intervenções em serviços auxiliares.
+(c) Intervenções para testes e ensaios em equipamentos principais ou que afetam a Rede de Operação1;
+(d) Intervenções que indisponibilizam quaisquer dos recursos de supervisão e de telecomunicação da
+Rede de Operação abaixo listados, desde que não sejam classificadas como intervenções do tipo 2:
+(1) unidade terminal remota (parcial ou total);
+(2) sistema de telecomunicação (modem ou enlace de voz e/ou dados);
+(3) estação mestre; e
+(4) processador de comunicação (front-end).
+1 Enquadram-se nesse item testes reais de telecomando em que o tempo de abertura e fechamento do disjuntor seja menor que 10
+minutos.
+Endereço na internet: http://www.ons.org.br 13 / 17
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação de intervenções em instalações da
+4.2 Procedimental 2023.12 05/12/2023
+Rede de Operação
+(e) Intervenções que implicam a indisponibilidade do CAG.
+(f) Intervenções no CAG que envolvem pontos de medição de intercâmbio e de geração de usinas.
+(g) Intervenções em linhas de transmissão e barramentos energizados que impõem restrições à operação
+(tais como bloqueio ou desativação de religamento automático) ou necessidade de contato com
+equipes de campo para recomposição do equipamento em caso de desligamento.
+(h) Indisponibilidade de equipamento reserva remunerado que seja objeto de CPST ou indisponibilidade
+de equipamento substituído por equipamento reserva remunerado.
+(i) Restrição operativa em unidades geradoras operando como gerador ou como compensador síncrono
+(MW e Mvar).
+(j) Restrição de unidade geradora operar como compensador síncrono.
+(k) Primeira ativação de religamento de linhas de transmissão, bem como atualizações de ajustes e
+desativações.
+(l) Intervenções que implicam restrições ou limitações parciais no despacho de usinas eólicas superiores
+a 10% da capacidade instalada total do conjunto.
+B.1.3.2. Intervenções com desligamento de equipamentos de manobra, seccionadora ou disjuntores, e
+barramentos não enquadrados no item B.1.2. , que não implicam riscos adicionais de desligamentos.
+B.1.4. Intervenções tipo 4, informadas em tempo real, conforme Módulo 5 – Operação do Sistema
+(a) Intervenções em pontos de telemedição, de telecontrole ou de telessinalização que atendam o ONS,
+mas não estão enquadradas nos itens B.1.3.1. (d) e B.1.3.1. (f).
+(b) Testes em equipamentos de transferência de disparo (teleproteção), desde que não haja
+descoordenação, nem perda de seletividade.
+(c) Intervenções que implicam a indisponibilidade de um conjunto de proteção de equipamentos da Rede
+de Operação, desde que exista pelo menos um outro conjunto redundante e que a funcionalidade e
+o desempenho desse último não sejam afetados.
+B.2. Quanto à caracterização da intervenção
+(a) Intervenções com desligamento (CD): aquelas em que há necessidade, para a realização dos serviços,
+de que o equipamento esteja desligado, isto é, indisponível para a operação.
+(b) Intervenções sem desligamento (SD): aquelas em que, para a realização dos serviços, o equipamento
+não necessita estar desligado, podendo estar ou não disponível para a operação.
+(c) Intervenções para realização de testes (TE): aquelas necessárias à realização de testes em
+equipamentos da Rede de Operação ou em novos equipamentos a serem incorporados à Rede de
+Operação.
+(1) Nesse tipo de intervenção, o equipamento, ainda que em operação, não está à disposição dos
+centros de operação, uma vez que está atendendo às condições de teste. Pode ser ainda que,
+durante a realização dos testes, o equipamento venha a ser desligado, devendo, portanto, ser
+considerado indisponível para a operação.
+B.3. Quanto à natureza da intervenção
+Endereço na internet: http://www.ons.org.br 14 / 17
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação de intervenções em instalações da
+4.2 Procedimental 2023.12 05/12/2023
+Rede de Operação
+(a) Manutenções corretivas (MC): intervenção para o restabelecimento das condições normais de
+utilização dos equipamentos, obras ou instalações.
+(b) Manutenções preventivas (MP): intervenção para controle, acompanhamento, conservação, testes e
+melhorias dos equipamentos ou linhas de transmissão, executada com a finalidade de manter esses
+equipamentos em condições satisfatórias de operação.
+(c) Testes em equipamentos da Rede de Operação (TR): intervenção cuja finalidade é a realização de
+testes – verificação de desempenho e de capacidade de geração, respostas dinâmicas, testes de
+aquecimento etc. – em equipamentos já integrados à Rede de Operação.
+(d) Teste ou energização de novos equipamentos (TN): intervenção cuja finalidade é a realização de
+testes, energizações ou manobras, para integrar um novo equipamento ou linha à Rede de Operação.
+(e) Intervenção para implantação de Ampliação, Reforço e Melhorias (IN).
+(f) Desligamento por motivo de segurança de terceiros, ou para realização de serviços de utilidade
+pública, ou para realização de obras de utilidade pública (ST).
+(g) Restrição operativa, em função de restrição em equipamentos que integram a Função Transmissão
+ou a usina (RO).
+(h) Restrição operativa, em função de restrição ou indisponibilidade de outros equipamentos ou
+instalações do sistema (RS).
+(i) Indisponibilidade de uma Função Transmissão vinculada a projeto de Pesquisa e Desenvolvimento
+Tecnológico do Setor de Energia Elétrica – P&D cadastrado na ANEEL e em execução, nos termos da
+Resolução Normativa ANEEL nº 729, de 2016 (PD).
+(j) Desligamento originado por intervenção em equipamento que não integre a Rede de Operação (DE).
+(k) Indisponibilidade de equipamento reserva remunerado (RE).
+(l) Indisponibilidade de equipamento, substituído por equipamento reserva remunerado (RU).
+(m)Desligamentos para atendimento de solicitação do ONS (SO).
+(n) Suspensão de fornecimento de energia elétrica a consumidor livre, por comando da CCEE (SF).
+(o) Demais naturezas (DN): intervenção ou restrição operativa para atendimento a solicitações não
+enquadradas nos itens anteriores.
+B.4. Quanto ao prazo de solicitação da intervenção
+(a) Intervenção programada em regime normal (IP) – intervenções cujas solicitações forem feitas com
+antecedência maior ou igual a 48 horas, com relação ao horário da intervenção.
+(b) Intervenções programadas em regime de urgência (IPU): intervenções solicitadas com antecedência
+menor que 48 horas e maior ou igual a 24 horas, com relação ao horário da intervenção, desde que a
+natureza do serviço permita ao ONS programar as condições operativas do SIN em conformidade com
+os critérios estabelecidos no Submódulo 2.3, podendo inclusive modificar o início e/ou duração da
+intervenção.
+(c) Intervenções de urgência (IU): intervenções, solicitadas com antecedência inferior a 24 horas, com
+relação ao horário da intervenção, ou com antecedência entre 24 horas e 48 horas, com relação ao
+Endereço na internet: http://www.ons.org.br 15 / 17
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação de intervenções em instalações da
+4.2 Procedimental 2023.12 05/12/2023
+Rede de Operação
+horário da intervenção, e não sendo possível ao ONS programar as condições operativas do SIN, em
+conformidade com os critérios estabelecidos nos Procedimentos de Rede.
+(d) Intervenções de emergência (EM): intervenção efetuada em equipamento ou instalação, com o
+objetivo de corrigir falha que tenha ocasionado seu desligamento intempestivo, automático ou
+manual.
+B.5. Quanto à classificação do desligamento
+B.5.1. A classificação quanto ao tipo de desligamento só se aplica a intervenções do tipo 1 que acarretem o
+desligamento de Funções Transmissão da Rede Básica e das Interligações Internacionais que sejam
+objeto de CPST.
+(a) Desligamento programado (DP): são as indisponibilidades de Funções Transmissão programadas em
+regime normal e as programadas em regime de urgência, conforme item B.4. .
+(b) Outros Desligamentos: são as indisponibilidades de Funções Transmissão classificadas como
+intervenções de urgência e emergência.
+B.6. Quanto à caracterização de intervenções como inclusão de serviços
+B.6.1. São consideradas como inclusões de serviços as solicitações de intervenções em uma Função
+Transmissão ou em um equipamento da Rede de Operação que já estará desligada, no mesmo período,
+em função de outra solicitação de intervenção.
+B.6.2. Havendo solicitação de intervenção que implique a indisponibilidade de uma Função Transmissão,
+novos serviços referentes à mesma Função poderão ser solicitados, desde que:
+(a) o período solicitado esteja contido no período da intervenção original;
+(b) o tempo de retorno seja igual ou inferior ao da intervenção original;
+(c) não sejam agregados riscos nem haja necessidade de análises adicionais, em relação ao
+anteriormente considerado.
+B.6.3. Quando forem agregados riscos ou houver necessidade de análises adicionais, além das requeridas
+pela intervenção original, a solicitação de intervenção ainda poderá ser caracterizada como inclusão de
+serviços, devendo, porém, atender aos prazos estabelecidos neste submódulo.
+B.7. Quanto à caracterização de intervenções como aproveitamento
+B.7.1. São consideradas como aproveitamentos as solicitações de intervenção em Função Transmissão ou em
+um equipamento da Rede de Operação desenergizada em consequência do desligamento para
+intervenção em uma outra Função Transmissão ou em um outro equipamento da Rede de Operação.
+B.7.2. A caracterização de aproveitamento independe de os equipamentos envolvidos serem de propriedade
+de um mesmo agente ou de agentes distintos.
+B.7.3. Para que uma intervenção seja caracterizada como aproveitamento, o período solicitado deve estar
+contido no período aprovado para a intervenção original, seu tempo de retorno deve ser menor ou igual
+ao da intervenção original.
+B.7.4. Quando forem agregados riscos ou houver necessidade de análises adicionais, além das requeridas
+pela intervenção original, a solicitação de intervenção ainda poderá ser caracterizada como
+aproveitamento, devendo, porém, atender aos prazos estabelecidos neste submódulo.
+Endereço na internet: http://www.ons.org.br 16 / 17
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação de intervenções em instalações da
+4.2 Procedimental 2023.12 05/12/2023
+Rede de Operação
+B.7.5. Não são tratadas como aproveitamento intervenções que implicam a indisponibilidade de uma mesma
+Função Transmissão.
+Endereço na internet: http://www.ons.org.br 17 / 17

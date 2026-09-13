@@ -1,0 +1,1525 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 2.10-RQ_2025.02
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 2.10-RQ_2025.02.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 2.10
+Requisitos técnicos mínimos para a
+conexão às instalações de transmissão
+Requisitos
+Revisão Motivo da revisão Data de aprovação
+2025.02 Resolução Normativa ANEEL nº 1.112/2025 11/02/2025
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................5
+2. REQUISITOS GERAIS.........................................................................................................................5
+3. SISTEMAS DE PROTEÇÃO, SUPERVISÃO E CONTROLE, MEDIÇÃO, TELECOMUNICAÇÕES E CONTROLE
+DAS INSTALAÇÕES DE CONEXÃO......................................................................................................6
+3.1. Sistemas de proteção, de registro de perturbações e de telecomunicações para teleproteção..6
+3.1.1. Aspectos gerais............................................................................................................6
+3.1.2. Sistemas de proteção de linhas de transmissão..........................................................6
+3.1.3. Sistemas de registro de perturbações.........................................................................6
+3.1.4. Sistemas Especiais de Proteção (SEP)..........................................................................7
+3.1.5. Proteções de caráter sistêmico...................................................................................7
+3.2. Sistemas de supervisão e controle para a operação.....................................................................7
+3.3. Sistemas de medição para faturamento.......................................................................................7
+3.4. Sistemas de telecomunicações......................................................................................................7
+3.5. Sistemas de controle.....................................................................................................................7
+3.6. Unidades de Medição de Sincrofasores (PMU).............................................................................8
+4. CONEXÃO DE USINAS HIDROELÉTRICAS E TERMOELÉTRICAS............................................................8
+4.1. Aspectos gerais..............................................................................................................................8
+4.2. Requisitos técnicos gerais...........................................................................................................10
+4.3. Sistema de excitação...................................................................................................................12
+4.3.1. Geral..........................................................................................................................12
+4.3.2. Conversor de potência e excitatriz da unidade geradora..........................................13
+4.3.3. Regulador de tensão da unidade geradora...............................................................14
+4.4. Regulação primária de frequência..............................................................................................16
+4.4.1. Geral..........................................................................................................................16
+4.4.2. Desempenho da regulação primária.........................................................................16
+4.5. Regulação secundária de frequência...........................................................................................17
+4.6. Sistema de proteção para as unidades geradoras.......................................................................17
+4.7. Sistema de registro de perturbação para as unidades geradoras...............................................18
+4.8. Serviços auxiliares para as usinas geradoras...............................................................................18
+Endereço na internet: http://www.ons.org.br 2 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+4.9. Solicitações de curto-circuito......................................................................................................19
+5. CONEXÃO DE CENTRAIS GERADORAS EÓLICAS E FOTOVOLTAICAS.................................................20
+5.1. Aspectos gerais............................................................................................................................20
+5.2. Requisitos técnicos gerais...........................................................................................................22
+5.3. Variação de tensão em regime permanente...............................................................................30
+5.4. Instabilidade de tensão...............................................................................................................30
+5.5. Sistema de proteção para centrais geradoras.............................................................................30
+5.6. Sistema de registro de perturbações para centrais geradoras...................................................30
+5.7. Suportabilidade a subtensões e sobretensões dinâmicas...........................................................30
+5.8. Injeção de corrente reativa sob defeito......................................................................................31
+5.9. Tomada de carga.........................................................................................................................32
+6. CONEXÃO DE CENTRAIS GERADORAS HÍBRIDAS E CENTRAIS GERADORAS ASSOCIADAS.................32
+6.1. Aspectos gerais............................................................................................................................32
+6.2. Requisitos técnicos gerais...........................................................................................................33
+7. CONEXÃO DE CARGA......................................................................................................................35
+7.1. Aspectos gerais............................................................................................................................35
+7.2. Condições de conexão.................................................................................................................35
+7.3. Fator de potência........................................................................................................................36
+8. CONEXÃO DAS INSTALAÇÕES DE INTERESSE RESTRITO DE AGENTES DE IMPORTAÇÃO/EXPORTAÇÃO
+PARA INTERLIGAÇÃO INTERNACIONAL...........................................................................................37
+8.1. Capacidade de transmissão.........................................................................................................37
+8.2. Desempenho dinâmico................................................................................................................37
+8.3. Controle de tensão......................................................................................................................37
+8.4. Interferência harmônica..............................................................................................................37
+8.5. Operação monopolar com retorno pela terra.............................................................................37
+8.6. Outros aspectos...........................................................................................................................37
+9. CONEXÃO EM DERIVAÇÃO (TAPE) NA REDE BÁSICA.......................................................................38
+9.1. Condições gerais..........................................................................................................................38
+9.2. Instalações de conexão...............................................................................................................39
+9.3. Sistemas de proteção..................................................................................................................39
+Endereço na internet: http://www.ons.org.br 3 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+10. ARRANJO DE BARRAMENTO..........................................................................................................40
+10.1. Acesso às instalações de transmissão sob responsabilidade de agente de transmissão............40
+10.2. Subestações de uso exclusivo de agente de geração, de importação/exportação ou consumidor
+com conexão às instalações de transmissão sob responsabilidade de agente de transmissão..41
+11. ÁREA DA SUBESTAÇÃO..................................................................................................................41
+11.1. Acesso às instalações de transmissão sob responsabilidade de agente de transmissão............42
+11.2. Subestações de uso exclusivo de agente de geração, de importação/exportação ou consumidor
+com conexão às instalações de transmissão...............................................................................42
+12. REFERÊNCIAS.................................................................................................................................42
+Endereço na internet: http://www.ons.org.br 4 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+1. OBJETIVO
+1.1. Estabelecer os requisitos técnicos mínimos para a conexão às instalações sob responsabilidade de
+agente de transmissão, com o propósito de:
+(a) balizar as ações do Operador Nacional do Sistema Elétrico – ONS relativas à proposição das
+ampliações, reforços e melhorias nas instalações sob responsabilidade de agente de transmissão;
+(b) fornecer aos novos usuários das instalações sob responsabilidade de agente de transmissão as
+informações necessárias para a elaboração do projeto do ponto de conexão e das instalações de
+transmissão de uso exclusivo/restrito; e
+(c) fornecer aos usuários já conectados às instalações sob responsabilidade de agente de transmissão,
+que requeiram acesso e/ou contratação, as informações necessárias para atualização/adequação do
+projeto do ponto de conexão e das instalações de transmissão de uso exclusivo/restrito.
+1.1.1. Os requisitos aplicam-se à conexão de agentes de geração, agentes de distribuição, consumidores
+livres e agentes de importação ou exportação de energia elétrica à Rede Básica, às Demais Instalações de
+Transmissão (DIT), às instalações de transmissão de interesse exclusivo de centrais de geração para conexão
+compartilhada (ICG) e às instalações de transmissão de energia elétrica destinadas a interligações
+internacionais conectadas à Rede Básica.
+1.1.2. Os requisitos da seção 4, exceto no que se refere a potência ativa, são aplicados a compensadores
+síncronos com conexão às instalações sob responsabilidade de agente de transmissão.
+1.2. Este submódulo também tem como objetivo apresentar os requisitos técnicos mínimos com impacto
+sistêmico para a conexão de centrais de geração às instalações sob responsabilidade de distribuidora em
+nível de tensão superior a 69 kV.
+2. REQUISITOS GERAIS
+2.1. A conexão às instalações de transmissão deve atender aos padrões de desempenho definidos no Módulo
+9 – Indicadores.
+2.1.1. É de responsabilidade de todos os agentes envolvidos garantir que na fronteira com as instalações
+sob responsabilidade de agente de transmissão sejam atendidos os limites dos indicadores de desempenho
+e os requisitos técnicos mínimos estabelecidos nos Procedimentos de Rede.
+2.1.2. Os indicadores de desempenho das instalações de transmissão quanto à Qualidade da Energia Elétrica
+(QEE) têm limites globais, de caráter sistêmico, e limites individuais, relativos a cada acessante.
+2.1.2.1. Os indicadores de caráter individual podem ser obtidos por meio de medição, conforme estabelecido
+no Submódulo 2.9 – Requisitos mínimos de qualidade de energia elétrica para acesso ou integração à Rede
+Básica, e de estudos, conforme descrito no Submódulo 2.3 – Premissas, critérios e metodologia para estudos
+elétricos.
+2.1.2.2. Os indicadores de caráter global devem ser obtidos por meio de campanhas de medição, conforme
+estabelecido no Submódulo 2.9.
+2.2. Quando houver compartilhamento de instalações de interesse restrito para a conexão às instalações
+sob responsabilidade de agente de transmissão ou de distribuição, os requisitos técnicos mínimos devem ser
+atendidos por todos os usuários do compartilhamento na conexão das instalações compartilhadas às
+instalações sob responsabilidade de agente de transmissão ou de distribuição.
+Endereço na internet: http://www.ons.org.br 5 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+2.3. Os requisitos técnicos mínimos aplicáveis às instalações de conexão às DIT devem atender os padrões
+técnicos da concessionária de transmissão detentora da instalação acessada e às normas e padrões técnicos
+da concessionária ou permissionária de distribuição, quando houver transferência de instalações.
+2.4. Por princípio, os requisitos técnicos mínimos das instalações de conexão do acessante devem estar em
+conformidade com as normas técnicas da Associação Brasileira de Normas Técnicas – ABNT, no que for
+aplicável e, complementados, com as normas técnicas da International Electrotechnical Commission – IEC e
+American National Standards Institute – ANSI.
+2.4.1. Quando nenhuma das normas anteriores atenderem aos requisitos exigidos e com a anuência prévia
+pelo Operador, as recomendações do Institute of Electrical and Electronics Engineers – IEEE podem ser
+seguidas.
+2.5. O ONS, a seu critério, pode propor à Agência Nacional de Energia Elétrica – ANEEL a adequação de
+instalação de conexão existente devido ao não atendimento aos requisitos técnicos estabelecidos neste
+submódulo, decorrente da evolução do Sistema Interligado Nacional (SIN).
+2.6. O acessante é responsável por avaliar qualquer efeito que o SIN possa provocar sobre suas instalações
+e por tomar as ações corretivas e protetivas que lhe são cabíveis.
+2.6.1. Todos os estudos necessários à avaliação do impacto da usina no SIN devem ser realizados pelo
+acessante e disponibilizados seus resultados e as bases de dados utilizadas.
+2.7. O acessante gerador deve, ao implantar seu empreendimento, atentar para as regras de uso da Área de
+Desenvolvimento da Subestação (ADS), definidas em [3], de forma que suas instalações não prejudiquem a
+expansão da subestação a ser acessada, bem como as demais subestações de transmissão integrantes da
+Rede Básica (RB) ou Demais Instalações de Transmissão (DIT).
+2.7.1. As regras de uso da ADS se aplicam também para as subestações seccionadoras de linhas de
+transmissão a serem implantadas por acessantes geradores.
+3. SISTEMAS DE PROTEÇÃO, SUPERVISÃO E CONTROLE, MEDIÇÃO, TELECOMUNICAÇÕES E CONTROLE
+DAS INSTALAÇÕES DE CONEXÃO
+3.1. Sistemas de proteção, de registro de perturbações e de telecomunicações para teleproteção
+3.1.1. Aspectos gerais
+3.1.1.1. Os requisitos técnicos gerais para os sistemas de proteção, de registro de perturbações e de
+telecomunicações para teleproteção estão descritos no Submódulo 2.11 – Requisitos mínimos para os
+sistemas de proteção, de registro de perturbações e de teleproteção.
+3.1.2. Sistemas de proteção de linhas de transmissão
+3.1.2.1. Linhas radiais de uso exclusivo do acessante podem dispensar a utilização de esquemas de
+teleproteção mediante avaliação técnica do ONS.
+3.1.3. Sistemas de registro de perturbações
+3.1.3.1. Os sistemas de registro de perturbações das instalações do acessante podem ser constituídos por
+funções integradas nos sistemas de proteção dessas instalações.
+Endereço na internet: http://www.ons.org.br 6 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+3.1.3.2. Os registros de oscilografia devem ser armazenados pelo acessante e fornecidos ao ONS e ao agente
+de transmissão acessado, quando solicitado, conforme estabelecido no Submódulo 6.3 – Análise de
+perturbação.
+3.1.3.3. Esses registros devem ser disponibilizados ao ONS no formato de dados especificado no Submódulo
+7.10 – Implantação do sistema de registro de perturbações.
+3.1.4. Sistemas Especiais de Proteção (SEP)
+3.1.4.1. Quando solicitado pelo ONS, após a elaboração de estudos com a participação dos agentes
+envolvidos, o agente de transmissão acessado e o acessante devem instalar/adequar/desinstalar SEP,
+conforme estabelecido no Submódulo 7.5 – Implantação de Sistemas Especiais de Proteção.
+3.1.5. Proteções de caráter sistêmico
+3.1.5.1. Quando solicitado pelo ONS, o agente de transmissão acessado e o acessante devem
+instalar/adequar proteções de caráter sistêmico, conforme estabelecido no Submódulo 7.6 – Implantação de
+proteções de caráter sistêmico.
+3.2. Sistemas de supervisão e controle para a operação
+3.2.1. Os sistemas de supervisão e controle devem atender aos requisitos técnicos descritos no Submódulo
+2.12 – Requisitos mínimos de supervisão e controle para a operação.
+3.3. Sistemas de medição para faturamento
+3.3.1. Os procedimentos e requisitos referentes aos sistemas de medição para faturamento estão
+estabelecidos no Submódulo 2.14 – Requisitos mínimos para Sistemas de Medição para Faturamento, no
+Submódulo 7.11 – Implantação do Sistema de Medição para Faturamento, no Submódulo 6.16 – Manutenção
+do Sistema de Medição para Faturamento e no Submódulo 6.17 – Coleta de dados de medição para
+faturamento.
+3.4. Sistemas de telecomunicações
+3.4.1. Os padrões e procedimentos referentes aos sistemas de telecomunicações estão estabelecidos no
+Submódulo 2.15 – Requisitos mínimos para telecomunicações, no Submódulo 7.12 – Implantação dos
+serviços de telecomunicações para atendimento às necessidades do Sistema Interligado Nacional, no
+Submódulo 5.9 – Manutenção dos serviços de telecomunicações que atendem a Operação do SIN e no
+Submódulo 6.10 – Avaliação do desempenho dos serviços de telecomunicações que atendem à Operação do
+SIN.
+3.5. Sistemas de controle
+3.5.1. Os requisitos técnicos mínimos de controle para a conexão de usinas hidroelétricas e termoelétricas
+estão relacionados no item 4 deste submódulo.
+3.5.2. Os requisitos técnicos mínimos de controle para a conexão de centrais geradoras eólicas e
+fotovoltaicas estão relacionados no item 5 deste submódulo.
+3.5.3. Para as instalações que requerem sistemas de controle específicos, tais como estações conversoras
+de frequência, sistemas de transmissão em corrente contínua (CC), equipamentos FACTS (Flexible AC
+Transmission Systems) e compensadores estáticos, os requisitos devem ser definidos caso a caso pelo ONS,
+com o objetivo de garantir o desempenho adequado das instalações de transmissão.
+Endereço na internet: http://www.ons.org.br 7 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+3.6. Unidades de Medição de Sincrofasores (PMU)
+3.6.1. Quando solicitado pelo ONS, deve ser prevista a instalação de Unidades de Medição de Sincrofasores
+(Phasor Measurement Unit - PMU), atendendo os requisitos técnicos definidos pelo ONS no Submódulo 2.13
+– Requisitos mínimos para Sistemas de Medição Sincronizada de Fasores e no Submódulo 7.9 – Implantação
+dos sistemas de supervisão e controle para a operação.
+4. CONEXÃO DE USINAS HIDROELÉTRICAS E TERMOELÉTRICAS
+4.1. Aspectos gerais
+4.1.1. Os requisitos técnicos mínimos para conexão de usinas hidroelétricas e termoelétricas são aplicáveis
+a:
+(a) unidades geradoras das usinas hidroelétricas e termoelétricas com potência total superior a 30 MW
+com conexão às instalações sob responsabilidade de agente de transmissão, de forma individual ou
+compartilhada; e
+(b) unidades geradoras das usinas hidroelétricas e termoelétricas com conexão às instalações sob
+responsabilidade de agente de distribuição e classificadas na modalidade de operação Tipo I,
+conforme Submódulo 7.2 – Classificação da modalidade de operação de usinas.
+4.1.1.1. Compensadores síncronos com conexão às instalações sob responsabilidade de agente de
+transmissão, de forma individual ou compartilhada, devem atender aos requisitos técnicos mínimos descritos
+nesta seção 4, exceto no que se refere aos requisitos que envolvam potência ativa.
+4.1.1.2. As usinas hidroelétricas classificadas na modalidade de operação Tipo II-A podem ter alguns de seus
+requisitos técnicos mínimos flexibilizados.
+4.1.2. As unidades geradoras das usinas hidroelétricas e termoelétricas com potência total inferior ou igual
+a 30 MW com conexão às instalações sob responsabilidade de agente de transmissão, de forma individual ou
+compartilhada, devem atender:
+(a) aos requisitos técnicos gerais para operação em regime de frequência não nominal indicados nos itens
+4.2.1. e 4.2.2. deste submódulo; e
+(b) aos demais requisitos gerais, caso o ONS identifique a necessidade desses requisitos após avaliação
+levando em consideração a potência total da usina e a sua localização no sistema elétrico.
+4.1.3. As unidades geradoras das usinas hidroelétricas e termoelétricas classificadas nas modalidades de
+operação Tipo II-A, Tipo II-B, Tipo II-C ou Tipo III com conexão às DIT ou às instalações sob responsabilidade
+de agente de distribuição em tensão superior a 69 kV, devem atender:
+(a) aos requisitos técnicos gerais para operação em regime de frequência não nominal indicados nos itens
+4.2.1. e 4.2.2. deste submódulo; e
+(b) aos demais requisitos gerais, no caso de usinas com capacidade instalada total superior a 30 MW ou
+por grupos de usinas, em uma mesma área geoelétrica, com capacidade instalada total superior a
+50 MW, se o ONS avaliar necessário.
+4.1.3.1. Para as centrais geradoras classificada na modalidade de operação Tipo III com conexão às
+instalações sob responsabilidade de agente de distribuição, as tratativas com os agentes de geração, bem
+como a avaliação do atendimento dos requisitos é de responsabilidade da distribuidora acessada.
+Endereço na internet: http://www.ons.org.br 8 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+4.1.3.2. As funções de proteção de frequência das unidades geradoras ou do ponto de acoplamento comum
+com a rede da distribuidora, como por exemplo as funções de proteção anti-ilhamento, devem possuir
+ajustes coordenados com tais requisitos.
+4.1.4. Os acessos de usinas devem atender na conexão às instalações sob responsabilidade de agente de
+transmissão os limites dos indicadores de desempenho definidos no Submódulo 9.7 – Indicadores de
+qualidade de energia elétrica da Rede Básica.
+4.1.5. As usinas não podem reduzir a flexibilidade de recomposição da rede elétrica, seja em função de
+limitações dos seus equipamentos, seja em função de tempo de recomposição, salvo em situações críticas
+de esvaziamento de reservatório.
+4.1.6. Para o ponto de conexão às instalações sob responsabilidade de agente de transmissão e para a área
+de influência da usina devem ser feitas avaliações para verificar se há superação da capacidade de
+equipamentos ou necessidade de reajustes de parâmetros de proteção, supervisão e controle. Para tal,
+devem ser realizados estudos relativos:
+(a) ao nível de curto-circuito com a presença da usina;
+(b) à capacidade de disjuntores, barramentos, transformadores de corrente e malhas de terra,
+verificando inclusive a possibilidade de saturação de transformadores de corrente;
+(c) à adequação e ao ajuste dos sistemas de proteção, supervisão e controle envolvidos com a integração
+da usina;
+(d) à avaliação paramétrica dos reguladores de tensão, de velocidade e dos sinais estabilizadores; e
+(e) à avaliação dos sistemas de partida das unidades geradoras termoelétricas quanto aos indicadores de
+variação de tensão de curta duração estabelecidos no Submódulo 9.7 – Indicadores de qualidade de
+energia elétrica da Rede Básica.
+4.1.7. O agente de geração responsável por usina termoelétrica, com a finalidade de subsidiar as
+especificações técnicas da usina, deve analisar os modos de oscilação subsíncrona de seus equipamentos
+quanto a possíveis interações com os controles de conversora de corrente contínua (CCAT), controlador
+FACTS e banco de capacitores série próximos à usina termoelétrica.
+4.1.7.1. Sempre que necessário, equipamentos para o amortecimento adequado de tais oscilações devem
+ser instalados pelo acessante antes do início da operação da usina.
+4.1.8. Cada unidade geradora a ser interligada ao SIN deve ser especificada para suportar esforços torcionais
+sobre os conjuntos turbina-gerador provenientes de manobras, curtos-circuitos e religamentos.
+4.1.8.1. Aplica-se particularmente diante de possíveis interações torcionais com os controles de conversora
+de corrente contínua (CCAT), controlador FACTS e banco de capacitores série próximos à usina, mesmo que
+as oscilações subsíncronas decorrentes de tais interações sejam adequadamente amortecidas.
+4.1.9. Mediante solicitação do agente, o ONS deve avaliar a possibilidade de tomar providências visando
+reduzir os esforços oriundos de religamento de linha de transmissão (LT). Para tal, o agente deve apresentar
+ao ONS:
+(a) os resultados de estudos – com explicitação da modelagem e da metodologia de cálculo utilizadas –
+que demonstrem a necessidade de tais providências;
+(b) os valores de suportabilidade máxima admissível dos eixos de seus equipamentos; e
+(c) demais características do conjunto turbina-gerador necessárias para a caracterização das interações
+torcionais.
+Endereço na internet: http://www.ons.org.br 9 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+4.1.10. Os ajustes dos controladores e das proteções das instalações devem ser definidos e implantados
+pelos agentes responsáveis pelas instalações, de forma a garantir a integridade dos componentes, mantendo
+seletividade com os componentes adjacentes e atendendo aos requisitos mínimos estabelecidos neste
+submódulo e no documento de Filosofias de Proteção das Unidades Geradoras [4].
+4.1.11. As ações e os custos decorrentes da aplicação dos requisitos técnicos mínimos descritos nesta seção
+4 são de responsabilidade do agente de geração.
+4.2. Requisitos técnicos gerais
+4.2.1. Em operação em regime de frequência não nominal para unidades ou centrais geradoras
+hidroelétricas, deve-se atender às seguintes condições:
+(a) permitido o desligamento ou desconexão da rede, de forma instantânea, para operação abaixo de
+56 Hz;
+(b) permitido o desligamento ou desconexão da rede, após um tempo mínimo de 20 s, para operação
+abaixo de 58,5 Hz;
+(c) operação contínua entre 58,5 e 63 Hz;
+(d) permitido o desligamento ou desconexão da rede após um tempo mínimo de 10 s, para operação
+acima de 63 Hz; e
+(e) permitido o desligamento ou desconexão da rede, de forma instantânea, para operação acima de 66
+Hz.
+4.2.1.1. As proteções de subfrequência e sobrefrequência devem ser ajustadas conforme o documento de
+Filosofias de Proteção das Unidades Geradoras [4].
+4.2.1.2. A Figura 1 resume as condições e faixas de operação da unidade geradora ou central geradora
+hidroelétrica em regime de frequência não nominal.
+Figura 1 – Faixas de operação da central geradora hidroelétrica em regime de frequência não nominal.
+4.2.2. Em operação em regime de frequência não nominal para unidades ou centrais geradoras
+termoelétricas, deve-se atender às seguintes condições:
+(a) permitido o desligamento ou desconexão da rede, de forma instantânea, para operação abaixo de 57
+Hz;
+(b) permitido o desligamento ou desconexão da rede, após um período de tempo mínimo de 5 s, para
+operação abaixo de 57,5 Hz;
+(c) permitido o desligamento ou desconexão da rede após um período de tempo mínimo de 10 s, abaixo
+de 58,5 Hz;
+(d) operação contínua entre 58,5 e 61,5 Hz;
+(e) permitido o desligamento ou desconexão da rede após um período de tempo mínimo de 10 s, para
+operação acima de 61,5 Hz; e
+Endereço na internet: http://www.ons.org.br 10 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+(f) permitido o desligamento ou desconexão da rede acima de 63 Hz de forma instantânea.
+4.2.2.1. As proteções de subfrequência e sobrefrequência devem ser ajustadas conforme o documento de
+Filosofias de Proteção das Unidades Geradoras [4].
+4.2.2.2. A Figura 2resume as condições e faixas de operação da unidade geradora ou central geradora em
+regime de frequência não nominal.
+Figura 2 – Faixas de operação da central geradora termoelétrica em regime de frequência não nominal.
+4.2.3. Em casos excepcionais, pode ser proposta pelo agente de geração, para análise do ONS, a operação
+de usina termoelétrica em condições diferentes das estabelecidas no item 4.2.2. , desde que:
+(a) atenda obrigatoriamente ao requisito para operação contínua entre 58,5 e 61,5 Hz;
+(b) em condições de subfrequência, o ilhamento da usina seja tecnicamente viável, com a garantia do
+perfeito funcionamento do SEP associado;
+(c) em condições de sobrefrequência, as unidades geradoras sejam desligadas por proteção ou esquema
+específico, com ajustes de frequência e temporização estabelecidos pelo ONS;
+(d) os custos decorrentes da implantação dos esquemas de proteção necessários, bem como os oriundos
+da operação inadequada desses esquemas, fiquem a cargo do agente de geração;
+(e) os esquemas de ilhamento da central geradora atendam os limites de suportabilidade de tensão,
+definidos no item 4.2.7. , e estejam em conformidade com o documento de Filosofias de Proteção das
+Unidades Geradoras [4].
+4.2.4. Participação em Sistemas Especiais de Proteção (SEP):
+(a) deve ser possível a desconexão automática de geração para atender aos esquemas de ilhamento da
+usina, de modo a minimizar consequências de perturbações no sistema.
+4.2.5. Geração/absorção de potência reativa dentro da faixa operativa admissível da tensão terminal:
+(a) a unidade geradora deve ser capaz de operar com fator de potência dentro da faixa de 0,90 capacitivo
+(sobreexcitado) a 0,95 indutivo (subexcitado), sem restrição pelo sistema de excitação.
+4.2.6. Na operação em regime de tensão não nominal, deve-se atender à seguinte condição:
+(a) na condição operativa sob contingências, operação na faixa de tensão conforme critério de tensão
+admissível entre fases a 60 Hz estabelecido no Submódulo 2.3 no ponto de conexão da usina às
+instalações sob responsabilidade de agente de transmissão ou de distribuição, sem atuação dos relés
+de subtensão e sobretensão temporizados da usina.
+4.2.7. Suportabilidade a subtensões e sobretensões transitórias:
+(b) caso haja variações temporárias de tensão em uma ou mais fases nas unidades geradoras ou em seus
+serviços auxiliares, decorrentes de distúrbios na Rede Básica, a central geradora deve se manter em
+operação (sem desconexão), se a tensão no terminal do gerador permanecer dentro da região
+indicada na Figura 3; e
+Endereço na internet: http://www.ons.org.br 11 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+(c) deve ser aplicado a qualquer tipo de distúrbio, sejam eles provocados por rejeição de carga, defeitos
+simétricos ou assimétricos, devendo ser atendida pela tensão da fase que sofrer maior variação.
+Figura 3 – Suportabilidade das unidades geradoras e seus serviços auxiliares a subtensões e sobretensões transitórias.
+4.2.8. Desempenho durante curto-circuito assimétrico (corrente de sequência inversa):
+(a) cada unidade geradora deve suportar a circulação da corrente de sequência inversa correspondente
+a uma falta assimétrica, definida por sua característica I 2t = K, durante o tempo decorrido desde o
+2
+início da falta até a atuação da última proteção de retaguarda.
+4.2.9. Operação ilhada com seus serviços auxiliares (exceto para usinas a carvão e usinas nucleares):
+(a) quando as variações de tensão e/ou frequência na rede excederem os seus limites, a usina deve passar
+com segurança para a operação ilhada com seus serviços auxiliares e ter a possibilidade de se manter
+nessa condição por pelo menos 1 hora.
+4.3. Sistema de excitação
+4.3.1. Geral
+4.3.1.1. As características e o desempenho do sistema de excitação devem estar adequados ao projeto do
+gerador.
+4.3.1.2. O sistema de excitação deve conter, no mínimo, os seguintes recursos:
+(a) controle automático da tensão terminal no gerador, ou da tensão da barra de alta da usina mediante
+controle conjunto das unidades geradoras;
+(b) controle manual da excitação do gerador;
+(c) transição suave do controle automático para o controle manual e vice-versa;
+(d) permitir sua integração a um controle conjunto de tensão da instalação;
+(e) limitador de subexcitação;
+(f) limitador de máxima e mínima corrente de excitação;
+(g) limitador Volt/Hertz;
+(h) compensação de corrente reativa;
+Endereço na internet: http://www.ons.org.br 12 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+(i) estabilizador de sistemas de potência; e
+(j) desempenho automático das funções que são requeridas pelas sequências do automatismo de
+partida e parada do grupo turbina-gerador.
+4.3.1.3. Em casos excepcionais, para usinas termoelétricas de co-geração, com motores de combustão
+interna ou nucleares, pode ser proposto pelo agente, para análise do ONS, a flexibilização de requisitos
+técnicos referentes ao item 4.3.2 deste submódulo.
+4.3.1.4. A solicitação de flexibilização dos requisitos deve ser feita pelo agente na etapa de solicitação de
+acesso, e a sua aceitação dependerá de anuência do ONS, com base em avaliações técnicas especificadas
+pelo Operador e desenvolvidas e registradas em Relatório Técnico pelo agente.
+4.3.2. Conversor de potência e excitatriz da unidade geradora
+4.3.2.1. O conversor de potência deve ser constituído de pontes retificadoras trifásicas, conectadas em
+paralelo, de modo a atender às seguintes exigências operacionais:
+(a) a corrente deve ser equalizada nos semicondutores em paralelo em cada ramo da ponte; e
+(b) se (N) módulos conectados em paralelo são necessários para suprir a capacidade nominal contínua e
+satisfazer os requisitos do ciclo de operação do sistema de excitação, então (N+1) módulos devem ser
+fornecidos.
+4.3.2.2. Capacidade nominal do sistema de excitação:
+(a) a capacidade de condução de corrente contínua do sistema de excitação não pode ser inferior a 110%
+do valor da corrente de campo em sobrecarga do gerador, obtido nas condições normais de potência
+ativa, potência reativa e fator de potência e com 105% da tensão terminal nominal.
+4.3.2.3. A capacidade contínua do transformador de excitação não deve ser menor que o requerido para
+operação do gerador a plena carga e 105% de tensão nominal.
+4.3.2.4. O dimensionamento da tensão de teto deve obedecer:
+(a) teto positivo: não menor que 2,5 vezes o valor da tensão de campo a plena carga, obtido nas
+condições de potência ativa, reativa, tensão terminal e fator de potência nominais da placa do
+gerador; e
+(b) teto negativo: não menor que 80% do teto positivo.
+4.3.2.5. O tempo de resposta da tensão de campo do gerador deve ser menor ou igual a 0,1 s.
+4.3.2.5.1. Define-se o tempo de resposta da tensão de campo como sendo o tempo necessário para a tensão
+de campo do gerador atingir 95% da diferença entre a tensão de teto e a tensão de campo a plena carga, sob
+as seguintes condições:
+(a) gerador operando em vazio; e
+(b) degrau na referência do regulador de tensão para levar o sistema de excitação à tensão de teto.
+4.3.2.6. O sistema de excitação não deve depender de outra unidade geradora nem de fonte de alimentação
+auxiliar externa em corrente alternada, exceto para:
+(a) a pré-excitação do campo do gerador;
+(b) os serviços auxiliares que sejam essenciais à partida do gerador;
+(c) os serviços auxiliares que não impliquem em restrições operacionais do gerador; e
+Endereço na internet: http://www.ons.org.br 13 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+(d) os ensaios.
+4.3.2.7. Para sistemas de excitação com transformador de excitação conectado no lado de alta dos terminais
+do próprio gerador (bus-fed), devem estar disponíveis os seguintes recursos destinados à pré-excitação do
+campo do gerador:
+(a) possibilidade de entrada e saída da pré-excitação de forma automática;
+(b) fonte de alimentação da pré-excitação independente do gerador; e
+(c) dispositivos limitadores de corrente e de proteção do circuito.
+4.3.3. Regulador de tensão da unidade geradora
+4.3.3.1. Devem ser previstos, no mínimo, os seguintes modos de controle:
+(a) automático: efetua a regulação automática da tensão terminal do gerador. Esse é o modo de controle
+principal da unidade operando interligada; e
+(b) manual: permite o controle manual da corrente ou tensão de excitação. Esse é o modo de controle
+para testes e em caso de falha do modo de controle automático.
+4.3.3.1.1. Função seguidor (follow-up): deve haver uma função de rastreio que ajuste continuamente a
+referência dos modos de controle, de forma a garantir a comutação suave entre eles.
+4.3.3.2. O controle automático de tensão deve ser equipado com, no mínimo, os seguintes recursos:
+4.3.3.2.1. Limitadores de ação automática e contínua:
+(a) limitador de subexcitação: utiliza as grandezas de potência ou corrente ativa e reativa de forma a
+restringir a operação do gerador na região de subexcitação delimitada pelo seu limite de estabilidade;
+(b) limitador de mínima corrente de excitação: limita a grandeza da corrente de excitação ao valor
+mínimo permitido;
+(c) limitador de máxima corrente de excitação: limita a corrente de excitação a um valor máximo
+permitido para o sistema de excitação e enrolamento de campo do gerador. Sua atuação deve ter um
+retardo para permitir sobrecargas transitórias, desde que não sejam atingidos os valores de projeto
+do enrolamento de campo ou valores limites do conversor de potência;
+(d) limitador Volt/Hertz: evita o sobrefluxo magnético no gerador, transformador elevador e
+transformador de excitação (caso existente), causado por subfrequência e/ou sobretensão; e
+(e) a atuação desses limitadores deve ser estável, com amortecimento adequado e pequeno tempo de
+estabilização. O ajuste dever estar coordenado dinamicamente e estaticamente com as funções de
+proteção, explorando ao máximo os limites operativos admissíveis do gerador, conforme estabelecido
+no documento de Filosofias de Proteção das Unidades Geradoras [4].
+4.3.3.2.2. Compensação de corrente reativa: permite a compensação da queda de tensão do transformador
+elevador em configurações gerador mais transformador elevador (função line drop), sem violar a faixa
+operativa da tensão terminal do gerador, ou permite o paralelismo de geradores conectadas no mesmo
+barramento (função droop). O grau de compensação deve ser ajustável em uma faixa de - 10% a + 10%.
+4.3.3.2.3. Estabilizador de Sistemas de Potência (ESP):
+(a) a estrutura do ESP deve ser baseada na integral de potência acelerante, com rastreador de rampa,
+capaz de propriciar um bom amortecimento na faixa de 0,2 a 2,0 Hz.
+Endereço na internet: http://www.ons.org.br 14 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+(b) deve prever lógicas de bloqueio automático do ESP por:
+(1) nível de potência ativa;
+(2) desvio de frequência;
+(3) estado do disjuntor do gerador; e
+(4) subtensão e sobretensão.
+(c) a reconexão automática do ESP deve ser feita quando as condições de bloqueio não mais existirem;
+(d) deve prever um algoritmo para estimação da velocidade do rotor do gerador para utilização dessa
+grandeza no canal de frequência do ESP; e
+(e) a saída do ESP deve ter limites mínimo e máximo ajustáveis.
+4.3.3.3. O sistema de excitação deve ser capaz de manter a tensão do gerador dentro da sua faixa operativa,
+com o regulador de tensão operando em modo automático e com umidade relativa do ar a 100% e
+temperatura na faixa de - 5o C a 50 o C.
+4.3.3.4. A tensão terminal do gerador, quando da operação em regime estável de carga e frequência, deve
+ser mantida na faixa de ± 0,5% do valor ajustado para qualquer ponto de operação dentro da faixa de
+operação permitida pela sua curva de capabilidade.
+4.3.3.5. A tensão terminal do gerador deve ser mantida na faixa de  0,5% do valor ajustado quando em
+operação em vazio e velocidade constante, para qualquer valor de velocidade.
+4.3.3.6. Em caso de rejeição de carga nos terminais do gerador operando dentro de sua curva de
+capabilidade, a tensão terminal:
+(a) deve ser rapidamente reestabelecida para um valor compreendido entre ± 5% do valor ajustado, em
+um tempo inferior a 0,5 s após a ocorrência da rejeição; e
+(b) ao atingir o regime permanente, deve estabilizar-se dentro da faixa de ± 0,5%, mantendo-se nessa
+faixa durante todo o período de sobrevelocidade.
+4.3.3.7. O desempenho dinâmico do regulador de tensão, para um degrau de ± 2% na referência de tensão
+operando em vazio, deve atender os seguintes critérios:
+(a) sobressinal (overshoot) menor ou igual a 10%; e
+(b) tempo de estabilização menor ou igual a 1,0 s. O tempo de estabilização é definido como o tempo
+necessário para que a resposta da tensão terminal alcance e permaneça na faixa de ± 2% do valor
+final;
+4.3.3.8. Sensibilidade: com o gerador operando nas suas condições nominais de potência ativa, potência
+reativa, tensão terminal e fator de potência, o regulador de tensão deve permitir ajustes no controle
+automático para a tensão de teto ser atingida, quando houver variação, em degrau, de ± 2% na referência de
+tensão.
+4.3.3.9. Nas condições de defeito no lado de alta tensão do transformador elevador, considerando uma
+redução da tensão terminal de até 35% do seu valor nominal, a tensão de excitação deve ser mantida em
+valor superior a 80% do seu valor a plena carga, por um período de até 0,25 s, e sem a atuação dos limitadores
+de máxima corrente do estator ou de excitação pelo regulador de tensão.
+4.4. Regulação primária de frequência
+Endereço na internet: http://www.ons.org.br 15 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+4.4.1. Geral
+4.4.1.1. A regulação primária de frequência é a capacidade das unidades geradoras contribuírem com
+potência ativa em situações de desvios de frequência da rede na operação interligada ao SIN e, também, de
+regular a frequência da rede em uma operação isolada.
+4.4.1.2. Todo regulador de velocidade deve possuir sensibilidade a frequência da rede na operação
+interligada ao SIN, de forma a contribuir com a regulação primária de frequência.
+4.4.1.3. Os requisitos técnicos de regulação primária aplicam-se à instalação como um todo no caso de usinas
+termoelétricas que operam em ciclo combinado.
+4.4.1.4. Admite-se um modo de controle diferenciado do regulador de velocidade na operação em vazio.
+4.4.1.5. A unidade geradora deve ser capaz de controlar a velocidade em caso de rejeição total de carga,
+evitando seu desligamento por sobrevelocidade.
+4.4.2. Desempenho da regulação primária
+4.4.2.1. O desempenho da regulação primária de frequência deve ser adequado ao projeto do conjunto
+turbina-gerador, e deve possuir as seguintes características:
+(a) estatismo permanente: deve permitir um ajuste entre 2% e 8% na base nominal do gerador em MVA,
+devendo ser ajustado em 5% por padrão. Caso necessário, o ONS poderá indicar a necessidade da
+alteração deste ajuste; e
+(b) banda morta de frequência: ajustado em um valor menor ou igual a ± 0,04 Hz.
+4.4.2.2. O desempenho dinâmico da regulação primária de frequência deve ser avaliado na simulação de
+rede isolada da unidade geradora, para um degrau de ± 2% na referência de velocidade, atendendo aos
+seguintes critérios:
+(a) tempo de estabilização menor que 60 s. É definido como o tempo necessário, após a aplicação do
+degrau, para a velocidade da unidade geradora permanecer na faixa de ± 5% do valor final;
+(b) tempo de resposta menor que 9 s. É definido como o tempo necessário, após a aplicação do degrau,
+para a velocidade da unidade geradora atingir 90% do valor final.
+4.4.2.2.1. A Figura 4 apresenta a resposta decorrente de um degrau de velocidade na referência do regulador
+de velocidade na simulação da operação em rede isolada.
+Endereço na internet: http://www.ons.org.br 16 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+Figura 4 – Características da resposta esperada da frequência na operação em rede isolada – simulação de um
+degrau de velocidade.
+4.5. Regulação secundária de frequência
+4.5.1. O controle secundário de frequência é executado pelas usinas participantes do Controle Automático
+de Geração (CAG), as quais são determinadas pela ANEEL com respaldo dado pelo ONS de acordo com
+Submódulo 2.3.
+4.5.1.1. Estão sujeitas a participar do CAG todas as usinas hidroelétricas e termoelétricas com potência
+instalada igual ou superior a 400 MW, com exceção das:
+(a) usinas localizadas em circuitos radiais distantes eletricamente dos centros de carga;
+(b) usinas termoelétricas nucleares;
+(c) usinas termoelétricas a gás em ciclo simples ou combinado; e
+(d) usinas termoelétricas a carvão.
+4.5.2. As usinas que participam do CAG devem ser dotadas dos recursos necessários à sua integração com o
+sistema de supervisão e controle, conforme o estabelecido no Submódulo 2.12.
+4.6. Sistema de proteção para as unidades geradoras
+4.6.1. As unidades geradoras devem dispor dos seguintes conjuntos de proteção, além dos conjuntos de
+proteção intrínseca recomendados pelo fabricante:
+(a) proteção unitária; e
+(b) proteção de retaguarda.
+4.6.2. O tempo total de eliminação de todos os tipos de faltas pela proteção unitária, incluindo o tempo de
+abertura de todos os disjuntores da unidade geradora, não deve exceder:
+(a) 100 ms para unidades geradoras que acessam a Rede Básica com conexão às instalações sob
+responsabilidade do agente de transmissão em nível de tensão superior a 230 kV; e
+(b) 150 ms para unidades geradoras que acessam a Rede Básica com conexão às instalações sob
+responsabilidade do agente de transmissão em nível de tensão igual ou inferior a 230 kV.
+Endereço na internet: http://www.ons.org.br 17 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+4.6.3. As proteções da unidade geradora devem ser capazes de:
+(a) realizar, individual ou simultaneamente, para as funções específicas a eliminação de falhas internas à
+unidade geradora que provoquem valores elevados de corrente de curto-circuito;
+(b) detectar todas as condições anormais de operação, em função das características de suportabilidade
+da unidade geradora e da sua transformação elevadora; e
+(c) para as funções de ambas as proteções que possam atuar para falhas externas à unidade geradora,
+assegurar a seletividade destas atuações.
+4.6.4. Desempenho fora das condições nominais de frequência: o regulador de velocidade deve obedecer
+aos requisitos acima, dentro das faixas de variação de frequência relacionadas no item 4.2 admitidas para o
+conjunto gerador - turbina.
+4.7. Sistema de registro de perturbação para as unidades geradoras
+4.7.1. As unidades geradoras devem ter sistemas para registro de perturbações, que podem ser constituídos
+por funções integradas aos sistemas de proteção, atendendo aos seguintes requisitos:
+(a) os registros de oscilografia devem ser armazenados pelo acessante e fornecidos ao ONS e/ou agente
+de transmissão, quando solicitados, conforme estabelecido no Submódulo 6.3; e
+(b) os registros devem ser disponibilizados ao ONS no formato de dados especificado no Submódulo 7.10.
+4.7.2. Devem ser supervisionadas as seguintes grandezas analógicas:
+(a) correntes das três fases;
+(b) tensões das três fases;
+(c) corrente de neutro, no caso de gerador aterrado por baixa impedância; e
+(d) tensão de neutro, no caso de gerador aterrado por alta impedância.
+4.7.3. Devem ser supervisionadas as seguintes grandezas digitais:
+(a) desligamento pela proteção unitária;
+(b) desligamento pela proteção de retaguarda;
+(c) desligamento pelas demais proteções utilizadas; e
+(d) desligamento pelas proteções intrínsecas.
+4.8. Serviços auxiliares para as usinas geradoras
+4.8.1. Os serviços auxiliares em corrente alternada (CA) e em corrente contínua (CC) da usina devem ser
+especificados de modo a garantir, durante a ocorrência de distúrbios que causem variações extremas de
+tensão e de frequência, o funcionamento da usina e das suas instalações de transmissão de interesse restrito
+na faixa operativa do gerador.
+4.8.2. Para as usinas definidas pelo ONS como de autorrestabelecimento, deve-se atender:
+(a) a fonte de alimentação autônoma deve ter capacidade suficiente para partida de, no mínimo, uma
+unidade geradora da instalação; e
+(b) a usina deve ser capaz de partir pelo menos uma das suas unidades geradoras, independentemente
+da indisponibilidade de unidades geradoras na sua instalação.
+Endereço na internet: http://www.ons.org.br 18 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+4.8.2.1. Estão sujeitas a serem classificadas como de autorrestabelecimento todas as usinas,
+independentemente da potência instalada que, a critério do ONS, venham a agregar maior agilidade e
+confiabilidade ao processo de recomposição, tanto em função de sua localização geoelétrica, quanto em
+relação à sua influência no sistema da região de interesse.
+4.8.3. Na concepção dos sistemas de alimentação CC e CA, deve ser considerada disponibilidade geral dos
+serviços auxiliares de 99,98%, tendo como valor de referência o somatório dos últimos 12 meses. Isso implica
+numa indisponibilidade máxima, em um período de 12 meses, de 1 hora e 45 minutos, garantidos pelo agente
+de geração.
+4.8.4. Para a programação de manutenção e testes dos serviços auxiliares CC e CA, o agente de geração deve
+considerar os requisitos de testes estabelecidos no Submódulo 2.16 – Requisitos operacionais para centros
+de operação e instalações da Rede de Operação.
+4.9. Solicitações de curto-circuito
+4.9.1. O agente de geração que vai se conectar à rede elétrica deve respeitar o limite de contribuição aos
+níveis de corrente de curto-circuito das subestações limitantes, independentemente do nível de tensão ou
+de localização dessas subestações.
+4.9.1.1. Define-se como subestação limitante aquela cujos equipamentos não podem ser substituídos por
+questões tecnológicas e aquela cujo seccionamento de barramento(s) ou recapacitação pode trazer prejuízo
+significativo para a segurança, continuidade de suprimento ou confiabilidade da rede associada.
+4.9.1.1.1. Cabe ao ONS e ao agente de transmissão acessado definir as subestações limitantes na Rede
+Básica, nas instalações de transmissão de energia elétrica destinadas a interligações internacionais
+conectadas à Rede Básica, nas ICG e nas DIT e aos agentes de distribuição e de transmissão estabelecer quais
+são as subestações limitantes na Rede Complementar.
+4.9.1.1.2. Cabe ao ONS ou ao agente de distribuição verificar quais subestações limitantes estão incluídas na
+área de influência do acesso.
+4.9.1.2. Entende-se por limite de contribuição de corrente de curto-circuito o valor percentual, em relação
+a capacidade de interrupção dos disjuntores da subestação limitante, da diferença entre esta capacidade e o
+maior nível de curto-circuito atual nessa subestação.
+4.9.1.2.1. Esse percentual, estipulado em 30% como referência inicial, deve ser confirmado pelo ONS por
+ocasião da solicitação de acesso ou pode ser fixado em outro valor em função dos acessos em curso na região
+ou de expansões previstas na rede elétrica.
+4.9.1.3. Entende-se por nível de corrente de curto-circuito atual o valor calculado para a data da solicitação
+de acesso, considerados os acessos já contratados e as solicitações de acesso em curso.
+4.9.2. O acessante deve avaliar sua conexão na configuração de longo prazo da Empresa de Pesquisa
+Energética – EPE para dimensionamento da corrente máxima de curto-circuito no seu ponto de conexão às
+instalações sob responsabilidade de agente de transmissão. Essa corrente máxima de longo prazo deve
+constar do Parecer de Acesso.
+4.9.3. O valor adotado para o limite de contribuição de corrente de curto-circuito deve levar em conta as
+capacidades de interrupção nominal de curto-circuito dos disjuntores das subestações limitantes,
+considerada uma margem de segurança de 10%. Essa margem pode ser flexibilizada na medida em que:
+(a) durante o seu processo de acesso, o agente demonstre com base em estudos detalhados que o efeito
+da variação da relação X/R não ocasiona violação das capacidades de interrupção nominais de curto-
+circuito desses disjuntores;
+Endereço na internet: http://www.ons.org.br 19 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+(b) o agente demonstre que não ocorrem solicitações não cobertas pelas normas que embasaram a
+especificação dos disjuntores, tais como Tensão de Restabelecimento Transitória (TRT); e
+(c) os estudos detalhados sejam feitos com base no critério de superação de disjuntores, estabelecido
+no Submódulo 2.3.
+4.9.4. Além dos disjuntores, deve ser preservada a suportabilidade de todos os equipamentos das
+subestações limitantes, tais como chaves, transformadores de corrente, filtros de onda, barramentos e malha
+de terra.
+4.9.5. Nos casos em que a conexão da usina ocasione em superação de equipamentos na Rede Básica, nas
+instalações de transmissão de energia elétrica destinadas a interligações internacionais conectadas à Rede
+Básica, nas ICG ou nas DIT, o agente acessante deve demonstrar, por meio de avaliação técnico-econômica,
+sujeita à apreciação do ONS, que a alternativa de conexão proposta é a de mínimo custo global, considerando
+que:
+(a) essa avaliação deve contemplar a utilização na usina de equipamentos de limitação de curto-circuito;
+(b) a análise econômica das alternativas deve basear-se em custos padrão reconhecidos pela ANEEL; e
+(c) as medidas implementadas pelo agente de geração não devem provocar a desconexão da sua usina
+em condições de curto-circuito, a menos que o curto ocorra nas instalações da própria usina ou nas
+instalações de seu uso exclusivo.
+4.9.5.1. Nesse caso, a usina pode ficar sujeita a restrições até que seja implantada solução para o problema,
+indicada no Plano da Operação Elétrica de Médio Prazo do SIN (PAR/PEL).
+4.9.5.2. Cabe ao agente de geração arcar com os custos de aquisição e de instalação na sua usina dos
+equipamentos de limitação de curto-circuito, quando necessário.
+5. CONEXÃO DE CENTRAIS GERADORAS EÓLICAS E FOTOVOLTAICAS
+5.1. Aspectos gerais
+5.1.1. Os requisitos técnicos mínimos para conexão de centrais geradores eólicas e fotovoltaicas devem ser
+atendidos pelos agentes de geração acessantes responsáveis por:
+(a) centrais geradoras eólicas e centrais geradoras fotovoltaicas com conexão à Rede Básica, às
+instalações de transmissão de energia elétrica destinadas a interligações internacionais conectadas à
+Rede Básica ou às ICG, de forma individual ou compartilhada; e
+(b) centrais geradoras eólicas e as centrais geradoras fotovoltaicas classificadas na modalidade de
+operação Tipo I com conexão às DIT ou às instalações sob responsabilidade de agente de distribuição,
+de forma individual ou compartilhada.
+5.1.2. As centrais geradoras eólicas e as centrais geradoras fotovoltaicas classificadas nas modalidades de
+operação Tipo II-B, Tipo II-C ou Tipo III com conexão às DIT ou às instalações sob responsabilidade de agente
+de distribuição em tensão superior a 69 kV devem atender:
+(a) aos requisitos técnicos gerais para operação em regime de frequência não nominal, indicados no item
+5.2.1. deste submódulo;
+(b) aos requisitos de suportabilidade a subtensões e sobretensões, indicados no item 5.7 (fault ride-
+through) deste submódulo; e
+Endereço na internet: http://www.ons.org.br 20 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+(c) aos demais requisitos gerais quando o ONS avaliar necessário, informado durante a solicitação de
+acesso, nos casos de:
+(1) centrais geradoras eólicas e centrais geradoras fotovoltaicas com capacidade instalada total
+superior a 30 MW; ou
+(2) grupos de centrais geradoras eólicas e/ou grupos de centrais geradoras fotovoltaicas, em uma
+mesma área geoelétrica, com capacidade instalada total superior a 50 MW.
+5.1.2.1. Para as centrais geradoras classificada na modalidade de operação Tipo III com conexão às
+instalações sob responsabilidade de agente de distribuição, as tratativas com os agentes de geração, bem
+como a avaliação do atendimento dos requisitos é de responsabilidade da distribuidora acessada.
+5.1.2.2. As funções de proteção de frequência das unidades geradoras ou do ponto de acoplamento comum
+com a rede da distribuidora, como por exemplo as funções de proteção anti-ilhamento, devem possuir
+ajustes coordenados com tais requisitos.
+5.1.3. A operação de centrais geradoras eólicas ou de centrais geradoras fotovoltaicas, conectadas às
+instalações sob responsabilidade de agente de transmissão, devem atender os limites individuais dos
+indicadores de desempenho quanto a QEE, conforme definido no Submódulo 9.7 e Submódulo 7.8 –
+Avaliação do impacto do acesso ou integração à Rede Básica de instalações que contenham elementos não
+lineares ou especiais.
+5.1.4. Para avaliações de desempenho harmônico, a norma [1] oferece subsídios quanto à combinação dos
+efeitos do conjunto de aerogeradores integrantes da central geradora eólica ou de inversores integrantes da
+central geradora fotovoltaica.
+5.1.5. As centrais geradoras eólicas e/ou as centrais geradoras fotovoltaicas que compartilharem instalações
+de transmissão de interesse restrito que não estão sob responsabilidade de agente de transmissão são
+consideradas como uma única instalação no que diz respeito ao atendimento dos requisitos técnicos gerais,
+listados no item 5.2, e também no tocante à avaliação de desempenho harmônico nas análises de QEE.
+5.1.6. As centrais geradoras eólicas e as centrais geradoras fotovoltaicas não podem reduzir a flexibilidade
+de recomposição da rede elétrica, seja em função de limitações dos equipamentos, seja em função do tempo
+de recomposição.
+5.1.7. O acessante deve avaliar se há superação da capacidade de equipamentos ou necessidade de reajustes
+de parâmetros de proteção e controle, decorrentes da sua conexão, abrangendo o ponto de conexão da
+usina às instalações sob responsabilidade de agente de transmissão ou de distribuição e a área de influência
+da central geradora, por meio da análise de:
+(a) curto-circuito;
+(b) capacidades de disjuntores, barramentos, equipamentos terminais (por exemplo, transformadores de
+corrente, bobinas de bloqueio) e malhas de terra; e
+(c) adequação dos sistemas de proteção e controle relacionados à integração da central geradora e
+revisão dos ajustes relativos à central geradora.
+5.1.8. As ações e os custos decorrentes das ações necessárias para o atendimento dos requisitos técnicos
+mínimos relacionados neste item 5 deste submódulo são de responsabilidade do agente de geração.
+5.2. Requisitos técnicos gerais
+5.2.1. Em operação em regime de frequência não nominal, deve-se atender às seguintes condições:
+(a) desligamento instantâneo permitido para operação abaixo de 56 Hz;
+Endereço na internet: http://www.ons.org.br 21 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+(b) operação abaixo de 58,5 Hz por período de tempo mínimo de 20 s;
+(c) operação entre 58,5 e 62,5 Hz por tempo ilimitado;
+(d) operação acima de 62,5 Hz por período de tempo mínimo de 10 s, sendo a temporização da proteção
+de desligamento por sobrefrequência é definida com base em avaliação do desempenho dinâmico,
+para garantir a segurança operativa do SIN; e
+(e) desligamento instantâneo permitido para operação acima de 63 Hz.
+5.2.1.1. A Figura 5 resume as condições e faixas de operação da central geradora em regime de frequência
+não nominal.
+Figura 5 - Faixas de operação da central geradora em regime de frequência não nominal.
+5.2.2. Geração/absorção de potência reativa: na conexão da central geradora às instalações sob
+responsabilidade de agente de transmissão, as centrais geradoras devem propiciar os recursos necessários
+para, em regime permanente, operar com fator de potência indutivo ou capacitivo em qualquer ponto da
+área indicada na Figura 6.
+Figura 6 - Faixa de geração/absorção de potência reativa no ponto de conexão da central geradora
+5.2.2.1. A potência ativa máxima a ser considerada como referência na Figura 4 é o Montante de Uso do
+Sistema de Transmissão (MUST) contratado no respectivo ponto de conexão, conforme o Submódulo 8.1 –
+Administração dos Contratos.
+5.2.2.2. Para a adoção de recursos de geração/absorção de potência reativa pelos aerogeradores ou
+inversores, deve ser utilizada a curva de capabilidade (P x Q) fornecida pelo fabricante do equipamento
+referente à temperatura igual ou superior à média anual das máximas diárias na localidade onde será
+implantado o empreendimento de geração, no período de máxima geração de potência ativa pela central
+geradora.
+Endereço na internet: http://www.ons.org.br 22 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+5.2.2.3. Nas condições em que os geradores não estejam produzindo potência ativa, a central de geração
+eólica ou fotovoltaica deve ter recursos de controle para propiciar injeção/absorção de potência reativa nula
+no ponto de conexão, como indicado na Figura 6.
+5.2.3. A central geradora deve ser capaz de operar em três modos distintos de controle de potência reativa:
+(a) controle de tensão;
+(b) controle de potência reativa; e
+(c) controle de fator de potência.
+5.2.3.1. O modo de controle de potência reativa normal é o modo de controle de tensão, sendo que o
+barramento de referência do controle é, preferencialmente, o barramento de alta tensão da subestação
+coletora ou conforme definido no Parecer de Acesso, visando contribuir com a manutenção do perfil de
+tensão do sistema dentro das faixas aceitáveis em condições normais ou de emergência.
+5.2.3.2. Em função das necessidades do sistema, a central geradora pode ser solicitada pelo ONS a operar
+no modo de controle de potência reativa ou no modo de controle de fator de potência no seu ponto de
+conexão às instalações sob responsabilidade do agente de transmissão ou distribuição, em quaisquer dos
+pontos indicados no item 5.2.2.
+5.2.3.3. Quando operando em modo de controle de tensão, a central de geração deve ser capaz de prover
+controle contínuo da tensão no barramento de referência do controle com:
+(a) tensão de referência ajustável de acordo com a faixa de regime normal de operação conforme critério
+de tensão admissível entre fases a 60 Hz estabelecido no Submódulo 2.3; e
+(b) estatismo (droop) ajustável numa faixa entre 0 e 7%, com valor padrão de 2%, na base da potência
+reativa nominal da central geradora (com uma resolução de 0,5%), obtida com potência ativa nominal
+e fator de potência igual a 0,95. O valor do estatismo pode ser reajustado dentro da faixa acima nos
+Estudos Pré-Operacionais.
+5.2.3.3.1. A Figura 7 indica esquematicamente o perfil de controle de tensão da central geradora.
+Figura 7 - Perfil do controle de tensão da central geradora.
+Endereço na internet: http://www.ons.org.br 23 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+5.2.3.3.2. Para uma variação em degrau na tensão do barramento de referência, o controle transitório de
+tensão da central deve responder de acordo com os seguintes critérios mínimos, ilustrados na Figura 8 e na
+Tabela 1:
+Figura 8 - Tempo de resposta do controle de tensão da central geradora.
+Tabela 1 – Requisito de desempenho dinâmico do controle de tensão
+Valor Valor Valor
+Parâmetro
+padrão mínimo máximo
+É o tempo necessário para início da resposta do controle de
+Tempo de
+tensão após a variação em degrau na tensão do barramento 0,2 s - 0,2 s
+reação
+de referência do controle.
+É o tempo necessário para que a potência reativa atinja 90%
+Tempo de do valor final, para uma variação de tensão que implique em
+10 s - 10 s
+resposta excursão de potência reativa de um valor inicial até o valor
+máximo ou até valor mínimo da central indicados Figura 6.
+É o tempo necessário para a potência reativa no ponto de
+Tempo de
+conexão permanecer acima de 95% e abaixo de 105% de seu 20 s - 20 s
+estabilização
+valor final.
+5.2.4. Na operação em regime de tensão não nominal, no ponto de conexão da central geradora às
+instalações sob responsabilidade de agente de transmissão, a central geradora deve ser capaz de operar:
+(a) na faixa de tensão conforme critério de tensão admissível entre fases a 60 Hz estabelecido no
+Submódulo 2.3, condição operativa sob contingências, por período de tempo ilimitado;
+(b) entre 0,85 e 0,90 pu da tensão nominal, para os demais níveis de tensão, por período de tempo
+mínimo de 5 segundos;
+Endereço na internet: http://www.ons.org.br 24 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+(c) entre 0,90 e 0,95 pu da tensão nominal, para sistemas de 500 kV, por período de tempo mínimo de 5
+segundos;
+(d) entre 1,10 e 1,20 pu, para sistemas de 500 kV, por período de tempo mínimo de 2,5 segundos; e
+(e) até 0,10 pu acima da máxima tensão operativa sob contingência, para os demais níveis de tensão, por
+período de tempo mínimo de 2,5 segundos. A máxima tensão operativa sob contingência é definida
+conforme critério de tensão admissível entre fases a 60 Hz estabelecido no Submódulo 2.3.
+5.2.5. Atendimento do fator de potência em regime de tensão não nominal (V-Q/Pmax): a injeção de
+potência reativa em regime permanente, no ponto de conexão da central geradora às instalações sob
+responsabilidade do agente de transmissão ou distribuição, deve ser garantida numa dada faixa operativa de
+tensões e em potência máxima da central, conforme a característica definida na Figura 9, observando os
+limites de tensão entre fases admissíveis a 60 Hz estabelecidos no Submódulo 2.3:
+Figura 9 - Requisito para atendimento ao fator de potência na faixa operativa de tensão no ponto de conexão.
+5.2.6. Participação em SEP: deve ser possível a desconexão automática ou redução de geração por ação do
+controle de potência da central geradora.
+5.2.7. Potência ativa de saída:
+(a) A potência de saída da central geradora deve recuperar-se a 85% do valor pré-falta em até 4 segundos
+após a recuperação da tensão a 85% da tensão nominal.
+(b) Cabe ao ONS a responsabilidade de definir a rampa de recuperação da potência em função das
+características do sistema onde as centrais serão inseridas.
+(c) Não será admitida redução na potência de saída da central geradora para frequências na faixa entre
+58,5 e 60,0 Hz e tensões entre 0,85 e 1,10 pu no ponto de conexão às instalações sob responsabilidade
+do agente de transmissão.
+(d) Para frequências na faixa entre 57 e 58,5 Hz é admitida redução na potência de saída de até 10%.
+Endereço na internet: http://www.ons.org.br 25 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+5.2.7.1. Os requisitos do item 5.2.7. aplicam-se em condições de operação de regime permanente quase-
+estáticas, caracterizadas por:
+(a) gradientes de frequência £ 0,5 %/min; e
+(b) gradientes de tensão £ 5 %/min.
+5.2.8. Inércia sintética da central geradora eólica:
+(a) Os aerogeradores de centrais com potência instalada superior a 10 MW devem dispor de
+controladores sensíveis às variações de frequência, de modo a emular a inércia (inércia sintética)
+através de modulação transitória da potência de saída.
+(b) Esse mecanismo deve contribuir com, no mínimo, 10% de sua potência nominal, por um período
+mínimo de 5 s em regime de subfrequência para desvios de frequência superiores a 0,2 Hz, conforme
+Figura 10.
+Figura 10 - Requisito para o mecanismo de inércia sintética.
+(1) A retirada desta contribuição deve ser automaticamente efetuada caso a frequência retorne ao
+seu valor nominal.
+(c) A injeção inicial de potência ativa deve ser proporcional à variação da frequência, a uma taxa mínima
+de 0,8 pu da potência nominal do aerogerador para cada Hertz de desvio da frequência.
+(d) A provisão plena de inércia sintética deverá ser disponibilizada sempre que a potência ativa do
+aerogerador for igual ou superior a 25% de sua potência nominal.
+(e) Os tempos máximos de sustentação do adicional de potência de 10% para níveis de potência
+inferiores a 25% da potência nominal do aerogerador devem ser informado ao ONS.
+5.2.9. Controle primário de frequência:
+Endereço na internet: http://www.ons.org.br 26 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+(a) As centrais geradoras com potência instalada superior a 10 MW devem dispor de controladores
+sensíveis às variações de frequência do tipo proporcional, conforme Figura 11, com os ajustes padrão
+e faixas de ajuste dos parâmetros indicados na Tabela 2.
+Figura 11 - Requisito de resposta para controle primário de frequência de centrais geradoras para eventos de sub e
+sobrefrequência.
+Tabela 2 – Ajustes padrão e faixas de ajustes do controle primário de frequência
+Ajuste Ajuste Ajuste
+Parâmetro
+padrão mínimo máximo
+bm Banda morta de subfrequência 0,1 Hz 0,040 Hz 0,2 Hz
+UF
+bm Banda morta de sobrefrequência 0,1 Hz 0,040 Hz 0,2 Hz
+OF
+k Estatismo de subfrequência na base de potência nominal 5% 2% 8%
+UF
+k Estatismo de sobrefrequência na base de potência nominal 5% 2% 8%
+OF
+Valor correspondente à potência máxima disponível na
+central geradora no momento da ultrapassagem da banda
+P 100% - 100%
+MAX morta, ou outro valor a ser definido pelo ONS em função de
+limitação sistêmica
+Valor correspondente à potência mínima da central geradora,
+P definida pelo agente de geração, em valor não superior a 25% 25% - 25%
+MIN
+da capacidade nominal da central
+Endereço na internet: http://www.ons.org.br 27 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+(b) O requisito de desempenho dinâmico do controle primário de frequência é indicado na Figura 12 e na
+Tabela 3. O controle deve responder com tempos inferiores aos apresentados na Tabela 3 e conforme
+as indicações dos itens (c), (d) e (e).
+Figura 12 - Tempo de resposta do controle de frequência da central geradora.
+Tabela 3 – Requisito de desempenho dinâmico do controle primário de frequência
+Valor máximo
+Parâmetro
+ΔP < 50% (1) ΔP ≥ 50% (1)
+Tempo necessário para início da variação da potência ativa após a
+Tempo de
+aplicação de um degrau de variação de frequência na referência 1 s
+reação
+da malha de controle de frequência.
+Tempo necessário para a potência ativa no ponto de conexão da
+Tempo de central geradora atingir 90% do valor final, quando sujeita a um
+10 s 30 s
+resposta degrau de variação de frequência na referência da malha de
+controle de frequência
+Tempo de Tempo necessário para a potência ativa no ponto de conexão
+30 s 1.s
+estabilização permanecer acima de 95% e abaixo de 105% de seu valor final.
+Nota:
+1. Variação de potência (ΔP), em percentual da potência nominal, exigida pelo controle de potência em função do degrau de
+frequência e do estatismo ajustado.
+(c) Não deve haver atraso intencional na resposta dos aerogeradores/inversores, exceto em caso de
+necessidade sistêmica identificada pelo ONS.
+(d) A resposta do controle deve estável e bem amortecida durante todo perído de contribuição da
+resposta primária de frequência.
+(e) Os aerogeradores e inversores devem ser capazes de sustentar a resposta do controle primário de
+frequência, sem se desconectarem da rede, enquanto houver condições associadas à fonte primária
+Endereço na internet: http://www.ons.org.br 28 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+que possibilitem tal contribuição, e enquanto as condições de frequência e tensão estiverem dentro
+das faixas especificadas nos itens 5.2.1. e 5.7 deste submódulo;
+(f) O controle primário de frequência pode ser implementado a nível de aerogerador/inversor ou a nível
+de parque, desde que atenda aos requisitos indicados no item 5.2.9. (a).
+(g) O requisito de injeção de potência ativa em condição de subfrequência de que trata o item 5.2.9. (a)
+não implica em estabelecimento de reserva de potência operativa para centrais geradoras, mas na
+utilização, quando disponível, de eventual capacidade ociosa da central de geração.
+5.3. Variação de tensão em regime permanente
+5.3.1. A central geradora não deve produzir variação de tensão superior a 5% no ponto de conexão às
+instalações sob responsabilidade de agente de transmissão no caso de manobra parcial ou total, tempestiva
+ou não, do parque gerador.
+5.4. Instabilidade de tensão
+5.4.1. A central geradora deve dispor de dispositivos de controle que evitem o seu desligamento por
+instabilidade de tensão, conforme estabelecido no item 5.7 deste submódulo.
+5.5. Sistema de proteção para centrais geradoras
+5.5.1. Os requisitos de proteção das unidades geradoras da central geradora devem ser definidos pelos
+respectivos fabricantes.
+5.6. Sistema de registro de perturbações para centrais geradoras
+5.6.1. Os requisitos específicos para o sistema de registro de perturbações das unidades geradoras da central
+geradora devem ser definidos pelos respectivos fabricantes.
+5.7. Suportabilidade a subtensões e sobretensões dinâmicas
+5.7.1. Caso haja variações temporárias de tensão em uma ou mais fases no ponto de conexão da central
+geradora às instalações sob responsabilidade de agente de transmissão ou de distribuição, decorrentes de
+distúrbios na Rede Básica, a central geradora deve continuar operando (sem desconexão), se a tensão nos
+terminais dos aerogeradores ou inversores permanecer dentro da região indicada na Figura 13.
+5.7.1.1. Esta característica aplica-se a qualquer tipo de distúrbio, sejam eles provocados por rejeição de
+carga, defeitos simétricos ou assimétricos, devendo ser atendida pela tensão da fase que sofrer maior
+variação.
+Endereço na internet: http://www.ons.org.br 29 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+Figura 13 - Tensão nos terminais dos aerogeradores ou inversores da central geradora.
+5.8. Injeção de corrente reativa sob defeito
+5.8.1. Quando de variações transitórias de tensão, conforme mostrado na Figura 14, as unidades geradoras
+devem ser capazes de dar suporte de tensão à rede elétrica através da:
+(a) injeção de corrente reativa adicional para tensões de sequência positiva inferiores a 85%; e
+(b) absorção de corrente reativa adicional de sequência positiva para tensões acima de 110%.
+5.8.2. As unidades geradoras devem ser capazes de iniciar o suprimento de corrente reativa em até 30 ms
+após a detecção de falta (tempo de resposta do controle).
+5.8.3. As centrais devem habilitar por padrão este recurso com os ajustes V1 = 0,5 pu e V2 = 1,2 pu. Cabe ao
+ONS indicar a necessidade de alterar estes ajustes, em função das características do sistema onde a central
+geradora será inserida.
+Figura 14 - Requisito para injeção de corrente reativa sob defeito.
+Endereço na internet: http://www.ons.org.br 30 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+5.8.4. A potência ativa de saída somente pode ser reduzida, de forma a não superar o valor da corrente
+nominal do equipamento, caso o incremento de injeção de corrente reativa durante o defeito leve a
+superação do valor absoluto da corrente nominal.
+5.9. Tomada de carga
+5.9.1. A central geradora deve ser dotada de recursos que permitam ajustar a taxa de tomada de carga da
+central geradora. Os ajustes serão definidos pelo ONS.
+6. CONEXÃO DE CENTRAIS GERADORAS HÍBRIDAS E CENTRAIS GERADORAS ASSOCIADAS
+6.1. Aspectos gerais
+6.1.1. Os requisitos técnicos mínimos para conexão de centrais geradoras híbridas ou associadas devem ser
+atendidos pelos agentes de geração acessantes responsáveis por:
+(a) centrais geradoras híbridas ou associadas com conexão à Rede Básica, às instalações de transmissão
+de energia elétrica destinadas a interligações internacionais conectadas à Rede Básica ou às ICG, de
+forma individual ou compartilhada; e
+(b) centrais geradoras híbridas ou associadas classificadas na modalidade de operação Tipo I com
+conexão às DIT, de forma individual ou compartilhada.
+6.1.2. As centrais geradoras híbridas ou associadas classificadas nas modalidades de operação Tipo II-A, Tipo
+II-B, Tipo II-C ou Tipo III com conexão às DIT devem atender:
+(a) os requisitos aplicáveis às diferentes tecnologias de geração pertencentes à central de geração híbrida
+ou associada, conforme prescrições do item 6.1.3. ; e
+(b) aos requisitos gerais do item 6, caso o ONS identifique a necessidade desses requisitos após avaliação
+levando em consideração a potência total da usina e a sua localização no sistema elétrico.
+6.1.3. Os requisitos mínimos para conexão de centrais geradoras híbridas ou associadas, em relação às
+tecnologias de geração que a compõem, são:
+(a) As tecnologias de geração hidroelétricas ou termoelétricas pertencentes a essas centrais devem
+atender os requisitos indicados no item 4 deste submódulo, à exceção daqueles explicitamente
+indicados no presente item 6; e
+(b) As tecnologias de geração eólica ou fotovoltaica pertencentes a essas centrais devem atender os
+requisitos indicados no item 5 deste submódulo, à exceção daqueles explicitamente indicados no
+presente item 6.
+6.1.4. Para fins de determinação dos requisitos dos itens 4 e 5 que são aplicáveis a cada fonte, deve-se tomar
+como referência:
+(a) A modalidade de operação e o ponto de conexão da central geradora híbrida ou associada; e
+(b) A potência nominal da tecnologia de geração hidroelétrica, termoelétrica, eólica ou fotovoltaica.
+6.1.5. As centrais geradoras híbridas ou associadas, compostas por instalações com tecnologias de geração
+eólica e fotovoltaica, que compartilharem instalações de transmissão de interesse restrito que não estão sob
+responsabilidade de agente de transmissão, são consideradas como uma única instalação no que diz respeito
+Endereço na internet: http://www.ons.org.br 31 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+ao atendimento dos requisitos técnicos gerais, listados no item 5.2, e também no tocante à avaliação de
+desempenho harmônico nas análises de QEE.
+6.1.6. Os acessos de centrais híbridas ou associadas devem atender, na conexão às instalações sob
+responsabilidade de agente de transmissão, os limites dos indicadores de desempenho definidos no
+Submódulo 9.7 – Indicadores de qualidade de energia elétrica da Rede Básica.
+6.1.7. As centrais híbridas ou associadas não podem reduzir a flexibilidade de recomposição da rede elétrica,
+seja em função de limitações dos seus equipamentos, seja em função de tempo de recomposição, salvo em
+situações críticas de armazenamento do reservatório.
+6.1.8. Para o ponto de conexão às instalações sob responsabilidade de agente de transmissão, e para a área
+de influência das centrais geradoras híbridas ou associadas, devem ser feitas avaliações para verificar se há
+superação da capacidade de equipamentos ou necessidade de reajustes de parâmetros de proteção,
+supervisão e controle. Para tal, devem ser realizados estudos relativos:
+(a) ao nível de curto-circuito com a presença da(s) central(is) geradora(s);
+(b) à capacidade de disjuntores, barramentos, transformadores de corrente e malhas de terra,
+verificando inclusive a possibilidade de saturação de transformadores de corrente;
+(c) à adequação e ao ajuste dos sistemas de proteção, supervisão e controle envolvidos com a integração
+da(s) central(is) geradora(s);
+(d) adequação dos sistemas de proteção e controle relacionados à integração da(s) central(is) geradora(s)
+e revisão dos ajustes relativos à(s) central(is) geradora(s);
+(e) à avaliação paramétrica dos reguladores de tensão, de velocidade e dos sinais estabilizadores; e
+(f) à avaliação dos sistemas de partida das unidades geradoras termoelétricas quanto aos indicadores de
+variação de tensão de curta duração estabelecidos no Submódulo 9.7 – Indicadores de qualidade de
+energia elétrica da Rede Básica.
+6.1.9. As ações e os custos decorrentes das ações necessárias para o atendimento dos requisitos técnicos
+mínimos descritos nesta seção 6 são de responsabilidade do agente de geração.
+6.2. Requisitos técnicos gerais
+6.2.1. As centrais geradoras associadas devem compartilhar fisicamente a infraestrutura de conexão ao
+sistema de transmissão [2].
+6.2.2. Controle centralizado
+6.2.2.1. Adicionalmente aos controles já previstos para cada tecnologia de geração, as centrais geradoras
+híbridas ou associadas devem dispor de controle centralizado capaz de controlar:
+(a) Potência ativa, potência reativa e fator de potência no ponto de conexão das centrais geradoras às
+instalações sob responsabilidade de agente de transmissão; e
+(b) Tensão, sendo que o barramento de referência do controle é, preferencialmente, o barramento de
+alta tensão da subestação coletora ou conforme definido no Parecer de Acesso.
+6.2.2.2. Deve ser possível a comunicação e a coordenação entre o controle centralizado das centrais
+geradoras híbridas ou associadas e os controladores de cada tecnologia de geração que a compõe, com
+infraestrutura que propicie tempo de resposta compatível com os requisitos de controle das centrais
+geradoras.
+Endereço na internet: http://www.ons.org.br 32 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+6.2.3. Geração/absorção de potência reativa e atendimento do fator de potência em regime de tensão não-
+nominal (V-Q/Pmax):
+6.2.3.1. As centrais geradoras híbridas e associadas, independentemente das tecnologias de geração
+envolvidas, devem:
+(a) atender ao requisito apresentado no item 5.2.5. , referente ao fator de potência no ponto de conexão
+às instalações sob responsabilidade do agente de transmissão; e
+(b) ter a capacidade de operar com injeção/absorção de potência reativa nula no ponto de conexão com
+as instalações sob responsabilidade de agente de transmissão, quando estiverem operando com
+potência ativa nula.
+6.2.3.2. As centrais geradoras híbridas e associadas compostas somente por tecnologias de geração eólica e
+fotovoltaica deverão atender a todos os requisitos relativos ao atendimento de fator de potência e
+geração/absorção de potência reativa, constantes no item 5.2.2. , nos respectivos pontos de referência
+determinados para cada requisito, fazendo uma superposição dos requisitos individuais de cada uma das
+fontes (eólica e fotovoltaica).
+6.2.3.3. As centrais geradoras híbridas e associadas compostas somente por tecnologias de geração
+hidroelétrica e termoelétrica deverão atender, além dos requisitos definidos no item 6.2.3.1. (a) e (b), os
+requisitos relativos à geração/absorção de potência reativa necessários para unidades geradoras de usinas
+hidroelétricas e termoelétricas, constantes no item 4.2.5. .
+6.2.3.4. As centrais geradoras compostas por tecnologia(s) de geração eólica e/ou fotovoltaica, combinada(s)
+com tecnologia(s) de geração hidroelétrica e/ou termoelétrica, deverão atender, além dos requisitos
+definidos no item 6.2.3.1. (a) e (b), os seguintes requisitos:
+(a) instalações com tecnologias de geração hidroelétrica e termoelétrica: os requisitos relativos à
+geração/absorção de potência reativa, necessários para unidades geradoras de usinas hidroelétricas
+e termoelétricas, constantes no item 4.2.5. ; e
+(b) instalações com tecnologias de geração eólica e fotovoltaica: devem atender todos os requisitos
+relativos ao atendimento de fator de potência e geração/absorção de potência reativa, necessários
+para centrais geradoras eólicas e fotovoltaicas, constantes no item 5.2.2. , fazendo uma superposição
+dos requisitos individuais de cada uma das fontes (eólica e fotovoltaica). Estes requisitos devem ser
+referenciados ao ponto de fronteira em que a instalação com tecnologia de geração
+eólica/fotovoltaica passa a compartilhar o sistema de transmissão de interesse restrito com a
+instalação com tecnologia de geração hidroelétrica/termoelétrica, conforme esquema da Figura 15.
+Figura 15 – Ponto de referência: fronteira entre o sistema exclusivo da central geradora eólica ou fotovoltaica e o
+sistema de conexão compartilhado entre as usinas EOL ou UFV e UHE ou UTE.
+Endereço na internet: http://www.ons.org.br 33 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+7. CONEXÃO DE CARGA
+7.1. Aspectos gerais
+7.1.1. Os requisitos técnicos mínimos para conexão de carga devem ser atendidos por:
+(a) consumidores ou autoprodutores de energia elétrica cuja carga máxima supere a geração própria,
+com Contrato de Uso do Sistema de Transmissão (CUST); e
+(b) agentes de distribuição que se conectam às instalações de transmissão sob responsabilidade de
+agente de transmissão.
+7.1.2. Mediante avaliação técnica do ONS, podem ser admitidas condições particulares do comportamento
+da carga, desde que não prejudiquem, sob qualquer hipótese, a operação dos outros agentes conectados às
+instalações de transmissão.
+7.1.3. O acessante deve adotar as medidas necessárias para que, no ponto de conexão às instalações de
+transmissão sob responsabilidade de agente de transmissão, não haja ultrapassagem da faixa de fator de
+potência estabelecida no item 7.3 deste submódulo, nem superação dos limites dos indicadores de QEE,
+conforme estabelecido no Submódulo 2.9 e Submódulo 9.7.
+7.1.3.1. Se os limites individuais de QEE, estabelecidos no Submódulo 2.9, forem superados por agente de
+distribuição, a ação corretiva deve se basear em solução de mínimo custo global, consideradas as possíveis
+obras nas instalações de transmissão e de distribuição.
+7.2. Condições de conexão
+7.2.1. Na conexão às instalações de transmissão sob responsabilidade de agente de transmissão, o acessante
+deve assegurar que:
+(a) suas instalações atendam às normas técnicas da ABNT no que for aplicável e, na sua falta, às normas
+técnicas da IEC e ANSI, nessa ordem de preferência;
+(b) os seus disjuntores de fronteira sejam capazes de interromper, sem risco para o sistema, as correntes
+de curto-circuito no ponto de conexão às instalações sob responsabilidade de agente de transmissão;
+(c) seus equipamentos sejam capazes de operar satisfatoriamente, sem danificação ou perda de vida útil,
+com os níveis de tensão da Rede Básica na frequência fundamental dentro da faixa de variação
+definida no Submódulo 2.3;
+(d) os sistemas de proteção de suas instalações eliminem os defeitos, operando com efetividade e
+segurança e em coordenação com as proteções das instalações de transmissão;
+(e) sua carga seja adequadamente distribuída entre as fases; e
+(f) a sua carga participe de medidas operativas para gerenciamento de cargas e de SEP, incluindo o
+Esquema Regional de Alívio de Carga por Subfrequência (ERAC), nos montantes de cargas
+disponibilizadas para corte e ajustes previamente definidos para cada estágio, conforme estabelecido
+pelo ONS para a área geo-elétrica onde a conexão está inserida, conforme Submódulo 7.5 e
+Submódulo 6.14 – Monitoramento dos Esquemas Regionais de Alívio de Carga.
+7.2.2. Caso a carga do agente acessante tenha característica não linear ou especial, o acessante deve fazer
+análises específicas no tocante à elaboração de um estudo de desempenho harmônico, para avaliação do
+grau de influência dessas cargas no desempenho das instalações de transmissão.
+Endereço na internet: http://www.ons.org.br 34 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+7.2.3. O acessante deve realizar, quando requeridos, estudos de proteção, flutuação de tensão, distorção
+harmônica, estabilidade eletromecânica, curto-circuito mínimo, dentre outros para avaliar a necessidade de
+instalação de equipamentos de correção/proteção, considerando-se os seguintes aspectos:
+(a) comprometimento da segurança do sistema (por exemplo, contribuições para faltas no SIN não
+percebidas pela proteção das instalações do acessante); e
+(b) limites dos indicadores de desempenho quanto à QEE definidos nos Procedimentos de Rede,
+conforme Submódulo 2.9, Submódulo 6.15, Submódulo 7.8 e Submódulo 9.7.
+7.2.4. Se o acessante requerer desempenho diferenciado com respeito à QEE, relativamente aos limites
+globais dos indicadores de desempenho estabelecidos no Submódulo 2.9, e o ONS aceitar tal solicitação, o
+acessante deve arcar com os custos adicionais necessários para a adequação das instalações de transmissão
+sob responsabilidade de agente de transmissão ao seu nível de exigência.
+7.2.4.1. A adequação requerida deve estar embasada em estudos de viabilidade técnica e os respectivos
+custos devem ser previstos especificadamente no Contrato de Conexão às Instalações de Transmissão (CCT).
+7.3. Fator de potência
+7.3.1. No ponto de conexão às instalações de transmissão sob responsabilidade de agente de transmissão,
+o acessante deve manter o fator de potência nas faixas especificadas na Tabela 4.
+7.3.1.1. Os dados para o cálculo do fator de potência são fornecidos pelo Sistema de Medição para
+Faturamento (SMF), conforme Submódulo 2.14 – Requisitos mínimos para Sistemas de Medição para
+Faturamento.
+Tabela 4 – Faixa de fator de potência no ponto de conexão às instalações sob responsabilidade de agente de
+transmissão
+Tensão nominal do ponto de
+Faixa de fator de potência
+conexão
+Vn  345 kV 0,98 indutivo a 1,0
+69 kV  Vn  345 kV 0,95 indutivo a 1,0
+0,92 indutivo a 1,0
+Vn  69 kV
+0,92 capacitivo a 1,0
+7.3.2. A operação de chaveamento de banco de capacitores instalado para correção de fator de potência
+não deve provocar fenômenos transitórios ou ressonâncias que prejudiquem o desempenho das instalações
+de transmissão ou de agentes nelas conectados.
+7.3.2.1. O acessante deve realizar estudos específicos complementares que avaliem o impacto dessas
+manobras no desempenho das instalações de transmissão e de seus usuários.
+8. CONEXÃO DAS INSTALAÇÕES DE INTERESSE RESTRITO DE AGENTES DE IMPORTAÇÃO/EXPORTAÇÃO
+PARA INTERLIGAÇÃO INTERNACIONAL
+8.1. Capacidade de transmissão
+Endereço na internet: http://www.ons.org.br 35 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+8.1.1. Deve ser analisada a conveniência da interligação operar com fluxo de potência ativa em ambos os
+sentidos e definido o nível previsto de potência ativa para cada sentido.
+8.1.2. As estações conversoras conectadas ao SIN devem ser autossuficientes em termos de potência reativa.
+8.1.3. No caso de interligações que envolvem linhas em CA, deve-se estabelecer, em contrato, um limite
+para o intercâmbio de potência reativa entre o ponto de conexão às instalações sob responsabilidade de
+agente de transmissão e a interligação propriamente dita. Esse limite deve ser definido de tal modo que
+sejam preservados os sistemas das partes envolvidas.
+8.2. Desempenho dinâmico
+8.2.1. A introdução de qualquer interligação não pode degradar o desempenho dinâmico do sistema
+existente.
+8.2.2. O ajuste do sistema de controle da interligação não pode reduzir o grau de amortecimento dos modos
+de oscilação de potência do sistema, durante contingências.
+8.2.3. A critério do ONS, a implementação de métodos para a melhoria do desempenho dinâmico do sistema
+existente, por meio de sistemas de controle da interligação em CC – como, por exemplo, a modulação da
+potência CC –, deve ser acordada com o responsável pelas instalações de interligação internacional.
+8.3. Controle de tensão
+8.3.1. A operação da interligação não deve ocasionar no ponto de conexão às instalações sob
+responsabilidade de agente de transmissão variações de tensão que excedam os limites admissíveis
+estabelecidos no Submódulo 2.3, tanto em condição normal, como durante distúrbios.
+8.4. Interferência harmônica
+8.4.1. A operação da interligação não deve ocasionar no ponto de conexão às instalações sob
+responsabilidade de agente de transmissão distorções de tensão harmônica individual e total que excedam
+os limites especificados no Submódulo 2.9.
+8.5. Operação monopolar com retorno pela terra
+8.5.1. A operação monopolar com retorno pela terra, admitida em condições especiais, não pode ocasionar
+nenhum dano ou mau funcionamento nos equipamentos ou instalações existentes na região próxima às
+instalações de CC.
+8.6. Outros aspectos
+8.6.1. Quanto ao sistema de supervisão e controle, devem ser atendidos os requisitos estabelecidos no
+Submódulo 2.12.
+8.6.2. No que diz respeito às interligações internacionais em corrente contínua, com tecnologia LCC (Line
+Commutaded Converter), devem ser atendidos os requisitos estabelecidos no Submódulo 2.8 – Requisitos
+mínimos para elos em corrente contínua, observado o Submódulo 2.3.
+8.6.3. Tendo em vista a otimização da expansão da Rede Básica, o ONS pode:
+(a) definir pontos de passagem da linha CA; e
+(b) indicar a localização da subestação conversora em território brasileiro.
+Endereço na internet: http://www.ons.org.br 36 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+9. CONEXÃO EM DERIVAÇÃO (TAPE) NA REDE BÁSICA
+9.1. Condições gerais
+9.1.1. São admitidas, em caráter provisório e para condições especiais, conexões em derivação em linha de
+transmissão (LT) de 230 kV integrante da Rede Básica, desde que:
+(a) não seja para conexão de central geradora;
+(b) atendam aos requisitos técnicos mínimos estabelecidos neste submódulo;
+(c) estejam em conformidade com o Módulo 2 – Critérios e Requisitos e não comprometam a
+segurança do sistema;
+(d) não sejam feitas em instalações onde a confiabilidade é crítica, como por exemplo, interligações
+inter-regionais, internacionais e entre submercados; e
+(e) perdurem por um período máximo de 18 (dezoito) meses e estejam condicionadas à apresentação
+pelo acessante do cronograma de implantação da conexão definitiva em seccionamento da LT
+acessada.
+9.1.1.1. Quanto à continuidade de suprimento ao acessante:
+(a) a conexão em tape pode ser utilizada em casos especiais quando o acessante admitir menor
+confiabilidade de suprimento e não comprometer a confiabilidade dos demais acessantes atendidos
+pela LT; e
+(b) em função desse tipo de conexão, as eventuais perdas de suprimento, por indisponibilidade
+programada ou não da LT, são assumidas pelo acessante.
+9.1.2. Deve ser verificado o impacto da conexão em derivação sobre os usuários da Rede Básica.
+9.1.3. Não são admitidas conexões em derivação em LT integrante da Rede Básica em tensão superior a 230
+kV.
+9.1.4. Quanto às conexões em derivação existentes:
+(a) o ONS pode propor à ANEEL, com base em diagnóstico e em análise de custo/benefício, ações para
+adequação dessas conexões aos requisitos técnicos estabelecidos neste submódulo; e
+(b) quando for o caso, a ANEEL estabelece os prazos para o cumprimento das ações aprovadas.
+9.1.5. O acessante só pode ser conectado em derivação à Rede Básica se:
+(a) a configuração da conexão for radial;
+(b) o(s) transformador(es) não sejam aterrado(s) no lado de alta tensão;
+(c) não houver motores síncronos de potência superior a 5.000 kW na instalação do acessante; e
+(d) não houver geradores de energia elétrica operando sincronizados com o sistema do acessante.
+9.1.5.1. Dessa forma, não deve haver a possibilidade de:
+(a) fechamento de anel com o SIN.
+(b) inversão do sentido das correntes elétricas, mesmo em condições transitórias de curto-circuito,
+provocadas por unidades síncronas conectadas ao sistema do acessante.
+Endereço na internet: http://www.ons.org.br 37 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+9.2. Instalações de conexão
+9.2.1. A configuração do ramal dependerá dos carregamentos dos circuitos existentes e da confiabilidade da
+Rede Básica.
+9.2.1.1. Sob o ponto de vista da confiabilidade da Rede Básica, deve ser detalhadamente analisada a questão
+da proteção de LT, especialmente quanto ao comprimento do ramal de conexão em relação ao comprimento
+da LT acessada.
+9.2.2. A conexão em derivação deve ser obrigatoriamente trifásica.
+9.2.3. O ramal de ligação em tape deve ser concebido de forma a não afetar a confiabilidade da Rede Básica.
+9.2.4. O estudo de topografia e o trajeto do ramal de ligação, assim como o arranjo de torres e a configuração
+de condutores por fase, devem ser submetidos à aprovação do agente de transmissão acessado e devem ser
+utilizados critérios iguais aos utilizados para a LT onde será construída a derivação.
+9.2.4.1. Podem ser exigidos critérios de projeto mais rígidos do que os da LT acessada, caso o trajeto do
+ramal proposto pelo consumidor seja mais desfavorável em termos de topografia, atividades urbanas,
+pecuárias ou agrícolas, agressividade natural ou industrial, etc.
+9.2.5. Os pontos de derivação (fly-tap) devem ser construídos com estruturas autossustentadas.
+9.2.6. Os ramais devem ser dotados de cabos para-raios que proporcionem padrão de proteção contra
+descargas atmosféricas igual ao utilizado na LT acessada.
+9.2.7. O arranjo da subestação do acessante deve ser concebido de forma a não comprometer a
+confiabilidade da Rede Básica nos períodos de operação normal, saída forçada e também as programadas
+para manutenção.
+9.2.8. O arranjo deve ter chaves seccionadoras capazes de isolar a subestação da LT.
+9.2.9. O projeto da subestação do acessante deve atender aos critérios do agente de transmissão acessado.
+9.2.10. Para a fase definitiva do acesso com seccionamento de LT, cabe ao acessante adequar os sistemas
+de medição para faturamento, proteção, telecomunicações e supervisão e controle, aos padrões e requisitos
+estabelecidos nos Procedimentos de Rede.
+9.3. Sistemas de proteção
+9.3.1. O acessante deve arcar com os custos relativos à substituição dos sistemas de proteção das LT da Rede
+Básica ou à instalação de esquemas de proteção adicionais, decorrentes da conexão em derivação.
+9.3.2. A proteção dos componentes da subestação do acessante deve assegurar eliminação sem retardo
+intencional de todos os curtos-circuitos internos detectáveis pela proteção de retaguarda remota dos
+terminais originais da LT.
+9.3.3. O acessante deve providenciar os meios locais para compatibilizar o esquema de teleproteção
+instalado na LT com a adição de mais um terminal. Isso inclui equipamentos como filtros de onda,
+transformadores de corrente e dispositivos capacitivos de potencial, bem como relés de proteção específicos
+e equipamentos de comunicação e teleproteção.
+9.3.4. No caso da conexão inviabilizar a aplicação do esquema de teleproteção instalado, cabe ao acessante
+custear a substituição do esquema de teleproteção existente, conforme requisitos e especificações do
+acessado, inclusive com relação a fornecimento de sobressalente e ferramentas especiais.
+9.3.4.1. A inviabilização ocorre, por exemplo, com proteções baseadas em ondas trafegantes e pode ocorrer
+com certos esquemas diferenciais longitudinais e com algumas lógicas de teleproteção.
+Endereço na internet: http://www.ons.org.br 38 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+9.3.5. Algumas conexões podem requerer também a troca do meio de comunicação, por exemplo de onda
+portadora para microondas ou fibra ótica, cabendo os respectivos custos ao acessante.
+9.3.6. A conexão não pode inviabilizar a utilização do tipo de religamento automático empregado na LT.
+10. ARRANJO DE BARRAMENTO
+10.1. Acesso às instalações de transmissão sob responsabilidade de agente de transmissão
+10.1.1. No caso de conexão em uma subestação sob responsabilidade de agente de transmissão, o acessante
+deve seguir o arranjo de barramento da referida subestação.
+10.1.1.1. Caso o arranjo da subestação acessada não atenda ao requisito definido no item 3.1.1 do
+Submódulo 2.6 – Requisitos mínimos para subestações e seus equipamentos, o acessante deve adequar sua
+conexão quando da adequação da subestação a esses requisitos. Essa obrigação do acessante deve constar
+do respectivo CCT.
+10.1.2. Para conexão por meio de seccionamento de LT da Rede Básica ou das instalações de transmissão de
+energia elétrica destinadas a interligações internacionais conectadas à Rede Básica, o arranjo de barramento
+da subestação a ser integrada deve observar o requisito definido no item 3.1.1 do Submódulo 2.6.
+10.1.2.1. Em tensão igual ou superior a 345 kV, os vãos de entrada de linha associados ao seccionamento
+devem ser instalados no mesmo módulo de infraestrutura de manobra correspondente ao arranjo final da
+subestação do acessante.
+10.1.2.2. A conexão pode ter arranjo de barramento inicial em anel simples, até o limite de quatro conexões,
+considerando aquelas do seccionamento da LT, e deve-se atender aos seguintes pontos:
+(a) o arranjo físico desse barramento deve ser projetado de forma a permitir a evolução para o arranjo
+de barramento estabelecido no item 3.1.1 do Submódulo 2.6;
+(b) as conexões não devem comprometer o desempenho sistêmico da Rede Básica, limitar a operação da
+Rede Básica ou das instalações de transmissão de energia elétrica destinadas a interligações
+internacionais conectadas à Rede Básica, tampouco impor restrições às instalações a elas conectadas;
+(c) no caso de compartilhamento entre agentes de geração, de importação/exportação e/ou
+consumidores, os custos do disjuntor central da subestação com arranjo de barramento disjuntor e
+meio, e demais equipamentos e instrumentos a ele associados devem ser igualmente divididos entre
+as partes, sendo responsabilidade pela operação do disjuntor central estabelecida no CCT;
+(1) se o referido compartilhamento envolver uma transmissora, a responsabilidade pelo disjuntor
+compartilhado e demais equipamentos e instrumentos a ele associados é do agente de
+transmissão e, caso o disjuntor já exista, este deve ser transferido, sem ônus, à transmissora;
+(d) o primeiro acessante deve adequar sua conexão quando da adequação da subestação ao requisito
+definido no item 3.1.1 do Submódulo 2.6; e
+(e) as obrigações dos agentes e/ou consumidores devem estar dispostas nos respectivos CCT e/ou
+Contrato de Compartilhamento de Instalações (CCI).
+10.2. Subestações de uso exclusivo de agente de geração, de importação/exportação ou consumidor
+com conexão às instalações de transmissão sob responsabilidade de agente de transmissão
+Endereço na internet: http://www.ons.org.br 39 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+10.2.1. Subestações com isolamento a ar devem adotar uma das seguintes configurações para os arranjos
+de barramento, em função de sua classe de tensão:
+(a) barramentos de tensão inferior a 230 kV: arranjo barra simples, com possibilidade de evolução para
+arranjo barra principal e transferência, ou arranjo barra principal e transferência;
+(b) barramentos de tensão igual a 230 kV: arranjo barra principal e transferência, com possibilidade de
+evolução para arranjo barra dupla com disjuntor simples a quatro chaves, ou arranjo barra dupla com
+disjuntor simples a quatro chaves; e
+(c) barramentos de tensão igual ou superior a 345 kV: arranjo em anel para subestações com até 6 (seis)
+conexões de LT e/ou equipamentos, com possibilidade de evolução para arranjo barra dupla com
+disjuntor e meio, ou arranjo barra dupla com disjuntor e meio para subestações com número de
+conexões superior a 6 (seis).
+10.2.2. O vão de entrada de linha na subestação sob a responsabilidade do agente deve ser concebido e
+operado com uso de disjuntor.
+10.2.3. O arranjo físico do barramento das subestações com isolamento a ar deve ser projetado de forma
+que:
+(a) viabilize a evolução para o arranjo de barramento definido no item 3.1.1 do Submódulo 2.6 e possível
+futura expansão; e
+(b) as conexões não comprometam o desempenho sistêmico da Rede Básica, limitem a operação da Rede
+Básica ou das instalações de transmissão de energia elétrica destinadas a interligações internacionais
+conectadas à Rede Básica, tampouco imponham restrições às instalações a elas conectadas.
+10.2.4. Arranjos de barramentos alternativos com outras tecnologias de isolamento (SF6, por exemplo)
+podem ser propostos, em conformidade com os itens 3.1.2 e 3.1.3 do Submódulo 2.6.
+10.2.5. Caso seja verificado nos estudos definidos pelo ONS ou pela EPE a necessidade de evolução dos
+arranjos de barramento da subestação de uso exclusivo no horizonte de 5 (cinco) anos para aqueles definidos
+no item 3.1.1 do Submódulo 2.6, a subestação deve ser implementada em seu arranjo final.
+11. ÁREA DA SUBESTAÇÃO
+11.1. Acesso às instalações de transmissão sob responsabilidade de agente de transmissão
+11.1.1. No caso de acesso às instalações de transmissão sob responsabilidade de agente de transmissão por
+agente de geração, de distribuição, de importação/exportação ou consumidor, para conexão por meio de
+seccionamento de LT, a subestação com isolamento a ar deve ter pelo menos a área mínima, observado o
+maior nível de tensão da subestação (Vmax):
+(a) Vmax < 88 kV: 8.000 m2;
+(b) 88 kV ≤ Vmax ≤ 138 kV: 15.000 m2;
+(c) 138 kV < Vmax ≤ 230 kV: 25.000 m2;
+(d) 230 kV < Vmax ≤ 345 kV: 100.000 m2; ou
+(e) Vmax ≥ 440 kV: 140.000 m2.
+Endereço na internet: http://www.ons.org.br 40 / 41
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos técnicos mínimos para a conexão
+2.10 Requisitos 2025.02 01/03/2025
+às instalações de transmissão
+11.2. Subestações de uso exclusivo de agente de geração, de importação/exportação ou consumidor
+com conexão às instalações de transmissão
+11.2.1. Caso seja verificado nos estudos definidos pelo ONS ou pela EPE a necessidade de especificação de
+área mínima, a subestação deve ser implementada com a área mínima especificada.
+12. REFERÊNCIAS
+[1] IEC. Electromagnetic Compatibility (EMC) – Part 3-6: Limits – Assessment of emission limits for the
+connection of distorting installations to MV, HV and EHV power systems. IEC/TR 61000-3-6.
+[2] ANEEL. Resolução Normativa nº 954, de 30 de novembro de 2021.
+[3] ANEEL. Resolução Normativa nº 1.055, de 29 de dezembro de 2022. Regras dos Serviços de
+Transmissão de Energia Elétrica no Sistema Elétrico Nacional. Módulo 5 – Acesso ao Sistema.
+[4] Relatório ONS RE 3/0081/2015 – Filosofias de Proteção das Unidades Geradoras.
+Endereço na internet: http://www.ons.org.br 41 / 41

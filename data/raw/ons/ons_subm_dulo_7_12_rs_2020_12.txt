@@ -1,0 +1,102 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.12-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.12-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.12
+Implantação dos serviços de
+telecomunicações para atendimento às
+necessidades do Sistema Interligado
+Nacional
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submód Tipo Revisão Vigência
+Implantação dos serviços de ulo
+telecomunicações para atendimento às 7.12 Responsabilidades 2020.12 01/01/2021
+necessidades do Sistema Interligado Nacional
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Informe do Novo Serviço de Telecomunicação.............................................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de operação.....................................................................................................................3
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIAS...................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submód Tipo Revisão Vigência
+Implantação dos serviços de ulo
+telecomunicações para atendimento às 7.12 Responsabilidades 2020.12 01/01/2021
+necessidades do Sistema Interligado Nacional
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas de processos relativos à
+implantação de novos serviços de telecomunicações implementados entre as instalações dos agentes de
+operação e as instalações do Operador Nacional do Sistema Elétrico– ONS, para dar suporte às atividades
+voltadas para a operação do Sistema Interligado Nacional (SIN).
+2. PRODUTOS
+2.1. Informe do Novo Serviço de Telecomunicação
+2.1.1. Apresenta a data de entrada em operação e as informações dos circuitos de dados e voz que
+constituem o novo serviço de telecomunicação de uma nova instalação integrada à um centro de operação
+do ONS.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Analisar os projetos apresentados pelos agentes de operação para a implantação de novos serviços
+de telecomunicações que visem ao atendimento das necessidades operacionais do SIN e acompanhar
+o andamento das atividades concernentes.
+(b) Autorizar as atividades dos agentes de operação relativas à implantação de novos serviços de
+telecomunicações nas instalações do ONS e dar suporte à execução dessas atividades.
+(c) Participar, sempre que julgar necessário, juntamente com os agentes de operação, das atividades de
+testes em serviços de telecomunicações, tão logo se encerrem as atividades de implantação.
+(d) Implantar a monitoração da disponibilidade dos serviços de telecomunicações, tão logo as atividades
+de testes sejam aprovadas e os serviços disponibilizados para operação.
+(e) Cadastrar o novo serviço de telecomunicação e disponibilizar aos agentes de operação o acesso ao
+sistema computacional relativo à apuração da disponibilidade do serviço de telecomunicações.
+3.2. Agentes de operação
+(a) Apresentar, sempre que necessário, para análise e aprovação do ONS, as propostas e o planejamento
+para implantação dos serviços de telecomunicações que atenderão às necessidades do SIN.
+(b) Informar ao ONS os dados operacionais e técnicos, bem como a proposta de cronograma de
+implantação dos novos serviços.
+(c) Solicitar ao ONS a autorização para a realização de atividades relativas à implantação de novos
+serviços de telecomunicações nas instalações do ONS e coordenar todas as etapas das atividades de
+implantação dos novos serviços.
+(d) Garantir que os novos serviços estejam em conformidade com os requisitos de disponibilidade
+estabelecidos em Procedimentos de Rede e apresentar, quando solicitado pelo ONS, laudo de
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submód Tipo Revisão Vigência
+Implantação dos serviços de ulo
+telecomunicações para atendimento às 7.12 Responsabilidades 2020.12 01/01/2021
+necessidades do Sistema Interligado Nacional
+entidade independente e devidamente qualificada, atestando que a solução proposta está em
+perfeita conformidade com esses requisitos.
+(e) Garantir a existência de assistência local ininterrupta às instalações, caso tenha esgotado o prazo de
+adequação das instalações teleassistidas e estas não estejam adequadas aos requisitos mínimos do
+Submódulo 2.15 – Requisitos mínimos para telecomunicações.
+(f) Executar os testes de verificação da qualidade e disponibilizar, para avaliação do ONS, documento
+com o resultado desses testes.
+4. PRAZOS
+Quadro 1 - Prazos para implantação de novos serviços de telecomunicações
+Atividade Responsável Prazo
+Apresentar projeto detalhado da 90 dias antes da disponibilização
+1 Agentes de operação
+solução a ser implantada do serviço
+Adequação aos requisitos de
+disponibilidade, qualidade e
+quantidade de rotas do sistema de Até 12 meses, a partir da data
+2 telecomunicação, devido à Agentes de operação em que for informado pelo ONS
+reclassificação da classe de serviços da necessidade da adequação
+de telecomunicação de voz e de
+dados da instalação
+Adequação aos sistemas de
+comunicação, por força de mudança Até 12 meses, a partir da data
+3 de endereço de qualquer localidade Agentes de operação em que for informado pelo ONS
+do ONS (onde se encontram os SAL da necessidade da adequação
+ou SAR)
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 4 / 4

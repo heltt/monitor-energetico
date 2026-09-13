@@ -1,0 +1,99 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 4.7-OP_2024.01
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 4.7-OP_2024.01.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 4.7
+Atualização de informações sobre
+restrições hidráulicas dos
+aproveitamentos hidroelétricos
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2024.01 Resolução nº 007/2024 da 942ª 23/01/2024
+Reunião de Diretoria ONS
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Atualização de informações sobre
+restrições hidráulicas dos 4.7 Operacional 2024.01 23/01/2024
+aproveitamentos hidroelétricos
+ÍNDICE
+1. ATUALIZAÇÃO DE INFORMAÇÕES SOBRE RESTRIÇÕES HIDRÁULICAS E INFORMAÇÕES OPERATIVAS
+RELEVANTES DOS APROVEITAMENTOS HIDROELÉTRICOS................................................................3
+1.1. Obtenção de dados e informações................................................................................................3
+1.2. Implementação das atualizações e disponibilização do Inventário de Restrições Hidráulicas e de
+Informações Operativas Relevantes dos Aproveitamentos Hidroelétricos atualizado.................3
+1.3. Elaboração do Parecer Técnico sobre a Solicitação de Atualização de Restrições Hidráulicas e
+encaminhamento..........................................................................................................................4
+2. REFERÊNCIAS...................................................................................................................................4
+3. ANEXOS...........................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Atualização de informações sobre
+restrições hidráulicas dos 4.7 Operacional 2024.01 23/01/2024
+aproveitamentos hidroelétricos
+1. ATUALIZAÇÃO DE INFORMAÇÕES SOBRE RESTRIÇÕES HIDRÁULICAS E INFORMAÇÕES OPERATIVAS
+RELEVANTES DOS APROVEITAMENTOS HIDROELÉTRICOS
+1.1. Obtenção de dados e informações
+1.1.1. O Operador Nacional do Sistema Elétrico – ONS informa aos agentes de geração os formatos, os meios
+e os prazos estabelecidos para o envio de solicitações de atualização de informações sobre restrições
+hidráulicas e informações operativas relevantes (IORs) dos aproveitamentos hidroelétricos.
+1.1.2. Os agentes de geração encaminham ao ONS, nos formatos, meios e prazos estabelecidos, as
+solicitações de atualização das informações sobre restrições hidráulicas, acompanhadas de justificativas
+técnicas, e IORs dos aproveitamentos hidroelétricos em operação, ou com entrada em operação
+considerando o horizonte de planejamento da operação.
+1.1.2.1. As informações sobre restrições hidráulicas referem-se:
+(a) vazões máximas e mínimas em seções e trechos de rio;
+(b) limitações de valores máximos de vazões defluentes, turbinadas e vertidas em aproveitamentos;
+(c) limitações de valores mínimos de vazões defluentes, turbinadas e vertidas em aproveitamentos;
+(d) limites para os níveis máximos e mínimos nos reservatórios; e
+(e) taxas máximas de variação de defluências e outras restrições hidráulicas.
+1.1.2.2. As IORs são referências operativas diversas que podem ser consideradas na programação diária e
+operação em tempo real dos aproveitamentos hidroelétricos. Estas informações se diferenciam das
+restrições hidráulicas por não se constituírem em limites operativos determinantes para o planejamento e
+programação mensal da operação dos aproveitamentos hidroelétricos.
+1.1.3. O ONS analisa as solicitações dos agentes de geração de atualização das informações sobre restrições
+hidráulicas e suas justificativas técnicas e, caso necessário, solicita esclarecimentos aos agentes.
+1.1.4. O ONS obtém da Agência Nacional de Energia Elétrica – ANEEL as informações sobre eventuais
+restrições hidráulicas atualizadas relativas aos aproveitamentos hidroelétricos em planejamento.
+1.1.5. O ONS obtém da ANEEL e da Agência Nacional de Águas – ANA, eventuais solicitações de atualização
+de informações sobre restrições hidráulicas dos aproveitamentos hidroelétricos.
+1.2. Implementação das atualizações e disponibilização do Inventário de Restrições Hidráulicas e de
+Informações Operativas Relevantes dos Aproveitamentos Hidroelétricos atualizado
+1.2.1. O ONS implementa as atualizações de informações sobre restrições hidráulicas dos aproveitamentos
+hidroelétricos, solicitadas pela ANEEL, pela ANA ou pelos agentes de geração, e as IORs dos aproveitamentos
+hidroelétricos solicitadas pelos agentes de geração.
+1.2.2. O ONS comunica aos agentes de geração, à ANEEL e à ANA as atualizações realizadas nas informações
+sobre restrições hidráulicas dos aproveitamentos hidroelétricos.
+1.2.3. O ONS disponibiliza em seu site o Inventário de Restrições Hidráulicas e de Informações Operativas
+Relevantes dos Aproveitamentos Hidroelétricos atualizado.
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Atualização de informações sobre
+restrições hidráulicas dos 4.7 Operacional 2024.01 23/01/2024
+aproveitamentos hidroelétricos
+1.2.4. Em caso de manifestação contrária por parte da ANEEL e/ou da ANA, o ONS exclui as implementações
+de atualização de restrições hidráulicas de aproveitamentos hidroelétricos, comunicando a exclusão aos
+respectivos agentes de geração.
+1.3. Elaboração do Parecer Técnico sobre a Solicitação de Atualização de Restrições Hidráulicas e
+encaminhamento
+1.3.1. O ONS elabora parecer técnico em que apresenta as consequências e repercussões das atualizações
+das restrições hidráulicas.
+1.3.2. O ONS encaminha o Parecer Técnico à ANEEL e/ou à ANA, para fins de avaliação, e para os agentes de
+geração, para conhecimento, no caso de solicitação de atualização de restrições hidráulicas enviada por
+agente de geração.
+1.3.3. O ONS encaminha o Parecer Técnico relativo à solicitação da ANEEL ou da ANA para ambas as
+agências.
+1.3.4. O ONS encaminha à ANEEL e/ou à ANA, em caráter de urgência, os Pareceres Técnicos que apresentem
+consequências e repercussões significativas.
+1.3.5. O ONS elabora, quando solicitado pela ANEEL e/ou pela ANA, estudo técnico sobre restrições
+operativas hidráulicas. Na elaboração desse estudo é facultada a participação dos agentes de geração que
+tenham relação com a restrição hidráulica em questão.
+2. REFERÊNCIAS
+2.1. Não há referências neste documento.
+3. ANEXOS
+3.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 4 / 4

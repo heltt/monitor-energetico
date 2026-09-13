@@ -1,0 +1,516 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 4.2-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 4.2-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 4.2
+Programação de intervenções em
+instalações da Rede de Operação
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação de intervenções em instalações
+4.2 Responsabilidades 2020.12 01/01/2021
+da Rede de Operação
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Programa de Intervenções em Instalações na Rede de Operação................................................3
+2.2. Informes para a apuração das indisponibilidades, restrições da capacidade operativa e
+sobrecargas em instalações de transmissão da Rede Básica e das Interligações Internacionais .3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de transmissão................................................................................................................4
+3.3. Agentes de geração responsáveis por usinas classificadas na modalidade de operação Tipo I ...4
+3.4. Agentes de geração responsáveis por usinas classificadas na modalidade de operação Tipo II-A
+.......................................................................................................................................................5
+3.5. Agentes de geração responsáveis por usinas classificadas na modalidade de operação Tipo II-B
+.......................................................................................................................................................6
+3.6. Agentes de geração responsáveis por usinas classificadas na modalidade de operação Tipo II-C
+.......................................................................................................................................................6
+3.7. Agentes de distribuição.................................................................................................................6
+3.8. Consumidores livres conectados à Rede de Operação..................................................................7
+3.9. Agentes de importação e de exportação......................................................................................7
+4. PRAZOS ...........................................................................................................................................8
+5. REFERÊNCIAS.................................................................................................................................13
+Endereço na internet: http://www.ons.org.br 2 / 13
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação de intervenções em instalações
+4.2 Responsabilidades 2020.12 01/01/2021
+da Rede de Operação
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas de processos relativas à
+programação de intervenções em instalações da Rede de Operação do Sistema Interligado Nacional (SIN).
+2. PRODUTOS
+2.1. Programa de Intervenções em Instalações na Rede de Operação
+2.1.1. Apresenta a programação de intervenções em instalações da Rede de Operação aprovadas pelo
+Operador Nacional do Sistema Elétrico – ONS, bem como as diretrizes operativas para a programação
+eletroenergética e para a execução das intervenções.
+2.2. Informes para a apuração das indisponibilidades, restrições da capacidade operativa e sobrecargas
+em instalações de transmissão da Rede Básica e das Interligações Internacionais
+2.2.1. Apresenta as informações a serem consideradas no processo estabelecido no Submódulo 6.7 –
+Apuração de indisponibilidade, restrição da capacidade operativa e sobrecarga nas instalações de
+transmissão da Rede Básica e das Interligações Internacionais.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Coordenar o processo de programação e reprogramação das intervenções.
+(b) Analisar as solicitações de intervenção na Rede de Operação, aprovar ou indeferir e, se necessário,
+cancelar ou reprogramar as intervenções, e formalizar as respostas aos agentes envolvidos.
+(c) Interagir com os agentes envolvidos, caso seja necessário alterar o período ou as condições em que
+será realizada a intervenção.
+(d) Solicitar aos agentes envolvidos, quando necessário, informações complementares necessárias à
+análise das intervenções solicitadas.
+(e) Convocar os agentes, sempre que necessário, para participarem do processo de análise das
+intervenções.
+(f) Disponibilizar aos agentes os casos de referência e armazená-los, juntamente com os resultados das
+análises num prazo de até 120 dias depois da realização das intervenções.
+(g) Manter, por 1 ano, o cadastro das solicitações de intervenções e disponibilizar esse cadastro para os
+agentes.
+(h) Encaminhar ao agente de transmissão envolvido a solicitação para a suspensão de fornecimento de
+energia elétrica de unidades consumidoras conectadas ao sistema de transmissão, quando da
+notificação pela Câmara de Comercialização de Energia Elétrica – CCEE.
+(i) Informar a todos os agentes impactados, além do agente solicitante da intervenção, as medidas
+operativas necessárias para a realização da intervenção.
+Endereço na internet: http://www.ons.org.br 3 / 13
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação de intervenções em instalações
+4.2 Responsabilidades 2020.12 01/01/2021
+da Rede de Operação
+(j) Disponibilizar aos agentes o Programa de Intervenções em Instalações na Rede de Operação.
+3.2. Agentes de transmissão
+(a) Submeter ao ONS, nos prazos e com as informações mínimas estabelecidas, seu Programa Mensal de
+Manutenções (PMM), acrescidos dos programas de testes e demais intervenções em equipamentos
+que integrem a Rede de Operação ou que imponham limitações no despacho de usinas submetidas
+ao despacho centralizado ou em instalações dessa rede.
+(b) Submeter ao ONS, nos prazos e com as informações mínimas estabelecidas, os desligamentos e as
+restrições em seus equipamentos integrantes da Rede de Operação decorrentes de intervenções fora
+da Rede de Operação.
+(c) Informar ao ONS quaisquer alterações nos cronogramas de obras, nas capacidades operativas de suas
+instalações, em regime normal e em emergência, e de características elétricas das instalações da Rede
+de Simulação em relação ao que foi informado para a elaboração do planejamento da operação
+elétrica.
+(d) Informar ao ONS os riscos de desligamentos decorrentes das intervenções em sistemas de proteção
+e controle de suas instalações. Quando essas intervenções implicarem alteração das características
+ou do desempenho dos sistemas de proteção, informar ao ONS os efeitos dessas alterações e os
+eventuais riscos para a segurança do SIN.
+(e) Fornecer ao ONS, nos prazos acertados, os dados complementares solicitados.
+(f) Informar ao ONS, quando solicitado, o histórico dos dados de medições dos equipamentos fora da
+Rede de Supervisão do ONS que sejam relevantes para a análise das intervenções.
+(g) Verificar se as intervenções em suas instalações fora da Rede de Operação são compatíveis com a
+programação de intervenções na Rede de Operação e, caso sejam detectadas incompatibilidades,
+comunicar ao ONS.
+(h) Informar aos agentes diretamente envolvidos na intervenção os serviços a serem executados e as
+manobras necessárias para a liberação da intervenção.
+(i) Informar ao ONS a data e a hora em que foi efetivada a suspensão de fornecimento de energia elétrica
+a consumidor livre quando da notificação pela CCEE. E, caso haja impossibilidade da suspensão de
+fornecimento em função de determinação judicial, encaminhar os documentos e informações
+atinentes.
+(j) Participar da análise das intervenções quando convocado pelo ONS.
+(k) Participar da elaboração do programa de intervenções e/ou acompanhar as diversas etapas da
+realização dos trabalhos.
+(l) Alterar, quando solicitado pelo ONS, seus PMM, o programa de testes e de demais intervenções em
+instalações da Rede de Operação ou em instalações cuja indisponibilidade possa acarretar restrições
+de despacho para usinas submetidas ao despacho centralizado.
+(m)Informar ao ONS o cancelamento de intervenções aprovadas.
+3.3. Agentes de geração responsáveis por usinas classificadas na modalidade de operação Tipo I
+Endereço na internet: http://www.ons.org.br 4 / 13
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação de intervenções em instalações
+4.2 Responsabilidades 2020.12 01/01/2021
+da Rede de Operação
+(a) Submeter ao ONS, nos prazos e com as informações mínimas estabelecidas, seu PMM, acrescidos dos
+programas de testes e demais intervenções em equipamentos que integrem a Rede de Operação ou
+que imponham limitações no despacho de usinas submetidas ao despacho centralizado ou em
+instalações dessa rede.
+(b) Submeter ao ONS, nos prazos e com as informações mínimas estabelecidas, os desligamentos e as
+restrições em seus equipamentos integrantes da Rede de Operação decorrentes de intervenções fora
+da Rede de Operação.
+(c) Informar ao ONS quaisquer alterações nos cronogramas de obras e das capacidades operativas de
+suas instalações, em regime normal e em emergência, em relação ao que foi informado para a
+elaboração do planejamento da operação elétrica.
+(d) Informar ao ONS os riscos de desligamentos decorrentes das intervenções em sistemas de proteção
+e controle das instalações. Quando essas intervenções implicarem alteração das características ou
+do desempenho dos sistemas de proteção, informar ao ONS os efeitos dessas alterações e os
+eventuais riscos para a segurança do SIN.
+(e) Fornecer ao ONS, nos prazos acertados, os dados complementares solicitados.
+(f) Informar aos agentes diretamente envolvidos na intervenção os serviços a serem executados e as
+manobras necessárias para a liberação da intervenção.
+(g) Participar da análise das intervenções quando convocado pelo ONS.
+(h) Alterar, quando solicitado pelo ONS, seus PMM, o programa de testes e de demais intervenções em
+instalações da Rede de Operação ou em instalações cuja indisponibilidade possa acarretar restrições
+de despacho para usinas submetidas ao despacho centralizado.
+(i) Participar da elaboração do programa de intervenções e/ou acompanhar as diversas etapas da
+realização dos trabalhos.
+(j) Informar ao ONS o cancelamento de intervenções aprovadas.
+3.4. Agentes de geração responsáveis por usinas classificadas na modalidade de operação Tipo II-A
+(a) Submeter ao ONS, nos prazos e com as informações mínimas estabelecidas, seu PMM, acrescidos dos
+programas de testes e demais intervenções em equipamentos que integrem a Rede de Operação ou
+que imponham limitações no despacho de usinas submetidas ao despacho centralizado ou em
+instalações dessa rede.
+(b) Fornecer ao ONS, nos prazos acertados, os dados complementares solicitados.
+(c) Informar aos agentes diretamente envolvidos na intervenção os serviços a serem executados.
+(d) Participar da análise das intervenções quando convocado pelo ONS.
+(e) Alterar, quando solicitado pelo ONS, seus PMM, o programa de testes e de demais intervenções em
+instalações da Rede de Operação ou em instalações cuja indisponibilidade possa acarretar restrições
+de despacho para usinas submetidas ao despacho centralizado.
+(f) Participar da elaboração do programa de intervenções e/ou acompanhar as diversas etapas da
+realização dos trabalhos.
+(g) Informar ao ONS o cancelamento de intervenções aprovadas.
+Endereço na internet: http://www.ons.org.br 5 / 13
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação de intervenções em instalações
+4.2 Responsabilidades 2020.12 01/01/2021
+da Rede de Operação
+3.5. Agentes de geração responsáveis por usinas classificadas na modalidade de operação Tipo II-B
+(a) Fornecer ao ONS, nos prazos acertados, os dados complementares solicitados.
+(b) Participar da análise das intervenções quando convocado pelo ONS.
+3.6. Agentes de geração responsáveis por usinas classificadas na modalidade de operação Tipo II-C
+(a) Submeter ao ONS, nos prazos e com as informações mínimas estabelecidas, seu PMM, acrescidos dos
+programas de testes e demais intervenções em unidades geradoras ou instalações de transmissão de
+uso exclusivo do Conjunto que imponham limitações no despacho superiores a 10% (dez por cento)
+da capacidade instalada total do Conjunto.
+(b) Fornecer ao ONS, nos prazos acertados, os dados complementares solicitados.
+(c) Informar aos agentes diretamente envolvidos na intervenção os serviços a serem executados.
+(d) Participar da análise das intervenções quando convocado pelo ONS.
+(e) Participar da elaboração do programa de intervenções e/ou acompanhar as diversas etapas da
+realização dos trabalhos.
+(f) Informar ao ONS o cancelamento de intervenções aprovadas.
+3.7. Agentes de distribuição
+(a) Submeter ao ONS, nos prazos e com as informações mínimas estabelecidas, seu PMM, acrescidos dos
+programas de testes e demais intervenções em equipamentos que integrem a Rede de Operação.
+(b) Informar aos agentes de geração ou de transmissão afetados as intervenções na Rede de Distribuição
+que imponham limitações de geração em usinas, bem como desligamentos ou restrições em
+equipamentos da Rede de Operação.
+(c) Informar ao ONS quaisquer alterações nos cronogramas de obras, nas características e capacidades
+de equipamentos da Rede de Simulação e no montante de compensação reativa por barramento da
+Rede de Simulação, em relação ao que foi informado para a elaboração do planejamento da operação
+elétrica.
+(d) Informar ao ONS os riscos de desligamentos decorrentes das intervenções em sistemas de proteção
+e controle das instalações. Quando essas intervenções implicarem alteração das características ou do
+desempenho dos sistemas de proteção, informar ao ONS os efeitos dessas alterações e os eventuais
+riscos para a segurança do SIN.
+(e) Informar ao ONS, quando solicitado, o histórico dos dados de medições dos equipamentos fora da
+Rede de Supervisão do ONS que sejam relevantes para a análise das intervenções.
+(f) Informar ao ONS as manobras e os desligamentos na Rede de Distribuição que tenham reflexos na
+Rede de Operação.
+(g) Fornecer ao ONS, nos prazos acertados, os dados complementares solicitados.
+(h) Fornecer ao ONS, para intervenções que impliquem restrição de carga, a previsão de carga da sua
+área para o período, o montante de carga que pode ser remanejada para outras subestações e os
+pontos de conexão para onde a carga pode ser remanejada.
+Endereço na internet: http://www.ons.org.br 6 / 13
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação de intervenções em instalações
+4.2 Responsabilidades 2020.12 01/01/2021
+da Rede de Operação
+(i) Informar aos agentes diretamente envolvidos na intervenção os serviços a serem executados.
+(j) Alterar, quando solicitado pelo ONS e em comum acordo com este, sua programação de intervenções.
+(k) Participar da análise das intervenções quando convocado pelo ONS.
+(l) Participar da elaboração do programa de intervenções ou acompanhar as diversas etapas de
+realização dos trabalhos.
+(m)Informar ao ONS o cancelamento de intervenções aprovadas.
+3.8. Consumidores livres conectados à Rede de Operação
+(a) Submeter ao ONS, nos prazos e com as informações mínimas estabelecidas, as intervenções em seus
+equipamentos que imponham restrição ou indisponibilidade em equipamentos da Rede de Operação.
+(b) Informar ao ONS as modificações nas indisponibilidades programadas e as alterações no montante de
+compensação reativa por barramento da Rede de Simulação, em relação ao que foi informado para o
+planejamento da operação elétrica.
+(c) Informar ao ONS alterações de demanda para o horizonte do estudo nos diferentes períodos de carga.
+(d) Informar ao ONS os riscos de desligamentos decorrentes das intervenções em sistemas de proteção
+e controle das instalações. Quando essas intervenções implicarem alteração das características ou do
+desempenho dos sistemas de proteção, informar ao ONS os efeitos dessas alterações e os eventuais
+riscos para a segurança do SIN.
+(e) Informar aos agentes diretamente envolvidos na intervenção os serviços a serem executados.
+(f) Fornecer ao ONS, nos prazos acertados, os dados complementares solicitados.
+(g) Alterar, quando solicitado pelo ONS e em comum acordo com este, sua programação de intervenções.
+(h) Informar ao ONS o cancelamento de intervenções aprovadas.
+3.9. Agentes de importação e de exportação
+(a) Submeter ao ONS, nos prazos e com as informações mínimas estabelecidas, seu PMM, acrescidos dos
+programas de testes e demais intervenções em equipamentos que integrem a Rede de Operação ou
+que imponham limitações no despacho de usinas submetidas ao despacho centralizado ou em
+instalações dessa rede.
+(b) Submeter ao ONS, nos prazos e com as informações mínimas estabelecidas, os desligamentos e as
+restrições em seus equipamentos integrantes da Rede de Operação decorrentes de intervenções fora
+da Rede de Operação.
+(c) Informar ao ONS quaisquer alterações nos cronogramas de obras e das capacidades operativas de
+suas instalações, em regime normal e em emergência, em relação ao que foi informado para a
+elaboração do planejamento da operação elétrica.
+(d) Informar ao ONS os riscos de desligamentos decorrentes das intervenções em sistemas de proteção
+e controle das instalações. Quando essas intervenções implicarem alteração das características ou do
+desempenho dos sistemas de proteção, informar ao ONS os efeitos dessas alterações e os eventuais
+riscos para a segurança do SIN.
+(e) Fornecer os dados complementares solicitados pelo ONS.
+Endereço na internet: http://www.ons.org.br 7 / 13
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação de intervenções em instalações
+4.2 Responsabilidades 2020.12 01/01/2021
+da Rede de Operação
+(f) Informar aos agentes diretamente envolvidos na intervenção os serviços a serem executados.
+(g) Participar da análise das intervenções quando convocado pelo ONS.
+(h) Alterar, quando solicitado pelo ONS, seus PMM, o programa de testes e de demais intervenções em
+instalações da Rede de Operação ou em instalações cuja indisponibilidade possa acarretar restrições
+de despacho para usinas submetidas ao despacho centralizado.
+(i) Participar da elaboração do programa de intervenções ou acompanhar as diversas etapas da
+realização dos trabalhos.
+(j) Informar ao ONS o cancelamento de intervenções aprovadas.
+4. PRAZOS
+Quadro 1 - Prazos para solicitação e resposta de intervenções, classificadas no tipo 1 e tipo 2, integrantes de seu
+Programa Mensal de Intervenções (PMI)
+Responsável Prazo
+Atividade
+Encaminhamento ao ONS da
+relação de intervenções Agente
+1 Até 15 dias antes do início da intervenção
+integrantes de seu Programa solicitante
+Mensal de Intervenções (PMI)
+Resposta às solicitações de
+Até o 3º dia útil anterior ao início da
+2 intervenções integrantes do ONS
+intervenção
+PMI
+Quadro 2 - Prazos para solicitação e resposta de intervenções programadas em regime normal, classificadas no tipo
+1 e tipo 2, não integrantes do PMI
+Responsável Prazo
+Atividade
+Encaminhamento ao ONS da
+relação de intervenções em
+Agente Até 7 dias antes da data de início da
+1 instalações que não compõem,
+solicitante intervenção
+de forma permanente, a Rede
+Complementar
+Solicitação de intervenções não
+Agente Prazo inferior a 15 dias antes e maior ou igual
+2 integrantes do PMI a serem
+solicitante a 48 horas do início da intervenção
+programadas em regime normal
+Endereço na internet: http://www.ons.org.br 8 / 13
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação de intervenções em instalações
+4.2 Responsabilidades 2020.12 01/01/2021
+da Rede de Operação
+Responsável Prazo
+Atividade
+Resposta às solicitações de
+intervenções encaminhadas Até 2 dias antes da data de início da
+3 ONS
+com antecedência inferior a 15 intervenção
+dias e maior ou igual a 5 dias
+Resposta às solicitações de
+intervenções encaminhadas Até as 15h00min do dia anterior à data de
+4 ONS
+com antecedência inferior a 5 início da intervenção
+dias e maior ou igual a 48 horas
+Quadro 3 - Prazos para solicitação e resposta de intervenções programadas em regime de urgência ou intervenções
+de urgência classificadas no tipo 1 e tipo 2
+Responsável Prazo
+Atividade
+Menor que 48 horas e maior ou igual a 24
+horas em relação ao início da intervenção, se
+for possível programar as condições
+Solicitação de intervenções a operativas do SIN em conformidade com os
+Agente
+1 serem programadas em regime critérios estabelecidos no Submódulo 2.3 –
+solicitante
+de urgência Premissas, critérios e metodologia para
+estudos elétricos.
+Menor que 24 horas em relação ao início da
+intervenção
+Menor que 48 horas e maior ou igual a 24
+Solicitação de intervenções de Agente
+2 horas em relação ao início da intervenção, se
+urgência solicitante
+não for possível programar as condições
+operativas do SIN em conformidade com os
+critérios estabelecidos no Submódulo 2.3.
+Resposta às solicitações de
+intervenções programadas em
+3 ONS Menor tempo possível
+regime de urgência ou
+intervenções de urgência
+Quadro 3 - Prazos para solicitação e resposta de intervenções classificadas no tipo 3
+Responsável Prazo
+Atividade
+Endereço na internet: http://www.ons.org.br 9 / 13
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação de intervenções em instalações
+4.2 Responsabilidades 2020.12 01/01/2021
+da Rede de Operação
+Encaminhar ao ONS solicitação Agente Até 2 dias úteis antes da data de início da
+1
+de intervenções de tipo 3 Solicitante intervenção
+Encaminhar ao ONS solicitação
+Agente Até 3 dias úteis antes da data de início da
+2 de intervenções de tipo 3 com
+Solicitante intervenção
+risco de corte de carga
+Até 2 dias úteis antes da de início da
+intervenção, para as intervenções solicitadas
+com 6 dias úteis ou mais de antecedência
+Até 1 dia útil antes da data proposta de
+Resposta às solicitações de
+3 ONS realização da intervenção, para as intervenções
+intervenções
+solicitadas com antecedência de 2 a 5 dias úteis
+Menor tempo possível, para as intervenções
+solicitadas com menos de 2 dias úteis de
+antecedência
+Quadro 4 – Prazos para alteração de intervenções que não descaracterizem a intervenção original e prazos para
+reprogramações e cancelamento de intervenções por parte do agente
+Responsável Prazo
+Atividade
+Alteração nas intervenções
+Até 10 dias de antecedência em relação
+cadastradas desde que não
+Agente à data de início da intervenção, sendo
+1 descaracterizem a intervenção
+solicitante mantida a data de encaminhamento da
+original e não estejam aprovadas
+solicitação
+nem selecionadas para análise.
+Solicitação ao ONS de
+reprogramação de uma intervenção Agente
+2 A qualquer momento
+cuja análise ainda não tenha sido solicitante
+iniciada
+Solicitação ao ONS de
+Agente Até às 15 horas do quinto dia útil
+3 reprogramação de intervenções tipo
+solicitante anterior ao início da intervenção
+1 e tipo 2 aprovadas ou já em análise
+Solicitação ao ONS de
+Agente Até 2 dias úteis anteriores ao início da
+4 reprogramação de intervenções tipo
+solicitante intervenção
+3 aprovadas ou já em análise
+Endereço na internet: http://www.ons.org.br 10 / 13
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação de intervenções em instalações
+4.2 Responsabilidades 2020.12 01/01/2021
+da Rede de Operação
+Responsável Prazo
+Atividade
+Cancelamento de intervenções dos
+tipos 1 e 2 já aprovadas, sem
+apuração dos índices definidos no
+Agente Até 5 dias de antecedência da data de
+5 Submódulo 9.4 – Indicadores de
+solicitante realização da intervenção
+desempenho das programações
+eletroenergéticas, de manutenção e
+de intervenção
+Solicitação ao ONS de reprogramação
+da intervenção cancelada pelo
+agente em função de condições Agente Até 3 dias úteis a partir do
+6
+impeditivas mencionadas no solicitante cancelamento
+documento Operacional deste
+submódulo
+Quadro 5 – Prazos para reprogramações e cancelamento de intervenções por parte do ONS
+Responsável Prazo
+Atividade
+Solicitação de reprogramação de A qualquer
+1 ONS
+uma intervenção momento
+Aceitar ou recusar um dos períodos
+alternativos propostos pelo ONS
+para a reprogramação da Até 3 dias úteis a
+Agente
+2 intervenção; ou negociar a partir da
+solicitante
+reprogramação ou alterações de comunicação do ONS
+intervenção cancelada ou indeferida
+pelo ONS
+Cancelamento de intervenções dos
+tipos 1 e 2 já aprovadas, constantes Até 7 dias de
+no PMI e solicitadas com 15 dias ou antecedência da
+3 ONS
+mais de antecedência, sem apuração data de realização da
+dos índices definidos no Submódulo intervenção
+9.4
+Quadro 6 - Prazos para informação aos agentes de distribuição e consumidores livres conectados à Rede Básica
+afetados por solicitação de intervenções
+Responsável Prazo
+Atividade
+Endereço na internet: http://www.ons.org.br 11 / 13
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação de intervenções em instalações
+4.2 Responsabilidades 2020.12 01/01/2021
+da Rede de Operação
+Informar aos agentes de distribuição e Antecedência mínima de
+aos consumidores livres conectados à 11 dias úteis, contados a
+1 Rede de Operação que possam ser ONS partir da data proposta
+afetados por intervenções que implicam para realização da
+corte de carga em condição normal intervenção
+Informar aos agentes de distribuição e
+aos consumidores livres conectados à Antecedência mínima de 5
+Rede de Operação que possam ser dias úteis, contados a partir
+2 ONS
+afetados por intervenções que implicam da data proposta para
+transferência de carga na Rede de realização da intervenção
+Distribuição
+Informar aos agentes de distribuição e aos
+Antecedência mínima de 3
+consumidores livres conectados à Rede de
+dias úteis, contados a partir
+3 Operação que possam ser afetados por ONS
+da data proposta para
+intervenções que implicam risco de perda
+realização da intervenção
+de carga
+Informar aos agentes de distribuição e aos
+consumidores livres conectados à Rede de
+Antes da data proposta
+Operação que possam ser afetados por
+4 ONS para realização da
+intervenções solicitadas com menos de 10
+intervenção
+dias de antecedência em relação à data de
+realização proposta
+Agentes de
+distribuição e
+consumidores livres
+conectados à Rede de
+Informar ao ONS a concordância ou não Até 2 dias úteis, contados a
+Operação que possam
+5 com a realização de intervenção solicitada partir da comunicação do
+ser afetados por
+conforme Atividades (1), (2) ou (3) ONS
+intervenções
+solicitadas conforme
+Atividades (1), (2) ou
+(3)
+Quadro 7 - Prazos para suspensão de fornecimento de energia a unidades consumidoras conectadas ao sistema de
+transmissão
+Responsável Prazo
+Atividade
+Endereço na internet: http://www.ons.org.br 12 / 13
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação de intervenções em instalações
+4.2 Responsabilidades 2020.12 01/01/2021
+da Rede de Operação
+Suspensão do fornecimento de Agente de transmissão Até 30 dias contados a partir da
+1
+energia da unidade consumidora envolvido data da notificação da CCEE
+Informar à CCEE a data e a hora em
+Em até 48 horas da execução da
+2 que foi efetivada a suspensão da ONS
+suspensão
+unidade consumidora
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 13 / 13

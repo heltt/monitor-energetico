@@ -1,0 +1,148 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 5.10-OP_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 5.10-OP_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 5.10
+Operação teleassistida das instalações
+da Rede de Operação
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede – Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação teleassistida das instalações da Rede
+5.10 Operacional 2020.12 01/01/2021
+de Operação
+ÍNDICE
+1. MUDANÇA DO REGIME DE ASSISTÊNCIA DE OPERAÇÃO DA INSTALAÇÃO........................................3
+2. OPERAÇÃO TELEASSISTIDA DAS INSTALAÇÕES ESTRATÉGICAS.........................................................3
+3. GERENCIAMENTO DOS INDICADORES DE ASSISTÊNCIA....................................................................3
+4. ELABORAÇÃO DO RELATÓRIO DE DESEMPENHO..............................................................................4
+5. REFERÊNCIAS...................................................................................................................................4
+6. ANEXO.............................................................................................................................................4
+ANEXO A - DECLARAÇÃO DE ATENDIMENTO DOS REQUISITOS PARA TELEASSISTÊNCIA.............................4
+Endereço na internet: http://www.ons.org.br 2 / 6
+Procedimentos de Rede – Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação teleassistida das instalações da Rede
+5.10 Operacional 2020.12 01/01/2021
+de Operação
+1. MUDANÇA DO REGIME DE ASSISTÊNCIA DE OPERAÇÃO DA INSTALAÇÃO
+1.1. O agente informa ao centro de operação do ONS com o qual se relaciona a mudança do regime de
+assistência de operação de uma instalação, isto é, de assistência local para teleassistência ou de
+teleassistência para assistência local.
+1.2. O agente mantém o centro de operação do ONS com o qual se relaciona informado sobre suas
+instalações, próprias ou compartilhadas, que são teleassistidas e os períodos que essas instalações possuem
+assistência local.
+2. OPERAÇÃO TELEASSISTIDA DAS INSTALAÇÕES ESTRATÉGICAS
+2.1. O agente, após a classificação estratégica de uma instalação, conforme definido no Submódulo 2.2 –
+Definição das instalações estratégicas, se adequa para atendimento aos requisitos dos Submódulos 2.12 –
+Requisitos mínimos de supervisão e controle para a operação, 2.15 – Requisitos mínimos para
+telecomunicações e 2.16 – Requisitos operacionais para centros de operação e instalações da Rede de
+Operação, ou altera para a operação local ininterrupta.
+2.2. O agente responsável por instalação estratégica Tipo E1, E2 ou U3 teleassistida, desprovida de
+assistência local ininterrupta, encaminha ao ONS a Declaração de Atendimento dos Requisitos para
+Teleassistência, apresentada no ANEXO A.
+2.2.1. A Declaração de Atendimento dos Requisitos para Teleassistência é válida enquanto a configuração
+elétrica da instalação que validou sua confecção permanecer inalterada.
+2.3. O ONS emite documento aceitando ou negando a Declaração de Atendimento dos Requisitos para
+Teleassistência ao agente responsável pela instalação.
+2.3.1. O aceite do ONS à Declaração é necessário para uma instalação Tipo E1, E2 ou U3 poder ser
+teleassistida desprovida de assistência local ininterrupta.
+2.4. Na prestação de teleassistência inadequada, a ANEEL e o ONS podem revogar ou anular a aceitação de
+uma Declaração de Atendimento dos Requisitos para Teleassistência de instalação, bem como, suspender o
+direito de uma instalação estratégica ou não estratégica poder ser teleassistida desprovida de assistência
+local ininterrupta por um período determinado após a teleassistência da instalação se adequar ao exigido
+pela regulação vigente.
+3. GERENCIAMENTO DOS INDICADORES DE ASSISTÊNCIA
+3.1. O agente calcula e envia ao ONS os indicadores de assistência (ASST, TELEASST e FPTELEASSIT) das
+instalações teleassistidas, definidos no Submódulo 9.6 – Indicadores de desempenho dos sistemas de
+supervisão e controle e dos serviços de telecomunicações.
+3.2. O ONS monitora, avalia e disponibiliza à ANEEL os indicadores de assistência (ASST, TELEASST e
+FPTELEASST) enviados pelos agentes proprietários das instalações da Rede de Operação.
+3.3. O agente realiza ações mitigadoras quando for verificado descumprimento dos valores de referência,
+conforme requisito mínimo de disponibilidade definido no Submódulo 2.16, ou quando a quantidade média
+de interrupções da teleassistência no mês for superior a três ou o tempo médio dessas interrupções for
+superior a 15 minutos.
+4. ELABORAÇÃO DO RELATÓRIO DE DESEMPENHO
+Endereço na internet: http://www.ons.org.br 3 / 6
+Procedimentos de Rede – Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação teleassistida das instalações da Rede
+5.10 Operacional 2020.12 01/01/2021
+de Operação
+4.1. O ONS analisa os indicadores de assistência (ASST, TELEASST e FPTELEASST) das instalações teleassistidas
+da Rede de Operação.
+4.2. O ONS apura os tempos, em minutos, de reestabelecimento ou recomposição, realizados por assistência
+local e por teleassistência, descontados os religamentos automáticos, das Funções Transmissão (FT),
+destacando os tempos adicionais de reestabelecimento ou recomposição devido a eventuais falhas da
+teleassistência.
+4.3. O ONS analisa o desempenho em relação aos tempos apurados, apresentando suas ponderações em
+forma de relatório anual disponibilizado para consulta de dados e conteúdo pela ANEEL.
+5. REFERÊNCIAS
+5.1. Não há referências estabelecidas neste documento.
+6. ANEXO
+ANEXO A - Declaração de Atendimento dos Requisitos para Teleassistência
+Endereço na internet: http://www.ons.org.br 4 / 6
+Procedimentos de Rede – Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação teleassistida das instalações da Rede
+5.10 Operacional 2020.12 01/01/2021
+de Operação
+ANEXO A
+DECLARAÇÃO DE ATENDIMENTO DOS REQUISITOS PARA TELEASSISTÊNCIA
+AGENTE:
+CNPJ:
+CONTRATO DE CONCESSÃO:
+REPRESENTANTE PARA CONTATO:
+LOCAL DE OPERAÇÃO REMOTA:
+INSTALAÇÂO (TIPO E1, E2 ou U3):
+MUNICÍPIO / UF:
+REQUISITOS DOS PROCEDIMENTOS DE REDE PARA O LOCAL
+SUBMÓDULO ATENDIDO
+DE OPERAÇÃO REMOTA
+Recursos humanos 2.16
+Plano de Contingência 2.16
+Recursos de Comunicação de Voz e Dados e de Gravação de Voz 2.16
+Recursos de Telessupervisão 2.16
+Política de segurança e recursos tecnológicos para proteção contra
+2.16
+ataques cibernéticos
+Recursos e manutenção dos Serviços Auxiliares 2.16
+Redundância de Equipamentos e Sistemas 2.16
+REQUISITOS DOS PROCEDIMENTOS DE REDE PARA
+SUBMÓDULO ATENDIDO
+INSTALAÇÃO TELEASSISTIDA
+Recursos de operação remota com equivalência à operação local. 2.16
+Recurso para operação local em caso de falha da teleassistência. 2.16
+Testes de conformidade e disponibilidade da assistência e dos
+2.16
+serviços auxiliares.
+Política e recursos de segurança e proteção contra ataques
+2.16
+cibernéticos.
+Plano de contingência atualizado. 2.16
+Monitoração Ininterrupta de Pátios e Salas de Controle e Proteção. 2.16
+Endereço na internet: http://www.ons.org.br 5 / 6
+Procedimentos de Rede – Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação teleassistida das instalações da Rede
+5.10 Operacional 2020.12 01/01/2021
+de Operação
+REQUISITOS DOS PROCEDIMENTOS DE REDE PARA
+SUBMÓDULO ATENDIDO
+INSTALAÇÃO TELEASSISTIDA
+Recursos, adicionais ao sistema supervisório, que assegurem a
+confirmação remota de abertura e fechamento de chaves 2.16
+seccionadoras.
+Redundância de Equipamentos e Sistemas. 2.12
+DECLARAÇÃO DE ATENDIMENTO
+Declaro por meio desta que a instalação possui os recursos necessários para teleassistir ou ser
+teleassistida desprovida de assistência local ininterrupta.
+COMENTÁRIOS ADICIONAIS DO AGENTE
+RESPONSÁVEL PELA DECLARAÇÃO ASSINATURA DATA
+___/___/_______
+Endereço na internet: http://www.ons.org.br 6 / 6

@@ -1,0 +1,29 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 12/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=12/02/2026&jornal=515&pagina=86
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Superintendência de Segurança de Barragens e Pilhas de Mineração/Gerência de Barragens de Mineração/Coordenação de Fiscalização de Barragens - Eixo Norte
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 6/2026
+Defere requerimento - BARRAGENS(2809)
+LD6 - Lagoa de Disposição 6 - ALCOA WORLD ALUMINA BRASIL LTDA - 850.011/1991 - Requerimento de: Atualização cadastral
+Fase de Concessão de Lavra
+Reitera cumprimento de exigência técnica de barragem - Prazos estabelecidos em ofício(2366)
+BARRAGEM SAMACA-MINERAÇÃO VILA NOVA LTDA-851.211/1980-OF. N°6662/2026/CORBN/ANM
+BARRAGEM BACIA DO CASTANHEIRA-BURITIRAMA MINERACAO S.A. FALIDO-815.959/1973-OF. N°7391/2026/CORBN/ANM
+BARRAGEM DIQUE DO GROTÃO-BURITIRAMA MINERACAO S.A. FALIDO-815.959/1973-OF. N°7394/2026/CORBN/ANM
+Prorroga prazo para cumprimento de exigência ténica de barragem - Prazos estabelecidos em ofício:(2368)
+BARRAGENS SAMACA E BACURI - MINERAÇÃO VILA NOVA LTDA-851.211/1980-OF. N°6665/2026/CORBN/ANM
+Determina cumprimento de exigência técnica de barragem - Prazos estabelecidos em ofício:(2890)
+BARRAGEM DE REJEITOS DO MIRIM-SALOBO METAIS S/A-807.426/1974-OF. N°7337/2026/CORBN/ANM
+Fase de Requerimento de Lavra
+Determina cumprimento de exigência técnica de barragem - Prazos estabelecidos em ofício:(2902)
+BARRAGEM GEOMINAS-GEOMINAS MINERAÇÕES LTDA.-864.426/2010-OF. N°6867/2026/CORBN/ANM
+TIAGO XAVIER
+Coordenador

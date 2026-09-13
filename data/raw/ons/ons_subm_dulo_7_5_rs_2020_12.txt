@@ -1,0 +1,139 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.5-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.5-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.5
+Implantação de Sistemas Especiais de
+Proteção
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação de Sistemas Especiais de Proteção 7.5 Responsabilidades 2020.12 01/01/2021
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Projeto Básico de Novos SEP e de Revisão dos SEP Existentes.....................................................3
+2.2. Relatório de Acompanhamento de Testes de SEP........................................................................3
+2.3. Banco de Dados de SEP.................................................................................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de operação.....................................................................................................................4
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIAS...................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação de Sistemas Especiais de Proteção 7.5 Responsabilidades 2020.12 01/01/2021
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas dos processos relativos à
+implantação de novos Sistemas Especiais de Proteção (SEP) e revisão dos SEP existentes, que englobam os
+Esquemas de Controle de Emergência (ECE) e os Esquemas Regionais de Alívio de Carga (ERAC) da Rede de
+Operação do Sistema Interligado Nacional (SIN).
+2. PRODUTOS
+2.1. Projeto Básico de Novos SEP e de Revisão dos SEP Existentes
+2.1.1. Consolida os diagramas unifilares e lógicos, fluxogramas e análise de viabilidade para implantação de
+novos SEP ou revisão dos SEP existentes.
+2.2. Relatório de Acompanhamento de Testes de SEP
+2.2.1. Consolida, em relatório único, todos os testes de comissionamento e de desempenho dos SEP,
+realizados pelos agentes de operação.
+2.3. Banco de Dados de SEP
+2.3.1. Consolida as informações sobre os SEP instalados no SIN e suas condições de operação.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Informar aos agentes de operação envolvidos a necessidade sistêmica de implantação de novos SEP,
+bem como a revisão ou desinstalação de SEP existentes, conforme indicação dos estudos elétricos.
+(b) Analisar, em conjunto com os agentes de operação envolvidos, a viabilidade de implantação de novos
+SEP, a revisão de SEP existentes ou a sua desinstalação/desativação.
+(c) Elaborar, com a participação dos agentes de operação envolvidos, o Projeto Básico de Novos SEP e de
+Revisão dos SEP Existentes.
+(d) Disponibilizar aos agentes de operação envolvidos o Projeto Básico de Novos SEP e de Revisão dos
+SEP Existentes.
+(e) Determinar, com a participação dos agentes de operação envolvidos, os ajustes dos novos SEP e dos
+existentes.
+(f) Acompanhar o cumprimento dos prazos definidos para a implantação de novos SEP, a revisão de SEP
+existentes ou a sua desinstalação/desativação.
+(g) Manter atualizado o Banco de Dados de SEP.
+(h) Solicitar a execução de testes de comissionamento de novos SEP e de SEP existentes em revisão, bem
+como de algum outro teste específico em SEP em operação.
+(i) Elaborar e disponibilizar para os agentes de operação e para a Agência Nacional de Energia Elétrica –
+ANEEL o Relatório de Acompanhamento de Testes de SEP.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação de Sistemas Especiais de Proteção 7.5 Responsabilidades 2020.12 01/01/2021
+3.2. Agentes de operação
+(a) Participar, em conjunto com o ONS, da análise da viabilidade de implantação dos novos SEP ou da
+revisão dos SEP existentes.
+(b) Fornecer os dados necessários à elaboração do Projeto Básico de Novos SEP e de Revisão dos SEP
+Existentes.
+(c) Elaborar o projeto executivo dos novos SEP ou da revisão dos SEP existentes.
+(d) Implantar e comissionar os novos SEP ou a revisão dos SEP existentes e encaminhar ao ONS relatório
+com os resultados.
+(e) Executar testes de desempenho de SEP, quando identificada a necessidade, e encaminhar ao ONS
+relatório com os resultados.
+(f) Encaminhar ao ONS documento descritivo e diagrama funcional dos novos SEP instalados ou dos SEP
+revisados.
+4. PRAZOS
+Quadro 1 - Prazos para atividades referentes à implantação de SEP
+Atividade Responsável Prazo Periodicidade
+Estabelecido pelo ONS
+com participação dos
+Implantação de novos SEP, de agentes de operação
+revisão de SEP existentes ou de Agente de envolvidos, em função da
+1 Sob demanda
+desinstalação/desativação de operação necessidade sistêmica
+SEP existentes apontada pelos estudos
+de planejamento da
+operação
+Por demanda, quando
+evidenciado
+desempenho
+insatisfatório dos SEP
+e com
+Agente de
+2 Realização de testes dos SEP - aproveitamento das
+operação
+manutenções
+preventivas/corretiva
+s da empresa
+responsável pelo
+esquema
+Encaminhamento ao ONS dos
+Até 30 dias após a
+relatórios com resultados dos Agente de
+3 execução dos testes Sob demanda
+testes de comissionamento e operação
+(atividade 2)
+de desempenho dos SEP
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação de Sistemas Especiais de Proteção 7.5 Responsabilidades 2020.12 01/01/2021
+Atividade Responsável Prazo Periodicidade
+Emissão e divulgação do Até 31 de março de cada
+Relatório de Acompanhamento ano referente aos testes
+4 ONS Anual
+de Testes de SEP aos agentes realizados no ano
+de operação e ANEEL anterior
+Sob demanda, em
+Encaminhamento ao ONS do decorrência do
+documento descritivo e do Agente de Até 30 dias após o processo de
+5
+diagrama funcional do SEP operação comissionamento do SEP implantação de novos
+como implantado SEP ou revisão dos
+existentes
+Até 30 dias após o
+recebimento do
+Divulgação do Banco de Dados documento descritivo e Por demanda, quando
+6 ONS
+de SEP atualizado do diagrama funcional do houver atualização
+SEP como implantado
+(atividade 5)
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 5 / 5

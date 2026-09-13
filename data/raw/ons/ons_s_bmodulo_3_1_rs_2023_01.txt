@@ -1,0 +1,333 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Súbmodulo 3.1-RS_2023.01
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Súbmodulo 3.1-RS_2023.01.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 3.1
+Planejamento da operação elétrica de
+médio prazo
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2023.01 Despacho ANEEL nº 72/2023 11/01/2023
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Responsabilidades 2023.01 01/01/2023
+prazo
+ÍNDICE
+1. OBJETIVO ..................................................................................................................................... 3
+2. PRODUTOS ................................................................................................................................... 3
+2.1. Plano da Operação Elétrica de Médio Prazo do SIN (PAR/PEL)..................................................... 3
+2.2 Plano de Outorgas de Transmissão de Energia Elétrica (POTEE) .................................................. 3
+2.3 Base de Dados para Estudos Elétricos de Fluxo de Potência ........................................................ 3
+2.4 Relatórios de Acompanhamento das Propostas do PAR/PEL ....................................................... 3
+3. RESPONSABILIDADES .................................................................................................................... 3
+3.1. Operador Nacional do Sistema Elétrico – ONS .............................................................................. 3
+3.2. Agentes de transmissão ................................................................................................................. 5
+3.3. Agentes de geração ....................................................................................................................... 5
+3.4. Agentes de distribuição ................................................................................................................. 6
+3.5. Consumidores livres e potencialmente livres ............................................................................... 6
+4. PRAZOS ........................................................................................................................................ 7
+5. REFERÊNCIAS ................................................................................................................................ 9
+Endereço na internet: http://www.ons.org.br 2 / 9
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Responsabilidades 2023.01 01/01/2023
+prazo
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas do processo de elaboração das
+propostas de ampliações, reforços e melhorias para o planejamento da operação elétrica de médio prazo do
+Sistema Interligado Nacional (SIN).
+2. PRODUTOS
+2.1. Plano da Operação Elétrica de Médio Prazo do SIN (PAR/PEL)
+2.1.1 Apresenta, como resultado dos estudos de planejamento da operação elétrica de médio prazo, com
+horizonte de cinco anos, as propostas de ampliações e reforços de grande porte em instalações sob
+responsabilidade das transmissoras e em instalações sob responsabilidade das distribuidoras, que possam
+causar impacto sistêmico.
+2.2 Plano de Outorgas de Transmissão de Energia Elétrica (POTEE)
+2.2.1 Apresenta os reforços de pequeno porte e as melhorias de grande porte, resultantes da
+compatibilização entre os estudos de planejamento da operação elétrica de médio prazo realizado pelo ONS
+e do planejamento da expansão realizado pela EPE, emitido pelo ONS por delegação do Ministério de Minas
+e Energia – MME [1].
+2.3 Base de Dados para Estudos Elétricos de Fluxo de Potência
+2.3.1 Casos de referência de fluxo de potência elaborados, atualizados e disponibilizados pelo ONS, com
+base no termo de referência para realização dos estudos de planejamento da operação elétrica de médio
+prazo.
+2.4 Relatórios de Acompanhamento das Propostas do PAR/PEL
+2.3.1 Apresenta o acompanhamento das propostas do PAR/PEL no Relatório de Autorizações e Licitações de
+Instalações da Rede Básica, no Relatório de Novas Instalações da Rede Básica e no Relatório de Autorizações
+de Instalações nas Demais Instalações de Transmissão (DIT).
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Coordenar e executar o processo de recebimento de dados e informações, de elaboração do estudo
+e dos relatórios, de emissão e distribuição dos relatórios e acompanhamento da implantação das
+providências recomendadas nos relatórios.
+(b) Propor e desenvolver ações junto ao MME, à Agência Nacional de Energia Elétrica – ANEEL e aos
+agentes de operação para garantir a segurança operativa e a otimização dos custos de operação do
+SIN.
+(c) Considerar os resultados dos processos de concessão e autorização conduzidos pela ANEEL para a
+expansão de transmissão e geração.
+Endereço na internet: http://www.ons.org.br 3 / 9
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Responsabilidades 2023.01 01/01/2023
+prazo
+(d) Solicitar aos agentes e consolidar os dados e informações para realização dos estudos de
+planejamento da operação elétrica de médio prazo.
+(e) Consolidar os dados recebidos pelos agentes de operação, efetuar a montagem da Base de Dados
+para Estudos Elétricos de Fluxo de Potência e disponibilizá-la aos agentes.
+(f) Manter e atualizar a base de dados necessária aos estudos elétricos.
+(g) Elaborar o termo de referência dos estudos de planejamento da operação elétrica de médio prazo,
+considerando sugestões dos agentes de operação.
+(h) Zelar pela atualização constante das diretrizes e dos critérios utilizados nos estudos elétricos.
+(i) Elaborar e disponibilizar a minuta do PAR/PEL e POTEE aos agentes com os dados e informações
+utilizadas e estudos realizados.
+(j) Realizar os estudos elétricos e as análises da Rede de Simulação que forem necessários à avaliação do
+desempenho da Rede de Operação e, adicionalmente, das Demais Instalações de Transmissão (DIT).
+(k) Realizar estudos de desempenho do sistema em regiões de ocorrência de restrição de geração
+causada por restrição elétrica e propor medida operativa ou necessidade de estudo específico. Se a
+ocorrência for fora da Rede Básica, solicitar à distribuidora local a realização do estudo.
+(l) Ouvir EPE e ANEEL previamente à emissão do POTEE.
+(m) Indicar em seção específica do POTEE as eventuais instalações para as quais a EPE solicite a suspensão
+para avaliação detalhada da proposição.
+(n) Encaminhar e disponibilizar o PAR/PEL e o POTEE ao MME, à ANEEL e aos agentes.
+(o) Revisar o POTEE caso solicitado pelo MME.
+(p) Informar ao MME e à EPE as situações em que os problemas identificados ou de conhecimento do
+ONS exijam novos estudos de planejamento para compatibilizar com os prazos previstos de entrada
+em operação das linhas e equipamentos.
+(q) Elaborar e encaminhar nova proposta de ampliações, reforços e melhorias ao MME e à ANEEL nos
+casos em que o ONS identificar necessidade, com a participação dos agentes diretamente afetados, e
+informar à EPE e aos agentes envolvidos.
+(r) Avaliar os casos de sinistros informados pelos agentes de transmissão que demandem substituições
+ou reformas que se enquadrem como melhorias de grande porte e, após manifestação da EPE,
+informar ao respectivo agente a necessidade da referida obra.
+(s) Elaborar, no caso de reforços de pequeno porte relacionados à adequação aos Procedimentos de
+Rede e ao aumento da confiabilidade, da controlabilidade e de observabilidade do SIN, estudos
+específicos exigidos na regulamentação vigente [2].
+(t) Indicar a necessidade de compatibilização de prazos de execução de reforços de pequeno porte
+relacionados aos reforços de grande porte.
+(u) Identificar a necessidade de cancelamento, postergação ou antecipação das obras propostas no
+PAR/PEL e informar essas alterações ao MME, à EPE e à ANEEL.
+(v) Elaborar os relatórios de acompanhamento das obras propostas no PAR/PEL.
+Endereço na internet: http://www.ons.org.br 4 / 9
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Responsabilidades 2023.01 01/01/2023
+prazo
+(w) Elaborar e manter atualizados os mapas geoelétricos.
+3.2. Agentes de transmissão
+(a) Fornecer ao ONS e manter atualizados os dados e as informações necessárias para os estudos de
+planejamento da operação elétrica de médio prazo, de acordo com o formato indicado pelo ONS,
+relativos às instalações sob sua responsabilidade.
+(b) Encaminhar ao ONS suas proposições de ampliações, reforços e melhorias, acompanhadas dos
+estudos técnicos e econômicos que as justifiquem.
+(c) Cadastrar as proposições de melhorias de grande porte e de reforços de pequeno porte relativos às
+instalações sob sua responsabilidade no sistema computacional do ONS.
+(d) Solicitar imediatamente ao ONS a avaliação a respeito da eventual necessidade de reforço nas
+instalações de transmissão, nos casos de sinistros que demandem substituições ou reformas, que se
+enquadrem como melhorias de grande porte.
+(e) Fornecer ao ONS sugestões para elaboração do termo de referência.
+(f) Participar, quando convocados pelo ONS ou por interesse próprio, das etapas dos processos e das
+atividades dos grupos específicos estabelecidos pelo ONS para elaboração dos estudos e informar ao
+ONS os problemas com impacto sistêmico.
+(g) Implantar as providências recomendadas pelos estudos do planejamento da operação elétrica de
+médio prazo.
+(h) Informar de imediato ao ONS qualquer incorreção identificada nos dados e informações já fornecidas
+com as devidas justificativas.
+(i) Responder às solicitações do ONS de verificação de inconsistência nos dados para os estudos elétricos.
+(j) Verificar eventuais inconsistências na Base de Dados para Estudos Elétricos de Fluxo de Potência
+disponibilizados pelo ONS e informar de imediato ao ONS.
+(k) Manter atualizado o acompanhamento da implantação das obras cadastradas no sistema
+computacional do ONS.
+3.3. Agentes de geração
+(a) Fornecer ao ONS e manter atualizados os dados e as informações necessárias para os estudos de
+planejamento da operação elétrica de médio prazo, de acordo com o formato indicado pelo ONS,
+relativos às instalações sob sua responsabilidade.
+(b) Encaminhar ao ONS suas propostas de ampliações e reforços, acompanhadas dos estudos técnicos e
+econômicos que as justifiquem.
+(c) Fornecer ao ONS sugestões para elaboração do termo de referência.
+(d) Participar, quando convocados pelo ONS ou por interesse próprio, das etapas dos processos e das
+atividades dos grupos específicos estabelecidos pelo ONS para elaboração dos estudos.
+(e) Implantar as providências recomendadas pelos estudos de planejamento da operação elétrica de
+médio prazo.
+Endereço na internet: http://www.ons.org.br 5 / 9
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Responsabilidades 2023.01 01/01/2023
+prazo
+(f) Informar de imediato ao ONS qualquer incorreção identificada nos dados e informações fornecidas.
+(g) Responder às solicitações do ONS de verificação de inconsistência nos dados para os estudos elétricos.
+3.4. Agentes de distribuição
+(a) Fornecer ao ONS e manter atualizados os dados e as informações necessárias para os estudos de
+planejamento da operação elétrica de médio prazo, de acordo com o formato indicado pelo ONS,
+relativas às instalações descritas neste submódulo.
+(b) Encaminhar ao ONS suas proposições de ampliações e reforços, acompanhadas dos estudos técnicos
+e econômicos que as justifiquem.
+(c) Fornecer ao ONS sugestões para elaboração do termo de referência do PAR/PEL.
+(d) Participar, quando convocados pelo ONS ou por interesse próprio, das etapas dos processos e das
+atividades dos grupos específicos estabelecidos pelo ONS para elaboração dos estudos.
+(e) Implantar as providências recomendadas pelos estudos de planejamento da operação elétrica de
+médio prazo.
+(f) Informar de imediato ao ONS qualquer incorreção identificada nos dados e informações fornecidas.
+(g) Responder às solicitações do ONS de verificação de inconsistência nos dados para os estudos elétricos.
+(h) Atender às solicitações do ONS quanto ao envio de informações sobre a possibilidade de transferência
+de carga entre subestações em complementação às informações sobre os montantes de
+remanejamento de carga de demanda ativa entre barramentos da Rede de Simulação, solicitadas no
+Submódulo 3.5 – Consolidação da previsão de carga para planejamento da operação eletroenergética.
+3.5. Consumidores livres e potencialmente livres
+(a) Fornecer ao ONS e manter atualizados os dados e as informações necessárias para os estudos de
+planejamento da operação elétrica de médio prazo, de acordo com o formato indicado pelo ONS,
+relativos às instalações sob sua responsabilidade.
+(b) Encaminhar ao ONS suas propostas de ampliações e reforços, acompanhadas das devidas justificativas
+técnicas e, quando solicitados pelo ONS, de estudos técnicos e econômicos que as justifiquem.
+(c) Fornecer ao ONS sugestões para elaboração do termo de referência.
+(d) Participar, quando convocados pelo ONS ou por interesse próprio, das etapas dos processos e das
+atividades dos grupos específicos estabelecidos pelo ONS para a elaboração dos estudos.
+(e) Implantar as providências recomendadas pelos estudos de planejamento da operação elétrica de
+médio prazo.
+(f) Informar de imediato ao ONS qualquer incorreção identificada nos dados e nas informações
+fornecidas.
+(g) Responder às solicitações do ONS de verificação de inconsistência nos dados para os estudos elétricos.
+Endereço na internet: http://www.ons.org.br 6 / 9
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Responsabilidades 2023.01 01/01/2023
+prazo
+4. PRAZOS
+Quadro 1 – Prazos dos estudos de planejamento da operação elétrica de médio prazo
+Periodi-
+Atividade Responsável Prazo Horizonte cidade
+Janeiro do 2º ano
+Solicitação da atualização dos 20 de subsequente a
+1 ONS Anual
+dados necessários aos agentes novembro dezembro do 6º
+ano subsequente
+Janeiro do 2º ano
+Envio dos dados e informações ao 15 de subsequente a
+2 Agentes Anual
+ONS dezembro dezembro do 6º
+ano subsequente
+Janeiro do 2º ano
+Consolidação dos dados e
+20 de subsequente a
+3 informações fornecidas pelos ONS Anual
+dezembro dezembro do 6º
+agentes
+ano subsequente
+Janeiro do 2º ano
+Elaboração do Termo de 31 de subsequente a
+4 ONS Anual
+Referência dezembro dezembro do 6º
+ano subsequente
+Janeiro do ano
+Disponibilização da Base de Dados
+subsequente a
+5 para Estudos Elétricos de Fluxo de ONS 31 de janeiro Anual
+dezembro do 5º
+Potência aos agentes
+ano subsequente
+Realização de reuniões com os Janeiro do ano
+agentes para a apresentação dos 20 de subsequente a
+6 ONS Anual
+resultados preliminares do setembro dezembro do 5º
+PAR/PEL e POTEE ano subsequente
+Janeiro do ano
+Cadastramento das proposições de
+subsequente a
+7 melhorias de grande porte no Agentes 31 de maio Anual
+dezembro do 5º
+sistema computacional do ONS
+ano subsequente
+Janeiro do ano
+Cadastramento das proposições de
+subsequente a
+8 reforços de pequeno porte no Agentes 31 de julho Anual
+dezembro do 5º
+sistema computacional do ONS
+ano subsequente
+Endereço na internet: http://www.ons.org.br 7 / 9
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Responsabilidades 2023.01 01/01/2023
+prazo
+Periodi-
+Atividade Responsável Prazo Horizonte cidade
+Janeiro do ano
+Disponibilização da minuta do
+subsequente a
+9 POTEE ao MME, à ANEEL e aos ONS 01 de outubro Anual
+dezembro do 5º
+agentes
+ano subsequente
+Janeiro do ano
+Disponibilização da minuta do
+subsequente a
+10 PAR/PEL ao MME, à ANEEL e aos ONS 15 de outubro Anual
+dezembro do 5º
+agentes
+ano subsequente
+Janeiro do ano
+Encaminhamento ao ONS dos
+subsequente a
+11 comentários e sugestões para o Agentes 15 de outubro Anual
+dezembro do 5º
+POTEE
+ano subsequente
+Janeiro do ano
+Encaminhamento do PAR/PEL ao subsequente a
+12 ONS 31 de outubro Anual
+MME, à ANEEL e aos agentes dezembro do 5º
+ano subsequente
+Janeiro do ano
+Encaminhamento do POTEE ao 31 de corrente a
+13 ONS Anual
+MME, à ANEEL e aos agentes dezembro dezembro do 5º
+ano subsequente
+Janeiro do ano
+Elaboração do Relatório de
+subsequente a
+14 Acompanhamento das ONS - Mensal
+dezembro do 5º
+Autorizações e Licitações
+ano subsequente
+Atualização e disponibilização dos Após atividade
+15 ONS - Anual
+mapas geoelétricos 12
+Solicitação aos agentes da
+verificação de inconsistência dos
+16 ONS Sob demanda - -
+dados, quando o ONS identificar
+possível inconsistência
+Até 5 dias
+Verificação de inconsistência dos Agente de
+17 úteis após - -
+dados fornecidos e informe ao ONS operação
+atividade 16
+Endereço na internet: http://www.ons.org.br 8 / 9
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Responsabilidades 2023.01 01/01/2023
+prazo
+Periodi-
+Atividade Responsável Prazo Horizonte cidade
+Encaminhar à concessionária de
+transmissão o resultado de seu 7 dias úteis
+pedido de análise de substituição (após A qualquer
+18 ONS -
+ou reforma ocasionada por sinistro, manifestação momento
+que se enquadre como melhoria de da EPE)
+grande porte
+5. REFERÊNCIAS
+[1] MME. Portaria nº 215, de 11 de maio de 2020.
+[2] ANEEL. Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de Transmissão de
+Energia Elétrica no Sistema Elétrico Nacional. Módulo 3 - Instalações e Equipamentos de Transmissão.
+Endereço na internet: http://www.ons.org.br 9 / 9

@@ -1,0 +1,125 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 4.7-RS_2024.10
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 4.7-RS_2024.10.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 4.7
+Inclusão e atualização de condicionantes
+operativos hidráulicos dos
+aproveitamentos hidroelétricos
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2024.10 Resolução Normativa ANEEL nº 22/10/2024
+1.104/2024
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Inclusão e atualização de condicionantes
+operativos hidráulicos dos aproveitamentos 4.7 Responsabilidades 2024.10 30/10/2024
+hidroelétricos
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Inventário de condicionantes operativos hidráulicos dos aproveitamentos hidroelétricos.........3
+2.2. Parecer Técnico sobre inclusão ou atualização de condicionantes operativos hidráulicos..........3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de geração.......................................................................................................................4
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIAS...................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Inclusão e atualização de condicionantes
+operativos hidráulicos dos aproveitamentos 4.7 Responsabilidades 2024.10 30/10/2024
+hidroelétricos
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas de processos relativos à inclusão e
+à atualização de informações sobre condicionantes operativos hidráulicos (COPHIs) dos aproveitamentos
+hidroelétricos do Sistema Interligado Nacional (SIN).
+2. PRODUTOS
+2.1. Inventário de condicionantes operativos hidráulicos dos aproveitamentos hidroelétricos
+2.1.1. Apresenta as informações atualizadas de condicionantes operativos hidráulicos dos aproveitamentos
+hidroelétricos do SIN. Trata-se de um produto dinâmico, cujo extrato poderá ser feito a qualquer tempo a
+partir de sistema do ONS que faz a gestão das informações relacionadas aos condicionantes operativos
+hidráulicos.
+2.2. Parecer Técnico sobre inclusão ou atualização de condicionantes operativos hidráulicos
+2.2.1. Apresenta o resultado da análise quanto às consequências e repercussões da inclusão ou da
+atualização dos condicionantes operativos hidráulicos recebidos.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Informar a todos os agentes os formatos, meios e prazos para o envio de solicitações de inclusão ou
+de atualização das informações sobre condicionantes operativos hidráulicos dos aproveitamentos
+hidroelétricos ao ONS.
+(b) Analisar as solicitações dos agentes de geração de inclusão ou de atualização das informações sobre
+condicionantes operativos hidráulicos, com respectiva justificativa técnica e documentação
+apresentadas e, se necessário, solicitar esclarecimentos e/ou documentações adicionais.
+(c) Informar aos agentes de geração, sempre que solicitado, o andamento da inclusão ou da atualização
+das informações encaminhadas.
+(d) Disponibilizar a todos os agentes, à Agência Nacional de Energia Elétrica – ANEEL e à Agência Nacional
+de Águas e Saneamento Básico – ANA a atualização das informações sobre condicionantes operativos
+hidráulicos dos aproveitamentos hidroelétricos.
+(e) Incluir e manter atualizadas as informações sobre condicionantes operativos hidráulicos dos
+aproveitamentos hidroelétricos.
+(f) Elaborar, quando solicitado pela ANEEL e/ou pela ANA, estudo técnico sobre condicionantes
+operativos hidráulicos.
+(g) Disponibilizar o inventário de condicionantes operativos hidráulicos dos aproveitamentos
+hidroelétricos atualizado.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Inclusão e atualização de condicionantes
+operativos hidráulicos dos aproveitamentos 4.7 Responsabilidades 2024.10 30/10/2024
+hidroelétricos
+(h) Elaborar, nos casos pertinentes, Parecer Técnico sobre a solicitação de inclusão ou de atualização de
+condicionantes operativos hidráulicos e disponibilizá-lo à ANEEL e à ANA, para avaliação, e para todos
+os agentes, para conhecimento.
+3.2. Agentes de geração
+(a) Encaminhar ao ONS, nos formatos, meios e prazos estabelecidos, as solicitações de inclusão ou de
+atualização das informações sobre condicionantes operativos hidráulicos dos aproveitamentos
+hidroelétricos em operação, acompanhadas de justificativa técnica e documentação pertinente.
+(b) Fornecer ao ONS, sempre que solicitado, os esclarecimentos e/ou documentações adicionais para a
+análise de solicitações de inclusão ou de atualização de condicionante operativo hidráulico existente
+que forem encaminhadas.
+4. PRAZOS
+Quadro 1 - Prazos para inclusão ou atualização das informações sobre condicionantes operativos hidráulicos dos
+aproveitamentos hidroelétricos
+Atividade Responsável Prazo
+Solicitação ao ONS de inclusão ou de atualização das
+Agentes de
+1 informações sobre condicionantes operativos hidráulicos Sob demanda
+geração
+dos aproveitamentos hidroelétricos
+Início da análise das solicitações de inclusão ou de
+1 dia útil após o
+alteração das informações sobre condicionantes
+2 ONS recebimento das
+operativos hidráulicos dos aproveitamentos
+solicitações(1)
+hidroelétricos
+Disponibilização aos agentes envolvidos sobre a
+implementação de inclusão ou de atualizações de Assim que aceito pelo
+3 ONS
+condicionantes operativos hidráulicos existentes, ONS
+declarados pelos agentes e/ou pelo ONS
+Disponibilização do inventário de condicionantes
+4 operativos hidráulicos dos aproveitamentos ONS A qualquer tempo(2)
+hidroelétricos atualizado
+Elaboração e disponibilização de parecer técnico sobre a 25 dias úteis após o
+5 solicitação de inclusão ou de atualização de ONS recebimento das
+condicionantes operativos hidráulicos solicitações
+Notas:
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Inclusão e atualização de condicionantes
+operativos hidráulicos dos aproveitamentos 4.7 Responsabilidades 2024.10 30/10/2024
+hidroelétricos
+(1) Em caso de solicitação de esclarecimentos e/ou documentações adicionais, o prazo é novamente contabilizado após atendimento
+por parte do agente de geração.
+(2) O inventário de condicionantes operativos hidráulicos é um produto dinâmico, cujo extrato pode ser feito a qualquer tempo a
+partir de sistema do ONS que faz a gestão das informações relacionadas aos condicionantes operativos hidráulicos.
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 5 / 5

@@ -1,0 +1,74 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.17-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.17-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.17
+Coleta de dados de medição para
+faturamento
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Coleta de dados de medição para faturamento 6.17 Responsabilidades 2020.12 01/01/2021
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Câmara de Comercialização de Energia Elétrica – CCEE................................................................3
+3.3. Agentes conectados......................................................................................................................3
+3.4. Agentes responsáveis pelo SMF....................................................................................................3
+3.5. Consumidores livres ou especiais conectantes a uma instalação de transmissão........................3
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIAS...................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Coleta de dados de medição para faturamento 6.17 Responsabilidades 2020.12 01/01/2021
+1. OBJETIVO
+1.1. Estabelecer as responsabilidades e as etapas do processo relativo à coleta direta e/ou passiva de dados
+dos medidores dos Sistemas de Medição para Faturamento (SMF) e ao armazenamento dos dados coletados
+em banco de dados.
+2. PRODUTOS
+2.1. Não há produtos estabelecidos neste documento.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Responsabilizar-se por seus canais e equipamentos de comunicação utilizados para a recepção de
+dados enviados pela Câmara de Comercialização de Energia Elétrica – CCEE.
+(b) Manter atualizada a base de dados oriunda do sistema computacional da CCEE.
+(c) Guardar, por no mínimo 5 (cinco) anos, os dados de medição para faturamento para eventuais
+consultas e auditoria dos agentes envolvidos.
+3.2. Câmara de Comercialização de Energia Elétrica – CCEE
+(a) Coletar, armazenar e processar os dados dos medidores de todos os SMF.
+(b) Disponibilizar para os agentes envolvidos os dados coletados dos medidores.
+(c) Guardar, por no mínimo 5 (cinco) anos, os dados registrados pelos medidores em banco de dados,
+para eventuais consultas e auditoria dos agentes envolvidos.
+(d) Enviar ao ONS os dados coletados, conforme Submódulo 2.14 – Requisitos mínimos para o Sistema
+de Medição para Faturamento e disposto em Acordo Operacional CCEE/ONS.
+3.3. Agentes conectados
+(a) Liberar o acesso às instalações sob sua responsabilidade aos agentes responsáveis pelo SMF para
+coleta local de dados dos medidores.
+(b) Fiscalizar as coletas locais solicitadas pelos agentes responsáveis pelo SMF.
+3.4. Agentes responsáveis pelo SMF
+(a) Executar as atividades de medição, tais como comunicação e coleta de dados dos medidores, e
+arcar com os ônus relativos a elas.
+(b) Guardar, por um período de 5 (cinco) anos, os dados registrados pelos medidores em seu banco
+de dados.
+(c) Monitorar a coleta de dados dos medidores.
+3.5. Consumidores livres ou especiais conectantes a uma instalação de transmissão
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Coleta de dados de medição para faturamento 6.17 Responsabilidades 2020.12 01/01/2021
+(a) Liberar o acesso às instalações de sua propriedade aos agentes responsáveis pelo SMF para coleta
+local de dados dos medidores.
+(b) Acompanhar as coletas locais solicitadas pelos agentes responsáveis pelo SMF.
+4. PRAZOS
+4.1. Não há prazos estabelecidos neste documento.
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 4 / 4

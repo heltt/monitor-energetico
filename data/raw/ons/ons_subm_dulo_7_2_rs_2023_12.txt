@@ -1,0 +1,103 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.2-RS_2023.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.2-RS_2023.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.2
+Classificação de modalidade de
+operação de usinas
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2023.12 Despacho ANEEL nº 4.714/2023 04/12/2023
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Classificação de modalidade de operação de
+7.2 Responsabilidades 2023.12 05/12/2023
+usinas
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Parecer Técnico de Modalidade de Operação de Usina (PTMO)..................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de geração.......................................................................................................................3
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIAS...................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Classificação de modalidade de operação de
+7.2 Responsabilidades 2023.12 05/12/2023
+usinas
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas de processos relativos à
+classificação de modalidade de operação de usinas do Sistema Interligado Nacional (SIN).
+2. PRODUTOS
+2.1. Parecer Técnico de Modalidade de Operação de Usina (PTMO)
+2.1.1. Apresenta a classificação de modalidade de operação de determinada usina, com base nos impactos
+nos processos de planejamento e operação eletroenergética do SIN.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Manter atualizadas as diretrizes, os critérios e as metodologias para identificação da modalidade de
+operação de usinas.
+(b) Classificar a modalidade de operação das usinas do SIN.
+(c) Avaliar a necessidade de reclassificação de modalidade de operação de usinas em função da expansão
+do SIN, dos impactos no planejamento e operação do SIN de determinadas usinas ou em atendimento
+às alterações na regulamentação vigente.
+(d) Classificar, quando solicitado pela Empresa de Pesquisa Energética – EPE, a modalidade de operação
+das usinas participantes de Leilões de Energia e, quando necessário, convidar os agentes de geração
+envolvidos a participarem do processo.
+(e) Elaborar o Parecer Técnico de Modalidade de Operação de Usina e disponibilizá-lo ao agente de
+geração responsável.
+(f) Disponibilizar em seu site e manter atualizada a classificação de modalidade de operação das usinas
+em operação no SIN e àquelas previstas para entrada em operação em um horizonte de até 1 ano.
+3.2. Agentes de geração
+(a) Solicitar ao ONS, nos formatos e meios estabelecidos no site do ONS, a classificação de modalidade
+de operação das usinas sob sua responsabilidade e fornecer as informações necessárias à essa
+classificação.
+(b) Encaminhar ao ONS diagrama unifilar simplificado da conexão da usina.
+(c) Encaminhar ao ONS, quando solicitado, esclarecimentos ou informações adicionais necessárias à
+classificação de modalidade das usinas sob sua responsabilidade.
+(d) Participar, quando convidado pelo ONS, do processo de classificação de modalidade de operação das
+usinas sob sua responsabilidade.
+(e) Adequar-se aos requisitos estabelecidos nos Procedimentos de Rede quando da reclassificação da
+modalidade de operação das usinas.
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Classificação de modalidade de operação de
+7.2 Responsabilidades 2023.12 05/12/2023
+usinas
+4. PRAZOS
+Quadro 1 - Prazos relativos ao proceso de classificação de modalidade de operação de usina
+Atividade Responsável Prazo
+Solicitação de classificação de
+1 modalidade de operação de Agentes de geração Sob demanda
+usina
+Até 30 dias após a solicitação do agente
+de geração ou após alterações na
+regulamentação ou após a solicitação
+Elaboração do Parecer
+de acesso ao SIN. Caso haja necessidade
+2 Técnico de Modalidade de ONS
+de documentos adicionais solicitados
+Operação de Usina
+pelo ONS, o prazo será reiniciado após o
+envio, pelo agente, e validação, pelo
+ONS, dessas informações.
+Até 3 meses após a reclassificação.
+Adequação aos requisitos
+Agentes de geração
+estabelecidos nos
+responsável pela usina No caso de necessidade de adequações
+3 Procedimentos de Rede de
+com reclassificação da nos sistemas de supervisão e
+usinas com reclassificação da
+modalidade de operação transmissão de voz e dados, até 6 meses
+modalidade de operação
+após a reclassificação.
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 4 / 4

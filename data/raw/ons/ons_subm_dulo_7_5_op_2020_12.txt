@@ -1,0 +1,99 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.5-OP_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.5-OP_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.5
+Implantação de Sistemas Especiais de
+Proteção
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação de Sistemas Especiais de Proteção 7.5 Operacional 2020.12 01/01/2021
+ÍNDICE
+1. IMPLANTAÇÃO DE NOVOS SISTEMAS ESPECIAIS DE PROTEÇÃO (SEP), REVISÃO OU DESINSTALAÇÃO
+DOS SEP EXISTENTES........................................................................................................................3
+1.1. Identificação da necessidade sistêmica.........................................................................................3
+1.2. Análise da viabilidade....................................................................................................................3
+1.3. Elaboração do projeto básico........................................................................................................3
+1.4. Elaboração do projeto executivo...................................................................................................3
+1.5. Determinação dos ajustes.............................................................................................................3
+1.6. Implantação...................................................................................................................................3
+1.7. Testes de comissionamento..........................................................................................................3
+1.8. Testes de desempenho.................................................................................................................3
+1.9. Elaboração de Relatório de Acompanhamento de Testes de SEP.................................................4
+1.10. Elaboração de documento descritivo e de diagrama funcional....................................................4
+1.11. Acompanhamento da implantação...............................................................................................4
+1.12. Manutenção do Banco de Dados de SEP.......................................................................................4
+2. REFERÊNCIAS...................................................................................................................................4
+3. ANEXOS...........................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação de Sistemas Especiais de Proteção 7.5 Operacional 2020.12 01/01/2021
+1. IMPLANTAÇÃO DE NOVOS SISTEMAS ESPECIAIS DE PROTEÇÃO (SEP), REVISÃO OU DESINSTALAÇÃO
+DOS SEP EXISTENTES
+1.1. Identificação da necessidade sistêmica
+1.1.1. O ONS identifica a necessidade sistêmica de implementação de novos SEP e de revisão ou
+desinstalação dos SEP existentes, conforme indicação de estudos elétricos, e informa tal necessidade aos
+agentes de operação envolvidos.
+1.2. Análise da viabilidade
+1.2.1. O ONS, em conjunto com os agentes de operação envolvidos, determina a viabilidade de implantação
+de novos SEP ou de revisão dos SEP existentes. Para isso, consideram-se:
+(a) as funções necessárias;
+(b) as condições de sensibilização;
+(c) os requisitos de tempo de atuação, de confiabilidade e de redundância; e
+(d) os requisitos de comunicação.
+1.3. Elaboração do projeto básico
+1.3.1. O ONS, com a participação dos agentes envolvidos, elabora o Projeto Básico de Novos SEP e de Revisão
+dos SEP existentes a partir da determinação da sua viabilidade.
+1.3.1.1. O Projeto Básico de Novos SEP e de Revisão dos SEP existentes é composto pelos diagramas unifilares
+e diagramas lógicos dos SEP.
+1.4. Elaboração do projeto executivo
+1.4.1. O agente de operação elabora o projeto executivo, que contém detalhamento do projeto básico em
+diagramas trifilares, esquemáticos, de fiação e de painéis; da especificação dos componentes necessários; e
+da aquisição desses componentes.
+1.5. Determinação dos ajustes
+1.5.1. O ONS, em conjunto com os agentes de operação envolvidos, calcula e determina os ajustes dos novos
+SEP ou da revisão dos SEP existentes.
+1.6. Implantação
+1.6.1. O agente de operação realiza a implantação física dos novos SEP ou da revisão dos SEP existentes nas
+instalações do SIN, conforme o projeto básico elaborado.
+1.7. Testes de comissionamento
+1.7.1. O agente de operação realiza os testes de comissionamento dos novos SEP ou da revisão dos SEP
+existentes, a fim de comprovar as funcionalidades prescritas pelos estudos elétricos.
+1.8. Testes de desempenho
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação de Sistemas Especiais de Proteção 7.5 Operacional 2020.12 01/01/2021
+1.8.1. O agente de operação realiza testes de desempenho em casos específicos, quando evidenciado
+desempenho insatisfatório de um SEP existente.
+1.9. Elaboração de Relatório de Acompanhamento de Testes de SEP
+1.9.1. O agente de operação responsável pelo SEP elabora e encaminha ao ONS o relatório de
+comissionamento ou de desempenho do SEP, em formato padronizado e disponibilizado pelo ONS, para
+compor o Relatório Anual de Testes de SEP.
+1.9.2. O ONS analisa e consolida em relatório único todos os testes de comissionamento e de desempenho
+dos SEP executados pelos agentes de operação durante o ano.
+1.10. Elaboração de documento descritivo e de diagrama funcional
+1.10.1. O agente de operação consolida a implantação do novo SEP ou da revisão de SEP existente em
+documento descritivo padronizado e em diagrama lógico funcional do SEP como implantado, e os encaminha
+ao ONS.
+1.11. Acompanhamento da implantação
+1.11.1. O ONS acompanha o estado da implantação dos SEP, com atenção aos prazos estabelecidos. Com
+base nesse acompanhamento, o ONS classifica os SEP como “implantado”, “em implantação” e “não
+implantado”, e registra as não conformidades.
+1.12. Manutenção do Banco de Dados de SEP
+1.12.1. O ONS mantém o Banco de Dados de SEP atualizado com a inclusão dos novos SEP no SIN, a
+atualização dos SEP revisados e a desinstalação/desativação daqueles que não são mais necessários. No caso
+de desinstalação/desativação, o SEP deve ser classificado como “desinstalado” ou ”desativado”, e seu
+registro não é eliminado do Banco de Dados de SEP.
+2. REFERÊNCIAS
+2.1. Não há referências neste documento.
+3. ANEXOS
+3.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 4 / 4

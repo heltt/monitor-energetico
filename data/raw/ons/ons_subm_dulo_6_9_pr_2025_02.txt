@@ -1,0 +1,356 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.9-PR_2025.02
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.9-PR_2025.02.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.9
+Acompanhamento da manutenção de
+equipamentos e linhas de transmissão
+Procedimental
+Revisão Motivo da revisão Data de aprovação
+2025.02 Despacho ANEEL nº 370/2025 27/02/2025
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Acompanhamento da manutenção de
+6.9 Procedimental 2025.02 01/05/2025
+equipamentos e linhas de transmissão
+ÍNDICE
+1. ELABORAÇÃO E DISPONIBILIZAÇÃO DOS PLANOS DE MANUTENÇÃO DOS AGENTES DE
+TRANSMISSÃO............................................................................................................................3
+2. ELABORAÇÃO E DISPONIBILIZAÇÃO DOS PLANOS DE MANUTENÇÃO DOS AGENTES DE GERAÇÃO
+...................................................................................................................................................4
+3. ELABORAÇÃO E DISPONIBILIZAÇÃO DO RELATÓRIO DE ACOMPANHAMENTO DA REALIZAÇÃO
+DOS PLANOS DE MANUTENÇÃO EM EQUIPAMENTOS E LINHAS DE TRANSMISSÃO (RAM) E DO
+RELATÓRIO DE ACOMPANHAMENTO DOS INDICADORES DE REALIZAÇÃO DOS PROGRAMAS DE
+MANUTENÇÃO DE EQUIPAMENTOS E LINHAS DE TRANSMISSÃO (RAI)........................................4
+4. ELABORAÇÃO E DISPONIBILIZAÇÃO DO PLANO DE CONTINGÊNCIA (PC)......................................5
+5. ELABORAÇÃO E DISPONIBILIZAÇÃO DO RELATÓRIO DE MANUTENÇÃO DE URGÊNCIA (RMU) E
+DO RELATÓRIO DE MANUTENÇÃO DE EMERGÊNCIA (RME).........................................................5
+6. GESTÃO DE INDICADORES E DISPONIBILIZAÇÃO DO RELATÓRIO DE AVALIAÇÃO DO
+DESEMPENHO DE MANUTENÇÃO (RAD)......................................................................................5
+7. ELABORAÇÃO E ACOMPANHAMENTO DO PLANO DE AÇÃO PARA RECUPERAÇÃO DE
+INDICADORES DE DESEMPENHO.................................................................................................7
+8. REFERÊNCIAS..............................................................................................................................7
+9. ANEXOS......................................................................................................................................7
+ANEXO A - EQUIPAMENTOS E LINHAS DE TRANSMISSÃO OBJETOS DE ACOMPANHAMENTO DE
+MANUTENÇÃO............................................................................................................................8
+ANEXO B - PLANO DE CONTINGÊNCIA (PC)............................................................................................9
+ANEXO C - RELATÓRIO DE MANUTENÇÃO DE URGÊNCIA (RMU)..........................................................10
+ANEXO D - RELATÓRIO DE MANUTENÇÃO DE EMERGÊNCIA (RME).....................................................11
+Endereço na internet: http://www.ons.org.br 2 / 11
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Acompanhamento da manutenção de
+6.9 Procedimental 2025.02 01/05/2025
+equipamentos e linhas de transmissão
+1. ELABORAÇÃO E DISPONIBILIZAÇÃO DOS PLANOS DE MANUTENÇÃO DOS AGENTES DE
+TRANSMISSÃO
+1.1. O agente de transmissão deve elaborar o plano de manutenção das instalações da Rede Básica, para
+os equipamentos do Anexo A, contendo:
+(a) as atividades de manutenção dos requisitos da Aneel, que devem atender aos Requisitos Mínimos
+de Manutenção conforme regulamentação [1];
+(1) Quando da adoção de técnicas de manutenção baseadas na condição ou na confiabilidade, o
+agente de transmissão deverá informar Laudo Técnico, conforme regulamentação [1],
+respaldando tecnicamente a equivalência das atividades de manutenção dos requisitos da
+Aneel com os Requisitos Mínimos de Manutenção;
+(b) as atividades de manutenção indicadas pelo próprio agente; e
+(c) os critérios adotados para a definição do momento da execução da manutenção, tais como:
+(1) tempo;
+(2) índice de desempenho; e
+(3) grandezas monitoradas.
+1.2. O agente de transmissão disponibiliza e mantém atualizados, no sistema computacional do ONS, os
+planos de manutenção.
+1.2.1. O agente de transmissão, na primeira disponibilização do plano de manutenção, informa a data da
+realização da última manutenção preventiva ou preditiva para cada equipamento ou linha de transmissão
+integrante da Rede Básica, a qual será a referência inicial para as periodicidades estabelecidas nos
+Requisitos Mínimos de Manutenção.
+1.2.1.1. Caso um determinado Requisito Mínimo de Manutenção de um determinado equipamento
+nunca tenha sido realizado, a data de realização da última manutenção deverá ser indicada como a data
+de entrada em operação do equipamento.
+1.2.2. Desde que respeitados os prazos, o agente de transmissão pode acrescentar ao plano, as atividades
+decorrentes originadas de manutenções preditivas ou preventivas previamente cadastradas no sistema
+computacional.
+1.2.3. Quando da adoção de técnicas de manutenção baseadas na condição ou na confiabilidade, o
+agente de transmissão disponibiliza no sistema computacional um plano de manutenção, conforme
+regulamentação[1], informando o registro de identificação do Laudo Técnico, com base nas técnicas de
+manutenção adotada que justifique a substituição ou postergação do cumprimento dos Requisitos
+Mínimos de Manutenção.
+1.3. O sistema computacional validará automaticamente os planos de manutenção, aceitando somente
+aqueles que estiverem em conformidade com os Requisitos Mínimos de Manutenção e com os prazos
+deste Submódulo.
+Endereço na internet: http://www.ons.org.br 3 / 11
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Acompanhamento da manutenção de
+6.9 Procedimental 2025.02 01/05/2025
+equipamentos e linhas de transmissão
+2. ELABORAÇÃO E DISPONIBILIZAÇÃO DOS PLANOS DE MANUTENÇÃO DOS AGENTES DE GERAÇÃO
+2.1. O agente de geração elabora e disponibiliza, no sistema computacional do ONS, os Planos de
+manutenção dos equipamentos do Anexo A para as usinas classificadas como estratégicas, conforme o
+Submódulo 2.2 – Definição das Instalações Estratégicas, e com modalidade de operação Tipo I, conforme
+o Submódulo 7.2 – Classificação de modalidade de operação de usinas, contendo:
+(a) as atividades mínimas de manutenção indicadas pelos agentes;
+(b) os critérios adotados para a definição do momento da execução da manutenção, tais como:
+(1) tempo;
+(2) índice de desempenho; e
+(3) grandezas monitoradas.
+2.1.1. O agente de geração, na primeira disponibilização do plano de manutenção, informa a data da
+realização da última manutenção preventiva ou preditiva para cada equipamento da usina.
+2.1.1.1. Caso nunca tenha sido realizada manutenção no equipamento, a data de realização da última
+manutenção deverá ser indicada como a data de entrada em operação do equipamento.
+2.2. Os planos de manutenção devem ser disponibilizados no sistema de acompanhamento de
+manutenção, anualmente, entre o primeiro dia do mês de agosto e o último dia do mês de novembro.
+3. ELABORAÇÃO E DISPONIBILIZAÇÃO DO RELATÓRIO DE ACOMPANHAMENTO DA REALIZAÇÃO DOS
+PLANOS DE MANUTENÇÃO EM EQUIPAMENTOS E LINHAS DE TRANSMISSÃO (RAM) E DO
+RELATÓRIO DE ACOMPANHAMENTO DOS INDICADORES DE REALIZAÇÃO DOS PROGRAMAS DE
+MANUTENÇÃO DE EQUIPAMENTOS E LINHAS DE TRANSMISSÃO (RAI)
+3.1. O ONS verifica sistematicamente, por meio de registros apresentados no RAM a execução dos planos
+de manutenção cadastrados no sistema computacional.
+3.2. O ONS elabora o RAM contendo:
+(a) introdução: descrição sucinta dos objetivos do relatório;
+(b) resultados da verificação do cumprimento das atividades mínimas de manutenção;
+(c) conclusão: conjunto de comentários claros e sucintos resultantes da análise e avaliação efetuadas.
+3.3. O ONS disponibiliza o RAM, no sistema computacional, para os agentes de transmissão e geração ao
+qual o relatório se refere e para a ANEEL, indicando os desvios observados.
+3.4. O ONS elabora RAI contendo:
+(a) introdução: descrição sucinta dos objetivos do relatório;
+(b) série histórica agregada por agente de transmissão e de geração para os indicadores de
+desempenho da programação de manutenção a seguir, conforme Submódulo 9.4 – Indicadores de
+desempenho das programações eletroenergéticas, de manutenção e de intervenção:
+(1) indicador de Acerto dos Programas Mensais de Manutenção – I ;
+apm
+(2) indicador de Cancelamento de Manutenções – I ;
+canc
+Endereço na internet: http://www.ons.org.br 4 / 11
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Acompanhamento da manutenção de
+6.9 Procedimental 2025.02 01/05/2025
+equipamentos e linhas de transmissão
+(3) indicador de Manutenção de Urgência – Imurg;
+(4) indicador de Manutenção de Emergência – Imemr;
+(5) indicador de Desvio de Tempo previsto para desligamento para execução da Manutenção –
+Idtp; e
+(6) indicador de Solicitações de manutenções Não Aprovadas pelo ONS – Isna; e
+(c) conclusões: conjunto de comentários objetivos, claros e sucintos resultantes da análise e ou
+avaliação efetuada.
+3.5. O ONS disponibiliza o RAI de cada empresa, no sistema computacional, para os agentes de
+transmissão e geração ao qual o relatório se refere e para a ANEEL.
+4. ELABORAÇÃO E DISPONIBILIZAÇÃO DO PLANO DE CONTINGÊNCIA (PC)
+4.1. Os agentes de transmissão e de geração disponibilizam, através do sistema computacional, os Planos
+de Contingência (PC) para atendimento de emergência em linhas de transmissão, reatores e
+transformadores de potência de instalações estratégicas, conforme Submódulo 2.2, que compõem a Rede
+Básica ou são usinas classificadas na modalidade de operação Tipo I, conforme Submódulo 7.2, contendo
+os itens estabelecidos no ANEXO B.
+5. ELABORAÇÃO E DISPONIBILIZAÇÃO DO RELATÓRIO DE MANUTENÇÃO DE URGÊNCIA (RMU) E DO
+RELATÓRIO DE MANUTENÇÃO DE EMERGÊNCIA (RME)
+5.1. O ONS identifica, no sistema computacional, os equipamentos e linhas de transmissão, da Rede
+Básica, e de usinas consideradas instalações estratégicas e com modalidade de operação Tipo I, que
+apresentaram reincidência de manutenção de emergência ou de urgência no período de 12 meses.
+5.2. O ONS solicita a emissão do RMU ou do RME aos agentes de transmissão ou de geração responsáveis
+pelos equipamentos identificados, através do sistema computacional.
+5.3. Os agentes de transmissão e de geração encaminham o RMU ou o RME, contendo as causas e as
+providências tomadas para evitar novos eventos que causaram a reincidência de manutenção, e os itens
+estabelecidos no ANEXO C e ANEXO D respectivamente.
+5.3.1. O RME e RMU são disponibilizados à ANEEL através do sistema computacional.
+6. GESTÃO DE INDICADORES E DISPONIBILIZAÇÃO DO RELATÓRIO DE AVALIAÇÃO DO DESEMPENHO
+DE MANUTENÇÃO (RAD)
+6.1. O ONS calcula os seguintes indicadores de desempenho na perspectiva da manutenção de
+equipamentos e linhas de transmissão integrantes da Rede Básica e das usinas hidráulicas e térmicas
+classificadas na modalidade de operação Tipo I e II-A, cujas fórmulas e agregações estão estabelecidas no
+Submódulo 9.2 – Indicadores de desempenho de equipamentos e linhas de transmissão e das funções
+transmissão e geração:
+(a) Disponibilidade de Unidades Geradoras, Compensadores Síncronos e Compensadores Estáticos;
+(b) Disponibilidade de Transformadores de Potência e Reatores;
+Endereço na internet: http://www.ons.org.br 5 / 11
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Acompanhamento da manutenção de
+6.9 Procedimental 2025.02 01/05/2025
+equipamentos e linhas de transmissão
+(c) Disponibilidade de Linhas de Transmissão;
+(d) Indisponibilidade para Manutenção Programada de Unidades Geradoras, Compensadores
+Síncronos e Compensadores Estáticos,
+(e) Indisponibilidade para Manutenção Programada de Transformadores de Potência e Reatores;
+(f) Indisponibilidade para Manutenção Programada de Linhas de Transmissão;
+(g) Indisponibilidade para Manutenção Forçada de Unidades Geradoras, Compensadores Síncronos
+e Compensadores Estáticos;
+(h) Indisponibilidade para Manutenção Forçada de Transformadores de Potência e de Reatores;
+(i) Indisponibilidade para Manutenção Forçada de Linhas de Transmissão
+(j) Taxa de Desligamento Forçado para Unidades Geradoras, Compensadores Síncronos,
+Compensadores Estáticos, Transformadores e Reatores;
+(k) Taxa de Desligamento Forçado para Linhas de Transmissão
+(l) Taxa de Falhas para Unidades Geradoras, Compensadores Síncronos, Compensadores Estáticos,
+Transformadores e Reatores (na perspectiva de manutenção);
+(m) Taxa de Falhas para Linhas de Transmissão (na perspectiva de manutenção);
+(n) Tempo Médio de Reparo para Unidades Geradoras, Compensadores Síncronos, Compensadores
+Estáticos, Transformadores de Potência, Reatores e Linhas de Transmissão.
+6.1.1. Quando necessário, o ONS pode apresentar os indicadores estratificados por equipamento.
+6.2. O ONS realiza a análise de desempenho, na perspectiva da manutenção, separadamente para cada
+agente de transmissão e de geração, com base nos indicadores listados.
+6.2.1. A análise de desempenho considera:
+(a) as faixas normal, alerta e insatisfatória dos indicadores de desempenho na perspectiva da
+manutenção estabelecidos pela ANEEL ou, na ausência, estabelecidas pelo ONS;
+(b) verificação e análise do desempenho das famílias de equipamentos e linhas de transmissão a
+partir dos indicadores de desempenho de Disponibilidade, Taxa de Falha e Tempo Médio de
+Reparo;
+(c) verificação e análise do desempenho das famílias de equipamentos e linhas de transmissão a
+partir dos indicadores de desempenho de Indisponibilidade para Manutenção Programada,
+Indisponibilidade para Manutenção Forçada e Taxa de Desligamento Forçado; e
+(d) verificação e análise das tendências dos indicadores de desempenho a partir de comparações
+com os indicadores de anos anteriores;
+(e) verificação da faixa dos indicadores de desempenho.
+6.3. O ONS disponibiliza os indicadores, com a avaliação de desempenho, para cada agente de
+transmissão e de geração e para a Aneel, no sistema computacional.
+6.4. O ONS elabora o RAD contendo:
+(a) introdução: descrição sucinta dos objetivos do relatório;
+Endereço na internet: http://www.ons.org.br 6 / 11
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Acompanhamento da manutenção de
+6.9 Procedimental 2025.02 01/05/2025
+equipamentos e linhas de transmissão
+(b) análise de desempenho; e
+(c) conclusão: comentários claros e sucintos em que se identifica a família de equipamentos e linhas
+de transmissão que necessitam melhoria de desempenho.
+6.5. O ONS disponibiliza o RAD para cada agente de transmissão e de geração com o desempenho dos
+equipamentos de sua propriedade e para a Aneel, através do sistema computacional do ONS.
+7. ELABORAÇÃO E ACOMPANHAMENTO DO PLANO DE AÇÃO PARA RECUPERAÇÃO DE INDICADORES
+DE DESEMPENHO
+7.1. O agente de transmissão ou de geração, cujos equipamentos tiveram indicador de desempenho em
+faixa de alerta ou insatisfatória no RAD, encaminha Plano de Ação para Recuperação de Indicadores de
+Desempenho, através do sistema computacional do ONS, contendo:
+(a) levantamento das causas, para cada indicador;
+(b) providências e ações a serem implementadas, para que indicadores voltem à faixa normal;
+(c) metas a serem alcançadas;
+(d) cronograma de implementação das providências e ações propostas; e
+(e) nome do responsável, para contatos com o ONS.
+7.2. O ONS acompanha os resultados alcançados pelo agente de operação para cada indicador de
+desempenho em faixa de alerta ou insatisfatória (objeto do Plano de ação).
+7.2.1. O ONS informa à ANEEL e aos agentes de operação quando, após a conclusão da implementação
+do Plano de ação, os indicadores permanecerem em faixa de alerta ou insatisfatória.
+8. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de Transmissão
+de Energia Elétrica no Sistema Elétrico Nacional. Módulo 4 - Prestação dos Serviços.
+9. ANEXOS
+ANEXO A - Equipamentos e linhas de transmissão objetos de acompanhamento de manutenção
+ANEXO B - Plano de Contingência (PC)
+ANEXO C - Relatório de Manutenção de Urgência (RMU)
+ANEXO D - Relatório de Manutenção de Emergência (RME)
+Endereço na internet: http://www.ons.org.br 7 / 11
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Acompanhamento da manutenção de
+6.9 Procedimental 2025.02 01/05/2025
+equipamentos e linhas de transmissão
+ANEXO A - EQUIPAMENTOS E LINHAS DE TRANSMISSÃO OBJETOS DE ACOMPANHAMENTO DE
+MANUTENÇÃO
+A.1 Os equipamentos e linhas de transmissão integrantes da Rede Básica e das usinas classificadas como
+instalações estratégicas e com modalidade de operação Tipo I, aos quais este Submódulo se refere, estão
+listados a seguir:
+(a) linhas de transmissão (estruturas, isoladores, cabos para-raios, cabos condutores, faixa de
+servidão e sistema de aterramento);
+(b) subestações:
+(1) equipamentos de transformação (transformadores de potência, autotransformadores e
+transformadores reguladores);
+(2) equipamentos de medição, monitoramento, proteção, interrupção e manobra (chaves
+seccionadoras, disjuntores, transformadores de instrumentos, para-raios e etc);
+(3) equipamentos de compensação reativa (reatores, compensadores síncronos,
+compensadores estáticos, banco de capacitores paralelo e banco de capacitores série);
+(4) equipamentos que compõem a transmissão em corrente contínua (válvulas,
+transformadores conversores, reatores de alisamento, disjuntores de by-pass e filtros);
+(5) equipamentos conversores de frequência (transformadores de potência, disjuntores,
+equipamentos conversores e filtros de corrente alternada); e
+(6) serviços auxiliares (corrente contínua, corrente alternada, centrais de ar comprimido para
+equipamentos de manobra e acionamentos).
+(c) usinas hidráulicas:
+(1) turbinas (sistema de regulação e auxiliares);
+(2) geradores (sistemas de regulação e de excitação e auxiliares);
+(3) dispositivos extravasores; e
+(4) serviços auxiliares (corrente contínua, corrente alternada, centrais de ar comprimido para
+equipamentos de manobra e acionamentos).
+(d) usinas térmicas:
+(1) turbinas (sistema de regulação e auxiliares);
+(2) geradores (sistemas de regulação e de excitação e auxiliares); e
+(3) serviços auxiliares (corrente contínua, corrente alternada, centrais de ar comprimido para
+equipamentos de manobra e acionamentos).
+Endereço na internet: http://www.ons.org.br 8 / 11
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Acompanhamento da manutenção de
+6.9 Procedimental 2025.02 01/05/2025
+equipamentos e linhas de transmissão
+ANEXO B - Plano de Contingência (PC)
+Os planos de contingência são elaborados pelos agentes de transmissão e geração para atender, em
+situação de emergência, as suas instalações integrantes da Rede Básica e das usinas consideradas
+instalações estratégicas, conforme Submódulo 2.2, e com modalidade de operação Tipo I, conforme
+Submódulo 7.2.
+O Plano de Contingência do agente de transmissão é emitido para atender reatores e transformadores de
+potência em condição de falha e para atender ocorrências de queda de estrutura de linha de transmissão,
+desde que a indisponibilidade da função perdure por mais de um período consecutivo de ponta de carga
+do sistema elétrico.
+O Plano de Contingência do agente de geração é emitido para atender transformadores de potência em
+condição de falha, desde que a indisponibilidade da função perdure por mais de um período consecutivo
+de ponta de carga do sistema elétrico.
+B.1 Transformadores de potência e reatores
+O Plano de Contingência para transformadores de potência e reatores deve conter, no mínimo, as
+seguintes informações:
+(1) nome do agente;
+(2) identificação da instalação e do equipamento;
+(3) tempo previsto para retorno da função em caso de falha;
+(4) logística e recursos alocados para atendimento à ocorrência;
+(5) equipamento(s) de reserva existente(s) com indicação de fabricante, número de série e
+características técnicas; e
+(6) relação das atividades de manutenção para o(s) equipamento(s) de reserva.
+B.2 Linhas de transmissão
+O Plano de Contingência para linhas transmissão deve conter, no mínimo, as seguintes informações:
+(1) nome do agente;
+(2) identificação da linha de transmissão;
+(3) tempo estimado para retorno da função em caso de falha (deve ser considerado o tempo médio
+por trecho típico e por estrutura);
+(4) logística e recursos alocados para atendimento à ocorrência; e
+(5) estruturas típicas de reserva existentes.
+Endereço na internet: http://www.ons.org.br 9 / 11
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Acompanhamento da manutenção de
+6.9 Procedimental 2025.02 01/05/2025
+equipamentos e linhas de transmissão
+ANEXO C - Relatório de Manutenção de Urgência (RMU)
+C.1 O ONS deve solicitar a elaboração de um Relatório de Manutenção de Urgência – RMU para
+equipamento ou linha de transmissão integrante da Rede Básica e das usinas consideradas
+instalações estratégicas, conforme Submódulo 2.2, e com modalidade de operação Tipo I, conforme
+Submódulo 7.2, quando houver reincidência de defeito nos últimos 12 (doze) meses.
+C.2 O RMU elaborado e enviado pelos agentes de transmissão e geração para o ONS, por meio
+eletrônico, deve conter os seguintes itens:
+(1) nome do agente;
+(2) identificação da linha de transmissão / equipamento;
+(3) caracterização da urgência da intervenção, informando, no mínimo:
+(3.1) defeito apresentado (descrição da ocorrência, data e meio de constatação);
+(3.2) risco para a integridade física de pessoas ou do meio ambiente e para equipamentos e
+instalações; e
+(3.3) critérios técnicos que recomendaram a intervenção;
+(4) resumo do serviço executado.
+Endereço na internet: http://www.ons.org.br 10 / 11
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Acompanhamento da manutenção de
+6.9 Procedimental 2025.02 01/05/2025
+equipamentos e linhas de transmissão
+ANEXO D - Relatório de Manutenção de Emergência (RME)
+D.1 O ONS deve solicitar a elaboração de um Relatório de Manutenção de Emergência - RME para
+equipamento ou linha de transmissão integrante da Rede Básica e das usinas consideradas instalações
+estratégicas, conforme Submódulo 2.2, quando houver reincidência de defeito nos últimos 12 (doze) meses.
+D.2 O RME elaborado e enviado pelos agentes de transmissão e geração para o ONS, por meio eletrônico,
+deve conter os seguintes itens:
+(1) nome do agente;
+(2) identificação da linha de transmissão/equipamento;
+(3) descrição da emergência, informando, no mínimo:
+(3.1) falha apresentada;
+(3.2) risco para a integridade física de pessoas ou do meio ambiente, e para equipamentos e instalações;
+e
+(3.3) data da ocorrência;
+(4) resumo do serviço executado.
+Endereço na internet: http://www.ons.org.br 11 / 11

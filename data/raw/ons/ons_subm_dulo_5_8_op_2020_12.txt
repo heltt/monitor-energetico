@@ -1,0 +1,186 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 5.8-OP_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 5.8-OP_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 5.8
+Recomposição da Rede de Operação
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Recomposição da Rede de Operação 5.8 Operacional 2020.12 01/01/2021
+ÍNDICE
+1. DIRETRIZES GERAIS..........................................................................................................................3
+2. RECOMPOSIÇÃO NA REDE DE OPERAÇÃO........................................................................................4
+2.1. Recomposição na fase fluente......................................................................................................4
+2.2. Recomposição na fase coordenada...............................................................................................5
+3. REALIZAÇÃO DOS TESTES E SIMULADOS DE RECOMPOSIÇÃO...........................................................6
+4. REFERÊNCIAS...................................................................................................................................6
+5. ANEXOS...........................................................................................................................................6
+Endereço na internet: http://www.ons.org.br 2 / 6
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Recomposição da Rede de Operação 5.8 Operacional 2020.12 01/01/2021
+1. DIRETRIZES GERAIS
+1.1. Os centros de operação do Operador Nacional do Sistema Elétrico – ONS e os agentes de operação
+verificam a configuração do sistema após a ocorrência de perturbações na Rede de Operação que levem à
+indisponibilidade de equipamentos e linhas de transmissão.
+1.2. Os agentes de operação atuam, sob coordenação dos centros de operação do ONS, para restabelecer a
+configuração de condição normal de operação com segurança e rapidez e possibilitar o atendimento pleno
+à carga.
+1.3. O processo de recomposição do sistema é composto por duas fases, a fase fluente e a fase
+coordenada.
+1.4. Uma perturbação geral para uma instalação, subestação ou usina é caracterizada quando não há
+tensão em todos os terminais das suas linhas de transmissão.
+1.4.1. Para algumas usinas, mesmo com tensão em seus terminais, a perturbação geral pode ser
+caracterizada quando não houver fluxo de potência ativa nas linhas que conectam a usina ao Sistema
+Interligado Nacional (SIN), sendo tratados caso a caso conforme Submódulo 5.12 – Instruções de Operação.
+1.5. Caso caracterizado o desligamento geral de uma instalação fora do contexto de uma perturbação geral
+do sistema, o centro de operação do ONS envolvido informa aos agentes e coordena o processo de
+recomposição.
+1.6. De forma a garantir segurança, eficácia e viabilidade do processo de recomposição em qualquer
+período do dia, o detalhamento das responsabilidades e procedimentos, incluindo as condições para o
+restabelecimento de qualquer equipamento, estão definidos nas instruções de operação no Submódulo
+5.12.
+1.6.1. Para reenergização ou religamento dos equipamentos da Rede de Operação, são atendidas as
+configurações mínimas e as condições de pré-energização, conforme Submódulo 5.12.
+1.7. As usinas da Rede de Operação não conectadas diretamente à Rede Básica ou à Rede Complementar,
+mas que participam da recomposição da Rede de Operação, seguem os procedimentos constantes no
+Submódulo 5.14 – Ajustamentos Operativos ou no Submódulo 5.12.
+1.7.1. O agente de operação elabora, para as usinas e subestações da Rede de Operação, instruções de
+operação de recomposição específicas e com base nas diretrizes do ONS, de forma a garantir aos
+operadores ou outros executores diretos da operação um determinado grau de liberdade nas ações de
+recomposição, independentemente da comunicação com os centros de operação do agente ou do ONS.
+1.8. Caso necessário, o Centro de Operação do Sistema – COSR coordena na sua área de atuação as ações
+para efetuar o corte manual de carga durante a recomposição para garantir a segurança da Rede de
+Operação.
+1.9. O restabelecimento da carga é processado gradativamente para evitar eventuais oscilações de
+potência ou de tensão na área ou na região que possam acarretar outras perturbações ou desligamentos
+durante a recomposição.
+1.10. O restabelecimento da carga pode ser feito em blocos com a alimentação dos transformadores com
+carga conectada ou gradativamente com o restabelecimento sequencial dos circuitos alimentadores,
+conforme critérios estabelecidos internamente pelo agente.
+1.10.1. No restabelecimento da carga, os centros de operação do ONS controlam a frequência, tensão e os
+carregamentos para garantir a estabilidade do sistema, observando também os procedimentos do Controle
+Endereço na internet: http://www.ons.org.br 3 / 6
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Recomposição da Rede de Operação 5.8 Operacional 2020.12 01/01/2021
+Automático de Geração (CAG) em situações de perturbações nas instruções de operação do Submódulo
+5.12.
+1.11. Os centros de operação do ONS coordenam as ações necessárias para o atendimento das cargas
+prioritárias que não possam ser recompostas com recursos da sua área.
+1.12. Determinadas usinas devem ter esquemas de ilhamento programados que mantenham uma parcela
+da carga estável após grandes perturbações, conforme predefinido em estudos específicos do
+Submódulo 3.10 – Estudos para segurança operacional elétrica.
+1.13. O processo de recomposição prioriza a recomposição do SIN e o atendimento às cargas prioritárias,
+sem considerar interesses comerciais.
+2. RECOMPOSIÇÃO NA REDE DE OPERAÇÃO
+2.1. Recomposição na fase fluente
+2.1.1. Os procedimentos de recomposição fluente são descentralizados e efetuados pelo executor direto
+da operação das instalações, com uma troca de informações minimamente necessária entre as instalações
+e os centros de operação do agente ou do ONS, visando ao restabelecimento das cargas prioritárias dos
+agentes de distribuição e consumidores cujas instalações estejam conectadas à Rede Básica.
+2.1.1.1. Os centros de operação do ONS supervisionam a recomposição na fase fluente e interferem no
+processo no caso de absoluta necessidade, quando algum imprevisto impede o prosseguimento normal da
+recomposição ou quando solicitado direta ou indiretamente pelo agente de operação.
+2.1.1.2. O agente proprietário informa ao COSR caso a configuração da sua instalação não esteja preparada
+para o início da recomposição fluente, independentemente do equipamento da instalação ser próprio ou
+de outro agente na área sob sua responsabilidade e, com isso, o COSR comunica aos agentes envolvidos
+que a recomposição será na fase coordenada.
+2.1.2. As áreas de autorrestabelecimento e as instalações adotam procedimentos preferenciais e
+alternativos definidos nas instruções de operação no Submódulo 5.12, dependendo da configuração
+elétrica e para cobrir eventuais situações que inviabilizaram a adoção do procedimento preferencial.
+2.1.3. O agente de operação assegura que suas usinas classificadas como aptas para o
+autorrestabelecimento integral estão com os seus recursos (grupo gerador diesel, unidade geradora auxiliar
+e/ou sistema de partida com alimentação em corrente contínua) permanentemente disponíveis, de modo a
+garantir a partida de uma ou mais unidades geradoras para iniciar e concluir o processo de recomposição
+fluente, exceto durante períodos de intervenções preventivas programadas.
+2.1.4. O sistema, na recomposição fluente, é estruturado em áreas de autorrestabelecimento constituídas
+de usinas, linhas de transmissão, equipamentos e montantes de carga prioritárias mínimas a serem
+atendidas.
+2.1.5. A estratégia de recomposição na fase fluente considera que as áreas de autorrestabelecimento estão
+totalmente desenergizadas, exceto no caso de ilhamentos programados conforme Submódulo 2.3 –
+Premissas, critérios e metodologia para estudos elétricos.
+2.1.6. Para cada área de autorrestabelecimento:
+(a) o ONS define os montantes máximos de potência que podem ser supridos em cada instalação,
+visando o atendimento às cargas prioritárias, conforme Submódulo 3.10;
+Endereço na internet: http://www.ons.org.br 4 / 6
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Recomposição da Rede de Operação 5.8 Operacional 2020.12 01/01/2021
+(b) o agente de distribuição define a carga prioritária para cada etapa da recomposição fluente,
+compatível com a geração, transmissão e transformação disponíveis e previamente estabelecida nas
+instruções de operação do Submódulo 5.12;
+(c) o ONS define a usina responsável pelo controle de frequência na área de autorrestabelecimento,
+conforme Submódulo 3.10.
+(d) há, no mínimo, uma usina de autorrestabelecimento integral para sincronizar uma quantidade
+mínima de unidades geradoras que energizam instalações, linhas de transmissão, transformadores e
+equipamentos necessários para alimentação das cargas prioritárias, conforme estabelecido no
+Submódulo 5.12; e
+2.1.7. A fase de recomposição fluente não pode ser inviabilizada em função da existência de instalações
+teleassistidas ou compartilhadas por dois ou mais agentes no processo.
+2.1.7.1. Os agentes proprietários e outros agentes com equipamentos na mesma propriedade que
+participam do processo de recomposição fluente devem ter condições técnicas suficientes para a execução
+das manobras de preparação das instalações e de recomposição dos seus equipamentos.
+2.1.8. O COSR responsável por uma área de autorrestabelecimento comunica aos demais centros de
+operação envolvidos a conclusão da recomposição fluente para dar início ao processo de recomposição
+coordenada.
+2.2. Recomposição na fase coordenada
+2.2.1. Na fase coordenada, os centros de operação do ONS coordenam a interligação das áreas de
+autorrestabelecimento e o restabelecimento dos demais equipamentos para a restauração do sistema às
+condições normais de operação.
+2.2.1.1. Os centros de operação do ONS verificam os níveis de tensão, frequência e ângulo de fase para
+conexão entre as áreas de autorrestabelecimento, conforme os critérios do Submódulo 2.5 – Critérios para
+Operação.
+2.2.1.2. Os centros de operação do ONS controlam o restante das ações necessárias para o total
+restabelecimento do sistema, dentre as quais:
+(a) intervenção, quando há impedimento no procedimento preferencial de recomposição;
+(b) liberação de carga adicional;
+(c) fechamento de anel;
+(d) fechamento de paralelo para sincronização das áreas isoladas ou ilhas programadas;
+(e) definição da usina que ficará com o controle da frequência quando há paralelo entre duas áreas de
+autorrestabelecimento;
+(f) religamento do CAG; e
+(g) ações de gerenciamento de carga para possibilitar manobras em equipamentos do SIN.
+2.2.2. O fechamento de paralelo entre as áreas pode ser executado de forma descentralizada, ainda na
+fase fluente, desde que esteja estabelecido em instruções de operação no Submódulo 5.12.
+Endereço na internet: http://www.ons.org.br 5 / 6
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Recomposição da Rede de Operação 5.8 Operacional 2020.12 01/01/2021
+3. REALIZAÇÃO DOS TESTES E SIMULADOS DE RECOMPOSIÇÃO
+3.1. Para garantir a eficiência do processo de recomposição, os agentes de operação programam e
+executam periodicamente testes das usinas de autorrestabelecimento e testes simulados de recomposição
+da Rede de Operação (denominados DRILL), sob as condições mais realistas possíveis e envolvendo as
+instalações e os centros de operação.
+3.2. Os procedimentos, responsabilidades, periodicidade e emissão dos relatórios dos testes das usinas de
+autorrestabelecimento e dos testes simulados de recomposição do sistema estão detalhados no
+Submódulo 5.13 – Rotinas Operacionais.
+3.3. No caso de regime especial de operação, os centros de operação do ONS consideram, durante a
+elaboração do Plano Anual de Execução de Testes de Autorrestabelecimento e do Plano para Simulação de
+Treinamento de Recomposição do Sistema, as usinas e as instalações que integram os corredores de
+recomposição onde ocorrem os eventos, de forma que seus testes sejam realizados antes do período de
+regime especial de operação.
+3.4. O cronograma dos testes das usinas de autorrestabelecimento são estabelecidos pela ANEEL ou pelos
+centros de operação do ONS e podem não ter aviso prévio ao agente de geração. Dessa forma, as usinas
+devem ser mantidas em condições de realização do teste a qualquer momento, conforme estabelecido no
+Submódulo 5.13.
+3.5. Nos testes de recomposição das usinas de autorrestabelecimento, as usinas que os centros de
+operação do ONS classificar como “Não Aprovado” estarão sujeitas a suspensão da prestação do serviço de
+autorrestabelecimento, até que os resultados dos testes voltem a ser classificados como aprovados.
+3.6. O ONS elabora o Relatório Anual de Testes das Usinas de Autorrestabelecimento, contemplando a
+análise das centrais geradoras quanto a sua capacidade de autorrestabelecimento integral e o disponibiliza
+no site do ONS e à ANEEL.
+3.7. O ONS elabora a relação das usinas de autorrestabelecimento integral e parcial com base nos
+resultados obtidos nos testes das usinas de autorrestabelecimento e na análise consolidada no Relatório
+Anual de Testes das Usinas de Autorrestabelecimento.
+4. REFERÊNCIAS
+4.1. Não há referências neste documento.
+5. ANEXOS
+5.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 6 / 6

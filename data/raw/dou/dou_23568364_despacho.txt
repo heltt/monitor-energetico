@@ -1,0 +1,20 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 04/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=04/02/2026&jornal=515&pagina=66
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Superintendência de Segurança de Barragens e Pilhas de Mineração/Gerência de Riscos Geotécnicos em Barragens
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 4/2026
+Defere requerimento - BARRAGENS(2809)
+DOUTOR - VALE S.A. - 002.132/1952 - Requerimento de: ALTERAÇÃO CADASTRAL APRESENTADA NO SIGBM EM 29/12/2025
+CAMPO GRANDE - VALE S.A. - 930.193/1982 - Requerimento de: ALTERAÇÃO CADASTRAL DOS CAMPOS ALTURA MÁXIMA ATUAL, DRENAGEM SUPERFICIAL E CAPACIDADE TOTAL DO RESERVATÓRIO APRESENTADA NO SIGBM EM 30/12/2025
+Indefere requerimento - BARRAGENS(2810)
+CAMPO GRANDE - VALE S.A. - 930.193/1982 - Requerimento de: ALTERAÇÃO CADASTRAL DOS CAMPOS IMPACTO SOCIO-ECONOMICO E EXISTENCIA DE POPULAÇÃO A JUSANTE APRESENTADA NO SIGBM EM 30/12/2025
+ELIEZER SENNA GONÇALVES JÚNIOR
+Gerente

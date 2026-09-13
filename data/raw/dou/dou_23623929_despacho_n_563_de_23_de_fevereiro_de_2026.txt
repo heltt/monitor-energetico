@@ -1,0 +1,15 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: DESPACHO Nº 563, DE 23 DE FEVEREIRO DE 2026
+DATA_PUBLICACAO: 25/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=25/02/2026&jornal=515&pagina=87
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Energia Elétrica/Superintendência de Fiscalização Técnica dos Serviços de Energia Elétrica/Gerência de Fiscalização da Geração
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+DESPACHO Nº 563, DE 23 DE FEVEREIRO DE 2026
+O GERENTE DE FISCALIZAÇÃO DA GERAÇÃO DA SUPERINTENDÊNCIA DE FISCALIZAÇÃO TÉCNICA DOS SERVIÇOS DE ENERGIA ELÉTRICA DA AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA - ANEEL, nos termos do art. 3º da Portaria nº 6.836, de 21 de junho de 2023, e considerando o que consta do Processo nº 48500.001062/2026-71, decide:
+liberar as unidades geradoras UG8 a UG13, de 440,00 kW cada, e a UG6 de 440,00 kW em substituição a antiga unidade geradora UG6 de 800,00 kW, totalizando 3.080,00 kW de capacidade instalada, da UTE Terra Santa - CEPA, Código Único de Empreendimentos de Geração - CEG UTE.PE.PA.035728-6.01, localizada no município de Terra Santa no estado do Pará, de titularidade da Energy Assets do Brasil Ltda. e da Soenergy - Sistemas Internacionais de Energia S.A, para início da operação em teste a partir de 24 de fevereiro de 2026.
+RAFAEL ERVILHA CAETANO

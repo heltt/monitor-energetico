@@ -1,0 +1,15 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Resolução
+TITULO: Int_REN_1.148_2026_STD__003
+DATA_PUBLICACAO: 20/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=20/02/2026&jornal=515&pagina=86
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Energia Elétrica/Diretoria Colegiada
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+323. O índice IASC 70 é considerado o padrão regulatório mínimo desejável de desempenho de cada distribuidora.
+324. O IASC será apurado, anualmente, a partir de pesquisa amostral probabilística realizada entre os consumidores da classe residencial de cada área de concessão, conforme metodologia estabelecida pela ANEEL e amplamente divulgada em seu sítio na internet.
+325. Nos anos em que, excepcionalmente, e por motivo devidamente justificável, a ANEEL não apurar o IASC, não haverá apuração da componente S do fator X.
+326. O impacto do IASC na componente S do Fator X, após período sem apuração, levará em conta a variação entre o desempenho no ano corrente e a última apuração, sendo que o resultado será proporcionalizado anualmente.

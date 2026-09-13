@@ -1,0 +1,30 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 10/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=10/02/2026&jornal=515&pagina=58
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 12/2026
+Fica o abaixo relacionado ciente que não foi dado conhecimento ao recurso administrativo interposto; restando-lhe pagar ou parcelar o débito apurado, sob pena de inscrição em Dívida Ativa, CADIN e ajuizamento da ação de execução.
+
+
+PROCESSO
+INTERESSADO
+48062.970747/2021-61
+Goetze Lobato Engenharia S/A
+48062.970748/2021-14
+Goetze Lobato Engenharia S/A
+48062.970749/2021-51
+Goetze Lobato Engenharia S/A
+48070.948216/2021-93
+Boa Vista Participações e Gestão de Direitos Minerários Ltda, Prospectar Consultoria Minero Ambiental Ltda ME
+48065.900.476/2021-57
+Prospectar Consultoria Minero Ambiental Ltda ME
+MAURO HENRIQUE MOREIRA SOUSA
+Diretor-Geral

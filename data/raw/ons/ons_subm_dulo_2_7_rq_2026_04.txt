@@ -1,0 +1,660 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 2.7-RQ_2026.04
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 2.7-RQ_2026.04.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 2.7
+Requisitos mínimos para linhas de
+transmissão
+Requisitos
+Revisão Motivo da revisão Data de aprovação
+2026.04 Despacho STD nº 1.238/2026 09/04/2026
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para linhas de transmissão 2.7 Requisitos 2026.04 01/05/2026
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................5
+2. REQUISITOS GERAIS.........................................................................................................................5
+3. REQUISITOS ELÉTRICOS DE LT AÉREA...............................................................................................6
+3.1. Capacidades de corrente dos condutores.....................................................................................6
+3.2. Capacidade de corrente dos cabos para-raios e cadeias de isoladores de uma LTA-CA...............6
+3.3. Distâncias de segurança................................................................................................................7
+3.4. Perda joule nos cabos....................................................................................................................7
+3.5. Tensão máxima operativa.............................................................................................................7
+3.6. Coordenação de isolamento.........................................................................................................8
+3.7. Emissão eletromagnética..............................................................................................................9
+3.8. Desequilíbrio de tensão de uma LTA-CA.....................................................................................10
+3.9. Cruzamento entre LT...................................................................................................................11
+4. REQUISITOS MECÂNICOS DE LT AÉREA...........................................................................................11
+4.1. Confiabilidade.............................................................................................................................11
+4.2. Parâmetros de vento...................................................................................................................11
+4.3. Cargas mecânicas sobre os cabos................................................................................................12
+4.4. Cargas mecânicas sobre as estruturas........................................................................................13
+4.5. Fadiga mecânica dos cabos.........................................................................................................13
+4.6. Fundações13
+5. REQUISITOS ELETROMECÂNICOS DE LTA-CA OU LTA-CC.................................................................14
+5.1. Descargas atmosféricas...............................................................................................................14
+5.2. Corrosão eletrolítica....................................................................................................................14
+5.3. Corrosão ambiental.....................................................................................................................14
+6. REQUISITOS ELÉTRICOS DE LTS-CA E LTAS-CA.................................................................................14
+6.1. Capacidade de corrente dos condutores....................................................................................14
+6.2. Capacidade de corrente das blindagens metálicas.....................................................................16
+6.3. Perdas na LTS...............................................................................................................................16
+6.4. Tensão máxima operativa...........................................................................................................16
+Endereço na internet: http://www.ons.org.br 2 / 18
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para linhas de transmissão 2.7 Requisitos 2026.04 01/05/2026
+6.5. Coordenação de isolamento.......................................................................................................17
+6.6. Emissão eletromagnética............................................................................................................18
+6.7. Desequilíbrio de tensão...............................................................................................................18
+7. REQUISITOS MECÂNICOS DE LTS-CA...............................................................................................18
+7.1. Confiabilidade.............................................................................................................................18
+7.2. Cargas mecânicas sobre os cabos................................................................................................18
+7.3. Cargas mecânicas nas estruturas de suporte dos terminais, nos dutos, nas caixas de passagem
+e nas caixas de emenda...............................................................................................................19
+7.4. Material de envoltória dos cabos................................................................................................19
+8. OUTROS REQUISITOS DE LTS-CA E LTAS-CA....................................................................................19
+9. REFERÊNCIAS.................................................................................................................................20
+Endereço na internet: http://www.ons.org.br 3 / 18
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para linhas de transmissão 2.7 Requisitos 2026.04 01/05/2026
+1. OBJETIVO
+1.1. Estabelecer requisitos mínimos de desempenho para as seguintes categorias de linha de transmissão
+(LT):
+(a) LT aérea em corrente alternada (LTA-CA) com classe de tensão entre 230 kV e 765 kV;
+(b) LT aérea em corrente contínua (LTA-CC) com classe de tensão entre ±500 kV e ±800 kV;
+(c) LT subterrânea em corrente alternada (LTS-CA) com classe de tensão entre 230 kV e 525 kV; e
+(d) LT composta por partes aérea e subterrânea em corrente alternada (LTAS-CA) com classe de tensão
+entre 230 kV e 525 kV.
+1.1.1. As quais estão contidas nos seguintes subconjuntos:
+(a) integrantes ou que venham a integrar a Rede Básica;
+(b) destinadas a interligação internacional com conexão na Rede Básica; e
+(c) integrantes ou que venham a integrar as Demais Instalações de Transmissão (DIT) ou as instalações
+de transmissão de interesse exclusivo de centrais de geração para conexão compartilhada (ICG).
+2. REQUISITOS GERAIS
+2.1. Deve-se atender às prescrições das normas técnicas da Associação Brasileira de Normas Técnicas –
+ABNT. Caso essas normas não sejam aplicáveis, parcial ou integralmente, deve-se atender às prescrições das
+normas técnicas da International Electrotechnical Comision – IEC, American National Standards Institute –
+ANSI, American Society for Testing and Materials – ASTM ou National Electrical Safety Code – NESC, nessa
+ordem, a não ser que se indique expressamente de outra forma.
+2.2. Os requisitos a serem atendidos por uma Função Transmissão Linha de Transmissão (FTLT) dizem
+respeito aos seus desempenhos sob o ponto de vista sistêmico, quantificáveis por meio dos indicadores de
+desempenho apresentados no Submódulo 9.7 – Indicadores de qualidade de energia elétrica da Rede Básica,
+enquanto que os requisitos a serem atendidos por uma LT dizem respeito aos seus desempenhos decorrentes
+das diretrizes adotadas nos projetos básico e executivo, quantificáveis por meio dos indicadores de
+desempenho apresentados no Submódulo 9.2 – Indicadores de desempenho de equipamentos e linhas de
+transmissão e das funções transmissão e geração.
+2.2.1. As principais características que se aplicam a uma FTLT são:
+(a) desempenho sistêmico da LT caracterizado pelo resultado obtido em termos de fluxo de potência
+em regime normal e nas situações de contingência previamente consideradas. No caso de LT em
+corrente alternada, deve ser incluída na caracterização do desempenho a compensação reativa série
+e/ou paralela;
+(b) capacidade operativa de longa duração correspondente ao valor máximo de corrente da FTLT em
+condição normal de operação, sem que seja ultrapassado qualquer critério de projeto;
+(c) capacidade operativa de curta duração correspondente ao valor máximo de corrente da FTLT em
+condição de emergência, sem que seja ultrapassado qualquer critério de projeto; e
+(d) perda de potência ativa máxima na LT para uma dada condição operativa e definida pelo
+planejamento. Essa perda é função da resistência do condutor, do acoplamento com as demais fases
+Endereço na internet: http://www.ons.org.br 4 / 18
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para linhas de transmissão 2.7 Requisitos 2026.04 01/05/2026
+e com os cabos para-raios (em LTA-CA) ou com a blindagem metálica do cabo isolado (em LTS-CA), e
+das parcelas no isolante (em LTS-CA).
+2.3. As LT integrantes ou que venham a integrar DIT ou ICG devem atender aos requisitos estabelecidos pela
+transmissora detentora da sua concessão e compatibilizados com os constantes do presente submódulo.
+2.4. Caso critérios de operação ou planejamento assim o determinem, requisitos específicos podem ser
+incluídos nos documentos de licitação ou autorização de determinada FTLT, cuja LT é seu elemento principal.
+3. REQUISITOS ELÉTRICOS DE LT AÉREA
+3.1. Capacidades de corrente dos condutores
+3.1.1. Uma LT aérea deve preservar as distâncias de segurança estabelecidas no item 3.3 deste submódulo
+para a circulação das correntes correspondentes às capacidades operativas de longa e curta duração da FTLT,
+o que é assegurado no projeto básico pela consideração da ocorrência simultânea das seguintes condições
+climáticas:
+(a) média das temperaturas máximas diárias da região;
+(b) radiação solar máxima da região; e
+(c) brisa mínima prevista para a região, desde que não superior a um metro por segundo.
+3.1.2. O dimensionamento das capacidades operativas de longa e curta duração de uma LTA-CC deve
+possibilitar a operação das unidades conversoras das estações retificadora e inversora em todos os modos
+de operação previstos no instrumento técnico dos documentos de outorga.
+3.1.3. Em condições climáticas comprovadamente mais favoráveis do que as estabelecidas no item 3.1.1.
+deste submódulo, uma FTLT pode ser solicitada a operar com carregamento superior à capacidade operativa
+de longa ou curta duração, desde que sejam respeitadas as distâncias de segurança referidas no item 3.3
+deste submódulo.
+3.1.4. Os acessórios, conexões e demais componentes que conduzem corrente devem ser dimensionados de
+forma a não criar restrições à operação da FTLT, incluindo as condições indicadas no item 3.1.3. deste
+submódulo. Devem ser atendidas também as prescrições das normas de dimensionamento e ensaios de
+ferragens de linhas de transmissão [1].
+3.1.5. A FTLT deve ser projetada de forma a não apresentar óbices técnicos à instalação de monitoramento
+de distâncias de segurança, que pode vir a ser solicitada a qualquer tempo.
+3.2. Capacidade de corrente dos cabos para-raios e cadeias de isoladores de uma LTA-CA
+3.2.1. Nas condições climáticas estabelecidas no item 3.1.1 deste submódulo, os cabos para-raios –
+conectados ou não à malha de aterramento das subestações terminais e ao sistema de aterramento de cada
+estrutura – e as cadeias de isoladores devem ser capazes de suportar, sem danos, durante o período de
+concessão da FTLT, a circulação da corrente associada à ocorrência de curto-circuito monofásico franco em
+qualquer estrutura da LTA-CA por duração correspondente ao tempo de atuação da proteção de retaguarda.
+3.2.2. Nos casos de seccionamento de LTA-CA para conexão de nova subestação, os cabos para-raios e as
+cadeias de isoladores dos novos trechos de linha entre o ponto de seccionamento e a nova subestação devem
+ser dimensionados conforme estabelecido no item 3.2. deste submódulo. Os cabos para-raios e as cadeias
+de isoladores, no entorno do ponto de seccionamento, devem ter sua capacidade de corrente verificada para
+a nova topologia da rede, considerando a contribuição de corrente de curto-circuito da nova subestação.
+Caso a verificação evidencie a superação de algum desses elementos, deve ser proposta uma nova
+Endereço na internet: http://www.ons.org.br 5 / 18
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para linhas de transmissão 2.7 Requisitos 2026.04 01/05/2026
+configuração de cabos para-raios e de cadeias de isoladores que atenda aos critérios de capacidade de
+corrente.
+3.2.3. Em circunstâncias especiais, o dimensionamento do sistema de aterramento de uma FTLT pode levar
+em conta a distribuição da corrente de curto-circuito nos sistemas de aterramento de outras FTLT conectados
+à mesma malha de aterramento, desde que essas FTLT comprovadamente não sofram nenhum prejuízo.
+3.3. Distâncias de segurança
+3.3.1. Na condição operativa de longa duração da LTA-CA ou LTA-CC, as distâncias do condutor ao solo ou
+aos obstáculos devem ser iguais ou superiores às distâncias de segurança em condições normais de operação
+estabelecidas em norma [2].
+3.3.2. Na condição operativa de curta duração da LTA-CA ou LTA-CC, as distâncias do condutor ao solo ou
+aos obstáculos devem ser iguais ou superiores às distâncias de segurança em condições de emergência
+estabelecidas em norma [2].
+3.3.3. No caso de a norma [2] não estabelecer valores de distâncias de segurança para uma determinada
+classe de tensão de LTA-CA ou LTA-CC, as distâncias do condutor ao solo ou aos obstáculos devem ser
+determinadas segundo as prescrições contidas em [16].
+3.4. Perda joule nos cabos
+3.4.1. A perda joule nas LTA-CA e LTA-CC deve ser mantida dentro de limites aceitáveis por meio da utilização
+de cabos com resistência elétrica suficientemente reduzida.
+3.4.2. O valor limite da resistência de sequência positiva de uma LTA-CA é específico para cada instalação e
+estabelecido no instrumento técnico dos documentos de outorga à frequência nominal de 60 Hz e a uma
+temperatura de referência, a partir de análise econômica baseada em estudos elétricos de longo prazo que
+levam em conta o efeito da resistência de todas as instalações de transmissão da Rede Básica.
+3.4.3. O valor limite da resistência por polo de uma LTA-CC é específico para cada instalação e estabelecido
+no instrumento técnico dos documentos de outorga a uma temperatura de referência, a partir de análise
+econômica baseada em estudos elétricos de longo prazo e nas características e faixas de operação de
+componentes das conversoras.
+3.4.4. A perda joule nos cabos para-raios de uma LTA-CA deve ser inferior a 5% (cinco por cento) das perdas
+nos cabos condutores para qualquer condição de operação.
+3.5. Tensão máxima operativa
+3.5.1. A tensão máxima operativa de uma LTA-CA ou LTA-CC em função da classe de tensão está informada
+na Tabela 1.
+Tabela 1 – Tensão máxima operativa de uma LTA-CA ou LTA-CC
+Tipo da LT Classe de tensão (kV) Tensão máxima operativa (kV)
+230 242
+345 362
+LTA-CA 440 460
+500 ou 525 550
+765 800
+LTA-CC 500 525
+Endereço na internet: http://www.ons.org.br 6 / 18
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para linhas de transmissão 2.7 Requisitos 2026.04 01/05/2026
+600 636
+800 840
+3.6. Coordenação de isolamento
+3.6.1. Geral
+3.6.1.1. A coordenação de isolamento de uma LTA-CA ou LTA-CC – dimensionamento dos espaçamentos
+elétricos das estruturas da família de estruturas da LT – deve assegurar o atendimento aos requisitos
+estabelecidos nos itens 3.6.2, 3.6.3 e 3.6.4 deste submódulo.
+3.6.1.2. O instrumento técnico dos documentos de outorga pode estabelecer para uma LTA-CA de circuito
+duplo que a coordenação de isolamento adote uma solução que minimize os desligamentos dos dois circuitos
+provocados por um mesmo fenômeno ou causa.
+3.6.2. Isolamento para tensão máxima operativa
+3.6.2.1. O dimensionamento do isolamento para tensão máxima operativa de uma LTA-CA ou LTA-CC,
+referente às distâncias mínimas no suporte e à distância mínima entre condutores em suportes diferentes,
+deve ser feito considerando o balanço da cadeia de isoladores sob ação de vento com período de retorno de,
+no mínimo, 30 (trinta) anos.
+3.6.2.2. A distância específica de escoamento da cadeia de isoladores deve ser determinada conforme
+prescrição de norma [3], em função do nível de poluição da região de implantação da LT, desde que não
+inferior a 14 mm/kV eficaz fase-fase para LTA-CA e 30 mm/kV polo-terra para LTA-CC.
+3.6.2.3. Deve ser garantida a distância de segurança entre qualquer condutor da LTA-CA ou LTA-CC e o solo
+ou objetos situados na faixa de segurança, tanto para a condição sem vento quanto para a condição de
+balanço dos cabos e cadeias de isoladores devido à ação de vento com período de retorno de, no mínimo, 50
+(cinquenta) anos. Nessa última condição, a distância de segurança deve ser também garantida:
+(a) ao longo de toda a LT, independentemente do comprimento do vão, mesmo que para tanto seja
+necessário adotar largura da faixa de segurança variável em função do comprimento do vão; e
+(b) para qualquer topologia de terreno na faixa de segurança, especialmente quando houver perfil lateral
+inclinado (em aclive).
+3.6.3. Isolamento para manobras de LTA-CA
+3.6.3.1. A sobretensão adotada no dimensionamento dos espaçamentos elétricos das estruturas deve ser,
+no mínimo, igual à maior das sobretensões indicadas nos estudos de transitórios eletromagnéticos da FTLT.
+3.6.3.2. Os riscos de falha (fase-terra e fase-fase), por circuito, em manobras de energização e religamento
+de uma LTA-CA devem estar limitados aos valores da Tabela 2.
+Tabela 2 – Risco de falha máximo, por circuito, em manobras de energização e religamento de LTA-CA
+Risco de falha máximo (adimensional)
+Manobra
+Fase-terra Fase-fase
+Energização 10-3 10-4
+Religamento 10-2 10-3
+Endereço na internet: http://www.ons.org.br 7 / 18
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para linhas de transmissão 2.7 Requisitos 2026.04 01/05/2026
+3.6.4. Isolamento na ocorrência de curto-circuito ao longo de LTA-CC
+3.6.4.1. O risco de falha de isolamento de um polo-terra, devido à sobretensão resultante da ocorrência de
+curto-circuito para a terra no outro polo ao longo de uma LTA-CC, deve ser igual ou inferior a 10-3.
+3.6.5. Desempenho quanto a descargas atmosféricas
+3.6.5.1. Uma LTA-CA ou LTA-CC deve dispor de, no mínimo, dois cabos para-raios, sendo um desses do tipo
+Optical Ground Wire (OPGW).
+3.6.5.2. O número máximo de desligamentos de uma LTA-CA ou LTA-CC devido a falha de blindagem e total
+por descargas atmosféricas consta da Tabela 3.
+Tabela 3 – Desempenhos de uma LT aérea frente a descargas atmosféricas
+Número máximo de
+desligamentos de um circuito
+Classe de
+Tipo de LT por 100 km por ano
+tensão [kV]
+Por falha de
+Total
+blindagem
+≥ 345 10-2 1
+LTA-CA
+230 10-2 2
+LTA-CC Todas 10-2 1
+3.7. Emissão eletromagnética
+3.7.1. Interferência
+3.7.1.1. As perturbações produzidas pela LT-CC sobre instalações de terceiros, como por exemplo, em
+sistemas de comunicação, são de responsabilidade do agente de transmissão responsável pela LT-CC, que
+deve atender às normas pertinentes e prover solução para as perturbações identificadas.
+3.7.2. Corona visual
+3.7.2.1. Nas condições atmosféricas predominantes na região atravessada, uma LTA-CA ou LTA-CC, inclusive
+cabos, acessórios e ferragens das cadeias de isoladores, não deve apresentar corona visual à tensão máxima
+operativa em 90% do tempo.
+3.7.3. Radiointerferência
+3.7.3.1. A mediana no período de um ano da distribuição da relação sinal/ruído no limite da faixa de
+segurança de uma LTA-CA ou LTA-CC deve ser igual ou superior a 24 dB. O ruído deve ser calculado para a
+tensão máxima operativa da LT e o sinal adotado para o cálculo deve ser inferior ou igual a 66 dB acima de 1
+µV/metro a 1 MHz.
+3.7.4. Ruído audível
+3.7.4.1. O ruído audível no limite da faixa de segurança de uma LTA-CA à tensão máxima operativa deve ser
+inferior ou igual a 58 dBA em qualquer uma das seguintes condições não simultâneas:
+(a) durante chuva fina ( 0,00148 mm/min);
+Endereço na internet: http://www.ons.org.br 8 / 18
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para linhas de transmissão 2.7 Requisitos 2026.04 01/05/2026
+(b) durante névoa de 4 (quatro) horas de duração; ou
+(c) durante os primeiros 15 (quinze) minutos após a ocorrência de chuva.
+3.7.4.2. O ruído audível no limite da faixa de segurança de uma LTA-CC à tensão máxima operativa deve ser
+inferior ou igual a 42 dBA, para tempo bom.
+3.7.5. Campos elétrico e magnético
+3.7.5.1. Os campos elétrico e magnético de uma LT devem atender às determinações da regulação [4].
+3.8. Desequilíbrio de tensão de uma LTA-CA
+3.8.1. Uma LTA-CA com comprimento superior a 100 km deve conter, no mínimo, um ciclo completo de
+transposição de fases.
+3.8.2. Uma LTA-CA com comprimento igual ou inferior a 100 km, caso a avaliação dos desequilíbrios de
+tensão de sequências negativa ou zero resulte em valores superiores a 1,5%, em vazio e a plena carga que
+corresponde a LT em regime de longa duração, deve conter, no mínimo, um ciclo completo de transposição
+de fases.
+3.8.3. Quando transposta, uma LTA-CA de circuito duplo deve conter, no mínimo, dois ciclos completos de
+transposição de fases, um em cada circuito. O Projeto Básico deve avaliar os desequilíbrios de tensão na LTA-
+CA para os ciclos de transposição adotados.i.
+3.8.4. Quando de uma LTA-CA paralela a outra(s) LTA-CA, em toda a extensão ou parcialmente, na mesma
+faixa de passagem ou em faixas contíguas, o ONS pode solicitar ao(s) agente(s) de transmissão envolvido(s)
+no(s) paralelismo(s) que avalie(m) os desequilíbrios de tensão de sequência negativa e zero, em vazio e a
+plena carga que corresponde a LT em regime de longa duração, dessas LTA-CA. Caso as avaliações
+identifiquem desequilíbrio de tensão superior a 1,5%, em qualquer das condições simuladas, uma proposta
+de adequação da(s) instalação(ões) deve ser apresentada ao ONS pelo(s) agente(s).
+3.8.4.1. O desequilíbrio de tensão deve ser calculado considerando a geometria e a sequência de fases de
+cada circuito, a(s) distância(s) entre eixos e o comprimento do(s) trecho(s) de linha mais acoplados.
+3.8.5. Quando do seccionamento de LTA-CA existente, caso os desequilíbrios de tensão de sequência
+negativa ou zero nos terminais dos trechos de LT que passam a existir após o seccionamento sejam superiores
+a 1,5%, em vazio e a plena carga que corresponde a LT em regime de longa duração, o projeto básico deve
+propor adequação da(s) instalação(ões) envolvida(s).
+3.8.5.1. O desequilíbrio deve ser calculado considerando a geometria da estrutura típica, os tipos e extensão
+dos cabos (condutor e para-raios), as características do(s) ciclo(s) de transposição implantado(s) e, no caso
+de seccionamento de LTA-CA existente de circuito duplo ou contendo mais de um circuito de LTA-CA na
+mesma faixa ou em faixas contíguas, a influência de todos os circuitos acoplados.
+3.9. Cruzamento entre LT
+3.9.1. O cruzamento de uma LTA-CA ou LTA-CC em projeto com outra existente (em operação) ou projetada
+(em fase de implantação, com processo de outorga mais antigo e/ou projeto executivo concluído) deve
+ocorrer sob a existente ou projetada quando:
+(a) um circuito simples (em projeto) cruzar, num mesmo vão de travessia, mais de um circuito de LT
+existente ou projetada de classe de tensão igual ou superior à de projeto; ou
+(b) a LT em projeto tiver tensão nominal menor que a da existente ou projetada.
+Endereço na internet: http://www.ons.org.br 9 / 18
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para linhas de transmissão 2.7 Requisitos 2026.04 01/05/2026
+3.9.2. Cruzamentos entre LT devem ser evitados. Havendo necessidade de cruzamento entre LTA,
+indispensável à implantação do empreendimento, o agente de transmissão deve comunicar ao ONS sobre
+essa necessidade e informar a localização do cruzamento e a identificação das linhas envolvidas.
+3.9.2.1. A depender das características do cruzamento, o ONS pode solicitar ao agente que apresente uma
+solução alternativa ou as justificativas da necessidade do cruzamento, bem como as providências a serem
+tomadas nas etapas de projeto, construção, operação e manutenção para agregar robustez e confiabilidade
+à operação, incluindo reforços nos elementos das LTA nos vãos de travessia.
+3.9.3. O agente de transmissão deve relacionar no projeto básico o(s) cruzamento(s) da LT em projeto com
+outra(s) LT, incluindo as seguintes informações mínimas da(s) LT cruzada(s):
+(a) identificação do nome e sentido das subestações terminais;
+(b) categoria (LTA-CA, LTA-CC, LTS-CA ou LTAS-CA);
+(c) tensão nominal;
+(d) número de circuitos; e
+(e) agente de transmissão responsável.
+4. REQUISITOS MECÂNICOS DE LT AÉREA
+4.1. Confiabilidade
+4.1.1. O projeto mecânico de uma LT aérea deve ser desenvolvido segundo prescrições de norma [5].
+4.1.2. O período de retorno do vento extremo, que caracteriza o nível de confiabilidade do projeto mecânico
+de uma LTA-CA ou LTA-CC, deve ser:
+(a) igual ou superior a 150 anos, que corresponde ao nível 2 da norma [5], para LT com tensão nominal
+igual ou inferior a 230 kV; e
+(b) igual ou superior a 250 anos, que corresponde a um nível intermediário entre os níveis 2 e 3 da norma
+[5], para LT com tensão nominal superior a 230 kV.
+4.2. Parâmetros de vento
+4.2.1. Os carregamentos oriundos da ação do vento nos componentes físicos, a serem utilizados no projeto
+mecânico da LTA-CA ou LTA-CC, devem ser estabelecidos a partir da caracterização probabilística das
+velocidades de vento da região, com tratamento para fenômenos meteorológicos severos, tais como
+sistemas frontais, tempestades, tornados, furacões etc.
+4.2.2. Os parâmetros explicitados a seguir devem ser obtidos a partir de dados fornecidos por estações
+anemométricas que caracterizem a região atravessada pela LTA-CA ou LTA-CC:
+(a) média e coeficiente de variação das séries de velocidades máximas anuais de vento a 10 m de altura,
+com tempos de integração para o cálculo da média de 10 (dez) minutos (vento médio) e 3 (três)
+segundos (rajada);
+(b) velocidade máxima anual de vento a 10 m de altura, com período de retorno correspondente ao vento
+extremo, como definido no item 4.1.2. deste submódulo, e tempos de integração para o cálculo da
+média de 10 (dez) minutos e 3 (três) segundos. Se o número de anos da série de dados de velocidade
+não for suficientemente representativo estatisticamente, a velocidade máxima anual deve ser
+Endereço na internet: http://www.ons.org.br 10 / 18
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para linhas de transmissão 2.7 Requisitos 2026.04 01/05/2026
+estimada adotando-se, no mínimo, coeficiente de variação compatível com as séries mais longas de
+dados de velocidades de ventos medidas na região;
+(c) coeficiente de rajada para a velocidade do vento a 10 m de altura, referenciado ao tempo de
+integração para o cálculo da média de 10 (dez) minutos; e
+(d) velocidade máxima anual de vento a 10 m de altura, com período de retorno de 50 anos e tempo de
+integração para o cálculo da média de 10 (dez) minutos.
+4.2.3. No tratamento das velocidades de vento, para fins de dimensionamento, deve ser considerada a
+categoria de terreno, conforme definida em norma [5], que melhor se ajuste à topologia do corredor da LTA-
+CA ou LTA-CC.
+4.3. Cargas mecânicas sobre os cabos
+4.3.1. O cabo deve ser dimensionado para suportar três estados de tracionamento – básico, de tração normal
+e de referência – definidos a partir da combinação de condições climáticas e de envelhecimento do cabo.
+4.3.1.1. No estado básico:
+(a) para condições de temperatura mínima, a tração axial máxima deve ser limitada a 33% da tração de
+ruptura do cabo;
+(b) para condições de vento com período de retorno de 50 (cinquenta) anos, a tração axial máxima deve
+ser limitada a 50% da tração de ruptura do cabo; e
+(c) para condições de vento extremo, como estabelecido no item 4.1.2. deste submódulo, a tração axial
+máxima deve ser limitada a 70% da tração de ruptura do cabo.
+4.3.1.2. No estado de tração normal – Everyday stress (EDS) – :
+(a) no assentamento final, à temperatura média, sem vento, o nível de tracionamento médio dos cabos
+deve atender ao prescrito em norma [2], bem como atender aos limites estabelecidos no item 4.3.1.1.
+deste submódulo; e
+(b) o tracionamento médio dos cabos deve ser compatível com seu desempenho mecânico no que diz
+respeito à fadiga ao longo da vida útil da LTA-CA ou LTA-CC.
+4.3.1.3. No estado de referência, a distância de segurança do condutor ao solo (clearance) deve ser verificada
+sem considerar a pressão de vento atuante.
+4.4. Cargas mecânicas sobre as estruturas
+4.4.1. O projeto mecânico de uma LTA-CA ou LTA-CC deve ser desenvolvido segundo prescrição de norma
+[5]. Além das hipóteses previstas em [5], é obrigatória a introdução de hipóteses de carregamento que
+reflitam tempestades do tipo tormentas elétricas. Devem ser previstas necessariamente as cargas a que as
+estruturas estarão submetidas nas condições mais desfavoráveis de montagem e manutenção, inclusive em
+linha viva.
+4.5. Fadiga mecânica dos cabos
+4.5.1. Deve ser analisado e, eventualmente, previsto o desenvolvimento e a aplicação de dispositivos de
+amortecimento das vibrações eólicas e de limitação das oscilações de subvão, de modo a garantir que os
+cabos condutores e para-raios não venham a sofrer danos por fadiga ao longo da vida útil da LT. Esses
+dispositivos devem ser submetidos aos ensaios prescritos em norma [6] e nos documentos de especificação
+Endereço na internet: http://www.ons.org.br 11 / 18
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para linhas de transmissão 2.7 Requisitos 2026.04 01/05/2026
+técnica para fornecimento, que demonstrem sua capacidade de amortecimento das vibrações eólicas e sua
+resistência à fadiga, sem perda de suas características de amortecimento e sem causar danos aos cabos.
+4.6. Fundações
+4.6.1. No projeto das fundações, para atender ao critério de coordenação de falha, as solicitações
+transmitidas pela estrutura às fundações devem ser majoradas pelo fator mínimo 1,10. Essas solicitações,
+calculadas a partir das cargas de projeto da estrutura, considerando suas condições particulares de aplicação
+– vão gravante, vão de vento, ângulo de deflexão, fim de linha e altura da estrutura – passam a ser
+consideradas cargas de projeto das fundações.
+4.6.2. As fundações devem ser projetadas estrutural e geotecnicamente de forma a adequar todos os
+esforços resultantes de cada estrutura às condições específicas do solo.
+4.6.3. As propriedades físicas, químicas e mecânicas do solo devem ser determinadas de modo a retratar
+com precisão os parâmetros geomecânicos e de corrosividade do solo, o que deve ser feito a partir das
+seguintes etapas:
+(a) estudo e análise fisiográfica preliminar do traçado da LTA-CA ou LTA-CC, com a consequente
+elaboração do plano de investigação geotécnica;
+(b) estabelecimento dos parâmetros geomecânicos e químicos a partir do reconhecimento do subsolo,
+com a caracterização geológica, química e geotécnica do terreno, qualitativa e quantitativamente; e
+(c) parecer geotécnico com a elaboração de diretrizes técnicas e recomendações para o projeto das
+fundações.
+4.6.3.1. No cálculo das fundações, devem ser considerados os aspectos regionais geomorfológicos que
+influenciem o estado do solo, seja no aspecto de sensibilidade, de expansibilidade e colapsividade, levando-
+se em conta a sazonalidade.
+4.6.3.2. A definição do tipo de fundação, bem como o seu dimensionamento estrutural e geotécnico, deve
+considerar os limites de ruptura e deformabilidade para a capacidade de suporte do solo à compressão, ao
+arrancamento e aos esforços horizontais, valendo-se de métodos de cálculo incontestáveis e consagrados na
+engenharia geotécnica.
+5. REQUISITOS ELETROMECÂNICOS DE LTA-CA OU LTA-CC
+5.1. Descargas atmosféricas
+5.1.1. Os cabos para-raios de qualquer tipo e formação devem ter desempenho mecânico frente a descargas
+atmosféricas igual ou superior ao do cabo de aço galvanizado EAR de diâmetro 3/8”.
+5.1.2. Todos os elementos sujeitos a descargas atmosféricas diretas da superestrutura de suporte dos cabos
+condutores e cabos para-raios, incluindo as armações flexíveis de estruturas tipo Cross-Rope, Trapézio ou
+Chainette, não devem sofrer redução da suportabilidade mecânica original após a ocorrência de descarga
+atmosférica. As cordoalhas de estruturas estaiadas monomastro ou V protegidas por cabos para-raios estão
+isentas desse requisito.
+5.2. Corrosão eletrolítica
+5.2.1. Devem ser mantidos a estabilidade estrutural dos suportes e o bom funcionamento do sistema de
+aterramento ao longo da vida útil da LT, no sentido de mitigar os efeitos relacionados à corrosão em
+elementos da LT em contato com o solo.
+Endereço na internet: http://www.ons.org.br 12 / 18
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para linhas de transmissão 2.7 Requisitos 2026.04 01/05/2026
+5.3. Corrosão ambiental
+5.3.1. Todos os componentes da LTA-CA ou LTA-CC devem ter sua classe de galvanização compatível com a
+agressividade do meio ambiente, particularmente, em zonas litorâneas e industriais.
+6. REQUISITOS ELÉTRICOS DE LTS-CA E LTAS-CA
+6.1. Capacidade de corrente dos condutores
+6.1.1. Uma LTS-CA deve ser projetada de acordo com as prescrições de norma [7][8], observado o limite de
+temperatura no isolante, de forma a preservar em operação as condições de segurança nelas estabelecidas.
+6.1.1.1. O dimensionamento da LTS-CA deve considerar a circulação das correntes correspondentes às
+capacidades operativas de longa e de curta duração da FTLT e adotar os seguintes critérios e premissas de
+cálculo:
+(a) Em regime de longa duração:
+(1) operação contínua e por tempo indeterminado;
+(2) curva de carga cíclica diária e fator de carga não inferior a 80%, típicos da instalação.
+(b) Em regime de curta duração:
+(1) operação contínua por 96 horas ou outro intervalo de tempo estabelecido no instrumento técnico
+dos documentos de outorga;
+(2) curva de carga de topo plano e fator de carga unitário;
+(3) temperatura inicial do condutor igual à máxima em regime de longa duração.
+(c) Em ambos os regimes:
+(1) temperatura máxima admissível no isolante de 90°C;
+(2) resistividade térmica do backfill seco igual ou inferior a 1°C.m.W-1;
+(3) resistividade térmica do solo mais desfavorável aos dimensionamentos ao longo da rota de cabos;
+(4) temperaturas ambiente e do solo mais desfavoráveis aos dimensionamentos ao longo da rota de
+cabos;
+(5) contribuição térmica de outros circuitos subterrâneos operando simultaneamente; e
+(6) máxima tensão operativa do sistema.
+6.1.2. A capacidade de corrente temporária da LTS-CA, que corresponde ao valor de corrente máxima da
+FTLT para um período curto de tempo, deve ser calculada conforme metodologia estabelecida em [8]. Essa
+capacidade de corrente está relacionada com a inércia térmica do equivalente solo/material de envoltória
+(backfill).
+6.1.2.1. Na operação em regime temporário, a temperatura na superfície do condutor deve ser igual ou
+inferior à temperatura máxima admissível do isolante para a condição normal de operação, conforme
+estabelecido na norma [9].
+6.1.3. Os condutores dos trechos aéreo e subterrâneo da LTAS-CA devem ser dimensionados para suportar,
+ao menos, as capacidades operativas de longa e curta duração da FTLT. O instrumento técnico dos
+Endereço na internet: http://www.ons.org.br 13 / 18
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para linhas de transmissão 2.7 Requisitos 2026.04 01/05/2026
+documentos de outorga pode estabelecer que o projeto do trecho aéreo e subterrâneo da LTAS-CA considere
+valores de capacidade de corrente acima das operativas da FTLT.
+6.1.4. O projeto básico de uma LTS-CA deve prever a instalação de sistema de monitoramento em tempo
+real de temperatura e de estimação da capacidade de corrente. Esse sistema deve monitorar, pelo menos, a
+fase mais desfavorável em condições de troca de calor. O agente de transmissão deve informar a capacidade
+em regime temporário da LTS-CA, em tempo real, sempre que solicitado pelo ONS.
+6.1.4.1. O sistema de estimação da capacidade de corrente deve fornecer em tempo real, pelo menos, as
+seguintes informações: corrente temporária máxima para uma duração pré-estabelecida e duração para uma
+corrente temporária pré-estabelecida.
+6.1.5. Para LTS-CA que contém cabos isolados com seção transversal do condutor igual ou superior a
+800 mm2, deve-se utilizar sistemas especiais de aterramento e conexão das blindagens metálicas tais como
+cross bonding ou single point bonding, conforme definidos na referência [14], para redução de perdas e
+dimensionamento ótimo da seção transversal do condutor.
+6.1.6. Os acessórios, conexões e demais componentes que conduzem corrente devem ser dimensionados de
+forma a não criar restrição à operação da FTLT, incluindo as condições indicadas no item Error! Reference
+source not found.deste submódulo.
+6.1.7. O dimensionamento da seção do condutor e o cálculo das perdas no dielétrico devem ser feitos com
+base na tensão máxima operativa.
+6.2. Capacidade de corrente das blindagens metálicas
+6.2.1. Nas condições estabelecidas no item 6 deste submódulo, as blindagens metálicas – conectadas ou não
+à malha de aterramento das subestações terminais e ao sistema de aterramento de cada caixa de emenda –
+devem ser capazes de suportar, sem danos, durante o período de concessão da FTLT, a circulação da corrente
+associada à ocorrência de curto-circuito monofásico franco em qualquer ponto da LTS-CA por duração
+correspondente ao tempo de atuação da proteção de retaguarda. Para o dimensionamento das blindagens,
+devem ser observadas as prescrições de norma [10].
+6.3. Perdas na LTS
+6.3.1. Perdas joule no condutor e na blindagem
+6.3.1.1. As perdas joule no condutor e na blindagem devem ser mantidas dentro de limites aceitáveis por
+meio da utilização de condutor e blindagem com resistência elétrica suficientemente reduzida.
+6.3.1.2. As perdas nas blindagens devem ser reduzidas através da utilização de sistemas de aterramento
+especiais conforme mencionado no item 6.1.5. deste submódulo.
+6.3.2. Perda no dielétrico
+6.3.2.1. A perda no dielétrico deve ser calculada com base na tensão máxima operativa do sistema.
+6.3.2.2. Devem ser empregados isolantes que apresentem perda dielétrica adequada para cada classe de
+tensão.
+6.4. Tensão máxima operativa
+6.4.1. A tensão máxima operativa de uma LTS-CA deve estar limitada aos valores descritos na Tabela 4.
+Tabela 4 – Tensão máxima operativa de uma LTS-CA
+Endereço na internet: http://www.ons.org.br 14 / 18
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para linhas de transmissão 2.7 Requisitos 2026.04 01/05/2026
+Classe de tensão (kV) Tensão máxima operativa (kV)
+230 242
+345 362
+440 460
+500 ou 525 550
+6.5. Coordenação de isolamento
+6.5.1. Geral
+6.5.1.1. O agente de transmissão deve demonstrar que o dimensionamento da isolação dos cabos de
+potência foi feito de forma a assegurar o atendimento dos requisitos estabelecidos nos itens 6.5.2 e 6.5.3
+deste submódulo.
+6.5.2. Isolamento para tensão máxima operativa
+6.5.2.1. O dimensionamento do isolamento para tensão máxima operativa de uma LTS-CA, referente à
+espessura mínima da camada de isolação dos cabos, deve obedecer às prescrições de norma [11] para cabos
+extrudados.
+6.5.3. Isolamento para manobras e descargas atmosféricas
+6.5.3.1. O dimensionamento do isolamento às descargas atmosféricas e manobras, referente à espessura
+mínima da camada de isolação dos cabos, deve considerar sobretensões limitadas às máximas indicadas na
+Tabela 5, conforme prescrição de norma [15].
+Tabela 5 – Níveis máximos das sobretensões atmosféricas e de manobra para teste de cabos isolados CA, conforme
+[15]
+Sobretensões máximas (kV)
+Classe de tensão
+(kV) Descargas
+Manobra
+atmosféricas
+230 1.050 NE
+345 1.175 950
+500 ou 525 1.550 1.175
+NE – não especificado.
+6.5.3.2. O agente de transmissão deve dimensionar e instalar dispositivos para-raios nas extremidades da
+LTS-CA para proteção dos cabos isolados contra sobretensões devidas a descargas atmosféricas e manobras.
+6.5.3.3. Não é recomendado o religamento de uma LTS-CA, uma vez que as falhas nesse tipo de instalação
+são, em geral, permanentes. O religamento permanecerá habilitado nas seguintes situações: em projeto de
+nova LTAS-CA, em que o trecho aéreo for predominante em extensão; na conversão da LTA-CA existente em
+LTAS-CA em que o religamento foi identificado como indispensável à operação.
+Endereço na internet: http://www.ons.org.br 15 / 18
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para linhas de transmissão 2.7 Requisitos 2026.04 01/05/2026
+6.5.3.4. No caso de se permitir o religamento em LTAS-CA, deve ser avaliado o tempo de retardo do
+religamento.
+6.6. Emissão eletromagnética
+6.6.1. Campo magnético
+6.6.1.1. Na avaliação do campo magnético de uma LTS-CA, devem ser atendidas as determinações da
+regulação federal vigente [4] ou de legislação aplicável, a mais restritiva, considerando os limites para o
+público em geral.
+6.7. Desequilíbrio de tensão
+6.7.1. Uma LTS-CA de circuito simples com formação de cabos diferente do trifólio e comprimento superior
+a 1.000 m deve conter um ciclo completo de transposição de fases.
+6.7.2. Uma LTS-CA de circuito simples com formação de cabos diferente do trifólio e comprimento igual ou
+inferior a 1.000 m, caso os desequilíbrios de tensão de sequência negativa ou zero sejam superiores a 1,5%,
+em vazio e a plena carga que corresponde a LT em regime de longa duração, deve conter um ciclo completo
+de transposição de fases.
+6.7.3. Nos casos de LTS-CA envolvendo mais de um circuito paralelo na mesma rota, deve-se considerar na
+simulação dos desequilíbrios de tensão a influência mútua entre circuitos.
+6.7.4. Os requisitos dos itens 6.7. e 6.7.2. deste submódulo devem ser atendidos também nas instalações
+de LTS-CA que preveem cabo reserva.
+6.7.5. Os desequilíbrios de tensão de sequências negativa e zero de LTAS-CA devem estar limitados a 1,5%,
+em vazio e a plena carga que corresponde a LT em regime de longa duração.
+7. REQUISITOS MECÂNICOS DE LTS-CA
+7.1. Confiabilidade
+7.1.1. O projeto mecânico da LTS-CA deve seguir as recomendações contidas em publicação [12] e em norma
+[13].
+7.2. Cargas mecânicas sobre os cabos
+7.2.1. Os cabos, acessórios e ferragens de fixação devem ser dimensionados para suportar as tensões
+mecânicas decorrentes da dilatação e retração do condutor provocadas pela variação de temperatura
+durante a operação normal da LTS-CA e na ocorrência de curto-circuito.
+7.3. Cargas mecânicas nas estruturas de suporte dos terminais, nos dutos, nas caixas de passagem e nas
+caixas de emenda
+7.3.1. O dimensionamento das estruturas de suporte dos terminais, dutos, caixas de passagem e caixas de
+emenda deve prever, necessariamente, as cargas nas condições mais desfavoráveis de montagem e
+manutenção.
+7.4. Material de envoltória dos cabos
+7.4.1. A especificação do material de envoltória (backfill) dos cabos e de preenchimento das valas deve
+conter, além da resistividade térmica em função da umidade, todos os dados físicos do material, tais como:
+Endereço na internet: http://www.ons.org.br 16 / 18
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para linhas de transmissão 2.7 Requisitos 2026.04 01/05/2026
+tipo de material, granulometria, densidade após compactação, grau de umidade para compactação e
+dimensões da envoltória.
+8. OUTROS REQUISITOS DE LTS-CA E LTAS-CA
+8.1. Uma LTS deve ter, por circuito, um conjunto formado por duto e cabo de fibra ótica instalado ao longo
+da rota para viabilizar os serviços de teleproteção, supervisão e controle e telecomunicação.
+8.2. O trecho subterrâneo de uma LTAS-CA deve ter, por circuito, um conjunto formado por duto e cabo de
+fibra ótica instalado ao longo da rota para viabilizar os serviços de teleproteção, supervisão e controle e
+telecomunicação. O trecho aéreo da LTAS-CA deve ter OPGW distintos para cada conjunto duto e cabo de
+fibra ótica do trecho subterrâneo.
+8.2.1. Uma LTAS-CA originada pela conversão de parte de uma LTA-CA existente em subterrâneo pode ser
+dispensada de atendimento ao que estabelece o item 8.2. caso sejam mantidas na LTAS-CA todas as
+funcionalidades dos sistemas de teleproteção, supervisão e controle e telecomunicação originais da LTA-CA.
+8.3. O agente de transmissão deve encaminhar para análise do ONS o projeto de conversão da LTA-CA em
+LTAS-CA com todos os dados, dimensionamentos, estudos eletromecânicos e o traçado do novo trecho
+subterrâneo, bem como as avaliações de desempenho global da FTLT. O ONS pode solicitar
+complementações ao projeto visando a adequação aos Procedimentos de Rede.
+8.4. Os cabos isolados devem possuir camadas e materiais que impeçam a penetração e migração de
+umidade no seu interior.
+8.5. Nas regiões onde existe a presença de térmitas (cupins), os cabos isolados devem ter capa externa que
+previna e evite a sua perfuração por esses insetos e os possíveis danos associados à corrosão da blindagem
+metálica e à isolação com a penetração de umidade.
+8.6. O projeto executivo deve incluir as diretrizes e recomendações das atividades de georreferenciamento,
+sinalização e defensa dos cabos isolados ao longo da rota para fins de localização e proteção da integridade
+da instalação.
+8.7. O projeto executivo da LTS ou LTAS-CA deve contemplar o dimensionamento de barreira ou sistema de
+proteção que impeça a propagação de fogo nos trechos de cabos isolados não enterrados.
+9. REFERÊNCIAS
+[1] ABNT. Norma Técnica ABNT NBR 7095.
+[2] ABNT. Projeto de linhas aéreas de transmissão de energia elétrica. ABNT NBR 5422, 1985.
+[3] IEC. Selection and dimensioning of high-voltage insulators intended for use in polluted conditions.
+IEC 60815.
+[4] ANEEL. Resolução Normativa ANEEL nº 915, de 23 de fevereiro de 2021.
+[5] IEC. Design criteria of overhead transmission lines. IEC 60826.
+[6] IEC. Overhead lines – Requirements and tests for Stockbridge type aeolian vibration dampers. IEC 61897.
+[7] IEC. Electric cables - Calculation of the current rating - Part 1-1:Current rating equations (100 % load
+factor) and calculation of losses - General. IEC 60287-1-1, 2006+A1:2014.
+[8] IEC. Electric cables – Calculation of the cyclic and emergency current rating of cables. Part 2. IEC 60853-
+2.
+[9] ICEA. Extruded Insulation Power Cables Rated Above 46 Through 500 kV. ICEA S-108-720-2018.
+[10] IEC. Calculation of thermally permissible shot-circuit currents, taking into account non-adiabatic effects.
+IEC 60949.
+Endereço na internet: http://www.ons.org.br 17 / 18
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para linhas de transmissão 2.7 Requisitos 2026.04 01/05/2026
+[11] Association of Edison Illuminating Companies – AEIC. Specifications for Extruded Insulation Power Cables
+and Their Accessories Rated above 46 kV through 345 kV. AEIC CS9 2nd Edition, 2015.
+[12] AEIC. Underground Extruded Power Cable Pulling Guide. AEIC CG5 3rd Edition, 2015.
+[13] IEC. Cable Cleats for Electrical Installations. IEC 61914.
+[14] Cigré. Statistics of AC underground cables in power networks (Apêndice C). Technical Brochure Cigré
+nº 338.
+[15] IEC. Power cables with extruded insulation and their accessories for rated voltages above 150 kV (Um =
+170 kV) up to 500 kV (Um = 550 kV) – Test methods and requirements. IEC 62067.
+[16] IEEE Standards Association. National Electrical Safety Code. NESC.
+Endereço na internet: http://www.ons.org.br 18 / 18

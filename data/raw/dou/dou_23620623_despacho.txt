@@ -1,0 +1,17 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 25/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=25/02/2026&jornal=515&pagina=93
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Superintendência de Outorga de Títulos Minerários
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Fase de Requerimento de Pesquisa
+Indefere de plano o Requerimento de Autorização de Pesquisa(101)
+48062.870361/2026-65-JERIBA MINERACAO DE PEDRAS ORNAMENTAIS, EXTRACAO, IMPORTACAO E EXPORTACAO LTDA (Documento SEI: 19190811)
+André Elias Marques
+Superintendente

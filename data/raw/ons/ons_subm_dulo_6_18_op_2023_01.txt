@@ -1,0 +1,434 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.18-OP_2023.01
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.18-OP_2023.01.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.18
+Auditagem dos dados de entrada do
+PMO e suas revisões semanais, dos
+dados de entrada para formação do
+CMO em base semi-horária e dos dados
+de geração apurados
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2023.01 Resolução Normativa ANEEL nº 26/09/2023
+1.075/2023
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Auditagem dos dados de entrada do PMO e
+suas revisões semanais, dos dados de entrada
+6.18 Operacional 2023.01 04/12/2023
+para formação do CMO em base semi-horária e
+dos dados de geração apurados
+ÍNDICE
+1. DIRETRIZES GERAIS..........................................................................................................................3
+2. AUDITAGEM DOS DADOS DE ENTRADA DO PMO E SUAS REVISÕES SEMANAIS................................4
+2.1. Escopo do trabalho de auditagem.................................................................................................4
+2.2. Informações mínimas auditadas...................................................................................................5
+2.3. Resultados do processo de auditagem..........................................................................................5
+3. AUDITAGEM DOS DADOS DE ENTRADA DA FORMAÇÃO DO CMO EM BASE SEMI-HORÁRIA.............6
+3.1. Escopo do trabalho de auditagem.................................................................................................6
+3.2. Informações mínimas auditadas...................................................................................................6
+3.3. Resultados do processo de auditagem..........................................................................................6
+4. AUDITAGEM DOS DADOS DE GERAÇÃO APURADOS PELO ONS COM IMPACTO NO PLANEJAMENTO
+ELETROENERGÉTICO E NA CONTABILIZAÇÃO DA CCEE......................................................................7
+4.1. Escopo do trabalho de auditagem.................................................................................................7
+4.2. Informações mínimas a serem auditadas......................................................................................7
+4.3. Resultados do processo de auditagem..........................................................................................7
+5. ANEXOS...........................................................................................................................................8
+6. REFERÊNCIAS...................................................................................................................................8
+Endereço na internet: http://www.ons.org.br 2 / 13
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Auditagem dos dados de entrada do PMO e
+suas revisões semanais, dos dados de entrada
+6.18 Operacional 2023.01 04/12/2023
+para formação do CMO em base semi-horária e
+dos dados de geração apurados
+1. DIRETRIZES GERAIS
+1.1. O Operador Nacional do Sistema Elétrico – ONS é responsável pela contratação de empresa de auditoria
+independente, devidamente credenciada na Comissão de Valores Mobiliários – CVM, para auditagem de
+informações e dados dos seguintes processos:
+(a) Elaboração do Programa Mensal da Operação Energética (PMO) e suas revisões semanais,
+estabelecido conforme Submódulo 4.3 – Programação Mensal da Operação Energética;
+(b) Formação do Custo Marginal de Operação (CMO) em base semi-horária, estabelecido conforme
+Submódulo 4.5 – Programação Diária da Operação; e
+(c) Apuração de dados de geração, e o respectivos sistemas utilizados, conforme Submódulo 6.5 –
+Apuração da geração e de indisponibilidade de empreendimentos de geração, que impactam no
+planejamento eletroenergético e na contabilização da Câmara de Comercialização de Energia Elétrica
+– CCEE.
+1.1.1. O prazo do contrato da auditoria independente para a mesma empresa é limitado a 5 anos
+consecutivos.
+1.2. As atribuições da empresa de auditoria independente são:
+(a) Atender, a qualquer tempo, às solicitações de esclarecimentos sobre os trabalhos por ela
+desenvolvidos formulados pela Agência Nacional de Energia Elétrica – ANEEL.
+(b) Verificar se o conjunto de dados utilizados nos processos está conforme as definições contidas nos
+Procedimentos de Rede e na regulamentação vigente, referente à descrição do dado, à forma de envio
+e aos prazos estabelecidos.
+(c) Auditar os dados de entrada do PMO e suas revisões semanais, conforme estabelecido no item 2.
+(d) Auditar os dados de entrada para formação do CMO em base semi-horária, conforme estabelecido
+no item 3.
+(e) Auditar os dados de geração apurados pelo ONS, e os respectivos sistemas utilizados, que impactam
+no planejamento eletroenergético e na contabilização da CCEE, conforme estabelecido no item 4.
+(f) Emitir relatórios, para cada auditoria realizada, atestando a adequação dos dados ao estabelecido nos
+Procedimentos de Rede e na regulamentação vigente, indicando, quando aplicável, as “não
+conformidades” encontradas.
+1.3. O processo de auditoria é executado de modo a impedir o acesso indevido de terceiros, prevenindo
+fraudes ou violações.
+1.4. Os testes de auditagem são realizados pela auditoria independente e, para fins de validação, as dúvidas
+são esclarecidas pelo ONS, sendo documentado todo o processo.
+1.5. Os resultados de cada auditoria realizada são apresentados em relatórios de Asseguração Razoável
+emitido pela auditoria independente, conforme normas e procedimentos de asseguração reconhecidos por
+órgão competente para disciplinar esta matéria.
+Endereço na internet: http://www.ons.org.br 3 / 13
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Auditagem dos dados de entrada do PMO e
+suas revisões semanais, dos dados de entrada
+6.18 Operacional 2023.01 04/12/2023
+para formação do CMO em base semi-horária e
+dos dados de geração apurados
+1.5.1. O auditor atesta a correta utilização dos dados enviados pelos Agentes e dos dados obtidos
+internamente ao ONS, verificando a integridade e consistência entre esses dados e aqueles considerados
+pelo ONS quando da elaboração do PMO e suas revisões semanais, da formação do CMO em base semi-
+horária e quando da apuração dos dados de geração com impacto no planejamento eletroenergético e na
+contabilização da CCEE.
+1.5.2. As “não conformidades” encontradas, definidas como qualquer dado em desacordo com os
+Procedimentos de Rede e regulamentação vigente, são documentadas no relatório de Asseguração Razoável.
+1.5.3. Os relatórios de Asseguração Razoável são disponibilizados no site público do ONS e disponibilizados
+à ANEEL até o último dia útil do mês subsequente ao mês operativo.
+1.6. A auditoria independente emite, anualmente, relatório de consolidação de todos os relatórios mensais
+referentes aos Serviços de Asseguração.
+1.6.1. O ONS encaminha o relatório anual para análise do Conselho de Administração.
+1.6.2. O Conselho de Administração envia o relatório anual para deliberação da Assembleia Geral conforme
+estabelecido no Estatuto do ONS.
+2. AUDITAGEM DOS DADOS DE ENTRADA DO PMO E SUAS REVISÕES SEMANAIS
+2.1. Escopo do trabalho de auditagem
+2.1.1. O PMO, conforme Submódulo 4.3, elaborado com a utilização dos modelos de otimização de médio
+prazo e de curto prazo, é definido em base mensal e revisto semanalmente.
+2.1.1.1. As revisões semanais do PMO são estabelecidas através da atualização das informações para a
+previsão de vazões e demais dados de entrada do modelo de otimização de curto prazo.
+2.1.2. A auditagem dos dados de entrada do PMO compreende todo o universo de dados envolvidos no
+processo, em especial, os dados de entrada do modelo de otimização de médio prazo, dos modelos de
+previsão de vazões e do modelo de otimização de curto prazo, considerando:
+(a) análise da procedência das informações;
+(b) prazo do recebimento dessas informações;
+(c) formalidade envolvida no processo de obtenção das informações e processamento;
+(d) consonância das informações obtidas com as regulamentações vigentes;
+(e) utilização dos modelos de previsão de vazão aprovados pela ANEEL;
+(f) utilização do modelo de médio prazo, geração de séries sintéticas e do modelo de curto prazo,
+conforme versões autorizadas pela ANEEL; e
+(g) consonâncias das atividades de processamento das informações até a efetiva inserção das mesmas
+nos modelos computacionais utilizados nos processos.
+2.1.3. A auditoria dos dados de entrada do PMO e suas revisões semanais é realizada mensalmente.
+2.1.3.1. Para o modelo previsão de vazões e o modelo de curto prazo, os dados são auditados para todas as
+revisões semanais.
+2.1.3.2. Para o modelo de médio prazo, a auditagem dos dados é realizada da seguinte forma:
+Endereço na internet: http://www.ons.org.br 4 / 13
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Auditagem dos dados de entrada do PMO e
+suas revisões semanais, dos dados de entrada
+6.18 Operacional 2023.01 04/12/2023
+para formação do CMO em base semi-horária e
+dos dados de geração apurados
+(a) Nas revisões quadrimestrais todos os dados são auditados.
+(1) nos meses que não coincidem com as revisões quadrimestrais, todos os dados são
+auditados, exceto àqueles que não tenham previsão de alteração em relação ao mês
+imediatamente anterior auditado. Nos casos extraordinários, a auditoria independente
+aplica a melhor prática vigente, considerando o registro documental pertinente.
+(2) Para os dados que não tenham previsão de alteração em relação ao mês imediatamente
+anterior auditado, a auditoria independente compara os dados entre o mês anterior
+auditado e o mês atual em processo de auditoria. Exclusivamente para estes dados, não há
+obrigação de verificar a procedência das informações que serão processadas.
+2.2. Informações mínimas auditadas
+2.2.1. O Anexo A apresenta as informações mínimas auditadas do PMO e suas revisões semanais.
+2.2.1.1. As informações listadas não compreendem o universo total de informações auditadas, sendo
+responsabilidade da auditoria independente a auditagem do universo total de informações.
+2.2.1.2. A lista de informações mínimas auditadas é revista anualmente para fins de validação de escopo de
+auditoria.
+2.3. Resultados do processo de auditagem
+2.3.1. A auditoria independente emite, no mínimo, os seguintes relatórios como resultado do processo de
+auditagem dos dados de entrada do PMO e suas revisões semanais:
+(a) Relatório Mensal referente aos Serviços de Asseguração dos dados de entrada do PMO e suas revisões
+semanais, contendo:
+(1) descrição em detalhes do método utilizado no processo de auditagem dos dados de entrada do
+PMO e suas revisões semanais;
+(1) escopo dos trabalhos executados;
+(2) equipe técnica envolvida no processo de auditagem;
+(3) dificuldades encontradas durante o processo de auditagem;
+(4) recomendações relacionadas a execução dos próximos trabalhos de auditagem;
+(5) conclusões acerca da auditagem realizada, e;
+(6) “não conformidades” encontradas, quando aplicável, e suas possíveis causas.
+(b) Relatório de Asseguração Razoável dos dados de entrada do PMO e suas revisões semanais:
+documento que certifica que a empresa de auditoria, dentro de uma determinada metodologia de
+auditagem de dados plenamente reconhecida por órgão competente para disciplinar essa matéria,
+auditou todos os dados de entrada daquele PMO e suas revisões semanais, bem como cita as não
+conformidades encontradas.
+3. AUDITAGEM DOS DADOS DE ENTRADA PARA FORMAÇÃO DO CMO EM BASE SEMI-HORÁRIA
+3.1. Escopo do trabalho de auditagem
+Endereço na internet: http://www.ons.org.br 5 / 13
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Auditagem dos dados de entrada do PMO e
+suas revisões semanais, dos dados de entrada
+6.18 Operacional 2023.01 04/12/2023
+para formação do CMO em base semi-horária e
+dos dados de geração apurados
+3.1.1. O CMO em base semi-horária é definido diariamente com a utilização do modelo de otimização de
+curtíssimo prazo, conforme Submódulo 4.5.
+3.1.2. A auditagem dos dados de entrada para formação do CMO em base semi-horária é realizada
+mensalmente e envolve:
+(a) análise da procedência das informações;
+(b) prazo do recebimento dessas informações;
+(c) formalidade envolvida no processo de obtenção das informações e processamento;
+(d) consonância das informações obtidas com as normas legais e regulamentos vigentes;
+(e) utilização dos modelos de previsão de vazão aprovados pela ANEEL;
+(f) utilização do modelo de curtíssimo prazo conforme versão autorizada pela ANEEL; e
+(g) consonâncias das atividades de processamento dessas informações até a efetiva inserção das mesmas
+nos modelos computacionais utilizados nos processos.
+3.2. Informações mínimas auditadas
+3.2.1. O Anexo B apresenta as informações mínimas auditadas na formação do CMO em base semi-horária.
+3.2.1.1. As informações listadas não compreendem o universo total de informações auditadas, sendo
+responsabilidade da auditoria independente a auditagem do universo total de informações.
+3.2.1.2. A lista de informações mínimas auditadas é revista anualmente para fins de validação de escopo de
+auditoria.
+3.3. Resultados do processo de auditagem
+3.3.1. A auditoria independente emite, no mínimo, os seguintes relatórios como resultado do processo de
+auditagem dos dados de entrada da formação do CMO em base semi-horária:
+(a) Relatório Mensal referente aos Serviços de Asseguração dos dados de entrada para formação do CMO
+em base semi-horária, contendo:
+(1) descrição em detalhes do método utilizado no processo de auditagem dos dados de entrada para
+formação do CMO em base semi-horária;
+(2) escopo dos trabalhos executados;
+(3) equipe técnica envolvida no processo de auditagem;
+(4) dificuldades encontradas durante o processo de auditagem;
+(5) recomendações relacionadas a execução dos próximos trabalhos de auditagem;
+(6) conclusões acerca da auditagem realizada, e;
+(7) “não conformidades” encontradas, quando aplicável, e suas possíveis causas.
+(b) Relatório de Asseguração Razoável dos dados de entrada para formação do CMO em base semi-
+horária: documento que certifica que a empresa de auditoria, dentro de uma determinada
+metodologia de auditagem de dados plenamente reconhecida por órgão competente para disciplinar
+essa matéria, auditou todos os dados de entrada para formação do CMO em base semi-horária, bem
+como cita as não conformidades encontradas.
+Endereço na internet: http://www.ons.org.br 6 / 13
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Auditagem dos dados de entrada do PMO e
+suas revisões semanais, dos dados de entrada
+6.18 Operacional 2023.01 04/12/2023
+para formação do CMO em base semi-horária e
+dos dados de geração apurados
+4. AUDITAGEM DOS DADOS DE GERAÇÃO APURADOS PELO ONS COM IMPACTO NO PLANEJAMENTO
+ELETROENERGÉTICO E NA CONTABILIZAÇÃO DA CCEE
+4.1. Escopo do trabalho de auditagem
+4.1.1. Os dados de geração apurados pelo ONS, conforme Submódulo 6.5, que impactam no planejamento
+eletroenergético e na contabilização da CCEE, são obtidos pelos seguintes processos:
+(a) apuração dos dados de geração de energia; e
+(b) apuração de mudanças de estados operativos de unidades geradoras e Interligações Internacionais.
+4.1.2. A auditagem dos dados com impacto no planejamento eletroenergético e na contabilização da CCEE,
+realizada mensalmente, compreende atestar a correta implementação das regras utilizadas na apuração,
+contidas nos sistemas de apuração específicos.
+4.1.2.1. Para a validação inicial das regras e para as auditorias posteriores, realizadas quando da
+implementação de alguma alteração, os dados de entrada utilizados são aqueles adotados no último
+processo de apuração realizado.
+4.1.3. O auditor, para validação das regras de apuração, desenha cenários e roteiros de teste, para diversas
+situações distintas, e as implementa em um sistema próprio que seja “espelho” dos sistemas utilizados pelo
+ONS, a partir da verificação da correta implementação conforme regulamentação vigente e Procedimentos
+de Rede.
+4.2. Informações mínimas a serem auditadas
+4.2.1. O Anexo C apresenta as informações mínimas auditadas relacionadas aos dados apurados pelo ONS
+com impacto no planejamento eletroenergético e na contabilização da CCEE.
+4.2.1.1. As informações listadas não compreendem o universo total de informações auditadas, sendo
+responsabilidade da auditoria independente a auditagem do universo total de informações.
+4.2.1.2. A lista de informações mínimas auditadas é revista anualmente para fins de validação de escopo de
+auditoria.
+4.3. Resultados do processo de auditagem
+4.3.1. A auditoria independente emite, no mínimo, os seguintes relatórios como resultado do processo de
+auditagem dos dados apurados e sistemas utilizados pelo ONS com impacto no planejamento
+eletroenergético e contabilização da CCEE:
+(a) Relatório Mensal referente aos Serviços de Asseguração dos dados apurados pelo ONS, contendo:
+(1) descrição em detalhes do método utilizado no processo de auditagem dos dados apurados pelo
+ONS que impactam no planejamento eletroenergético e na contabilização da CCEE;
+(2) escopo dos trabalhos executados;
+(3) equipe técnica envolvida no processo de auditagem;
+(4) dificuldades encontradas durante o processo de auditagem;
+(5) recomendações relacionadas a execução dos próximos trabalhos de auditagem;
+(6) conclusões acerca da auditagem realizada, e;
+Endereço na internet: http://www.ons.org.br 7 / 13
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Auditagem dos dados de entrada do PMO e
+suas revisões semanais, dos dados de entrada
+6.18 Operacional 2023.01 04/12/2023
+para formação do CMO em base semi-horária e
+dos dados de geração apurados
+(7) “não conformidades” encontradas, quando aplicável, e suas possíveis causas.
+(b) Relatório de Asseguração Razoável dos dados apurados pelo ONS: documento que certifica que a
+empresa de auditoria, dentro de uma determinada metodologia de auditagem de dados plenamente
+reconhecida por órgão competente para disciplinar essa matéria, auditou todos os dados apurados
+pelo ONS, bem como cita as não conformidades encontradas.
+5. ANEXOS
+ANEXO A – Informações mínimas auditadas no PMO e suas revisões semanais
+ANEXO B – Informações mínimas auditadas na formação do CMO em base semi-horária
+ANEXO C – Informações mínimas auditadas dos dados de geração apurados pelo ONS com impacto no
+planejamento eletroenergético e contabilização da CCEE
+6. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa nº 1.033, de 26 de julho de 2022.
+ANEXO A – Informações mínimas auditadas no PMO e suas revisões semanais
+INFORMAÇÕES MÍNIMAS AUDITADAS NO PMO E SUAS REVISÕES SEMANAIS
+Previsão de carga ativa global mensal, por patamar de carga e por subsistema
+Duração em horas dos patamares de carga de energia mensal1
+Duração em horas dos patamares de carga de energia semanal
+Profundidade dos patamares de carga de energia
+Endereço na internet: http://www.ons.org.br 8 / 13
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Auditagem dos dados de entrada do PMO e
+suas revisões semanais, dos dados de entrada
+6.18 Operacional 2023.01 04/12/2023
+para formação do CMO em base semi-horária e
+dos dados de geração apurados
+INFORMAÇÕES MÍNIMAS AUDITADAS NO PMO E SUAS REVISÕES SEMANAIS
+Cronograma de expansão da oferta
+Cronograma de enchimento do volume morto de novos reservatórios
+Percentual de enchimento de volume morto dos reservatórios
+Despacho ANEEL para entrada em operação comercial de usinas
+Armazenamento previsto para os reservatórios para a zero hora da semana operativa
+Volumes de espera atualizados
+Vazões de uso consuntivos da água e taxas de evaporação atualizados2
+Dados para a previsão de vazão
+Previsão de vazão encaminhada pelos agentes
+Arquivo de vazões
+Restrições operativas atualizadas
+Restrições operativas de Usinas Hidroelétricas (UHE) não tratadas no Submódulo 4.7 - Atualização de
+informações sobre restrições hidráulicas dos aproveitamentos hidroelétricos, que limitem a defluência
+mínima e/ou máxima de seus reservatórios
+Restrições operativas de UHE não tratadas no Submódulo 4.7 que limitem o armazenamento mínimo e/ou
+máximo em seus reservatórios
+Restrição Elétrica em UHE (Geração Mínima/Máxima)
+Séries históricas de vazões mensais
+Cronograma de manutenção de unidades geradoras de usinas simuladas individualmente
+Penalidade por violação de usos múltiplos e de volume mínimo
+Função Custo de Déficit e taxa de desconto aprovados pela ANEEL2
+Mecanismos de Aversão a Risco (CVAR) aprovados pela ANEEL e armazenamento mínimo por Reservatório
+Equivalente de Energia (REE) 2
+Carga de energia da Administración Nacional de Electricidad – ANDE por patamar de carga
+Consumo interno da UHE Itaipu 50 Hz por patamar de carga
+Nível do canal de fuga da UHE Tucuruí
+Geração mínima, por razões de confiabilidade elétrica, de UHE simuladas individualmente
+Endereço na internet: http://www.ons.org.br 9 / 13
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Auditagem dos dados de entrada do PMO e
+suas revisões semanais, dos dados de entrada
+6.18 Operacional 2023.01 04/12/2023
+para formação do CMO em base semi-horária e
+dos dados de geração apurados
+INFORMAÇÕES MÍNIMAS AUDITADAS NO PMO E SUAS REVISÕES SEMANAIS
+Dados técnicos de empreendimentos de geração existentes e futuros1
+Cronograma de repotenciação e de desativação de usinas1
+Custo Variável Unitário (CVU) de usinas termelétricas (UTE) existentes ou futuras simuladas individualmente
+Relação de usinas vendedoras nos leilões de energia com montantes contratados e CVU associado1
+Geração máxima mensal de energia de UTE, existentes ou futuras simuladas individualmente1
+Geração média mensal predefinida para as UTE submetidas a mecanismos de despacho antecipado simuladas
+individualmente
+Disponibilidade líquida abatida manutenção/restrição operativa das UTE existentes e futuras simuladas
+individualmente
+Geração térmica por razões elétricas1
+Inflexibilidade mensal de usinas termelétricas existentes ou futuras simuladas individualmente1
+Inflexibilidade semanal de usinas termelétricas existentes ou futuras simuladas individualmente
+Valores apurados das taxas equivalentes de indisponibilidade forçada e programada (TEIFa e TEIP ) 2
+oper oper
+Limites de transmissão entre os subsistemas do SIN e cronograma de obras de transmissão que impactam
+esses limites1
+Configuração de usinas simuladas individualmente para o 1º mês e 2º mês
+Estimativa do montante líquido semanal e mensal de energia das usinas não simuladas individualmente
+Relação de usinas existentes não despachadas centralizadamente2
+Despacho de atualização da versão dos modelos computacionais2
+1 Dados auditados, para o modelo de médio prazo, na revisão quadrimestral.
+2 Dados auditados, para o modelo de médio prazo, anualmente.
+ANEXO B – Informações mínimas auditadas na formação do CMO em base semi-horária
+INFORMAÇÕES MÍNIMAS AUDITADAS NA FORMAÇÃO DO CMO EM BASE SEMI-HORÁRIA
+Previsão de carga de energia
+Carga de energia da ANDE e consumo interno, por patamar de carga
+Cronograma de enchimento do volume morto de novos reservatórios
+Percentual de enchimento de volume morto dos reservatórios
+Endereço na internet: http://www.ons.org.br 10 / 13
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Auditagem dos dados de entrada do PMO e
+suas revisões semanais, dos dados de entrada
+6.18 Operacional 2023.01 04/12/2023
+para formação do CMO em base semi-horária e
+dos dados de geração apurados
+INFORMAÇÕES MÍNIMAS AUDITADAS NA FORMAÇÃO DO CMO EM BASE SEMI-HORÁRIA
+Despacho ANEEL para entrada em operação comercial de unidades geradoras
+Armazenamento previsto para os reservatórios para a zero hora do primeiro dia a ser programado
+Volumes de espera atualizados
+Vazões de uso consuntivos da água e taxas de evaporação
+Dados para a previsão de vazões
+Arquivo de vazões anteriores ao estudo considerando tempo de viagem
+Dados cadastrais de aproveitamentos hidroelétricos
+Restrições operativas hidráulicas
+CVU das usinas termelétricas simuladas individualmente
+Inflexibilidades e disponibilidades das usinas termelétricas simuladas
+Dados de Unit Commitment das usinas termelétricas (dados cadastrais e rampas de acionamento e
+desligamento)
+Geração média predefinida para as usinas termoelétricas submetidas a mecanismos de despacho antecipado
+(GNL)
+Manutenção de unidades geradoras de UTE e UHE simuladas individualmente
+Restrições elétricas considerando a modelagem detalhada da rede
+Restrições elétricas considerando a modelagem simplificada da rede, para o horizonte sem representação da
+rede elétrica
+Discretização do horizonte de estudo
+Função Custo de déficit aprovado pela ANEEL
+Geração de usinas não simuladas individualmente que tem injeção de energia na rede elétrica
+Previsão de geração eólica e solar não simuladas individualmente e não tipo III (UEE/UFV)
+Restrições de geração mínima e máxima UHE/UTE
+Endereço na internet: http://www.ons.org.br 11 / 13
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Auditagem dos dados de entrada do PMO e
+suas revisões semanais, dos dados de entrada
+6.18 Operacional 2023.01 04/12/2023
+para formação do CMO em base semi-horária e
+dos dados de geração apurados
+ANEXO C – Informações mínimas auditadas dos dados de geração apurados pelo ONS com impacto
+no planejamento eletroenergético e na contabilização da CCEE
+INFORMAÇÕES MÍNIMAS AUDITADAS DOS DADOS DE GERAÇÃO APURADOS PELO ONS COM IMPACTO NO
+PLANEJAMENTO ELETROENERGÉTICO E NA CONTABILIZAÇÃO DA CCEE
+Evento de entrada em operação comercial de unidades geradoras
+Eventos de mudanças de estados operativos de UG
+Dados de geração programados, verificados e reprogramados de fonte térmica
+Dados de geração programados, verificados e reprogramados de fonte eólica
+Endereço na internet: http://www.ons.org.br 12 / 13
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Auditagem dos dados de entrada do PMO e
+suas revisões semanais, dos dados de entrada
+6.18 Operacional 2023.01 04/12/2023
+para formação do CMO em base semi-horária e
+dos dados de geração apurados
+Disponibilidade obtida da apuração de mudanças de estados operativos de UG e de interligação internacional
+– fechamento mensal
+Indisponibilidade por descumprimento da inflexibilidade declarada
+Inflexibilidade apurada obtida a partir da consolidação mensal de dados de geração – fechamento mensal
+Montante de geração não atendida por falta de combustível obtida a partir da consolidação mensal de dados
+de geração – fechamento mensal
+Montante de geração por usina despachada para exportação obtida a partir da consolidação mensal de dados
+de geração – fechamento mensal
+Montantes verificados de intercâmbio internacional – fechamento mensal
+Aplicação das regras estabelecidas em [1] para apuração de indisponibilidades para cálculo das taxas TEIFa e
+TEIP
+Valores apurados das taxas equivalentes de indisponibilidade forçada e programada (TEIFa e TEIP )1
+oper oper
+Eventos de UG representando a operação como compensador Síncrono, por solicitação do ONS, para
+prestação de serviço ancilar de suporte de reativo
+Valores apurados de TEIFa e TEIP de UHE, conforme [1]
+Valores apurados de TEIFa e TEIP de UTE1, conforme [1]
+Indisponibilidade por descumprimento da inflexibilidade declarada1, conforme [1]
+1 Dados auditados anualmente
+Endereço na internet: http://www.ons.org.br 13 / 13

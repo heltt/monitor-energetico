@@ -1,0 +1,191 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Súbmodulo 5.1-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Súbmodulo 5.1-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 5.1
+Operação do Sistema e das instalações
+da Rede de Operação
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação do Sistema e das instalações da Rede
+5.1 Responsabilidades 2020.12 01/01/2021
+de Operação
+ÍNDICE
+1. OBJETIVO ..................................................................................................................................... 3
+2. PRODUTOS ................................................................................................................................... 3
+3. RESPONSABILIDADES .................................................................................................................... 3
+3.1. Operador Nacional do Sistema Elétrico – ONS .............................................................................. 3
+3.2. Centro Nacional de Operação do Sistema – CNOS ........................................................................ 3
+3.3. Centros de Operação do Sistema – COSR ...................................................................................... 4
+3.4. Agentes de operação ..................................................................................................................... 4
+3.5. Agentes de geração ....................................................................................................................... 6
+3.6. Agentes de transmissão, de distribuição, exportadores, importadores e consumidores livres e
+potencialmente livres cujas instalações estejam conectadas à Rede Básica ................................ 6
+4. PRAZOS ........................................................................................................................................ 6
+5. REFERÊNCIAS ................................................................................................................................ 6
+Endereço na internet: http://www.ons.org.br 2 / 6
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação do Sistema e das instalações da Rede
+5.1 Responsabilidades 2020.12 01/01/2021
+de Operação
+1. OBJETIVO
+1.1. Estabelecer as responsabilidades do ONS e dos agentes envolvidos, os produtos, os prazos e as etapas
+referentes aos processos de Operação do sistema do sistema e das instalações da Rede de Operação,
+compreendendo a definição da hierarquia e do relacionamento operacional.
+2. PRODUTOS
+2.1. Não há produtos neste submódulo.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Coordenar, supervisionar e controlar a operação da Rede de Operação, por meio da determinação
+de ações aos interlocutores designados pelos agentes para operação das instalações que a compõem.
+(b) Supervisionar, controlar, comandar e executar as alterações de potência gerada nas unidades
+geradoras via Controle Automático de Geração (CAG).
+(c) Obter informações, internamente e junto aos agentes de operação, necessárias à coordenação,
+supervisão e controle da operação de instalações.
+(d) Supervisionar a atuação e, quando aplicável, controlar o modo de operação e dos Sistemas Especiais
+de Proteção (SEP).
+(e) Coordenar, supervisionar e controlar a geração de usinas fora do CAG.
+(f) Elaborar, atualizar e disponibilizar para os agentes de operação as instruções de operação com
+procedimentos específicos de sistema para cada instalação no que tange aos aspectos sob
+responsabilidade do ONS na Rede de Operação.
+(g) Informar aos agentes de operação as condições da Rede de Operação que causem reflexos na
+operação das instalações.
+3.2. Centro Nacional de Operação do Sistema – CNOS
+(a) Coordenar, supervisionar e controlar a Rede de Operação.
+(b) Coordenar, supervisionar e controlar as interligações internacionais e supranacionais.
+(c) Coordenar, supervisionar e controlar as ações para assegurar a otimização energética e a segurança
+operacional do sistema.
+(d) Coordenar, supervisionar e controlar a operação de reservatórios das bacias hidrográficas onde se
+localizam as usinas da Rede de Operação.
+(e) Coordenar, supervisionar e controlar a programação e reprogramações do despacho de geração das
+usinas da Rede de Operação e dos intercâmbios entre regiões e internacionais.
+(f) Coordenar e controlar a operação dos CAG dos centros de operação do ONS.
+Endereço na internet: http://www.ons.org.br 3 / 6
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação do Sistema e das instalações da Rede
+5.1 Responsabilidades 2020.12 01/01/2021
+de Operação
+(g) Indicar o centro do ONS responsável pelo relacionamento operacional com os agentes de operação
+relativos às instalações da Rede de Operação.
+(h) Informar aos centros de operação de outros países ou supranacionais as condições para programação
+ou reprogramação de intercâmbio de energia através das interligações internacionais, constantes no
+PDO ou nos documentos operativos do Manual de Procedimentos da Operação (MPO); e os eventos
+em tempo real na Rede de Operação, que alterem a programação ou reprogramação destes
+intercâmbios.
+3.3. Centros de Operação do Sistema – COSR
+(a) Supervisionar e controlar a Rede de Operação Sistêmica por delegação do CNOS.
+(b) Coordenar, supervisionar e controlar a Rede de Operação Regional, nas suas respectivas áreas de
+atuação.
+(c) Supervisionar e controlar a operação de reservatórios das bacias hidrográficas onde se localizam as
+usinas da Rede de Operação, sob coordenação do CNOS ou por delegação deste.
+(d) Supervisionar, controlar, comandar e executar, por meio do CAG, as alterações de geração das usinas
+da Rede de Operação em cumprimento às programações e/ou reprogramações definidas pelo CNOS.
+(e) Supervisionar e controlar as alterações de geração das usinas da Rede de Operação que não estejam
+controladas por um CAG, em cumprimento às programações e/ou reprogramações definidas pelo
+CNOS.
+(f) Supervisionar e controlar as interligações internacionais e supranacionais, conforme definido pelo
+CNOS.
+(g) Manter os agentes de operação atualizados quanto aos contatos do centro de operação do ONS.
+(h) Informar aos agentes de operação com os quais se relacionam toda e qualquer situação operativa
+que venha a interferir na operação das instalações; os desvios das condições atuais registradas no
+sistema de supervisão, caso as ações ainda não estejam sendo tomadas pelos agentes de operação; e
+o retorno às condições normais de operação após contingências ou emergências na Rede de
+Operação.
+3.4. Agentes de operação
+(a) Supervisionar, comandar e executar as ações determinadas pelos centros de operação do ONS para
+a operação da instalação.
+(b) Supervisionar, comandar e executar a operação das instalações que compõem a Rede de Operação
+por meio de estruturas de operação próprias, em conformidade com os procedimentos operativos
+definidos no (MPO).
+(c) Controlar os níveis de tensão de operação das usinas da Rede de Operação conectadas em instalações
+que não pertencem à Rede Básica ou à Rede Complementar, de forma coordenada com os demais
+agentes de operação envolvidos.
+Endereço na internet: http://www.ons.org.br 4 / 6
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação do Sistema e das instalações da Rede
+5.1 Responsabilidades 2020.12 01/01/2021
+de Operação
+(d) Supervisionar e controlar os níveis de tensão de barramentos de secundário de transformadores da
+Rede de Operação quando essa responsabilidade estiver estabelecida em instrução de operação do
+ONS.
+(e) Informar ao ONS:
+(1) qualquer alteração nos limites e restrições operacionais de seus equipamentos e linhas de
+transmissão da Rede de Operação ou que afetem a Rede de Operação;
+(2) eventuais restrições operacionais ou para energização de equipamentos e linhas de transmissão;
+(3) as condições e o número de tentativas para religamento de equipamentos e linhas de
+transmissão;
+(4) a indisponibilidade de equipamentos e linhas de transmissão da Rede de Operação;
+(5) a impossibilidade de atendimento às orientações ou às determinações operacionais do centro de
+operação do ONS relativas à Rede de Operação;
+(6) e as ocorrências em equipamentos e linhas de transmissão da Rede de Operação, as condições
+dos equipamentos e linhas de transmissão após a ocorrência bem como informações
+preliminares sobre sua origem e atuação de proteções.
+(f) Caracterizar para o centro de operação do ONS com o qual se relaciona as condições de emergência
+na instalação, sempre que houver, e adotar imediatamente os procedimentos pertinentes.
+(g) Comunicar de imediato ao centro de operação do ONS com o qual se relaciona os desligamentos de
+emergência efetuados pelos operadores das instalações, em função da existência de risco iminente
+para a segurança da instalação ou de terceiros.
+(h) Dispor no local responsável pela realização da execução da operação da instalação de equipes de
+operadores que trabalhem em regime de turno ininterrupto, dimensionada de forma compatível com
+as atividades a serem executadas;
+(i) Capacitar os operadores dos centros de controle e das instalações nos assuntos de interesse da Rede
+de Operação, definidos pelo ONS.
+(j) Implantar, nas instalações de sua propriedade, os procedimentos definidos nas instruções de
+operação do ONS.
+(k) Elaborar e manter atualizado o manual de operação de suas instalações, em conformidade com os
+procedimentos estabelecidos no MPO.
+(l) Disponibilizar para o ONS, quando solicitadas, as instruções de operação de instalação elaboradas
+pelos agentes de operação.
+(m) Designar e disponibilizar interlocutor(es) para efetuar a troca de informações de forma clara e
+padronizada, em tempo real, com um centro de operação do ONS.
+(n) Designar interlocutores para ser responsáveis por tratativas referentes às atividades de normatização,
+programação, ou pós-operação.
+Endereço na internet: http://www.ons.org.br 5 / 6
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação do Sistema e das instalações da Rede
+5.1 Responsabilidades 2020.12 01/01/2021
+de Operação
+(o) Prestar, em tempo real, todas as informações ao centro de operação do ONS com o qual se relaciona
+sobre quaisquer situações operativas nas suas instalações que possam vir a ter influência na Rede de
+Operação do ONS.
+(p) Coordenar, supervisionar, controlar, comandar e executar as ações operativas nas instalações não
+integrantes da Rede de Operação, resguardados os casos em que há ajustamentos operativos
+firmados entre o ONS e os agentes envolvidos ou que o processo operativo sistêmico assim o
+demandar.
+3.5. Agentes de geração
+(a) Supervisionar, comandar e executar as alterações de geração nas suas usinas da Rede de Operação
+que não estejam conectadas a um CAG, para cumprimento do Programa Diário de Operação (PDO),
+atendendo a determinações do centro de operação do ONS com o qual se relaciona.
+(b) Supervisionar, comandar e executar a operação dos reservatórios sob sua responsabilidade.
+3.6. Agentes de transmissão, de distribuição, exportadores, importadores e consumidores livres e
+potencialmente livres cujas instalações estejam conectadas à Rede Básica
+(a) Coordenar, supervisionar, controlar, comandar e executar as ações operativas nas instalações não
+integrantes da Rede de Operação.
+(b) Executar as ações estabelecidas nos documentos operativos do MPO para o gerenciamento da
+carga.
+4. PRAZOS
+Quadro 1 – Prazos para operação do sistema e das instalações
+Atividade Responsável Prazo Periodicidade Observação
+90 dias de antecedência
+Informar ao ONS em relação à data
+Conforme
+prevista para o início dos
+quem são o(s) seu(s) Agente de
+1 Sob demanda Submódulo 5
+interlocutor(es) e Operação testes das instalações
+sob sua 13
+contatos designados
+responsabilidade
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 6 / 6

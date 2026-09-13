@@ -1,0 +1,108 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.16-PR_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.16-PR_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.16
+Conexão à transmissão e inspeções e
+ensaios nas instalações de conexão
+Procedimental
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Conexão à transmissão e inspeções e ensaios
+7.16 Procedimental 2020.12 01/01/2021
+nas instalações de conexão
+ÍNDICE
+1. INFORMAÇÃO DE CONEXÃO............................................................................................................3
+2. IMPLANTAÇÃO DA CONEXÃO E SUA DESATIVAÇÃO.........................................................................3
+3. INSPEÇÕES NAS INSTALAÇÕES DE CONEXÃO....................................................................................3
+4. ENSAIOS NAS INSTALAÇÕES DE CONEXÃO.......................................................................................3
+5. REFERÊNCIAS...................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Conexão à transmissão e inspeções e ensaios
+7.16 Procedimental 2020.12 01/01/2021
+nas instalações de conexão
+1. INFORMAÇÃO DE CONEXÃO
+1.1. O agente, autorizado ou detentor de Despacho de recebimento do requerimento de outorga de
+autorização ou de Despacho de aprovação do projeto básico ou de Despacho de registro de adequabilidade
+do sumário executivo, identifica os pontos de conexão de interesse e entra em contato com o agente de
+transmissão para a obtenção das informações necessárias à conexão.
+1.2. O agente de transmissão, conforme o caso, disponibiliza ao acessante as informações necessárias à
+conexão.
+2. IMPLANTAÇÃO DA CONEXÃO E SUA DESATIVAÇÃO
+2.1. O acessante providencia, dentre outras:
+(a) a especificação detalhada dos equipamentos e das instalações para a conexão;
+(b) a elaboração do projeto executivo das instalações do ponto de conexão, que deve ser submetido à
+aprovação do agente de transmissão acessado;
+(c) a aquisição dos equipamentos, a execução das obras civis e a montagem eletromecânica das suas
+instalações de conexão; e
+(d) o comissionamento das instalações de conexão.
+2.1.1. Essas ações podem ser realizadas pelo agente de transmissão, quando contratado pelo acessante.
+2.2. O acessante executa do comissionamento das instalações de conexão e elabora o correspondente
+relatório seguindo os padrões técnicos do agente de transmissão acessado.
+2.3. O agente de transmissão acessado, independentemente da sua contratação pelo acessante, acompanha
+e inspeciona as obras civis, a montagem e o comissionamento das instalações do ponto de conexão.
+2.4. O agente de transmissão acessado também acompanha e inspeciona os serviços de desconexão
+(desativação da conexão).
+3. INSPEÇÕES NAS INSTALAÇÕES DE CONEXÃO
+3.1. O agente de transmissão solicita a inspeção das instalações de conexão do acessante.
+3.1.1. Um intervalo mínimo de 6 (seis) meses entre inspeções deve ser cumprido, exceto em situações de
+anormalidade.
+4. ENSAIOS NAS INSTALAÇÕES DE CONEXÃO
+4.1. O agente de transmissão ou o acessante solicitam a realização de ensaios nos equipamentos vinculados
+às instalações de conexão.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Conexão à transmissão e inspeções e ensaios
+7.16 Procedimental 2020.12 01/01/2021
+nas instalações de conexão
+4.1.1. Os custos relativos aos ensaios correm, em princípio, por conta do solicitante.
+4.1.2. Caso fique demonstrado que o equipamento não atende ao que está estabelecido nas normas técnicas
+nacionais ou internacionais e nos padrões técnicos constantes no CCT, os custos dos ensaios são atribuídos
+ao responsável pelo equipamento.
+4.1.3. Interrupções ou violações dos limites especificados nos indicadores de desempenho estabelecidos nos
+Procedimentos de Rede, resultantes de ações realizadas durante os ensaios, acarretarão custos, multas e
+penalidades que serão imputadas aos responsáveis pelos referidos ensaios, desde que não tenham sido
+modificadas as condições operativas da rede previstas quando da programação dos ensaios.
+4.2. O agente de transmissão ou o acessante que solicita a realização de ensaios nas instalações de conexão
+para avaliar o desempenho de determinado equipamento informa à transmissora acessada ou ao acessante,
+conforme o caso, os dados a seguir:
+(a) a motivação dos ensaios, com justificativas técnicas de sua solicitação;
+(b) a natureza dos ensaios propostos;
+(c) o período proposto para os ensaios;
+(d) a identificação dos equipamentos a serem testados;
+(e) as condições de sistema necessárias à condução dos ensaios propostos;
+(f) as consequências adversas que podem incidir sobre os equipamentos submetidos aos ensaios;
+(g) as consequências adversas que podem incidir sobre o sistema ao qual os equipamentos estão
+conectados; e
+(h) comunicação, por escrito, de quem será o responsável pela condução desses ensaios.
+4.2.1. O responsável conduz os ensaios com base nos procedimentos internos de cada agente, nas
+recomendações dos fabricantes dos equipamentos e nas normas técnicas nacionais e, quando aplicáveis,
+internacionais.
+4.3. Os agentes responsáveis pelos equipamentos que serão objeto dos ensaios informam ao ONS a
+realização desses ensaios, conforme submódulo 4.2 – Programação de Intervenções em instalações da Rede
+de Operação, só iniciando os mesmos com anuência do ONS, conforme submódulo 4.2.
+4.4. Os agentes envolvidos que não estiverem na condução dos ensaios podem indicar um representante
+para acompanhar sua realização.
+4.5. O agente solicitante dos ensaios deve submeter à apreciação da ANEEL e dos demais envolvidos os
+relatórios com os resultados obtidos em prazo de 30 (trinta) dias, contados a partir do encerramento dos
+ensaios.
+4.6. Caso fique demonstrado o desempenho inadequado do equipamento, o agente solicitante dos ensaios
+deve encaminhar à ANEEL relatório contendo os resultados dos ensaios e as adequações necessárias nas
+instalações de conexão.
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Conexão à transmissão e inspeções e ensaios
+7.16 Procedimental 2020.12 01/01/2021
+nas instalações de conexão
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 5 / 5

@@ -1,0 +1,110 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 4.7-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 4.7-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 4.7
+Atualização de informações sobre
+restrições hidráulicas dos
+aproveitamentos hidroelétricos
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Atualização de informações sobre restrições
+4.7 Responsabilidades 2020.12 01/01/2021
+hidráulicas dos aproveitamentos hidroelétricos
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Inventário de Restrições Hidráulicas e de Informações Operativas Relevantes dos
+Aproveitamentos Hidroelétricos...................................................................................................3
+2.2. Parecer Técnico sobre a Solicitação de Atualização de Restrições Hidráulicas.............................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de geração ......................................................................................................................4
+4. PRAZOS ...........................................................................................................................................4
+5. REFERÊNCIAS...................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Atualização de informações sobre restrições
+4.7 Responsabilidades 2020.12 01/01/2021
+hidráulicas dos aproveitamentos hidroelétricos
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas de processos relativos à atualização
+de informações sobre restrições hidráulicas e informações operativas relevantes dos aproveitamentos
+hidroelétricos do Sistema Interligado Nacional (SIN).
+2. PRODUTOS
+2.1. Inventário de Restrições Hidráulicas e de Informações Operativas Relevantes dos Aproveitamentos
+Hidroelétricos
+2.1.1. Apresenta as informações atualizadas de restrições hidráulicas e demais informações operativas
+relevantes dos aproveitamentos hidroelétricos do SIN.
+2.2. Parecer Técnico sobre a Solicitação de Atualização de Restrições Hidráulicas
+2.2.1. Apresenta o resultado da análise quanto às consequências e repercussões das atualizações das
+restrições hidráulicas recebidas.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Informar aos agentes de geração os formatos, meios e prazos para o encaminhamento de solicitações
+de atualização de informações sobre restrições hidráulicas e informações operativas relevantes (IORs)
+dos aproveitamentos hidroelétricos ao ONS.
+(b) Analisar as solicitações dos agentes de geração de atualização das informações sobre restrições
+hidráulicas e as justificativas técnicas e, se necessário, solicitar esclarecimentos adicionais.
+(c) Informar aos agentes de geração, sempre que solicitado, o andamento da atualização das informações
+encaminhadas.
+(d) Comunicar aos agentes de geração, à Agência Nacional de Energia Elétrica – ANEEL e à Agência
+Nacional de Águas – ANA a atualização das informações sobre restrições hidráulicas e informações
+operativas relevantes dos aproveitamentos hidroelétricos.
+(e) Manter atualizadas as informações sobre restrições hidráulicas e IORs dos aproveitamentos
+hidroelétricos.
+(f) Elaborar, quando solicitado pela ANEEL e/ou pela ANA, estudo técnico sobre restrições operativas
+hidráulicas.
+(g) Disponibilizar o Inventário de Restrições Hidráulicas e de Informações Operativas Relevantes de
+Aproveitamentos Hidroelétricos atualizado.
+(h) Elaborar Parecer Técnico sobre a Solicitação de Atualização de Restrições Hidráulicas e encaminhá-lo
+à ANEEL e à ANA, para avaliação, e aos agentes de geração.
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Atualização de informações sobre restrições
+4.7 Responsabilidades 2020.12 01/01/2021
+hidráulicas dos aproveitamentos hidroelétricos
+3.2. Agentes de geração
+(a) Encaminhar ao ONS, nos formatos, meios e prazos estabelecidos, as solicitações de atualização das
+informações sobre restrições hidráulicas e IORs dos aproveitamentos hidroelétricos em operação,
+sendo que as restrições hidráulicas devem ser acompanhadas de justificativas técnicas.
+(b) Fornecer ao ONS, sempre que solicitado, os esclarecimentos adicionais às solicitações de atualização
+encaminhadas.
+4. PRAZOS
+Quadro 1 - Prazos para atualização das informações sobre restrições hidráulicas e IORs dos aproveitamentos
+hidroelétricos
+Atividade Responsável Prazo
+Solicitação ao ONS de alteração de informações
+sobre restrições hidráulicas e informações Agentes de
+1 Sob demanda
+operativas relevantes dos aproveitamentos geração
+hidroelétricos
+Análise das solicitações de alteração de
+informações sobre restrições hidráulicas e 1 dia útil após o
+2 informações operativas relevantes dos ONS recebimento das
+aproveitamentos hidroelétricos e implementação solicitações
+das atualizações
+Comunicação aos agentes envolvidos sobre as 1 dia útil após a
+3 ONS
+atualizações implementadas implementação
+Disponibilização do Inventário de Restrições
+1 dia útil após a
+Hidráulicas e de Informações Operativas
+4 ONS implementação da
+Relevantes dos Aproveitamentos Hidroelétricos
+atualização
+atualizado
+Elaboração e encaminhamento de parecer técnico 25 dias úteis após o
+5 sobre a solicitação de atualização de restrições ONS recebimento das
+hidráulicas solicitações
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 4 / 4

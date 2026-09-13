@@ -1,0 +1,299 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.14-PR_2025.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.14-PR_2025.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.14
+Emissão de declaração de atendimento aos
+Procedimentos de Rede para instalações de
+distribuição, autoprodutor com carga maior
+que geração, consumidor livre e agente de
+exportação ou importação de energia
+Procedimental
+Revisão Motivo da revisão Data de aprovação
+2025.12 Despacho ANEEL nº 3.904/2025 24/12/2025
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de declaração de atendimento aos
+Procedimentos de Rede para instalações de
+distribuição, autoprodutor com carga maior que 7.14 Procedimental 2025.12 01/01/2026
+geração, consumidor livre e agente de exportação ou
+importação de energia
+ÍNDICE
+1. EMISSÃO DA DECLARAÇÃO DE ATENDIMENTO DOS PROCEDIMENTOS DE REDE
+PARA INTEGRAÇÃO DAS INSTALAÇÕES DE DISTRIBUIÇÃO, DO AUTOPRODUTOR
+COM CARGA MAIOR QUE GERAÇÃO, DO CONSUMIDOR LIVRE E AGENTES DE
+EXPORTAÇÃO OU IMPORTAÇÃO DE ENERGIA........................................................3
+2. REFERÊNCIAS.........................................................................................................3
+3. ANEXOS.................................................................................................................4
+ANEXO A – Declaração de Conformidade de Integração das Instalações....................5
+ANEXO B – Requisitos Impeditivos para emissão da DAPR para agente de
+distribuição, autoprodutor com carga maior que geração, consumidor livre e
+agente de exportação ou importação de energia..............................................7
+Endereço na internet: http://www.ons.org.br 2 / 10
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de declaração de atendimento aos
+Procedimentos de Rede para instalações de
+distribuição, autoprodutor com carga maior que 7.14 Procedimental 2025.12 01/01/2026
+geração, consumidor livre e agente de exportação ou
+importação de energia
+1. EMISSÃO DA DECLARAÇÃO DE ATENDIMENTO DOS PROCEDIMENTOS DE REDE PARA
+INTEGRAÇÃO DAS INSTALAÇÕES DE DISTRIBUIÇÃO, DO AUTOPRODUTOR COM
+CARGA MAIOR QUE GERAÇÃO, DO CONSUMIDOR LIVRE E AGENTES DE EXPORTAÇÃO
+OU IMPORTAÇÃO DE ENERGIA
+1.1. O agente de distribuição, autoprodutor com carga maior que geração, consumidor
+livre ou o agente de exportação ou importação de energia solicita ao ONS a emissão da
+Declaração de Atendimento aos Requisitos dos Procedimentos de Rede para Energização
+(DAPR/E), contendo a Declaração de Conformidade de Integração das Instalações,
+apresentada no ANEXO A.
+1.2. O ONS emite a DAPR/E e a disponibiliza ao agente solicitante, após verificar os
+requisitos apresentados no ANEXO B e nos atos autorizativos sem pendências
+impeditivas, contendo a relação das Pendências Não Impeditivas existentes, os eventuais
+requisitos não atendidos, as adequações necessárias e os respectivos prazos para a
+solução dos mesmos.
+1.3. Caso existam pendências impeditivas, o ONS não emite a DAPR/E e informa ao
+agente solicitante as pendências verificadas.
+1.4. O agente de distribuição, autoprodutor com carga maior que geração, consumidor
+livre ou o agente de exportação ou importação de energia, após a solução das pendências
+impeditivas, envia nova solicitação de DAPR/E ao ONS.
+1.5. Os requisitos impeditivos para a emissão da DAPR/D terão o prazo de até 90
+(noventa) dias após a emissão da DAPR/E para serem atendidos.
+1.6. Caso seja verificado alguma pendência não impeditiva durante a energização, o ONS
+e o agente solicitante avaliam a relação das pendências não impeditivas identificadas.
+1.6.1. O agente de distribuição, autoprodutor com carga maior que geração, consumidor
+livre ou o agente de exportação ou importação de energia acorda com o ONS os prazos
+para solução dessas pendências não impeditivas e o ONS acompanha os prazos
+acordados.
+1.7. O agente de distribuição, autoprodutor com carga maior que geração, consumidor
+livre ou o agente de exportação ou importação de energia solicita a emissão da
+Declaração de Atendimento aos Requisitos dos Procedimentos de Rede Definitiva
+(DAPR/D) quando inexistir pendências.
+1.8. O ONS emite a DAPR/D após confirmar o atendimento aos requisitos apresentados
+no ANEXO B e nos atos autorizativos sem nenhuma pendência.
+1.9. O ONS disponibiliza a DAPR/D ao agente solicitante e à ANEEL.
+Endereço na internet: http://www.ons.org.br 3 / 10
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de declaração de atendimento aos
+Procedimentos de Rede para instalações de
+distribuição, autoprodutor com carga maior que 7.14 Procedimental 2025.12 01/01/2026
+geração, consumidor livre e agente de exportação ou
+importação de energia
+2. REFERÊNCIAS
+2.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 4 / 10
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de declaração de atendimento aos
+Procedimentos de Rede para instalações de
+distribuição, autoprodutor com carga maior que 7.14 Procedimental 2025.12 01/01/2026
+geração, consumidor livre e agente de exportação ou
+importação de energia
+3. ANEXOS
+ANEXO A – Declaração de Conformidade de Integração das Instalações
+ANEXO B – Requisitos Impeditivos para emissão da DAPR para agente de distribuição,
+autoprodutor com carga maior que geração, consumidor livre
+Endereço na internet: http://www.ons.org.br 5 / 10
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de declaração de atendimento aos
+Procedimentos de Rede para instalações de
+distribuição, autoprodutor com carga maior que 7.14 Procedimental 2025.12 01/01/2026
+geração, consumidor livre e agente de exportação ou
+importação de energia
+ANEXO A – Declaração de Conformidade de Integração das Instalações
+Nome do agente de distribuição, autoprodutor com carga maior
+NOME que geração, do consumidor livre ou do agente de exportação ou
+importação de energia
+CNPJ Cadastro Nacional de Pessoa Jurídica
+REPRESENTANTE PARA Informar nome, telefone e e-mail de pessoa física que prestará
+CONTATO esclarecimentos sobre a instalação
+DIRETOR OU PRESIDENTE DO Informar nome, telefone e e-mail de contato do Diretor/Presidente
+AGENTE DE DISTRIBUIÇÃO OU do agente de distribuição, autoprodutor com carga maior que
+CONSUMIDOR LIVRE geração ou consumidor livre
+Nome da instalação do agente de distribuição, autoprodutor com
+carga maior que geração ou consumidor livre, conforme consta no
+NOME DA INSTALAÇÃO
+ato autorizativo (quando houver) ou Parecer de Acesso e/ou
+estudos pré-operacionais
+CONTRATO DE CONEXÃO ÀS
+Informar a concessionária de transmissão que celebrou o contrato
+INSTALAÇÕES DE TRANSMISSÃO
+de conexão e o número do contrato
+(CCT)
+Informar o número do Contrato de Uso do Sistema de Transmissão
+CUST OU CUSD
+(CUST) ou do Contrato de Uso do Sistema de Distribuição (CUSD)
+INÍCIO DE VIGÊNCIA DO MUST Informar o início de vigência do montante de uso constante no
+CONTRATADO anexo do contrato
+PONTO DE CONEXÃO, TENSÃO
+Nome e nível de tensão da instalação conectada e nome do agente
+DE CONEXÃO (KV) E AGENTE
+responsável por esta instalação
+CONECTADO
+NÚMERO DA SOLICITAÇÃO DE Número da intervenção gerada pelo sistema de gerenciamento de
+INTERVENÇÃO NO SGI intervenções do ONS
+Informar o município e a unidade federativa onde está localizada a
+MUNICÍPIO / UF
+instalação conectada
+Data prevista para energização da instalação (quando os
+DATA PREVISTA PARA
+equipamentos serão energizados a vazio) e/ou data de início do
+ENERGIZAÇÃO
+contrato de exportação ou importação de energia.
+DATA DE INÍCIO DA OPERAÇÃO
+Data prevista ou executada de início da operação da instalação
+INTEGRADA AO SIN
+Endereço na internet: http://www.ons.org.br 6 / 10
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de declaração de atendimento aos
+Procedimentos de Rede para instalações de
+distribuição, autoprodutor com carga maior que 7.14 Procedimental 2025.12 01/01/2026
+geração, consumidor livre e agente de exportação ou
+importação de energia
+Portaria do MME e/ou documento emitido pela ANEEL que autoriza
+ATO AUTORIZATIVO
+o acesso à Rede Básica, quando houver
+Documento emitido pelo ONS que analisa a capacidade disponível
+PARECER DE ACESSO
+do sistema de transmissão para atender o acessante.
+COMENTÁRIOS ADICIONAIS
+Registrar os comentários adicionais relevantes para o processo de integração.
+RESPONSÁVEL PELA DECLARAÇÃO ASSINATURA DATA
+Registrar o nome, cargo e assinatura
+Data de emissão da
+do responsável pelo preenchimento da
+declaração.
+declaração.
+Endereço na internet: http://www.ons.org.br 7 / 10
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de declaração de atendimento aos
+Procedimentos de Rede para instalações de
+distribuição, autoprodutor com carga maior que 7.14 Procedimental 2025.12 01/01/2026
+geração, consumidor livre e agente de exportação ou
+importação de energia
+ANEXO B1 – Requisitos Impeditivos para emissão da DAPR para agente de distribuição,
+autoprodutor com carga maior que geração, consumidor livre e agente de
+exportação ou importação de energia2
+Requisitos
+impeditivos para
+Requisitos Impeditivos dos Procedimentos de
+Submódulo
+emissão
+Rede
+DAPR/E DAPR/D
+1 Conformidade com ato autorizativo - X X
+Atendimento às providências e
+2 7.1 X X
+recomendações do Parecer de Acesso válido
+3 Cadastro de Outras Pendências - X X
+Assinatura do CUST com MUST vigente na
+4 8.1 X X
+data da integração
+5 Apresentação de Instrumento de Garantia 8.1 X X
+Financeira de acordo com as condições
+6 e A s s t s a in b a e t l u ec ra id d a o s n C o C T C UST 8.1 X X
+Inexistência de qualquer registro de
+inadimplência no pagamento dos encargos da
+7 8.3 X X
+transmissão totalizando mais de 1 (um) mês
+de faturamento
+1 A lista de requisitos impeditivos apresentada é apenas orientativa e não isenta o cumprimento dos
+Procedimentos de Rede por parte dos agentes.
+2 Para o agente de exportação ou importação de energia, o ONS poderá flexibilizar os requisitos caso não
+existam conexão física ou energização.
+Endereço na internet: http://www.ons.org.br 8 / 10
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de declaração de atendimento aos
+Procedimentos de Rede para instalações de
+distribuição, autoprodutor com carga maior que 7.14 Procedimental 2025.12 01/01/2026
+geração, consumidor livre e agente de exportação ou
+importação de energia
+Requisitos
+impeditivos para
+Requisitos Impeditivos dos Procedimentos de
+Submódulo
+emissão
+Rede
+DAPR/E DAPR/D
+Medição para Faturamento - Cadastro do
+8 ponto de medição no Sistema de Coleta de 2.14 e 7.11 X X
+Dados de Energia – SCDE da CCEE
+Medição para Faturamento - aprovação do
+9 2.14 X
+Relatório de Comissionamento
+Designação de Interlocutores para o
+10 Relacionamento Operacional entre ONS e 5.1 X X
+Agentes
+Solicitação de intervenção cadastrada pela
+11 4.2 X X
+transmissora acessada validada pelo ONS
+Implantação das instruções contidas no
+12 Manual de Procedimentos da Operação 1.1 X X
+(MPO)
+Fornecimento do Plano de Corte Manual de
+13 5.7 X X
+Carga
+Fornecimento do diagrama unifilar para fase
+14 1.1 X X
+pré-operacional
+Fornecimento do diagrama unifilar
+15 1.1 X
+operacional
+Sistema de Telecomunicação – Canais de
+16 2.15 X X
+Comunicação de Dados (no mínimo 1 canal)
+Sistema de Telecomunicação – Canais de
+17 2.15 X
+Comunicação de Dados (2 canais distintos)
+Endereço na internet: http://www.ons.org.br 9 / 10
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de declaração de atendimento aos
+Procedimentos de Rede para instalações de
+distribuição, autoprodutor com carga maior que 7.14 Procedimental 2025.12 01/01/2026
+geração, consumidor livre e agente de exportação ou
+importação de energia
+Requisitos
+impeditivos para
+Requisitos Impeditivos dos Procedimentos de
+Submódulo
+emissão
+Rede
+DAPR/E DAPR/D
+Sistema de Telecomunicação - Canais de
+18 2.15 X X
+Comunicação de Voz (no mínimo 1 canal)
+19 Sistema de Telecomunicação - Canais de 2.15 X
+Comunicação de Voz (2 canais distintos)
+Avaliação do desempenho satisfatório do
+20 sistema de telecomunicação após a 2.15 X
+energização
+Sistema de Supervisão e Controle - Base de
+21 2.12 X X
+Dados
+Sistema de Supervisão e Controle – Teste
+22 2.12 X X
+Ponto a Ponto
+Avaliação do desempenho satisfatório do
+23 sistema de supervisão e controle após a 2.12 X
+energização
+Implantação dos filtros de Qualidade de
+24 Energia Elétrica – QEE (consumidores livres e 7.1 X
+se indicado nos estudos)
+Aprovação do relatório de qualidade pré-
+25 2.9 X X
+tensão
+Aprovação do relatório de qualidade pós-
+26 2.9 X
+tensão
+Implantação do Esquema regional de Alívio
+27 6.14 X X
+de Carga – ERAC
+Endereço na internet: http://www.ons.org.br 10 / 10

@@ -1,0 +1,78 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: DESPACHO SDL-ANP Nº 246, DE 11 DE FEVEREIRO DE 2026
+DATA_PUBLICACAO: 12/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=12/02/2026&jornal=515&pagina=86
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional do Petróleo, Gás Natural e Biocombustíveis/Superintendência de Distribuição e Logística
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+DESPACHO SDL-ANP Nº 246, DE 11 DE FEVEREIRO DE 2026
+O SUPERINTENDENTE ADJUNTO DE DISTRIBUIÇÃO E LOGÍSTICA DA AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS - ANP, no uso das atribuições que lhe foram conferidas pela Portaria ANP nº 265, de 10 de setembro de 2020, com base na Resolução ANP nº 958, de 5 de outubro de 2023, torna pública a outorga das seguintes autorizações para o exercício da atividade de revenda de gás liquefeito de petróleo - GLP, observado:
+I) as instalações dos revendedores ora autorizados foram vistoriadas por instituições de bombeiros, atendendo os requisitos de segurança, e se encontram limitadas às quantidades máximas de armazenamento de GLP, conforme certificado expedido pelo corpo de bombeiros competente; e
+II) a manutenção da presente Autorização fica condicionada ao atendimento dos requisitos constantes no Certificado que trata o item anterior e à Norma NBR 15514:2020 Versão Corrigida: 2021, da Associação Brasileira de Normas Técnicas - ABNT.
+
+
+Nº de Registro
+Razão Social
+CNPJ
+Processo
+GLPMG0465511
+ADONAI COMERCIAL LTDA
+63.455.077/0001-76
+48610.202634/2026-91
+GLPSP0465509
+ALCATRAZ COMERCIO DE GAS LTDA
+36.197.765/0001-00
+48610.202446/2026-62
+GLPBA0465537
+ANA MARIA DE OLIVEIRA CARDOSO NEVES
+02.201.856/0008-27
+48610.202875/2026-30
+GLPSP0465545
+ATACADAO DO GAS MAUA LTDA
+64.120.882/0001-01
+48610.202836/2026-32
+GLPSP0465523
+BRANDAO GAS E AGUA BRAGANCA LTDA
+64.102.532/0001-12
+48610.203141/2026-78
+GLPES0465518
+CANARINHO COMERCIO DE GAS E AGUA LTDA
+63.997.812/0001-73
+48610.203122/2026-41
+GLPPE0465516
+CAROL GAS LTDA
+63.118.281/0001-00
+48610.203010/2026-91
+GLPPR0465514
+CENTRALGAS - COMERCIO DE GAS E BEBIDAS LTDA
+01.767.903/0004-08
+48610.201840/2026-83
+GLPBA0465521
+EXPRESSOGAS - COMERCIO DE GAS LTDA
+63.943.314/0001-48
+48610.202381/2026-55
+GLPSP0465507
+GAS DO POVO SERTAOZINHO LTDA
+64.001.842/0001-40
+48610.203049/2026-16
+GLPPA0465526
+MUCURIPE COMERCIO DE COMBUSTIVEIS LTDA
+84.110.394/0062-42
+48610.203112/2026-14
+GLPRS0465547
+NOVA ENERGIA DISTRIBUIDORA LTDA
+63.841.848/0001-63
+48610.202136/2026-48
+GLPAM0465528
+P DE Q PINTO NETO
+27.955.627/0001-52
+48610.201904/2026-46
+GLPPR0465543
+REDE PUPPI LTDA
+44.475.727/0001-09
+48610.201703/2026-49
+BRUNO VALLE DE MOURA

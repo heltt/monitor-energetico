@@ -1,0 +1,144 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.1-OP_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.1-OP_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.1
+Elaboração dos informes e boletins da
+Operação
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Elaboração dos informes e boletins da
+6.1 Operacional 2020.12 01/01/2021
+Operação
+ÍNDICE
+1. ELABORAÇÃO DOS INFORMES DA OPERAÇÃO..................................................................................3
+2. ELABORAÇÃO DO BOLETIM DE INTERRUPÇÃO DE SUPRIMENTO DE ENERGIA ELÉTRICA NO SIN
+(BISE)...............................................................................................................................................3
+3. ELABORAÇÃO DO RELATÓRIO DE COMUNICAÇÃO DE OCORRÊNCIA EM INSTALAÇÕES DE GERAÇÃO
+(COIG)..............................................................................................................................................4
+4. ELABORAÇÃO DO BOLETIM DIÁRIO DA OPERAÇÃO (BDO)................................................................4
+5. ELABORAÇÃO DO BOLETIM SEMANAL DA OPERAÇÃO (BSO)............................................................5
+6. REFERÊNCIAS...................................................................................................................................5
+7. ANEXOS...........................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Elaboração dos informes e boletins da
+6.1 Operacional 2020.12 01/01/2021
+Operação
+1. ELABORAÇÃO DOS INFORMES DA OPERAÇÃO
+1.1. O ONS elabora o Informativo Preliminar Diário da Operação (IPDO), conforme rotinas específicas do
+Submódulo 5.13 – Rotinas operacionais com base em dados ainda não consistidos, e o disponibiliza para os
+agentes de operação e para a Aneel, no site do ONS, contendo:
+(a) balanço de energia, com produção e carga regionais e intercâmbios verificados;
+(b) balanço de energia detalhado;
+(c) variação de carga e de energia armazenada;
+(d) destaques da operação, compreendendo: carga e produção de energia por região, transferência de
+energia entre regiões, ocorrências na Rede de Operação e ocorrências na rede de distribuição;
+(e) indisponibilidades de equipamentos e linhas de transmissão que resultam em restrições elétricas
+(tensão ou carregamento) ou energéticas (geração ou intercâmbios); e
+(f) outros dados julgados pertinentes pelo ONS.
+1.2. O ONS elabora o Informe Preliminar de Interrupção de Suprimento de Energia Elétrica no SIN (IPIE),
+conforme rotinas específicas do Submódulo 5.13, e o disponibiliza para os agentes de operação e para a
+Aneel, contendo:
+(a) data e hora da ocorrência (hora de Brasília);
+(b) estados afetados pela Interrupção;
+(c) agentes de operação e consumidores livres envolvidos na perturbação;
+(d) descrição;
+(e) equipamentos e LT desligados da Rede de Operação;
+(f) interrupção e restabelecimento de carga; e
+(g) informações adicionais.
+1.3. Os dados e informações da operação armazenados na BDT são mantidos disponíveis por um período
+mínimo de 5 (cinco) anos.
+2. ELABORAÇÃO DO BOLETIM DE INTERRUPÇÃO DE SUPRIMENTO DE ENERGIA ELÉTRICA NO SIN (BISE)
+2.1. O ONS inicia, após processo de triagem definido no Submódulo 6.2 – Análise da operação, ocorrências
+e perturbações e acompanhamento das providências, a elaboração do BISE, para ocorrências e perturbações
+que provocaram interrupção de carga igual ou superior ao estabelecido em rotinas específicas do Submódulo
+5.13 .
+2.2. O ONS elabora o BISE, conforme rotinas específicas do Submódulo 5.13, e o disponibiliza para os agentes
+de operação e para a Aneel, no site do ONS, contendo:
+(a) data e hora da ocorrência (hora de Brasília);
+(b) estados afetados pela Interrupção;
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Elaboração dos informes e boletins da
+6.1 Operacional 2020.12 01/01/2021
+Operação
+(c) grau de impacto no estado e no SIN – GIE (indicador previsto no Submódulo 9.1 – Indicadores de
+confiabilidade da Rede Básica);
+(d) classificação no estado e no SIN;
+(e) agentes de operação e consumidores livres envolvidos na perturbação;
+(f) descrição;
+(g) causa provável;
+(h) equipamentos e LT da Rede de Operação desligados;
+(i) interrupção e restabelecimento de carga;
+(j) Informações adicionais; e
+(k) tabelas de grau de impacto da interrupção de energia elétrica no estado e no SIN.
+3. ELABORAÇÃO DO RELATÓRIO DE COMUNICAÇÃO DE OCORRÊNCIA EM INSTALAÇÕES DE GERAÇÃO
+(COIG)
+3.1. O agente de operação proprietário de usinas com modalidade de despacho do Tipo I, II-A e II-C,
+conforme Submódulo 7.2 – Classificação da modalidade de operação de usinas, comunica ao ONS as
+ocorrências de todas as indisponibilidades em unidade geradora classificadas como programadas com
+período estimado de recuperação superior a 90 (noventa) dias ou, no caso de indisponibilidades não
+programadas, com período estimado de recuperação superior a 10 (dez) dias. A comunicação deve
+apresentar as seguintes informações:
+3.1.1. A comunicação deve apresentar as seguintes informações:
+(a) usina e agente de operação responsável;
+(b) unidade geradora e potência nominal;
+(c) data e hora da ocorrência;
+(d) previsão de normalização;
+(e) descrição da causa da ocorrência;
+(f) consequência da ocorrência no SIN; e
+(g) outras informações relevantes sobre a ocorrência.
+3.2. O ONS elabora o COIG, com os dados coletados na operação em tempo real e as informações do agente
+de geração, conforme rotinas específicas do Submódulo 5.13, e o disponibiliza para os agentes de operação
+e para a ANEEL, no site do ONS.
+4. ELABORAÇÃO DO BOLETIM DIÁRIO DA OPERAÇÃO (BDO)
+4.1. O ONS elabora o BDO, com base nos dados disponíveis nos centros de operação do ONS e naqueles
+coletados junto aos agentes de operação após com consistência realizada conforme rotinas específicas do
+Submódulo 5.13, e o disponibiliza para os agentes de operação e para a ANEEL, contendo:
+(a) energia natural afluente por região;
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Elaboração dos informes e boletins da
+6.1 Operacional 2020.12 01/01/2021
+Operação
+(b) energia armazenada no sistema por região;
+(c) balanço de geração e carga entre as regiões;
+(d) carga global de energia por região;
+(e) demanda máxima instantânea;
+(f) geração térmica e hidráulica no horário de ponta;
+(g) informação sobre utilização de combustível diferente daquele considerado no Programa Mensal da
+Operação Energética (PMO) para os casos de usinas termelétricas que podem ser acionadas por mais
+de um combustível;
+(h) intercâmbio de energia entre as regiões;
+(i) situação dos principais reservatórios de acumulação;
+(j) principais eventos e ocorrências; e
+(k) outros dados julgados pertinentes pelo ONS.
+5. ELABORAÇÃO DO BOLETIM SEMANAL DA OPERAÇÃO (BSO)
+5.1. O ONS elabora o BSO, com base nos dados disponíveis nos centros de operação do ONS e naqueles
+coletados junto aos agentes de operação após consistência realizada conforme rotinas específicas do
+Submódulo 5.13, e o disponibiliza para os agentes de operação e para a ANEEL, contendo:
+(a) energia natural afluente por região;
+(b) energia armazenada no sistema por região;
+(c) balanço de energia, com produção e carga regionais e intercâmbios verificados;
+(d) balanço de energia detalhado;
+(e) carga global de energia por região;
+(f) geração térmica, hidráulica e geração por usina;
+(g) situação dos principais reservatórios de acumulação;
+(h) descrição de ocorrências significativas do SIN que ocorreram na semana;
+(i) integração de novas Instalações; e
+(j) outros dados julgados pertinentes pelo ONS.
+6. REFERÊNCIAS
+6.1. Não há referências neste documento.
+7. ANEXOS
+7.1. Não há anexos neste submódulo.
+Endereço na internet: http://www.ons.org.br 5 / 5

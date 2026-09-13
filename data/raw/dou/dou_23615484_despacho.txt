@@ -1,0 +1,23 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 23/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=23/02/2026&jornal=515&pagina=126
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Superintendência de Outorga de Títulos Minerários
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 58/2026
+Autoriza a averbação dos atos de liberação de penhora de direitos minerarios(1930)
+Exequente: UNIÃO - FAZENDA NACIONAL - Processo nº 896.392/2000 - MEGAPORT MINERAÇÃO LTDA. - Alvará de Pesquisa Nº 21099 /2000
+Autorizo a indisponibilidade dos direitos minerários(1811)
+930.925/2005-VALE S.A.- Registro de Grupamento Mineiro nº 220/2007
+Autoriza a averbação dos atos de penhora de direitos minerarios(1934)
+Exequente: AMADEUS MOTA BRAGA E OUTROS - CPF ou CNPJ - Processo nº 850.425/1990 - SERRA PELADA COMPANHIA DE DESENVOLVIMENTO MINERAL - Portaria de Lavra Nº 514/2010
+Exequente: AMADEUS MOTA BRAGA E OUTROS - CPF ou CNPJ - Processo nº 850.424/1990 - COOMIGASP COOPERATIVA DE MINERACAO DOS GARIMPEIROS DE SERRA PELADA - Permissão de Lavra Garimpeira Nº 34/2014
+Exequente: AMADEUS MOTA BRAGA E OUTROS - CPF ou CNPJ - Processo nº 851.087/2014 - COOMIGASP COOPERATIVA DE MINERACAO DOS GARIMPEIROS DE SERRA PELADA - Permissão de Lavra Garimpeira Nº 35/2015
+ANDRE ELIAS MARQUES
+Superintendente

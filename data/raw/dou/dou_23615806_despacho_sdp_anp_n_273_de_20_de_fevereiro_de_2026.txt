@@ -1,0 +1,481 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: DESPACHO SDP-ANP Nº 273, DE 20 DE FEVEREIRO DE 2026
+DATA_PUBLICACAO: 23/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=23/02/2026&jornal=515&pagina=128
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional do Petróleo, Gás Natural e Biocombustíveis/Superintendência de Desenvolvimento e Produção
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+DESPACHO SDP-ANP Nº 273, DE 20 DE FEVEREIRO DE 2026
+A SUPERINTENDENTE DE DESENVOLVIMENTO E PRODUÇÃO DA AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS - ANP, no uso das atribuições que lhe foram conferidas pela Portaria nº 265, de 10 de setembro de 2020, considerando o que consta do Processo SEI nº 48610.232845/2025-77, e com base na Decisão de Diretoria nº 112/2026, de 19 de fevereiro de 2026, torna pública a relação de empresas enquadradas como de Pequeno ou Médio Porte, nos termos da Resolução ANP nº 32, de 5 de junho de 2014:
+
+
+Grupo societário
+Operadora / Razão Social
+CNPJ
+Qualificação
+Produção nacional (BOE/dia) (a)
+Produção no exterior (BOE/dia) (b)
+Produção total (BOE/dia) (a+b)
+Produção total do grupo societário (BOE/dia)
+Enquadramento em 2025
+Enquadramento em 2026
+Tipo de Enquadramento
+Independente
+Aguila Energia e Participações Ltda.
+38.219.997/0001-48
+D
+0,00
+0,00
+0,00
+0,00
+Pequeno Porte
+Pequeno Porte
+Mantido
+Independente
+Alvopetro S.A. Extração de Petróleo e Gás Natural
+15.240.822/0001-17
+C
+1.921,66
+107,00
+2.028,66
+2.028,66
+Médio Porte
+Médio Porte
+Mantido
+Independente
+BGM Petróleo e Gás Ltda.
+29.496.603/0001-08
+C
+98,11
+0,00
+98,11
+98,11
+Pequeno Porte
+Pequeno Porte
+Mantido
+Grupo Cobra
+Carmo Energy S.A.
+41.955.491/0001-01
+C
+12.820,91
+0,00
+12.820,91
+12.820,91
+Médio Porte
+Grande Porte
+Alterado
+Independente
+Creative Energy Serviços e Exploração Ltda.
+33.400.769/0001-56
+D
+26,15
+0,00
+26,15
+26,15
+Pequeno Porte
+Pequeno Porte
+Mantido
+Independente
+Energizzi Energias do Brasil Ltda.
+25.315.943/0001-34
+C
+38,92
+0,00
+38,92
+38,92
+Pequeno Porte
+Pequeno Porte
+Mantido
+Independente
+Geoflux Exploração e Produção de Petróleo Ltda.
+32.385.032/0001-49
+D
+6,30
+0,00
+6,30
+6,30
+Grande Porte
+Pequeno Porte
+Novo
+Independente
+Guto & Cacal - Indústria, Comércio e Serviços Ltda.
+04.054.366/0001-02
+D
+10,39
+0,00
+10,39
+10,39
+Pequeno Porte
+Pequeno Porte
+Mantido
+Independente
+Newo Óleo e Gás Ltda. - ME
+10.492.453/0001-36
+D
+5,47
+0,00
+5,47
+5,47
+Grande Porte
+Grande Porte
+Mantido
+Independente
+Níon Energia S.A.
+45.832.752/0001-57
+C
+173,47
+0,00
+173,47
+173,47
+Pequeno Porte
+Pequeno Porte
+Mantido
+Independente
+Nova Petróleo S.A. - Exploração e Produção
+16.607.122/0001-80
+C
+81,80
+0,00
+81,80
+81,80
+Pequeno Porte
+Pequeno Porte
+Mantido
+Independente
+NTF Óleo e Gás S.A.
+29.019.399/0001-34
+C
+10,93
+0,00
+10,93
+10,93
+Pequeno Porte
+Pequeno Porte
+Mantido
+Independente
+Panergy Petróleo e Gás Ltda.
+07.119.234/0001-00
+NO
+0,00
+0,00
+0,00
+0,00
+Grande Porte
+Grande Porte
+Mantido
+Independente
+Paraná Xisto S.A.
+40.254.927/0001-72
+C
+3.087,70
+2.529,00
+5.616,70
+5.616,70
+Médio Porte
+Médio Porte
+Mantido
+Independente
+Petroborn Óleo e Gás S.A.
+18.957.968/0001-76
+C
+171,22
+0,00
+171,22
+171,22
+Pequeno Porte
+Pequeno Porte
+Mantido
+Independente
+Petroil Óleo e Gás Ltda.
+15.596.829/0001-76
+C
+0,00
+0,00
+0,00
+0,00
+Pequeno Porte
+Pequeno Porte
+Mantido
+Independente
+Petrom Produção de Petróleo & Gás Ltda.
+32.137.521/0001-81
+C
+297,16
+0,00
+297,16
+297,16
+Pequeno Porte
+Pequeno Porte
+Mantido
+Independente
+Petrosynergy Ltda.
+03.951.809/0001-97
+C
+426,29
+0,00
+426,29
+426,29
+Pequeno Porte
+Pequeno Porte
+Mantido
+Independente
+Petro-Victory Energia Ltda.
+28.163.588/0001-13
+C
+39,77
+0,00
+39,77
+39,77
+Pequeno Porte
+Pequeno Porte
+Mantido
+Independente
+Phoenix Óleo & Gás Natural Ltda.
+32.528.443/0001-46
+C
+26,15
+0,00
+26,15
+26,15
+Pequeno Porte
+Pequeno Porte
+Mantido
+Independente
+Slim Drilling Serviços de Perfuração S.A.
+16.690.009/0001-01
+C
+53,90
+0,00
+53,90
+122,76
+Pequeno Porte
+Pequeno Porte
+Mantido
+Independente
+Vipetro Petróleo S.A.
+08.990.767/0001-17
+C
+8,80
+0,00
+8,80
+8,80
+Pequeno Porte
+Pequeno Porte
+Mantido
+Independente
+Vultur Oil Ltda.
+55.167.052/0001-49
+C
+17,48
+0,00
+17,48
+17,48
+Grande Porte
+Pequeno Porte
+Novo
+Guindastes
+Brasil Refinarias Ltda.
+08.839.018/0001-93
+D
+1,02
+0,00
+1,02
+1,02
+Pequeno Porte
+Pequeno Porte
+Mantido
+Guindastes
+Guindastes Brasil Óleo e Gás Ltda.
+02.355.017/0001-97
+D
+0,00
+0,00
+0,00
+1,02
+Pequeno Porte
+Pequeno Porte
+Mantido
+Imetame / BlueOil Participações Ltda.
+Capixaba Energia Ltda.
+34.812.047/0001-71
+C
+349,50
+0,00
+349,50
+657,87***
+Médio Porte
+Pequeno Porte
+Alterado
+Imetame
+Imetame Energia S.A.
+00.271.847/0001-00
+C
+123,07
+0,00
+123,07
+1.442,81
+Médio Porte
+Médio Porte
+Mantido
+Imetame
+Recôncavo Energia SPE Ltda.
+48.700.902/0001-67
+C
+1.319,74
+0,00
+1.319,74
+1.442,81
+Médio Porte
+Médio Porte
+Mantido
+Perícia Engenharia
+Andorinha Petróleo Ltda.
+23.340.906/0001-50
+NO
+20,15
+0,00
+20,15
+106,47
+Grande Porte
+Grande Porte
+Mantido
+Perícia Engenharia
+Barra Bonita Óleo e Gás Ltda.
+22.881.417/0001-43
+D
+62,27
+0,00
+62,27
+106,47
+Pequeno Porte
+Pequeno Porte
+Mantido
+Perícia Engenharia
+EPG Brasil Ltda.
+11.210.501/0001-19
+D
+3,91
+0,00
+3,91
+106,47
+Pequeno Porte
+Pequeno Porte
+Mantido
+Perícia Engenharia
+Oeste de Canoas Petróleo e Gás Ltda.
+11.285.456/0001-61
+C
+0,00
+0,00
+0,00
+106,47
+Pequeno Porte
+Pequeno Porte
+Mantido
+Perícia Engenharia
+Perícia Engenharia e Construção Ltda.
+15.594.013/0001-03
+C
+20,15
+0,00
+20,15
+106,47
+Pequeno Porte
+Pequeno Porte
+Mantido
+Seacrest
+Seacrest Petróleo S.A.
+28.473.807/0001-60
+C
+0,00
+0,00
+0,00
+7.181,43
+Médio Porte
+Médio Porte
+Mantido
+Seacrest
+Seacrest Petróleo SPE Norte Capixaba Ltda.
+40.875.704/0001-22
+C
+5.777,28
+0,00
+5.777,28
+7.181,43
+Médio Porte
+Médio Porte
+Mantido
+Seacrest
+Seacrest SPE Cricaré S.A.
+35.723.994/0001-59
+C
+1.404,15
+0,00
+1.404,15
+7.181,43
+Médio Porte
+Médio Porte
+Mantido
+Ubuntu Engenharia
+Grupo Ubuntu Ltda.
+24.414.030/0001-02
+C
+0,00
+0,00
+0,00
+202,74
+Pequeno Porte
+Pequeno Porte
+Mantido
+Ubuntu Engenharia
+Mandacaru Energia S.A.
+05.002.889/0001-60
+C
+202,74
+0,00
+202,74
+202,74
+Pequeno Porte
+Pequeno Porte
+Mantido
+UBX
+Nord Oil and Gas S.A.
+04.935.189/0001-65
+C
+0,93
+0,00
+0,93
+1,07
+Pequeno Porte
+Pequeno Porte
+Mantido
+UBX
+Recôncavo Energia Ltda.
+23.923.453/0001-95
+C
+0,00
+0,00
+0,00
+1,07
+Pequeno Porte
+Pequeno Porte
+Mantido
+UBX
+Tarmar Energia e Participações Ltda.
+40.194.755/0001-99
+C
+0,14
+0,00
+0,14
+1,07
+Pequeno Porte
+Pequeno Porte
+Mantido
+* NO se refere a Concessionário Não Operador
+** As empresas que não enviaram a solicitação de enquadramento receberão o mesmo tratamento das empresas de "Grande Porte"
+*** Produção média realizada pelo Grupo Imetame entre janeiro e maio de 2025
+Mariana Cavadinha Costa da Silva

@@ -1,0 +1,18 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 23/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=23/02/2026&jornal=515&pagina=125
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Superintendência de Fiscalização
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 15/2026
+Fase de Concessão de Lavra
+Despacho publicado(508)
+848.587/2008-SANTA ELIZA IND. E COM. DE AGUAS MINERAIS LTDA-NEGAR PROVIMENTO ao recurso e MANTER a negativa de aprovação de adendo/atualização do PAE, para linha de envase de "embalagem enteral".
+FERNANDO ALVES DRUMMOND DE OLIVEIRA
+Superintendente

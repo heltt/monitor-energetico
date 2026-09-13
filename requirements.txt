@@ -1,4 +1,8 @@
+requests
+beautifulsoup4
+pdfplumber
+playwright
 pandas
 scikit-learn
 streamlit
-anthropic
+google-genai

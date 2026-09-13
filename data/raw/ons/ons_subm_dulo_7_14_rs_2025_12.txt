@@ -1,0 +1,135 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.14-RS_2025.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.14-RS_2025.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.14
+Emissão de declaração de atendimento aos
+Procedimentos de Rede para instalações de
+distribuição, autoprodutor com carga maior
+que geração, consumidor livre e agente de
+exportação ou importação de energia
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2025.12 Despacho ANEEL nº 3.904/2025 24/12/2025
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de declaração de atendimento aos
+Procedimentos de Rede para instalações de
+distribuição, autoprodutor com carga maior que 7.14 Responsabilidades 2025.12 01/01/2026
+geração, consumidor livre e agente de
+exportação ou importação de energia
+ÍNDICE
+1. OBJETIVO............................................................................................................................3
+2. PRODUTOS..........................................................................................................................3
+2.1. Declaração de Atendimento aos Requisitos dos Procedimentos de Rede para
+Energização (DAPR/E).......................................................................................................3
+2.2. Declaração de Atendimento aos Requisitos dos Procedimentos de Rede Definitiva
+(DAPR/D) ........................................................................................................................ 3
+3. RESPONSABILIDADES..........................................................................................................4
+3.1. Operador Nacional do Sistema Elétrico – ONS.................................................................4
+3.2. Agentes de distribuição, consumidores livres, e autoprodutores com carga maior que
+geração e agentes de exportação ou importação de energia..........................................4
+4. PRAZOS...............................................................................................................................5
+5. REFERÊNCIAS......................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de declaração de atendimento aos
+Procedimentos de Rede para instalações de
+distribuição, autoprodutor com carga maior que 7.14 Responsabilidades 2025.12 01/01/2026
+geração, consumidor livre e agente de
+exportação ou importação de energia
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas do processo relativos à emissão
+das declarações de atendimento aos requisitos dos Procedimentos de Rede para integração, por meio de
+conexão em instalações das transmissoras, das instalações de:
+(a) distribuição;
+(b) consumidores livres;
+(c) autoprodutores com carga maior que geração; e
+(d) agentes de exportação ou importação autorizados a implantar novas instalações
+destinadas à interligação internacional que acessam à Rede Básica e não são equiparadas
+[1].
+1.2. Os autoprodutores citados neste submódulo referem-se àqueles com carga maior que a geração e que
+acessam a Rede Básica.
+2. PRODUTOS
+2.1. Declaração de Atendimento aos Requisitos dos Procedimentos de Rede para Energização
+(DAPR/E)
+2.1.1 Declara que as instalações do agente de distribuição, do consumidor livre, do autoprodutor com carga
+maior que geração e agentes de exportação ou importação de energia atendem aos requisitos estabelecidos
+nos Procedimentos de Rede para sua energização e operação integrada ao SIN, e sua data de emissão define
+a partir de quando a energização das instalações pode ser realizada.
+2.2. Declaração de Atendimento aos Requisitos dos Procedimentos de Rede Definitiva
+(DAPR/D)
+2.2.1 Declara que as instalações do agente de distribuição, do consumidor livre ou do autoprodutor com
+carga maior que geração atendem aos requisitos estabelecidos nos Procedimentos de Rede, sem pendências
+para a operação integrada ao SIN em caráter definitivo; ou
+2.2.2 Declara que as instalações do agente de exportação ou importação de energia atendem aos requisitos
+estabelecidos nos Procedimentos de Rede e sua data de emissão define a partir de quando o agente pode
+iniciar a exportação ou importação de energia elétrica por meio das instalações de transmissão destinadas à
+interligação internacional conectadas à Rede Básica.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de declaração de atendimento aos
+Procedimentos de Rede para instalações de
+distribuição, autoprodutor com carga maior que 7.14 Responsabilidades 2025.12 01/01/2026
+geração, consumidor livre e agente de
+exportação ou importação de energia
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Verificar o atendimento aos requisitos e prazos estabelecidos nos Procedimentos de Rede
+para integração de instalações ao Sistema Interligado Nacional – SIN e solicitação das DAPR.
+(b) Verificar o cumprimento dos prazos de solução das Pendências para emissão das DAPR/D.
+(c) Emitir ou negar a emissão das DAPR/E e DAPR/D, e disponibilizá-las ao agente de distribuição,
+consumidor livre, autoprodutor com carga maior que geração e agentes de exportação ou
+importação de energia solicitante.
+3.2. Agentes de distribuição, consumidores livres, e autoprodutores com carga maior que
+geração e agentes de exportação ou importação de energia
+(a) Solicitar ao ONS a emissão da DAPR/E e DAPR/D com a Declaração de Conformidade de
+Integração das Instalações preenchida.
+(b) Informar ao ONS e manter atualizadas as datas previstas para a energização das suas
+instalações e/ou o início do período de exportação ou importação de energia.
+(c) Tornar-se membro associado ao ONS.
+(d) Atender aos prazos para solucionar as pendências identificadas.
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de declaração de atendimento aos
+Procedimentos de Rede para instalações de
+distribuição, autoprodutor com carga maior que 7.14 Responsabilidades 2025.12 01/01/2026
+geração, consumidor livre e agente de
+exportação ou importação de energia
+4. PRAZOS
+Quadro 1 – Prazos do processo de emissão das DAPR para agente de distribuição, e consumidor livre,
+autoprodutores com carga maior que geração e agentes de exportação ou importação de energia
+Atividade Responsável Prazos
+Conforme prazos dos
+Declaração de atendimento de Submódulos mencionados no
+1 Agente
+requisitos Anexo B do Submódulo 7.14
+(Procedimental)
+Mínimo de 10 dias antes da
+2 Solicitação da DAPR/E Agente data prevista para
+energização das instalações
+Até 10 dias após o protocolo
+3 Emissão da DAPR/E ONS da solicitação no ONS
+(atividade 2)
+Atendimento dos requisitos
+Até 90 dias após a emissão
+4 impeditivos para a emissão da Agente
+da DAPR/E
+DAPR/D
+Quando não houver
+5 Solicitação da DAPR/D Agente
+pendências
+Até 10 dias após o protocolo
+6 Emissão da DAPR/D ONS da solicitação no ONS
+(atividade 5)
+5. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de Transmissão de
+Energia Elétrica no Sistema Elétrico Nacional. Módulo 2 - Classificação das Instalações e Módulo 5 -
+Acesso ao Sistema.
+Endereço na internet: http://www.ons.org.br 5 / 5

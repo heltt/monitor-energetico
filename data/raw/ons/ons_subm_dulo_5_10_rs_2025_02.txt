@@ -1,0 +1,129 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 5.10-RS_2025.02
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 5.10-RS_2025.02.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 5.10
+Operação teleassistida das instalações
+da Rede de Operação
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2025.02 Despacho ANEEL nº 370/2025 27/02/2025
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação teleassistida das instalações da Rede
+5.10 Responsabilidades 2025.02 01/05/2025
+de Operação
+ÍNDICE
+1. OBJETIVO............................................................................................................................3
+2. PRODUTOS..........................................................................................................................3
+2.1. Parecer da Declaração de Atendimento dos Requisitos para Teleassistência..................3
+2.2. Relatório de Desempenho das Instalações Teleassistidas................................................3
+3. RESPONSABILIDADES..........................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS.................................................................3
+3.2. Agentes de geração e transmissão...................................................................................3
+3.3. Agentes responsáveis por instalações estratégicas..........................................................4
+4. PRAZOS...............................................................................................................................4
+5. REFERÊNCIAS......................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação teleassistida das instalações da Rede
+5.10 Responsabilidades 2025.02 01/05/2025
+de Operação
+1. OBJETIVO
+1.1. Estabelecer as responsabilidades do ONS e dos agentes envolvidos, os produtos, os prazos e as etapas
+referente ao processo de operação teleassistida das instalações da Rede de Operação [1][2].
+2. PRODUTOS
+2.1. Parecer da Declaração de Atendimento dos Requisitos para Teleassistência
+2.1.1. Consiste no parecer do ONS considerando aceita ou não aceita a declaração do agente proprietário de
+instalações estratégicas teleassistidas para atendimento aos requisitos de teleassistência definidos nos
+Procedimentos de Rede.
+2.2. Relatório de Desempenho das Instalações Teleassistidas
+2.2.1. Compreende a análise de desempenho dos indicadores de assistência das instalações teleassistidas da
+Rede de Operação.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Emitir documento de aceite ou recusa à Declaração de Atendimento dos Requisitos para
+Teleassistência encaminhada pelo agente.
+(b) Disponibilizar à ANEEL o Relatório de Desempenho das Instalações Teleassistidas.
+(c) Revogar ou anular, em conjunto com ANEEL, o aceite à Declaração de Atendimento dos
+Requisitos para Teleassistência quando constatar prestação de teleassistência inadequada.
+(d) Suspender, em conjunto com a ANEEL, o direito de uma instalação ser teleassistida quando
+constatar prestação de teleassistência inadequada.
+(e) Monitorar, avaliar e disponibilizar à ANEEL os indicadores de assistência (ASST, TELEASST e
+FPTELEASST) das instalações da Rede de Operação.
+(f) Apurar os tempos, em minutos, de reestabelecimento ou recomposição, realizados por
+assistência local e por teleassistência.
+(g) Realizar análise de desempenho em relação aos tempos apurados de reestabelecimento ou
+recomposição realizados por assistência local e por teleassistência.
+3.2. Agentes de geração e transmissão
+(a) Informar ao centro de operação do ONS com o qual se relacionam o seu regime de assistência
+de operação da instalação, bem como ocorrência de mudanças neste regime.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação teleassistida das instalações da Rede
+5.10 Responsabilidades 2025.02 01/05/2025
+de Operação
+(b) Informar ao centro de operação do ONS com o qual se relacionam os períodos de assistência
+local de suas instalações.
+(c) Calcular e disponibilizar ao ONS os indicadores de assistência das instalações e realizar ações
+mitigadoras em caso de baixo desempenho.
+3.3. Agentes responsáveis por instalações estratégicas
+(a) Encaminhar ao ONS a Declaração de Atendimento dos Requisitos para Teleassistência.
+4. PRAZOS
+Quadro 1 – Prazos para operação teleassistida das instalações da Rede de Operação
+Atividade Responsável Prazo Periodicidade
+Antecedência mínima de
+Informe ao ONS do Agente de Quando da
+30 dias em relação à data
+1 regime de assistência de geração e integração da
+prevista para entrada em
+operação da instalação transmissão instalação
+operação da instalação
+Informe ao ONS da
+Agente de Antecedência mínima de
+mudança do regime de
+1 geração e 30 dias em relação à data Sob demanda
+assistência de operação
+transmissão prevista para mudança
+da instalação
+Agente de
+Envio ao ONS da geração e
+Antecedência mínima de
+Declaração de transmissão
+6 dias úteis antes do início
+2 Atendimento dos proprietário Sob demanda
+da operação com
+Requisitos para de
+teleassistência
+Teleassistência instalações
+estratégicas
+Emissão do Parecer da
+Declaração de Até 5 dias úteis após
+3 Atendimento dos ONS recebimento da Sob demanda
+Requisitos para Declaração
+Teleassistência
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Envio ao ONS dos
+Nome Agente deSu bmódulo Tipo Revisão Vigência
+Operação teilnedasicsiasdtiodare dsa sd ianss talações da Rede
+4 geração e 5.10 Respons - abilidades 2025.02 Me0n1s/a0l5/2025
+insdtea lOapçeõreasç ão
+transmissão
+teleassistidas
+Disponibilização à
+ANEEL do Relatório de
+5 Desempenho das ONS - Anual
+Instalações
+Teleassistidas
+5. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de Transmissão de
+Energia Elétrica no Sistema Elétrico Nacional. Módulo 4 - Prestação dos Serviços
+[2] ANEEL. Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de Transmissão de
+Energia Elétrica no Sistema Elétrico Nacional. Módulo 6 - Coordenação e Controle da Operação
+Endereço na internet: http://www.ons.org.br 5 / 5

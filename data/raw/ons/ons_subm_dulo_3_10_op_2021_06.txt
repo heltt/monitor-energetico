@@ -1,0 +1,429 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 3.10-OP_2021.06
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 3.10-OP_2021.06.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 3.10
+Estudos para segurança operacional
+elétrica
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2021.06 Despacho ANEEL nº 1.895/2021 29/06/2020
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos para segurança operacional elétrica 3.10 Operacional 2021.06 02/07/2021
+ÍNDICE
+1. ESTUDOS DE OTIMIZAÇÃO DE CONTROLADORES.............................................................................3
+1.1. Contexto e abrangência dos estudos............................................................................................3
+1.2. Coleta e consolidação dos dados..................................................................................................3
+1.3. Estudos de desempenho do sistema sob pequenas perturbações...............................................5
+1.4. Estudos de desempenho do sistema sob grandes perturbações..................................................5
+1.5. Elaboração de relatório.................................................................................................................5
+2. ESTUDOS DE RECOMPOSIÇÃO DO SISTEMA.....................................................................................6
+2.1. Contexto e abrangência dos estudos............................................................................................6
+2.2. Coleta e consolidação dos dados..................................................................................................7
+2.3. Estudos de regime permanente....................................................................................................7
+2.4. Estudos de estabilidade eletromecânica.......................................................................................7
+2.5. Estudos de transitórios eletromagnéticos.....................................................................................8
+2.6. Elaboração de relatório.................................................................................................................8
+3. ESTUDOS DE RESERVA DE POTÊNCIA OPERATIVA.............................................................................8
+3.1. Contexto e abrangência dos estudos............................................................................................8
+3.2. Coleta e consolidação dos dados..................................................................................................9
+3.3. Elaboração de relatório.................................................................................................................9
+4. ESTUDOS DE CONTROLE CARGA-FREQUÊNCIA.................................................................................9
+4.1. Contexto e abrangência dos estudos..........................................................................................10
+4.2. Coleta e consolidação dos dados................................................................................................10
+4.3. Elaboração de relatório...............................................................................................................11
+5. DISPONIBILIZAÇÃO DOS RELATÓRIOS E ACOMPANHAMENTO DA IMPLANTAÇÃO DAS MEDIDAS
+PROPOSTAS...................................................................................................................................11
+6. REFERÊNCIAS.................................................................................................................................12
+7. ANEXOS.........................................................................................................................................12
+Endereço na internet: http://www.ons.org.br 2 / 13
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos para segurança operacional elétrica 3.10 Operacional 2021.06 02/07/2021
+Endereço na internet: http://www.ons.org.br 3 / 13
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos para segurança operacional elétrica 3.10 Operacional 2021.06 02/07/2021
+1. ESTUDOS DE OTIMIZAÇÃO DE CONTROLADORES
+1.1. Contexto e abrangência dos estudos
+1.1.1. O ONS realiza os estudos de otimização dos controladores quando entram em operação novas
+instalações que afetem o desempenho da Rede de Operação, ou quando outro processo do ONS sinaliza a
+necessidade de sua realização.
+1.1.2. O ONS realiza os estudos de otimização de controladores aplicáveis aos seguintes equipamentos de
+controle:
+(a) sistema de excitação dos geradores e compensadores síncronos;
+(b) regulação primária de frequência;
+(c) sistema de controle de conversores de frequência e de elos de corrente contínua;
+(d) controle conjunto de potência ativa e de tensão de usinas;
+(e) sistema de controle de compensadores estáticos;
+(f) sistema de controle de compensadores série controláveis; e
+(g) sistema de controle de outros elementos de redes de transmissão CA flexíveis (Flexible Alternating
+Current Transmission System (FACTS)).
+1.1.3. O ONS desenvolve simulações e análises dos estudos para segurança operacional elétrica de acordo
+com as premissas, critérios e metodologias estabelecidas no Submódulo 2.3 – Premissas, critérios e
+metodologia para estudos elétricos.
+1.1.4. O ONS realiza os estudos de otimização de controladores com a utilização de programas
+computacionais e modelos para análise de redes em regime permanente, de estabilidade eletromecânica e
+de estabilidade dinâmica, conforme descrito no Submódulo 2.3.
+1.1.5. O ONS interage com os agentes de operação quando houver necessidade de instalação do Sistema de
+Medição Sincronizada de Fasores (SMSF) para avaliação do desempenho dos controladores em serviço.
+1.1.6. O ONS define a necessidade de novos controladores e indica a conveniência ou a necessidade de
+modernização dos equipamentos de controle que apresentem desempenho aquém dos requisitos
+estabelecidos nos Submódulos 2.6 – Requisitos para subestações e seus equipamentos, 2.10 – Requisitos
+técnicos mínimos para a conexão às instalações de transmissão e 2.11 – Requisitos para os sistemas de
+proteção, de registro de perturbações e de teleproteção..
+1.1.7. O ONS determina a parametrização dos novos controladores ou das revisões dos controladores em
+serviço, em conjunto com os agentes de operação.
+1.2. Coleta e consolidação dos dados
+1.2.1. O ONS obtém os seguintes dados necessários para realização dos estudos de otimização de
+controladores:
+(a) indicadores e padrões de desempenho, conforme Módulo 9 – Indicadores;
+(b) requisitos para as instalações de transmissão, conforme Módulo 2 – Critérios e requisitos;
+Endereço na internet: http://www.ons.org.br 4 / 13
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos para segurança operacional elétrica 3.10 Operacional 2021.06 02/07/2021
+(c) requisitos técnicos para conexão às instalações de transmissão, conforme Submódulo 2.10 –
+Requisitos técnicos mínimos para a conexão às instalações de transmissão;
+(d) análise do desempenho do sistema elétrico, previsão de carga, cronograma de entrada em operação
+de novas obras e análises das consequências de atrasos em obras programadas, conforme
+Submódulo 3.1 – Planejamento da operação elétrica de médio prazo;
+(e) diretrizes para operação elétrica e subsídios dados aos órgãos da operação do sistema, conforme
+Submódulo 3.3 – Planejamento da operação elétrica com horizonte quadrimestral;
+(f) atualização de diretrizes e de procedimentos estabelecidos no Submódulo 4.1 – Programação mensal
+da operação elétrica;
+(g) atualização dos limites de transmissão em função de indisponibilidades individuais de equipamentos,
+conforme Submódulo 3.1, Submódulo 3.3 e Submódulo 4.1;
+(h) casos de referência de acordo com o ciclo de planejamento da operação elétrica temporalmente mais
+ajustado ao cronograma do estudo de otimização de controladores, conforme Submódulo 3.1,
+Submódulo 3.3, Submódulo 4.1 e Submódulo 4.2 – Programação de intervenções em instalações da
+Rede de Operação;
+(i) informações necessárias para a realização do planejamento da operação elétrica do Sistema
+Interligado Nacional (SIN), conforme anexo do Submódulo 3.3;
+(j) práticas operacionais vigentes, conforme Submódulo 5.12 – Instruções de Operação;
+(k) níveis de curto-circuito do sistema para o horizonte do estudo, conforme Submódulo 3.12 – Estudos
+de curto-circuito;
+(l) banco de dados de Sistemas Especiais de Proteção (SEP), com diagramas unifilares lógicos, para
+orientação das simulações do comportamento do sistema considerando a atuação de SEP, conforme
+Submódulo 7.5 – Implantação de Sistemas Especiais de Proteção;
+(m)registros de grandezas fasoriais para aferição dos modelos de componentes e verificação do
+desempenho de proteções sistêmicas relevantes, conforme Submódulo 7.10 – Implantação do
+sistema de registro de perturbações;
+(n) ajustes da proteção de caráter sistêmico, conforme Submódulo 7.6 – Implantação de proteções de
+caráter sistêmico;
+(o) versões atualizadas dos modelos computacionais para estudos elétricos utilizadas pelo ONS,
+conforme site do ONS e Submódulo 2.3;
+(p) diretrizes e subsídios provenientes dos resultados dos estudos pré-operacionais de instalações da
+Rede de Operação, conforme Submódulo 7.4 – Estudos pré-operacionais de integração de instalações
+da Rede de Operação;
+(q) dados e modelos de componentes validados de acordo com a validação de modelos de componentes
+e de dados para estudos elétricos, conforme Submódulo 3.9 – Validação de dados e de modelos de
+componentes para estudos elétricos; e
+(r) critérios a considerar na execução e na análise das simulações do desempenho elétrico do sistema,
+conforme Submódulo 2.3.
+Endereço na internet: http://www.ons.org.br 5 / 13
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos para segurança operacional elétrica 3.10 Operacional 2021.06 02/07/2021
+1.2.2. O ONS consolida os dados coletados e os disponibiliza aos agentes de operação.
+1.2.3. Os agentes de operação identificam incorreções nos dados e informações fornecidas e comunicam ao
+ONS para retificação do dado, caso necessário.
+1.3. Estudos de desempenho do sistema sob pequenas perturbações
+1.3.1. O ONS analisa a estabilidade do sistema sob pequenas perturbações, observando os amortecimentos
+das oscilações impostas por essas perturbações no sistema para diferentes configurações e condições
+operativas da rede.
+1.3.2. O ONS realiza testes individualizados para os ajustes dos novos controladores ou daqueles em
+operação, com o objetivo de avaliar o seu desempenho.
+1.3.3. O ONS analisa o desempenho do sistema para as condições de carga, de geração e de configuração de
+rede que melhor caracterizem problemas nos ajustes dos controladores.
+1.3.4. O ONS analisa outros cenários representativos que se façam necessários, de forma a avaliar a robustez
+dos ajustes obtidos por meio dos estudos de otimização e garantir desempenho adequado dos controladores.
+1.4. Estudos de desempenho do sistema sob grandes perturbações
+1.4.1. O ONS analisa a estabilidade do sistema sob grandes perturbações, de forma a destacar os benefícios
+dos novos ajustes e/ou reguladores propostos em relação ao desempenho anterior.
+1.4.2. O ONS avalia o desempenho dinâmico do sistema, considerando a rede completa e diferentes
+condições operativas para comparação com o desempenho anterior.
+1.4.3. O ONS avalia o desempenho dinâmico do sistema para situações de contingência.
+1.4.4. O ONS realiza os estudos com enfoque nos aspectos de desempenho dinâmico do sistema, com o
+objetivo de avaliar os efeitos dos novos ajustes ou dos novos controladores, bem como examinar os efeitos
+localizados que possam ser limitantes para a plena utilização da rede.
+1.4.5. O ONS considera os Sistemas Especiais de Proteção (SEP) existentes, bem como as possíveis
+modificações ou a necessidade de novos sistemas.
+1.5. Elaboração de relatório
+1.5.1. O ONS elabora o Relatório de Estudos de Otimização de Controladores Sistêmicos que contém:
+(a) definição da necessidade de reajustes em equipamentos de controle existentes;
+(b) definição da necessidade de novos equipamentos de controle;
+(c) determinação da necessidade de modernização de controladores; e
+(d) definição de procedimentos operativos para a realização de testes de comissionamento de novos
+controladores e de ajustes de controladores existentes.
+1.5.2. Os estudos de otimização de controladores podem ser incorporados ao Relatório de Estudo Pré-
+Operacional, descrito no Submódulo 7.4.
+1.5.3. Os agentes de operação executam o comissionamento e os ensaios dos novos controladores,
+solicitados pelo ONS, bem como os ensaios de controladores em operação, respeitando a sistemática e as
+responsabilidades estabelecidas no Submódulo 7.4.
+Endereço na internet: http://www.ons.org.br 6 / 13
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos para segurança operacional elétrica 3.10 Operacional 2021.06 02/07/2021
+1.5.4. Os agentes de operação estabelecem, em conjunto com o ONS, o processo de acompanhamento de
+comissionamento e de ensaios em controladores novos e existentes, quando solicitados pelo ONS,
+respeitando a sistemática e as responsabilidades estabelecidas no Submódulo 7.4.
+2. ESTUDOS DE RECOMPOSIÇÃO DO SISTEMA
+2.1. Contexto e abrangência dos estudos
+2.1.1. O ONS realiza estudos de recomposição do sistema para definição de medidas que agilizem o
+restabelecimento do sistema após grandes perturbações, no âmbito do planejamento e da programação da
+operação.
+2.1.2. O ONS realiza os estudos de recomposição do sistema quando há alterações na topologia da rede,
+alterações nas filosofias de recomposição do sistema, estudos pré-operacionais ou providências do Relatório
+de Análise de Perturbações (RAP).
+2.1.3. O ONS desenvolve simulações e análises dos estudos para segurança operacional elétrica de acordo
+com as premissas, critérios e metodologias estabelecidas no Submódulo 2.3.
+2.1.4. O ONS realiza os estudos de recomposição do sistema com a utilização de programas computacionais
+e modelos para análise de redes em regime permanente, de estabilidade eletromecânica e de transitórios
+eletromagnéticos, conforme descrito no Submódulo 2.3.
+2.1.5. O agente de operação realiza simulações e análises de regime permanente, de estabilidade
+eletromecânica, de transitórios eletromagnéticos e outras que se façam necessárias para avaliar os impactos
+da nova instalação no desempenho, disponibilidade, proteção, operação e manutenção das instalações sob
+sua responsabilidade.
+2.1.6. O ONS realiza os estudos de recomposição do sistema que abrangem:
+(a) filosofia básica do processo de recomposição e suas diretrizes gerais;
+(b) diretrizes para que essa filosofia seja aplicada com sucesso e;
+(c) processos de recomposição com a descrição precisa de suas etapas nas diversas áreas envolvidas.
+2.1.7. O ONS define e revisa constantemente a filosofia e as medidas adotadas nos estudos de recomposição
+do sistema, no qual considera os seguintes aspectos:
+(a) acompanhamento do equilíbrio entre carga e geração das áreas de autorrestabelecimento das usinas
+que fazem parte da malha principal do SIN;
+(b) definição dos limites de tensão e disponibilização de blocos de carga em patamares seguros;
+(c) acompanhamento da entrada em operação de novos equipamentos, de novas instalações, ou
+mudança de configuração de uma instalação, inclusive recapacitações que interfiram no processo de
+recomposição;
+(d) previsão, além do processo prioritário de recomposição, de alternativas para cobrir situações de
+indisponibilidades de equipamentos que comprometam o restabelecimento das áreas de
+recomposição;
+(e) retirada de operação de equipamentos que fazem parte do processo de recomposição; e
+Endereço na internet: http://www.ons.org.br 7 / 13
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos para segurança operacional elétrica 3.10 Operacional 2021.06 02/07/2021
+(f) revisão de procedimentos operacionais em função de estudos feitos pelo ONS ou pelos agentes de
+operação, bem como de ampliações na Rede de Operação.
+2.1.8. O agente de operação propõe ao ONS a revisão do processo de recomposição em função de alteração
+de configuração operativa, entrada ou retirada de operação de equipamento ou instalação em sua área de
+atuação.
+2.2. Coleta e consolidação dos dados
+2.2.1. O ONS obtém os seguintes dados necessários para realização dos estudos de recomposição do sistema:
+(a) indicadores de desempenho, conforme Módulo 9;
+(b) requisitos mínimos para as instalações de transmissão, conforme Módulo 2;
+(c) requisitos técnicos para o acesso às instalações de transmissão, conforme Submódulo 2.10;
+(d) análise do desempenho do sistema elétrico, previsão de carga própria, cronograma de entrada em
+operação de novas obras e análises das consequências de atrasos em obras programadas, conforme
+Submódulo 3.3;
+(e) práticas operacionais vigentes, conforme Submódulo 5.12;
+(f) casos de referência de acordo com o ciclo de planejamento da operação elétrica temporalmente mais
+ajustado ao cronograma do estudo, conforme Submódulo 3.3, Submódulo 4.1 e Submódulo 4.2;
+(g) informações necessárias para a realização do planejamento da operação elétrica do SIN, conforme
+anexo do Submódulo 3.3;
+(h) dados estatísticos e índices de desempenho de atuação das proteções, conforme Submódulo 6.12 –
+Análise estatística de desligamentos forçados e de desempenho dos sistemas de proteção;
+(i) ajustes da proteção de caráter sistêmico, conforme Submódulo 7.6;
+(j) versões atualizadas dos modelos computacionais para estudos elétricos utilizadas pelo ONS,
+conforme site do ONS e Submódulo 2.3;
+(k) dados e modelos de componentes consolidados de acordo com a validação de dados e modelos de
+componentes para estudos elétricos, conforme Submódulo 3.9; e
+(l) critérios a considerar na execução e na análise das simulações de desempenho elétrico do sistema,
+conforme Submódulo 2.3.
+2.2.2. O ONS consolida os dados coletados e os disponibiliza aos agentes de operação.
+2.2.3. Os agentes de operação identificam incorreções nos dados e informações fornecidas e comunicam ao
+ONS para retificação do dado, caso necessário.
+2.3. Estudos de regime permanente
+2.3.1. O ONS realiza estudos de regime permanente para definir os patamares das cargas prioritárias a serem
+recompostas de forma ágil e segura em áreas geoelétricas, criadas a partir das usinas de
+autorrestabelecimento e das configurações mínimas de rede, o que garante que as grandezas elétricas não
+ultrapassem os limites de tensão especificados para os equipamentos. Nos estudos, os limites de todos os
+equipamentos são respeitados, tais como os limites de geração ou absorção de potência reativa das
+máquinas e dos compensadores síncronos.
+Endereço na internet: http://www.ons.org.br 8 / 13
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos para segurança operacional elétrica 3.10 Operacional 2021.06 02/07/2021
+2.3.2. O ONS realiza os estudos de regime permanente em consonância com a filosofia estabelecida para a
+recomposição, seja ela fluente ou coordenada.
+2.4. Estudos de estabilidade eletromecânica
+2.4.1. O ONS realiza os estudos de estabilidade eletromecânica para prevenir a ocorrência de perturbações
+eletromecânicas e de sobretensões dinâmicas que possam representar perigo para a integridade das
+máquinas síncronas e dos demais equipamentos.
+2.5. Estudos de transitórios eletromagnéticos
+2.5.1. O ONS realiza os estudos de transitórios eletromagnéticos de forma a:
+(a) verificar se as configurações definidas pelos estudos de regime permanente e de estabilidade
+eletromecânica estão adequadas, para que os surtos de manobra se mantenham em níveis iguais ou
+inferiores à suportabilidade dos equipamentos relacionada às sobretensões, sobrecorrentes e
+capacidade de energia;
+(b) considerar situações não previstas nas fases de planejamento da expansão e de projeto do sistema
+de acordo com as necessidades operacionais impostas;
+(c) reavaliar situações já previstas, mas com a utilização de dados mais recentes do sistema elétrico e dos
+equipamentos;
+(d) reavaliar a adequação dos dispositivos de proteção sistêmica existentes, tendo em vista a mudança
+da topologia do sistema elétrico;
+(e) analisar ocorrências e obter soluções ou medidas de prevenção para detectar se há equipamentos
+superados ou com funcionamento inadequado;
+(f) analisar a conformidade dos SEP existentes; e
+(g) indicar aos agentes de operação as grandezas elétricas relevantes para reavaliação dos ajustes das
+proteções de equipamentos em função de mudança da topologia do sistema elétrico.
+2.6. Elaboração de relatório
+2.6.1. O ONS elabora o Relatório de Estudos de Recomposição do Sistema que contém:
+(a) diretrizes operativas para recomposição do sistema;
+(b) definição da necessidade de revisão ou de adequação de ajustes em equipamentos de controle;
+(c) definição de novas proteções sistêmicas ou revisão das existentes; e
+(d) adequação dos SEP ou revisão dos SEP existentes.
+2.6.2. O ONS estabelece as diretrizes operativas para a elaboração ou alteração das instruções de operação
+do processo de recomposição do sistema.
+3. ESTUDOS DE RESERVA DE POTÊNCIA OPERATIVA
+3.1. Contexto e abrangência dos estudos
+Endereço na internet: http://www.ons.org.br 9 / 13
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos para segurança operacional elétrica 3.10 Operacional 2021.06 02/07/2021
+3.1.1. O ONS desenvolve simulações e análises dos estudos para segurança operacional elétrica de acordo
+com as premissas, critérios e metodologias estabelecidas no Submódulo 2.3.
+3.1.2. O ONS realiza os estudos de reserva de potência operativa com a utilização de programas
+computacionais que incorporam os modelos para cálculo da reserva de potência girante probabilística,
+conforme descrito no Submódulo 2.3.
+3.1.3. O ONS quantifica a reserva de potência operativa global e suas parcelas e define a alocação mais
+conveniente da reserva de potência, conforme critérios estabelecidos no Submódulo 2.3.
+3.1.4. O ONS avalia o risco de não atendimento à carga adotado como referência nos estudos de
+quantificação da reserva de potência por meios probabilísticos.
+3.1.5. O ONS analisa o comportamento da frequência do sistema e dos desvios de intercâmbio das áreas de
+controle da Rede de Operação com a finalidade de aferir a adequação dos critérios de quantificação e
+alocação da reserva de potência operativa.
+3.2. Coleta e consolidação dos dados
+3.2.1. O ONS obtém os seguintes dados necessários para a realização dos estudos de reserva de potência
+operativa:
+(a) previsão de carga de demanda máxima integralizada e instantânea, conforme Submódulo 3.5 –
+Consolidação da previsão de carga para planejamento da operação eletroenergética, em função do
+horizonte do estudo e da periodicidade da previsão;
+(b) análise do desempenho do sistema elétrico, previsão de carga, cronograma de entrada em operação
+de novas obras e análise das consequências de atrasos em obras programadas, conforme
+Submódulo 3.3;
+(c) casos de referência ajustados ao ciclo de planejamento da operação elétrica, conforme
+Submódulo 3.3, Submódulo 4.1 e Submódulo 4.2;
+(d) informações necessárias à realização do planejamento da operação elétrica, conforme anexo do
+Submódulo 3.3.
+(e) versões atualizadas dos modelos computacionais para estudos elétricos utilizadas pelo ONS,
+conforme site do ONS e Submódulo 2.3; e
+(f) critérios a serem considerados na execução e análise das simulações, conforme Submódulo 2.3.
+3.2.2. O ONS consolida os dados coletados e os disponibiliza aos agentes de operação.
+3.2.3. Os agentes de operação identificam incorreções nos dados e informações fornecidas e comunicam ao
+ONS para retificação do dado, caso necessário.
+3.3. Elaboração de relatório
+3.3.1. O ONS elabora o Relatório de Cálculo Anual da Reserva de Potência Operativa que contém:
+(a) diretrizes para a quantificação e alocação da reserva de potência operativa do SIN;
+(b) valor do risco de não atendimento à carga utilizado nos estudos;
+(c) critérios adotados;
+(d) subsídios para o tratamento dos aspectos comerciais da reserva de potência operativa;
+Endereço na internet: http://www.ons.org.br 10 / 13
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos para segurança operacional elétrica 3.10 Operacional 2021.06 02/07/2021
+(e) avaliação da eficácia dos critérios de quantificação e de alocação da reserva de potência operativa; e
+(f) análises elaboradas para tomadas de decisão.
+4. ESTUDOS DE CONTROLE CARGA-FREQUÊNCIA
+4.1. Contexto e abrangência dos estudos
+4.1.1. O ONS realiza os estudos do controle carga-frequência quando há indicação de desempenho
+inadequado do sistema, alteração da topologia da rede ou entrada em operação de instalações que afetem
+o desempenho da Rede de Operação.
+4.1.2. O ONS determina, em conjunto com os agentes de operação, a parametrização dos controladores
+locais relacionados ao CAG.
+4.1.3. O ONS estabelece, em conjunto com os agentes de operação, os impactos, manobras e contingências
+mais relevantes a serem simulados.
+4.1.4. O ONS desenvolve simulações e análises dos estudos para segurança operacional elétrica de acordo
+com as premissas, critérios e metodologias estabelecidas no Submódulo 2.3.
+4.1.5. O ONS realiza os estudos de controle carga-frequência com a utilização de programas computacionais
+e modelos para análise de redes em regime permanente e de estabilidade eletromecânica, conforme descrito
+no Submódulo 2.3.
+4.1.6. O ONS especifica funcionalmente o software dos CAG dos diversos centros de operação designados
+pelo ONS.
+4.1.7. O ONS analisa o comportamento da frequência do sistema e dos desvios de intercâmbio das áreas de
+controle da Rede de Operação para aferir a eficácia do CAG e a adequação das estratégias de controle e de
+alocação da reserva de potência operativa adotadas.
+4.1.8. O ONS elabora, quando necessário, simulações e testes sistêmicos para a verificação de desvios e/ou
+oscilações de frequência e intercâmbio que, não tendo sido previstos, foram observados nas análises de
+perturbações.
+4.1.9. O ONS elabora as diretrizes operativas para a operação em CAG.
+4.2. Coleta e consolidação dos dados
+4.2.1. O ONS obtém os seguintes dados necessários para a realização dos estudos de controle carga-
+frequência:
+(a) indicadores de desempenho, conforme Módulo 9;
+(b) requisitos mínimos para instalações de transmissão, conforme Módulo 2;
+(c) Parecer de Acesso com a definição das condições de acesso, conforme Submódulo 7.1;
+(d) informações técnicas sobre o acesso e especificação detalhada dos equipamentos e instalações para
+conexão de nova instalação, conforme Submódulo 7.1;
+(e) requisitos técnicos para conexão às instalações de transmissão, conforme Submódulo 2.10;
+(f) casos de referência ajustados ao ciclo de planejamento da operação elétrica e ao cronograma da nova
+instalação, conforme Submódulo 3.3, Submódulo 4.1 e Submódulo 4.2;
+Endereço na internet: http://www.ons.org.br 11 / 13
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos para segurança operacional elétrica 3.10 Operacional 2021.06 02/07/2021
+(g) informações necessárias à realização do planejamento da operação elétrica, conforme Submódulo
+3.3 e Submódulo 4.1;
+(h) práticas operacionais vigentes, conforme Submódulo 5.12;
+(i) registros de perturbações de longa duração para aferição dos modelos de componentes e verificação
+do desempenho de proteções sistêmicas relevantes, conforme Submódulo 7.10;
+(j) ajustes da proteção de caráter sistêmico, conforme Submódulo 7.6;
+(k) versões atualizadas das ferramentas computacionais para estudos elétricos utilizadas pelo ONS,
+conforme site do ONS e Submódulo 2.3;
+(l) dados e modelos de componentes consolidados de acordo com a validação de dados e modelos de
+componentes para estudos elétricos, conforme Submódulo 3.9;
+(m)Relatório de Análise de Perturbações (RAP), conforme Submódulo 6.3 – Análise de perturbação; e
+(n) critérios a serem considerados na execução e na análise das simulações do desempenho elétrico do
+sistema, conforme Submódulo 2.3.
+4.2.2. O ONS consolida os dados coletados e os disponibiliza aos agentes de operação.
+4.2.3. Os agentes de operação identificam incorreções nos dados e informações fornecidas e comunicam ao
+ONS para retificação do dado, caso necessário.
+4.3. Elaboração de relatório
+4.3.1. O ONS elabora o Relatório do Estudo de Controle Carga-Frequência e o Relatório de Requisitos de
+Medição e Controle do Controle Automático de Geração para Expansão do Sistema que contém:
+(a) avaliação do desempenho dos CAG;
+(b) modificações, quando houver, nos parâmetros e na funcionalidade dos reguladores de velocidade,
+dos CAG e dos controles conjuntos de potência ativa;
+(c) definição da melhor estratégia de controle carga-frequência, revisão dos parâmetros de controle e
+otimização da alocação da reserva de potência operativa;
+(d) diretrizes operativas para a elaboração de instruções de operação do ONS relativas ao controle
+carga-frequência;
+(e) requisitos, definidos pelo ONS, para a participação de novas usinas no CAG;
+(f) descrição dos recursos de comunicação necessários para integrar as usinas participantes do CAG aos
+centros de operação designados pelo ONS;
+(g) especificação de registradores adequados para o monitoramento dos fenômenos de longa duração
+característicos do controle carga-frequência; e
+(h) diretrizes para testes de equipamentos de CAG.
+5. DISPONIBILIZAÇÃO DOS RELATÓRIOS E ACOMPANHAMENTO DA IMPLANTAÇÃO DAS MEDIDAS
+PROPOSTAS
+Endereço na internet: http://www.ons.org.br 12 / 13
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos para segurança operacional elétrica 3.10 Operacional 2021.06 02/07/2021
+5.1. O ONS elabora e disponibiliza aos agentes de operação os produtos dos estudos para segurança
+operacional elétrica listados a seguir:
+(a) Relatório de Estudos de Otimização de Controladores Sistêmicos;
+(b) Relatório de Estudos de Recomposição do Sistema;
+(c) Relatório de Cálculo Anual da Reserva de Potência Operativa;
+(d) Relatório de Estudo do Controle Carga-Frequência; e
+(e) Relatório de Requisitos de Medição e Controle do Controle Automático de Geração para Expansão do
+Sistema.
+5.2. O ONS acompanha a efetividade da implantação das medidas propostas nos relatórios a seguir, com o
+objetivo de reduzir ou eliminar eventuais discordâncias entre o desempenho real e o simulado.
+(a) Relatório de Estudos de Otimização de Controladores Sistêmico;
+(b) Relatório de Estudos de Recomposição do Sistema; e
+(c) Relatório de Estudo do Controle Carga-Frequência.
+5.3. O ONS acompanha a efetividade da implantação das medidas propostas no Relatório de Cálculo Anual
+da Reserva de Potência Operativa no intuito de aprimorar os critérios e a metodologia adotados para
+quantificação do montante e para alocação da reserva de potência operativa.
+6. REFERÊNCIAS
+6.1. Não há referências neste documento.
+7. ANEXOS
+7.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 13 / 13

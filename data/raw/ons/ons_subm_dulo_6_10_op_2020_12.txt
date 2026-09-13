@@ -1,0 +1,64 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.10-OP_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.10-OP_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.10
+Avaliação do desempenho dos serviços
+de telecomunicações que atendem a
+operação do Sistema Interligado
+Nacional
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Avaliação do desempenho dos serviços de
+telecomunicações que atendem a operação do 6.10 Operacional 2020.12 01/01/2021
+Sistema Interligado Nacional
+ÍNDICE
+1. ELABORAÇÃO DO RELATÓRIO DE AVALIAÇÃO DE DESEMPENHO DOS SERVIÇOS DE
+TELECOMUNICAÇÕES.......................................................................................................................3
+2. ACOMPANHAMENTO DE PROVIDÊNCIAS PARA SOLUÇÃO DE SITUAÇÕES DE NÃO ATENDIMENTO
+AOS REQUISITOS DE DISPONIBILIDADE............................................................................................3
+3. REFERÊNCIAS...................................................................................................................................3
+4. ANEXOS...........................................................................................................................................3
+Endereço na internet: http://www.ons.org.br 2 / 3
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Avaliação do desempenho dos serviços de
+telecomunicações que atendem a operação do 6.10 Operacional 2020.12 01/01/2021
+Sistema Interligado Nacional
+1. ELABORAÇÃO DO RELATÓRIO DE AVALIAÇÃO DE DESEMPENHO DOS SERVIÇOS DE
+TELECOMUNICAÇÕES
+1.1. O ONS, com base nos registros de ocorrências, elabora o Relatório de Avaliação de Desempenho dos
+Serviços de Telecomunicações que contém as seguintes informações:
+(a) a indisponibilidade de todos os serviços que não atenderam aos requisitos de disponibilidade
+definidos no Submódulo 2.15 – Requisitos mínimos para telecomunicações;
+(b) os circuitos individuais que integram os serviços e os indicadores de Disponibilidade Relativa dos
+Serviços de Telecomunicações (DRST), conforme Submódulo 9.6 – Indicadores de desempenho dos
+sistemas de supervisão e controle e dos serviços de telecomunicações, a eles relacionadas; e
+(c) os comentários aplicáveis relativos à apuração.
+1.1.1. As indisponibilidades registradas no Relatório são aquelas relacionadas propriamente aos serviços de
+telecomunicações que atendem à Operação do SIN. Não devem ser registradas as indisponibilidades
+decorrentes dos equipamentos, dispositivos, sistemas ou aplicativos computacionais usuários desses
+serviços de telecomunicações.
+1.1.2. Os tempos de indisponibilidade causados pelas interrupções programadas são computados para
+expurgo nos indicadores e relatórios mensais em conformidade com o Submódulo 9.6.
+2. ACOMPANHAMENTO DE PROVIDÊNCIAS PARA SOLUÇÃO DE SITUAÇÕES DE NÃO ATENDIMENTO AOS
+REQUISITOS DE DISPONIBILIDADE
+2.1. ONS informa ao agente de operação que um serviço sob responsabilidade do agente não está atendendo
+ao requisito de disponibilidade.
+2.2. O agente de operação propõe ao ONS, uma solução para o problema.
+2.2.1. Caso a solução proposta implique na implantação de novos serviços, o agente obedecerá ao disposto
+no Submódulo 7.12 – Implantação dos serviços de telecomunicações para atendimento às necessidades do
+Sistema Interligado Nacional.
+2.3. O ONS acompanha o desenvolvimento das atividades pelo agente de operação até a conclusão do
+processo.
+3. REFERÊNCIAS
+3.1. Não há referências neste documento.
+4. ANEXOS
+4.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 3 / 3

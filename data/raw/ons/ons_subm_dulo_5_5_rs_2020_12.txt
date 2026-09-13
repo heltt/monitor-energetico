@@ -1,0 +1,112 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 5.5-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 5.5-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 5.5
+Operação hidráulica de reservatórios
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede – Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação hidráulica de reservatórios 5.5 Responsabilidades 2020.12 01/01/2021
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTO........................................................................................................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Centro Nacional de Operação do Sistema – CNOS........................................................................3
+3.2. Centros de Operação do Sistema – COSR......................................................................................3
+3.3. Agente de geração.........................................................................................................................4
+4. PRAZOS............................................................................................................................................5
+5. REFERÊNCIAS...................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede – Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação hidráulica de reservatórios 5.5 Responsabilidades 2020.12 01/01/2021
+1. OBJETIVO
+1.1. Estabelecer as responsabilidades e etapas de processos relativos à atividade de tempo real da operação
+hidráulica dos reservatórios das bacias hidrográficas onde se localizam as usinas da Rede de Operação.
+2. PRODUTO
+2.1. Não há produtos neste documento.
+3. RESPONSABILIDADES
+3.1. Centro Nacional de Operação do Sistema – CNOS
+(a) Coordenar, supervisionar e controlar a operação hidráulica, bem como os volumes de espera, dos
+reservatórios das bacias hidrográficas onde se localizam as usinas da Rede de Operação, nas situações
+de operação Normal e de Atenção.
+(b) Coordenar, supervisionar e controlar as ações para o cumprimento do Programa Diário de Operação
+(PDO), no que se refere ao Programa Diário de Defluências consolidado (PDF), bem como as
+reprogramações que provoquem alterações significativas nos valores de afluência ou defluência
+previstos.
+(c) Atender, em caráter preliminar, às solicitações de alterações ou inclusões de restrições operativas
+hidráulicas de reservatórios identificadas e informadas pelos agentes de geração.
+(d) Declarar aos agentes de geração e aos Centros de Operação do Sistema – COSR envolvidos a mudança
+de situação de operação de qualquer reservatório.
+(e) Aceitar a declaração de mudança de situação de operação de reservatório pelos COSR ou pelo agente
+de geração responsável pelo reservatório e divulgar aos demais agentes de geração envolvidos.
+(f) Coordenar a Teleconferência da Operação Hidráulica das Bacias Hidrográficas, quando de situações
+especiais de operação de reservatórios.
+3.2. Centros de Operação do Sistema – COSR
+(a) Coordenar, supervisionar e controlar, por delegação do CNOS, a operação hidráulica, bem como os
+volumes de espera, dos reservatórios das bacias hidrográficas onde se localizam as usinas da Rede de
+Operação nas situações de operação Normal e de Atenção.
+(b) Supervisionar e controlar as ações para o cumprimento PDO, no que se refere ao PDF.
+(c) Solicitar ao CNOS as reprogramações do PDO, no que se refere ao PDF, em função das alterações
+significativas nos valores previstos de afluência ou defluência e informar aos agentes de geração
+envolvidos as reprogramações.
+(d) Atender, em caráter preliminar, às alterações ou inclusões de restrições operativas hidráulicas de
+reservatórios identificadas e informadas pelos agentes de geração.
+(e) Declarar ao CNOS e aos agentes de geração envolvidos a mudança de situação de operação dos
+reservatórios sob sua coordenação.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede – Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação hidráulica de reservatórios 5.5 Responsabilidades 2020.12 01/01/2021
+(f) Aceitar a declaração de mudança de situação de operação de reservatórios feita pelo CNOS ou pelo
+agente de geração responsável pelo reservatório.
+(g) Emitir documento que declare a mudança na situação de operação do reservatório sob sua
+coordenação ou controle e disponibilizar ao agente de geração envolvido.
+(h) Coordenar, sob delegação do CNOS, a Teleconferência da Operação Hidráulica das Bacias
+Hidrográficas, quando de situações especiais de operação de reservatórios.
+3.3. Agente de geração
+(a) Supervisionar, comandar e executar, em situação de operação Normal ou de Atenção, a operação
+hidráulica do reservatório sob sua responsabilidade operacional pertencentes às bacias hidrográficas
+onde se localizam as usinas da Rede de Operação.
+(b) Coordenar, supervisionar, controlar, comandar e executar, nas situações de operação Alerta e
+Emergência, a operação hidráulica, bem como os volumes de espera, de cada um dos reservatórios
+sob sua responsabilidade operacional e pertencentes às bacias hidrográficas onde se localizam as
+usinas da Rede de Operação.
+(c) Informar ao COSR com o qual se relaciona os dados hidráulicos dos reservatórios sob sua
+responsabilidade.
+(d) Informar, em caráter preliminar, ao COSR com o qual se relaciona as alterações ou inclusões nas
+restrições operativas hidráulicas e as informações operativas relevantes que necessitam de
+implantação imediata e, a posteriori, formalizar essas informações.
+(e) Fornecer ao COSR previsões de vazões incrementais às usinas com a periodicidade e discretização
+adequadas à característica da bacia.
+(f) Emitir documento que formalize alterações ou inclusões nas restrições operativas hidráulicas e as
+informações operativas relevantes referente ao reservatório sob sua responsabilidade operacional
+que devam ser implantadas a curto prazo e disponibilizar ao do COSR com o qual se relaciona.
+(g) Informar ao COSR com o qual se relaciona as indisponibilidades, as restrições e informações
+operativas relevantes ocorridas ou prestes a ocorrer que afetem, ou possam vir a afetar, a operação
+de cada reservatório sob sua responsabilidade.
+(h) Declarar ao COSR com o qual se relaciona a mudança de situação de operação no reservatório sob
+sua responsabilidade operacional que possam colocar em risco vida humana, bens ou patrimônio de
+terceiros ou próprio, o meio ambiente, a integridade do reservatório ou de suas estruturas.
+(i) Aceitar a declaração de mudança de situação de operação para reservatório declaradas pelo COSR
+com qual se relaciona ou pelo CNOS.
+(j) Informar ao COSR com o qual se relaciona e aos agentes envolvidos a ocorrência de violação de
+restrições e de informações operativas relevantes, bem como de quaisquer outras situações adversas
+possíveis e não consideradas neste submódulo.
+(k) Participar de Teleconferência da Operação Hidráulica das Bacias Hidrográficas, quando de situações
+especiais de operação de reservatórios.
+4. PRAZOS
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede – Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação hidráulica de reservatórios 5.5 Responsabilidades 2020.12 01/01/2021
+4.1. Não há prazos neste documento.
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 5 / 5

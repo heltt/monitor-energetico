@@ -1,0 +1,259 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 2.16-RQ_2022.02.docx_96956167-bfee-4ae3-bcc4-ff31e9b07e50
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 2.16-RQ_2022.02.docx_96956167-bfee-4ae3-bcc4-ff31e9b07e50.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 2.16
+Requisitos operacionais para centros de
+operação e instalações da Rede de
+Operação
+Requisitos
+Revisão Motivo da revisão Data de aprovação
+2022.02 Despacho ANEEL nº 427/2022 15/02/2022
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos operacionais para centros de
+2.16 Requisitos 2022.02 23/02/2022
+operação e instalações da Rede de Operação
+ÍNDICE
+1. OBJETIVO ..................................................................................................................................... 3
+2. REQUISITOS PARA OS CENTROS DE OPERAÇÃO ............................................................................. 3
+3. REQUISITOS PARA INSTALAÇÕES DA REDE DE OPERAÇÃO .............................................................. 4
+4. REQUISITOS PARA ASSISTÊNCIA DAS INSTALAÇÕES DA REDE DE OPERAÇÃO .................................. 5
+4.1. Aspectos gerais .............................................................................................................................. 5
+4.2. Teleassistência ............................................................................................................................... 5
+4.3. Instalações estratégicas ................................................................................................................. 6
+5. REQUISITOS PARA REGIME ESPECIAL DE OPERAÇÃO ...................................................................... 7
+6. REFERÊNCIAS ................................................................................................................................ 8
+Endereço na internet: http://www.ons.org.br 2 / 8
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos operacionais para centros de
+2.16 Requisitos 2022.02 23/02/2022
+operação e instalações da Rede de Operação
+1. OBJETIVO
+1.1. Definir os requisitos operacionais necessários para o Operador Nacional do Sistema Elétrico – ONS e os
+agentes de operação referentes aos centros de operação e instalações da Rede de Operação e os requisitos
+para preparação e operação durante o regime especial de operação.
+2. REQUISITOS PARA OS CENTROS DE OPERAÇÃO
+2.1. Os seguintes centros de operação e instalações devem estar localizados em território nacional:
+(a) os centros de operação dos agentes que se relacionam com os centros de operação do ONS; e
+(b) os centros de operação e instalações dos agentes que realizam teleassistência das instalações
+localizadas na Rede de Operação ou das instalações que fazem parte de um conjunto de usinas,
+independentemente de se relacionarem com o centro de operação do ONS.
+2.2. Os centros de operação do ONS e dos agentes devem dispor de:
+(a) equipe de operadores em regime de turno ininterrupto, dimensionada para:
+(i) realizar com eficiência as atividades de operação sob sua responsabilidade, em todas as
+condições de operação, levando em consideração a quantidade, complexidade das instalações
+e recursos tecnológicos de automatismo;
+(ii) atuar com celeridade e segurança nos momentos de distúrbio e consequente restabelecimento
+para que não haja retardo ou comprometimento do processo de recomposição.
+(b) operadores devidamente habilitados e certificados para as atividades de tempo real, por meio da
+Certificação de 1ª Parte de Operadores de Sistema e de Instalações, conforme detalhado no
+Submódulo 5.13 – Rotinas Operacionais;
+(c) plano de contingência, tais como existência de centro de operação reserva (“backup”) ou plano de
+assunção de atividades por centros regionais, para garantir a continuidade de seu serviço, sem que
+eventuais falhas comprometam a operação do SIN.
+(d) recursos de comunicação de voz e dados, conforme estabelecido no Submódulo 2.15 – Requisitos
+mínimos para telecomunicações;
+(e) recursos de gravação de voz instalados nos centros de operação e também, para os centros de
+operação dos agentes, sistema de gravação das comunicações operacionais com as suas instalações;
+(1) As informações gravadas devem ser prontamente disponibilizadas para Agência Nacional de
+Energia Elétrica – ANEEL e para ONS, quando solicitadas.
+(2) No caso de perda de gravação ou falha no gravador do agente, caso seja necessário para auxiliar a
+análise de ocorrências no SIN, o ONS poderá disponibilizar ao agente as gravações entre os seus
+centros e do agente.
+(f) arquivo dos registros de comunicação de voz gravadas pelos agentes e pelo ONS por um período
+mínimo de 2 meses; exceto:
+(1) As gravações de voz relativas a eventos que foram objeto do Relatório de Análise de Ocorrência,
+Relatório de Análise da Operação, descritos no Submódulo 6.2 – Análise de operação, ocorrências
+Endereço na internet: http://www.ons.org.br 3 / 8
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos operacionais para centros de
+2.16 Requisitos 2022.02 23/02/2022
+operação e instalações da Rede de Operação
+e perturbações e acompanhamento das providências, ou Relatório de Análise de Perturbação
+descrito no Submódulo 6.3 – Análise de perturbação, que devem ser armazenadas por um período
+mínimo de 2 anos.
+(g) recursos de telessupervisão das instalações localizadas nas suas áreas de atuação na Rede de
+Supervisão;
+(h) política de segurança e recursos tecnológicos para proteção contra ataques cibernéticos na Rede de
+Supervisão e controle dos centros de operação; e
+(i) redundância, por duplicação ou intrínseca, em equipamentos e sistemas quando prestarem
+assistência remota a instalações estratégicas desprovidas de assistência local ininterrupta.
+2.3. Os serviços auxiliares dos centros de operação do ONS e dos agentes devem dispor de:
+(a) uma fonte de corrente alternada (CA) externa;
+(b) um sistema auxiliar para atender de forma ininterrupta as cargas essenciais do centro de operação,
+composto por uma fonte CA independente, com autonomia e capacidade para atender essas cargas;
+e
+(c) uma fonte CC, composta por UPS, nobreak ou baterias, utilizada para realizar o chaveamento entre
+as fontes citadas em (a) e (b) em caso de perda da alimentação externa, com capacidade para
+atendimento de forma ininterrupta às cargas essenciais do centro de operação por pelo menos 2
+horas;
+(d) adicionalmente aos requisitos obrigatórios contidos nos itens (a), (b) e (c), e com o objetivo de conferir
+maior confiabilidade à alimentação elétrica do centro de operação, deve ser garantida também a
+existência de:
+(1) uma fonte adicional de corrente alternada (CA) externa; ou
+(2) uma fonte adicional de corrente alternada (CA) interna, com as mesmas características da descrita
+no item (b); ou
+(3) autonomia adicional no sistema CC indicado no item (c), totalizando no mínimo 10 horas, para
+atender de forma ininterrupta as cargas essenciais dos equipamentos de telecomunicação, e 5
+horas, para atender de forma ininterrupta as cargas do sistema de supervisão e controle; ou
+(4) plano de contingência que garanta o tempo máximo de 60 minutos para assunção plena da
+operação através de centro backup.
+2.4. Os serviços auxiliares dos centros de operação do ONS e dos agentes devem ser submetidos a testes
+periódicos de performance e devem ter programas de manutenção para garantir o atendimento aos
+requisitos estabelecidos no item 2.3. deste submódulo.
+3. REQUISITOS PARA INSTALAÇÕES DA REDE DE OPERAÇÃO
+3.1. As instalações que possuem relacionamento operacional direto com o centro de operação do ONS
+devem dispor de:
+(a) recursos humanos locais que assegurem a realização adequada das ações de comando e execução da
+operação, sob responsabilidade dos agentes e demandadas pelos centros de operação do ONS;
+Endereço na internet: http://www.ons.org.br 4 / 8
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos operacionais para centros de
+2.16 Requisitos 2022.02 23/02/2022
+operação e instalações da Rede de Operação
+(b) operadores devidamente habilitados e certificados para as atividades de tempo real, conforme
+detalhado no Submódulo 5.13;
+(c) equipe de operadores em regime de turno ininterrupto, dimensionada de forma compatível com as
+atividades a serem executadas;
+(d) recursos de comunicação de voz com o centro de operação do ONS com o qual se relaciona, conforme
+requisitos estabelecidos no Submódulo 2.15; e
+(e) recursos de supervisão e comando locais da subestação ou usina.
+3.2. Os serviços auxiliares das instalações da Rede de Operação devem ser submetidos a testes periódicos de
+performance e ao programa de manutenção para garantir a continuidade do serviço, com registro de
+realização dos testes disponível pelos agentes responsáveis por um período mínimo de 5 anos.
+4. REQUISITOS PARA ASSISTÊNCIA DAS INSTALAÇÕES DA REDE DE OPERAÇÃO
+4.1. Aspectos gerais
+4.1.1. As atividades de operação a serem executadas nas instalações integrantes da Rede de Operação
+exigem disponibilidade de recursos que assegurem o seu desempenho em nível compatível com a qualidade
+de serviço exigida para essa rede.
+4.1.2. A desassistência de instalações da Rede de Operação, entendida como a impossibilidade de realização
+ininterrupta das atividades de supervisão, comando e execução da operação, local ou remota, não é
+admitida.
+4.1.3. A assistência das instalações engloba a utilização de recursos ininterruptos para as atividades de
+supervisão, comando e execução da operação.
+4.1.4. A assistência pode ser local, quando realizada por pessoa habilitada na própria instalação, ou pode ser
+remota, também denominada de teleassistência, quando realizada por pessoa habilitada a partir de um
+centro de operação ou de outra instalação.
+4.1.5. Os Agentes que atuam em subestações ou FT compartilhadas devem disponibilizar aos demais agentes
+que compartilham a instalação ou FT os dados de supervisão e proteção da instalação necessários para a
+execução da operação de qualquer equipamento da instalação ou FT (grandezas analógicas e estado de
+equipamentos principais), seja em operação normal, seja em processo de recomposição simples ou
+perturbações.
+4.2. Teleassistência
+4.2.1. As instalações responsáveis pela teleassistência de outras instalações integrantes da Rede de Operação
+devem:
+(a) atender aos requisitos de certificação de operadores e atuação com equipe em regime de turno
+ininterrupto, conforme detalhado no Submódulo 5.13;
+(b) dispor de recursos humanos adequadamente dimensionados à quantidade e complexidade de
+instalações sob sua responsabilidade, para operação em qualquer condição;
+(c) possuir plano de contingência para garantir a continuidade de seu serviço, sem que eventuais falhas
+comprometam a operação do SIN;
+Endereço na internet: http://www.ons.org.br 5 / 8
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos operacionais para centros de
+2.16 Requisitos 2022.02 23/02/2022
+operação e instalações da Rede de Operação
+(d) atender aos requisitos de gravação de voz das comunicações operacionais com as instalações
+teleassistidas, conforme item 2.2. (e); e
+(e) adotar política de segurança e dispor de recursos tecnológicos para proteção contra ataques
+cibernéticos.
+4.2.2. As instalações teleassistidas desprovidas de assistência local ininterrupta devem:
+(a) permitir ao centro de operação ou instalação que as teleassiste a supervisão, o comando e a execução
+da operação, com recursos necessários para cumprir as ações operativas de tempo real descritas no
+Submódulo 5.12 – Instruções de Operação, Submódulo 5.13 e no Submódulo 5.14 – Ajustamentos
+Operativos;
+(b) ter recursos de supervisão e comando locais, com os requisitos apropriados e disponíveis para sua
+operação local, a serem usados, dentre outros motivos, no caso de indisponibilidade ou degradação
+de qualquer função do sistema de teleassistência;
+(c) ter processo implantado e realizar periodicamente as seguintes ações:
+(i) testar a conformidade e disponibilidade da assistência (supervisão, comando e telecomunicações)
+que comprovem o atendimento ao estabelecido no Submódulo 2.6 - Requisitos mínimos para
+subestações e seus equipamentos;
+(ii) acompanhar a autonomia e a disponibilidade das fontes de serviços auxiliares existentes;
+(iii) ter e cumprir planos de manutenção periódica dos equipamentos que compõem os serviços
+auxiliares; e
+(iv) confirmar que as redundâncias e comutações automáticas existentes funcionam adequadamente.
+(d) adotar política de segurança e dispor de recursos tecnológicos para proteção contra ataques
+cibernéticos aos dispositivos de supervisão e controle;
+(e) ter e manter atualizado plano de contingência com cenários e ações para casos de falha na
+teleassistência. Esse plano deve conter:
+(i) detalhamento dos procedimentos;
+(ii) tempo para atendimento presencial à instalação;
+(iii) identificação dos responsáveis e formas de acionamento; e
+(iv) frequência anual de realização de testes simulados remotos (Drill) envolvendo a instalação.
+4.2.3. O requisito mínimo de disponibilidade de teleassistência, com base no indicador de teleassistência
+(TELEASST) definido no Submódulo 9.6 – Indicadores de desempenho dos sistemas de supervisão e controle
+e dos serviços de telecomunicações deve ser igual a:
+(a) 99,90% para as instalações não estratégicas; e
+(b) 99,95% para as instalações estratégicas.
+4.3. Instalações estratégicas
+4.3.1. As instalações estratégicas, classificadas de acordo com os critérios definidos no Submódulo 2.2 –
+Definição das instalações estratégicas, desprovidas de assistência local ininterrupta devem dispor de:
+Endereço na internet: http://www.ons.org.br 6 / 8
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos operacionais para centros de
+2.16 Requisitos 2022.02 23/02/2022
+operação e instalações da Rede de Operação
+(a) recursos de monitoração ininterrupta da situação do pátio da instalação e das salas de controle e
+proteção de instalações estratégicas para imediata identificação de eventos intempestivos como arco
+voltaico, explosão, incêndio, invasões entre outros; e
+(b) recursos, adicionais ao sistema supervisório, tais como monitoração remota por imagens ou sensores,
+que assegurem a confirmação remota da abertura e fechamento das chaves seccionadoras que são
+utilizadas na execução de ações operativas demandadas pelo ONS em tempo real.
+4.3.2. As novas instalações de transmissão integradas à Rede de Operação deverão ser implantadas com
+recursos que as permitam ser teleassistidas, desprovidas de assistência local ininterrupta, independente de
+classificação estratégica estabelecida no Submódulo 2.2.
+5. REQUISITOS PARA REGIME ESPECIAL DE OPERAÇÃO
+5.1. O ONS elabora um plano específico para definir a vigência do regime especial de operação e detalhar,
+no mínimo, os seguintes aspectos para preparação e operação durante o regime especial de operação [1]:
+(a) avaliação da necessidade de realizar testes de desempenho do sistema de Controle Automático de
+Geração (CAG);
+(1) Caso necessário, o ONS estabelece um Plano de Testes em conjunto com os agentes de geração, a
+ser concluído antes dos eventos.
+(b) verificação prévia completa dos recursos de telecomunicações, supervisão e controle, inclusive dos
+serviços contratados junto aos fornecedores dos recursos de supervisão e controle do ONS;
+(c) testes adicionais para garantir a máxima disponibilidade dos sistemas de serviços auxiliares de
+infraestrutura dos centros de operação do ONS e dos agentes.
+(d) dimensionamento das equipes de operação em tempo real para situações normais e de emergência
+(reforçadas), contemplando os Planos de Contingenciamento das atividades estabelecidos pelo ONS
+e agentes.
+(e) treinamentos dos Planos de Contingenciamento para garantir a continuidade das atividades dos
+centros de operação do ONS e dos agentes, através do centro de operação reserva (“backup”) ou do
+Plano de Assunção das atividades pelos centros regionais;
+(f) sobreaviso das equipes de operação e manutenção do sistema de supervisão e controle e da
+infraestrutura predial;
+(g) implantação de um Plano de Comunicação para garantir agilidade durante eventuais ocorrências com
+interrupção de carga; e
+(h) definição das instalações de geração, transmissão e distribuição que normalmente operam
+teleassistidas e são integrantes dos troncos de recomposição com influência direta no atendimento de
+energia elétrica às localidades onde irão ocorrer os eventos que motivaram o regime especial de
+operação;
+(i) definição dos períodos específicos, em função das características dos eventos que determinaram o
+regime especial de operação, que as instalações que normalmente operam teleassistidas e estão
+submetidas ao regime especial de operação.
+Endereço na internet: http://www.ons.org.br 7 / 8
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos operacionais para centros de
+2.16 Requisitos 2022.02 23/02/2022
+operação e instalações da Rede de Operação
+(j) definição das instalações de abastecimento aos locais onde os eventos serão realizados, em geral nas
+instalações sob responsabilidade do agente de distribuição ou nas Demais Instalações de Transmissão
+(DIT).
+5.2. Os agentes de operação devem dispor de:
+(a) operação local, para as instalações definidas no item 5.1(h) durante o período definido no item
+5.1(i); e
+(b) recursos adicionais de monitoramento de redes elétricas, em caráter provisório, para as instalações
+definidas no item 5.1(j).
+6. REFERÊNCIAS
+[1] Comitê de Monitoramento do Setor Elétrico, CMSE. Resolução nº 01, de 25 de janeiro de 2005.
+Endereço na internet: http://www.ons.org.br 8 / 8

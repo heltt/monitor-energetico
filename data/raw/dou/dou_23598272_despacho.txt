@@ -1,0 +1,17 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 13/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=13/02/2026&jornal=515&pagina=157
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Superintendência de Arrecadação e Fiscalização de Receitas
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 36/2026
+Retificação: DOU publicado em 26/01/2026, pág. 47, onde se lê: Processo de Cobrança Nº: 53.389.953/0001-50
+Titular: PORTO AREIA RIBEIRO-FILHOS LTDA, leia-se: Processo de Cobrança Nº: 48423.968374/2010-60 Titular: PORTO AREIA RIBEIRO-FILHOS LTDA
+Alexandre de Cássio Rodrigues
+Superintendente

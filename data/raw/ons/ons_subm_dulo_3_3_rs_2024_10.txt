@@ -1,0 +1,174 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 3.3-RS_2024.10
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 3.3-RS_2024.10.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 3.3
+Planejamento da operação energética
+de médio prazo
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2024.10 Resolução Normativa ANEEL nº 22/10/2024
+1.104/2024
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação energética de médio
+3.3 Responsabilidades 2024.10 30/10/2024
+prazo
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Plano da Operação Energética (PEN)............................................................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de geração.......................................................................................................................3
+3.3. Agente comercializador de Itaipu Binacional................................................................................4
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIAS...................................................................................................................................6
+Endereço na internet: http://www.ons.org.br 2 / 6
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação energética de médio
+3.3 Responsabilidades 2024.10 30/10/2024
+prazo
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas de processos relativos aos estudos
+de planejamento da operação energética do Sistema Interligado Nacional (SIN).
+2. PRODUTOS
+2.1. Plano da Operação Energética (PEN)
+2.1.1. Apresenta as avaliações das condições de atendimento à carga de energia e demanda elétrica do SIN
+no horizonte de médio prazo, de maio do ano em curso até dezembro do 5º ano à frente, com base nos
+critérios de suprimento vigentes.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Solicitar aos agentes de geração, aos agentes de importação e de exportação e ao agente
+comercializador de Itaipu Binacional os dados e informações necessários à realização dos estudos de
+planejamento da operação energética, informando os formatos, os meios e os prazos para o
+encaminhamento destas informações.
+(b) Analisar e consolidar as informações e os dados recebidos dos agentes envolvidos para a realização
+dos estudos de planejamento da operação energética.
+(c) Estabelecer o escopo dos estudos de planejamento da operação energética para elaboração do PEN,
+em conjunto com os agentes envolvidos.
+(d) Convidar os agentes envolvidos, Poder Concedente, Empresa de Pesquisa Energética – EPE, Agência
+Nacional de Energia Elétrica – ANEEL e Câmara de Comercialização de Energia Elétrica – CCEE para a
+apresentação dos resultados dos estudos para elaboração do PEN.
+(e) Analisar as propostas encaminhadas pelos agentes envolvidos de novas informações e resultados a
+serem incorporados aos estudos para elaboração do PEN e justificar, caso estas não sejam acatadas.
+(f) Disponibilizar aos agentes envolvidos, ao Poder Concedente, à EPE, à ANEEL e à CCEE os dados e
+resultados dos estudos de planejamento da operação energética para elaboração do PEN.
+3.2. Agentes de geração1
+(a) Encaminhar ao ONS, nos formatos, meios e prazos estabelecidos, os dados necessários para a
+realização dos estudos de planejamento da operação energética do SIN, acompanhados de
+justificativa técnica sempre que alterados em relação às informações vigentes.
+1 Os agentes de geração considerados neste módulo são aqueles detentores, por concessão ou autorização, de usinas
+e reservatórios simulados individualmente nos modelos energéticos.
+Endereço na internet: http://www.ons.org.br 3 / 6
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação energética de médio
+3.3 Responsabilidades 2024.10 30/10/2024
+prazo
+(b) Participar, quando solicitado pelo ONS ou por seu interesse, da modelagem de seus
+empreendimentos de geração simulados individualmente nos modelos energéticos.
+(c) Analisar os dados identificados pelo ONS como inconsistentes e, caso pertinente, executar as devidas
+alterações e informar ao ONS ou, caso não seja considerado pertinente, informar com as devidas
+justificativas.
+(d) Analisar os resultados obtidos dos estudos de planejamento da operação energética para elaboração
+do PEN e informar ao ONS as incorreções detectadas.
+3.3. Agente comercializador de Itaipu Binacional
+(a) Encaminhar ao ONS, nos formatos, meios e prazos estabelecidos, os dados necessários para a
+realização dos estudos de planejamento da operação energética do SIN, acompanhados de
+justificativa sempre que alterados em relação às informações vigentes.
+(b) Participar, quando solicitado pelo ONS ou por seu interesse, da modelagem da Usina Hidrelétrica de
+Itaipu (UHE Itaipu).
+(c) Analisar os dados identificados pelo ONS como inconsistentes e, caso pertinente, executar as devidas
+alterações e informar ao ONS ou, caso não seja considerado pertinente, informar com as devidas
+justificativas.
+(d) Analisar os resultados obtidos dos estudos de planejamento da operação energética para elaboração
+do PEN e informar ao ONS as incorreções detectadas.
+4. PRAZOS
+4.1. O Quadro 1 apresenta os prazos relativos à realização dos estudos de planejamento da operação
+energética para a elaboração do PEN.
+Quadro 1 – Prazos para a realização dos estudos de planejamento da operação energética para a elaboração do PEN
+Atividade Responsável Prazo Periodicidade Horizonte
+Envio de dados Agentes de
+56 meses a
+necessários aos estudos geração, e
+partir de
+1 de planejamento da comercializador 31 de março Anual
+maio do 1º
+operação energética para de Itaipu
+ano do
+a elaboração do PEN Binacional
+estudo
+Apresentação do escopo
+Segunda quinzena
+2 do estudo aos agentes ONS Anual -
+do mês de abril
+envolvidos
+Endereço na internet: http://www.ons.org.br 4 / 6
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação energética de médio
+3.3 Responsabilidades 2024.10 30/10/2024
+prazo
+Atividade Responsável Prazo Periodicidade Horizonte
+Execução das simulações
+Até 50 dias úteis a 56 meses a
+e análise dos resultados,
+partir do 1º dia útil partir de
+apresentação dos
+3 ONS após a semana da Anual maio do 1º
+resultados do estudo aos
+reunião plenária do ano do
+agentes, elaboração e
+PMO de maio estudo
+disponibilização do PEN
+Do mês de
+A qualquer sua
+40 dias úteis após o
+tempo, na elaboração
+Revisão e disponibilização recebimento dos
+4 ONS ocorrência de até o mês de
+do PEN dados dos agentes
+fatos dezembro do
+envolvidos
+relevantes 5º ano do
+estudo
+4.2. O Quadro 2 apresenta os prazos relativos às atualizações quadrimestrais dos estudos de planejamento
+da operação energética.
+Quadro 2 – Prazos para as atualizações quadrimestrais dos estudos de planejamento da operação energética
+Atividade Responsável Prazo Periodicidade Horizonte
+Ciclo anual: 30 Até 60
+Quadrimestral
+de novembro meses
+Envio de dados
+necessários às Agentes de geração,
+1ª Revisão: 31 de Até 56
+1 atualizações dos estudos e comercializador de Quadrimestral
+março meses
+de planejamento da Itaipu Binacional
+operação energética
+2ª Revisão: 31 de Até 52
+Quadrimestral
+julho meses
+Ciclo anual: Até 60
+Quadrimestral
+janeiro meses
+Até 56
+2 Atualização dos estudos ONS 1ª Revisão: maio Quadrimestral
+meses
+2ª Revisão: Até 52
+Quadrimestral
+setembro meses
+Endereço na internet: http://www.ons.org.br 5 / 6
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação energética de médio
+3.3 Responsabilidades 2024.10 30/10/2024
+prazo
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 6 / 6

@@ -1,0 +1,30 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 19/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/02/2026&jornal=515&pagina=52
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado da Bahia
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 22/2026
+Fase de Concessão de Lavra, decide:
+A classificação da água, estabelecendo as informações para rotulagem - Resolução ANM 157/2024(2786)
+875.078/2007-R.E.F. INDUSTRIA DE BEBIDAS LTDA- Decisão nº 595/2026 - I - FONTE SENHOR DEUS MENINO. Processo ANM 48407.875078/2007-19. Concessionária: R.e.f. Industria de Bebidas Ltda. CNPJ: 04.455.166/0001-72. Portaria de Lavra nº 471 - DOU de 17/01/2024. Local da fonte: Rodovia Margens da BA 093. Região de Papossu. CEP 48108-000. Araçás. Bahia. Características físico-químicas: pH a 25 °C: 5,83 - Temperatura da água na fonte: 26,9 °C - Condutividade elétrica a 25 °C: 134,1 μS/cm - Resíduo de evaporação a 180 °C calculado: 83,48 mg/L. Composição química (mg/L): Bicarbonato: 25,74 - Cloreto: 20,48 - Sódio: 11,705 - Potássio: 9,604 - Silício: 9,497* - Magnésio: 3,480 - Nitrato: 2,11 - Sulfato: 1,84 - Cálcio: 0,889 - Fluoreto: 0,08. Boletim nº 240/LAMIN/2024 de 22/10/2024. Classificação: ÁGUA MINERAL FLUORETADA E HIPOTERMAL NA FONTE. Observação: elementos identificados com (*) são informações facultativas na rotulagem, devendo ser informados os mesmos elementos em todos os rótulos da fonte.
+870.718/2001-MILFONTES AGUAS MINERAIS E BEBIDAS LTDA.- Decisão nº 593/2026 - I - FONTE D'SAÚDE. Processo ANM 27207.870718/2001-95. Concessionária: Milfontes Águas Minerais e Bebidas Ltda. CNPJ: 04.150.431/0001-95. Portaria de Lavra nº 84 - DOU de 05/06/2003. Local da fonte: Rodovia BA 093 km 3,5. Estrada da fazenda Chaparia. CEP 43700-000. Simões Filho. Bahia. Características físico-químicas: pH a 25 °C: 6,35 - Temperatura da água na fonte: 27,2 °C - Condutividade elétrica a 25 °C: 162,6 μS/cm - Resíduo de evaporação a 180 °C calculado: 99,26 mg/L. Composição química (mg/L): Bicarbonato: 32,59 - Cloreto: 23,18 - Sódio: 16,170 - Silício: 9,273* - Sulfato: 8,91 - Cálcio: 4,621 - Magnésio: 4,316 - Potássio: 4,162 - Nitrato: 1,04 - Ferro: 0,305 - Manganês: 0,106 - Fluoreto: 0,04. Boletim nº 290/LAMIN/2024 de 28/11/2024. Classificação: ÁGUA MINERAL FLUORETADA E HIPOTERMAL NA FONTE. Observação: elementos identificados com (*) são informações facultativas na rotulagem, devendo ser informados os mesmos elementos em todos os rótulos da fonte.
+871.131/2001-FONTE D' VIDA INDÚSTRIA E COMÉRCIO DE ÁGUAS MINERAIS E BEBIDAS LTDA- Decisão nº 596/2026 - FONTE NOSSA SENHORA APARECIDA. Processo ANM 27207.871131/2001-01. Concessionária: Fonte D' Vida Indústria e Comércio de Águas Minerais e Bebidas Ltda. CNPJ: 04.697.182/0001-52. Portaria de Lavra nº 241 - DOU de 08/09/2005. Local da fonte: Rodovia BA 093 Km 18. Bairro Leandrinho. CEP: 42.850-000. Dias D' Ávila. Bahia. Características físico-químicas: pH a 25 °C: 5,64 - Temperatura da água na fonte: 28,6 °C - Condutividade elétrica a 25 °C: 52,2 μS/cm - Resíduo de evaporação a 180 °C calculado: 41,43 mg/L. Composição química (mg/L): Bicarbonato: 9,99 - Silício: 7,617* - Cloreto: 6,98 - Sódio: 5,179 - Potássio: 4,339 - Nitrato: 1,34 - Sulfato: 1,13 - Magnésio: 0,742 - Cálcio: 0,273 - Bário: 0,057* - Fluoreto: 0,04 - Brometo: 0,03*. Boletim nº 027/LAMIN/2024 de 05/04/2024. Classificação: ÁGUA MINERAL FLUORETADA E HIPOTERMAL NA FONTE. Observação: elementos identificados com (*) são informações facultativas na rotulagem, devendo ser informados os mesmos elementos em todos os rótulos da fonte.
+871.131/2001-FONTE D' VIDA INDÚSTRIA E COMÉRCIO DE ÁGUAS MINERAIS E BEBIDAS LTDA- Decisão nº 597/2026 - FONTE NOSSA SENHORA DAS GRAÇAS. Processo ANM 27207.871131/2001-01. Concessionária: Fonte D' Vida Indústria e Comércio de Águas Minerais e Bebidas Ltda. CNPJ: 04.697.182/0001-52. Portaria de Lavra nº 241 - DOU de 08/09/2005. Local da fonte: Rodovia BA 093 Km 18. Bairro Leandrinho. CEP: 42.850-000. Dias D' Ávila. Bahia. Características físico-químicas: pH a 25 °C: 5,79 - Temperatura da água na fonte: 29,0 °C - Condutividade elétrica a 25 °C: 48,6 μS/cm - Resíduo de evaporação a 180 °C calculado: 42,56 mg/L. Composição química (mg/L): Bicarbonato: 14,68 - Silício: 7,515* - Cloreto: 5,89 - Potássio: 5,346 - Sódio: 5,005 - Sulfato: 1,07 - Magnésio: 0,853 - Nitrato: 0,44 - Cálcio: 0,360 - Bário: 0,068* - Fluoreto: 0,05 - Brometo: 0,03*. Boletim nº 028/LAMIN/2024 de 05/04/2024. Classificação: ÁGUA MINERAL FLUORETADA E HIPOTERMAL NA FONTE. Observação: elementos identificados com (*) são informações facultativas na rotulagem, devendo ser informados os mesmos elementos em todos os rótulos da fonte.
+Determina cumprimento de exigência - Prazo 60 dias(470)
+870.347/1984-MINERACAO CARAIBA S/A-OF. N°Ofício nº 6277/2026/DIVFIS-BA/ANM - PFM
+000.648/1967-DOW BRASIL INDUSTRIA E COMERCIO DE PRODUTOS QUIMICOS LTDA-OF. N°Ofício nº 6279/2026/DIVFIS-BA/ANM - PFM
+802.206/1975-SANTA LUZ DESENVOLVIMENTO MINERAL LTDA-OF. N°Ofício nº 7134/2026/DIVFIS-BA/ANM
+870.442/1994-AGHIDROS COMÉRCIO DE AGUA MINERAL LTDA-OF. N°Ofício nº 6843/2026/DIVFIS-BA/ANM
+971.017/1986-MINERACAO VALE DO JACURICI S A-OF. N°Ofício nº 8070/2026/DIVFIS-BA/ANM - Reiteirar
+Prorroga prazo para cumprimento de exigência- Prazo 60 dias(471)
+870.442/1994-AGHIDROS COMÉRCIO DE AGUA MINERAL LTDA-OF. N°Ofício nº 6642/2026/DIVFIS-BA/ANM
+004.950/1935-MAGNESITA MINERACAO S.A.-OF. N°Ofício nº 8264/2026/DIVFIS-BA/ANM
+CARLA FERREIRA VIEIRA MARTINS
+Gerente

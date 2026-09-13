@@ -1,0 +1,700 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 8.1-PR_2024.06
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 8.1-PR_2024.06.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 8.1
+Administração dos Contratos
+Procedimental
+Revisão Motivo da revisão Data de
+aprovação
+2024.06 Despacho ANEEL nº 1.788/2024 17/06/2024
+Procedimentos de Rede - Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Administração dos Contratos 8.1 Procedimental 2024.06 17/06/2024
+ÍNDICE
+1. DIRETRIZES GERAIS.............................................................................................................3
+2. ELABORAÇÃO DOS MODELOS DOS CONTRATOS..................................................................3
+3. CONTRATO DE PRESTAÇÃO DOS SERVIÇOS DE TRANSMISSÃO (CPST)..................................3
+3.1. Celebração do contrato....................................................................................................3
+3.2. Administração do CPST e Termos Aditivos.......................................................................4
+4. CONTRATO DE USO DO SISTEMA DE TRANSMISSÃO (CUST) E INSTRUMENTOS DE
+GARANTIA FINANCEIRA.......................................................................................................5
+4.1. Celebração do contrato....................................................................................................5
+4.2. Administração do CUST e dos Termos Aditivos..............................................................10
+4.3. Casos específicos para celebração e aditamento do CUST com as TUST reduzidas.......13
+4.4. Caso específico para celebração e aditamento do CUST para Usina Hidrelétrica de
+Itaipu 13
+5. CONTRATO DE CONEXÃO ÀS INSTALAÇÕES DE TRANSMISSÃO (CCT), CONTRATO DE
+CONEXÃO ÀS INSTALAÇÕES DE TRANSMISSÃO - TERMO DE AJUSTE (CCT-TA) E CONTRATO
+DE COMPARTILHAMENTO DE INSTALAÇÕES DE TRANSMISSÃO (CCI).................................14
+5.1. Celebração do contrato..................................................................................................14
+5.2 Administração do CCT, CCT-TA e CCI e Termos Aditivos................................................15
+6. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ANCILARES (CPSA).............................................15
+6.1. Celebração do contrato..................................................................................................15
+6.2 Avaliação e ressarcimento dos serviços ancilares..........................................................16
+7. REFERÊNCIAS....................................................................................................................17
+8. ANEXOS............................................................................................................................17
+Endereço na internet: http://www.ons.org.br 2 / 20
+Procedimentos de Rede - Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Administração dos Contratos 8.1 Procedimental 2024.06 17/06/2024
+1. DIRETRIZES GERAIS
+1.1. Os contratos CPST, CUST, CCG, CFB, ACT, CCT, CCT-TA, CCI, CPSA devem garantir a isonomia de
+tratamento, possuir condições sem exigências discriminatórias e estabelecer direitos, deveres e sanções
+equivalentes para todos os agentes de mesma categoria, observando os princípios básicos do serviço público
+de transmissão e resguardando o respectivo contrato de concessão ou ato autorizativo, conforme
+regulamentação [2][3][4][5].
+1.2. O ONS analisa as minutas contratuais e revisa as cláusulas em decorrência de determinação regulatória
+ou, a qualquer tempo, desde que as alterações sejam negociadas com os agentes celebrantes, não ferindo a
+isonomia de tratamento com outros agentes que assinaram contratos similares.
+1.3. O uso da assinatura digital na celebração dos contratos é admitido desde que utilizado um certificado
+digital registrado no ICP-Brasil.
+1.4. O ONS mantém sob sua guarda, em ambiente computacional próprio, os contratos CPST, CUST, CCG,
+CFB, ACT, CCT, CCT-TA, CCI e CPSA celebrados e os disponibiliza à ANEEL e às partes envolvidas.
+1.5. O ANEXO A apresenta os fluxogramas com as relações contratuais entre o ONS e os agentes referentes
+aos CPST, CUST, CCG, CFB, ACT, CCT, CCT-TA, CCI, CPSA e Instrumentos de Garantia Financeira que requerem
+assinatura do ONS.
+2. ELABORAÇÃO DOS MODELOS DOS CONTRATOS
+2.1 O ONS elabora os modelos dos contratos e Termos Aditivos referentes aos CPST, CUST, CPSA e dos
+Instrumentos de Garantia Financeira previstos nos CUST, com base na regulamentação vigente ou por
+demanda da ANEEL.
+2.2 O ONS disponibiliza os modelos dos contratos no seu site e os utiliza no processo de celebração
+contratual.
+2.3 Os modelos do CPST e do CUST são baseados na regulamentação vigente e possuem caráter padrão,
+cabendo alterações somente nos dados específicos a cada parte celebrante.
+2.4 O ONS coordena a discussão dos modelos dos contratos e negocia as cláusulas específicas a serem
+inseridas ou modificadas com as partes envolvidas.
+2.5 No CPST, estão incluídos nos serviços de transmissão dos agentes de transmissão os serviços de
+operação e telecomunicações inerentes às instalações de transmissão da Rede Básica e das interligações
+internacionais, como por exemplo, operação das subestações, comunicação remota, comunicação para
+telecomando e teleproteção, comunicação operacional entre as subestações e os centros de operação.
+3. CONTRATO DE PRESTAÇÃO DOS SERVIÇOS DE TRANSMISSÃO (CPST)
+3.1. Celebração do contrato
+3.1.1 O ONS celebra o CPST com o agente de transmissão para cada ampliação, reforço e melhoria das
+instalações de transmissão da Rede Básica, objeto de leilão e concessão individualizada autorizada pela
+ANEEL e para as interligações internacionais conectadas à Rede Básica.
+Endereço na internet: http://www.ons.org.br 3 / 20
+Procedimentos de Rede - Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Administração dos Contratos 8.1 Procedimental 2024.06 17/06/2024
+3.1.2 Após celebrado o contrato de concessão, o agente de transmissão responsável fornece ao ONS os seus
+dados e dos seus representantes necessários para celebração do CPST.
+3.1.3 O ONS obtém da ANEEL as seguintes informações para celebração do CPST:
+(a) a caracterização dos agentes de transmissão e definição das condições para prestação dos serviços
+de transmissão, RAP e datas de entrada em operação, explicitadas nos contratos de concessão,
+autorização ou permissão, editais de licitação e demais documentos regulatórios;
+(b) a relação das instalações da Rede Básica e das interligações internacionais e condições gerais para
+prestação dos serviços de transmissão, operação e telecomunicações, com respectivos responsáveis
+e Receita Anual Permitida (RAP);
+3.1.4 O ONS elabora a minuta do CPST e a encaminha ao agente na fase inicial de negociação, na qual o ONS
+coordena e analisa as sugestões das partes envolvidas.
+3.1.5 Após finalizada a negociação, o ONS disponibiliza a minuta do CPST para assinatura do agente de
+transmissão.
+3.1.6 As partes envolvidas celebram o CPST e o ONS disponibiliza o contrato aos agentes e à ANEEL.
+3.1.7 O CPST assinado é requisito para emissão do Termo de Liberação para Teste (TLT), necessário para
+entrada em operação das Funções Transmissão (FT).
+3.2. Administração do CPST e Termos Aditivos
+3.2.1 O ONS coordena a alteração do contrato por meio de um Termo Aditivo, condicionado aos seguintes
+eventos:
+(a) autorizações para reforços e implantação de novas instalações de transmissão da Rede Básica e das
+interligações internacionais integradas às concessões existentes;
+(b) atualizações dos valores da RAP e das características técnicas das Funções Transmissão (FT)
+integrantes da Rede Básica e das interligações internacionais;
+(c) reclassificação das instalações de transmissão;
+(d) determinação da ANEEL para adequação dos contratos à regulamentação;
+(e) aditamentos dos contratos de concessão;
+(f) alterações na estrutura empresarial do agente de transmissão reconhecidas pela ANEEL; e
+(g) alterações dos parâmetros do CPST.
+3.2.2 O ONS administra o CPST com base nas seguintes informações:
+(a) Termos de Liberação com as datas de entrada em operação comercial de ampliações e reforços
+outorgados por meio de licitação ou autorização, conforme estabelecido no Submódulo 7.12 –
+Emissão de Termo de Liberação para instalações de transmissão; e
+(b) Termos Aditivos anteriores.
+3.2.3 Os parâmetros que repercutem em cláusulas contratuais e valores de receita dos serviços de
+transmissão são apuradas mensalmente pelo ONS e descritos como:
+Endereço na internet: http://www.ons.org.br 4 / 20
+Procedimentos de Rede - Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Administração dos Contratos 8.1 Procedimental 2024.06 17/06/2024
+(a) a Função Transmissão (FT), com suas respectivas capacidades operativas e valores de Pagamentos
+Base (PB); e
+(b) os parâmetros das fórmulas para o cálculo das parcelas variáveis de receita, em função da
+indisponibilidade, atraso da entrada em operação, ressarcimento por cancelamento pelo ONS,
+manutenção previamente programada, adicional à RAP, sobrecarga e outros eventos estabelecidos
+pela regulamentação.
+3.2.4 Os reforços e melhorias autorizados são considerados nos anexos do CPST para atualização anual do
+reajuste das RAP em momento posterior à sua entrada em operação comercial, conforme sua Resolução
+Homologatória da ANEEL e considerando a data estabelecida no ato autorizativo.
+3.2.5 É facultado ao agente de transmissão relacionar no anexo do CPST os equipamentos reservas sem
+remuneração de receita sob sua responsabilidade, a fim de possibilitar a utilização das isenções à Parcela
+Variável por Indisponibilidade (PVI) quando utilizar estes equipamentos.
+3.2.6 As alterações de topologia, como seccionamento de linha de transmissão, individualização de conexão
+dos transformadores ou novos módulos para conexão de reator de linha, serão incorporadas aos anexos do
+CPST, refletindo a real configuração do sistema no contrato.
+4. CONTRATO DE USO DO SISTEMA DE TRANSMISSÃO (CUST) E INSTRUMENTOS DE GARANTIA
+FINANCEIRA
+4.1. Celebração do contrato
+4.1.1 O CUST é celebrado de acordo com o tipo de usuário e sua localização em relação ao sistema de
+transmissão, conforme ANEXO A, ANEXO B e regulamentação [4][5].
+4.1.2 O ONS obtém da ANEEL as seguintes informações para celebração do CUST:
+(a) a caracterização dos usuários da Rede Básica e das instalações destinadas a interligações
+internacionais; e
+(b) a definição das condições para uso do sistema de transmissão, explicitadas nos Contratos de
+Concessão, autorizações, permissões e demais documentos regulatórios.
+4.1.3 Para os agentes de geração, é requisito para assinatura do CUST a apresentação da Garantia Prévia
+para Celebração do CUST (GPC) [7], nas modalidades CFB ou ACT.
+4.1.3.1 No caso do ACT, é requisito adicional para a assinatura do CUST, a comprovação pelo agente de
+geração da existência de saldo na conta vinculada ao ACT, conforme valor regulamentado.
+4.1.4 Quando houver necessidade de aditamento contratual para alteração do ponto de conexão motivada
+por solicitação do próprio agente, é necessário apresentar ou ajustar a GPC.
+4.1.5 No caso de descumprimento dos requisitos e dos prazos regulamentares para a celebração do CUST,
+o ONS comanda a execução da respectiva Garantia Financeira para Solicitação de Acesso (GPA), apresentada
+no Submódulo 7.1 – Acesso às instalações de transmissão, junto à respectiva instituição financeira
+garantidora ou fiadora.
+Endereço na internet: http://www.ons.org.br 5 / 20
+Procedimentos de Rede - Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Administração dos Contratos 8.1 Procedimental 2024.06 17/06/2024
+4.1.6 A necessidade de celebração ou aditamento do CUST ou das garantias financeiras é identificada a
+partir dos seguintes eventos:
+(a) emissão de regulamentação que determina alterações nas regras de contratação do uso do sistema
+de transmissão;
+(b) emissão do Parecer de Acesso pelo ONS, conforme Submódulo 7.1;
+(c) emissão e envio do Parecer de Acesso pela distribuidora ao ONS, conforme Submódulo 7.1, referentes
+aos geradores conectados nos seus sistemas em nível de tensão superior a 69 kV e despachados
+centralizadamente pelo ONS;
+(d) criação de usuário, conforme ANEXO A;
+(e) alteração do usuário associado ao contrato;
+(f) aporte da GPC; e
+(g) emissão da DAPR/D para o aporte da garantia prevista em CUST em substituição a GPC.
+4.1.7 O CUST estabelece as condições gerais do uso do sistema de transmissão, considerando, além daquelas
+estabelecidas na regulamentação[4][5], as seguintes condições:
+(a) a administração, realizada pelo ONS, da cobrança e da liquidação dos Encargos de Uso do Sistema
+de Transmissão (EUST) e dos encargos setoriais previstos em lei;
+(b) a execução do sistema de garantias por conta e ordem dos agentes de transmissão ou do ONS; e
+(c) as penalidades por atraso no pagamento de encargos e por ineficiência da contratação [4][5].
+4.1.8 Todos os usuários do sistema de transmissão que celebram o CUST também celebram o CCT com os
+agentes de transmissão responsáveis pelas instalações a serem acessadas ou CCT-TA com o ONS.
+4.1.8.1 Os CUST e o CCT são considerados separadamente para todos os efeitos, inclusive para a execução
+dos contratos vigentes, não estando as obrigações e compromissos disciplinados em um condicionados à
+vigência do outro, conforme regulamentação [4][5].
+4.1.9 Todos os usuários que celebram o CUST apresentam ao ONS um Instrumento de Garantia Financeira,
+CCG, CFB ou ACT, com os valores de cobertura, prazos e requisitos estabelecidos no CUST.
+4.1.9.1 No caso da CFB, é necessário o encaminhamento do documento físico original o ONS, em caso de
+assinatura manual.
+4.1.9.2 No caso dos Instrumentos de Garantia Financeira que compreendem o ONS como signatário, o ONS
+analisa e valida a minuta que foi elaborada com base nos modelos disponibilizados em seu site e disponibiliza
+o documento ao usuário para coleta das assinaturas. Após assinado, o usuário devolve o documento para
+assinatura do ONS.
+4.1.9.3 No caso de Instrumentos de Garantia Financeira estabelecidos pelo usuário sem a necessidade de
+assinatura do ONS, o usuário celebrante apresenta ao ONS o instrumento assinado entre as partes conforme
+modelo disponibilizado no site do ONS.
+4.1.10 Os mecanismos de garantia financeira são renovados sempre que os valores de cobertura não
+estiverem dimensionados conforme os critérios estabelecidos no CUST.
+Endereço na internet: http://www.ons.org.br 6 / 20
+Procedimentos de Rede - Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Administração dos Contratos 8.1 Procedimental 2024.06 17/06/2024
+4.1.10.1 Os usuários com Montante de Uso do Sistema de Transmissão (MUST) contratados, ou previstos em
+Parecer de Acesso, quando nulos, estão dispensados da apresentação de garantias financeiras.
+4.1.11Os CUST são celebrados e os MUST contratados de acordo com seguintes tipos de usuário e conforme
+regulamentação [4][5][6]:
+(a) agente de geração:
+(1) com usina despachada centralizadamente e conectada à Rede Básica;
+(2) com usina despachada centralizadamente e conectada à instalação da distribuidora;
+(3) com usina despachada centralizadamente e conectada à Demais Instalações de Transmissão (DIT);
+e
+(4) com usina conectada às Instalações de Transmissão de Interesse Exclusivo de Centrais de Geração
+para Conexão Compartilhada (ICG) que acessam a Rede Básica;
+(b) agente de distribuição:
+(5) com instalações conectadas à Rede Básica; e
+(6) com instalações conectadas às DIT ou ICG que acessam a Rede Básica.
+(c) consumidor, autoprodutor ou produtor independente com instalações conectadas à Rede Básica e
+com a geração inferior à máxima carga própria;
+(d) consumidor e autoprodutor com instalações conectadas às instalações da distribuidora que acessam
+a Rede Básica em tensão igual ou superior à 230 kV; e
+(e) agente autorizado a importar e/ou exportar energia.
+4.1.12 Os usuários descritos nos itens 4.1.11(a), (c) e (d) podem declarar os MUST de acordo com as etapas
+de implementação dos seus empreendimentos, com exceção dos usuários de geração detentores de centrais
+híbridas ou associadas, que devem contratar o MUST conforme regulamentação específica [6].
+4.1.13 Para a associação de centrais geradoras, pelo menos uma delas não deve ter CUST assinado
+previamente à associação, ressalvadas as exceções previstas na regulamentação [6].
+4.1.14 O MUST contratado da central geradora híbrida ou das centrais geradoras associadas deve ser, no
+mínimo, igual à soma dos MUST contratados das centrais geradoras com CUST vigentes no momento da
+associação ou da hibridização.
+4.1.15 O início de execução do CUST de centrais geradoras associadas se dará na data indicada no contrato
+como de início de vigência do MUST único, obedecendo os prazos máximos determinados na regulamentação
+[4], salvas as condições previstas no item 4.2.7.
+4.1.16 O agente de geração descrito no item 4.1.11(a)(3) deve considerar que:
+(a) os MUST são iguais a zero e as máximas potências injetáveis no ponto de conexão do usuário com o
+sistema da distribuidora são especificadas no CUST, com o valor mínimo igual à potência instalada
+subtraída da mínima carga própria de cada tecnologia de geração, com exceção aos usuários de
+geração detentores de centrais híbridas ou associadas, que devem contratar o MUST conforme
+regulamentação específica [6]; e
+Endereço na internet: http://www.ons.org.br 7 / 20
+Procedimentos de Rede - Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Administração dos Contratos 8.1 Procedimental 2024.06 17/06/2024
+(b) o autoprodutor ou produtor independente que conecta à unidade consumidora diretamente ou por
+meio de suas instalações de uso exclusivo, celebra CUSD, com os encargos decorrentes, para
+atendimento a essa carga, quando houver indisponibilidade de geração.
+4.1.17 O agente de geração descrito no item 4.1.11(a)(3), deve considerar que:
+(a) os MUST são iguais a zero e as máximas potências injetáveis no ponto de conexão do usuário com as
+DIT são especificadas no CUST, com valor mínimo igual à potência instalada subtraída da mínima carga
+própria de cada tecnologia de geração, com exceção aos usuários de geração detentores de centrais
+híbridas ou associadas, que devem contratar o MUST conforme regulamentação específica [6]; e
+(b) o autoprodutor ou produtor independente que conecta à unidade consumidora diretamente ou por
+meio de instalações de uso exclusivo, celebra CUSD, com os encargos decorrentes, para atendimento
+a essa carga, quando houver indisponibilidade da geração.
+4.1.18 O agente de distribuição deve contratar os MUST nos novos pontos de conexão decorrentes de novas
+obras. A não contratação não exime a distribuidora do pagamento dos encargos pertinentes ao novo ponto.
+4.1.19 O CUST celebrado com o agente de geração é por tempo indeterminado ou até a data de término de
+sua concessão ou ato autorizativo.
+4.1.20 O início de execução e pagamento dos encargos de uso associados aos CUST celebrados por agentes
+de geração devem obedecer aos prazos máximos determinados na regulamentação [X], independentemente
+do início de operação em testes das centrais geradoras, salvo as condições previstas no item 4.2.7.
+4.1.21 O CUST assinado é condição necessária para liberação da entrada em operação de novos usuários no
+sistema de transmissão.
+4.1.22 Os MUST nos pontos de conexão dependentes da entrada em operação comercial das instalações
+sob responsabilidade do agente de transmissão são contratados condicionados à entrada em operação da
+obra.
+4.1.23 Caso ocorra atraso na entrada em operação das instalações do agente de transmissão que impeça
+total ou parcialmente a prestação do serviço de transmissão na data contratada, são observados os seguintes
+casos:
+(a) restrição total: são mantidos os MUST contratados para o mês que antecede a data prevista para
+entrada da nova obra até a sua entrada em operação;
+(b) restrição total e caso tenha sido contratado aumento de MUST: são considerados nos antigos pontos
+de conexão os MUST até o limite da capacidade existente;
+(c) restrição parcial: são considerados os MUST até a capacidade operativa de longa duração disponível;
+e
+(d) atraso de obras sob responsabilidade do usuário acessante: são considerados os MUST contratados
+na apuração na data da entrada em operação das instalações de transmissão associadas, definidas
+no Termo de Liberação com Pendências (TLP) ou Termo de Liberação Definitivo (TLD), o que ocorrer
+primeiro
+Endereço na internet: http://www.ons.org.br 8 / 20
+Procedimentos de Rede - Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Administração dos Contratos 8.1 Procedimental 2024.06 17/06/2024
+(e) dispensa de emissão do Termo de Liberação pelo ONS: é considerada como data de entrada em
+operação a data informada pelo agente de transmissão no sistema computacional do ONS [2];
+4.1.24 Os valores dos MUST contratados devem ser consistentes com o estabelecido na regulamentação e
+de acordo com:
+(a) os valores dos MUST contratados no ciclo anterior;
+(b) a declaração dos MUST para fins de recontratação anual;
+(c) a especificação na solicitação de acesso e no Parecer de Acesso emitido para as necessidades dos
+usuários na fronteira da Rede Básica, conforme Submódulo 7.1;
+(d) a demanda declarada pelos agentes para expansão do mercado de demanda para o período de
+contratação, conforme Submódulo 3.5 – Consolidação da previsão de carga para planejamento da
+operação eletroenergética;
+(e) a demanda declarada pelo agente para os estudos do Plano da Operação Elétrica de Médio Prazo do
+SIN (PAR/PEL) para o período de contratação, conforme Submódulo 3.1 – Planejamento da operação
+elétrica de médio prazo;
+(f) a simulação das Tarifas de Uso do Sistema de Transmissão (TUST), conforme Submódulo 8.2 –
+Divulgação de dados para cálculo tarifário; e
+(g) a apuração mensal dos serviços e encargos de transmissão, conforme Submódulo 6.8 – Apuração dos
+Montantes de Uso do Sistema de Transmissão e Submódulo 8.3 – Apuração de serviços e encargos da
+transmissão e encargos setoriais.
+4.1.25 O ONS elabora a minuta do CUST e a encaminha ao usuário na fase inicial de negociação, na qual o
+ONS coordena e analisa as sugestões das partes envolvidas.
+4.1.26Após finalizada a negociação, o ONS disponibiliza a minuta do CUST para assinatura do usuário.
+4.1.27As regras para as contratações em caráter flexível, temporário, de reserva de capacidade e por
+importadores e exportadores de energia estão estabelecidas na regulamentação[4][5].
+4.1.28 As regras específicas para as contratações em caráter permanente para centrais de geração híbridas
+ou centrais geradoras associadas estão estabelecidas na regulamentação [4][6].
+4.2. Administração do CUST e dos Termos Aditivos
+4.2.1 O ONS administra o CUST com base nas seguintes informações:
+(a) data de início da Operação em Teste na Declaração de Atendimento aos Requisitos dos
+Procedimentos de Rede, conforme Submódulo 7.10 - Emissão de declaração de atendimento aos
+Procedimentos de Rede para instalações de geração e Submódulo 7.11 - Emissão de declaração de
+atendimento aos Procedimentos de Rede para instalações de distribuição, consumidor livre e agente
+de exportação ou importação de energia;
+(b) Parecer de Acesso, conforme Submódulo 7.1; e
+(c) Termos Aditivos anteriores.
+Endereço na internet: http://www.ons.org.br 9 / 20
+Procedimentos de Rede - Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Administração dos Contratos 8.1 Procedimental 2024.06 17/06/2024
+4.2.2 Os usuários ou o representante legal indicado, no caso das centrais geradoras associadas, fornecem
+ao ONS os dados necessários para o preenchimento e atualização dos CUST e anexos, contendo os MUST a
+serem contratados por esses usuários.
+4.2.3 Os parâmetros do CUST que repercutem nas cláusulas contratuais, no cálculo tarifário e na apuração
+mensal dos serviços e encargos de transmissão são gerenciados pelo ONS e descritos como:
+(a) os MUST contratados;
+(b) os MUSTg declarados;
+(c) faixa de potência da central da geradora híbrida ou das centrais geradoras associadas;
+(d) os encargos de uso do sistema de transmissão devidos; e
+(e) os valores de cobertura dos Instrumentos de Garantia Financeira CCG, CFB ou ACT.
+4.2.3.1 A faixa de potência da central geradora híbrida e das centrais geradoras associadas será calculada,
+conforme regulamento [6]e constará do Parecer de Acesso.
+4.2.3.2 A GPC é vigente desde o período anterior a celebração do CUST até a emissão da(s) DAPR/D de todas
+as unidades geradoras, com os valores de cobertura correspondentes a 40 (quarenta) meses de EUST,
+calculado segundo MUST a ser contratado, conforme regulamentação vigente e definido no respectivo
+Parecer de Acesso.
+4.2.3.3 A GPC apresentada inicialmente tem vigência até, no mínimo, a data correspondente a 365 (trezentos
+e sessenta e cinco) dias contados da última data de início de MUST por empreendimento previsto no Parecer
+de Acesso.
+4.2.3.4 A GPC é apresentada ao ONS para validação, no máximo, até a data correspondente a 25 (vinte e
+cinco) dias anteriores a data limite para celebração do CUST.
+4.2.3.4.1 Caso a GPC não seja apresentada dentro deste prazo, o agente de geração perde o direito de
+celebrar o CUST.
+4.2.3.5 É requisito para a contratação do uso das centrais geradoras associadas a apresentação de GPC,
+inclusive para os casos de aditamento contratual, sendo que o valor a ser aportado é calculado em momento
+anterior a contratação da associação e recalculado em momento anterior ao início de vigência do MUST
+Único, de acordo com a equação a seguir:
+VCGPC A = MUST X TUST X
+associação
+Em que:
+VCGPC A: Valor de cobertura da GPC da Associação
+MUST: Montante de Uso do Sistema de Transmissão único do CUST da Associação aprovado pelo respectivo
+Parecer de Acesso
+TUST : TUST para a associação definida conforme regulamentação vigente [6].
+associação
+PINE: Somatório da Potência Instalada de todas as unidades geradoras da Associação com DAPR-D ainda não
+emitidas na ocasião de apresentação da garantia.
+Endereço na internet: http://www.ons.org.br 10 / 20
+Procedimentos de Rede - Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Administração dos Contratos 8.1 Procedimental 2024.06 17/06/2024
+PITot : Somatório da Potência Instalada de todas as unidades geradoras da Associação.
+4.2.3.5.1 O representante legal da associação deverá aportar a GPC conforme item 4.2.3.5 e com a vigência
+conforme o disposto no item 4.2.3.3.
+4.2.3.5.2 A parcela PINE será calculada apenas nas ocasiões descritas no item 4.2.3.5.
+4.2.3.5.3 Caso um dos empreendimentos associados já possua e mantenha GPC aportada, este valor poderá
+ser abatido da GPC referente à associação até a data de início de vigência do MUST único da associação,
+quando o valor da GPC deverá ser único para a associação e calculado novamente conforme equação descrita
+no item 4.2.3.5.
+4.2.3.6 Para os geradores, após a emissão das respectivas DAPR/D de todas as unidades geradoras, a GPC
+poderá ser substituída por instrumento de garantia cujo valor de cobertura é definido segundo cláusulas dos
+respectivos CUST, inclusive para centrais geradoras associadas.
+4.2.3.7 Para os demais usuários, os Instrumentos de Garantia devem ser apresentados conforme as regras
+estabelecidas no CUST.
+4.2.3.8 Os Instrumentos de Garantia Financeira, CFB ou ACT, são requisitos para a assinatura do CUST,
+segundo as condições estabelecidas nos itens 4.2.3.2, 4.2.3.3, 4.2.3.7 e 4.2.3.6.
+4.2.3.9 Somente as garantias financeiras tratadas no item 4.2.3.2 serão devolvidas ao acessante a partir da
+apresentação da DAPR/D.
+4.2.3.10 O disposto no item 4.2.3.2 não se aplica as distribuidoras, consumidores, agentes de exportação e
+agentes de importação, bem como, contratação temporária.
+4.2.4 As inclusões ou aumentos dos MUST contratados pelos agentes de distribuição e consumidores livres,
+durante o ano em curso, deverão estar fundamentados por um Parecer de Acesso, contendo as análises
+necessárias para viabilizar esta contratação.
+4.2.5 O Parecer de Acesso explicita as condicionantes para alteração dos MUST já contratados ou a adoção
+de mais de um valor de MUST por ponto de conexão em um mesmo ano civil, previamente estabelecido em
+um Parecer de Acesso.
+4.2.6 Se a entrada de novos pontos de conexão provocar alteração dos MUST em pontos de conexão
+adjacentes, esses também devem ser relacionados no Parecer de Acesso, de forma a subsidiar a alteração de
+valores dos MUST nesses pontos.
+4.2.7 Os MUST nos pontos de conexão dependentes da entrada em operação de instalações sob
+responsabilidade do agente de transmissão são representados no contrato como condicionados à efetiva
+entrada em operação da instalação de transmissão, segundo as seguintes diretrizes:
+(a) a contratação dos MUST condicionados é realizada separadamente no CUST e não produz efeitos para
+fins de apuração de serviços e encargos, incluindo encargos associados à postergação da data de início
+de execução dos CUST para centrais geradoras, até que a instalação de transmissão seja liberada para
+entrada em operação;
+Endereço na internet: http://www.ons.org.br 11 / 20
+Procedimentos de Rede - Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Administração dos Contratos 8.1 Procedimental 2024.06 17/06/2024
+(b) na contratação dos MUST condicionados constam os pontos de conexão novos e aqueles que são
+diretamente afetados pelo início de vigência do novo ponto de conexão, quando houver, conforme
+previsto no Parecer de Acesso; e
+(c) os MUST contratados que não foram alterados pelos MUST condicionados a entrada em operação de
+instalações de transmissão continuam vigentes.
+4.2.8 Os aumentos dos MUST pelos agentes de distribuição e consumidores livres, durante a contratação
+anual, deverão estar fundamentados por um Parecer de Acesso ou documento técnico equivalente, contendo
+as análises necessárias para viabilizar esta contratação. No caso de reduções dos MUST contratados, o Termo
+Aditivo ao CUST deverá especificar o dispositivo normativo que as justificam [2][4].
+4.2.9 O agente de distribuição pode informar ao ONS os pontos de conexão que possuem como finalidade
+de garantir confiabilidade ao atendimento dos usuários no mesmo ano civil, discriminando os montantes
+para a utilização do ONS, inclusive na apuração da sobrecontratação. Esses montantes não constam no CUST.
+4.2.10 No caso do agente de geração, o MUST contratado pode ser aumentado, mediante Parecer de Acesso,
+ou reduzido conforme regulamentação vigente [4].
+4.2.11 No caso das centrais geradoras associadas somente será possível alterar o MUSTg quando houver
+alteração do MUST.
+4.2.12 As regras para descontratação ou rescisão do CUST que implicam em exclusão dos MUST são tratadas
+conforme regulamentação[4][5].
+4.2.13 A alteração de ponto de conexão, motivada por solicitação do próprio agente, é tratada como uma
+descontratação onerosa do ponto de conexão atualmente contratado, seguida de contratação do ponto
+novo.
+4.2.14 Os encargos decorrentes de eventual rescisão do CUST das centrais geradoras associadas serão
+calculados de acordo com a regulamentação vigente [4], com base no MUST único da associação.
+4.2.15 As regras para postergação de MUST são tratadas conforme regulamentação [4].
+4.2.16 A mudança na forma de associação das Centrais Geradoras deverá ser precedida de
+Parecer de Acesso e não poderá implicar em redução do MUST contratado pela associação original,
+devendo o CUST vigente da associação ser encerrado, sem ônus, e os novos CUST serem firmados de
+forma a corresponder às novas características da associação, ou aditados para corresponder às novas
+características da associação.
+4.2.16.5 O encerramento do CUST da associação sem ônus se aplica apenas para os casos em que a
+configuração pretendida mantenha o enquadramento das centrais geradoras como associadas, conforme
+regulamentação [6].
+4.2.17 O agente com CUST vigente que vier a se tornar membro de associação deve ter seu CUST encerrado,
+sem onerosidade, em data anterior a data de início de vigência do CUST da associação.
+4.2.18 O agente de geração ou o representante legal indicado, no caso das centrais geradoras associadas,
+fornece ao ONS e mantém atualizados os dados e as informações necessárias para os processos de celebração
+do CUST.
+Endereço na internet: http://www.ons.org.br 12 / 20
+Procedimentos de Rede - Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Administração dos Contratos 8.1 Procedimental 2024.06 17/06/2024
+4.2.19 A alteração do representante legal das centrais geradoras associadas poderá ser efetivada mediante
+termo aditivo ao CUST assinado por todas as centrais geradoras associadas.
+4.3. Casos específicos para celebração e aditamento do CUST com as TUST reduzidas
+4.3.1 O CUST com as TUST reduzidas, autorizadas pela ANEEL, é celebrado condicionado à apresentação dos
+seguintes documentos e informações, a serem anexados ao CUST ou Termo Aditivo:
+(a) agentes de geração: o contrato de concessão ou ato autorizativo, com os valores da potência
+instalada, a declaração dos MUST por ponto de conexão e o percentual de redução das TUST;
+(b) agentes de geração e consumidores: se em um mesmo ponto de conexão ocorrer a inserção de
+potência ou a retirada de demanda por mais de um empreendimento de geração e com diferentes
+níveis de desconto nas TUST, o gerador e o consumidor devem declarar os MUST separadamente para
+cada empreendimento, identificando o percentual de redução de cada TUST; e
+(c) usuários compradores de energia: declaração dos MUST por ponto de conexão, identificando o
+empreendimento de geração supridor da demanda e o percentual de redução das TUST.
+4.4. Caso específico para celebração e aditamento do CUST para Usina Hidrelétrica de Itaipu
+4.4.1 Com base nas disposições regulamentares, segue as determinações quanto às regras de conexão e de
+uso do sistema de transmissão a serem aplicadas à Usina Hidrelétrica de Itaipu:
+(a) as linhas de transmissão de 750 kV Foz do Iguaçu/Ivaiporã, o elo de corrente contínua e a subestação
+Foz do Iguaçu 750 kV são classificadas como DIT de uso exclusivo da Itaipu Binacional e são
+remuneradas por meio da tarifa de transporte específica, definida pela ANEEL e aplicada aos
+contratantes da energia gerada pela usina; e
+(b) os pontos de conexão com a Rede Básica estão localizados nas subestações de Ibiúna (chegada das
+linhas de transmissão em corrente contínua) e Ivaiporã (chegada das linhas de transmissão de 750 kV
+Foz do Iguaçu), ponto para o qual são estabelecidas as TUST, contratados os MUST e calculados os
+EUST, referentes à injeção de potência da usina na Rede Básica do SIN.
+5. CONTRATO DE CONEXÃO ÀS INSTALAÇÕES DE TRANSMISSÃO (CCT), CONTRATO DE CONEXÃO ÀS
+INSTALAÇÕES DE TRANSMISSÃO - TERMO DE AJUSTE (CCT-TA) E CONTRATO DE COMPARTILHAMENTO
+DE INSTALAÇÕES DE TRANSMISSÃO (CCI)
+5.1. Celebração do contrato
+5.1.1 O ONS, como interveniente dos CCT e CCI e como parte celebrante do CCT-TA, pode intervir ou auxiliar
+na negociação das partes envolvidas e apresentar sugestões para os modelos desses contratos.
+5.1.2 O ONS obtém da ANEEL as seguintes informações para celebração do CCT, CCT-TA e CCI:
+(a) as informações sobre a caracterização dos agentes de transmissão; e
+(b) as condições de conexão e de compartilhamento das instalações de transmissão, explicitadas nos
+contratos de concessão, autorização ou permissão, editais de licitação e demais documentos
+regulatórios.
+Endereço na internet: http://www.ons.org.br 13 / 20
+Procedimentos de Rede - Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Administração dos Contratos 8.1 Procedimental 2024.06 17/06/2024
+5.1.3 Todos os agentes participantes do CCT e CCT-TA também celebram o CUST com o ONS.
+5.1.4 A celebração do CCT é realizada, sob interveniência do ONS, entre o agente de transmissão e os
+usuários listados a seguir e conforme ANEXO B:
+(a) agente de geração:
+(1) com usina despachada centralizadamente conectada à Rede Básica ou às DIT;
+(2) com usina não despachada centralizadamente e conectada às DIT; e
+(3) com usina que acessa à Rede Básica por meio das ICG.
+(b) agente de distribuição:
+(1) com instalações conectadas à Rede Básica; e
+(2) com instalações conectadas às DIT e ICG que acessam à Rede Básica.
+(c) consumidor, autoprodutor e produtor independente:
+(1) com instalações conectadas à Rede Básica, quando a geração for inferior à máxima carga própria;
+e
+(2) com instalações conectadas às DIT diretamente ou por meio de instalações de uso restrito.
+5.1.5 O agente de geração despachado centralizadamente e conectado às DIT celebra o CCT com o agente
+de transmissão responsável pelas DIT no ponto de conexão. Por meio desse contrato, o agente de geração
+remunera o agente de transmissão pelo uso das instalações de conexão sob responsabilidade do agente de
+transmissão.
+5.1.6 Os CCT, CCT-TA e CCI devem ser celebrados antes das providências para implantação das obras para
+conexão e acesso do agente às instalações de transmissão.
+5.1.7 O CCT e CCI assinados são requisitos necessários para liberação da entrada em operação de novos
+usuários no sistema de transmissão e de novas instalações de transmissão no SIN, respectivamente.
+5.1.8 Sempre que houver conexão entre as instalações dos agentes de geração e transmissão da mesma
+empresa, é necessária a celebração de um Termo de Ajuste no CCT, denominado CCT-TA, entre a empresa e
+o ONS.
+5.1.9 Sempre que houver o compartilhamento das mesmas instalações de transmissão entre diferentes
+agentes de transmissão, é necessária a celebração do CCI, sob interveniência do ONS.
+5.1.10 O ONS analisa os CCT [4][5], CCT-TA e CCI considerando as condições técnicas e regulatórias conforme
+prevê a regulamentação vigente.
+5.1.11O ONS assina os CCT e CCI como interveniente e o CCT-TA como parte celebrante após verificação das
+condições técnicas e regulatórias necessárias para celebração dos contratos. Caso contrário, o ONS pode
+condicionar sua assinatura à solução das pendências identificadas.
+5.1.12Após celebração do CCT, CCT-TA e do CCI, o ONS disponibiliza os contratos à ANEEL e à sociedade por
+meio de seu sítio eletrônico [2][4].
+5.2 Administração do CCT, CCT-TA e CCI e Termos Aditivos
+Endereço na internet: http://www.ons.org.br 14 / 20
+Procedimentos de Rede - Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Administração dos Contratos 8.1 Procedimental 2024.06 17/06/2024
+5.2.1 O ONS analisa os CCT, CCT-TA e CCI, considerando as informações e dados contidos nos:
+(a) Pareceres de Acesso, conforme Submódulo 7.1;
+(b) Termos Aditivos anteriores; e
+(c) Atos autorizativos da ANEEL associados às instalações objeto daquele(s) contrato(s).
+5.2.2 O ONS define, em conjunto com as partes envolvidas, os parâmetros explicitados nos anexos do CCT-
+TA.
+5.2.3 O agente de transmissão mantém atualizados os dados constantes nos CCT, CCT-TA, CCI e seus
+respectivos anexos, como as datas de assinatura, o início de vigência, a validade dos contratos e a relação
+das instalações consideradas.
+6. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ANCILARES (CPSA)
+6.1. Celebração do contrato
+6.1.1 O CPSA estabelece a prestação e remuneração dos serviços ancilares pelos agentes [1], referentes aos
+seguintes serviços:
+(a) controle secundário de frequência, realizado pelas usinas que participam do Controle Automático de
+Geração (CAG), sempre que solicitado pelo ONS e sem ônus para os demais agentes de operação.
+(b) autorrestabelecimento integral, realizado pelas unidades geradoras integrantes do SIN que tenham
+equipamentos para essa finalidade, sempre que solicitado pelo ONS e sem ônus para os demais
+agentes de operação.
+(c) suporte de reativos por unidade geradora que opera como compensador síncrono;
+(d) Sistema Especial de Proteção (SEP); e
+(e) despacho complementar para manutenção da reserva de potência operativa.
+6.1.2 O ONS realiza a análise técnica dos requisitos para demonstrar a necessidade e a viabilidade técnica
+da implantação dos equipamentos para prestação dos serviços ancilares por novas usinas ou usinas em
+operação contratados no CPSA, conforme o Submódulo 2.3 – Critérios para estudos elétricos, Submódulo
+2.10 – Requisitos técnicos mínimos para a conexão às instalações de transmissão e Submódulo 3.10 – Estudos
+para segurança operacional elétrica.
+6.1.3 O ONS identifica e divulga em seu site a relação das usinas termelétricas em operação despachadas
+centralizadamente que podem prestar serviço ancilar de despacho complementar para manutenção da
+reserva de potência operativa.
+6.1.4 O agente de geração deve solicitar a autorização prévia da ANEEL para ressarcimento dos custos da
+implantação dos equipamentos para prestação dos serviços ancilares de controle secundário de frequência,
+autorrestabelecimento integral, suporte de reativos por unidade geradora que opera como compensador
+síncrono e/ou SEP, acompanhado dos estudos realizados pelo ONS e de um orçamento detalhado elaborado
+pelo agente.
+Endereço na internet: http://www.ons.org.br 15 / 20
+Procedimentos de Rede - Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Administração dos Contratos 8.1 Procedimental 2024.06 17/06/2024
+6.1.4.1 O agente de geração deve solicitar a celebração do CPSA ao ONS para a prestação do serviço ancilar
+de despacho complementar para manutenção da reserva de potência operativa.
+6.1.5 O agente de geração ou o representante legal indicado, no caso das centrais geradoras associadas,
+fornece ao ONS e mantém atualizados os dados e as informações necessárias para os processos de celebração
+do CPSA.
+6.1.6 O ONS celebra o CPSA com o agente de geração ou o representante legal indicado, no caso das centrais
+geradoras associadas.
+6.1.7 A alteração do representante legal das centrais geradoras associadas, sem alteração da composição
+societária e sem necessidade de revisão de acesso por questões técnicas, poderá ser efetivada mediante
+termo aditivo ao CUST assinado por todas as centrais geradoras associadas.
+6.2 Avaliação e ressarcimento dos serviços ancilares
+6.2.1 O pagamento da receita anual referente aos custos adicionais de operação e manutenção (O&M) dos
+serviços ancilares prestados é realizado conforme regulamentação [1] e sob as seguintes condições:
+(a) controle secundário de frequência: desempenho satisfatório das centrais geradoras no CAG, avaliado
+pelo ONS;
+(b) autorrestabelecimento integral: ensaios aprovados realizados pelo ONS nas centrais geradoras
+selecionadas; e
+(c) atuação do SEP: desempenho satisfatório das centrais geradoras selecionadas, avaliado pelo ONS.
+6.2.2 O ressarcimento para os serviços de suporte de reativos em unidades geradoras que operam como
+compensador síncrono é realizado pela Tarifa de Serviços Ancilares (TSA).
+6.2.3 O ONS encaminha à ANEEL e disponibiliza em seu site o relatório referente ao ano imediatamente
+anterior, com o resultado da avaliação de desempenho dos serviços ancilares de controle secundário de
+frequência, autorrestabelecimento integral, SEP e/ou despacho complementar para manutenção da reserva
+de potência operativa [1], conforme Submódulo 6.6 – Apuração dos serviços ancilares.
+6.2.4 As centrais geradoras que celebram CPSA para o serviço ancilar de despacho complementar para
+manutenção da reserva de potência operativa podem ser despachadas conforme determinado no
+Submódulo 4.5 – Programação Diária da Operação e são apuradas conforme determinado no Submódulo 6.5
+– Apuração da geração e de indisponibilidade de empreendimentos de geração.
+6.3 O ANEXO C apresenta para cada serviço ancilar prestado pelo agente de geração, a necessidade ou não
+de celebração do CPSA e os tipos de custos a serem ressarcidos ao agente de geração, ou ao representante
+legal indicado, no caso das centrais geradoras associadas, conforme regulamentação [1].
+7. REFERÊNCIAS
+[1] ANEEL, Resolução Normativa nº 1.030, de 26 de julho de 2022.
+[2] ANEEL, Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de Transmissão de
+Energia Elétrica no Sistema Elétrico Nacional. Módulo 3 - Instalações e Equipamentos de Transmissão.
+Endereço na internet: http://www.ons.org.br 16 / 20
+Procedimentos de Rede - Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Administração dos Contratos 8.1 Procedimental 2024.06 17/06/2024
+[3] ANEEL, Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de Transmissão de
+Energia Elétrica no Sistema Elétrico Nacional. Módulo 4 - Prestação dos Serviços.
+[4] ANEEL, Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de Transmissão de
+Energia Elétrica no Sistema Elétrico Nacional. Módulo 5 - Acesso ao Sistema.
+[5] ANEEL, Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de Transmissão de
+Energia Elétrica no Sistema Elétrico Nacional. Módulo 6 - Coordenação e Controle da Operação.
+[6] ANEEL, Resolução Normativa nº 954, de 30 de novembro de 2021.
+[7] ANEEL. Despacho nº 3.245, de 1º de setembro de 2023.
+8. ANEXOS
+ANEXO A – RELAÇÕES CONTRATUAIS ENTRE OS AGENTES E ONS
+ANEXO B – CONTRATOS DE USO OU CONEXÃO POR TIPO E LOCALIDADE DO USUÁRIO
+ANEXO C – LISTA DOS SERVIÇOS ANCILARES E CUSTOS RESSARCIDOS
+Endereço na internet: http://www.ons.org.br 17 / 20
+Procedimentos de Rede - Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Administração dos Contratos 8.1 Procedimental 2024.06 17/06/2024
+ANEXO A – Relações contratuais entre os agentes e ONS
+Endereço na internet: http://www.ons.org.br 18 / 20
+Procedimentos de Rede - Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Administração dos Contratos 8.1 Procedimental 2024.06 17/06/2024
+ANEXO B – Contratos de Uso ou Conexão por tipo e localidade do usuário
+Usuário celebrante Tipo e Localização do Usuário CUST CCT
+Com usina despachada centralizadamente e conectada à
+SIM SIM
+Rede Básica.
+Com usina despachada centralizadamente e conectada à
+SIM NÃO
+instalação de distribuidora.
+Agente de geração
+Com usina despachada centralizadamente e conectada à
+ou representante
+SIM SIM
+DIT.
+legal indicado
+Não despachado centralizadamente e conectado às DIT. NÃO SIM
+Acessante da Rede Básica por meio de ICG. SIM SIM
+Agente de Com instalações conectadas à Rede Básica ou que acessam
+SIM SIM
+distribuição a Rede Básica por meio de conexão às DIT ou ICG.
+Com instalações conectadas à Rede Básica e com a geração
+SIM SIM
+Consumidor, inferior à máxima carga própria.
+autoprodutor ou
+produtor
+Com instalações conectadas às DIT diretamente ou por meio
+independente NÃO SIM
+de instalações de uso restrito
+Com acesso à Rede Básica, em tensão igual ou superior à
+Consumidor ou
+SIM NÃO
+autoprodutor 230 kV, por meio de instalações da distribuidora.
+Exportador ou
+Agente autorizado a importar e/ou exportar energia. SIM NÃO
+Importador
+Endereço na internet: http://www.ons.org.br 19 / 20
+Procedimentos de Rede - Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Administração dos Contratos 8.1 Procedimental 2024.06 17/06/2024
+ANEXO C – Lista dos serviços ancilares e custos ressarcidos [1]
+Custos ressarcidos
+Variáveis
+Serviço Ancilar CPSA
+Fixos
+Perdas
+O&M
+adicionais
+Controle primário de frequência
+Não - - -
+Controle secundário de frequência
+Sim X X -
+Suporte de reativos exceto
+Não - - -
+compensador síncrono
+Suporte de reativos:
+Unidade geradora que opera como Sim X X X
+compensador síncrono
+Autorrestabelecimento Integral
+Sim X X -
+Autorrestabelecimento Parcial
+Não - - -
+Sistema Especial de Proteção (SEP) Sim X X -
+Despacho complementar para
+manutenção da reserva de potência Sim - - -
+operativa
+Endereço na internet: http://www.ons.org.br 20 / 20

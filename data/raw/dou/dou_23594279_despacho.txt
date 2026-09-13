@@ -1,0 +1,59 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 12/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=12/02/2026&jornal=515&pagina=83
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado de Santa Catarina
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 39/2026
+Fase de Autorização de Pesquisa
+Determina cumprimento de exigência - Prazos estabelecidos em ofício(2803)
+815.028/1986 - ROMEU FOCK - Ofício nº 7079/2026/COROUT-SC/ANM - Prazo: 30 (trinta) dias
+815.029/1986 - ROMEU FOCK - Ofício nº 7054/2026/COROUT-SC/ANM - Prazo: 30 (trinta) dias
+Fase de Concessão de Lavra
+Determina cumprimento de exigência - Prazo 60 dias(470)
+815.135/2013-TENDENCIA MINERADORA LTDA-OF. N°7548/2026/COROUT-SC/ANM
+004.270/1938-INDÚSTRIA CARBONÍFERA RIO DESERTO LTDA-OF. N°7514/2026/UAC-SC/ANM
+Determina a desinterdição da lavra(444)
+004.270/1938-INDÚSTRIA CARBONÍFERA RIO DESERTO LTDA- N° do Termo de desinterdição:5/2026/ANM/UAC-SC, de 09/02/2026
+007.120/1941-INDÚSTRIA CARBONÍFERA RIO DESERTO LTDA- N° do Termo de desinterdição:5/2026/ANM/UAC-SC, de 09/02/2026
+007.121/1941-INDÚSTRIA CARBONÍFERA RIO DESERTO LTDA- N° do Termo de desinterdição:5/2026/ANM/UAC-SC, de 09/02/2026
+007.122/1941-INDÚSTRIA CARBONÍFERA RIO DESERTO LTDA- N° do Termo de desinterdição:5/2026/ANM/UAC-SC, de 09/02/2026
+Fase de Licenciamento
+Determina cumprimento de exigência - Prazo 30 dias(718)
+815.189/2001-WESTROCK, CELULOSE, PAPEL E EMBALAGENS LTDA-OF. N°7073/2026/COROUT-SC/ANM
+815.717/2003-WESTROCK, CELULOSE, PAPEL E EMBALAGENS LTDA-OF. N°7035/2026/COROUT-SC/ANM
+815.262/2023-MINERACAO BIGUACU LTDA-OF. N°7421/2026/COROUT-SC/ANM
+Autoriza averbação da Prorrogação do Registro de Licença(742)
+815.143/1990-DAMIAN EXTRAÇÃO DE AREIA LTDA- Registro de Licença N° 342/1991 - Vencimento em 16/11/2030
+815.158/2022-TERRAPLENAGEM BENDO LTDA EPP- Registro de Licença N° 19/2022 - Vencimento em 01/12/2033
+Fase de Requerimento de Lavra
+Concede anuência e autoriza averbação da cessão total do requerimento de Lavra(1043)
+815.054/2005-OTILIA JULIETA DE AMORIM & CIA LTDA- Alvará n° 3209/2005 - Cessionário: BRITTA PRO BRITAGEM E MINERACAO LTDA- CNPJ 56.178.580/0001-66
+815.053/2005-OTILIA JULIETA DE AMORIM & CIA LTDA- Alvará n° 3208/2005 - Cessionário: BRITTA PRO BRITAGEM E MINERACAO LTDA- CNPJ 56.178.580/0001-66
+815.052/2005-OTILIA JULIETA DE AMORIM & CIA LTDA- Alvará n° 3207/2005 - Cessionário: BRITTA PRO BRITAGEM E MINERACAO LTDA- CNPJ 56.178.580/0001-66
+Determina cumprimento de exigência - Prazo 60 dias(361)
+815.231/2017-CONCORDIA COMERCIO DE PEDRAS LTDA-OF. N°7259/2026/COROUT-SC/ANM
+815.050/2024-AF CONSTRUCOES E PAVIMENTACAO LTDA-OF. N°7553/2026/COROUT-SC/ANM
+815.761/2011-MONTE CASTELO EMPREENDIMENTO IMOBILIARIO LTDA-OF. N°7673/2026/COROUT-SC/ANM
+Determina o cancelamento da Guia de utilização(1778)
+815.039/2000-AJAS TERRAPLANAGEM LTDA- Guia de Utilização N°506/2023
+Fase de Requerimento de Licenciamento
+Determina o cumprimento de exigência - Prazo 30 dias(1155)
+Processo nº: 815.550/2025
+Titular: COMERCIO DE PEDRAS MORRO GRANDE LTDA
+Ofício nº: 7420/2026/COROUT-SC/ANM
+Processo nº: 815.128/2020
+Titular: EJC MATERIAIS DE CONSTRUÇÃO LTDA EPP
+Ofício nº: 6166/2026/COROUT-SC/ANM
+Fase de Requerimento de Registro de Extração
+Determina cumprimento de exigência - Prazo 60 dias(2964)
+815.059/2024-MUNICIPIO DE CANOINHAS-OF. N°7661/2026/COROUT-SC/ANM
+815.422/2025-MUNICIPIO DE CANOINHAS-OF. N°7724/2026/COROUT-SC/ANM
+JOSE AUGUSTO SIMOES NETO
+Gerente

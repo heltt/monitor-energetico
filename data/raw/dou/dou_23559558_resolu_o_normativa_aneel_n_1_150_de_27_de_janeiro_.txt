@@ -1,0 +1,162 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Resolução
+TITULO: RESOLUÇÃO NORMATIVA ANEEL Nº 1.150, DE 27 DE JANEIRO DE 2026
+DATA_PUBLICACAO: 02/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=02/02/2026&jornal=515&pagina=86
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Energia Elétrica/Diretoria Colegiada
+
+TEXTO_COMPLETO:
+EMENTA: Adequações dos Submódulos 2.7 e 2.7 A do PRORET.
+
+RESOLUÇÃO NORMATIVA ANEEL Nº 1.150, DE 27 DE JANEIRO DE 2026
+Adequações dos Submódulos 2.7 e 2.7 A do PRORET.
+A DIRETORA-GERAL SUBSTITUTA DA AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA - ANEEL, conforme a Portaria nº 160, de 23 de maio de 2025, no uso de suas atribuições regimentais, de acordo com deliberação da Diretoria, tendo em vista no Decreto nº 10.139, de 28 de novembro de 2019, e na Portaria nº 6.405, de 27 de maio de 2020, e o que consta do Processo nº 48500.000730/2025-09, resolve:
+Art. 1º Aprovar as versões 2.4 do Submódulo 2.7, 1.3 do Submódulo 2.7A dos Procedimentos de Regulação Tarifária - PRORET, conforme anexos a essa Resolução.
+Art. 2º Alterar o Quadro I do Anexo I da Resolução Normativa nº 1.091, de 14 de maio de 2024, conforme a seguir:
+
+
+MÓDULOS
+Versão
+VIGÊNCIA
+Submódulo 2.1 - Procedimentos Gerais
+2.4
+Desde 03/06/2024
+Submódulo 2.1A - Procedimentos Gerais
+2.1
+Desde 03/06/2024
+Submódulo 2.2 - Custos Operacionais
+4.1
+Desde 03/06/2024
+Submódulo 2.5 - Fator X
+4.1
+Desde 03/06/2024
+Submódulo 2.5A - Fator X
+3.1
+Desde 03/06/2024
+Submódulo 2.6 - Perdas de Energia e Receitas Irrecuperáveis
+2.2
+Desde 03/06/2024
+Submódulo 2.6 A - Perdas de Energia e Receitas Irrecuperáveis
+1.1
+Desde 03/06/2024
+Submódulo 2.7 - Outras Receitas
+2.4
+Desde 27/01/2026
+Submódulo 2.7 A - Outras Receitas
+1.3
+Desde 27/01/2026
+Submódulo 2.8 - Geração Própria
+1.2
+Desde 03/06/2024
+Submódulo 3.1 - Procedimentos Gerais
+1.5
+Desde 03/06/2024
+Submódulo 3.1 A - Procedimentos Gerais - Aditivo contratual
+2016
+1.1
+Desde 03/06/2024
+Submódulo 3.2 - Custos de Aquisição de Energia
+1.2
+Desde 03/06/2024
+Submódulo 3.2 A - Custos de Aquisição de Energia - Aditivo
+contratual 2016
+1.2
+Desde 03/06/2024
+Submódulo 3.3 - Custos de Transmissão
+1.1
+Desde 03/06/2024
+Submódulo 3.3A - Custos de Transmissão
+1.1
+Desde 03/06/2024
+Submódulo 3.4 -Encargos Setoriais
+1.1
+Desde 05/12/2022
+Submódulo 3.4A - Encargos Setoriais
+1.1
+Desde 05/12/2022
+Submódulo 4.2 - Conta de Compensação de Variação de
+Valores de Itens da Parcela "A"
+1.2
+Desde 03/06/2024
+Submódulo 4.2A - Conta de Compensação de Variação de
+Valores de Itens da Parcela "A" - Aditivo contratual 2016
+Incorporado pelo Submódulo 4.2
+Submódulo 4.4 - Demais Componentes Financeiros
+1.8
+Desde 03/06/2024
+Submódulo 4.4A - Demais Componentes Financeiros
+1.5
+Desde 03/06/2024
+Submódulo 5.5 - Taxa de Fiscalização dos Serviços de Energia
+Elétrica - TFSEE
+1.2
+Desde 03/06/2024
+Submódulo 6.3 - Encargo de Conexão Regulado
+2.0
+Desde 03/06/2024
+Submódulo 7.4 - Tarifas para Centrais Geradoras
+2.2
+Desde 03/06/2024
+Submódulo 8.4 - Reajuste e Revisão Tarifária Periódica
+1.2
+Desde 03/06/2024
+Submódulo 9.1 - Revisão Periódica das Receitas das
+Concessionárias de Transmissão
+4.2
+Desde 03/06/2024
+Submódulo 9.2 - Revisão Periódica das Receitas das
+Concessionárias de Transmissão Licitadas
+4.4
+Desde 03/06/2024
+Submódulo 9.3 - Reajuste Anual das Receitas das
+Concessionárias de Transmissão
+1.1
+Desde 03/06/2024
+Submódulo 9.5 - Cálculo da TUST para Geradores Participantes
+de Leilões de Energia Nova
+cancelado
+Submódulo 9.6 - Cálculo dos Encargos de Uso e Conexão
+cancelado
+Submódulo 9.7 - Implementação de melhorias e reforços em
+instalações sob responsabilidade de Concessionárias de
+Transmissão
+2.1
+Desde 05/02/2024
+Submódulo 10.1 - Ritos dos processos de Revisões Tarifárias
+de Distribuidoras
+2.0
+Desde 03/06/2024
+Submódulo 10.2 - Ritos dos processos de Reajustes Tarifárias
+de Distribuidoras
+2.0
+Desde 03/06/2024
+Submódulo 10.4 - Ritos dos processos de Reajustes das
+Receitas das Transmissoras
+1.1
+Desde 03/06/2024
+Submódulo 10.6 - Informações Periódicas da Distribuição
+1.2
+Desde 03/06/2024
+Submódulo 11.1 - Distribuidoras com Mercado Próprio inferior
+a 700 GWh/Ano
+1.5 C
+Desde 1º/03/2022
+Submódulo 12.1 - Revisão Periódica das receitas de geradoras
+2.3
+Desde 03/06/2024
+Submódulo 12.4 - Autorização de Ampliações e Melhorias em
+instalações de geração
+2.1
+Desde 03/06/2024
+Art. 3º Alterar o art. 629 da Resolução Normativa nº 1.000, de 7 de dezembro de 2021, da seguinte forma:
+"Art. 629
+(...)
+V - Novas atividades acessórias complementares, criadas a partir de novas tecnologias como a combinação dos recursos energéticos distribuídos, medidores inteligentes, veículos elétricos, inteligência artificial, internet das coisas, blockchain e computação em nuvem.
+(...)
+§6º A distribuidora poderá exercer novas atividades acessórias complementares inovadoras criadas a partir de novas tecnologias, tais como a combinação dos recursos energéticos distribuídos, medidores inteligentes, veículos elétricos, inteligência artificial, internet das coisas, blockchain e computação em nuvem.
+§7º ANEEL poderá solicitar comprovação do Nível de Maturidade Tecnológica - TRL das aplicações utilizadas para a prestação das novas atividades complementares inovadoras.
+§8º Para exercer atividades acessórias complementares inovadoras criadas a partir de novas tecnologias ou que não estejam estabelecidas neste artigo, a distribuidora deve solicitar prévia autorização da ANEEL."
+Art. 4° Esta Resolução entra em vigor na data de sua publicação.
+AGNES MARIA DE ARAGÃO DA COSTA
+ANEXO

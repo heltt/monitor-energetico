@@ -1,0 +1,94 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 5.7-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 5.7-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 5.7
+Gerenciamento da carga
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Gerenciamento da carga 5.7 Responsabilidades 2020.12 01/01/2021
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Plano de Gerenciamento de Carga................................................................................................3
+2.2. Relatórios de Gerenciamento da Carga.........................................................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Centro Nacional de Operação do Sistema – CNOS........................................................................3
+3.3. Centros de Operação do Sistema – COSR......................................................................................3
+3.4. Agentes de transmissão................................................................................................................3
+3.5. Agentes de distribuição.................................................................................................................4
+3.6. Consumidores livres ou potencialmente livres.............................................................................4
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIAS...................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Gerenciamento da carga 5.7 Responsabilidades 2020.12 01/01/2021
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, as diretrizes e as etapas do processo de gerenciamento
+da carga no Sistema Interligado Nacional (SIN).
+2. PRODUTOS
+2.1. Plano de Gerenciamento de Carga
+2.1.1 Estabelecem os procedimentos para o gerenciamento de carga no SIN, a partir das sínteses dos Planos
+de Corte Manual de Carga (PCMC) elaborados e encaminhados ao ONS pelos agentes de distribuição e
+consumidores livres e potencialmente livres, cujas instalações estão conectadas à Rede Básica.
+2.2. Relatórios de Gerenciamento da Carga
+2.2.1 Apresentam a comprovação de necessidade do gerenciamento de carga com base no resultado das
+ações de cada agente de operação envolvido e do atendimento às determinações do ONS pelos agentes.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Coordenar a atualização e operacionalização dos Planos de Corte Manual de Carga (PCMC).
+(b) Elaborar o Relatório de Gerenciamento da Carga na Rede de Operação e encaminhar aos agentes
+envolvidos.
+3.2. Centro Nacional de Operação do Sistema – CNOS
+(a) Coordenar, supervisionar e controlar as ações de gerenciamento de carga no SIN.
+(b) Estabelecer a participação do agente de distribuição e consumidor livre ou potencialmente livre no
+corte de carga para o gerenciamento de carga no SIN.
+3.3. Centros de Operação do Sistema – COSR
+(a) Coordenar, supervisionar e controlar as ações de gerenciamento de carga na sua área de atuação.
+(b) Estabelecer a participação do agente de operação no corte de carga para o gerenciamento de carga
+na Rede de Operação Regional e informar ao agente na sua área de atuação.
+(c) Informar ao agente de operação na sua área de atuação a participação no corte de carga para o
+gerenciamento de carga na Rede de Operação Sistêmica.
+(d) Informar a previsão de necessidade do gerenciamento de carga aos agentes de operação envolvidos.
+3.4. Agentes de transmissão
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Gerenciamento da carga 5.7 Responsabilidades 2020.12 01/01/2021
+(a) Supervisionar, comandar e executar as ações determinadas pelo ONS necessárias para o
+gerenciamento de carga, incluindo redução de tensão e mudanças de topologia da Rede de Operação.
+3.5. Agentes de distribuição
+(a) Elaborar o PCMC por subestação, Demais Instalações de Transmissão (DIT) e consumidores livres ou
+potencialmente livres conectados na sua área de concessão e encaminhar síntese ao ONS.
+(b) Supervisionar, comandar e executar as ações para gerenciamento de carga nos montantes, patamares
+e tempos determinados pelo ONS, incluindo as mudanças de topologia da Rede de Operação.
+(c) Informar ao COSR com o qual se relacionam o resultado das ações para gerenciamento de carga
+determinadas pelos centros de operação do ONS.
+(d) Fornecer informações e dados ao COSR que comprovem a efetividade das ações de gerenciamento
+de carga na área de atuação.
+(e) Realizar o relacionamento operacional com os consumidores livres, potencialmente livres e outros
+agentes de distribuição conectados em suas instalações de distribuição e às DIT na sua área de
+concessão para elaboração do PCMC e para execução das ações de gerenciamento de carga
+determinadas pelos centros de operação do ONS.
+3.6. Consumidores livres ou potencialmente livres1
+(a) Elaborar o PCMC por ponto de conexão e encaminhar síntese ao ONS.
+(b) Supervisionar, comandar e executar as ações para gerenciamento de carga nos montantes, patamares
+e tempos determinados pelo ONS.
+(c) Informar ao COSR com o qual se relacionam o resultado das ações para gerenciamento de carga
+determinadas pelos centros de operação do ONS.
+(d) Fornecer informações e dados ao COSR que comprovem a efetividade das ações de gerenciamento
+de carga para cada ponto de conexão.
+4. PRAZOS
+4.1 Não há prazos neste documento.
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+1 cujas instalações estão conectadas à Rede Básica e às DIT.
+Endereço na internet: http://www.ons.org.br 4 / 4

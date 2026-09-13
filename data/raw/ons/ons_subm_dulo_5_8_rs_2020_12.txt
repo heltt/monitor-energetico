@@ -1,0 +1,141 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 5.8-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 5.8-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 5.8
+Recomposição da Rede de Operação
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Recomposição da Rede de Operação 5.8 Responsabilidades 2020.12 01/01/2021
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Plano Anual de Execução dos Testes de Recomposição das Usinas de Autorrestabelecimento..3
+2.2. Relatório Anual de Testes das Usinas de Autorrestabelecimento................................................3
+2.3. Relação de Usinas de Autorrestabelecimento Integral e Parcial...................................................3
+2.4. Plano para Simulação de Treinamento de Recomposição do Sistema..........................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Centro Nacional de Operação do Sistema – CNOS........................................................................4
+3.3. Centros de Operação do Sistema – COSR......................................................................................4
+3.4. Agentes de operação.....................................................................................................................4
+4. PRAZOS............................................................................................................................................5
+5. REFERÊNCIAS...................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Recomposição da Rede de Operação 5.8 Responsabilidades 2020.12 01/01/2021
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos, as diretrizes gerais e as fases do processo de
+recomposição da Rede de Operação após perturbações para o restabelecimento das condições normais de
+operação e recomposição das instalações, equipamentos e linhas de transmissão envolvidos.
+2. PRODUTOS
+2.1. Plano Anual de Execução dos Testes de Recomposição das Usinas de Autorrestabelecimento
+2.1.1 Cronograma consolidado pelo ONS para execução dos testes de recomposição das usinas de
+autorrestabelecimento para assegurar o desempenho satisfatório das usinas quando da ocorrência de
+desligamentos no sistema.
+2.2. Relatório Anual de Testes das Usinas de Autorrestabelecimento
+2.2.1 Apresenta o resultado da análise dos testes de recomposição das usinas de autorrestabelecimento
+quanto à sua capacidade de autorrestabelecimento integral.
+2.3. Relação de Usinas de Autorrestabelecimento Integral e Parcial
+2.3.1 Apresenta a lista das usinas aptas para prestação dos serviços de autorrestabelecimento integral e
+parcial.
+2.4. Plano para Simulação de Treinamento de Recomposição do Sistema
+2.4.1 Cronograma consolidado pelos centros de operação do ONS para execução dos treinamentos
+simulados para o processo de recomposição desde a geração, passando pela transmissão até a tomada de
+carga na Rede de Operação.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Elaborar o Plano Anual de Execução dos Testes de Recomposição das Usinas de
+Autorrestabelecimento com os agentes.
+(b) Acompanhar presencialmente os testes das usinas de autorrestabelecimento integral em situações
+definidas em rotina operacional específica.
+(c) Analisar os resultados dos testes das usinas de autorrestabelecimento integral realizados pelos
+agentes de geração.
+(d) Elaborar o Relatório Anual de Testes das Usinas de Autorrestabelecimento Integral e encaminhar à
+Agência Nacional de Energia Elétrica – ANEEL.
+(e) Elaborar e manter atualizada a relação de usinas que estão aptas a prestar os serviços de
+autorrestabelecimento integral e parcial.
+(f) Coordenar a elaboração do Plano para Simulação de Treinamento de Recomposição do Sistema
+com os agentes.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Recomposição da Rede de Operação 5.8 Responsabilidades 2020.12 01/01/2021
+(g) Coordenar e supervisionar as ações desenvolvidas para realização do treinamento de simulação da
+recomposição na Rede de Operação Sistêmica e Regional e supervisionar a execução do
+treinamento.
+3.2. Centro Nacional de Operação do Sistema – CNOS
+(a) Supervisionar as ações de recomposição na fase fluente, intervindo quando julgar necessário.
+(b) Supervisionar as ações de recomposição das áreas de autorrestabelecimento na fase coordenada e
+as ações para interligações entre as áreas, intervindo no processo e realizando as devidas alterações
+quando julgar necessário ou quando solicitado pelos Centros de Operação do ONS – COSR.
+(c) Coordenar, supervisionar e controlar as ações para recomposição das interligações entre regiões na
+fase coordenada.
+(d) Coordenar a normalização do despacho de geração, observando os valores programados no
+Programa Diário de Operação (PDO) e as condições eletroenergéticas vigentes.
+(e) Participar do treinamento de simulação da recomposição do sistema.
+3.3. Centros de Operação do Sistema – COSR
+(a) Supervisionar as ações de recomposição na fase fluente, intervindo quando julgar necessário.
+(b) Coordenar, supervisionar e controlar as ações para interligação das áreas de autorrestabelecimento,
+na fase coordenada, na sua área de atuação.
+(c) Supervisionar e controlar a normalização do despacho de geração, observando os valores
+programados constantes no PDO e as condições eletroenergéticas vigentes.
+(d) Informar aos agentes de operação envolvidos a ocorrência de perturbação e o andamento da
+recomposição que possa influenciar nas suas instruções de operação.
+(e) Caracterizar o desligamento geral de uma instalação diferente de uma perturbação geral do sistema
+e informar ao agente de operação envolvido.
+(f) Participar do treinamento de simulação da recomposição do sistema.
+3.4. Agentes de operação
+(a) Supervisionar, comandar e executar as ações de recomposição das suas instalações na fase fluente,
+bem como as ações de restabelecimento das cargas na área sob sua responsabilidade, conforme
+instruções de operação do ONS.
+(b) Preparar as instalações para o recebimento de tensão ou envio de tensão, efetuando manobras de
+acordo com as instruções de operação do ONS.
+(c) Informar ao COSR com o qual se relacionam quando a configuração de preparação da instalação na
+área sob sua responsabilidade não estiver atendida para o início da recomposição na fase fluente,
+independentemente de o equipamento ser próprio ou de outros agentes.
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Recomposição da Rede de Operação 5.8 Responsabilidades 2020.12 01/01/2021
+(d) Informar ao COSR com o qual se relacionam qualquer anormalidade da recomposição na fase
+fluente e aguardar as ações de recomposição na fase coordenada, bem como a liberação para
+tomada de carga adicional determinada pelos centros de operação do ONS.
+(e) Supervisionar, comandar e executar as ações de recomposição na fase coordenada, determinadas
+pelos centros de operação do ONS.
+(f) Utilizar somente recursos definidos e previstos nas instruções de operação de suas instalações
+durante a recomposição na fase coordenada, tais como valores de tensão nas condições de
+energização de circuitos nos sentidos e sequência de energização estabelecidos pelo ONS, exceto
+nos casos acordados em tempo real autorizados pelos centros de operação do ONS.
+(g) Restabelecer a carga prioritária, conforme definido previamente pelo agente, até o limite
+estabelecido nas instruções de operação ou em tempo real pelos centros de operação do ONS.
+(h) Assegurar que suas usinas de autorrestabelecimento integral e parcial estejam com os recursos
+permanentemente disponíveis, exceto durante períodos de intervenções preventivas programadas.
+(i) Fornecer ao ONS todas as informações solicitadas para a classificação da capacidade de
+autorrestabelecimento de suas usinas.
+(j) Executar os testes de recomposição para classificação e identificação das suas usinas com
+capacidade de autorrestabelecimento.
+(k) Executar as ações recomendadas pelo ONS quando o teste de autorestabelecimento das suas usinas
+não for aprovado ou quando forem detectadas anormalidades não impeditivas para aprovação pelo
+ONS.
+(l) Elaborar programas de simulação de recomposição do sistema, executar e comandar as ações
+simuladas de manobras de tempo real nas suas instalações.
+(m)Participar do treinamento de simulação da recomposição do sistema, quando envolvido.
+4. PRAZOS
+Quadro 1 – Prazos do processo de recomposição da Rede de Operação
+Atividade Responsável Prazo Horizonte Periodicidade
+Encaminhar à ANEEL o Relatório
+Ano
+1 Anual de Testes de Usinas de ONS 30 de abril Anual
+anterior
+Autorrestabelecimento Integral
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 5 / 5

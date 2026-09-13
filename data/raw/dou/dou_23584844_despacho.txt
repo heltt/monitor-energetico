@@ -1,0 +1,20 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 10/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=10/02/2026&jornal=515&pagina=61
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado do Pará
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 43/2026
+Fase de Autorização de Pesquisa
+Nega Aprovação ao relatório de pesquisa(318)
+850.244/2018-ANGLO AMERICAN NIQUEL BRASIL LTDA
+850.031/2016-MINERACAO PARAGOMINAS S.A.
+850.132/2015-CODELCO DO BRASIL MINERACAO LTDA.
+RAIMUNDO QUEIROZ DE ALMEIDA
+Gerente Substituto

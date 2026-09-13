@@ -1,0 +1,457 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.7-PR_2025.06
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.7-PR_2025.06.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.7
+Apuração de indisponibilidade, restrição
+da capacidade operativa e sobrecarga
+nas instalações de transmissão da Rede
+Básica e das Interligações Internacionais
+Procedimental
+Revisão Motivo da revisão Data de aprovação
+2025.06 Despacho ANEEL nº 1.700/2025 04/06/2025
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração de indisponibilidade, restrição da
+capacidade operativa e sobrecarga nas
+6.7 Procedimental 2025.06 09/06/2025
+instalações de transmissão da Rede Básica e das
+Interligações Internacionais
+ÍNDICE
+1. DIRETRIZES GERAIS..........................................................................................................................3
+2. APURAÇÃO DE EVENTOS EM INSTALAÇÕES DE TRANSMISSÃO DA REDE BÁSICA E DAS
+INTERLIGAÇÕES INTERNACIONAIS....................................................................................................5
+2.1. Coleta de dados.............................................................................................................................5
+2.2. Apuração de eventos de indisponibilidade em FT, exceto FT Conversora....................................5
+2.3. Apuração de eventos de indisponibilidade em FT Conversora.....................................................6
+2.4. Apuração de restrições da capacidade operativa.........................................................................7
+2.5. Apuração de sobrecargas em transformadores da Rede Básica...................................................7
+2.6. Disponibilização dos eventos apurados e consistência.................................................................8
+3. ELABORAÇÃO ANUAL DE RELATÓRIO DE ANÁLISE ESTATÍSTICA DA INDISPONIBILIDADE
+PROGRAMADA E NÃO PROGRAMADA DE FUNÇÕES TRANSMISSÃO.................................................9
+4. REFERÊNCIAS...................................................................................................................................9
+5. ANEXOS...........................................................................................................................................9
+ANEXO A - SITUAÇÕES DE ISENÇÃO TOTAL OU PARCIAL DAS PARCELAS VARIÁVEIS.................................10
+Endereço na internet: http://www.ons.org.br 2 / 12
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração de indisponibilidade, restrição da
+capacidade operativa e sobrecarga nas
+6.7 Procedimental 2025.06 09/06/2025
+instalações de transmissão da Rede Básica e das
+Interligações Internacionais
+1. DIRETRIZES GERAIS
+1.1. O Operador Nacional do Sistema Elétrico – ONS apura, conforme [1], os seguintes eventos nas
+instalações da Rede Básica e das Interligações Internacionais:
+(a) indisponibilidades de Funções Transmissão (FT), exceto FT Conversora;
+(b) indisponibilidades de equipamentos reserva remunerados;
+(c) indisponibilidades de equipamentos substituídos por equipamentos reserva remunerados;
+(d) restrições da capacidade operativa de FT;
+(e) cancelamentos de intervenções em FT.
+1.2. São apuradas, conforme [1], os eventos de indisponibilidade de Funções Transmissão Conversora – FT
+Conversora.
+1.3. São apurados também, conforme [1], os eventos de sobrecarga em transformadores da Rede Básica.
+1.4. O ONS classifica os eventos citados nos itens 1.1. a 1.2. deste submódulo, de acordo com suas
+características operativas e detalhamentos necessários para subsídio ao processo de apuração mensal de
+serviços e encargos de transmissão, descrito no Submódulo 8.3 – Apuração mensal de serviços e encargos da
+transmissão e encargos setoriais.
+1.5. Os eventos de indisponibilidade que atendem às condições estabelecidas no Submódulo 4.2 –
+Programação de intervenções em instalações da Rede de Operação, são classificados como Desligamento
+Programado. Os demais eventos são classificados como Outros Desligamentos.
+1.6. Sempre que ocorrer desligamento de uma FT, o agente de transmissão responsável pela FT informa ao
+ONS a disponibilização da mesma, exceto nos casos de recomposição fluente e de existência de autonomia
+para restabelecimento pelo agente, conforme item 1.8. deste submódulo, após a conclusão de atividades sob
+sua responsabilidade relacionadas às verificações, manobras e tratativas com equipes e agentes envolvidos,
+que permitirão a reintegração da mesma.
+1.7. O ONS considera como término do período de indisponibilidade, independente do motivo de
+desligamento, o momento em que o agente de transmissão conclui as manobras para a reintegração da FT e
+informa ao ONS a disponibilização da FT, desde que, após autorização do ONS, ocorra sucesso no religamento
+da FT e este religamento seja realizado em tempo inferior a 5 minutos após a referida autorização.
+1.7.1. Caso, após autorização do ONS para reintegração de FT, não haja sucesso no retorno da FT, ou o
+religamento não ocorra em tempo inferior a 5 minutos, o período subsequente à referida informação do
+agente de transmissão de disponibilização da FT é considerado como Outros Desligamentos, e esse novo
+período de indisponibilidade só cessa quando de nova disponibilização pelo agente, ou quando a FT for
+efetivamente religada, conforme item 1.7.
+1.7.2. Caso, após a disponibilização da FT pelo agente de transmissão, o ONS não autorize a reintegração por
+questões sistêmicas, o período compreendido entre o horário da disponibilização da FT pelo agente e a
+autorização do ONS para religamento não é imputado como responsabilidade do agente no cálculo da
+indisponibilidade.
+1.8. Nos casos de recomposição fluente e nos casos de FT para as quais é dada autonomia para
+reestabelecimento pelo agente, conforme Submódulo 5.12 – Instruções de Operação, não ocorre a
+Endereço na internet: http://www.ons.org.br 3 / 12
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração de indisponibilidade, restrição da
+capacidade operativa e sobrecarga nas
+6.7 Procedimental 2025.06 09/06/2025
+instalações de transmissão da Rede Básica e das
+Interligações Internacionais
+disponibilização da FT ao ONS e o término do período de indisponibilidade é considerado quando do efetivo
+religamento da FT. Além disto, este período de indisponibilidade não é considerado como passível de compor
+parcela variável caso a FT seja religada com sucesso em tempo inferior a 5 minutos.
+1.8.1. Caso as condições do sistema para a energização com autonomia não estejam atendidas, o agente de
+transmissão informa a disponibilização da FT ao ONS, em tempo inferior a 5 minutos após o referido
+desligamento. Caso ocorra o desligamento de mais de uma FT, será observada a sequência de religamentos
+constante nas instruções de operação vigentes.
+1.9. Caso o ONS solicite o religamento de uma FT que se encontre desligada por conveniência operativa, e
+essa FT não for religada em tempo inferior a 5 minutos, esta é considerada indisponível, e o período
+subsequente à solicitação do ONS para religamento será considerado como Outros Desligamentos.
+1.10. Para uma FT assistida remotamente, o período de operação energizada com impossibilidade de
+utilização de seus equipamentos para manobra ou operação é considerado como indisponibilidade passível
+de compor a PVI, com os mesmos parâmetros de Outros Desligamentos, conforme [1]. A referida
+indisponibilidade fica caracterizada nos casos de não atendimento a solicitações do ONS, em tempo inferior
+a 5 minutos. Nesse caso, a indisponibilidade tem início no momento da solicitação do ONS e cessa quando a
+FT passa a operar na condição solicitada pelo ONS.
+1.11. O Período Noturno considerado no processo de apuração dos eventos refere-se àquele determinado
+por organizações oficiais de pesquisas climáticas.
+1.12. Durante o período de carência de uma nova FT ou de novo equipamento principal de FT existente,
+conforme [1], o ONS registra e classifica os eventos, mas não os considera na composição das parcelas
+variáveis, apuradas conforme Submódulo 8.3, e nem no cômputo do número de Outros Desligamentos da
+FT.
+1.13. No caso específico de seccionamento de FT – Linha de Transmissão, pode ocorrer a consideração do
+período de carência, conforme [1], desde que o agente de transmissão encaminhe ao ONS solicitação de
+isenção das parcelas variáveis, por meio de relatório técnico, com a comprovação de que o evento teve
+origem nos novos equipamentos implantados.
+1.14. No caso de desligamento de FT ou restrição operativa em FT em função de risco ou ocorrência de
+queimada ou incêndio florestal, conforme [1], o agente de transmissão encaminha ao ONS relatório técnico,
+com solicitação de isenção das parcelas variáveis, contendo, no mínimo:
+(a) registros das últimas manutenções realizadas na faixa de servidão, necessárias ao adequado
+desempenho da FT-LT, com registros fotográficos e com os contratos de prestação de serviços
+referentes às manutenções;
+(b) registros atualizados das ações preventivas e corretivas junto aos proprietários e ao órgão de
+proteção ambiental, caracterizando claramente situações de risco de queimadas e solicitando
+providências para adoção de medidas que visem a eliminação ou mitigação da situação apresentada;
+(c) posicionamento quanto às providências solicitadas no item anterior, caracterizando a impossibilidade
+de adoção das medidas;
+(d) registros atualizados de campanhas de esclarecimento e conscientização da população da região
+próxima às LT;
+(e) fotografias do local da ocorrência de queimada indicando data e localização geográfica GPS; e
+(f) registros do localizador de defeito indicando o nexo causal do evento com a queimada.
+Endereço na internet: http://www.ons.org.br 4 / 12
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração de indisponibilidade, restrição da
+capacidade operativa e sobrecarga nas
+6.7 Procedimental 2025.06 09/06/2025
+instalações de transmissão da Rede Básica e das
+Interligações Internacionais
+1.15. O ONS apura os cancelamentos, pela concessionaria de transmissão, de programação de
+desligamento de uma FT, conforme [1].
+2. APURAÇÃO DE EVENTOS EM INSTALAÇÕES DE TRANSMISSÃO DA REDE BÁSICA E DAS INTERLIGAÇÕES
+INTERNACIONAIS
+2.1. Coleta de dados
+2.1.1. O ONS considera, para a apuração dos eventos em instalações de transmissão da Rede Básica e das
+Interligações Internacionais, os seguintes dados e informações:
+(a) intervenções solicitadas pelos agentes de transmissão, conforme Submódulo 4.2;
+(b) Programa Diário de Operação (PDO), estabelecido conforme Submódulo 4.5 – Programação Diária da
+Operação;
+(c) Sistema de Supervisão e Controle;
+(d) registros realizados na operação em tempo real; e
+(e) relatórios de análise, estabelecido conforme Submódulo 6.2 – Análise da operação, ocorrências e
+perturbações e acompanhamento das providências, Submódulo 6.3 – Elaboração do Relatório de
+Análise de Perturbação e 6.4 – Análise de Falhas em Equipamentos e Linhas de Transmissão.
+2.1.2. Caso os dados e informações disponíveis não sejam suficientes, o ONS solicita aos agentes envolvidos,
+dados e informações adicionais.
+2.2. Apuração de eventos de indisponibilidade em FT, exceto FT Conversora
+2.2.1. Em caso de Outros Desligamentos, o ONS considera, para a apuração do período de indisponibilidade,
+as durações e os horários verificados, sendo o início do período de indisponibilidade o momento em que
+ocorre o desligamento, e o término, o momento da disponibilização da FT, pelo agente de transmissão, ao
+ONS, para sua reintegração, atendendo as condições estabelecidas nos itens 1.7.
+2.2.2. São considerados os períodos de limitação técnica para religamento, conforme [1], caso seja
+comprovado pelo agente de transmissão o correto dimensionamento e atuação da proteção. Na ocorrência
+em questão, não deve ter havido necessidade de inspeção/ intervenção na FT, além de terem sido atendidas
+as condições descritas nos itens 1.7. deste submódulo até o efetivo religamento da FT.
+2.2.3. Em caso de Desligamento Programado, o ONS considera como referência para a apuração do período
+de indisponibilidade, a maior duração entre a duração programada e a duração reprogramada, exceto no
+caso de reprogramação por iniciativa do ONS, por necessidade sistêmica, em que a referência passa a ser o
+período reprogramado.
+2.2.4. Caso a duração do Desligamento Programado seja inferior ou superior ao período programado ou
+reprogramado, o ONS considera, para a apuração do período de indisponibilidade, os critérios estabelecidos
+em [1].
+2.2.4.1. Nos casos de duração programada inferior ao período programado ou reprogramado, o período não
+utilizado da intervenção é apurado conforme [1], para as intervenções que sejam passíveis de aplicação de
+parcela variável.
+Endereço na internet: http://www.ons.org.br 5 / 12
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração de indisponibilidade, restrição da
+capacidade operativa e sobrecarga nas
+6.7 Procedimental 2025.06 09/06/2025
+instalações de transmissão da Rede Básica e das
+Interligações Internacionais
+2.2.5. Em caso de indisponibilidade de equipamento que compõe a FT – Módulo Geral, exceto disjuntor, que
+cause indisponibilidade de outras FT conectadas na mesma subestação, o ONS apura a FT – Módulo Geral
+como indisponível, passível de compor parcela variável, conforme [1].
+2.2.5.1. Caso alguma FT afetada não esteja apta a ser energizada após a liberação para operação ou
+isolamento do equipamento da FT – Módulo Geral causador do desligamento, o período subsequente à
+informação da concessionária de disponibilização da FT afetada será apurado como Outros Desligamentos,
+passando a fazer parte dos eventos passíveis de compor parcela variável.
+2.2.6. O ONS apura o período de operação de uma FT – Linha de Transmissão com indisponibilidade do seu
+reator não manobrável sob tensão, conforme [1]. Para a possibilidade de retorno da Linha de Transmissão
+sem o referido reator, o ONS analisa a utilidade dessa configuração com base em estudos.
+2.2.7. O ONS apura a indisponibilidade do módulo de controle de uma FT - Controle de Reativo, conforme
+[1].
+2.2.8. Para os eventos de indisponibilidade decorrentes das situações detalhadas no Anexo 1, há isenção
+total ou parcial de parcela variável, conforme [1].
+2.2.9. O desligamento de FT durante a realização de intervenção sem desligamento na própria FT,
+programada junto ao ONS, tem o tratamento diferenciado estabelecido em [1], desde que o agente
+comprove, por meio de relatório técnico, o atendimento aos seguintes itens:
+(a) Desligamento deve estar relacionado ao serviço que está sendo executado;
+(b) A intervenção sem desligamento deve estar associada a equipamentos que compõe a FT em questão;
+(c) O referido desligamento deve ter ocorrido durante o período programado ou reprogramado da
+intervenção sem desligamento.
+2.2.10. No caso de cancelamento de intervenção nos terminais de uma FT, é adotado o Pagamento Base dos
+terminais indisponíveis, para cálculo de parcela variável conforme [1], desde que o ONS tenha concordado
+em utilizar a FT de forma parcial.
+2.3. Apuração de eventos de indisponibilidade em FT Conversora
+2.3.1. O ONS apura a Parcela Variável de FT Conversora (PVC), conforme [1], para qualquer evento ocorrido
+na FT Conversora em que haja redução da capacidade de transmissão de potência ou impossibilidade de
+utilização de seus equipamentos para manobra ou operação.
+2.3.1.1. Quando houver mais de uma indisponibilidade na FT Conversora, no mesmo período, para o cálculo
+da PVC é considerada a parcela incremental de redução da capacidade de transmissão de potência causada
+pela indisponibilidade.
+2.3.1.2. Outras Indisponibilidades ocorridas durante uma Indisponibilidade Programada sem redução da
+capacidade de transmissão de potência terão o tratamento diferenciado definido em [1], desde que os riscos
+de Outras Indisponibilidades tenham sido informados na programação da intervenção que originou a
+Indisponibilidade Programada.
+2.3.1.3. Os períodos de indisponibilidade programada de FT Conversora, contidos do Período Preferencial
+de Manutenção, previamente definido pelo ONS, são passíveis de isenção de PVC, desde que atendidos os
+critérios estabelecidos em [1].
+2.3.1.4. Para os períodos de indisponibilidade de FT Conversora não contemplados no item 2.3.1.3. , não se
+aplica PVC, desde que sejam atendidos os critérios estabelecidos em [1].
+Endereço na internet: http://www.ons.org.br 6 / 12
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração de indisponibilidade, restrição da
+capacidade operativa e sobrecarga nas
+6.7 Procedimental 2025.06 09/06/2025
+instalações de transmissão da Rede Básica e das
+Interligações Internacionais
+2.3.1.5. O período que exceder o programado ou reprogramado das indisponibilidades programadas será
+considerado de forma diferenciada no cálculo da PVC, conforme [1].
+2.4. Apuração de restrições da capacidade operativa
+2.4.1. O ONS apura as restrições da capacidade operativa, de curta e de longa duração, das instalações de
+Rede Básica e das Interligações Internacionais, conforme [1].
+2.4.2. No caso de restrições simultâneas, de curta e de longa duração, o ONS considera o valor da restrição
+de curta duração, limitado ao tempo máximo admissível por ciclo, sendo a restrição de longa duração
+considerada no restante do período de restrição.
+2.4.3. No caso de indisponibilidade somente do enrolamento terciário de uma FT – Transformação, quando
+os enrolamentos primário e secundário permanecerem com corrente, o ONS apura como restrição da
+capacidade operativa para a referida FT, desde que a causa do desligamento do terciário seja intervenção ou
+falha na própria FT. O cálculo da restrição levará em conta a capacidade do enrolamento terciário.
+2.4.4. No caso de indisponibilidade de reator não manobrável sob tensão de uma FT – Linha de transmissão
+ou do módulo de controle de uma FT - Controle de Reativo, conforme itens 2.2.6. e 2.2.7. respectivamente,
+que ocasione redução da capacidade operativa da respectiva FT, o ONS apura, adicionalmente, a restrição da
+capacidade operativa da referida FT.
+2.5. Apuração de sobrecargas em transformadores da Rede Básica
+2.5.1. O ONS apura as ocorrências de sobrecarga nos transformadores, com perda adicional de vida útil,
+conforme [1].
+2.5.1.1. A sobrecarga que ocasione perda adicional de vida útil nos transformadores da Rede Básica é
+atribuída:
+(a) aos usuários identificados, quando a condição de operação dos transformadores em sobrecarga for
+originada por demandas acima dos valores contratados;
+(b) ao agente, quando a sobrecarga for decorrente de ação ou omissão do mesmo; e
+(c) a todos os usuários da Rede Básica, na proporção direta do uso contratado do sistema de transmissão,
+quando a condição de operação em sobrecarga não for atribuível especificamente a um ou mais
+agentes, ou quando for decorrente da coordenação da operação, pelo ONS, por razões sistêmicas.
+2.5.2. O agente de transmissão encaminha ao ONS, quando for caracterizada condição de carregamento
+acima da potência nominal em transformadores integrantes da Rede Básica, relatório de sobrecargas,
+contendo:
+(a) Detalhamento do cálculo do fator de carregamento “S”, bem como os dados de corrente de carga em
+intervalos regulares de 15 minutos;
+(b) Temperaturas ambientes em intervalos de, no máximo, 1 hora;
+(c) Valores de potência nos intervalos de ocorrência das sobrecargas verificadas e comentários
+adicionais, conforme Submódulo 5.12.
+2.5.2.1. A declaração, feita pelo agente de transmissão, de eventuais restrições da capacidade operativa para
+os transformadores de sua propriedade não afeta o critério de caracterização de sobrecarga.
+2.5.3. O ONS analisa o relatório de sobrecargas encaminhado pelo agente de transmissão e o aprova quando:
+Endereço na internet: http://www.ons.org.br 7 / 12
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração de indisponibilidade, restrição da
+capacidade operativa e sobrecarga nas
+6.7 Procedimental 2025.06 09/06/2025
+instalações de transmissão da Rede Básica e das
+Interligações Internacionais
+(a) as informações constantes no relatório de sobrecargas forem consistentes com as ocorrências de
+sobrecarga obtidas pelo ONS na triagem de eventos efetuada; e
+(b) os resultados dos cálculos do Fator de Perda de Vida Útil, do Fator de Aumento de Risco de Falha, e
+do Fator de Carregamento (“s”), resultantes mensais, efetuados no ONS com os dados do agente,
+forem os mesmos daqueles constantes no relatório de sobrecargas.
+2.5.4. A aprovação do requerimento de adicional financeiro é efetuada pelo ONS, conforme Submódulo 8.3,
+somente se os agentes de transmissão tiverem comunicado, antecipadamente, os parâmetros de cada
+transformador, necessários ao cálculo da sobrecarga, e eventuais fatores limitantes e restrições operativas
+relevantes.
+2.6. Disponibilização dos eventos apurados e consistência
+2.6.1. O ONS consiste os dados e informações dos eventos apurados relativos às instalações de transmissão
+da Rede Básica e das Interligações Internacionais e os disponibiliza aos agentes de transmissão.
+2.6.1.1. A partir dos eventos apurados, o ONS calcula as seguintes durações:
+(a) durações de indisponibilidades decorrentes de desligamentos nas FT da Rede Básica e das
+Interligações Internacionais;
+(b) durações de restrições da capacidade operativa nas FT da Rede Básica e das Interligações
+Internacionais;
+(c) cancelamentos de intervenções previamente aprovadas pelo ONS nas FT da Rede Básica e das
+Interligações Internacionais;
+(d) períodos de indisponibilidade de equipamentos reserva remunerados pertencentes às instalações de
+transmissão da Rede Básica e das Interligações Internacionais; e
+(e) períodos de indisponibilidade de equipamento substituído por equipamento reserva remunerado
+pertencente às instalações de transmissão da Rede Básica e das Interligações Internacionais.
+2.6.2. Os agentes de transmissão consistem os eventos apurados e, quando julgarem necessário,
+encaminham ao ONS relatório técnico com as informações requeridas em [1] ou com pleitos de alteração
+dos eventos.
+2.6.3. O ONS analisa, quando houver, as contestações dos agentes de transmissão e, caso necessário, solicita
+informações adicionais aos agentes envolvidos.
+2.6.4. Os agentes que discordarem da apuração dos dados, informações ou classificações dos eventos,
+formalizam ao ONS a existência de divergência, por meio de documento específico.
+2.6.5. O ONS analisa as contestações dos agentes, sem prejuízo da continuidade do processo de apuração
+da transmissão e da apuração de serviços e encargos da transmissão, estabelecida no Submódulo 8.3, e emite
+parecer final a respeito dessas contestações.
+2.6.6. Caso as informações disponibilizadas pelos agentes envolvidos não sejam suficientes para conclusão
+da análise, o ONS informa o fato ao agente envolvido e indica as providências necessárias.
+2.6.7. O agente de transmissão pode solicitar revisão da apuração técnica dos eventos contabilizados ao
+ONS.
+Endereço na internet: http://www.ons.org.br 8 / 12
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração de indisponibilidade, restrição da
+capacidade operativa e sobrecarga nas
+6.7 Procedimental 2025.06 09/06/2025
+instalações de transmissão da Rede Básica e das
+Interligações Internacionais
+2.6.7.1. O agente de transmissão pode solicitar pedido de impugnação [2], conforme descrito no Submódulo
+1.3 – Identificação, Tratamento das não conformidades e Procedimento de Impugnação, após emissão da
+resposta final pelo ONS.
+3. ELABORAÇÃO ANUAL DE RELATÓRIO DE ANÁLISE ESTATÍSTICA DA INDISPONIBILIDADE PROGRAMADA
+E NÃO PROGRAMADA DE FUNÇÕES TRANSMISSÃO
+3.1. Anualmente, o ONS analisa e acompanha a indisponibilidade programada e não programada de FT
+(Linhas de Transmissão, Transformação e Controle de Reativo), por nível de tensão, agente de transmissão e
+sistema, bem como diagnostica os problemas e propõe medidas corretivas.
+3.1.1. São utilizados os dados das indisponibilidades programadas e não programadas de FT ocorridas e
+disponibilizados e coletados, classificados e consistidos conforme Submódulo 5.12.
+3.2. O ONS efetua o tratamento estatístico, conforme Submódulo 9.2 – Indicadores de desempenho de
+equipamentos e linhas de transmissão e das funções transmissão e geração, e elabora o Relatório de Análise
+Estatística da Indisponibilidade Programada e Não Programada de Funções Transmissão, considerando os
+seguintes aspectos:
+(a) expansão do SIN no período considerado;
+(b) análise quantitativa das indisponibilidades programadas e não programadas das funções transmissão;
+e
+(c) resultado do cálculo dos indicadores de desempenho previstos no Submódulo 9.2.
+3.3. O ONS publica em seu site o Relatório de Análise Estatística da Indisponibilidade Programada e Não
+Programada de Funções Transmissão e encaminha à ANEEL.
+4. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de Transmissão
+de Energia Elétrica no Sistema Elétrico Nacional. Módulo 4 - Prestação dos Serviços.
+[2] ANEEL. Resolução Normativa nº 1.017, de 19 de abril de 2022 (alterada pela REN nº 1.107, 3 de
+dezembro de 2024).
+5. ANEXOS
+Anexo A – Situações de isenção total ou parcial das parcelas variáveis.
+Endereço na internet: http://www.ons.org.br 9 / 12
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração de indisponibilidade, restrição da
+capacidade operativa e sobrecarga nas
+6.7 Procedimental 2025.06 09/06/2025
+instalações de transmissão da Rede Básica e das
+Interligações Internacionais
+ANEXO A - SITUAÇÕES DE ISENÇÃO TOTAL OU PARCIAL DAS PARCELAS VARIÁVEIS
+A.1. Os eventos decorrentes das situações detalhadas a seguir são registrados e classificados pelo ONS,
+porém, não são considerados para efeito de composição das parcelas variáveis de uma FT, conforme [1].
+(a) Desligamento solicitado pelo ONS.
+(b) Desligamento programado, já iniciado e suspenso, dentro do período programado ou reprogramado,
+com retorno da FT à operação, por solicitação do ONS, em decorrência da necessidade de
+atendimento à segurança e à integridade do sistema.
+(1) Caso o serviço seja interrompido por iniciativa do ONS, em tempo real, sem o retorno da FT à
+operação, somente o período de interrupção será isento.
+(c) Desligamento para realização de manutenção preventiva cadastrada no sistema de acompanhamento
+de manutenções do ONS, desde que seja realizado em uma única intervenção, com duração
+programada e com periodicidade conforme [1].
+(1) Caso as franquias estabelecidas em [1] não tenham sido utilizadas integralmente para a FT em
+questão, o agente de transmissão pode realizar uma segunda intervenção, desde que as
+manutenções realizadas sejam cadastradas no sistema de acompanhamento de manutenções do
+ONS, no prazo estabelecido em [1], e a segunda intervenção tenha sido planejada em decorrência
+da primeira.
+(d) Desligamento incluído no Programa Mensal de Intervenções, conforme Submódulo 4.2, para
+implantação de ampliação, reforço e melhoria, constantes na Consolidação de Obras, no Plano de
+Modernização de Instalações ou objeto de autorização da ANEEL.
+(1) O ONS, após análise, pode descaracterizar a obrigatoriedade de inclusão de intervenção no
+Programa Mensal de Intervenção, nos casos em que o responsável pela intervenção não seja o
+agente responsável pela Função Transmissão que será desligada.
+(e) Desligamento devido a contingência em outra instalação, sob responsabilidade de terceiro, desde que
+tenha ocorrido ajuste e atuação corretos da proteção, e desde que a FT seja disponibilizada pelo
+agente de transmissão ao ONS, em tempo inferior a 5 minutos após o desligamento, atendendo as
+condições estabelecidas nos itens 1.7. deste submódulo.
+(f) Desligamento solicitado pelo agente de transmissão por motivo de segurança de terceiros, ou para
+realização de serviços ou obras de utilidade pública. Neste caso, a solicitação de descaracterização do
+período como passível de compor a parcela variável é feita, pelo agente de transmissão, ao ONS, em
+relatório técnico, comprovando o enquadramento nessa situação.
+(g) Desligamento por atuação correta de Sistema Especial de Proteção, desde que a FT seja
+disponibilizada pelo agente de transmissão ao ONS, em tempo inferior a 5 minutos após o
+desligamento, atendendo as condições estabelecidas nos itens 1.7. deste submódulo.
+(h) Desligamento ocorrido por falha em FT, para a qual existia programação de desligamento registrada
+no Programa Mensal de Intervenções, e cuja intervenção foi postergada pelo ONS, em atendimento
+Endereço na internet: http://www.ons.org.br 10 / 12
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração de indisponibilidade, restrição da
+capacidade operativa e sobrecarga nas
+6.7 Procedimental 2025.06 09/06/2025
+instalações de transmissão da Rede Básica e das
+Interligações Internacionais
+às condições estabelecidas no Submódulo 4.2, desde que o desligamento da FT tenha ocorrido em
+função da não realização do serviço solicitado e a partir da data originalmente solicitada, com
+comprovação desses fatos, pelo agente de transmissão, por meio de relatório técnico.
+(i) Período de até 3 horas iniciais de indisponibilidade de FT, por falha de transformador integrante de
+FT – Transformação ou por falha de reator integrante de FT – Controle de Reativo ou de FT – Linha de
+Transmissão, desde que seja substituído por correspondente equipamento reserva. O período em que
+o equipamento substituído estiver indisponível será apurado conforme [1].
+(j) Período de até 120 horas iniciais de indisponibilidade de uma FT – Linha de Transmissão – Cabo
+isolado, por falha permanente ocorrida na FT contendo trechos em cabo diretamente enterrado ou
+cabo submerso, podendo ser aplicado um período adicional em casos onde a intervenção nos cabos
+esteja condicionada a atendimento de exigências de órgãos públicos e/ou remanejamento de
+instalações de terceiros.
+(1) A solicitação de descaracterização do período como passível de compor parcela variável deve ser
+feita, pelo agente de transmissão, ao ONS, por meio de relatório técnico, que caracterize a
+situação e comprove que o defeito ocorreu na parte diretamente enterrada ou submersa.
+(k) Período de 72 horas contínuas, a partir do momento da falha ocorrida em transformador de FT –
+Transformação ou reator de FT - Controle de Reativo ou FT – Linha de Transmissão, para que o agente
+de transmissão realize o transporte e a instalação de outro transformador ou reator, que não esteja
+localizado na subestação da ocorrência do evento, para substituir o equipamento que ficou
+indisponível.
+(l) Período necessário ao religamento manual de uma FT – Linha de Transmissão com o dispositivo de
+religamento automático desativado ou não instalado devido a restrições sistêmicas ou por
+determinação do ONS, desde que, após o desligamento, a FT seja disponibilizada pelo agente ao ONS
+em tempo igual ou inferior a 1 minuto após o desligamento, e haja sucesso na primeira tentativa de
+religamento, em tempo inferior a 5 minutos após autorização do ONS para religamento da FT.
+(1) Caso, após a primeira tentativa de religamento, não ocorra o religamento da FT com sucesso, o
+período subsequente à autorização do ONS para religamento da FT será apurado como Outros
+Desligamentos, passando a fazer parte dos eventos passíveis de compor a PVI.
+(m)Período de indisponibilidade de uma FT decorrente de caso fortuito ou força maior que interfiram na
+prestação do serviço, de acordo com os critérios estabelecidos em [1], desde que comprovado por
+meio de relatório técnico.
+(n) Período de intervenção em uma FT desenergizada em consequência do desligamento para
+intervenção em outra FT, caso sejam atendidas as condições estabelecidas em [1].
+(1) A solicitação de intervenção em uma FT desenergizada em consequência do desligamento para
+intervenção em outra FT está sujeita às condições impostas pelo desligamento que a originou.
+(i) no caso de reprogramação, a intervenção cadastrada em consequência da primeira também
+deve ser reprogramada.
+(ii) no caso de cancelamento, a intervenção cadastrada em consequência da primeira, se for
+realizada, será passível de compor a parcela variável.
+Endereço na internet: http://www.ons.org.br 11 / 12
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração de indisponibilidade, restrição da
+capacidade operativa e sobrecarga nas
+6.7 Procedimental 2025.06 09/06/2025
+instalações de transmissão da Rede Básica e das
+Interligações Internacionais
+(o) Desligamento de FT em função de risco ou ocorrência de queimada ou incêndio florestal, desde que
+o agente comprove, por meio de relatório técnico, que tomou todas as medidas cabíveis na área sob
+sua responsabilidade, conforme item 1.14.
+(p) Desligamento programado de FT vinculado a projeto de Pesquisa e Desenvolvimento Tecnológico do
+Setor de Energia Elétrica – P&D cadastrado na ANEEL, que tenha sido iniciado e esteja no prazo de
+execução, desde que atendidas as condições estabelecidas em [1].
+(q) Desligamento decorrente de investigações solicitadas pela ANEEL.
+Endereço na internet: http://www.ons.org.br 12 / 12

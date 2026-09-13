@@ -1,0 +1,97 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.6-OP_2026.04
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.6-OP_2026.04.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.6
+Implantação das proteções de caráter
+sistêmico
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2026.04 Resolução da Reunião de 30/04/2026
+Diretoria do ONS nº 0056/2026
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação das proteções de caráter sistêmico 7.6 Operacional 2026.04 01/05/2026
+ÍNDICE
+1. IMPLANTAÇÃO DE NOVAS PROTEÇÕES DE CARÁTER SISTÊMICO E ADEQUAÇÃO DE
+EXISTENTES.........................................................................................................................3
+1.1. Definição da necessidade de novas proteções de caráter sistêmico e de adequação de
+existentes..........................................................................................................................3
+1.2. Especificação funcional das proteções de caráter sistêmico............................................3
+1.3. Elaboração e execução dos projetos executivos..............................................................3
+1.4. Determinação e implantação dos ajustes.........................................................................3
+1.5. Testes das proteções de caráter sistêmico.......................................................................3
+1.6. Elaboração, consolidação e emissão dos pareceres técnicos...........................................3
+1.7. Acompanhamento das atividades....................................................................................4
+1.8. Implantação e manutenção do banco de dados...............................................................4
+2. REFERÊNCIAS......................................................................................................................4
+3. ANEXOS..............................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação das proteções de caráter sistêmico 7.6 Operacional 2026.04 01/05/2026
+1. IMPLANTAÇÃO DE NOVAS PROTEÇÕES DE CARÁTER SISTÊMICO E ADEQUAÇÃO DE
+EXISTENTES
+1.1. Definição da necessidade de novas proteções de caráter sistêmico e de adequação de
+existentes
+1.1.1. O Operador Nacional do Sistema Elétrico – ONS, em conjunto com os agentes de operação, realiza os
+estudos elétricos para a definição da necessidade de implantação de proteções de caráter sistêmico
+(subtensão, sobretensão, sobre frequência, subfrequência, bloqueio por oscilação de potência, proteção de
+perda de sincronismo) e ações de controle sistêmico (verificação de sincronismo, esquema de transferência
+de disparo direto para aplicações sistêmicas e religamento automático) e de adequação das existentes.
+1.1.2. O ONS elabora, em conjunto com os agentes de operação, o Parecer Técnico para a Parametrização e
+Ajustes das Proteções de Caráter Sistêmico, bem como o Relatório de Estudo Pré-Operacional, conforme o
+Submódulo 7.4 – Estudos pré-operacionais de integração de instalações da Rede de Operação, através dos
+quais emanam providências a serem cumpridas relativas a proteções de caráter sistêmico.
+1.2. Especificação funcional das proteções de caráter sistêmico
+1.2.1. Além dos ajustes para as proteções de caráter sistêmico, o ONS, em conjunto com os agentes de
+operação, elabora as especificações funcionais, caso necessário.
+1.2.2. O ONS define as diretrizes para implantação de proteções e ações de controle de caráter sistêmico ou
+adequação das existentes.
+1.3. Elaboração e execução dos projetos executivos
+1.3.1. O agente de operação elabora e executa o projeto executivo, que contém detalhamento para a
+implantação das proteções de caráter sistêmico e/ou para a adequação das existentes.
+1.4. Determinação e implantação dos ajustes
+1.4.1. O ONS, em conjunto com os agentes de operação, realiza os estudos elétricos necessários e determina
+os ajustes das proteções e ações de controle de caráter sistêmico.
+1.4.2. O ONS consolida esses ajustes com a elaboração de Relatório de Estudo Pré-Operacional ou do Parecer
+Técnico contendo a parametrização e ajustes das proteções de caráter sistêmico e o encaminha ao agente
+de operação para a implantação dos ajustes.
+1.4.3. Os agentes de operação realizam a implantação dos ajustes das novas proteções e ações de controle
+de caráter sistêmico e das existentes.
+1.5. Testes das proteções de caráter sistêmico
+1.5.1. Quando requerido pelo ONS, os agentes de operação apresentam resultados de testes através de
+relatório técnico para demonstrar a correta implantação das funções de caráter sistêmico.
+1.5.2. O ONS avalia o relatório de testes, quando aplicável, para confirmar se as funções de proteção foram
+implementadas conforme as especificações dos relatórios técnicos e estão aptas para entrar em operação.
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação das proteções de caráter sistêmico 7.6 Operacional 2026.04 01/05/2026
+1.6. Elaboração, consolidação e emissão dos pareceres técnicos
+1.6.1. O ONS envia as minutas dos pareceres técnicos aos agentes de operação para comentários, sugestões
+e previsão dos prazos para implantação das proteções e ações de controle de caráter sistêmico e das
+adequações nas proteções existentes.
+1.6.2. Os agentes de operação enviam ao ONS seus comentários e sugestões, bem como os prazos previstos
+para a implantação das proteções de caráter sistêmico e das adequações das proteções existentes.
+1.6.3. O ONS realiza a consolidação dos pareceres técnicos e dos prazos para a implantação das proteções
+de caráter sistêmico e das adequações nas proteções existentes.
+1.7. Acompanhamento das atividades
+1.7.1. O ONS realiza o acompanhamento da implantação das proteções de caráter sistêmico e das
+adequações nas existentes pelos agentes de operação e registra as não conformidades verificadas.
+1.8. Implantação e manutenção do banco de dados
+1.8.1. O ONS solicita aos agentes de operação as informações necessárias para a implantação e manutenção
+do Banco de Dados de Proteções de Caráter Sistêmico, relativo às proteções instaladas na Rede de Operação,
+e indica a forma como essas informações devem ser encaminhadas.
+1.8.2. Os agentes de operação encaminham ao ONS as informações necessárias para a implantação e a
+manutenção do Banco de Dados de Proteções de Caráter Sistêmico após a implantação de uma nova
+proteção ou de adequação ou reajustes em proteções existentes, conforme implantados em campo, na
+forma especificada.
+2. REFERÊNCIAS
+2.1. Não há referências neste documento.
+3. ANEXOS
+3.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 4 / 4

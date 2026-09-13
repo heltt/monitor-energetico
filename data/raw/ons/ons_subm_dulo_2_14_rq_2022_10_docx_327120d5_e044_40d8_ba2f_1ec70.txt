@@ -1,0 +1,414 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 2.14-RQ_2022.10.docx_327120d5-e044-40d8-ba2f-1ec7066124ca
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 2.14-RQ_2022.10.docx_327120d5-e044-40d8-ba2f-1ec7066124ca.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 2.14
+Requisitos mínimos para o Sistema de
+Medição para Faturamento
+Requisitos
+Revisão Motivo da revisão Data de aprovação
+2022.10 Despacho ANEEL nº 2.852/2022 03/10/2022
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para o Sistema de Medição
+2.14 Requisitos 2022.10 03/10/2022
+para Faturamento
+ÍNDICE
+1. OBJETIVO ..................................................................................................................................... 3
+2. SISTEMA DE MEDIÇÃO PARA FATURAMENTO ................................................................................ 3
+2.1. Requisitos gerais ............................................................................................................................ 3
+2.2. Medidores ...................................................................................................................................... 4
+Características elétricas ............................................................................................... 4
+Classe de exatidão ....................................................................................................... 4
+Certificado.................................................................................................................... 4
+Grandezas a medir ....................................................................................................... 4
+Memória de massa ...................................................................................................... 4
+Relógio/calendário interno .......................................................................................... 5
+Preservação dos registros ............................................................................................ 5
+Leitura dos registros .................................................................................................... 5
+Autodiagnose ............................................................................................................... 5
+Código de identificação ............................................................................................... 5
+Qualidade de energia elétrica ..................................................................................... 6
+2.3. Transformadores para instrumentos ............................................................................................ 6
+2.4. Cabeamento secundário ................................................................................................................ 6
+3. COMUNICAÇÃO DE DADOS ........................................................................................................... 6
+3.1. Aquisição de leituras ...................................................................................................................... 6
+3.2. Protocolos de comunicação........................................................................................................... 7
+3.3. Canal de comunicação ................................................................................................................... 7
+4. RECURSOS DE PROGRAMAÇÃO ..................................................................................................... 7
+5. MEDIÇÃO DE RETAGUARDA .......................................................................................................... 8
+6. LOCALIZAÇÃO DOS PONTOS DE MEDIÇÃO ..................................................................................... 8
+7. ARQUITETURA BÁSICA DO SISTEMA DE MEDIÇÃO PARA FATURAMENTO ..................................... 16
+8. REFERÊNCIAS .............................................................................................................................. 16
+Endereço na internet: http://www.ons.org.br 2 / 16
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para o Sistema de Medição
+2.14 Requisitos 2022.10 03/10/2022
+para Faturamento
+1. OBJETIVO
+1.1. Estabelecer os requisitos para o Sistema de Medição para Faturamento (SMF), inclusive para a
+comunicação de dados, recursos de programação, medição de retaguarda, localização dos pontos de
+medição e arquitetura básica do SMF.
+2. SISTEMA DE MEDIÇÃO PARA FATURAMENTO
+2.1. Requisitos gerais
+2.1.1. A cada circuito definido como ponto de medição deve corresponder um SMF independente.
+2.1.1.1. Entende-se como SMF o sistema composto pelos medidores principal e de retaguarda, pelos
+transformadores para instrumentos (TI) – transformador de potencial (TP) e de corrente (TC) –, pelos canais
+de comunicação entre os agentes e a Câmara de Comercialização de Energia Elétrica – CCEE, e pelos sistemas
+de coleta de dados de medição para faturamento.
+2.1.2. O SMF deve ser projetado e executado atendendo às normas da Associação Brasileira de Normas
+Técnicas – ABNT e, nos casos omissos, às normas da International Electrotechnical Commission – IEC.
+2.1.3. O SMF deve medir e registrar as energias, demandas, tensões, correntes e frequências presentes no
+ponto de conexão para os possíveis sentidos do fluxo de potência ativa e reativa.
+2.1.4. O SMF deve ser instalado em painel ou cubículo exclusivo, localizado nas salas de comando das
+subestações, ou em abrigos apropriados próximos aos TI, nos quais devem ser instalados os medidores,
+inclusive o medidor de retaguarda.
+2.1.5. O SMF deve ter os circuitos secundários de corrente e potencial aterrados em único ponto por circuito,
+cujos condutores de retorno devem ser independentes.
+2.1.6. O painel ou cubículo destinado ao SMF deve ser aterrado diretamente na malha de terra da
+subestação.
+2.1.7. Os TC e TP de uso exterior devem ter caixa de junção com dispositivo para lacrar os pontos de acesso
+aos circuitos da medição.
+2.1.8. O SMF deve possuir dispositivos (chaves de aferição e blocos com terminais apropriados) que
+possibilitem curto-circuitar e aterrar os secundários dos TC, possibilitem conectar instrumentos para ensaios
+individuais por circuito e permitam manutenção, calibração dos medidores, fácil substituição dos medidores
+e ensaios no cabeamento interno dos painéis, sem necessidade de desligamento dos circuitos.
+2.1.9. O SMF deve ter garantia de inviolabilidade, através da colocação de selos eletrônicos (senhas) e/ou
+mecânicos, pelas partes envolvidas.
+2.1.10. O SMF deve ter facilidades de software e hardware que permitam operações de leitura,
+programação, armazenamento, carga e alterações de parâmetros, tanto na forma local quanto na forma
+remota.
+2.1.11. Para subestação com arranjo de barramentos em anel ou disjuntor e meio, é permitida a totalização
+das energias através da junção de secundários dos TC, correspondendo a único ponto de medição.
+2.1.12. Os medidores ou TI mencionados ao longo da presente especificação podem ser substituídos por
+conjuntos de medição, desde que as implicações técnicas sejam equivalentes e as diferenças de custos
+aceitas pelos agentes envolvidos.
+Endereço na internet: http://www.ons.org.br 3 / 16
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para o Sistema de Medição
+2.14 Requisitos 2022.10 03/10/2022
+para Faturamento
+2.2. Medidores
+Características elétricas
+2.2.1.1. Os medidores devem ser polifásicos, atendendo às ligações a 3 (três) ou 4 (quatro) fios, conforme o
+sistema de potência trifásico considerado. As possíveis configurações são:
+(a) 2 (dois) elementos, 3 (três) fios; ou
+(b) 3 (três) elementos, 4 (quatro) fios.
+2.2.1.2. Os medidores devem ser dimensionados considerando frequência nominal do sistema, corrente
+nominal de acordo com o secundário do TC e tensão nominal de acordo com o secundário do TP.
+2.2.1.3. Os medidores devem possuir independência de elementos e de sequência de fases, de forma a
+garantir o mesmo desempenho em ensaio monofásico ou trifásico.
+Classe de exatidão
+2.2.2.1. Os medidores devem atender a todos os requisitos metrológicos pertinentes ao índice de classe D
+(0,2) prescritos em regulamento técnico específico [1], ou aquele que vier substituí-lo, para todos os sentidos
+de fluxo de potência ativa ou reativa.
+2.2.2.2. Para os sistemas de medição de serviço auxiliar, nos pontos cuja potência não exceda 10 MW,
+podem ser aceitos medidores que atendam a todos os requisitos metrológicos pertinentes ao índice de classe
+C (0,5), desde que aceitos pela CCEE e pelo Operador Nacional do Sistema Elétrico – ONS.
+Certificado
+2.2.3.1. Os medidores devem ter certificado de conformidade de modelo aprovado, emitido pelo Instituto
+Nacional de Metrologia, Qualidade e Tecnologia – INMETRO.
+Grandezas a medir
+2.2.4.1. Os medidores devem permitir a medição e o registro de pelo menos as seguintes grandezas elétricas:
+(a) energia ativa e energia reativa com resolução de 3 (três) casas decimais;
+(b) tensão e corrente RMS por fase com resolução de 2 (duas) casas decimais;
+(c) demanda ativa e demanda reativa, de forma bidirecional, com pelo menos 4 (quatro) registros
+independentes, 2 (dois) para cada sentido de fluxo (quatro quadrantes), com resolução de 3 (três)
+casas decimais; e
+(d) frequência com resolução de 2 (duas) casas decimais.
+2.2.4.2. As unidades de medida devem ser programáveis (Wh, kWh, MWh, varh, kvarh, Mvarh, V, kV, A, kA
+etc.).
+2.2.4.3. Os medidores podem possuir, adicionalmente, uma saída específica para as medições instantâneas
+(potências ativa e reativa, fator de potência, corrente, tensão, frequência etc.).
+Memória de massa
+2.2.5.1. Os medidores devem possuir memória de massa com capacidade de armazenar os dados de energia
+e demanda, ativa e reativa, de forma bidirecional, tensões e correntes RMS e frequência, em intervalos de
+Endereço na internet: http://www.ons.org.br 4 / 16
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para o Sistema de Medição
+2.14 Requisitos 2022.10 03/10/2022
+para Faturamento
+integração programáveis de 5 (cinco) a 60 (sessenta) minutos durante o período mínimo de 32 (trinta e dois)
+dias.
+Relógio/calendário interno
+2.2.6.1. Os medidores devem possuir relógio/calendário interno com recurso de sincronismo externo ao
+Greenwich Mean Time (GMT) - 3 horas, independentemente do fuso horário de sua localização geográfica.
+2.2.6.2. No caso de haver registro faltante, em duplicidade ou com defasagem de sincronismo, fora dos
+limites empregados pela CCEE, cada registro será tratado como dado faltante pela CCEE para fins de apuração
+da penalidade de medição do agente responsável pelo SMF, conforme os Procedimentos de Comercialização
+[2].
+Preservação dos registros
+2.2.7.1. Os medidores devem ser dotados de um sistema de preservação e salvamento dos registros durante
+as perdas de alimentação e armazenar os dados em memória não volátil por pelo menos 100 (cem) horas.
+Leitura dos registros
+2.2.8.1. Os medidores devem possuir mostrador digital para leitura local com pelo menos 6 (seis) dígitos e
+indicar de forma cíclica as grandezas programadas a serem medidas, associadas às suas respectivas unidades
+primárias, ou seja, levando em conta sua constante kh e as relações de transformação dos TI.
+2.2.8.2. Os medidores devem permitir, através de interface de comunicação, a leitura dos valores medidos
+e da memória de massa.
+2.2.8.3. Os medidores devem possuir no mínimo duas portas de comunicação independentes com acesso
+simultâneo ou que permitam a priorização de uma delas. Uma será de uso exclusivo da CCEE e a outra de
+acesso aos agentes envolvidos na medição do ponto.
+2.2.8.3.1. A porta da CCEE deve ser acoplada a um canal de Internet estável e de bom desempenho, sob o
+qual será estabelecido um túnel VPN (Virtual Private Network) entre o medidor e a CCEE.
+2.2.8.3.2. Os medidores devem ter capacidade de gerenciar o acesso simultâneo às suas portas de
+comunicação de forma que a porta de acesso disponibilizada à CCEE permita o acesso aos registros de
+memória de massa do medidor em tempo integral.
+2.2.8.4. Os medidores devem fornecer um registro com data e hora das últimas 15 (quinze) ocorrências de
+falta de alimentação e 15 (quinze) ocorrências de alterações realizadas na programação do medidor.
+2.2.8.5. No caso de consumidores livres ou especiais, os medidores podem possuir saída de pulsos adequada
+para controlador de demanda.
+Autodiagnose
+2.2.9.1. Os medidores devem ser providos de rotinas de autodiagnose com alcance a todos os seus módulos
+funcionais internos, com capacidade de localizar e registrar localmente (mostrador/alarme) e remotamente
+qualquer anormalidade funcional.
+Código de identificação
+2.2.10.1. Os medidores devem permitir a programação de um código de identificação alfanumérico com
+pelo menos 14 (catorze) dígitos que possa ser lido remotamente através do protocolo do medidor.
+Endereço na internet: http://www.ons.org.br 5 / 16
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para o Sistema de Medição
+2.14 Requisitos 2022.10 03/10/2022
+para Faturamento
+Qualidade de energia elétrica
+2.2.11.1. Os medidores devem atender aos requisitos para a medição de Qualidade de Energia Elétrica (QEE)
+e registrar as grandezas elétricas necessárias para o cálculo dos indicadores de QEE, no que concerne a tensão
+de atendimento em regime permanente e a Variação de Tensão de Curta Duração (VTCD), conforme
+estabelecido nos Submódulo 2.9 – Requisitos mínimos de qualidade de energia elétrica para acesso ou
+integração à Rede Básica e Submódulo 9.7 – Indicadores de qualidade de energia elétrica da Rede Básica.
+2.3. Transformadores para instrumentos
+2.3.1. Não devem ser usados transformadores auxiliares nos secundários dos TI.
+2.3.2. Os secundários exclusivos para medição de faturamento dos TI devem ter classe de exatidão 0,3 ou
+melhor para todas as cargas e todas as relações, consideradas as condições de projeto, e para a frequência
+nominal do sistema. Para medição de serviço auxiliar, aceita-se a classe de exatidão 0,6.
+2.3.3. Os TC devem ser especificados para uma corrente secundária nominal em conformidade com a
+corrente nominal dos medidores. O fator térmico deve ser o previsto para requisito do sistema ou situação
+de contingência.
+2.3.4. Ao especificar os TP, deve-se considerar que a carga secundária aplicada esteja em conformidade com
+a carga simultânea especificada pelo fabricante.
+2.3.5. Os TI devem possuir enrolamentos secundários exclusivos para o SMF. As caixas de terminais devem
+ter dispositivos que permitam lacrar os pontos de acesso aos circuitos de medição.
+2.3.6. Os TC devem ter a mudança de relação preferencialmente no primário. No caso de mudança de
+relação no secundário, o TC deve apresentar a mesma exatidão em todas as relações.
+2.3.7. Não devem ser utilizados fusíveis nos secundários dos TP. Caso a proteção do secundário do TP seja
+considerada imprescindível pelo agente responsável pelo SMF ou pelo agente conectado, admite-se o uso de
+micro-disjuntores com supervisão de estado através de contato auxiliar.
+2.4. Cabeamento secundário
+2.4.1. Os condutores utilizados para interligação dos secundários dos TC aos elementos de corrente dos
+medidores devem ser especificados de modo que a carga total imposta não seja superior à carga padronizada
+dos TC.
+2.4.2. Os condutores utilizados para interligação dos secundários dos TP indutivos e/ou capacitivos aos
+elementos de potencial dos medidores devem ser especificados de modo a não introduzir um erro na
+medição superior a 0,05% para fator de potência de 0,8.
+2.4.3. O cabo utilizado deve ser multicondutor blindado.
+2.4.4. A blindagem e os condutores não utilizados devem ser aterrados junto ao painel ou cubículo de
+medição.
+3. COMUNICAÇÃO DE DADOS
+3.1. Aquisição de leituras
+3.1.1. O SMF deve possibilitar a comunicação remota direta com os medidores, com o objetivo de viabilizar
+os procedimentos de leitura.
+Endereço na internet: http://www.ons.org.br 6 / 16
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para o Sistema de Medição
+2.14 Requisitos 2022.10 03/10/2022
+para Faturamento
+3.1.2. O SMF deve possibilitar a realização de verificações contínuas dos valores registrados e memória de
+massa, para informações estratégicas do mercado, através da aquisição de leituras em tempo integral.
+3.1.3. A aquisição de leituras em tempo integral deve ser um processo que permita, por meio de um canal
+de comunicação, fazer leituras dos valores registrados e da memória de massa em intervalo de tempo
+programado.
+3.1.4. O agente responsável pelo SMF pode utilizar uma central de aquisição própria. Nesse caso deve
+instalar o programa computacional específico da CCEE responsável pelo envio dos arquivos XML (Extensible
+Markup Language) da central de aquisição do agente para o sistema de coleta de dados de energia da CCEE,
+sendo o agente responsável pela geração dos arquivos XML requisitados nos intervalos de coleta definidos.
+3.1.5. Quando o sistema de medição da CCEE acessar diretamente os medidores, a estrutura de
+comunicação/medidores deve permitir o acesso simultâneo da CCEE e dos agentes envolvidos, sem que um
+prejudique o acesso do outro.
+3.1.5.1. A topologia de comunicação dos medidores assim como a capacidade do link deve ser implementada
+de modo a permitir o acesso simultâneo a todos os medidores da instalação. Não são aceitos medidores que
+não respeitem o requisito de acesso simultâneo nos termos supracitados ou estejam ligados em cascata,
+spliters ou configurações seriais que criem alguma situação onde a leitura dos demais medidores esteja
+sujeita à espera de liberação do canal de comunicação.
+3.2. Protocolos de comunicação
+3.2.1. Podem ser aceitos todos os protocolos de medidores, desde que seus fornecedores desenvolvam os
+protocolos nos padrões e para as aplicações definidas pela CCEE, e forneçam à CCEE toda a documentação
+detalhada do protocolo.
+3.3. Canal de comunicação
+3.3.1. Deve ser disponibilizado um canal de comunicação estável e de bom desempenho para permitir a
+aquisição de leituras a qualquer tempo, diretamente de cada ponto de medição, conforme disposto nos
+Procedimentos de Comercialização [2].
+3.3.2. O canal de comunicação utilizado deve permitir a transferência dos dados numa taxa mínima
+compatível com a transmissão dos pacotes de dados de seu medidor, conforme detalhado nos
+Procedimentos de Comercialização [2].
+4. RECURSOS DE PROGRAMAÇÃO
+4.1. O SMF deve possuir software específico de programação, leitura, totalização dos dados e emissão de
+relatórios. Esse software deve possibilitar:
+(a) programação do horário de verão;
+(b) aquisição, de forma automática, dos valores registrados na memória de massa, em datas e horários
+pré-programados;
+(c) criação de arquivos de saída no formato ASCII (American Standard Code for Information Interchange),
+de forma que os dados sejam facilmente processados por outro software disponível no mercado;
+(d) programação de grandezas elétricas em intervalos de integração de 5 (cinco) a 60 (sessenta) minutos,
+em múltiplos de 5 (cinco) minutos, para armazenamento de dados na memória de massa;
+Endereço na internet: http://www.ons.org.br 7 / 16
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para o Sistema de Medição
+2.14 Requisitos 2022.10 03/10/2022
+para Faturamento
+(e) programação dos multiplicadores das grandezas medidas;
+(f) programação da relação dos TI, a fim de que os valores medidos sejam referidos aos valores primários;
+(g) aquisição parcial dos valores registrados na memória de massa dos medidores, de forma que seja
+possível buscar apenas os dados referentes ao período requisitado; e
+(h) aquisição dos dados pela CCEE, diretamente dos medidores ou da central de aquisição do agente
+responsável pelo SMF.
+5. MEDIÇÃO DE RETAGUARDA
+5.1. A medição de retaguarda deve ser composta de um medidor igual ou equivalente ao medidor principal,
+instalado no mesmo painel, com as mesmas informações de corrente e tensão (mesmos enrolamentos
+secundários dos TI).
+5.2. A medição de retaguarda deve atender aos requisitos especificados neste submódulo, inclusive aqueles
+relativos à comunicação.
+5.3. A medição de retaguarda deve ser instalada e comissionada conforme os critérios que foram
+estabelecidos para a medição principal.
+5.4. A medição de retaguarda não é permitida nos pontos destinados à medição da geração bruta de agente
+de geração.
+6. LOCALIZAÇÃO DOS PONTOS DE MEDIÇÃO
+6.1. Os SMF devem ser instalados nas conexões:
+(a) com a Rede Básica;
+(b) com as Demais Instalações de Transmissão (DIT);
+(c) com as Instalação de Transmissão de Interesse Exclusivo de Centrais de Geração para Conexão
+Compartilhada (ICG);
+(d) com as instalações de transmissão destinadas a interligação internacional conectadas à Rede Básica;
+(e) com as instalações sob responsabilidade de agente de distribuição;
+(f) com as instalações sob responsabilidade de agente de geração;
+(g) com as instalações sob responsabilidade de consumidor livre ou especial;
+(h) entre agentes que fazem parte da CCEE;
+(i) de agentes que não fazem parte da CCEE, no caso de impactar a contabilização da CCEE;
+(j) de interligação entre submercados;
+(k) de unidades geradoras ou grupos de unidades geradoras de tecnologia térmica ou hidráulica
+pertencentes a usinas classificadas na modalidade de operação Tipo I ou Tipo II-A, para medição da
+geração bruta;
+Endereço na internet: http://www.ons.org.br 8 / 16
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para o Sistema de Medição
+2.14 Requisitos 2022.10 03/10/2022
+para Faturamento
+(l) de serviço auxiliar de subestação ou usina com instalações integrantes da Rede Básica, das instalações
+de transmissão destinadas a interligação internacional conectadas à Rede Básica, das ICG ou das DIT;
+(m) de centrais geradoras associadas, nas quais a medição deve ser distinta por tecnologia de geração; e
+(n) de centrais geradoras híbridas, nas quais a medição deve ser distinta por tecnologia de geração,
+quando for da opção da outorga da central geradora.
+6.2. No acesso à Rede Básica compartilhado por mais de uma distribuidora, a medição deve ser no ponto de
+conexão com as DIT e nos pontos de conexão entre cada distribuidora, conforme ilustrado na Figura 1.
+Figura 1 - Pontos de medição no acesso de DIT à Rede Básica e entre cada distribuidora
+6.3. No acesso à Rede Básica de uma distribuidora, ainda que por meio de vários ramais, a medição pode ser
+global no lado de baixa tensão da transformação, conforme ilustrado na Figura 2, desde que não existam
+elementos de compensação de potência reativa ou serviços auxiliares ligados no barramento.
+6.3.1. Para qualquer alteração futura dessa condição, a localização da medição deve ser refeita conforme o
+item 6.1. deste submódulo.
+Endereço na internet: http://www.ons.org.br 9 / 16
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para o Sistema de Medição
+2.14 Requisitos 2022.10 03/10/2022
+para Faturamento
+Figura 2 - Ponto de medição no acesso de uma distribuidora à Rede Básica
+6.4. No acesso à Rede Básica compartilhado por mais de uma distribuidora, ou mais de um consumidor livre
+ou especial, na mesma entrada de linha, as medições devem ser no ponto de conexão com as DIT ou ICG e
+nos pontos de conexão entre cada distribuidora/consumidor, como ilustrado na Figura 3.
+Figura 3 - Pontos de medição no acesso compartilhado de distribuidoras à Rede Básica
+6.5. Para usinas classificadas na modalidade de operação Tipo I ou Tipo II-A, conforme Submódulo 7.2 –
+Classificação da modalidade de operação de usinas, com conexão à Rede Básica, às instalações de
+transmissão de energia elétrica destinadas a interligações internacionais conectadas à Rede Básica, às DIT,
+às ICG ou às instalações sob responsabilidade de agente de distribuição, a medição deve ser, como ilustrado
+na Figura 4:
+(a) para medição de geração líquida: nos pontos de conexão da usina; e
+(b) para medição da geração bruta: na saída de cada unidade geradora.
+6.5.1. No caso de unidade geradora eólica ou fotovoltaica, a medição é apenas no ponto de conexão, uma
+vez que não há medição bruta.
+Endereço na internet: http://www.ons.org.br 10 / 16
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para o Sistema de Medição
+2.14 Requisitos 2022.10 03/10/2022
+para Faturamento
+Figura 4 - Pontos de medição na conexão de usinas Tipo I ou Tipo II-A
+6.6. Para usinas classificadas na modalidade de operação Tipo II-B ou Tipo II-C conectadas à Rede Básica, às
+instalações de distribuição, às DIT ou às ICG, a medição deve ser no ponto de conexão da usina para medição
+da geração líquida, como ilustrado na Figura 5.
+Figura 5 - Pontos de medição na conexão de usinas Tipo II-B ou Tipo II-C
+6.7. Para usinas classificadas na modalidade de operação Tipo I ou Tipo II-A com conexão à Rede Básica, às
+instalações de transmissão de energia elétrica destinadas a interligações internacionais conectadas à Rede
+Endereço na internet: http://www.ons.org.br 11 / 16
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para o Sistema de Medição
+2.14 Requisitos 2022.10 03/10/2022
+para Faturamento
+Básica, às DIT, às ICG ou às instalações sob responsabilidade de agente de distribuição por meio de linha de
+transmissão de uso exclusivo, a medição deve ser, como ilustrado na Figura 6:
+(a) para medição da geração líquida: nos pontos de conexão da usina; e
+(b) para medição da geração bruta: na saída de cada unidade geradora.
+6.7.1. No caso de unidade geradora eólica ou fotovoltaica, a medição é apenas no ponto de conexão, uma
+vez que não há medição bruta.
+Figura 6 - Pontos de medição na conexão de usinas Tipo I ou Tipo II-A
+6.8. Para usinas classificadas na modalidade de operação Tipo II-B ou Tipo II-C conectadas à Rede Básica, às
+instalações de distribuição, às DIT ou às ICG através de linhas de transmissão de uso exclusivo, a medição
+deve ser no ponto de conexão da usina, para medição da geração líquida, conforme ilustrado na Figura 7.
+Endereço na internet: http://www.ons.org.br 12 / 16
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para o Sistema de Medição
+2.14 Requisitos 2022.10 03/10/2022
+para Faturamento
+Figura 7 - Pontos de medição na conexão de usinas Tipo II-B ou Tipo II-C
+6.9. Para consumidores livres ou especiais, a medição deve ser no ponto de conexão à Rede Básica, às
+instalações de transmissão de energia elétrica destinadas a interligações internacionais conectadas à Rede
+Básica, às ICG ou às DIT, conforme ilustrado na Figura 8.
+Figura 8 - Pontos de medição na conexão de consumidores livres ou especiais
+6.10. Nos pontos de conexão entre agentes da CCEE, a medição deve ser instalada no lado do agente
+conectado, conforme ilustrado na Figura 9.
+Endereço na internet: http://www.ons.org.br 13 / 16
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para o Sistema de Medição
+2.14 Requisitos 2022.10 03/10/2022
+para Faturamento
+Figura 9 - Pontos de medição na conexão entre agentes que fazem parte da CCEE
+6.11. Nos pontos de conexão de distribuidora ou geradora não agente da CCEE, a medição deve ser instalada
+no lado do agente conectado, conforme ilustrado na Figura 10.
+Figura 10 - Pontos de medição na conexão de distribuidora ou geradora não agente da CCEE
+6.12. No acesso à Rede Básica de usinas por meio de conexão às ICG, a medição deve ser instalada, conforme
+ilustrado na Figura 11:
+Endereço na internet: http://www.ons.org.br 14 / 16
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para o Sistema de Medição
+2.14 Requisitos 2022.10 03/10/2022
+para Faturamento
+(a) em cada conexão de usina com a ICG; e
+(b) nos pontos de conexão da ICG com a Rede Básica.
+Figura 11 - Pontos de medição no acesso à Rede Básica por meio de ICG
+Endereço na internet: http://www.ons.org.br 15 / 16
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para o Sistema de Medição
+2.14 Requisitos 2022.10 03/10/2022
+para Faturamento
+7. ARQUITETURA BÁSICA DO SISTEMA DE MEDIÇÃO PARA FATURAMENTO
+7.1. A arquitetura básica do SMF deve ser conforme o disposto na Figura 12.
+Figura 12 - Arquitetura básica do SMF
+8. REFERÊNCIAS
+[1] INMETRO. Regulamento Técnico Metrológico (RTM) aprovado pela Portaria INMETRO nº 587, de 5 de
+novembro de 2012.
+[2] CCEE. Procedimentos de Comercialização, Submódulo 1.2 – Cadastro de agentes.
+Endereço na internet: http://www.ons.org.br 16 / 16

@@ -1,0 +1,169 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.2-PR_2022.10.docx_99cfec1a-9617-467a-9d52-426b6ff02a0a
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.2-PR_2022.10.docx_99cfec1a-9617-467a-9d52-426b6ff02a0a.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.2
+Classificação de modalidade de
+operação de usinas
+Procedimental
+Revisão Motivo da revisão Data de aprovação
+2022.10 Despacho ANEEL nº 2.852/2022 03/10/2022
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Classificação de modalidade de operação de
+7.2 Procedimental 2022.10 03/10/2022
+usinas
+ÍNDICE
+1. CLASSIFICAÇÃO DE MODALIDADE DE OPERAÇÃO DE USINAS ......................................................... 3
+1.1. Solicitação de classificação de modalidade de operação de usinas.............................................. 3
+1.2. Análise para classificação de modalidade de operação das usinas............................................... 3
+1.3. Elaboração e disponibilização do Parecer Técnico de Modalidade de Operação de Usina .......... 5
+1.4. Reclassificação de modalidade de operação de usinas ................................................................. 5
+2. REFERÊNCIAS ................................................................................................................................ 5
+3. ANEXOS........................................................................................................................................ 6
+ANEXO A - FLUXOGRAMA PARA CLASSIFICAÇÃO DA MODALIDADE DE OPERAÇÃO DE USINAS ................. 6
+Endereço na internet: http://www.ons.org.br 2 / 7
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Classificação de modalidade de operação de
+7.2 Procedimental 2022.10 03/10/2022
+usinas
+1. CLASSIFICAÇÃO DE MODALIDADE DE OPERAÇÃO DE USINAS
+1.1. Solicitação de classificação de modalidade de operação de usinas
+1.1.1. O Operador Nacional do Sistema Elétrico – ONS realiza análises e estudos de classificação de
+modalidade de operação de uma usina do Sistema Interligado Nacional (SIN) em função da solicitação do
+agente de geração responsável pela usina, ou quando identificada, pelo ONS, a necessidade de avaliações
+desta usina em função da expansão do SIN ou dos impactos da referida usina à operação do SIN.
+1.1.2. O agente de geração solicita ao ONS, nos formatos e meios estabelecidos, a classificação de
+modalidade de operação das usinas sob sua responsabilidade, em função do processo de solicitação de
+acesso às instalações de agentes de transmissão, estabelecido no Submódulo 7.1 – Acesso às instalações de
+transmissão, ou do processo de solicitação de acesso ao sistema de distribuição, estabelecido nos
+Procedimentos de Distribuição (PRODIST).
+1.1.3. No caso de solicitação da Empresa de Pesquisa Energética – EPE, relativa à classificação de modalidade
+de operação de usinas participantes de Leilões de Energia, o ONS obtém do Ministério de Minas e Energia –
+MME e da Agência Nacional de Energia Elétrica – ANEEL as informações e os dados necessários referentes às
+usinas sob análise, quais sejam:
+(a) ponto de conexão;
+(b) características físicas;
+(c) dados técnicos;
+(d) restrições operativas;
+(e) cronograma de obras de geração e de transmissão associadas às usinas sob análise da modalidade de
+operação; e
+(f) regime de operação.
+1.2. Análise para classificação de modalidade de operação das usinas
+1.2.1. O ONS mantém atualizadas as diretrizes, os critérios e as metodologias para a identificação de
+modalidade de operação de usinas e avalia as contribuições dos agentes de geração relativas ao
+aperfeiçoamento dessas atividades.
+1.2.2. O ONS classifica a modalidade de operação de usinas com base em estudos de planejamento e
+programação da operação eletroenergética e avaliação dos impactos do empreendimento de geração na
+operação do SIN, sendo as usinas analisadas individualmente ou agrupadas quando compartilharem o
+mesmo ponto de conexão. As modalidades de operação das usinas podem ser classificadas em Tipo I, Tipo II
+ou Tipo III.
+1.2.3. São consideradas na modalidade de operação Tipo I:
+(a) usinas conectadas na Rede Básica que afetem a operação eletroenergética, independente da potência
+líquida injetada no SIN e da natureza da fonte primária, sendo considerados os impactos na segurança
+Endereço na internet: http://www.ons.org.br 3 / 7
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Classificação de modalidade de operação de
+7.2 Procedimental 2022.10 03/10/2022
+usinas
+da Rede de Operação segundo os aspectos de controle de tensão, controle de carregamento em
+equipamentos e limites de transmissão sistêmicos; ou
+(b) usinas conectadas fora da Rede Básica cuja máxima potência líquida injetada no SIN contribua para
+minimizar problemas operativos e proporcione maior segurança para a Rede de Operação.
+(1) A análise das usinas conectadas fora da Rede Básica será específica para cada caso, sendo
+considerado como critério referencial de avaliação as usinas nas quais a geração da capacidade
+máxima provoque variações no carregamento da transformação de fronteira superior a 10% da
+potência nominal desta transformação. A análise contempla o critério N-1 de contingências na
+Rede de Operação na área de influência da usina, em particular nas transformações de fronteira.
+(2) Outros aspectos poderão ser considerados na análise descrita no item 1.2.3. (b)(1) para
+confirmação ou não da modalidade Tipo I, desde que comprovadamente contribuam para a
+segurança da Rede. Por exemplo, existência de outras usinas na área, flexibilidade operativa,
+características da usina etc.
+1.2.3.1. As usinas classificadas na modalidade de operação Tipo I possuem programação centralizada e
+despacho centralizado, e atendem aos processos estabelecidos nos Procedimentos de Rede relacionados a
+ampliações e reforços, planejamento e programação da operação, normatização, pré-operação, operação
+em tempo real e pós-operação.
+1.2.4. São consideradas na modalidade de operação Tipo II:
+(a) usinas conectadas, ou não, na Rede Básica, que não causam impactos na segurança elétrica da Rede
+de Operação, mas que afetam os processos relativos ao planejamento e operação eletroenergética
+do SIN.
+1.2.4.1. As usinas classificadas na modalidade de operação Tipo II são avaliadas em Tipo II-A, Tipo II-B ou
+Tipo II-C, sendo:
+(a) Tipo II-A: Usinas que não causam impactos na Rede de Operação e que possuam fonte térmica com
+Custo Variável Unitário (CVU) declarado ou possuam potência instalada superior a 30 MW
+proveniente de fonte hidráulica.
+(b) Tipo II-B:
+(1) Usinas para as quais se identifica a necessidade de informações ao ONS, para possibilitar a sua
+representação individualizada nos processos de planejamento e operação eletroenergética do
+SIN; ou
+(2) usinas cujo reservatório impacta na operação de usinas classificadas como Tipo I; ou
+(3) usinas que em função das características da fonte primária de geração, apresentam limitações que
+impedem o atendimento ao despacho centralizado de forma sistemática, tais como: PCH,
+biomassa, cogeração, eólica e fotovoltaica.
+(c) Tipo II-C: Usinas que constituírem um conjunto de usinas, que embora individualmente não impactam
+a operação do SIN, mas quando analisadas em conjunto com outras usinas que compartilham o
+mesmo ponto de conexão, totalizam uma injeção de potência significativa em uma determinada
+subestação do SIN.
+Endereço na internet: http://www.ons.org.br 4 / 7
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Classificação de modalidade de operação de
+7.2 Procedimental 2022.10 03/10/2022
+usinas
+1.2.4.2. As usinas classificadas na modalidade de operação Tipo II-A possuem programação e despacho
+centralizados e atendem aos processos estabelecidos nos Procedimentos de Rede relacionados a ampliações
+e reforços, planejamento e programação da operação, normatização, pré-operação, operação em tempo real
+e pós-operação.
+1.2.4.3. As usinas classificadas nas modalidades de operação Tipo II-B e Tipo II-C são programadas conforme
+o processo estabelecido no Submódulo 4.5 – Programação Diária da Operação, informam ao ONS suas
+reprogramações em tempo real e atendem aos processos estabelecidos nos Procedimentos de Rede
+relacionados a ampliações e reforços, planejamento e programação da operação.
+1.2.4.4. As usinas classificadas na modalidade de operação Tipo II-C definem um representante do conjunto
+para o relacionamento com o ONS.
+1.2.5. São consideradas na modalidade de operação Tipo III:
+(a) Usinas conectadas fora da Rede Básica que não causam impactos na operação eletroenergética do
+SIN; ou
+(b) Empreendimentos de autoprodução conectados na Rede Básica, cuja demanda seja
+permanentemente maior que a geração.
+1.2.5.1. As usinas classificadas na modalidade de operação Tipo III não possuem programação nem despacho
+centralizados e, por este motivo, não possuem relacionamento operacional com o ONS.
+1.3. Elaboração e disponibilização do Parecer Técnico de Modalidade de Operação de Usina
+1.3.1. Após estabelecida a classificação de modalidade de operação da usina em análise, o ONS elabora o
+Parecer Técnico de Modalidade de Operação de Usina (PTMO) contendo, além da classificação estabelecida,
+o resumo das informações consideradas nos estudos realizados e o encaminha ao agente de geração
+responsável pela referida usina.
+1.3.2. No caso de usina classificada na modalidade de operação Tipo I ou Tipo II-A, o parecer técnico é
+encaminhado também à ANEEL e à Câmara de Comercialização de Energia Elétrica – CCEE. Para os casos de
+usina participante de leilões, o parecer técnico também é encaminhado à EPE.
+1.4. Reclassificação de modalidade de operação de usinas
+1.4.1. O ONS avalia a necessidade de reclassificação de modalidade de operação de usina em função da
+expansão do SIN, de alterações na regulamentação vigente ou de impactos na operação energética do SIN e
+na operação elétrica da Rede de Operação ocasionado por determinada usina.
+1.4.2. No caso de reclassificação de modalidade de operação de uma usina, o agente de geração deverá
+atender aos prazos estabelecidos para adequação aos requisitos estabelecidos nos Procedimentos de Rede.
+Os cronogramas individuais detalhados para cada reclassificação devem ser acertados entre o agente
+envolvido e o ONS.
+2. REFERÊNCIAS
+Endereço na internet: http://www.ons.org.br 5 / 7
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Classificação de modalidade de operação de
+7.2 Procedimental 2022.10 03/10/2022
+usinas
+2.1. Não há referências neste documento.
+3. ANEXOS
+ANEXO A - Fluxograma para classificação da modalidade de operação de usinas
+Endereço na internet: http://www.ons.org.br 6 / 7
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Classificação de modalidade de operação de
+7.2 Procedimental 2022.10 03/10/2022
+usinas
+ANEXO A
+FLUXOGRAMA PARA CLASSIFICAÇÃO DA MODALIDADE DE OPERAÇÃO DE USINAS
+Endereço na internet: http://www.ons.org.br 7 / 7

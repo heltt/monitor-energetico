@@ -1,0 +1,15 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: DESPACHO Nº 354, DE 12 DE FEVEREIRO DE 2026
+DATA_PUBLICACAO: 13/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=13/02/2026&jornal=515&pagina=156
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Energia Elétrica/Superintendência de Regulação dos Serviços de Transmissão e Distribuição de Energia Elétrica
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+DESPACHO Nº 354, DE 12 DE FEVEREIRO DE 2026
+O SUPERINTENDENTE DE REGULAÇÃO DOS SERVIÇOS DE TRANSMISSÃO E DISTRIBUIÇÃO DE ENERGIA ELÉTRICA DA AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA -ANEEL, no uso das suas atribuições regimentais delegadas pelos incisos I e II do art. 1º da Portaria nº 6.823, de 4 de maio de 2023, e tendo em vista o que consta do Processo nº 48500.036396/2025-85, decide:
+Indeferir o pedido da Elektro Redes S.A., inscrita no CNPJ/MF sob nº 02.328.280/0001-97, de redução não onerosa dos Montantes de Uso do Sistema de Transmissão (MUST) no ponto de conexão Conpacel - 138 kV, proposta para ser implementada simultaneamente ao início de vigência do MUST no ponto de conexão no barramento de 138 kV da Subestação Santa Bárbara do Oeste.
+CARLOS ALBERTO CALIXTO MATTAR

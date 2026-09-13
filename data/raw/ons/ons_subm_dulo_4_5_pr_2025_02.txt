@@ -1,0 +1,500 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 4.5-PR_2025.02
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 4.5-PR_2025.02.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 4.5
+Programação Diária da Operação
+Procedimental
+Revisão Motivo da revisão Data de aprovação
+2025.02 Resolução Normativa ANEEL nº 1.112/2025 11/02/2025
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação Diária da Operação 4.5 Procedimental 2025.02 01/03/2025
+ÍNDICE
+1. DIRETRIZES GERAIS..........................................................................................................................3
+2. ELABORAÇÃO DO PROGRAMA DIÁRIO DA OPERAÇÃO ELETROENERGÉTICA.....................................3
+2.1. Obtenção de dados.......................................................................................................................3
+2.2. Análise das condições de atendimento à carga de demanda e energia........................................4
+2.3. Processamento do modelo de curtíssimo prazo para definição das propostas de geração.........5
+2.4. Plano de Contingência para definição das propostas de geração.................................................6
+2.5. Análise da viabilidade das propostas de geração definidas pelo modelo de curtíssimo prazo.....6
+2.6. Elaboração das propostas de programas de geração e intercâmbio............................................7
+2.7. Análise e compatibilização das propostas de programas de geração e intercâmbio....................7
+2.8. Classificação dos motivos de programação de usinas termelétricas............................................8
+2.9. Validação elétrica e energética das propostas de programas de geração e intercâmbios
+compatibilizados...........................................................................................................................9
+2.10. Avaliação das ofertas de resposta da demanda no programa de curto prazo “D-1”....................9
+2.11. Composição do Programa Diário da Operação e disponibilização aos agentes envolvidos..........9
+3. REFERÊNCIAS.................................................................................................................................11
+4. ANEXOS.........................................................................................................................................11
+ANEXO A – Informações encaminhadas pelos agentes para a elaboração da programação diária
+eletroenergética..........................................................................................................................11
+Endereço na internet: http://www.ons.org.br 2 / 14
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação Diária da Operação 4.5 Procedimental 2025.02 01/03/2025
+1. DIRETRIZES GERAIS
+1.1. A programação diária da operação eletroenergética tem como propósito a otimização da operação do
+Sistema Interligado Nacional (SIN), por meio do suprimento, nas melhores condições elétricas e energéticas,
+econômicas e com a maior segurança operacional possível, das demandas previstas, considerando a
+integridade de equipamentos e as restrições existentes.
+1.2. As ações e decisões do processo de programação diária da operação eletroenergética são baseadas em
+critérios técnicos, visando à obtenção dos benefícios prioritariamente sistêmicos, compatibilizados com as
+restrições locais.
+1.3. A programação diária da operação eletroenergética leva em consideração tanto os aspectos sistêmicos,
+que são de responsabilidade do ONS, sobretudo em função da forte interdependência entre a geração e a
+transmissão, quanto os aspectos legais e locais, que são influenciados pelas características e restrições de
+instalações e equipamentos de propriedade e responsabilidade dos agentes envolvidos.
+1.4. O processo de programação diária da operação eletroenergética é participativo e interativo, com
+reprodutibilidade de resultados e transparência entre o ONS e os agentes com responsabilidades definidas
+neste submódulo, que deverão estar capacitados em todas as suas etapas.
+2. ELABORAÇÃO DO PROGRAMA DIÁRIO DA OPERAÇÃO ELETROENERGÉTICA
+2.1. Obtenção de dados
+2.1.1. Para a elaboração do programa diário da operação eletroenergética, o Operador Nacional do Sistema
+Elétrico – ONS toma por base os critérios descritos no Submódulo 2.4 – Premissas, critérios e metodologias
+para estudos energéticos e obtém as seguintes informações:
+(a) estratégia de operação semanal proveniente do Programa Mensal da Operação Energética (PMO) e
+suas revisões, estabelecidas conforme Submódulo 4.3 – Programação mensal da operação energética;
+(b) diretrizes para a operação elétrica de curto prazo, conforme Submódulo 4.1 – Planejamento da
+operação elétrica com horizonte mensal, tais como:
+(1) limites de transmissão inter e intra subsistemas;
+(2) despacho mínimo de geração das usinas termelétricas classificadas, conforme Submódulo 7.2 –
+Classificação da modalidade de operação de usinas, nas modalidades de operação Tipo I e Tipo II-
+A, para atendimento da carga e análise do desempenho do sistema em condição normal, ou caso
+necessário, em rede incompleta;
+(3) base de dados para estudos elétricos de fluxo de potência com horizonte quadrimestral e mensal
+compatibilizada com os programas diários de geração e carga; e
+(c) cálculo dos montantes de reserva de potência operativa para cada subsistema conforme Submódulo
+5.12 – Instruções de Operação.
+(d) intervenções em instalações na Rede de Operação e cronogramas de manutenção de unidades
+geradoras, conforme Submódulo 4.2 – Programação de intervenções em instalações da Rede de
+Operação e Submódulo 5.13 – Rotinas Operacionais, e fornecem, quando solicitado pelo ONS,
+informações complementares às cadastradas;
+Endereço na internet: http://www.ons.org.br 3 / 14
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação Diária da Operação 4.5 Procedimental 2025.02 01/03/2025
+(e) Função de Custo Futuro resultante do processamento do modelo de otimização de curto prazo,
+conforme Submódulo 4.3.
+(f) consolidação da previsão de carga, conforme Submódulo 4.4 – Consolidação da previsão de carga
+para programação eletroenergética;
+(g) previsão de centrais geradoras de micro e minigeração distribuída – MMGD, conforme Submódulo
+4.4;
+(h) as unidades geradoras liberadas para operação comercial;
+(i) características físicas dos aproveitamentos hidroelétricos, conforme Submódulo 3.8 – Atualização de
+dados técnicos dos aproveitamentos hidroelétricos, e características físico-operativas das usinas
+hidrelétricas e termelétricas, conforme Submódulo 3.3 – Planejamento da operação energética de
+médio prazo;
+(j) previsões de vazões naturais médias diárias consolidadas, conforme Submódulo 4.6 – Análise e
+tratamento dos dados hidroenergéticos e previsão e geração de cenários de vazões;
+(k) restrições operativas hidráulicas de reservatórios consolidadas, conforme Submódulo 4.7 –
+Atualização de informações sobre restrições hidráulicas dos aproveitamentos hidroelétricos;
+(l) volumes de espera para controle de cheias, conforme Submódulo – 3.7 Planejamento anual de
+prevenção de cheias;
+(m)previsões meteorológicas para as bacias hidrográficas e para os centros de carga de interesse, e
+boletim de tempo severo, quando emitido, conforme Submódulo 4.8 – Acompanhamento e previsão
+meteorológica e climática; e
+(n) informações relevantes obtidas sobre a operação em tempo real e relatórios da pós-operação;
+(o) gerações de centrais geradoras não simuladas individualmente, que tem injeção de energia na rede
+elétrica simulada, com exceções das usinas eólicas e fotovoltaicas;
+(p) representações de usinas termelétricas com unit commitment;
+(q) representação do modelo ONS de previsão de geração de fonte eólica;
+(r) representação da fonte fotovoltaica resultante de processo heurístico que combina a média de
+geração verificada de dias típicos.
+(s) ofertas de redução de consumo confirmada pelo agente ofertante, no âmbito do programa de curto
+prazo “D-1” de resposta da demanda [5].
+2.1.2. Os agentes envolvidos no processo de programação da operação eletroenergética, encaminham ao
+ONS, nos formatos, meios e prazos estabelecidos, os dados sob sua responsabilidade, detalhados no Anexo A.
+2.1.3. O ONS, sempre que verificada alguma inconsistência nos dados recebidos, interage com os agentes
+envolvidos, visando a sua atualização, com formalização das decisões.
+2.2. Análise das condições de atendimento à carga de demanda e energia
+2.2.1. O ONS analisa as condições de atendimento à carga de demanda e energia de forma a avaliar as
+condições de atendimento da demanda durante o período de ponta, considerando as previsões de carga de
+demanda integralizada e previsões de demanda instantânea máxima de cada subsistema coincidente com a
+máxima do SIN e de cada subsistema individualizadamente, consolidadas conforme Submódulo 4.4.
+Endereço na internet: http://www.ons.org.br 4 / 14
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação Diária da Operação 4.5 Procedimental 2025.02 01/03/2025
+2.2.2. O ONS incorpora a previsão de carga ao deck de dados de entrada do modelo de curtíssimo prazo.
+2.2.3. O ONS, caso necessário, solicita aos agentes envolvidos a alteração da data de realização de
+manutenções de unidades geradoras e de intervenções em instalações na Rede de Operação, contidas na
+programação das intervenções conforme Submódulo 4.2, implementa medidas operativas adicionais para
+maior disponibilização de potência de forma a garantir as condições de segurança do sistema durante o
+período, desde que não haja risco de dano para o equipamento, ou por questões de garantia do equipamento
+associada a contratos.
+2.2.3.1. O ONS, caso necessário, solicita ao agente de transmissão envolvido, alteração do cronograma de
+manutenção de equipamentos de transmissão que afetem a segurança e/ou restrinjam a geração de usinas
+hidrelétricas classificadas, conforme Submódulo 7.2, nas modalidades de operação Tipo I e Tipo II-B, bem
+como das usinas termelétricas classificadas nas modalidades de operação Tipo I e II-A.
+2.2.3.2. O agente de transmissão envolvido implementa a alteração solicitada pelo ONS ou, caso tenha
+impossibilidades, encaminha ao ONS as devidas justificativas técnicas.
+2.2.3.3. O ONS, caso necessário, solicita ao agente de distribuição envolvido, alteração do cronograma de
+manutenção de equipamentos fora da Rede de Operação que restrinjam a geração de usinas hidrelétricas
+classificadas nas modalidades de operação Tipo I e Tipo II-B, das usinas termelétricas classificadas nas
+modalidades de operação Tipo I e Tipo II-A, e das usinas classificadas nas modalidades de operação Tipo II-C.
+2.2.4. O ONS avalia as condições de atendimento energético, de forma a identificar as manutenções
+programadas de unidades geradoras e equipamentos do sistema de transmissão da Rede de Operação do
+sistema, que impõem restrições à otimização energética para a operação do sistema.
+2.2.4.1. Caso necessário, o ONS, em conjunto com os agentes envolvidos, altera a data de realização de
+manutenções, desde que não haja risco de dano para o equipamento.
+2.3. Processamento do modelo de curtíssimo prazo para definição das propostas de geração
+2.3.1. O ONS atualiza os arquivos de dados do modelo de curtíssimo prazo e executa o modelo para definição
+dos valores de despacho de geração das usinas hidráulicas, usinas termelétricas e os intercâmbios entre
+subsistemas e o Custo Marginal de Operação (CMO) em base semi-horária.
+2.3.2. O deck de dados do modelo de curtíssimo prazo contém as seguintes informações:
+(a) relação das usinas termoelétricas que deverão ser despachadas por ordem de mérito de custo na
+etapa da Programação Diária;
+(b) previsão preliminar de carga;
+(c) proposta de geração das usinas hidroelétricas, termoelétricas, eólicas, solar e previsão de geração
+de MMGD;
+(d) proposta de defluência turbinada e vertida;
+(e) proposta de intercâmbios entre subsistemas, em que são consideradas as restrições relacionadas às
+intervenções nos Controles Automáticos de Geração - CAG;
+(f) cronograma preliminar de manutenção de unidades geradoras hidroelétricas, termoelétricas, eólicas
+e solar;
+(g) restrições operativas das usinas hidroelétricas, termoelétricas, eólicas e solar, que puderam ser
+incorporadas no modelo curtíssimo prazo;
+(h) proposta de folga de potência por usina;
+(i) proposta de reserva de potência hidráulica e sua alocação nas usinas;
+Endereço na internet: http://www.ons.org.br 5 / 14
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação Diária da Operação 4.5 Procedimental 2025.02 01/03/2025
+(j) diretrizes preliminares eletroenergéticas para a operação;
+(k) previsões preliminares de condições de carregamento do sistema para a Rede de Operação;
+(l) previsões preliminares das condições de transmissão entre áreas e subsistemas;
+(m)proposta de intercâmbios internacionais.
+2.3.3. Após execução do modelo de curtíssimo prazo, o ONS encaminha o deck de dados e os resultados para
+CCEE.
+2.4. Plano de Contingência para definição das propostas de geração
+2.4.1. Na inviabilidade do ONS obter, até às 16h00min do dia D-11, os resultados do modelo de curtíssimo
+prazo para a elaboração da programação do dia D, são consideradas as seguintes ações do Plano de
+Contingência para a definição das propostas de geração:
+(a) 1º nível de contingência: Adota a solução do método de Pontos Interiores como solução final dos
+problemas de programação linear, em substituição ao método Simplex, desabilitando a função
+crossover no modelo, conforme Nota Técnica [4] publicada no site do ONS;
+(b) 2º nível de contingência: Permanecendo a inviabilidade, o ONS mantém a execução do 1º nível de
+contingência e, adicionalmente, desconsidera a representação do unit commitment das usinas
+termelétricas;
+(c) 3º nível de contingência: Permanecendo a inviabilidade, após ações realizadas conforme itens2.4.1.
+(a) e (b), o ONS considera os resultados do modelo de curtíssimo prazo do último dia publicado, na
+semana operativa vigente, com o mesmo perfil de carga do dia D.
+(1) Caso não tenha publicação, na semana operativa vigente, com mesmo perfil de carga do dia D:
+(i) Para definição do despacho de geração termelétrica por ordem de mérito: o ONS considera os
+resultados do modelo de curto prazo (DECOMP) que forneceu a Função de Custo Futuro para a
+semana operativa do dia D.
+(ii) Para o despacho de geração hidrelétrica: o ONS elabora a programação com base nos
+resultados da programação diária do último dia com o mesmo perfil de carga do dia D.
+2.4.2. O ONS incorpora na programação, após o processamento do modelo de curtíssimo prazo, seguidas as
+regras do Plano de Contingência, as restrições operativas das usinas termelétricas que não foram
+consideradas no modelo.
+2.4.3. A partir do despacho de geração termelétrica do dia D-1, definido pelo modelo de curtíssimo prazo
+em situação de contingência, o ONS obtém as condições de contorno necessárias para considerar o unit
+commitment no modelo de curtíssimo prazo para programação do dia D.
+2.5. Análise da viabilidade das propostas de geração definidas pelo modelo de curtíssimo prazo
+1 O dia “D-1” refere-se ao dia anterior ao da programação, ou seja, data de processamento do modelo de curtíssimo
+prazo para a elaboração da programação diária da operação eletroenergética do dia seguinte. O dia “D” refere-se ao
+dia a ser programado.
+Endereço na internet: http://www.ons.org.br 6 / 14
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação Diária da Operação 4.5 Procedimental 2025.02 01/03/2025
+2.5.1. Recebido os dados dos agentes, o ONS procede sua análise e consolidação. Após esta fase, o ONS
+incorpora essas informações ao deck de dados de entrada do modelo de curtíssimo prazo.
+2.5.2. O ONS verifica se a soma dos valores de inflexibilidade declarados pelos agentes para o processamento
+do modelo de curtíssimo prazo não ultrapassa o valor semanal considerado no modelo de curto prazo na
+semana operativa, [1].
+2.5.2.1. Caso o montante de inflexibilidade declarado pelo agente exceder o valor semanal do modelo de
+curto prazo, o ONS considera esse excedente após o processamento do modelo de curtíssimo prazo, [1].
+2.5.3. As propostas de geração são definidas conforme descrito no item 2.4.
+2.5.4. O ONS analisa e verifica a viabilidade do cumprimento das curvas de geração propostas, em função
+das restrições operativas cadastradas no ONS para as unidades geradoras e decorrentes da interação com os
+agentes envolvidos.
+2.5.5. Após análise das propostas de geração, o ONS verifica a viabilidade do cumprimento das metas e
+diretrizes energéticas definidas para a semana em curso, através da Função de Custo Futuro, em função dos
+desvios de recursos e requisitos dos subsistemas e decorrentes da interação com os agentes envolvidos.
+2.5.5.1. Caso seja identificada a ocorrência de desvios das premissas utilizadas no PMO para definição da
+política energética, para a semana em curso, que possam impactar os resultados do modelo de curtíssimo
+prazo, o ONS define alterações da política energética baseadas nas diretrizes do PMO ou nova política
+energética, se houver alterações significativas no quadro hidroenergético dos subsistemas, para assegurar a
+otimização dos recursos de geração existentes nesse novo cenário.
+2.6. Elaboração das propostas de programas de geração e intercâmbio
+2.6.1. O ONS define uma proposta de referência de geração diária para as usinas hidroelétricas classificadas
+nas modalidades de operação Tipo I e Tipo II-A, com base nas propostas de geração definidas pelo modelo
+de curtíssimo prazo, considerando:
+(a) os ajustes diários de carga e afluências;
+(b) as restrições elétricas, inclusive as decorrentes das intervenções da malha integrada de transmissão;
+e
+(c) a relação das intervenções que imponham restrições de geração e seus montantes.
+2.7. Análise e compatibilização das propostas de programas de geração e intercâmbio
+2.7.1. O ONS e os agentes envolvidos validam as propostas de geração e intercâmbio, definidas pelo modelo
+de curtíssimo prazo, considerando:
+(a) verificação do intercâmbio, para garantir que o seu valor líquido e as modalidades programadas
+sejam os mesmos entre os agentes de operação envolvidos, a fim de que não haja divergências entre
+os intercâmbios;
+(b) realização do balanço energético, para garantir que a operação “carga - geração + intercâmbio”, por
+agente de operação envolvido, tenha resultado nulo;
+(c) verificação da geração por usina de forma a garantir que o valor programado de geração para cada
+usina não ultrapasse sua disponibilidade;
+(d) verificação da folga de geração por estes agentes para garantir que o valor total das disponibilidades
+das usinas hidrelétricas seja superior ou igual ao somatório do valor programado de geração e da
+reserva de potência alocada em suas usinas; e
+Endereço na internet: http://www.ons.org.br 7 / 14
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação Diária da Operação 4.5 Procedimental 2025.02 01/03/2025
+(e) verificação do atendimento das restrições de geração e intercâmbio associadas às intervenções
+programadas em equipamentos da Rede de Operação.
+2.7.2. Caso seja verificada inconsistência nas propostas de programas de geração e intercâmbio dos agentes
+de operação envolvidos, o ONS interage com os agentes responsáveis, de forma a conciliar os benefícios
+sistêmicos com as restrições locais.
+2.8. Classificação dos motivos de programação de usinas termelétricas
+2.8.1. O ONS considera, para a programação de geração de usinas termelétricas, a classificação dos motivos
+desta programação:
+(a) Inflexibilidade (necessidade do agente): declaração do agente de geração dos valores de
+inflexibilidade de geração da usina sob sua responsabilidade, conforme [2];
+(b) Ordem de mérito de custo: resultante do processamento dos modelos computacionais de otimização
+energética, que busca o atendimento à demanda de energia elétrica, considerando a disponibilidade
+de geração e as condições futuras de atendimento (risco de déficit).
+(c) Restrição elétrica ou necessidade do SIN: determinados para a garantia da confiabilidade e
+estabilidade do sistema elétrico, sendo preponderantes em termos operativos em relação às
+inflexibilidades declaradas pelos agentes e à otimização energética. Esses despachos caracterizam-se
+normalmente por restrições do sistema de transmissão.
+(d) Garantia de suprimento energético (GE): despacho adicional ao indicado pelos programas
+computacionais por decisão do Comitê de Monitoramento do Setor Elétrico – CMSE,
+extraordinariamente e com o objetivo de garantir o suprimento energético [3];
+(e) Recomposição de reserva operativa: geração complementar visando a manutenção da reserva de
+potência operativa no SIN com vistas a preservar a reserva de potência operativa nas unidades
+geradoras hidráulicas, participantes do Controle Automático de Geração (CAG), em qualquer
+subsistema, conforme [2].
+(f) Energia de reposição e perdas: determinado para a compensação das perdas na malha de
+transmissão, bem como de compensações de variações na geração das usinas termelétricas que os
+sistemas de controle de geração alocam nas usinas hidrelétricas, quando do processo de exportação.
+O montante adicional gerado nas usinas hidrelétricas deverá ser quantificado para que seja
+compensado em geração termelétrica posteriormente, sob instrução de despacho do ONS.
+(g) Exportação: energia oriunda de usinas termelétricas ou hidrelétricas destinada à exportação, em
+montantes que não comprometem a operação e a segurança do SIN.
+(h) Geração Fora da Ordem de Mérito de Custo por Substituição (GSUB): geração de uma usina térmica
+para gerar em substituição total ou parcial a outra usina térmica indicada por Ordem de Mérito de
+Custo que apresente restrição de combustível para atendimento de geração plena, conforme [2].
+(i) Unit commitment térmico: geração visando a representação das características de potência mínima e
+máxima; tempo de permanência ligado (T-ON); tempo de permanência desligado (T-OFF), rampas de
+acionamento e desligamento, rampas de tomada de carga (R-UP) e alívio de carga (R-DOWN), custos
+de produção (CVU), custos de parada e partida e custos por configuração.
+2.9. Validação elétrica e energética das propostas de programas de geração e intercâmbios
+compatibilizados
+Endereço na internet: http://www.ons.org.br 8 / 14
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação Diária da Operação 4.5 Procedimental 2025.02 01/03/2025
+2.9.1. O ONS analisa, sob o enfoque energético, os programas de geração de forma a verificar se foram
+cumpridas as diretrizes energéticas definidas para a proposta de programação de cada agente de operação
+envolvido.
+2.9.2. O ONS analisa, sob o enfoque elétrico, os programas de geração com base nos casos-base de fluxo de
+potência definidos nas diretrizes para a operação elétrica com horizonte mensal, conforme Submódulo 4.1,
+das intervenções informadas pelos agentes de operação envolvidos, contidas na programação das
+intervenções em instalações da Rede de Operação, conforme Submódulo 4.2, e atualiza a Rede de Operação
+para obter os casos de fluxo de potência relativos a todos os intervalos de 30 minutos do dia a ser
+programado.
+2.9.3. O ONS atualiza as simulações, com a utilização de um programa de análise de fluxo de potência,
+observando-se os seguintes aspectos:
+(a) limites de carregamento dos componentes do sistema;
+(b) limites de transmissão entre áreas e subsistema;
+(c) violações desses limites; e
+(d) configuração da rede.
+2.9.4. O ONS altera a programação energética, caso seja verificada a necessidade com base nos resultados
+obtidos na simulação, visando a adequação dos valores verificados aos limites de carregamentos e
+intercâmbios.
+2.9.4.1. Caso seja verificada alguma violação de limites de equipamentos e/ou das restrições associadas aos
+desligamentos programados de equipamentos do sistema de transmissão da Rede de Operação, o ONS
+informa ao agente responsável a retificação nos programas de geração e intercâmbio e/ou reprogramações
+das intervenções programadas.
+2.9.4.2. O agente responsável justifica ao ONS as impossibilidades de implementação das alterações
+propostas.
+2.10. Avaliação das ofertas de resposta da demanda no programa de curto prazo “D-1”
+2.10.1. O ONS recebe e analisa as ofertas confirmadas no dia anterior à execução, conforme descrito em
+rotina operacional no Submódulo 5.13 e em [5].
+2.10.2. O ONS avalia diariamente a necessidade de atendimento a ponta e programa as ofertas de redução
+de carga e/ou outros recursos disponíveis considerando o equilíbrio entre custo total e segurança da
+operação do recurso adicional.
+2.11.Composição do Programa Diário da Operação e disponibilização aos agentes envolvidos
+2.11.1. Após a consolidação da programação de geração, o ONS elabora o Programa Diário da Operação
+(PDO), composto pelo Programa Diário de Produção (PDP), o Programa Diário de Intervenções (PDI),
+Programa Diário de Defluências (PDF), Programa Diário de Carga e Frequência (PDCF), Recomendações e
+Diretrizes Eletroenergéticas (RDE), Informações Meteorológicas (INFMET) e Validação Elétrica da
+Programação Energética (VALIDAÇÃO) e os disponibiliza aos agentes envolvidos.
+2.11.1.1. O PDP contém as seguintes informações:
+(a) previsão de carga;
+(b) programa de geração, em intervalo de 30 minutos, das usinas hidrelétricas, termelétricas, eólicas,
+solares e de geração MMGD;
+Endereço na internet: http://www.ons.org.br 9 / 14
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação Diária da Operação 4.5 Procedimental 2025.02 01/03/2025
+(c) programa de defluência turbinada e vertida;
+(d) intercâmbio líquido, por agente de geração e de distribuição;
+(e) intercâmbios entre subsistemas, em que são consideradas as restrições relacionadas às
+intervenções nos Controles Automáticos de Geração (CAG);
+(f) manutenção de unidades geradoras hidrelétricas, termelétricas, eólicas e solares;
+(g) restrições operativas das usinas hidrelétricas, termelétricas, eólicas e solares;
+(h) folga de potência por usina;
+(i) balanço de energia, por agente de geração, distribuição, conjunto de usinas e de
+importação/exportação;
+(j) reserva de potência hidráulica e sua alocação, por Centro de Operação do Sistema – COSR;
+(k) diretrizes eletroenergéticas para a operação;
+(l) previsões de condições de carregamento do sistema para a Rede de Operação;
+(m)previsões das condições de transmissão entre áreas e subsistemas;
+(n) condições elétricas para o atendimento da demanda prevista;
+(o) motivos do despacho das usinas termelétricas classificadas nas modalidades de operação Tipo I e Tipo
+II-A; e
+(p) intercâmbios internacionais.
+(q) ofertas de redução de consumo aceitas no programa de curto prazo “D-1” de resposta da demanda.
+2.11.1.2. O PDI contém as seguintes informações:
+(a) instalações e equipamentos que serão submetidos a intervenções, com ou sem risco, ou a testes, com
+informação do período de realização do serviço e sua classificação, conforme estabelecido no
+Submódulo 4.2 e Submódulo 5.13 – Rotinas Operacionais;
+(b) diretrizes operativas para a execução das intervenções, com ou sem risco, ou dos testes;
+(c) limites de transmissão decorrentes das intervenções, com ou sem risco, ou dos testes; e
+(d) limitações no despacho de usinas em que são consideradas as restrições de geração e as restrições
+elétricas decorrentes das intervenções.
+2.11.1.3. O PDF contém as seguintes informações:
+(a) afluência média diária prevista por aproveitamento;
+(b) defluência total – turbinada e vertida – média diária programada, por aproveitamento; e
+(c) previsão, para o dia programado, do nível de armazenamento nos reservatórios dos aproveitamentos,
+considerando os requisitos de volumes de espera.
+(i) Durante o Período de Controle de Cheias (PPC), o ONS elabora a programação diária conforme
+o Submódulo 3.7 – Planejamento anual de prevenção de cheias.
+2.11.1.4. O PDCF contém a informações de reserva de potência hidráulica e sua alocação, por COSR.
+Endereço na internet: http://www.ons.org.br 10 / 14
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação Diária da Operação 4.5 Procedimental 2025.02 01/03/2025
+2.11.1.5. O RDE contém a informação das diretrizes normativas hidroeletroenergéticas que subsidiam a
+execução do PDP, do PDF e do PDCF e as diretrizes elétricas que subsidiam a operação de tempo real diante
+das condições operacionais verificadas ou previstas a curto prazo para o Sistema Interligado Nacional (SIN);
+2.11.1.6. O INFMET contém as informações meteorológicas previstas para o SIN.
+2.11.1.7. A validação contém as informações, a cada intervalo de 30 (trinta) minutos, de carregamento dos
+equipamentos elétricos da Rede de Operação, bem como os valores dos fluxos e inequações normatizados
+nas instruções e/ou recomendados nas intervenções, tendo por base a programação de geração e carga
+previstas para cada intervalo ao longo do dia.
+2.11.2. Caso seja verificado, em tempo real, fatos relevantes que possam impactar a programação
+eletroenergética do dia corrente ou do próximo dia, o ONS, quando julgar necessário, interage com os
+agentes envolvidos e providencia os ajustes nos seus programas de geração e intercâmbio e emite um
+Relatório de Revisão do PDO para os Centros de Operação do ONS procederem com os ajustes necessários
+na execução do PDO em tempo real.
+2.11.3. Durante a operação em tempo real, as condições operativas do sistema podem sofrer desvios em
+relação aos valores programados. O ONS analisa as variações ocorridas em relação aos valores programados
+de geração e intercâmbio, bem como as ocorrências nas usinas e no sistema de transmissão que impliquem
+restrições com consequências nas gerações e nos intercâmbios dos dias a serem programados.
+2.11.4. O ONS disponibiliza o PDO aos agentes, o qual deve estar disponível diariamente nas salas de controle
+dos centros de operação do ONS e dos demais agentes.
+3. REFERÊNCIAS
+[1] ANEEL. Despacho nº 3.572, de 17 de dezembro de 2019.
+[2] ANEEL. Resolução Normativa nº 1.033, de 26 de julho de 2022.
+[3] CNPE. Resolução nº 3 de 6 de março de 2013.
+[4] ONS-CEEE. Nota Técnica conjunta ONS-CCEE “Avaliação do aumento de tempo computacional no
+DESSEM”, (ONS NT-ONS DPL 0009/2023) (CCEE NT-CCEE 01310/2023).
+[5] ANEEL. Resolução Normativa nº 1.040, de 30 de agosto de 2022.
+4. ANEXOS
+ANEXO A – Informações encaminhadas pelos agentes para a elaboração da programação diária
+eletroenergética
+Endereço na internet: http://www.ons.org.br 11 / 14
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação Diária da Operação 4.5 Procedimental 2025.02 01/03/2025
+ANEXO A
+Informações encaminhadas pelos agentes para a elaboração da programação diária eletroenergética
+A.1. Agentes de geração hidrelétrica, eólica e solar
+(a) cronograma atualizado de manutenção dos equipamentos de geração, com identificação da usina, da
+unidade geradora e sua potência nominal, da causa, do dia e da hora de início e fim da manutenção e
+do tempo de retorno em caso de necessidade do SIN, em acordo com as informações disponibilizadas
+no processo de elaboração do programa de intervenções, estabelecido no Submódulo 4.2;
+(b) restrições operativas das usinas, com indicação de suas causas e do período de vigência;
+(c) produtividade média das usinas hidrelétricas;
+(d) caso solicitado, previsão dos níveis de armazenamento às 24h no dia de elaboração da programação;
+(e) restrições de variação máxima diária e horária da vazão defluente; e
+(f) defluência total em média diária e semi-horária.
+A.2. Agentes de geração termelétrica
+A.2.1. Informar diariamente os seguintes dados e informações integrantes do cadastro de representação do
+unit commitment por configuração:
+(a) cronograma atualizado de manutenção dos equipamentos de geração, com identificação da usina, da
+unidade geradora e sua potência nominal, da causa, do dia e da hora de início e fim da manutenção e
+do tempo de retorno em caso de necessidade do SIN, disponibilizadas no processo de elaboração do
+programa de intervenções, estabelecido no Submódulo 4.2;
+(b) restrições operativas das usinas que limitem a disponibilidade de potência das unidades geradoras,
+com indicação de suas causas e do período de vigência;
+(c) programas de geração inflexível das usinas termelétricas, em intervalos de 30 minutos, e os motivos
+associados;
+(d) configurações de unidades geradoras termelétricas sincronizadas que poderão ser consideradas para
+atendimento do despacho térmico ao longo do dia;
+(e) rampa de acionamento e desligamento das usinas termelétricas, para cada configuração de unidades
+geradoras informada no item A.2.1(d);
+A.2.2. Informar anualmente os seguintes dados e informações integrantes do cadastro de representação do
+unit commitment por configuração:
+(a) geração mínima e máxima;
+(b) tempo mínimo de permanência ligado (T-ON);
+(c) tempo mínimo de permanência desligado (T-OFF);
+Endereço na internet: http://www.ons.org.br 12 / 14
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação Diária da Operação 4.5 Procedimental 2025.02 01/03/2025
+(d) rampas de acionamento considerando tempo para sincronismo2 de unidades termelétricas que
+estejam desligadas;
+(e) rampa de desligamento das unidades termelétricas;
+(f) restrição de geração máxima ou mínima e número máximo permitido, ao longo do dia, de oscilações
+da geração do valor máximo para o mínimo da faixa operativa, e vice-versa;
+(g) rampas de tomada (R-UP) e alívio de carga (R-DOWN); e
+(h) rampas de transição entre equivalentes
+A.2.3 Agentes de geração responsáveis por usinas termelétricas, habilitados para a prestação de serviço
+ancilar de despacho complementar para manutenção da reserva de potência operativa, informam o preço e
+as restrições de operação.
+A.3. Agentes de distribuição
+(a) restrições elétricas locais que afetem ou possam afetar a geração de usinas hidrelétricas classificadas
+nas modalidades de operação Tipo I e Tipo II-B;
+(b) restrições elétricas locais que afetem ou possam afetar a geração de usinas termelétricas classificadas
+nas modalidades de operação Tipo I e Tipo II-A;
+(c) restrições elétricas locais que afetem ou possam afetar a geração de usinas classificadas na
+modalidade de operação Tipo II-C;
+(d) potencial de carga de demanda passível de ser reduzida e/ou desconectada de forma voluntária e/ou
+negociada de seu sistema, com tempo necessário de antecedência para iniciar o processo de
+desconexão;
+(e) tempo necessário para retorno das cargas reduzidas e/ou desconectadas de forma voluntária e/ou
+negociada; e
+A.4. Agente de geração Itaipu Binacional
+(a) cronograma atualizado de manutenção de equipamentos de geração, com identificação do setor de
+50 Hz ou 60 Hz, da unidade geradora e sua potência nominal, da causa, do dia e da hora de início e
+fim da manutenção e do tempo de retorno em caso de necessidade do SIN;
+(b) restrições operativas da usina que limitem a disponibilidade de potência das unidades geradoras;
+(c) valores mínimos e/ou máximos de geração por setor, considerando as restrições operativas e as
+contingências;
+(d) valor da potência contratada com as entidades compradoras;
+2 Trata-se de interstício de tempo que, do ponto de vista da modelagem do DESSEM, constituí o início do processo
+para acionamento para o atingimento do patamar mínimo de geração. Dessa forma, deve ser parte integrante da
+parametrização correspondente à rampa de acionamento.
+Endereço na internet: http://www.ons.org.br 13 / 14
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação Diária da Operação 4.5 Procedimental 2025.02 01/03/2025
+(e) previsão de potência disponível programável na usina, por setor, em intervalos de 30 minutos para o
+sistema brasileiro;
+(f) suprimentos previstos de energia e demanda para a Administración Nacional de Electricidad – ANDE;
+e
+(g) faixas operativas por setor, em função do número de unidades geradoras sincronizadas.
+A.5. Agentes de importação e agentes de exportação
+(a) Para a elaboração do programa diário da operação eletroenergética, o ONS toma por base os critérios
+descritos no Submódulo 5.13 – Rotinas Operacionais.
+A.6. Consumidores e agregadores participantes do programa de curto prazo “D-1” de resposta da demanda
+(b) dia(s) da semana da oferta;
+(c) submercado do consumidor;
+(d) volume da oferta, em MW;
+(e) preço da oferta, em R$/MWh;
+(f) período de redução da oferta, conforme grade horária disponibilizada pelo ONS;
+(g) perfil conforme detalhado em rotina operacional descrita no Submódulo 5.13;
+(h) número do ativo da unidade consumidora; e
+(i) barramento da Rede de Simulação do ONS no qual a carga do consumidor encontra-se diretamente
+ou indiretamente conectado.
+Endereço na internet: http://www.ons.org.br 14 / 14

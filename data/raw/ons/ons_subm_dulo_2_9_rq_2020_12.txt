@@ -1,0 +1,564 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 2.9-RQ_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 2.9-RQ_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 2.9
+Requisitos mínimos de qualidade de
+energia elétrica para acesso ou
+integração à Rede Básica
+Requisitos
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de qualidade de energia
+2.9 Requisitos 2020.12 01/01/2021
+elétrica para acesso ou integração à Rede Básica
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. REQUISITOS PARA OS EQUIPAMENTOS DE MEDIÇÃO.......................................................................3
+3. REQUISITOS DE DESEMPENHO QUANTO AOS INDICADORES DE QEE................................................4
+3.1. Indicadores de continuidade de serviço........................................................................................4
+3.2. Indicadores de frequência.............................................................................................................5
+3.3. Indicadores de tensão de atendimento em regime permanente.................................................5
+3.4. Indicadores de desempenho da flutuação, desequilíbrio e distorção harmônica de tensão........6
+3.4.1. Requisitos gerais..........................................................................................................6
+3.4.2. Flutuação de tensão....................................................................................................7
+3.4.3. Desequilíbrio de Tensão..............................................................................................8
+3.4.4. Distorção Harmônica de Tensão..................................................................................9
+3.5. Indicadores de Variação de Tensão de Curta Duração – VTCD...................................................10
+4. AVALIAÇÃO DO IMPACTO DE INSTALAÇÃO QUE CONTENHA ELEMENTO NÃO LINEAR OU ESPECIAL
+EM PROCESSO DE ACESSO OU DE INTEGRAÇÃO À REDE BÁSICA QUANTO A QEE............................11
+4.1. Individualização de instalação não linear ou especial para avaliação de desempenho..............11
+4.2. Estudos para avaliação de desempenho quanto a QEE..............................................................11
+4.3. Campanha de medição para avaliação de desempenho quanto a QEE......................................11
+4.4. Sistema de monitoração contínua...............................................................................................12
+4.5. Desempenho harmônico de elementos não lineares integrantes da Rede Básica, como
+compensador estático (CER).......................................................................................................13
+4.5.1. Aspectos gerais..........................................................................................................13
+4.5.2. Avaliação do desempenho harmônico......................................................................14
+4.5.3. Avaliação do rating dos filtros...................................................................................14
+4.5.4. Critério N-1 para filtros..............................................................................................15
+5. REFERÊNCIAS.................................................................................................................................15
+Endereço na internet: http://www.ons.org.br 2 / 15
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de qualidade de energia
+2.9 Requisitos 2020.12 01/01/2021
+elétrica para acesso ou integração à Rede Básica
+1. OBJETIVO
+1.1. Apresentar os requisitos a serem atendidos por instalações que contenham elementos cujas
+características não lineares ou especiais possam vir a ocasionar distorções relativas à Qualidade de Energia
+Elétrica (QEE) na Rede Básica.
+2. REQUISITOS PARA OS EQUIPAMENTOS DE MEDIÇÃO
+2.1. O desempenho do instrumento de medição utilizado no processo de apuração dos indicadores deve ser
+compatível com equipamento classe A de norma IEC[1], bem como seguir o estabelecido nas publicações
+listadas a seguir, o que deve ser comprovado segundo critérios a serem estabelecidos pelo Operador Nacional
+do Sistema Elétrico – ONS:
+(a) Flutuação de tensão: norma IEC [2]; e
+(b) Distorção harmônica de tensão: norma IEC [3].
+2.2. Não obstante o estabelecido no item 2 deste submódulo, a adequação do desempenho dos
+equipamentos de medição e transdutores pode ser avaliada, a critério do ONS, por meio de testes em
+laboratório. Além disso, os instrumentos a serem usados na campanha de medição devem estar calibrados,
+sendo que o período entre a última calibração e a data da campanha de medição deverá ser inferior a dois
+anos. O certificado de calibração deverá ser emitido por laboratório credenciado pelo INMETRO ou outro
+órgão certificador internacional. O referido certificado deverá ser anexado ao relatório da medição.
+2.3. Podem ser utilizados módulos específicos de QEE nos medidores do Sistema de Medição para
+Faturamento (SMF), como estabelecido no Submódulo 2.14 – Requisitos mínimos para Sistemas de Medição
+para Faturamento. Tais módulos devem registrar as grandezas elétricas necessárias para o cálculo dos
+indicadores de QEE estabelecidos no presente submódulo relativos à tensão de atendimento em regime
+permanente e Variação de Tensão de Curta Duração (VTCD). Podem ainda registrar as grandezas elétricas
+necessárias para o cálculo dos indicadores de QEE estabelecidos no Submódulo 9.7 – Indicadores de
+qualidade de energia elétrica da Rede Básica relativos à flutuação de tensão, desequilíbrio de tensão e
+distorção harmônica de tensão.
+2.3.1. A apuração dos valores dos indicadores se faz através de procedimentos e métodos de medição que
+neste documento nomeia-se por "protocolos de medição". Dentre outros aspectos, os protocolos de medição
+incluem parâmetros tais como: taxa de amostragem do sinal medido e a resolução da conversão
+analógica/digital, tipo e intervalo de janela para cálculo de valores eficazes de tensão, critérios de
+detecção/disparo (trigger) e reset para registro de VTCD.
+2.3.2. Os agentes devem informar os protocolos de medição utilizados pelos equipamentos de medição
+adotados.
+2.3.3. Os arquivos de saída devem ser apresentados em linguagem XML com caracteres ASCII.
+2.3.4. No que se refere à tensão de atendimento em regime permanente, deve ser disponibilizado o valor
+da tensão eficaz, fase-neutro, para cada fase, em intervalos de integração programáveis de 5 (cinco) a 60
+(sessenta) minutos. Esse valor deve resultar da média quadrática dos valores apurados a partir de janelas
+consecutivas ao longo de todo esse intervalo.
+2.3.5. No que se refere à monitoração de VTCD, devem ser disponibilizadas as seguintes informações:
+instante de ocorrência do fenômeno, amplitude da tensão correspondente ao máximo desvio de cada fase e
+valor instantâneo (forma de onda) das três tensões fase-neutro por um intervalo de tempo suficiente para
+Endereço na internet: http://www.ons.org.br 3 / 15
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de qualidade de energia
+2.9 Requisitos 2020.12 01/01/2021
+elétrica para acesso ou integração à Rede Básica
+permitir a determinação da duração do fenômeno. A lógica de disparo para detecção deve ser baseada em
+limites configuráveis de amplitude de tensão (valor eficaz da tensão), em função de um valor de referência
+fixo.
+2.3.6. No que se refere à monitoração de flutuação de tensão, desequilíbrio de tensão e distorção harmônica
+de tensão, devem ser disponibilizadas as informações especificadas pelo ONS para a campanha de medição.
+2.3.7. Para atender aos requisitos para avaliação da QEE, os medidores devem apresentar taxa de
+amostragem de pelo menos 16 amostras por ciclo e conversor A/D (Analógico/Digital) de pelo menos 12 bits.
+2.3.8. Medidores específicos de QEE devem ser instalados em barramentos sob responsabilidade de
+concessionárias de transmissão de energia elétrica indicados pelo ONS, desde que não haja SMF instalado
+nesse barramento que contemple o indicador a ser monitorado. Caso o arranjo da subestação seja tal que
+barramentos de mesmo nível de tensão possam operar, permanentemente, de forma independente, deverá
+ser instalado um medidor de QEE em cada segmento de barramento correspondente.
+3. REQUISITOS DE DESEMPENHO QUANTO AOS INDICADORES DE QEE
+3.1. Indicadores de continuidade de serviço
+3.1.1. A Qualidade de Energia Elétrica (QEE) quanto à continuidade do serviço, cujos requisitos estão
+estabelecidos neste submódulo, é monitorada em pontos de controle e representada pelos indicadores DIPC,
+FIPC, DMIPC e FMIPC definidos no Submódulo 9.7 e gerenciada conforme estabelecido no Submódulo 6.15 –
+Gerenciamento da qualidade da energia elétrica da Rede Básica.
+3.1.2. Os valores de referência dos indicadores de continuidade, são estabelecidos pelo ONS a partir de
+cálculos preditivos de desempenho dos pontos de controle. Nesses cálculos preditivos, são considerados
+diversos fatores de influência, entre os quais o tipo de arranjo de barramento, o tipo e o número de
+instalações conectadas ao ponto de controle, as características da proteção efetivamente instalada, bem
+como os valores históricos apurados para os indicadores.
+3.1.3. A avaliação do desempenho de um determinado ponto de controle deve ser realizada através da
+comparação dos indicadores de desempenho DIPC histórico e DIPC anual, FIPC histórico e FIPC anual, DMIPC
+histórico e DMIPC anual com os valores de DIPC referência, FIPC referência e DMIPC referência,
+respectivamente.
+3.1.4. Os indicadores DIPC anual e FIPC anual, para cada ponto de controle, correspondem aos valores de
+DIPC e FIPC acumulados em um período consecutivo de 12 (doze) meses no ponto de controle. O indicador
+DMIPC anual, para cada ponto de controle, corresponde ao maior valor de DMIPC observado nesse período
+consecutivo de 12 (doze) meses no ponto de controle. Esses indicadores avaliam a dinâmica evolutiva de
+curto prazo do desempenho do ponto de controle.
+3.1.5. Os indicadores DIPC histórico e FIPC histórico correspondem à média anualizada dos valores DIPC e
+FIPC acumulados ao longo de todo o período de apuração do desempenho do ponto de controle. O indicador
+DMIPC histórico corresponde à média anualizada dos maiores valores de DMIPC observados nesse período
+de apuração do desempenho do ponto de controle. Esses indicadores retratam a dinâmica evolutiva de longo
+prazo do desempenho do ponto de controle.
+3.1.6. Os valores de DIPC referência, FIPC referência e DMIPC referência são determinados a partir de
+simulação preditiva ou do desempenho histórico do ponto de controle. Na simulação, são considerados os
+seguintes parâmetros que influenciam no desempenho do ponto de controle e são obtidos a partir de dados
+apurados pelo ONS e/ou fornecidos pelos agentes:
+(a) taxa de falha de equipamentos;
+Endereço na internet: http://www.ons.org.br 4 / 15
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de qualidade de energia
+2.9 Requisitos 2020.12 01/01/2021
+elétrica para acesso ou integração à Rede Básica
+(b) configuração de barra; e
+(c) tempos de indisponibilidade para manobra e reparo de equipamentos.
+3.1.7. Esses indicadores estabelecem o desempenho médio de longo prazo do ponto de controle e se
+mantêm inalterados até que se altere algum parâmetro utilizado na sua determinação ou alguma
+característica da instalação.
+3.2. Indicadores de frequência
+3.2.1. A QEE quanto à frequência, cujos requisitos estão estabelecidos no presente submódulo, é
+representada pelos indicadores de frequência em regime permanente e durante distúrbios, DFP e DFD,
+respectivamente, definidos no Submódulo 9.7, e gerenciada conforme estabelecido no Submódulo 6.15.
+3.2.2. Em condições normais de variação de carga, em regime permanente, os desvios da frequência
+instantânea (valores absolutos sem integralização) em relação ao valor nominal não poderão exceder a +/-
+0,1 Hz.
+3.2.3. O indicador DFP deve ser igual ou superior a 99% a cada dia, portanto não deve apresentar mais que
+14 valores da integral do desvio de frequência superior a 0,1 Hz.min a cada dia (1% dos 1440 minutos do dia).
+3.2.4. O indicador DFD deve ser contabilizado para o período de 1 (um) ano, e ser inferior ou igual aos limites
+apresentados na Tabela 1.
+Tabela 1– Limites para avaliação do desempenho da frequência durante distúrbios
+Tempo acumulado máximo de
+DFD
+exposição a desvios de frequência (seg)
+f > 66,0 Hz 0
+63,5 Hz  f  66,0 Hz 30,0
+62,0 Hz  f  63,5 Hz 150,0
+60,5 Hz  f  62,0 Hz 270,0
+58,5 Hz  f  59,5 Hz 390,0
+57,5 Hz  f  58,5 Hz 45,0
+56,5 Hz  f  57,5 Hz 15,0
+f < 56,5 Hz 0
+3.3. Indicadores de tensão de atendimento em regime permanente
+3.3.1. A QEE quanto à tensão de atendimento em regime permanente, cujos requisitos são estabelecidos no
+presente submódulo, é representada pelos indicadores DRP e DRC definidos no Submódulo 9.7 e gerenciada
+conforme estabelecido no Submódulo 6.15.
+3.3.2. O desempenho da tensão de atendimento em regime permanente em base mensal é avaliado a partir
+da comparação dos indicadores DRP e DRC com os seguintes valores de referência:
+(a) Duração Relativa da Transgressão Máxima de Tensão Precária (DRPM), estabelecida como 3%; e
+Endereço na internet: http://www.ons.org.br 5 / 15
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de qualidade de energia
+2.9 Requisitos 2020.12 01/01/2021
+elétrica para acesso ou integração à Rede Básica
+(b) Duração Relativa da Transgressão Máxima de Tensão Crítica (DRCM), estabelecida como 0,5%.
+3.3.3. Deve ser classificado como crítico o desempenho no ponto de observação que apresentar,
+simultaneamente, no período mensal, valores dos indicadores DRP e DRC superiores aos valores de
+referência DRPM e DRCM, respectivamente.
+3.4. Indicadores de desempenho da flutuação, desequilíbrio e distorção harmônica de tensão
+3.4.1. Requisitos gerais
+3.4.1.1. Em solicitações de acesso de agentes de geração, distribuição, importação/exportação e
+consumidores cujas instalações contenham elementos não lineares ou especiais que possam comprometer
+o desempenho da Rede Básica, devem ser realizadas análises fundamentadas em indicadores de QEE. O
+mesmo tratamento deve ser dado às integrações de novas instalações da Rede Básica que apresentem
+característica não linear. Nesses casos, os fenômenos de flutuação, desequilíbrio e distorção harmônica de
+tensão são os de maior interesse. Esse processo está detalhado no Submódulo 7.8 – Avaliação do impacto
+do acesso ou integração à Rede Básica de instalações que contenham elementos não lineares ou especiais.
+3.4.1.2. Deve ser realizado monitoramento contínuo ou por meio campanhas de medição, a partir de sistema
+de medição instalado pelo agente.
+3.4.1.3. Deve ser realizado monitoramento contínuo no Ponto de Acoplamento Comum (PAC) onde o
+desempenho de elementos não lineares ou especiais implique a ocorrência de valores expressivos de
+flutuação, desequilíbrio e distorção harmônica de tensão.
+3.4.1.4. Os resultados da apuração devem ser apresentados ao ONS, em formato e prazo estabelecidos nos
+Submódulos 6.15 e 7.8.
+3.4.1.5. Os limites de desempenho estabelecidos neste submódulo devem ser obedecidos no PAC, tanto
+pelas instalações que contenham elementos não lineares ou especiais dos agentes que se conectam às
+instalações sob responsabilidade de concessionária de transmissão como pelas instalações de transmissão
+com característica não linear. Tais limites devem ser respeitados em todos os modos de operação possíveis,
+ou seja, tanto em operação normal como degradada. Como exemplo de operação degradada, pode-se citar,
+no caso de instalações conversoras, a situação em que alguma ponte conversora do conjunto esteja fora de
+serviço, seja por manutenção seja por defeito. Nesse caso, via de regra, perde-se a compensação entre
+harmônicas resultantes de pontes alimentadas por tensões com diferentes ângulos de defasamento.
+3.4.1.6. Para os agentes de distribuição, aplicam-se os requisitos de medição estabelecidos no item 4.3 deste
+submódulo, com as seguintes particularidades:
+(a) tais requisitos têm caráter obrigatório para cada agente de distribuição que se conecte a um
+barramento localizado em uma subestação sob responsabilidade de concessionária de transmissão;
+(b) nos demais casos, o ONS deve avaliar, com base nas peculiaridades de cada conexão, se há
+necessidade de medição; e
+(c) caso as medições indiquem violação dos limites globais, o ONS deve coordenar processo para
+determinação das causas da violação por meio de estudos e/ou medições adicionais.
+3.4.1.7. Para os agentes de geração, aplicam-se os requisitos de estudo e medição estabelecidos,
+respectivamente, nos itens 4.2 e 4.3 deste submódulo, com as seguintes particularidades:
+(a) tais requisitos têm caráter obrigatório para instalações de geração que:
+(1) tenham unidade geradora do tipo eólica/solar fotovoltaica; ou
+Endereço na internet: http://www.ons.org.br 6 / 15
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de qualidade de energia
+2.9 Requisitos 2020.12 01/01/2021
+elétrica para acesso ou integração à Rede Básica
+(2) utilizem unidade cicloconversora auxiliar para partida da turbina.
+(b) Nos demais casos, o ONS deve avaliar, com base nas peculiaridades de cada conexão, se há
+necessidade de medição.
+3.4.1.8. Para os agentes de transmissão, aplicam-se os requisitos de medição estabelecidos no item 4.3 deste
+submódulo, com as seguintes particularidades:
+(a) tais requisitos têm caráter obrigatório para instalações de transmissão que contenham elementos não
+lineares como os compensadores estáticos e sistemas de corrente contínua em alta tensão.
+3.4.1.9. Para a avaliação do desempenho da Rede Básica quanto aos fenômenos de flutuação, desequilíbrio
+e distorção harmônica de tensão são dois os limites de desempenho global: limite global inferior e limite
+global superior.
+3.4.1.10. O limite de desempenho individual corresponde ao valor máximo de perturbação que pode ser
+causado no sistema por um único agente.
+3.4.1.11. A avaliação do desempenho global é realizada por meio da comparação dos valores dos indicadores
+obtidos através de processo de apuração, por fase, com os valores dos limites globais inferior e superior
+desses indicadores, quando aplicável. Para a avaliação do desempenho, adota-se o seguinte procedimento:
+(a) quando o valor apurado do indicador for menor ou igual ao limite global inferior, o desempenho é
+considerado adequado;
+(b) quando o valor apurado do indicador encontra-se entre os limites globais inferior e superior, o
+desempenho é considerado em estado de observação; e
+(c) quando o valor apurado do indicador for maior que o limite global superior, o desempenho é
+considerado inadequado.
+3.4.1.12. A QEE quanto à flutuação, desequilíbrio e distorção harmônica, cujos requisitos estão estabelecidos
+no presente submódulo, é representada por indicadores definidos no Submódulo 9.7 e gerenciada conforme
+estabelecido no Submódulo 6.15.
+3.4.2. Flutuação de tensão
+3.4.2.1. Aspectos gerais
+3.4.2.1.1. O desempenho da Rede Básica quanto à flutuação de tensão é avaliado a partir da comparação
+dos indicadores PstD95% e PltS95% com os respectivos limites global e individual.
+3.4.2.1.2. Os limites globais, obtidos por meio de campanhas de medição, aplicam-se ao PAC. Da mesma
+forma, aplicam-se também ao PAC os limites individuais, os quais são determinados por meio de cálculos
+específicos para cada instalação que contenha equipamentos com características não lineares ou especiais
+que produzam tais efeitos.
+3.4.2.2. Limites globais
+3.4.2.2.1. Os limites globais inferior e superior, considerados para avaliar a qualidade da tensão quanto à
+flutuação de tensão, estão apresentados na Tabela 2. Esses valores são expressos em função dos limites
+globais para tensão secundária de distribuição (220 V ou 127 V) e da atenuação esperada quando a flutuação
+de tensão se propaga para os barramentos da rede secundária de distribuição.
+3.4.2.2.2. FT é o fator de transferência aplicável entre o barramento sob responsabilidade de concessionária
+de transmissão sob avaliação e o barramento da rede secundária de distribuição eletricamente mais próximo.
+Endereço na internet: http://www.ons.org.br 7 / 15
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de qualidade de energia
+2.9 Requisitos 2020.12 01/01/2021
+elétrica para acesso ou integração à Rede Básica
+FT é calculado pela relação entre o valor do PltS95% do barramento sob avaliação e o valor do PltS95% do
+barramento da rede secundária de distribuição. No caso de os FT entre os barramentos envolvidos não terem
+sido medidos, os FT apresentados na Tabela 3 devem ser aplicados para a avaliação da flutuação de tensão
+nos barramentos sob responsabilidade de concessionária de transmissão.
+3.4.2.2.3. Os limites globais apresentados na Tabela 3 foram estabelecidos com a premissa de que o limite
+global inferior para as tensões secundárias nos sistemas de distribuição (220 V ou 127V) é 1 pu. Caso esse
+limite seja alterado, por determinação da ANEEL, os valores estabelecidos devem ser revisados.
+Tabela 2 – Limites globais para os indicadores de flutuação de tensão
+Limite PstD95% PltS95%
+1pu 0,8pu
+Limite global inferior
+FT FT
+2pu 1,6pu
+Limite global superior
+FT FT
+Tabela 3 – Fatores de transferência, em função da tensão nominal de barramento sob responsabilidade de
+concessionária de transmissão.
+Tensão Nominal do barramento (kV) Fator de Transferência
+Tensão Nominal  230 kV FT = 0,65
+69 kV  Tensão Nominal  230 kV FT = 0,8
+Tensão Nominal  69 kV FT = 1,0
+3.4.2.3. Limites individuais
+3.4.2.3.1. Os limites individuais de flutuação de tensão, que consideram um nível de saturação de 80% dos
+limites globais inferiores estabelecidos na Tabela 2, estão indicados na Tabela 4.
+Tabela 4 – Limites individuais para os indicadores de flutuação de tensão
+PstD95% PltS95%
+0,8pu 0,6pu
+FT FT
+3.4.3. Desequilíbrio de Tensão
+3.4.3.1. Aspectos gerais
+3.4.3.1.1. O desempenho da Rede Básica quanto ao desequilíbrio de tensão é avaliado a partir da
+comparação do indicador KS95% com os limites global e individual.
+Endereço na internet: http://www.ons.org.br 8 / 15
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de qualidade de energia
+2.9 Requisitos 2020.12 01/01/2021
+elétrica para acesso ou integração à Rede Básica
+3.4.3.1.2. Os limites globais, obtidos por meio de campanha de medição, aplicam-se ao PAC. Da mesma
+forma, aplicam-se também ao PAC os limites individuais, determinados por meio de cálculos específicos para
+cada instalação que contenha equipamentos com características que produzam tais efeitos.
+3.4.3.1.3. Caso as tensões de sequência negativa variem de forma intermitente e repetitiva, é permitido
+ultrapassar os limites especificados em até o dobro, desde que a duração cumulativa das tensões de
+sequência negativa, acima dos limites contínuos estabelecidos, não ultrapasse 5% do período de
+monitoração.
+3.4.3.2. Limite global
+3.4.3.2.1. O limite global é de:
+KS95% 2%
+3.4.3.3. Limite individual
+3.4.3.3.1. O limite individual é de:
+KS95% 1,5%
+3.4.4. Distorção Harmônica de Tensão
+3.4.4.1. Aspectos gerais
+3.4.4.1.1. O desempenho da Rede Básica quanto à distorção harmônica de tensão é avaliado a partir da
+comparação dos indicadores DTHI e DTHTS95% com os respectivos limites global e individual.
+3.4.4.1.2. Os limites globais, obtidos por meio de campanhas de medição, aplicam-se ao PAC. Da mesma
+forma, aplicam-se também ao PAC os limites individuais, determinados por meio de cálculos específicos para
+cada instalação que contenha equipamentos com características que produzam tais efeitos.
+3.4.4.2. Limites globais
+3.4.4.2.1. Os limites globais inferiores para os indicadores DTHI e DTHTS95% estão apresentados na Tabela
+5.
+3.4.4.2.2. Os limites globais superiores são determinados pela multiplicação dos limites globais inferiores
+correspondentes pelo fator 4/3. Por exemplo, os limites globais superiores relativos aos indicadores
+DTHTS95% para V< 69 kV e V  69 kV são, respectivamente, 8% e 4%.
+3.4.4.2.3. Para cada ordem harmônica h, a tensão harmônica resultante em qualquer ponto do sistema é
+obtida com a combinação dos efeitos provocados por diferentes agentes.
+Endereço na internet: http://www.ons.org.br 9 / 15
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de qualidade de energia
+2.9 Requisitos 2020.12 01/01/2021
+elétrica para acesso ou integração à Rede Básica
+Tabela 5 – Limites globais inferiores para os indicadores DTHI e DTHTS95%
+V < 69 kV V  69 kV
+DTHI, h ímpar DTHI, h par DTHI, h ímpar DTHI, h par
+Valor
+Ordem Valor (%) Ordem Ordem Valor (%) Ordem Valor (%)
+(%)
+3, 5, 7 5% 3, 5, 7 2%
+2, 4, 6 2% 2, 4, 6 1%
+9, 11, 13 3% 9, 11, 13 1,5%
+8 1% 8 0,5%
+15 a 25 2% 15 a 25 1%
+27 1% 27 0,5%
+DTHTS95% = 6% DTHTS95% = 3%
+3.4.4.3. Limites individuais
+3.4.4.3.1. Os limites individuais para os indicadores DTHI e DTHTS95% estão apresentados na Tabela 6.
+Tabela 6 – Limites individuais para os indicadores DTHI e DTHTS95%
+13,8 kV  V  69 kV V  69 kV
+DTHI, h ímpar DTHI, h par DTHI, h ímpar DTHI, h par
+Ordem Valor (%) Ordem Valor (%) Ordem Valor (%) Ordem Valor (%)
+3 a 25 1,5% 3 a 25 0,6%
+todos 0,6% todos 0,3%
+27 0,7% 27 0,4%
+DTHTS95% = 3% DTHTS95% = 1,5%
+3.5. Indicadores de Variação de Tensão de Curta Duração – VTCD
+3.5.1. A esse fenômeno não são atribuídos limites de referência, de acordo com a experiência internacional.
+O ONS, através de processo de apuração e gerenciamento, detalhado no Submódulo 6.15, acompanhará e
+divulgará o desempenho dos pontos de observação da tensão e dos barramentos sob responsabilidade de
+concessionária de transmissão com base nos indicadores supracitados.
+Endereço na internet: http://www.ons.org.br 10 / 15
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de qualidade de energia
+2.9 Requisitos 2020.12 01/01/2021
+elétrica para acesso ou integração à Rede Básica
+4. AVALIAÇÃO DO IMPACTO DE INSTALAÇÃO QUE CONTENHA ELEMENTO NÃO LINEAR OU ESPECIAL EM
+PROCESSO DE ACESSO OU DE INTEGRAÇÃO À REDE BÁSICA QUANTO A QEE
+4.1. Individualização de instalação não linear ou especial para avaliação de desempenho
+4.1.1. As instalações que contenham elementos não lineares ou especiais que se conectam às instalações
+sob responsabilidade de concessionária de transmissão, diretamente ou através de um sistema de
+transmissão de uso exclusivo, compartilhado ou não, devem ser tratadas de forma individual, no que diz
+respeito à avaliação no PAC do seu desempenho quanto à QEE. No caso de expansão da instalação existente,
+tanto os estudos como as campanhas de medição devem ser atualizados considerando a instalação como um
+todo, ou seja, a instalação existente acrescida de sua expansão.
+4.1.2. No caso em que centrais de geração eólica/solar fotovoltaica tenham obtido junto a ANEEL autorização
+para compartilhamento de suas instalações de interesse restrito com outras centrais geradoras de mesma
+fonte, tais centrais serão caracterizadas como uma única instalação individual, no que diz respeito à avaliação
+do seu desempenho quanto à QEE. O mesmo se aplica a consumidores que venham a compartilhar
+instalações de interesse restrito, como, por exemplo, subestação abaixadora.
+4.2. Estudos para avaliação de desempenho quanto a QEE
+4.2.1. Estudos de QEE tratam, em geral, das avaliações de desempenho quanto à flutuação, desequilíbrio e
+distorção harmônica de tensão no PAC. Observa-se que, em função dos resultados obtidos pelos estudos,
+podem ser solicitados procedimentos complementares de medição, durante as campanhas de medição
+tratadas no item 4.3 deste submódulo.
+4.2.2. Os requisitos de distorção harmônica de tensão devem ser atendidos para qualquer valor de
+impedância que pertença ao Lugar Geométrico representativo da rede externa, como detalhado no
+Submódulo 2.3 – Premissas, critérios e metodologias para estudos elétricos.
+4.3. Campanha de medição para avaliação de desempenho quanto a QEE
+4.3.1. As campanhas de medição de tensão têm por objetivo apurar os valores dos indicadores de flutuação,
+desequilíbrio e distorção harmônica de tensão no PAC.
+4.3.2. Dependendo das características da instalação e da sua conexão, também devem ser medidos valores
+de correntes harmônicas obtidos através de campanha de corrente. Essas correntes harmônicas são obtidas
+na saída dos aerogeradores e dos inversores das células fotovoltaicas. As medições de corrente,
+especificamente para parques eólicos e solares fotovoltaicos deverão ser realizadas de acordo com os
+requisitos estabelecidos por norma IEC [4]. Quanto aos equipamentos elétricos com características não
+lineares dos consumidores livres, os valores de correntes harmônicas podem ser obtidos para uma verificação
+de sobrecarga, por exemplo e, por conseguinte, no dimensionamento final proposto para os filtros de
+correntes harmônicas do empreendimento.
+4.3.3. Uma campanha de medição de tensão deve ter duração de 7 (sete) dias consecutivos, de acordo com
+protocolo de apuração estabelecido para o indicador em análise, considerando os valores dos indicadores
+integralizados em intervalos de 10 (dez) minutos. Entretanto, quando a campanha de medição for realizada
+para a conexão de agente de geração, com fonte eólica/solar fotovoltaica, esse período pode ser estendido,
+em função de sua característica de operação.
+4.3.4. A campanha de corrente, por sua vez, tem por finalidade permitir reavaliar o estudo de desempenho
+da instalação quanto à distorção harmônica de tensão e é realizada somente para parques eólicos e solares
+fotovoltaicos, com as seguintes particularidades:
+Endereço na internet: http://www.ons.org.br 11 / 15
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de qualidade de energia
+2.9 Requisitos 2020.12 01/01/2021
+elétrica para acesso ou integração à Rede Básica
+(a) As correntes harmônicas no caso de parques eólicos devem ser medidas em uma unidade geradora
+representativa de cada central geradora eólica; e
+(b) As correntes harmônicas, no caso de parques solares fotovoltaicos, devem ser medidas em uma
+unidade fotovoltaica (inversor alimentado por um conjunto de células fotovoltaicas) representativa
+de cada usina geradora fotovoltaica.
+4.3.5. Outra campanha a ser realizada para parques eólicos e solares fotovoltaicos é a de monitoramento
+dos níveis de distorções harmônicas de tensão, enquanto o(s) filtro(s) proposto(s) para determinada
+instalação ainda não tiver (tiverem) sido efetivamente instalado(s).
+4.3.6. A campanha de monitoramento deve perdurar até a instalação definitiva do filtro ou até que seja
+justificado por meio de um estudo revisado com as correntes medidas que a instalação do filtro pode ser
+dispensada.
+4.3.7. No caso de instalações que contenham elementos não lineares ou especiais com regime de operação
+definido, como, por exemplo, mineradoras, siderúrgicas, compensadores estáticos etc., a campanha de
+medição deve atender aos seguintes requisitos:
+(a) ser realizada imediatamente antes (pré-tensão) e após a entrada (pós-tensão) em operação da
+instalação e a cada implemento no patamar de demanda de carga da instalação por um período de 7
+(sete) dias consecutivos, incluindo a apuração dos indicadores de tensão listados no item 4.3. deste
+submódulo; e
+(b) medir os valores de correntes harmônicas geradas pelos dispositivos não lineares da instalação com
+maior capacidade de potência, por períodos que englobem o seu ciclo de regime de operação
+nominal, quando da necessidade de realização de um estudo de desempenho harmônico.
+4.3.8. No caso de instalação de geração eólica e solar fotovoltaica, tendo em vista que o impacto da sua
+operação na QEE do PAC depende do regime de ventos ou da irradiância solar da região onde se encontra
+instalada, a campanha a ser realizada após a entrada em operação da instalação deve atender aos seguintes
+requisitos:
+(a) a data de início da campanha de medição pós-tensão (após entrada em operação do complexo eólico
+ou solar fotovoltaico) e a sua duração (mínima de 7 (sete) dias), poderão ser postergadas/estendidas
+considerando os seguintes fatores:
+(1) pelo menos noventa por cento das unidades geradoras que compõem o complexo eólico ou solar
+fotovoltaico devem estar em operação ao longo de todo o período de medição; e
+(2) a produção do complexo eólico ou solar fotovoltaico, durante o período de medição, deverá
+corresponder, no mínimo, àquela estabelecida pelo seu fator de capacidade.
+4.3.9. Esclarecimentos adicionais sobre os procedimentos de medição, tais como transdutores considerados
+adequados pelo ONS para a realização das campanhas, local e período de medição, recomendações práticas,
+formato de relatório e de arquivo para informação dos resultados das campanhas de medição etc. podem
+ser obtidos em [6].
+4.4. Sistema de monitoração contínua
+4.4.1. Caso nova instalação sob responsabilidade de concessionária de transmissão (sistemas CCAT,
+compensadores estáticos etc.) ou instalação que se conecte às instalações sob responsabilidade de
+concessionária de transmissão (parques eólicos, solares fotovoltaicos, cargas industriais etc.) apresente
+equipamentos com característica elétrica não linear, o agente responsável pela instalação que contenha
+elemento com característica não linear deve instalar sistema de medição para monitorar de forma contínua
+Endereço na internet: http://www.ons.org.br 12 / 15
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de qualidade de energia
+2.9 Requisitos 2020.12 01/01/2021
+elétrica para acesso ou integração à Rede Básica
+os indicadores de flutuação, desequilíbrio e distorção harmônica de tensão no PAC. Os equipamentos e
+métodos de medição devem estar de acordo com as diretrizes do ONS. O agente deve disponibilizar esses
+dados ao ONS, quando solicitado.
+4.4.2. Para a realização das campanhas de medição, algumas precauções devem ser observadas quanto ao
+nível de precisão dos tipos de transdutores de tensão utilizados, conforme estabelecido em norma [5];
+4.5. Desempenho harmônico de elementos não lineares integrantes da Rede Básica, como
+compensador estático (CER)
+4.5.1. Aspectos gerais
+4.5.1.1. A determinação do envelope de impedância harmônica da rede de corrente alternada (CA) deve
+considerar os diversos cenários de evolução da rede ao longo do período de concessão, nas configurações
+relativas aos patamares de carga leve, média e pesada. Cargas podem ser representadas, devendo-se,
+entretanto, demonstrar a adequação do modelo de carga adotado. A carga deve ser representada onde ela
+está concentrada, principalmente na distribuição primária. O envelope total pode ser subdividido em
+subenvelopes de harmônicos sucessivos. Além dos harmônicos do grupo, devem ser incluídos em cada
+subenvelope o harmônico imediatamente superior e imediatamente inferior às ordens harmônicas do grupo,
+com a finalidade de garantir a intersecção entre os conjuntos.
+4.5.1.2. Os envelopes de impedância harmônica devem ser determinados considerando-se a metodologia
+do setor circular (anular), ou seja, esses envelopes devem ser definidos pelos seus raios máximo e mínimo e
+ângulos máximo e mínimo, conforme Figura 1. Esses lugares geométricos devem ser submetidos à aprovação
+do ONS, antes de serem incluídos no contrato de fornecimento do CER, como forma de garantir que o projeto
+dos filtros se baseie em envelopes válidos.
+Figura 1 – Setor circular (anular) – Plano de admitâncias, com os vetores representativos da rede interna (Yih), da
+rede externa (Ybh) e do resultante Yhmin, visto do PAC.
+4.5.1.3. Deve ser considerada a necessidade de atendimento ao desempenho harmônico para as
+configurações de rede completa e (N-1) da rede CA.
+4.5.1.4. Os filtros devem ser dimensionados para que não haja necessidade de desligamento por overrating
+em condições operativas normal e de contingências simples (N-1) da rede externa.
+4.5.1.5. Deve-se manter, para todas as etapas de implementação do empreendimento do qual o CER faz
+parte, o desempenho harmônico estabelecido no presente submódulo. Devem ser consideradas, para o
+Endereço na internet: http://www.ons.org.br 13 / 15
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de qualidade de energia
+2.9 Requisitos 2020.12 01/01/2021
+elétrica para acesso ou integração à Rede Básica
+cálculo da distorção harmônica individual, as condições de máxima dessintonia dos filtros e as condições mais
+severas de geração de correntes harmônicas pelos TCR, condições essas ilustradas na Figura 2 a seguir.
+Figura 2 – Condições de máxima dessintonia dos filtros e condições mais severas de geração de correntes
+harmônicas pelos TCR
+4.5.1.6. Deve ser considerada a possibilidade de operação da rede CA com um desbalanço máximo de
+sequência negativa de 2,0%. Nos casos de filtros ativos ou passivos de sintonia automática, devem ser
+considerados os erros de controle.
+4.5.1.7. As correntes harmônicas nas linhas CA conectadas ao CER não devem produzir interferências acima
+dos limites das normas correspondentes nas linhas telefônicas que estejam em operação na data de
+comissionamento do CER.
+4.5.2. Avaliação do desempenho harmônico
+4.5.2.1. Os limites individuais de distorção harmônica a serem atendidos na conexão do CER devem atender
+aos limites individuais para Distorção de Tensão Harmônica Individual (DTHI) e Distorção de Tensão
+Harmônica Total (DTHTS95%) definidos neste submódulo. A Tabela 6 define os limites individuais de
+distorção harmônica a serem atendidos na conexão do CER, considerando o CER como o único gerador de
+harmônicos no ponto de conexão.
+4.5.3. Avaliação do rating dos filtros
+4.5.3.1. Para a definição do rating dos elementos dos filtros, o agente de transmissão deve avaliar as tensões
+harmônicas externas ao CER (background harmonics) que impliquem nos piores valores de corrente e tensão
+Endereço na internet: http://www.ons.org.br 14 / 15
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de qualidade de energia
+2.9 Requisitos 2020.12 01/01/2021
+elétrica para acesso ou integração à Rede Básica
+nos componentes dos filtros, respeitado os seguintes limites globais de Distorção de Tensão Harmônica Total
+(DTHT), com base nos valores limite globais apresentados na Tabela 5:
+(a) V < 69 kV: DTHTS95% ≤ 6%; ou
+(b) V ≥ 69 kV: DTHTS95% ≤ 3%.
+4.5.4. Critério N-1 para filtros
+4.5.4.1. A necessidade de instalação de filtros harmônicos e o desempenho da instalação deve ser avaliada
+por meio de estudos detalhados no Submódulo 2.3.
+4.5.4.2. Caso o agente proprietário proponha ao ONS operar também em condição degradada, sem por
+exemplo um dos filtros, o atendimento aos requisitos de desempenho harmônico no ponto de conexão nesta
+situação continuará obrigatório.
+5. REFERÊNCIAS
+[1] IEC, “Electromagnetic compatibility (EMC) - Part 4-30: Testing and measurement techniques -
+Power quality measurement methods”. IEC 61000-4-30.
+[2] IEC, “Electromagnetic compatibility (EMC) - Part 4-15: Testing and measurement techniques -
+Flickermeter - Functional and design specifications”. IEC 61000-4-15.
+[3] IEC, “Electromagnetic compatibility (EMC) – Part 4-7: Testing and measurement techniques –
+General guide on harmonics and interharmonics measurements and instrumentation, for power
+supply systems and equipment connected thereto”. IEC 61000-4-7.
+[4] IEC, “Wind turbines - Part 21: Measurement and assessment of power quality characteristics of grid
+connected wind turbines”. IEC 61400-21.
+[5] IEC, “Instrument transformers - The use of instrument transformers for power quality
+measurement”. IEC/TR 61869-103.
+[6] ONS, “Instruções para realização de estudos e medições de QEE relacionados aos acessos à Rede
+Básica ou nos barramentos de fronteira com a Rede Básica para parques eólicos, solares,
+consumidores livres e distribuidoras”. ONS NT 009/2016-Rev. 02, março de 2018
+Endereço na internet: http://www.ons.org.br 15 / 15

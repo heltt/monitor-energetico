@@ -1,0 +1,23 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 20/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=20/02/2026&jornal=515&pagina=100
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Superintendência de Arrecadação e Fiscalização de Receitas/Gerência de Cobrança das Demais Receitas/Coordenação de Autuação e Fiscalização da TAH
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 81/2026
+Ficam NOTIFICADOS para pagar ou parcelar débito(MULTAS)/prazo 10(dez) dias (6.62)
+Aguia Mineracao Ltda - 871588/17 - Not.131/2026 - R$ 5.755,91
+Braspedras - Comercio, Importacao e Exportacao Ltda - 872805/15 - Not.99/2026 - R$ 3.948,02
+Délcio Fernandes Sacramento - 870678/20 - Not.33/2026 - R$ 5.154,66
+Gildasio de Castro Dourado Filho - 870891/20 - Not.30/2026 - R$ 6.300,68
+Matrix Minerais Ltda - 871464/17 - Not.94/2026 - R$ 1.518,14
+Rogério Ferraz Batista - 870598/20 - Not.25/2026 - R$ 6.957,20
+Twe Mineracao Eireli - 870512/21 - Not.43/2026 - R$ 5.154,66
+EUTIQUIA LUCIA DO VALE RAMOS
+Coordenadora

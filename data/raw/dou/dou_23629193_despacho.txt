@@ -1,0 +1,24 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 26/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=26/02/2026&jornal=515&pagina=65
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 26/2026
+Fica(m) o(s) abaixo relacionado(s) cientes(s) que o recurso administrativo interposto foi julgado improcedente; restando-lhe(s) pagar ou parcelar o débito(s) apurado(s), sob pena de inscrição em Dívida Ativa, CADIN e ajuizamento da ação de execução.
+
+
+PROCESSO Nº
+INTERESSADO
+48054.930736/2022-29
+MIB MINERAÇÃO IBIRITÉ LTDA
+48054.930737/2022-73
+MIB MINERAÇÃO IBIRITÉ LTDA
+MAURO HENRIQUE MOREIRA SOUSA
+Diretor-Geral

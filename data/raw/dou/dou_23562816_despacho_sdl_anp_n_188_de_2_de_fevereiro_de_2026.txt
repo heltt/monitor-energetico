@@ -1,0 +1,44 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: DESPACHO SDL-ANP Nº 188, DE 2 DE FEVEREIRO DE 2026
+DATA_PUBLICACAO: 03/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=03/02/2026&jornal=515&pagina=178
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional do Petróleo, Gás Natural e Biocombustíveis/Superintendência de Distribuição e Logística
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+DESPACHO SDL-ANP Nº 188, DE 2 DE FEVEREIRO DE 2026
+O SUPERINTENDENTE ADJUNTO DE DISTRIBUIÇÃO E LOGÍSTICA EM EXERCÍCIO DA AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS, no uso das atribuições que lhe foram conferidas pela Portaria ANP nº 265, de 10 de setembro de 2020, com base no art. 26, inciso I, alínea c, da Resolução ANP nº 958, de 5 de outubro de 2023, torna público o cancelamento, por requerimento do agente econômico, das seguintes autorizações para o exercício da atividade de revenda varejista de GLP.
+
+
+Nº de Registro
+Razão Social
+CNPJ
+Processo
+GLP/CE0223789
+CARVALHO COMERCIAL DE GAS LTDA - ME
+17.312.023/0001-34
+48610.012508/2013-21
+001/GLP/CE0007158
+FRANCISCO DAS C PONTE & CIA LTDA
+07.816.499/0002-30
+48610.004074/2006-67
+GLP/GO0176418
+GASMETRO COMÉRCIO E TRANSPORTE DE GÁS LTDA.
+37.286.283/0001-90
+48610.015199/2008-84
+GLP/RS0240369
+M. I. L. KAEFER COMERCIAL DE GAS EIRELI
+00.905.767/0004-02
+48610.006106/2017-11
+GLPSC0458559
+MORBACH DISTRIBUIDORA DE GAS E AGUA LTDA
+62.318.677/0001-20
+48610.223713/2025-54
+GLPES0457358
+SANTANA DISTRIBUICAO LTDA
+58.074.900/0001-63
+48610.223251/2025-75
+JADER PIRES VIEIRA DE SOUZA

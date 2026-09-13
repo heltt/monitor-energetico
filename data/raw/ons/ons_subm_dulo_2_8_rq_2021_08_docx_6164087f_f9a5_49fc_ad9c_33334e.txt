@@ -1,0 +1,1331 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 2.8-RQ_2021.08.docx_6164087f-f9a5-49fc-ad9c-33334eff7f06
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 2.8-RQ_2021.08.docx_6164087f-f9a5-49fc-ad9c-33334eff7f06.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 2.8
+Requisitos mínimos para elos em
+corrente contínua
+Requisitos
+Revisão Motivo da revisão Data de aprovação
+2021.08 Despacho ANEEL nº 2.596/2021 31/08/2021
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+ÍNDICE
+1. OBJETIVO ..................................................................................................................................... 5
+2. ETAPA DE CONCEPÇÃO – DEFINIÇÃO DO CIRCUITO PRINCIPAL ....................................................... 5
+2.1. Requisitos gerais ............................................................................................................................ 5
+2.2. Valores nominais e capacidade de sobrecarga ............................................................................. 6
+2.3. Configurações de operação ........................................................................................................... 9
+2.4. Modos de controle ........................................................................................................................ 9
+2.5. Filosofia de operação do elo CC – Interação CA-CC-CA ............................................................... 10
+2.6. Compensação reativa .................................................................................................................. 12
+2.7. Filtros do lado CA ......................................................................................................................... 13
+2.8. Filtros do lado CC ......................................................................................................................... 19
+2.9. Válvulas de conversão CA/CC/CA ................................................................................................ 22
+2.10. Transformadores conversores ..................................................................................................... 22
+2.11. Perdas ................................................................................................................................... 22
+2.12. Confiabilidade .............................................................................................................................. 23
+2.13. Coordenação de isolamento ........................................................................................................ 23
+2.14. Eletrodos ................................................................................................................................... 25
+2.15. Linha do Eletrodo ......................................................................................................................... 26
+3. ETAPA DE DETALHAMENTO – OTIMIZAÇÃO DO CIRCUITO PRINCIPAL, DAS INTERAÇÕES CA/CC E
+TESTES........................................................................................................................................ 27
+3.1. Requisitos gerais .......................................................................................................................... 27
+3.2. Tomada e retomada de carga ...................................................................................................... 28
+3.3. Falhas de comutação ................................................................................................................... 28
+3.4. Operação dos conversores durante defeitos no sistema ............................................................ 29
+3.5. Interferência em rádio e em onda portadora ............................................................................. 29
+3.6. Ruído audível ............................................................................................................................... 29
+3.7. Telecomunicação ......................................................................................................................... 29
+3.8. Confiabilidade do sistema de controle ........................................................................................ 30
+3.9. Sistema de controle ..................................................................................................................... 30
+3.10. Controle Mestre (Master Control) ............................................................................................... 31
+Endereço na internet: http://www.ons.org.br 2 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+3.11. Proteção ................................................................................................................................... 32
+3.12. Supervisão e controle .................................................................................................................. 32
+3.13. Registro de perturbações ............................................................................................................ 33
+3.14. Perdas ................................................................................................................................... 33
+4. REFERÊNCIAS .............................................................................................................................. 33
+Endereço na internet: http://www.ons.org.br 3 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+1. OBJETIVO
+1.1. Estabelecer os requisitos técnicos mínimos para os elos em corrente contínua (elos CC), com ou sem
+linha CC, que integram ou se conectam à Rede Básica ou às instalações de transmissão de energia elétrica
+destinadas a interligações internacionais conectadas à Rede Básica.
+1.1.1. Os requisitos descritos neste submódulo aplicam-se aos elos de corrente contínua (elos CC), com
+tecnologia LCC (Line Commutated Converter), integrantes da Rede Básica ou das instalações de transmissão
+de energia elétrica situadas no Brasil destinadas a interligações internacionais conectadas à Rede Básica.
+1.1.2. Este submódulo também se aplica aos elos CC sob responsabilidade de agente de geração, de
+transmissão e de importação/exportação, situados dentro ou fora do Brasil, que se conectam à Rede Básica
+ou ao Sistema Elétrico Interligado (SIN), naquilo que se refere aos aspectos que afetam as interações corrente
+alternada – corrente contínua (CA/CC), tais como faixas de variação de frequência e de tensão a serem
+respeitadas, fluxo de reativos entre o sistema CA e o sistema CC, requisitos de desempenho durante e após
+aplicações de defeitos, níveis de injeção de harmônicos no sistema CA e interação entre controles de
+equipamentos eletricamente próximos, definidos pelos Procedimentos de Rede.
+1.1.3. Considera-se, neste submódulo, que as instalações CA necessárias ao funcionamento dos elos CC
+localizadas nas subestações terminais, tais como transformadores conversores, filtros, compensadores
+síncronos e capacitores em derivação, fazem parte desses elos CC.
+1.1.4. Apesar de este submódulo não tratar dos requisitos de elos CC com configurações multiterminais,
+esses elos devem respeitar os requisitos de interação entre as conversoras e o sistema CA aqui estabelecidos.
+1.1.5. Os requisitos são estabelecidos neste submódulo para as duas etapas de elaboração do projeto básico
+dos elos CC, de acordo com processo descrito no Submódulo 7.3 – Verificação da conformidade das
+instalações de transmissão aos requisitos:
+(a) etapa de concepção, que consiste na definição do circuito principal; e
+(b) etapa de detalhamento, que consiste na otimização do circuito principal, das interações CA/CC e
+testes.
+2. ETAPA DE CONCEPÇÃO – DEFINIÇÃO DO CIRCUITO PRINCIPAL
+2.1. Requisitos gerais
+2.1.1. Os requisitos e as características das instalações e dos equipamentos constantes n Submódulo 2.6 –
+Requisitos mínimos para subestações e seus equipamentos, Submódulo 2.7 – Requisitos mínimos para linhas
+de transmissão e Submódulo 2.11 – Requisitos mínimos para os sistemas de proteção, de registro de
+perturbações e de teleproteção devem ser atendidos.
+2.1.2. O arranjo de barramento da subestação CA deve atender ao disposto no Submódulo 2.6.
+2.1.3. Devem ser seguidas as recomendações para elos CC constantes das normas técnicas nacionais e
+internacionais, especialmente das normas IEC [8], [9] e [10].
+2.1.4. Devem ser definidos os componentes do circuito principal, a saber: válvulas, transformadores
+conversores e sua faixa de tapes, reatores de alisamento, compensação reativa, filtros CA e filtros CC, linha
+CC e linha do eletrodo, sistemas de aterramento (critérios), modos de operação, diagramas unifilares, pátios
+CA e CC e a filosofia dos sistemas de proteção, supervisão e controle, incluindo o Master Control. Devem
+também ser estimadas por meio de cálculo as perdas máximas a serem obtidas. Os requisitos associados às
+Endereço na internet: http://www.ons.org.br 4 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+características relacionadas à definição do circuito principal devem ser demonstrados previamente à etapa
+de otimização, detalhada no item 3 do presente submódulo, uma vez que as ordens de produção dos
+equipamentos são baseadas nas definições da etapa de definição do circuito principal.
+2.2. Valores nominais e capacidade de sobrecarga
+Frequência no lado CA
+2.2.1.1. Como a frequência nominal no lado CA do SIN é de 60 Hz, podendo variar transitoriamente de 56 Hz
+até 66 Hz, o elo CC deve ser dimensionado para operar, sem bloqueios, nas seguintes faixas de frequência:
+(a) faixa de variação de frequência em regime permanente, utilizada para o cálculo do desempenho dos
+equipamentos e dimensionamento de seus componentes (ratings): 60 Hz ± 0,2 Hz;
+(b) faixas de variação transitória de frequência, utilizadas para o cálculo do dimensionamento dos
+componentes (ratings):
+(1) de 56,0 Hz até 59,8 Hz (exclusive) por até 20 segundos;
+(2) de 60,2 Hz (exclusive) até 66,0 Hz por até 20 segundos.
+Tensão no lado CA
+2.2.2.1. O elo CC, seus filtros e demais equipamentos dos pátios CA devem ser dimensionados para operar
+com desempenho adequado e sem causar restrições de qualquer tipo ao SIN.
+2.2.2.2. As faixas de tensão de operação estão estabelecidas no Submódulo 2.3 – Premissas, critérios e
+metodologia para estudos elétricos.
+2.2.2.3. O dimensionamento do elo CC e de sua compensação reativa deve ser feito de modo que seja
+possível operá-lo sem restrições, atendendo aos níveis de tensão mínima estabelecidos para a operação em
+condição de emergência apresentados no Submódulo 2.3.
+Potência do elo CC
+2.2.3.1. A potência nominal do elo CC, para cada um dos dois sentidos do fluxo de potência, deve ser aquela
+definida pelos estudos de planejamento da expansão ou no instrumento técnico dos documentos de outorga.
+2.2.3.2. Considera-se como potência nominal do elo CC a potência em regime contínuo no terminal CC,
+medida entre o reator de alisamento e a linha CC, do lado de maior capacidade que esteja operando como
+retificador.
+2.2.3.3. Essa potência nominal deve ser alcançada com todos os polos do elo CC em operação, submetidos
+a uma temperatura ambiente definida no instrumento técnico dos documentos de outorga, sem uso da
+redundância de refrigeração.
+2.2.3.4. A redundância de refrigeração deve ser dimensionada para permitir, no mínimo, a transmissão da
+potência nominal continuamente e simultaneamente à ocorrência da temperatura ambiente máxima
+definida no instrumento técnico dos documentos de outorga.
+2.2.3.5. O elo CC e sua compensação reativa devem ser dimensionados de forma que seja possível operar
+nas faixas de tensão admissíveis definidas no Submódulo 2.3 para operação em condição normal e em
+condição de emergência e com potência mínima de 10% da potência nominal para as condições extremas de
+potência de curto-circuito do sistema CA adjacente. Em caso de mais de um elo CC operando em paralelo
+Endereço na internet: http://www.ons.org.br 5 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+entre as mesmas estações conversoras, isoladamente e em transmissão conjunta, utilizando ou não a mesma
+linha CC, cada um deles deve ser capaz de operar com potência mínima de 10% da potência nominal de cada
+bipolo isoladamente.
+Tensão CC da transmissão
+2.2.4.1. A tensão nominal CC deve corresponder ao valor médio da tensão no terminal de maior capacidade
+que opera como retificador.
+2.2.4.2. Admite-se a operação com valores de tensão CC superiores ao valor nominal, desde que respeitada
+a máxima suportabilidade de projeto da linha CC, nos moldes das definições contidas no Submódulo 2.7.
+Intercâmbio de potência reativa
+2.2.5.1. As estações conversoras devem ser equipadas com os equipamentos de compensação reativa
+necessários à sua operação, desde a condição de bloqueio até a de plena carga, para os modos de operação
+definidos no item 2.3 deste submódulo, em qualquer situação operativa, mesmo considerando a operação
+na condição de ausência do maior banco manobrável de suas instalações, com a rede CA adjacente em
+condição íntegra ou degradada dentro das faixas de potência de curto-circuito definidas no item 2.2.6deste
+submódulo, com fluxo transmitido em ambos os sentidos e considerando os níveis de frequência e tensão
+das barras CA nas faixas descritas nos itens 2.2. e 2.2.2deste submódulo.
+2.2.5.2. Os limites de absorção e de fornecimento de potência reativa do sistema CA para o elo CC, nos
+pontos de conexão à Rede Básica ou ao SIN são estabelecidos pelo instrumento técnico dos documentos de
+outorga.
+2.2.5.3. Para o caso de instalações de transmissão de energia elétrica, situadas dentro ou fora do Brasil,
+destinadas a interligações internacionais conectadas à Rede Básica ou ao SIN, a compensação reativa do elo
+CC deve ser dimensionada de modo a que não haja nenhuma absorção de reativos da rede CA no ponto de
+conexão.
+2.2.5.4. A compensação reativa do elo CC deve ser dimensionada de modo a evitar o surgimento do
+fenômeno de auto-excitação em unidades geradoras próximas.
+2.2.5.5. Caso seja utilizado o controle da conversora como recurso quanto à absorção de reativos pelo elo
+CC para limitar o intercâmbio de potência reativa entre as redes CA e CC, esse procedimento não pode
+ocasionar interações indesejáveis para a coordenação do controle de ambos os lados (retificador e inversor)
+do elo CC.
+2.2.5.6. No caso de operação bipolar, para despachos mínimos, ou mesmo no desbloqueio das conversoras,
+não é admitida a utilização de controle de tensão CA do lado da válvula, no secundário do transformador
+conversor.
+2.2.5.7. O atendimento a esses requisitos deve ser garantido considerando-se todas as tolerâncias de
+fabricação e de medição que impactem no consumo de potência reativa.
+Níveis de curto-circuito
+2.2.6.1. Se os valores de curto-circuito máximo e mínimo não tiverem sido especificados no instrumento
+técnico dos documentos de outorga, será de responsabilidade da transmissora identificar e demonstrar a
+adequação dos valores de curto-circuito máximo e mínimo a serem adotados no projeto das estações
+conversoras, por meio da apresentação dos estudos específicos para essa finalidade, tomando como
+referência os casos de curto-circuito utilizados para elaboração dos relatórios R1 e R2 do empreendimento.
+Endereço na internet: http://www.ons.org.br 6 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+2.2.6.2. Os níveis de curto-circuito máximo e mínimo nas estações retificadora e inversora devem ser
+calculados considerando todas as condições operativas possíveis utilizando a configuração de rede completa
+e (n-1), a saber: todos os níveis de carga (mínimo, leve, média, máxima) e intercâmbios nas principais
+interligações do país (Norte-Sul, Sul-Sudeste, Sudeste-Nordeste e Norte-Nordeste) em ambas as direções.
+Para os casos de curto-circuito mínimo na inversora, deve também ser considerada a configuração de inércia
+mínima do sistema elétrico receptor.
+2.2.6.3. O projeto deve considerar, para o cálculo de curto-circuito, todas as fases de desenvolvimento da
+alternativa CC. Caso essas fases ocorram dentro do horizonte de operação, deve ser utilizada a base de dados
+do Operador Nacional do Sistema Elétrico – ONS. Para as situações fora desse horizonte, deve-se utilizar os
+dados da Empresa de Pesquisa Energética – EPE.
+2.2.6.4. O dimensionamento das válvulas CA/CC deve levar em consideração as solicitações advindas de
+correntes transitórias máximas, tendo como base o mesmo valor adotado para a corrente de interrupção
+simétrica/assimétrica especificada para os disjuntores do pátio CA das estações terminais.
+Capacidade de sobrecarga
+2.2.7.1. Os conversores devem ser capazes de suportar, quando operando com os sistemas de refrigeração
+íntegros, em qualquer modo de operação disponível, os seguintes tipos de sobrecarga, sem perda de vida
+útil, nas condições de temperatura ambiente estabelecidas no instrumento técnico dos documentos de
+outorga (condições para as quais é possível a transmissão da potência nominal do bipolo):
+(a) sobrecarga de potência de longa duração de cada polo, por 30 (trinta) minutos, com a finalidade de
+permitir redespacho adequado das unidades geradoras do SIN durante esse período;
+(b) sobrecarga de potência de curta duração, por 5 (cinco) segundos, em valor superior à sobrecarga de
+longa duração, com redução em rampa suave até o valor de sobrecarga de longa duração e/ou até a
+potência nominal, com a finalidade de auxiliar o sistema CA durante distúrbios.
+2.2.7.2. Os montantes de sobrecarga de potência de longa duração devem levar em conta o impacto da
+perda do polo no sistema receptor. Os equipamentos devem ser projetados de forma que a periodicidade
+mínima de ocorrência de ciclos de sobrecarga de potência de longa duração corresponda a um intervalo
+entre dois ciclos subsequentes igual ou inferior a 24 (vinte e quatro) horas em montante determinado no
+instrumento técnico dos documentos de outorga.
+2.2.7.3. A transmissora deve informar ao ONS a capacidade de sobrecarga contínua do elo CC, para
+temperaturas ambientes inferiores àquela considerada por ocasião do seu dimensionamento para a
+operação com tensão e potência nominais, sem perda de vida útil adicional.
+2.2.7.4. Adicionalmente, a transmissora deve informar ao ONS qualquer capacidade de sobrecarga
+disponível, de acordo com o projeto das estações conversoras, sem perda de vida útil das pontes tiristoras,
+mesmo que haja perda de vida útil dos transformadores e dos reatores de alisamento. Nesses casos, deve
+informar o valor estimado da perda de vida útil por hora, em função da temperatura ambiente.
+2.2.7.5. Os filtros devem ser dimensionados (ratings) para suportar o aumento da geração de harmônicas
+para a operação nas condições não nominais mencionadas nos itens 2.2.7. , 2.2.7.2. e 2.2.7.3. deste
+submódulo.
+2.2.7.6. Também deve ser informado pela transmissora o nível das distorções harmônicas geradas pela
+conversora nas condições operativas definidas nos itens 2.2.7. , 2.2.7.2. e 2.2.7.3. deste submódulo, assim
+como a potência reativa adicional a ser absorvida pela conversora.
+Endereço na internet: http://www.ons.org.br 7 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+Filtros e demais equipamentos para compensação reativa – Premissas básicas
+2.2.8.1. A compensação reativa pode ser composta por capacitores, reatores e/ou filtros.
+2.2.8.2. A maior unidade de agrupamento de filtros e de equipamentos de compensação reativa é o banco.
+Um banco pode ser composto de um ou mais sub-bancos. O sub-banco pode ser composto por um ou mais
+ramos.
+2.2.8.3. Tanto o banco quanto o sub-banco devem ser manobráveis por disjuntor e possuir seus próprios TC.
+Caso o sub-banco seja composto por apenas um ramo, esse ramo deve ser manobrável pelo disjuntor do
+próprio sub-banco.
+2.2.8.4. O ramo pode ser constituído por um filtro (sintonia simples ou múltipla) ou por um equipamento de
+compensação reativa (capacitiva ou indutiva).
+2.3. Configurações de operação
+2.3.1. Cada elo CC deve ser dimensionado para ser capaz de operar, no mínimo, nas seguintes configurações
+de operação: bipolar, monopolar com retorno pela terra e monopolar com retorno metálico. Conversores do
+tipo back-to-back devem ser capazes de operar nas configurações mono-bloco e bi-bloco.
+2.3.2. Cada elo CC deve também ser capaz de operar com fluxo de potência direto ou reverso, se especificado
+para tal, bem como com tensão de pelo menos 70% da tensão nominal, exceção feita a conversores do tipo
+back-to-back.
+2.3.3. Elos CC conectados entre as mesmas estações conversoras previstos dentro de um mesmo ciclo de
+planejamento, ainda que com datas de entrada em operação comercial diferentes, pertencentes ou não a
+transmissoras diferentes e fabricados por fornecedores diferentes, devem ser concebidos de forma a
+permitir a operação dos elos em paralelo. Para tanto, deve-se prever a instalação, em cada polo conversor e
+na conexão à linha do eletrodo, de quantidade de equipamentos de manobra suficiente para viabilizar todas
+as combinações possíveis de paralelismo, com retorno metálico e retorno pela terra, por meio da utilização
+respectivamente de dispositivos MRTB (Metalic Return Transfer Breaker) e GRTS (Ground Return Transfer
+Switch).
+2.3.4. Deve-se projetar os eletrodos de terra de modo a garantir que, na operação dos elos CC com retorno
+pela terra, não haja consequências danosas às próprias conversoras ou a oleodutos, gasodutos, ferrovias,
+transformadores com o neutro aterrado ou estruturas metálicas, bem como para evitar a ocorrência de
+problemas ambientais. Essas análises devem ser submetidas à apreciação do ONS e dos demais órgãos cujas
+atribuições estejam relacionadas às potenciais consequências decorrentes da operação monopolar.
+2.3.5. Na hipótese de serem construídos eletrodos independentes para bipolos que compartilhem a mesma
+subestação, o projeto dos eletrodos de cada transmissora deve levar em conta o nível de interferência
+resultante da operação monopolar com retorno pela terra de um bipolo sobre a operação do bipolo vizinho,
+com foco especial na saturação dos transformadores conversores.
+2.4. Modos de controle
+2.4.1. Os controles dos conversores devem ser projetados para assegurar que mudanças de modo de
+controle não ocorram com variações de até 3,0% da tensão nominal CA do sistema. Devem estar disponíveis
+os seguintes modos de controle para toda a faixa operativa:
+(a) controle de corrente; e
+(b) controle de potência.
+Endereço na internet: http://www.ons.org.br 8 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+2.4.2. O sistema deve dispor de um controle que use os comutadores de derivação sob carga dos
+transformadores conversores para auxiliar no controle das válvulas.
+2.4.3. Deve ser possível alterar automaticamente o modo de controle de potência para controle de corrente
+após a perda do sistema de telecomunicação, a ocorrência de problemas no suporte de reativos ou a
+possibilidade de surgimento de situações que possam gerar instabilidade de tensão ou falha de comutação.
+2.4.4. Além dos controles convencionais, o sistema de controle deve possibilitar:
+(a) a minimização do consumo de reativos pelas conversoras;
+(b) a operação com consumo elevado e controlado de reativos voltada para o controle da tensão da barra
+CA em regime permanente em condições de baixa potência transmitida;
+(c) o controle da frequência por meio da variação da potência ativa;
+(d) a modulação da potência ativa ou reativa para a estabilização do sistema CA com a consequente
+redução de instabilidades angulares;
+(e) o amortecimento de oscilações subsíncronas; e
+(f) a redução da potência ou da corrente para possibilitar o controle do efeito de contingências que
+possam causar instabilidades de tensão no sistema CA e falhas de comutação no inversor.
+2.5. Filosofia de operação do elo CC – Interação CA-CC-CA
+2.5.1. O elo CC não deve causar perturbações na Rede Básica que se traduzam na degradação da qualidade
+da energia fornecida, em dificuldades no controle de oscilações de tensão e de frequência, em riscos de
+danificação de equipamentos e instalações dessa rede, assim como em perturbações em seus sistemas de
+telecomunicação.
+2.5.2. Para possibilitar a operação adequada da Rede Básica, o elo CC deve atender às seguintes condições
+e requisitos:
+(a) operar sem restrições dentro da faixa operativa de potência especificada para configurações (n) e (n-
+1) dos sistemas CA adjacentes, durante todas as fases de implantação e operação do
+empreendimento, sem provocar oscilações perturbadoras de potência, tensão ou frequência;
+(b) auxiliar a Rede Básica no controle de tensão dentro da faixa de geração ou de absorção de reativos
+definida no item 2.2.5deste submódulo;
+(c) permitir, em caso de indisponibilidade prolongada de qualquer um dos polos, a utilização das linhas
+CC como retorno metálico;
+(d) auxiliar a Rede Básica no controle de oscilações eletromecânicas, por meio da modulação de potência
+e/ou de reativos;
+(e) não submeter o sistema CA adjacente a instabilidade de tensão, em qualquer condição operativa do
+elo CC, para configurações (n) e (n-1) da rede CA, mesmo durante afundamento de tensão provocado
+por faltas;
+(f) ser projetado para possibilitar a manobra automática de elementos da compensação reativa
+pertencentes ao elo CC para atingir os objetivos de controle de tensão e níveis de harmônicos no ciclo
+de carga diário da conversora, devendo ser evitada qualquer possibilidade de hunting entre controles
+Endereço na internet: http://www.ons.org.br 9 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+internos e/ou externos ao elo que venha a produzir manobras intermitentes dos elementos de
+compensação reativa;
+(g) não causar perturbações de origem harmônica nas barras CA das conversoras acima dos limites
+individuais especificados no Submódulo 2.9 – Requisitos mínimos de qualidade de energia elétrica
+para acesso ou integração à Rede Básica, para quaisquer configurações (n) e (n-1) da rede CA, bem
+como perturbações decorrentes de falha de componentes individuais do elo CC, com o elo operando
+até a potência nominal;
+(h) manter, ao longo do contrato de concessão, para quaisquer configurações (n) e (n-1) da rede CA, o
+desempenho harmônico requerido para as condições de máxima dessintonia dos filtros passivos
+associadas às condições mais severas de geração de correntes harmônicas pelos conversores. Deve
+ser considerada a possibilidade de operação da rede CA com um desequilíbrio máximo de sequência
+negativa de 2,0% (conforme Submódulo 2.9). Nos casos de filtros ativos ou passivos de sintonia
+automática, devem ser considerados os erros de controle.
+2.5.3. O elo CC deve ser dimensionado de forma a não permitir que sobretensões de caráter transitório ou
+temporário nele originadas ou por ele influenciadas, para qualquer condição operativa, exijam de
+equipamentos ou instalações do sistema CA adjacente às estações conversoras desempenho acima da sua
+suportabilidade, observando-se que:
+(a) deve-se dar especial atenção às sobretensões temporárias com distorção harmônica, normalmente
+relativas a contingências que envolvem saturação de transformadores;
+(b) quanto aos valores máximos de sobretensões:
+(1) deve-se limitar a máxima sobretensão temporária a 1,40 pu (fase-fase-eficaz), nas barras das
+subestações conversoras, considerando a situação de bloqueio total das conversoras, o que deve
+ser comprovado por meio de simulação com o programa Anatem;
+(2) o valor instantâneo máximo de sobretensões pode ser superior a 628,7 kV pico fase-terra (1,54 pu
+ou 1,467 em rede 500 kV ou 525 kV, respectivamente) por, no máximo, 3 ciclos de 60 Hz após o
+evento gerador da sobretensão, no momento da abertura dos filtros, considerando a situação de
+bloqueio total das conversoras. Tal comportamento deve ser comprovado por meio de simulação
+trifásica (ATP/PSCAD);
+(3) a componente na frequência fundamental de sobretensões temporárias não deve exceder 1,25 pu
+(fase-fase), durante 1 (um) segundo;
+(4) para a abertura de correntes capacitivas pelos disjuntores do pátio CA das subestações onde estão
+localizadas as conversoras, é necessário limitar o valor instantâneo máximo, fase-terra, das
+sobretensões temporárias, no momento da abertura desses disjuntores a 628,7 kV pico fase-terra,
+para a operação com frequência nominal. Na frequência máxima, de 66 Hz, esse valor se reduz
+para 571,5 kV pico fase-terra.
+(c) sob o aspecto de sobretensões de manobra, deve-se avaliar às situações que envolvam:
+(1) rejeições de carga das LT de CA derivadas da conversora, especialmente após curto-circuito;
+(2) injeção forçada de corrente no lado inversor sobre rede sem fontes; e
+Endereço na internet: http://www.ons.org.br 10 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+(3) falta trifásica/monofásica na barra CA do conversor do lado do sistema seguida de bloqueio total
+das conversoras e consequente retirada dos filtros.
+2.5.4. Caso a transmissora opte pela variação do ângulo de disparo das válvulas para limitar a variação de
+tensão, utilizando a manobra de capacitores e/ou reatores, deve demonstrar que não há prejuízo ao
+desempenho adequado do elo CC e do sistema CA adjacente às estações conversoras. Não será admitida a
+utilização de controle de Udio para a partida e rampeamento de potência, considerando tensão DC plena,
+operação bipolar e ausência de chaveamento de bancos e/ou sub-bancos no intervalo de potência
+considerado.
+2.6. Compensação reativa
+Requisitos de potência reativa para elementos manobráveis
+2.6.1.1. A estação conversora deve ser equipada com os equipamentos de compensação reativa necessários
+à sua operação, desde a condição de bloqueio até a de plena carga, em qualquer situação operativa,
+considerando os níveis de tensão e de frequência das barras CA nas faixas descritas nos itens 2.2. e 2.2.2deste
+submódulo, de modo a atender ao disposto no item 2.2.5deste submódulo. Essa compensação pode ser
+subdividida em bancos, sub-bancos e ramos de capacitores, reatores e filtros e deve ser dimensionada
+considerando a ausência de qualquer elemento manobrável, sejam sub-bancos ou ramos dessa
+compensação.
+2.6.1.2. Nos casos em que a estação conversora estiver localizada próxima a geradores ou a compensadores
+síncronos, o dimensionamento da compensação reativa, seu tipo e montante devem respeitar os limites de
+auto-excitação das máquinas síncronas, especialmente para as condições de rejeição de carga, para toda e
+qualquer fase de implantação do empreendimento. Entretanto, permanece a necessidade de atendimento
+ao item 2.2.5.2. deste submódulo.
+2.6.1.3. A manobra de capacitores, sub-bancos e reatores na barra CA da conversora não deve provocar
+variação na tensão superior a 3,0% em relação à tensão pré-manobra, mesmo com o menor nível de curto-
+circuito em configurações (n-1) da rede CA. As manobras desses equipamentos não devem provocar
+perturbações operativas no elo CC nem na rede CA.
+2.6.1.4. A variação do ângulo de disparo das válvulas para limitar a variação de tensão com a manobra de
+capacitores e/ou reatores só deve ser aceita se for demonstrado que isso não prejudica o desempenho
+adequado do elo CC e do sistema CA adjacente às estações conversoras.
+2.6.1.5. O atendimento aos requisitos de compensação reativa e de regulação de tensão nas instalações do
+elo CC deve ser demonstrado por meio de estudos de fluxo de potência para todas as condições possíveis de
+carga da conversora e para configurações (n-1) da rede CA. Esses estudos devem utilizar informações de
+carga ativa e reativa nas barras, de limites de tensão e de potência reativa dos geradores próximos e de
+disponibilidade de reatores chaveáveis, para viabilizar a integração ou a conexão da conversora à Rede Básica
+ou às instalações de transmissão de energia elétrica destinadas a interligações internacionais conectadas à
+Rede Básica.
+2.6.1.6. Em caso de utilização de bancos e sub-bancos, conforme definições do item 2.2.8deste submódulo,
+seja para compensação reativa, seja para filtragem, cada sub-banco deve conter seus próprios disjuntores e
+transformadores de corrente, de forma a garantir a completa independência da proteção de cada sub-banco,
+em caso de defeitos internos em qualquer dos seus ramos.
+2.6.1.7. Em caso de utilização de bancos, conforme definições do item 2.2.8deste submódulo, a abertura
+intempestiva do maior deles, mesmo para as condições mais degradadas da rede CA, não deve causar falhas
+Endereço na internet: http://www.ons.org.br 11 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+de comutação no elo CC do qual fazem parte. Tal requisito deve ser demonstrado por meio de avaliações em
+programas de transitórios como, por exemplo, o PSCAD. Caso o modelo completo do controle ainda não
+esteja definido, admite-se a utilização de um modelo simplificado.
+Requisitos de potência reativa controlável
+2.6.2.1. Os compensadores estáticos, síncronos e statcoms, caso necessário, devem ser dimensionados de
+forma a atender aos seguintes requisitos de desempenho e de recuperação do elo CC, tomando por base
+estudos de estabilidade e de DPS (Dynamic Performance Study):
+(a) tempo máximo de recuperação após eliminação de faltas no sistema CA compreendido entre 150 e
+350 ms, o qual deve ser estipulado no instrumento técnico dos documentos de outorga (entende-se
+por tempo de recuperação àquele necessário para atingir 90% do valor da potência transmitida antes
+da falta, sem posterior redução de potência);
+(b) tensão mínima decorrente de aplicação de falta no sistema CA, na primeira oscilação após a sua
+eliminação, não inferior a 0,80 pu;
+(c) minimização da ocorrência de falhas de comutação sucessivas em um mesmo evento.
+2.6.2.2. As perdas elétricas associadas aos compensadores estáticos, síncronos e statcoms devem ser
+consideradas para a quantificação das perdas da instalação, que devem respeitar os limites máximos
+definidos para a estação conversora.
+2.7. Filtros do lado CA
+Desempenho
+2.7.1.1. O projeto deve respeitar as seguintes exigências:
+(a) Para o cálculo do desempenho de filtros CA, devem ser utilizadas as máximas correntes harmônicas
+individuais injetadas pelos conversores para cada condição operativa do lado CC.
+(b) Para o cálculo dos harmônicos característicos de 12 pulsos (12 h ± 1), deve ser utilizado o método
+determinístico, no qual as correntes dos terminais retificador e inversor são obtidas de forma
+independente e os barramentos de conexão das estações conversoras com a Rede Básica ou com as
+instalações de transmissão de energia elétrica destinadas a interligações internacionais conectadas à
+Rede Básica são considerados como barras infinitas (tensão puramente senoidal na frequência
+fundamental no lado de alta do transformador conversor), buscando-se maximizar os resultados e
+considerando combinações das seguintes premissas:
+(1) operação dentro da faixa de potência especificada;
+(2) operação com tensão reduzida e com alto consumo de reativo;
+(3) toda a faixa de tensão CA definida no item 2.2.2deste submódulo;
+(4) valores das reatâncias dos transformadores conversores na faixa estabelecida na especificação dos
+transformadores conversores;
+(5) valores dos ângulos de disparo (lado retificador) e extinção (lado inversor) na faixa compatível com
+a operação do sistema CCAT.
+Endereço na internet: http://www.ons.org.br 12 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+(c) Para o cálculo dos harmônicos característicos não cancelados (6h ± 1, h ímpar) deve ser utilizado o
+método determinístico de cálculo, no qual as correntes dos terminais retificador e inversor são
+obtidas de forma independente, buscando-se maximizar os resultados e considerando combinações
+das seguintes premissas:
+(1) combinações mais desfavoráveis das premissas listadas no item 2.7.1.1. (b) deste submódulo;
+(2) máxima diferença nas reatâncias entre transformadores conversores, por ponte de 12 pulsos,
+conforme estabelecido na especificação dos transformadores conversores.
+(d) Admite-se tratamento estatístico das seguintes tolerâncias, para o cálculo de harmônicos não
+característicos:
+(1) diferenças nas reatâncias entre fases dos transformadores da ponte de 12 pulsos, conforme faixas
+e valores máximos estabelecidos em especificação;
+(2) assimetrias nos instantes de disparo das válvulas conforme estabelecido em especificação;
+(3) diferenças nos valores dos tapes entre fases dos transformadores conversores, conforme
+estabelecido em especificação;
+(4) desbalanço de tensão do sistema CA considerando a componente de sequência negativa com
+magnitude de 2% e ângulo de fase variando aleatoriamente com distribuição uniforme entre 0 e
+360 graus.
+(5) para este tratamento, deverá ser observado um número mínimo de 500 combinações e o valor
+extraído deve corresponder a probabilidade de 1,0% de ser excedido.
+2.7.1.2. Deve-se considerar, para a avaliação do desempenho harmônico, as seguintes condições e
+requisitos.
+(a) Operação nos modos de controle e desempenho relacionados na Tabela 1.
+Tabela 1 - Modos de operação do elo CC – Cálculo de filtros CA
+Requisitos para o Retificador e para o
+Modos de Operação
+Inversor
+Bipolar com tensão nominal (“normal”) A
+Bipolar com tensão reduzida (de 70% a 95%
+B
+da tensão nominal)
+Bipolar com tensão nominal e fluxo de
+A
+potência reverso
+Monopolar com tensão nominal (retorno
+A
+metálico)
+Monopolar com tensão nominal (retorno
+A
+pelo solo)
+Monopolar com tensão reduzida (retorno
+B
+metálico)
+Endereço na internet: http://www.ons.org.br 13 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+Requisitos para o Retificador e para o
+Modos de Operação
+Inversor
+Monopolar com tensão reduzida (retorno
+B
+pelo solo)
+Operação em Sobrecarga (caso disponível)
+Sobrecarga Low Ambient (operação bipolar
+C
+ou monopolar)
+Sobrecarga de Longa Duração (operação
+C
+bipolar ou monopolar)
+Sobrecarga de Curta Duração (operação
+C
+bipolar ou monopolar)
+Legenda:
+A– Há necessidade de atendimento ao desempenho harmônico, estabelecido para quaisquer
+configurações (n) e (n-1) da rede CA externa, bem como contingência (n-1) de sub-banco da
+instalação do elo CC.
+B– Há necessidade de atendimento ao desempenho harmônico, estabelecido para quaisquer
+configurações (n) e (n-1) da rede CA externa, com todos os bancos de filtros do elo CC presentes.
+C– O nível das distorções harmônicas geradas pela conversora nas condições operativas de
+sobrecarga deve ser informado pela transmissora, em qualquer modo ou combinação de modos
+operativos disponíveis.
+D – Os modos de operação associados a paralelismo de bipolos devem ser definidos pelo
+instrumento técnico dos documentos de outorga.
+E – O instrumento técnico dos documentos de outorga pode definir modos adicionais de operação.
+(b) Para todas as fases de implementação, bem como ao longo do contrato de concessão referente às
+conversoras, deve ser atendido o desempenho harmônico (individual) estabelecido no Submódulo
+2.9, no ponto de observação da tensão, aqui referenciado como ponto de acoplamento comum (PAC),
+considerando as condições de máxima dessintonia dos filtros e as condições mais severas de geração
+de correntes harmônicas pelos conversores.
+(1) A metodologia a ser adotada para o cálculo da distorção harmônica no PAC deve representar a
+instalação conversora através do seu equivalente Norton e a rede externa através de envelopes
+de impedância, conforme ilustrado na Figura 1.
+Endereço na internet: http://www.ons.org.br 14 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+ZREDE =>
+Figura 1 - Equivalente Norton e envelope de impedância
+(2) Desde que apresentem comprovadamente resultados mais conservadores, outras metodologias
+podem ser propostas pela transmissora.
+(c) Caso os envelopes representativos da rede CA externa à conversora não sejam explicitamente
+apresentados no instrumento técnico dos documentos de outorga, devem ser determinados pela
+transmissora atendendo às seguintes condições:
+(1) considerar os diversos cenários de evolução da rede ao longo do período de concessão, nos
+patamares de carga leve, média e pesada;
+(2) para distâncias superiores a 200 km, pode-se representar as cargas na modelagem do sistema,
+demonstrando, por meio de estudos, a adequação do modelo de carga adotado, sendo que
+preferencialmente as cargas devem ser representadas onde estão concentradas;
+(3) representar o lugar geométrico por meio de setores anulares, caracterizados pelos valores dos
+raios máximo e mínimo e dos ângulos máximo e mínimo, de modo que esse envelope envolva
+todos os pontos de impedância calculados, para cada ordem harmônica ou conjuntos de
+harmônicas de ordens vizinhas; e
+(4) utilizar lugares geométricos para grupos de harmônicas de ordens vizinhas que apresentem
+comportamento similar no plano complexo de impedâncias, devendo ser observado, contudo,
+que, além do grupo de harmônicas de ordens vizinhas, devem também ser consideradas na
+formação do lugar geométrico as impedâncias correspondentes às ordens harmônicas
+imediatamente inferior e superior ao grupo.
+(d) Para os modos de operação com “Requisitos para o Retificador e para o Inversor” “A” ou “B”,
+conforme item 2.7.1.2. (a) deste submódulo, deve ser considerada a possibilidade de operação da
+rede CA com um desbalanço máximo de sequência negativa de 2%. Nos casos de filtros ativos ou
+passivos de sintonia automática, devem ser considerados os erros de controle.
+(e) Devem ainda ser consideradas, na avaliação do desempenho dos filtros, as máximas condições de
+dessintonia, incluindo: faixa de frequência estabelecida no item 2.2. deste submódulo, variações nos
+valores dos componentes dos filtros com a temperatura e tolerâncias de fabricação, tapes para ajuste
+Endereço na internet: http://www.ons.org.br 15 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+de sintonia e erros de medição. Com exceção da variação de frequência, as demais variações deverão
+ser representadas através de alterações nos valores nominais dos componentes dos filtros.
+2.7.1.3. O desempenho quanto à distorção harmônica no PAC com a Rede Básica deve ser demonstrado por
+meio de estudos.
+2.7.1.4. A transmissora deve realizar campanhas de medição nos barramentos CA da Rede Básica que se
+conectam à subestação conversora, conforme estabelecido no Submódulo 2.9, quando do comissionamento
+das instalações ou quando for solicitado pelo ONS.
+2.7.1.5. A transmissora deve instalar um sistema de medição contínua, para monitoração das tensões
+harmônicas no PAC e das correntes harmônicas injetadas na Rede Básica. Os instrumentos de medição
+deverão atender aos requisitos estabelecidos para a classe A [1]. Os resultados dessa medição devem ser
+disponibilizados ao ONS.
+2.7.1.6. As correntes harmônicas nas linhas CA provocadas pela injeção de correntes harmônicas geradas
+pelas estações conversoras não devem produzir interferências em linhas telefônicas em operação na data de
+comissionamento do elo CC acima dos limites das normas correspondentes.
+2.7.1.7. A transmissora deverá informar o valor máximo do indicador TIF (Telephone Interference Factor) e
+do produto IT, resultante do projeto de filtros, considerando os modos de operação da conversora
+estabelecidos na Tabela 1 e, eventualmente, complementados pelo instrumento técnico dos documentos de
+outorga.
+2.7.1.8. Caso ocorra a instalação de mais de um bipolo na estação retificadora ou inversora, mesmo que com
+datas de entrada em operação comercial diferentes, os empreendimentos, ainda que pertencentes a
+transmissoras diferentes e fabricados por fornecedores diferentes, devem ser concebidos como um projeto
+integrado, do ponto de vista de projeto dos filtros CA. Para empreendimentos licitados no mesmo leilão,
+mesmo que com datas de entrada em operação diferentes, deve ser considerada a mesma representação do
+sistema CA (envelope de impedâncias).
+2.7.1.9. Caso os bipolos citados no item 2.7.1.8. deste submódulo pertençam à mesma transmissora, devem
+ser considerados como uma única instalação, do ponto de vista de avaliação de desempenho, conforme
+estabelecido no item 2.7.1.2. deste submódulo.
+Capacidade nominal de filtros CA (rating)
+2.7.2.1. O projeto deve respeitar as seguintes exigências:
+(a) Para o dimensionamento dos componentes dos filtros CA, devem ser utilizadas as máximas correntes
+harmônicas individuais injetadas pelos conversores, considerando as condições estabelecidas nos
+itens 2.7.1.1. (b) à (d) deste submódulo. Adicionalmente:
+(1) devem ser levados em conta os modos de operação estabelecidos no item 2.7.1.2. deste
+submódulo;
+(2) devem ser consideradas as máximas sobrecargas das conversoras.
+(b) Para o dimensionamento dos elementos dos filtros, a transmissora também deve considerar:
+(1) as contribuições das correntes harmônicas geradas pelos conversores;
+(2) as contribuições provenientes da rede externa (background harmonic voltages):
+Endereço na internet: http://www.ons.org.br 16 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+(i) para tanto devem ser utilizados os valores dos limites globais inferiores de tensões harmônicas,
+conforme estabelecido no Submódulo 2.9, que impliquem nos piores valores de corrente e
+tensão nos componentes dos filtros, respeitando o limite global de DTHT;
+(ii) para o cálculo da contribuição gerada pelo conversor, deve ser aplicada a metodologia descrita
+no item 2.7.1.2. deste submódulo;
+(iii) para harmônicas provenientes da rede externa, caso o documento técnico de outorga não
+estabeleça claramente a metodologia para a sua determinação, deve ser utilizada a aplicação
+direta dos limites inferiores de tensões harmônicas globais no PAC. Nesse caso, o subconjunto
+de tensões harmônicas globais a ser considerado no cálculo deve ser, para cada filtro, aquele
+que resulte nos maiores valores de rating para cada um de seus componentes, respeitando-se
+o valor de DTHT superior estabelecido. Deve também ser considerado no dimensionamento o
+valor máximo da tensão fundamental.
+(c) Os filtros em derivação utilizados devem ser capazes de operar sem qualquer dano nas seguintes
+situações:
+(1) em frequência nominal e para variações de frequência na faixa definida no item 2.2. deste
+submódulo;
+(2) com qualquer dos filtros pertencentes à estação conversora fora de operação;
+(3) com filtros de mesma sintonia dessintonizados em sentidos opostos;
+(4) com a máxima tensão de emergência em regime permanente na rede CA;
+(5) em condições de sobretensões dinâmicas, incluindo ferrorressonância, rejeição de carga e
+recuperação de faltas;
+(6) em todos os modos de operação disponíveis; e
+(7) em condições de sobretensões temporárias produzidas durante energização de transformadores,
+início e eliminação de faltas próximas, inclusive com bloqueio dos conversores.
+2.7.2.2. As capacidades nominais (ratings) dos componentes dos filtros devem ser dimensionadas para
+suportar o aumento da geração de harmônicas para a operação nas condições não nominais mencionadas
+no item 2.2.7deste submódulo.
+2.7.2.3. Cada filtro deve contar com sistemas de monitoração de corrente por meio direto e de determinação
+da temperatura de seus componentes, por meio direto ou indireto, bem como com sistemas de alerta e
+proteção adequados, de maneira a permitir que ações operativas possam ser tomadas com a antecedência
+necessária.
+2.7.2.4. Deve ser considerada a possibilidade de operação da rede CA com um desbalanço máximo de
+sequência negativa de 2,0%.
+2.7.2.5. Nos casos de filtros ativos ou passivos de sintonia automática, devem ser considerados os erros de
+controle.
+2.7.2.6. Os filtros devem ser dimensionados para que não haja necessidade de desligamento por sobrecarga
+em condições operativas normais e de contingências simples (n-1) da rede externa situada na vizinhança
+imediata da conversora, mesmo em caso de operação com indisponibilidade de um filtro.
+Chaveamento de filtros do lado CA
+Endereço na internet: http://www.ons.org.br 17 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+2.7.3.1. Devem ser disponibilizados pelo elo CC os sinais de controle necessários à supervisão de seus
+elementos e à tomada de ações de controle, por meio de um Controle de Estação/Mestre.
+2.7.3.2. Devem ser concebidas e implementadas todas as sequências de chaveamento de filtros identificadas
+como necessárias pelos estudos de dimensionamento das estações conversoras ou ainda recomendadas
+pelos estudos operativos realizados pelo ONS.
+2.7.3.3. A transmissora deve identificar a necessidade de chaveamento dos filtros em outras situações
+específicas, implementando tais desligamentos, mesmo que seja necessária a aquisição de equipamentos
+especiais.
+2.7.3.4. Em situações de perda de conversoras o Controle de Estação/Mestre deve supervisionar e comandar
+a retirada automática de filtros CA para reduzir as sobretensões nos sistemas CA a níveis estipulados nos
+Procedimentos de Rede.
+2.8. Filtros do lado CC
+Desempenho harmônico
+2.8.1.1. Para a avaliação do desempenho harmônico, devem ser consideradas as seguintes condições e
+requisitos:
+(a) Operação nos modos de controle e desempenho relacionados na Tabela 2.
+Tabela 2 - Modos de operação do elo CC – Cálculo de filtros CC
+Requisitos para o Retificador e para o
+Modos de Operação
+Inversor
+Bipolar com tensão nominal (“normal”) A
+Bipolar com tensão reduzida (de 70% a 95%
+B
+da tensão nominal)
+Bipolar com tensão nominal e fluxo de
+A
+potência reverso
+Monopolar com tensão nominal (retorno
+A
+pelo solo)
+Monopolar com tensão nominal (retorno
+A
+metálico)
+Monopolar com tensão reduzida (retorno
+B
+pelo solo)
+Monopolar com tensão reduzida (retorno
+B
+metálico)
+Operação em Sobrecarga (Caso Disponível)
+Sobrecarga Low Ambient (operação bipolar
+C
+ou monopolar)
+Endereço na internet: http://www.ons.org.br 18 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+Requisitos para o Retificador e para o
+Modos de Operação
+Inversor
+Sobrecarga de Longa Duração (operação
+C
+bipolar ou monopolar)
+Sobrecarga de Curta Duração (operação
+C
+bipolar ou monopolar)
+Legenda:
+A– Há necessidade de atendimento ao desempenho harmônico, estabelecido para qualquer
+configuração (n-1) de cada tipo de filtro CC.
+B– Há necessidade de atendimento ao desempenho harmônico com todos os filtros CC presentes.
+C– O nível de interferência gerada pelas conversoras nas condições operativas de operação em
+sobrecarga deve ser informado pela transmissora em qualquer modo ou combinação de modos
+operativos disponíveis.
+D – Os modos de operação associados a paralelismo de bipolos devem ser definidos pelo
+instrumento técnico dos documentos de outorga.
+E – O instrumento técnico dos documentos de outorga pode definir modos adicionais de operação.
+(b) Para todas as fases de implementação do empreendimento, bem como ao longo do contrato de
+concessão referente às conversoras, manter um desempenho harmônico adequado considerando as
+condições de máxima dessintonia dos filtros e as condições mais severas de geração de tensões
+harmônicas pelos conversores.
+(c) Para os modos de operação com Requisitos para o Retificador e para o Inversor “A” ou “B”, conforme
+item 2.8.1.1. (a) deste submódulo, deve ser considerada a possibilidade de operação da rede CA com
+um desbalanço máximo de sequência negativa de 2%. Nos casos de filtros ativos ou passivos de
+sintonia automática, devem ser considerados os erros de controle.
+2.8.1.2. As correntes harmônicas nas linhas CC e linhas de eletrodo não devem produzir interferências em
+linhas telefônicas em operação na data de comissionamento do elo CC acima dos limites fixados nas normas
+correspondentes. De forma a possibilitar o atendimento a esse requisito, os limites da corrente equivalente
+de distúrbio ao longo das linhas CC e linhas de eletrodo são informados no instrumento técnico dos
+documentos de outorga.
+2.8.1.3. A definição desse limite deve ser precedida e baseada em um estudo de coordenação indutiva. Caso
+esse estudo não esteja finalizado até a emissão da primeira versão dos estudos do circuito principal, a
+transmissora deve considerar que o valor de corrente equivalente de distúrbio em operação bipolar, com
+todos os filtros presentes, é no máximo igual a 500 mA. Para a operação monopolar com todos os filtros
+(retorno pelo solo ou metálico), o valor não pode exceder 1.000 mA. Durante a operação bipolar na
+configuração (n-1) dos filtros, o valor das correntes harmônicas não pode exceder 1000 mA. A transmissora
+deve definir o critério a ser adotado para operação monopolar na configuração (n-1) dos filtros. Permanece,
+entretanto, com ou sem estudo de coordenação indutiva a responsabilidade da transmissora de mitigar os
+efeitos de interferências que venham a ser identificadas.
+2.8.1.4. O projeto de filtros CC deve apresentar desempenho harmônico do ponto de vista de interferência
+telefônica ao longo da linha CC, a ser demonstrado por meio de estudos e de medições, cuja realização é de
+Endereço na internet: http://www.ons.org.br 19 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+responsabilidade da transmissora. As medições devem ser realizadas durante o comissionamento, mas
+podem também vir a ser solicitadas em outras ocasiões, a critério do ONS.
+2.8.1.5. Os filtros CC devem, também, minimizar os efeitos da corrente induzida, em 60 Hz, por linhas CA na
+linha CC, evitando potenciais distúrbios nos sistemas de controle do elo CC, bem como a saturação
+indesejável dos transformadores conversores, o que poderia eventualmente causar desligamento bipolar.
+Capacidade nominal de filtros CC
+2.8.2.1. O projeto deve respeitar as seguintes exigências:
+(a) As tensões e correntes harmônicas nos elementos devem ser determinadas considerando as máximas
+tensões harmônicas geradas pelos conversores. No cálculo dessas tensões harmônicas, deve-se levar
+em conta:
+(1) operação dentro da faixa de potência especificada;
+(2) máximas sobrecargas das conversoras;
+(3) operação com tensão reduzida e com alto consumo de reativo;
+(4) máximos desequilíbrios da rede externa, ou seja, componente de tensão de sequência negativa
+igual a 2,0%;
+(5) a operação das conversoras com os máximos desvios (tolerâncias) dos valores de projeto das
+reatâncias entre transformadores conectados a ponte de doze pulsos e com os máximos desvios
+dos valores de projeto das reatâncias entre fases de cada transformador conectado a ponte de seis
+pulsos;
+(6) a operação com o máximo desvio de projeto do ângulo de disparo entre as pontes de seis pulsos
+de uma mesma ponte de doze pulsos e com o máximo desvio de projeto de ângulo de disparo
+entre as válvulas de uma mesma ponte de seis pulsos;
+(7) toda a faixa de tensão CA e frequência definidas nos itens 2.2. e 2.2.2deste submódulo.
+(b) Os filtros devem ser capazes de operar sem qualquer dano nas seguintes situações:
+(1) em frequência nominal e para variações de frequência na faixa definida no item 2.2. deste
+submódulo;
+(2) com qualquer dos filtros pertencentes a estação conversora fora de operação;
+(3) com filtros de mesma sintonia dessintonizados em sentidos opostos;
+(4) com a pior ressonância entre filtros CC, reator de alisamento e linha de transmissão CC;
+(5) com a máxima tensão de emergência em regime permanente na rede CA;
+(6) em condições de sobretensões dinâmicas incluindo ferrorressonâncias, rejeição de carga e
+recuperação de faltas;
+(7) nos modos de operação constantes do anexo técnico do edital de leilão.
+2.8.2.2. As capacidades nominais dos componentes (ratings) dos filtros devem ser dimensionadas para
+suportar o aumento da geração de harmônicas para a operação nas condições não nominais mencionadas
+no item 2.2.7deste submódulo.
+Endereço na internet: http://www.ons.org.br 20 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+2.8.2.3. Cada filtro deve contar com sistemas de monitoração de corrente por meio direto e de determinação
+da temperatura de seus componentes por meio direto ou indireto, bem como com sistemas de alerta e
+proteção adequados, de maneira a permitir que ações operativas possam ser tomadas com a antecedência
+necessária.
+2.8.2.4. Deve ser considerada a possibilidade de operação da rede CA com um desbalanço máximo de
+sequência negativa de 2,0%.
+2.8.2.5. Nos casos de filtros ativos ou passivos de sintonia automática, devem ser considerados os erros de
+controle.
+2.9. Válvulas de conversão CA/CC/CA
+2.9.1. A transmissora deve estabelecer as solicitações de correntes máximas de curto-circuito (em kA pico)
+sobre as válvulas, durante curto-circuito na ponte, com bloqueio das mesmas (um ciclo de sobrecorrente) e
+sem bloqueio (3 ciclos de sobrecorrente). Esses valores devem ser documentados e fundamentados. Esta
+fundamentação pode ser feita por meio analítico ou por simulação. Cabe à transmissora comprovar a
+correção dos valores adotados por meio de simulações ciclo-a-ciclo em programas do tipo PSCAD.
+2.9.2. Deve ser definido, pela transmissora, um nível mínimo de redundância de tiristores por válvula.
+2.9.3. É admitida, no projeto de dimensionamento das válvulas, a utilização de disparo protetivo apenas
+como proteção secundária da válvula, cabendo aos para-raios das mesmas a função de proteção principal
+contra sobretensões, independentemente do fato de a válvula pertencer à estação retificadora ou à estação
+inversora.
+2.9.4. A transmissora deve fornecer uma planilha que relacione toda a cadeia de dimensionamento da
+coordenação de isolamento da válvula, incluindo os níveis de tensão operativa, as sobretensões temporárias,
+o overshoot de comutação, os desequilíbrios de divisão de tensão entre tiristores com a redundância “by-
+passada” e os níveis de proteção dos para-raios e do disparo protetivo.
+2.10. Transformadores conversores
+2.10.1. Os transformadores dedicados à conversão CA/CC devem possuir unidades de reserva, de forma que
+possa ser atingido o nível de confiabilidade estabelecido para a instalação, respeitando, no mínimo, o índice
+definido no item 2.12 deste submódulo.
+2.10.2. Deve ser minimizada a circulação de corrente contínua no neutro dos transformadores, de forma a
+evitar interferências indesejáveis no controle das conversoras.
+2.10.3. Quando houver mais de um elo CC em uma mesma subestação, o projeto de cada elo deve levar em
+conta a possibilidade de operação do elo adjacente em operação monopolar com retorno pelo solo e a
+elevação de tensão no neutro de seus transformadores advinda de tal fato. Deve, também, explicitar os
+critérios adotados para os máximos valores de elevação de tensão permitidos no neutro.
+2.11. Perdas
+2.11.1. As perdas devem ser avaliadas considerando:
+(a) a temperatura máxima definida pelo instrumento técnico dos documentos de outorga;
+(b) na falta dessa definição, a temperatura média das máximas anuais da região de instalação das
+conversoras.
+Endereço na internet: http://www.ons.org.br 21 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+2.11.2. A transmissora deve apresentar a memória de cálculo do projeto, demonstrando sua
+compatibilidade com os níveis de perdas definidos no instrumento técnico dos documentos de outorga.
+2.12. Confiabilidade
+2.12.1. A disponibilidade média anual de transmissão de potência do elo CC deve ser de no mínimo 98,5%,
+incluindo as saídas programadas e forçadas, caso não tenham sido incluídos no escopo da outorga
+equipamentos reserva das instalações. A disponibilidade deve ser calculada conforme prescrições de norma
+IEC [8] considerando dados de estatísticas internacionalmente reconhecidas, tais como, por exemplo, da
+Cigré.
+2.12.2. Para o cálculo da disponibilidade garantida, considera-se o conjunto dos conversores localizados em
+ambos os terminais da linha CC, bem como os respectivos transformadores conversores e demais
+equipamentos necessários para a operação desses terminais, como disjuntores, filtros, equipamentos de
+medição, síncronos etc.
+2.12.3. O número de saídas forçadas de cada polo deve ser de, no máximo, 2,5 saídas por ano.
+2.12.4. O número de saídas forçadas de cada bipolo não deve ultrapassar 1 saída a cada 5 anos.
+2.13. Coordenação de isolamento
+Geral
+2.13.1.1. Para a coordenação de isolamento e proteção de equipamentos situados nos pátios CC e CA das
+estações conversoras, devem ser utilizados para-raios de óxido de zinco (ZnO).
+2.13.1.2. O esquema de proteção contra sobretensões, os requisitos dos para-raios, a metodologia de
+estudos e as sobretensões a serem consideradas devem seguir as determinações das normas IEC [2], [3], [4]
+e [5].
+2.13.1.3. Os para-raios que têm por finalidade a proteção das válvulas de conversão CA/CC e CC/CA são
+aqueles responsáveis pela proteção primária desses equipamentos. As válvulas devem contar,
+adicionalmente, com sistemas de disparo protetivo que devem ser ajustados, considerando os tiristores
+redundantes “by-passados” e as tolerâncias de fabricação e medição em, no mínimo, 3% acima do nível de
+proteção dos para-raios.
+Operação de elos CC em paralelo
+2.13.2.1. Em caso de entrada em operação de um segundo elo CC na subestação CA terminal, a transmissora
+responsável pelo segundo elo CC deve compatibilizar o seu projeto de coordenação de isolamento para o
+pátio CA com o de coordenação de isolamento do primeiro elo CC, evitando sobrecarregar os para-raios
+existentes. Devem ser avaliadas eventuais diferenças de distribuição de corrente nos para-raios, ao
+considerar um e dois elos CC, para dimensionamento das energias a serem dissipadas.
+2.13.2.1.1. Em caso de mais de um elo CC licitado em um mesmo Leilão, mesmo que com datas de entrada
+em operação comercial diferentes, o projeto de coordenação de isolamento deve ser integrado de modo a
+levar em consideração os mesmos níveis de isolamento CA e margens de proteção compatíveis com tais
+níveis de isolamento para todos os empreendimentos licitados.
+2.13.2.2. Em caso de possibilidade de operação cruzada de um elo CC com as linhas CC do outro elo, faz-se
+necessária a compatibilização da coordenação de isolamento dos respectivos pátios CC.
+Endereço na internet: http://www.ons.org.br 22 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+2.13.2.3. Para o dimensionamento dos para-raios e disjuntores do pátio CA e dos filtros CA, a transmissora
+deve considerar a aplicação e eliminação de faltas seguida de bloqueio do bipolo com a permanência dos
+filtros CA em operação, de acordo com o procedimento recomendado pela Cigré [11]. Essa investigação deve
+ser realizada pela transmissora para patamares de potência nominal CC transmitida pré-falta de 25%, 50%,
+75% e 100% da potência nominal CC, além daquelas indicadas no anexo técnico do Edital do Leilão, quando
+for o caso.
+Margens mínimas de proteção/isolamento
+2.13.3.1. A transmissora deve utilizar como margens mínimas de proteção/isolamento, no mínimo, os
+seguintes percentuais:
+(a) Válvulas:
+(1) 20 % para surtos de frente íngreme;
+(2) 15 % para surtos de manobra e surtos atmosféricos.
+(b) Outros equipamentos da casa de válvulas CC:
+(1) 25 % para surtos de frente íngreme;
+(2) 15 % para surtos de manobra e surtos atmosféricos.
+(c) Equipamentos do pátio CC, incluindo filtros CC e reator de alisamento:
+(1) 25 % para surtos de frente íngreme;
+(2) 20 % para surtos atmosféricos;
+(3) 15 % para surtos de manobra.
+(d) Transformadores conversores (lado CC):
+(1) 25 % para surtos de frente íngreme;
+(2) 20 % para surtos atmosféricos;
+(3) 15 % para surtos de manobra.
+(e) Transformadores conversores (lado CA):
+(1) Considerar determinações da norma IEC [6].
+(f) Equipamentos do pátio CA (exceto filtros):
+(1) Considerar determinações da norma IEC [6].
+(g) Filtros CA:
+(1) 20% para surtos de manobra;
+(2) 15% para surtos de manobra;
+Distâncias de escoamento
+2.13.4.1. No cálculo da distância de escoamento a ser considerada para a definição dos isoladores CA
+externos, para a tensão máxima operativa, deve-se levar em conta as características de contaminação da
+região conforme norma IEC [7].
+Endereço na internet: http://www.ons.org.br 23 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+2.13.4.2. Na definição das distâncias de escoamento específicas para o isolamento dos equipamentos para
+instalação abrigada e sujeitos a tensão CC, devem ser seguidas as determinações de norma IEC [5]. No
+entanto, devem ser respeitados os seguintes valores mínimos para as distâncias de escoamento:
+(a) instalação CC externa: 40 mm/kV para vidro ou porcelana;
+(b) instalação CC externa: 35 mm/kV para borracha silicone ou RTV;
+(c) instalação CC abrigada: 14 mm/kV para válvulas e 20 mm/kV para as demais instalações.
+2.13.4.3. Na definição das distâncias de escoamento específicas para o isolamento externo de equipamentos
+desabrigados sujeitos à tensão CC+CA e CC, deve ser seguida a norma IEC [5].
+Descargas atmosféricas
+2.13.5.1. O sistema de proteção contra descargas atmosféricas da subestação deve ser dimensionado de
+forma a assegurar risco de falha menor ou igual a uma falha por 50 (cinquenta) anos, autoregenerativa ou
+não.
+2.13.5.2. Além disso, deve-se assegurar que não haja falha de blindagem nas instalações para correntes
+superiores a 2 kA.
+Da avaliação da conformidade
+2.13.6.1. A transmissora deve apresentar o cálculo (estimativa) da coordenação de isolamento, tanto do
+pátio CA quanto do pátio CC, considerando as premissas iniciais de correntes de coordenação assumidas com
+base na experiência. Entretanto, essas premissas de coordenação devem ser comprovadas por meio de
+simulações realizadas com o uso de ferramentas computacionais, considerando os casos mais críticos para o
+dimensionamento de equipamentos.
+2.13.6.2. O sistema CA ao qual estão conectadas as subestações conversoras deve ser representado pelo
+menos até a segunda vizinhança, ou seja, os equivalentes de 60 Hz devem ser representados, no mínimo, a
+duas barras (subestações diferentes) de distância.
+2.14. Eletrodos
+Requisitos gerais
+2.14.1.1. Um bipolo CC ponto-a-ponto deve ser provido de eletrodos de terra para escoamento para a terra
+das correntes de retorno em operação monopolar e das correntes resultantes de condições operativas
+desbalanceadas. O projeto do eletrodo deve levar em conta todos os modos de operação previstos para o
+bipolo e a possibilidade de operação em sobrecarga nesses modos.
+2.14.1.2. É prerrogativa da transmissora a escolha do local de implantação dos eletrodos de terra, desde que
+a distância entre o eletrodo de terra e a subestação conversora seja igual ou superior a 15 km. O projeto deve
+ser elaborado de forma a evitar a circulação de corrente contínua pelo neutro do transformador conversor
+capaz de provocar sua saturação.
+2.14.1.3. Caso haja o compartilhamento de uma subestação conversora com transmissoras detentoras de
+concessão de bipolos CC ponto-a-ponto, o eletrodo de terra de cada bipolo pode ser dimensionado para
+escoar tanto as correntes próprias quanto as dos demais bipolos que compartilhem a mesma subestação.
+Cabe ao instrumento técnico dos documentos de outorga a definição da forma de compartilhamento.
+Endereço na internet: http://www.ons.org.br 24 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+Interferências
+2.14.2.1. A transmissora deve determinar, através de estudos, os efeitos que as correntes CC injetadas no
+solo pelos eletrodos podem provocar ao circular pelos neutros dos transformadores da rede elétrica, nas
+torres das linhas de transmissão do sistema CC e da rede elétrica CA e na proteção catódica de dutos e demais
+estruturas metálicas localizadas em sua área de influência.
+2.14.2.2. O eletrodo de terra deve ser dimensionado de forma a garantir a segurança de seres vivos quanto
+a potenciais de passo, potenciais de toque e potenciais transferidos, considerando a circulação da corrente
+de sobrecarga e um sub-eletrodo fora de serviço para manutenção.
+2.14.2.3. A transmissora deve tomar as providências necessárias para mitigar todos os efeitos de
+interferência (corrosão de dutos e estruturas metálicas de linhas de transmissão e seus aterramentos,
+saturação de transformadores CA, etc) que o retorno da corrente CC no solo pode provocar, de acordo com
+os requisitos das empresas responsáveis pelos ativos sujeitos à interferência.
+Características operacionais
+2.14.3.1. O dimensionamento e a manutenção do eletrodo de terra devem levar em conta que, em caso de
+operação bipolar, cada bipolo deve ser dimensionado para operar com um valor máximo de desbalanço, em
+regime contínuo, correspondente a 1,5% do valor de sua corrente nominal. Deve ainda considerar que a
+operação do bipolo em modo monopolar com retorno pela terra pode ocorrer. O instrumento técnico dos
+documentos de outorga deverá determinar o ciclo de operação monopolar com retorno pela terra, ou seja,
+o período máximo em horas por ano, a quantidade de operações nesse modo e o intervalo mínimo entre
+operações sucessivas. Tais condições devem ser atendidas com um sub-eletrodo fora de serviço para
+manutenção.
+2.14.3.2. A máxima densidade de corrente superficial deve ser menor que aquela que provoque migração
+de água por eletro-osmose. Em caso de utilização de eletrodo em anel a máxima densidade de corrente
+superficial, para efeito de dimensionamento, deve ser inferior a 0,5 A/m2.
+2.14.3.3. Nas condições ambientais e de solo mais desfavoráveis com a circulação de corrente máxima pela
+linha do eletrodo (no modo de operação monopolar), a elevação de temperatura dos eletrodos em relação
+ao ambiente não pode exceder a 60°C, desde que a temperatura final não seja superior a 100ºC.
+2.14.3.4. Além da conexão das linhas do eletrodo aos eletrodos, devem ser especificados os equipamentos
+necessários para a equalização da distribuição de corrente nas várias secções do eletrodo bem como os
+dispositivos para monitoramento adequado da temperatura na superfície do eletrodo e da umidade do solo.
+Características elétricas
+2.14.4.1. A modelagem adotada para a resistividade do solo e sua estratificação deve ser devidamente
+justificada e comprovada a partir de medição. Para pequenas profundidades, pode ser utilizado o método
+Wenner ou similar e, para camadas mais profundas, devem ser utilizados métodos geológicos, como o
+método de medição magneto-telúrica.
+2.14.4.2. A resistência de aterramento do eletrodo de terra deve ser igual ou inferior a 0,35 , com um sub-
+eletrodo fora de serviço para manutenção.
+2.14.4.3. O eletrodo de terra deve ser dimensionado de forma a possibilitar sua operação em regime anódico
+ou catódico.
+Endereço na internet: http://www.ons.org.br 25 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+2.15. Linha do Eletrodo
+Capacidade de corrente
+2.15.1.1. A linha do eletrodo deve ser projetada com pelo menos dois conjuntos de condutores ou feixe de
+subcondutores independentes.
+2.15.1.2. A linha do eletrodo deve ser dimensionada de forma a permitir a operação do bipolo ao qual
+pertence sem qualquer tipo de restrição, para todos os modos operativos disponíveis. Em caso de
+compartilhamento da linha do eletrodo com outro bipolo na mesma estação conversora, a linha do eletrodo
+deve ser dimensionada para permitir, no mínimo, a operação do primeiro bipolo em operação bipolar e do
+segundo bipolo com operação monopolar, acrescida da sobrecarga disponível para este tipo de operação.
+Definição da flecha máxima dos condutores
+2.15.2.1. As distâncias de segurança da linha do eletrodo devem ser calculadas considerando a máxima
+corrente estabelecida para a operação do bipolo e levando em conta a ocorrência simultânea das seguintes
+condições climáticas:
+(a) temperatura máxima média da região;
+(b) radiação solar máxima da região; e
+(c) brisa mínima prevista para a região, desde que não superior a 1 m/s.
+Perda Joule nos cabos condutores
+2.15.3.1. A resistência equivalente por unidade de comprimento do feixe de subcondutores que compõe a
+linha de eletrodo deve ser igual ou inferior ao valor indicado pela documentação técnica que define as
+características do empreendimento. Em caso de licitação, deve ser seguido o Anexo Técnico, em caso de
+autorização, deve ser atendido o relatório R2 – Relatório de Detalhamento da Alternativa de Referência, que
+apresenta o detalhamento de engenharia da alternativa elaborada pelo planejamento e, em caso de licitação
+para interligação internacional, deve ser atendido o documento técnico da outorga.
+Coordenação de isolamento
+2.15.4.1. As cadeias de isoladores devem contemplar um isolador adicional e centelhadores, para facilitar a
+extinção do arco no caso de falta.
+2.15.4.2. O aterramento das torres que suportam essas linhas, dentro e fora da subestação, deve apresentar
+resistência compatível com a necessidade de extinção do arco.
+3. ETAPA DE DETALHAMENTO – OTIMIZAÇÃO DO CIRCUITO PRINCIPAL, DAS INTERAÇÕES CA/CC E TESTES
+3.1. Requisitos gerais
+3.1.1. Devem ser realizadas análises para a otimização dos controles, da proteção, dos esquemas de
+emergência e dos procedimentos operativos de forma geral, abordando de forma mais detalhada as
+interações CA/CC.
+3.1.2. O atendimento aos requisitos estabelecidos nos Procedimentos de Rede deve ser demonstrado
+considerando:
+Endereço na internet: http://www.ons.org.br 26 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+(a) os horizontes de planejamento e de operação;
+(b) as configurações de rede mais críticas no escopo da operação, dentro da abrangência do Plano da
+Operação Elétrica de Médio Prazo do SIN (PAR/PEL);
+(c) as etapas de implantação do projeto;
+(d) as condições extremas de potência de curto-circuito;
+(e) o número mínimo de máquinas em operação; e
+(f) a inércia mínima no sistema CA associado a qualquer terminal do elo CC.
+3.2. Tomada e retomada de carga
+3.2.1. O elo CC não deve permitir que tomadas e retomadas de carga da estação conversora, durante os
+processos de partida ou de recuperação após defeitos, produzam oscilações perturbadoras ou de longa
+duração na potência transmitida, na tensão ou na frequência.
+3.2.2. Em caso de recuperação após quaisquer faltas transitórias no lado CA, a estação conversora deve
+recuperar a potência transmitida para o valor de 90% daquela transmitida antes da falta entre 150 e 350 ms,
+devendo este valor ser estipulado no instrumento técnico dos documentos de outorga. Durante o período
+de recuperação não deve ocorrer nenhuma falha de comutação. Estão incluídos nesse caso os religamentos
+com ou sem sucesso.
+3.2.3. A operação de uma ou mais conversoras afetadas pelo evento não deve restringir a utilização de
+religamento monopolar ou tripolar rápido nas linhas de transmissão CA da Rede Básica.
+3.2.4. Operações do sistema de controle manual ou automático, de elementos manobráveis e/ou de
+comutadores automáticos de transformadores não devem resultar, no elo CC, em manobras intermitentes
+ou em oscilações anômalas na potência, na tensão ou na frequência, em qualquer configuração ou condição
+de operação da rede CA.
+3.2.5. O elo CC deve manter a transferência de potência e a operação das conversoras estáveis para
+variações de frequência na faixa de 56,5 a 66 Hz e para qualquer distorção da forma de onda da tensão CA
+causada pela dessintonia dos filtros CA ou pela perda de um banco de filtros.
+3.2.6. A conversora não deve prejudicar o desempenho normal e transitório de outras conversoras
+eletricamente próximas conectadas à Rede Básica ou às instalações de transmissão de energia elétrica
+destinadas a interligações internacionais conectadas à Rede Básica, o que deve ser demonstrado por meio
+de estudos específicos de operação conjunta com as conversoras afetadas (multi-infeed), considerando a
+possibilidade de instabilidade ou de colapso de tensão e de recuperação simultânea após faltas.
+3.3. Falhas de comutação
+3.3.1. Nos casos de utilização de comutação natural na estação conversora em funcionamento como
+inversora:
+(a) não deve haver falha de comutação para variações instantâneas de tensão inferiores a 7% da tensão
+pré-falta, considerando que a tensão pré-falta se encontra dentro da faixa de tensão operativa;
+(b) as manobras de energização e abertura de equipamentos no pátio CA das estações conversoras e de
+linhas CA conectadas às subestações conversoras, quando operando dentro da faixa operativa de
+tensão definida em 2.2.2 deste submódulo, não devem provocar falhas de comutação;
+Endereço na internet: http://www.ons.org.br 27 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+(c) a abertura intempestiva do maior banco de um elo CC, mesmo para as condições mais degradadas da
+rede CA, não deve causar falhas de comutação nos elos CC pertencentes à mesma subestação;
+(d) após a eliminação de faltas no sistema CA, o elo CC não deve apresentar falhas de comutação após a
+tensão alcançar o patamar de 0,90 pu, devendo a recuperação da potência CC se dar conforme item
+3.9 deste submódulo; e
+(e) casos específicos deverão ser definidos no instrumento técnico dos documentos de outorga.
+3.4. Operação dos conversores durante defeitos no sistema
+3.4.1. O elo CC deve ser capaz de se manter em operação com potência reduzida nas seguintes condições
+de tensão reduzida no lado CA da conversora:
+(a) tensão zero na fase sob defeito, para defeitos monofásicos com duração mínima de 0,5 segundo; e
+(b) tensão maior que 30% da nominal, para defeitos trifásicos com duração mínima de 0,25 segundo.
+3.4.2. Em qualquer desses casos, a recuperação da potência transmitida para os níveis pré-defeito deve se
+dar nas condições descritas no item 3.2.2. deste submódulo.
+3.4.3. A tensão decorrente de aplicação de falta no sistema CA, na primeira oscilação após a sua eliminação,
+deve ser de, no mínimo, 0,80 pu. Caso a tensão seja inferior a esse patamar, deve ser implantado
+equipamento de compensação reativa controlável.
+3.5. Interferência em rádio e em onda portadora
+3.5.1. As conversoras devem ser projetadas de maneira que os níveis de rádio interferência (RI) das radiações
+eletrostática e eletromagnética geradas,para qualquer condição operativa, pelas conversoras, pelos seus
+periféricos e pelas LT-CC e LT-CA delas derivadas não afetem equipamentos de telecomunicações da Rede
+Básica e não excedam os limites normatizados [12] sem a necessidade de qualquer blindagem na área externa
+da conversora.
+3.5.1.1. As interferências na faixa de 30 kHz a 500 kHz, provocadas pela estação conversora no sistema de
+onda portadora das linhas de transmissão da Rede Básica ou das instalações de transmissão de energia
+elétrica destinadas a interligações internacionais conectadas à Rede Básica, devem ficar limitadas a 20 dB
+abaixo do nível de sinal.
+3.6. Ruído audível
+3.6.1. O ruído audível medido no limite externo da cerca da subestação não deve exceder 58 dBA para o
+conjunto de todas as conversoras operando em condição normal e a plena carga, considerando condição de
+chuva fina (0,00148 mm/min). Para situações em que exista mais de uma conversora na mesma subestação,
+o limite individual é estabelecido no instrumento técnico dos documentos de outorga.
+3.6.2. A transmissora deve demonstrar por meio de simulações o atendimento a esse limite e, se necessário,
+indicar a aplicação de medidas mitigadoras eventualmente necessárias, tais como blindagem acústica,
+aumento da área da subestação, construção de muro etc. Deve ser considerado pelo projeto, em subestações
+em operação, o ruído pré-existente.
+3.7. Telecomunicação
+3.7.1. Os sistemas de telecomunicação para voz e dados do elo CC e para instalações back-to-back devem
+atender ao estabelecido no Submódulo 2.15 – Requisitos mínimos para telecomunicações.
+Endereço na internet: http://www.ons.org.br 28 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+3.7.2. Os sistemas de telecomunicação para as proteções das linhas CA conectadas às subestações
+conversoras devem atender ao estabelecido no Submódulo 2.11.
+3.7.3. Falhas do sistema de comunicação não devem causar operação incorreta do sistema de controle do
+elo CC. Caso ocorra falha da comunicação entre as estações, a transmissão de potência deve ser mantida no
+mesmo nível existente antes da falha.
+3.7.4. Durante falha de telecomunicação entre as estações, deve ser possível partir, operar e parar
+manualmente o elo CC a partir da sala de controle local de uma das estações. Nesse caso, a comunicação
+entre os operadores das estações conversoras deve ser mantida por telefone ou por outro meio de
+comunicação.
+3.8. Confiabilidade do sistema de controle
+3.8.1. O sistema de controle deve ter redundância de 100% (ser duplicado) e ser projetado para que cada
+um dos sistemas possa ser mantido, testado ou reparado durante a operação do elo CC, sem afetar o
+desempenho do elo CC.
+3.8.2. A perda de um dos dois sistemas de controle não deve causar distúrbio na potência transmitida pelo
+elo CC nem perda de um polo.
+3.9. Sistema de controle
+3.9.1. Os tempos de resposta devem ser especificados considerando as configurações de rede previstas nos
+estudos do planejamento da expansão e as configurações de rede previstas no PAR. Devem também levar
+em conta a possibilidade de operação do elo CC com fluxo de potência nas duas direções, caso essa condição
+seja prevista nos estudos de planejamento.
+3.9.2. O erro do controle de potência não deve ser superior a 1,5%.
+3.9.3. O erro do controle de corrente não deve ser superior a 0,7%.
+3.9.4. Embora a operação da conversora seja automática, deve ser possível ao operador exercer as seguintes
+funções:
+(a) selecionar o modo de operação;
+(b) selecionar o local de despacho, seja no retificador, seja no inversor;
+(c) selecionar potência total, taxa de variação e direção do fluxo;
+(d) ligar ou desligar filtros, reatores e capacitores em derivação e posicionar os comutadores de derivação
+sob carga; e
+(e) comandar a partida e a parada do elo CC, a parada do sistema em emergência e a alteração de tomada
+de carga.
+3.9.5. Para defeitos na LT CC, o sistema de controle deve restabelecer 90% da potência que era transmitida
+antes do defeito, em 150 ms, sem incluir o tempo de arco e de deionização.
+3.9.6. Resposta da corrente CC:
+(a) Para operação em qualquer ordem de potência entre a potência mínima e a capacidade de sobrecarga
+contínua, a corrente CC deve responder a um degrau de aumento ou de diminuição na ordem de
+corrente, atingindo 90% do valor final sem redução posterior, da seguinte forma:
+Endereço na internet: http://www.ons.org.br 29 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+(1) para um degrau aplicado a ordem de corrente inferior à margem de corrente, já considerando as
+tolerâncias e erros de medição da corrente, em até 30 ms;
+(2) para um degrau de 30% na ordem de corrente em até 70 ms.
+3.9.7. Resposta da potência CC:
+(a) O controlador de potência CC deve ser ajustado de tal maneira que o sistema CC tenha as
+características de um sistema de corrente constante para defeitos nos sistemas CA seguidos de
+oscilações amortecidas de tensão e de potência de baixa frequência na faixa de 0,2 a 2 Hz.
+(b) A resposta do controlador de potência para um degrau de aumento ou de diminuição na ordem de
+potência de 50% deve ser tal que, em até 150 ms, seja atingido 90% do valor da nova ordem, sem
+redução posterior.
+(c) Em caso de recuperação após qualquer falta transitória, no lado CA, o elo deve recuperar a potência
+transmitida para o valor de 90% daquela transmitida antes da falta, no valor especificado pelo
+instrumento técnico dos documentos de outorga, sem posterior redução de potência. Durante o
+período de recuperação, não deve ocorrer nenhuma falha de comutação. Estão incluídos neste caso
+os religamentos com e sem sucesso.
+3.9.8. Resposta da Tensão CC:
+(a) A resposta da tensão CC deve ser tal que, para qualquer degrau de corrente, potência ou tensão CA,
+a tensão CC não seja superior à tensão máxima de projeto da linha.
+3.9.9. Inversão do fluxo de potência na LT-CC
+(a) Na transmissão bidirecional, os controles devem ser capazes de reverter o fluxo de potência do elo
+CC, que deve operar com qualquer potência entre a potência mínima e a capacidade de sobrecarga
+contínua especificada pelo agente.
+3.9.10. Limitadores de corrente:
+(a) O sistema de controle do elo CC deve dispor de um limitador da ordem de corrente, dependente da
+tensão CA, para limitar transitoriamente a corrente no elo CC durante afundamentos de tensão no
+sistema CA. Esse limitador deve ser dimensionado com base nos estudos de sistema.
+(b) Em caso de estações back-to-back, o elo CC deve dispor de um limitador de ordem de corrente
+dependente da tensão CA, para restringir transitoriamente a corrente no elo durante afundamentos
+de tensão no sistema CA. Esse limitador deve ser dimensionado com base nos estudos de sistema.
+3.9.11. Controle de desbalanço dos polos:
+(a) O controle de desbalanceamento dos polos pertencentes ao controle da estação conversora deve ser
+projetado para minimizar a corrente na linha do eletrodo.
+(b) A corrente de desbalanço entre polos da transmissão bipolar deve ser inferior a 1,5% da corrente
+nominal.
+3.10. Controle Mestre (Master Control)
+3.10.1. Elos CC constituídos por múltiplos bipolos devem ser providos de um Controle Mestre para a
+coordenação de sua operação.
+Endereço na internet: http://www.ons.org.br 30 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+3.10.2. Devem ser disponibilizados ao Controle Mestre todos os sinais necessários à sua correta operação,
+incluindo os sinais topológicos referentes ao estado dos equipamentos das subestações conversoras, bem
+como aqueles provenientes de usinas e demais subestações que possam afetar o seu desempenho.
+3.10.3. Seus controles devem ter redundância mínima de 100%. Esta redundância se aplica também aos
+serviços auxiliares de alimentação CC e CA. Os painéis alimentados pelos serviços auxiliares CC devem ser
+completamente independentes. Os painéis CA também devem ter alimentação independente.
+3.10.4. O Controle Mestre deve ser capaz de desempenhar as seguintes funções principais:
+(a) avaliar e implementar, com base na topologia da subestação e na potência transmitida no(s) elo(s)
+CC, a inserção ou retirada de operação de filtros e de compensação reativa;
+(b) comandar as ações de controle dos bipolos para a modulação da potência CC para a estabilização de
+frequência do sistema CA;
+(c) comandar as ações dos bipolos para amortecimento de oscilações do sistema CA;
+(d) comandar automaticamente a redistribuição de potência entre polos e/ou bipolos, em caso de perda
+de elementos;
+(e) comandar automaticamente as ações de paralelismo de elementos de transmissão dos bipolos
+incluindo as linhas de eletrodo.
+3.10.5. O Controle Mestre deve estar equipado para comandar automaticamente a abertura de
+equipamentos pertencentes ao seu empreendimento, como por exemplo filtros, e comandar a abertura de
+equipamentos de terceiros, como por exemplo linhas ou geradores, seja por ação direta ou por meio de
+centros de controle de terceiros, inclusive do ONS. Em caso de equipamentos de terceiros, caberá ao Sistema
+de Controle e Proteção do agente responsável pelo equipamento processar a ação solicitada e executar o
+comando nos seus equipamentos, conforme os requisitos de tempo de resposta necessários.
+3.10.6. O Controle Mestre deve estar equipado para efetuar ações de run back (redução de potência
+automática) para evitar variações de frequência no sistema coletor, ou para fazer frente a perda de linhas no
+sistema CA adjacente às estações conversoras ou a perda de elementos que compõem o sistema de geração,
+que impossibilitem a manutenção do nível de potência transmitida pelo elo CC. Para outras situações, o
+Controle Mestre deve estar também equipado para efetuar ações de run forward (aumento de potência
+automático).
+3.10.7. O instrumento técnico dos documentos de outorga deve definir a quem cabe a responsabilidade pela
+obtenção dos sinais em instalações de terceiros, que devem atender a requisitos de telecomunicações e
+respeitar os tempos de latência necessários à operação adequada do Controle Mestre. Os estudos de Projeto
+Básico devem definir quantos e quais são os sinais necessários.
+3.11. Proteção
+3.11.1. No projeto da proteção dos equipamentos do lado CA e CC das estações conversoras, deve-se
+considerar a influência dos harmônicos gerados pelas conversoras em seu desempenho durante defeitos e
+atender aos requisitos constantes do Submódulo 2.11.
+3.12. Supervisão e controle
+3.12.1. Os sistemas de supervisão e controle dos equipamentos de manobra dos pátios CA e CC devem
+atender ao disposto no Submódulo 2.12 – Requisitos mínimos de supervisão e controle para a operação.
+Endereço na internet: http://www.ons.org.br 31 / 32
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para elos em corrente
+2.8 Requisitos 2021.08 17/09/2021
+contínua
+Deve haver comunicação entre a instalação do elo CC e os centros de controle do ONS, por meio dos
+protocolos de comunicação disponíveis nesses centros.
+3.12.2. O ONS define o centro com o qual as instalações do elo CC devem se relacionar.
+3.13. Registro de perturbações
+3.13.1. Os registradores de perturbações devem atender aos requisitos constantes no Submódulo 2.11.
+3.14. Perdas
+3.14.1. A transmissora, entre a etapa de detalhamento e a entrada em operação comercial, deve comprovar
+o atendimento dos níveis de perdas por meio de ensaios, executados pelo fornecedor, dos diversos
+componentes do elo CC.
+4. REFERÊNCIAS
+[1] International Electrotechnical Commission. IEC 61000-4-30. Testing and Measuring Techniques – Power
+Quality Measurement Methods. 2003 IEC 61000-4-30.
+[2] International Electrotechnical Commission. Insolation co-ordination – Part 1: Definitions, principles and
+rules. IEC-60071-1.
+[3] International Electrotechnical Commission. Insolation co-ordination – Part 2: Application guide. IEC-
+60071-2.
+[4] International Electrotechnical Commission. Insulation co-ordination – Part 4: Computational guide to
+insulation co-ordination and modeling of electrical networks. IEC-60071-4.
+[5] International Electrotechnical Commission. Insulation co-ordination – Part 5: Procedures for high-voltage
+current (HVDC) converter stations. IEC-60071-5.
+[6] International Electrotechnical Commission. Insulation co-ordination. IEC 60071.
+[7] International Electrotechnical Commission. Selection and dimensioning of high-voltage insulators
+intended for use in polluted conditions. IEC/TR 60815.
+[8] International Electrotechnical Commission. Performance of high-voltage direct current (HVDC) systems
+with line-commutated converters – Part 1: Steady-state conditions. IEC 60919-1.
+[9] International Electrotechnical Commission. Performance of high-voltage direct current (HVDC) systems
+with line-commutated converters – Part 2: Faults and Switchning. IEC 60919-2.
+[10] International Electrotechnical Commission. Performance of high-voltage direct current (HVDC) systems
+with line-commutated converters - Part 3: Dynamic conditions. IEC 60919-3.
+[11] CIGRE Working Group 33/14-05. Application guide for metal oxide arresters without gaps for HVDC
+converter stations. Junho, 1988.
+[12] Associação Brasileira de Normas Técnicas. Transformador de potência. ABNT NBR 5356.
+Endereço na internet: http://www.ons.org.br 32 / 32

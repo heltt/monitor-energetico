@@ -1,0 +1,15 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: DESPACHO Nº 297, DE 30 DE JANEIRO DE 2026
+DATA_PUBLICACAO: 04/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=04/02/2026&jornal=515&pagina=65
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Energia Elétrica/Superintendência de Regulação dos Serviços de Transmissão e Distribuição de Energia Elétrica
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+DESPACHO Nº 297, DE 30 DE JANEIRO DE 2026
+O SUPERINTENDENTE DE REGULAÇÃO DOS SERVIÇOS DE TRANSMISSÃO E DISTRIBUIÇÃO DE ENERGIA ELÉTRICA DA AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA - ANEEL, no uso das atribuições que lhe foram delegadas pelo Inciso I do art. 1º da Portaria nº 6.823, de 4 maio de 2023 e tendo em vista o que consta do Processo nº 48500.008490/2025-44, decide:
+Indeferir a solicitação da ARGO III Transmissão de Energia S.A., inscrita no CNPJ/MF sob o nº 27.847.022/0001-48, de afastamento da aplicação de Parcela Variável Por Indisponibilidade - PVI em razão do desligamento automático da FT LT 230 kV Ariquemes - JI Paraná C4, em 23 de setembro de 2024.
+CARLOS ALBERTO CALIXTO MATTAR

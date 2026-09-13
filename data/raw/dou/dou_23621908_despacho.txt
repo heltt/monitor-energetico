@@ -1,0 +1,20 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 25/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=25/02/2026&jornal=515&pagina=89
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado do Mato Grosso
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 50/2026
+Fase de Autorização de Pesquisa
+Autoriza a emissão de Guia de Utilização - prazo 2 anos(2753)
+866.843/2025 - AREEIRA FREITAS LTDA - CÁCERES/MT - Guia n° 43/2026 - Substância(s): Areia e Cascalho - Volume(s): 50.000 e 3.000 toneladas/ano
+Autoriza a emissão de Guia de Utilização - prazo 3 anos(2754)
+867.160/2024 - ROBERTO BASSO - RIBEIRÃO CASCALHEIRA/MT - Guia n° 55/2026 - Substância(s): Minério de Ouro, Areia e Cascalho - Volume(s): 50.000, 50.000 e 8.500 toneladas/ano
+JOCY GONÇALO DE MIRANDA
+Gerente

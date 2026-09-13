@@ -1,0 +1,15 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: DESPACHO Nº 366, DE 3 DE FEVEREIRO DE 2026
+DATA_PUBLICACAO: 06/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=06/02/2026&jornal=515&pagina=77
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Energia Elétrica/Diretoria Colegiada
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+DESPACHO Nº 366, DE 3 DE FEVEREIRO DE 2026
+A DIRETORA-GERAL SUBSTITUTA DA AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA - ANEEL, conforme a Portaria nº 160, de 23 de maio de 2025, no uso de suas atribuições regimentais, de acordo com a deliberação da Diretoria, bem como o que consta do Processo nº 48500.036028/2025-37, decide:
+conhecer e, no mérito, negar provimento ao pedido de medida cautelar interposto por Rodrigo Luiz Abrão por meio do qual se solicita determinar a comunicação imediata às distribuidoras de energia para exigência de que os sistemas fotovoltaicos tenham a função de desligamento rápido, nos termos da NBR 17.193/2025 em novas conexões e a elaboração de plano para instalações existentes.
+AGNES MARIA DE ARAGÃO DA COSTA

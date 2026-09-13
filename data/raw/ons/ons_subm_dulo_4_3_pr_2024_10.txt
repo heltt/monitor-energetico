@@ -1,0 +1,300 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 4.3-PR_2024.10
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 4.3-PR_2024.10.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 4.3
+Programação mensal da operação
+energética
+Procedimental
+Revisão Motivo da revisão Data de aprovação
+2024.10 Resolução Normativa ANEEL nº 22/10/2024
+1.104/2024
+Procedimentos de Rede – Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação mensal da operação energética 4.3 Procedimental 2024.10 30/10/2024
+ÍNDICE
+1. ELABORAÇÃO DO PROGRAMA MENSAL DA OPERAÇÃO ENERGÉTICA E SUAS REVISÕES...................3
+1.1. Obtenção de dados e informações................................................................................................3
+1.2. Execução do modelo de otimização de médio prazo para atualização da Função de Custo
+Futuro (FCF)...................................................................................................................................4
+1.3. Análise e consistência dos dados de entrada do modelo de otimização de curto prazo..............5
+1.4. Execução do modelo de otimização de curto prazo e análise dos resultados..............................5
+1.5. Definição da política de operação energética e disponibilização do Programa Mensal de
+Operação e de metas e diretrizes eletroenergéticas....................................................................7
+1.6. Disponibilização das bases de dados dos modelos de otimização de médio prazo e de curto
+prazo..............................................................................................................................................7
+2. REFERÊNCIAS...................................................................................................................................8
+3. ANEXOS...........................................................................................................................................8
+ANEXO A - Informações encaminhadas pelos agentes para a elaboração do PMO e suas revisões.......9
+Endereço na internet: http://www.ons.org.br 2 / 9
+Procedimentos de Rede – Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação mensal da operação energética 4.3 Procedimental 2024.10 30/10/2024
+1. ELABORAÇÃO DO PROGRAMA MENSAL DA OPERAÇÃO ENERGÉTICA E SUAS REVISÕES SEMANAIS
+1.1. Obtenção de dados e informações
+1.1.1. Para a execução do modelo de otimização de curto prazo, no âmbito da elaboração do Programa
+Mensal da Operação Energética (PMO), o Operador Nacional do Sistema Elétrico – ONS toma por base a
+Função de Custo Futuro (FCF) atualizada mensalmente, conforme [1], obtida da execução do modelo de
+otimização de médio prazo, estabelecido no Submódulo 3.3 – Planejamento da operação energética de
+médio prazo.
+1.1.2. O ONS considera os seguintes dados e informações, obtidos de outros processos da cadeia de
+planejamento, para elaboração do PMO e suas revisões semanais:
+(a) previsão de vazões naturais médias semanais e mensais e energias naturais afluentes previstas,
+conforme Submódulo 4.6 – Análise e tratamento dos dados hidroenergéticos e previsão e geração de
+cenários de vazões;
+(b) vazões naturais médias mensais verificadas e energias naturais afluentes verificadas, conforme
+Submódulo 4.6;
+(c) volumes de espera para controle de cheias, conforme Submódulo 3.7 – Planejamento anual de
+prevenção de cheias;
+(d) restrições ambientais, de controle de cheias e de uso múltiplo da água dos reservatórios e usinas
+simulados individualmente nos modelos energéticos, conforme Submódulo 4.7 – Atualização de
+informações sobre restrições hidráulicas dos aproveitamentos hidroelétricos;
+(e) características físico-operativas dos reservatórios e usinas hidráulicas simulados individualmente nos
+modelos energéticos, conforme Submódulo 3.8 – Atualização de dados técnicos dos aproveitamentos
+hidroelétricos;
+(f) limites elétricos de transmissão entre subsistemas;
+(1) Para o cálculo dos limites máximos de intercâmbio entre subsistemas, são utilizados os limites de
+transferência de potência para todos os patamares de carga.
+(2) Os limites de transferência para os patamares de carga são aqueles determinados pelos estudos
+elétricos com horizonte quadrimestral e suas respectivas atualizações mensais, conforme
+Submódulo 3.4 – Planejamento da operação elétrica com horizonte quadrimestral e Submódulo
+4.1, respectivamente, considerando as alterações topológicas da malha de transmissão.
+(3) No cálculo dos limites elétricos de transmissão, também são incluídos os desligamentos que
+impõem limites na transmissão entre subsistemas informados nos estudos elétricos com horizonte
+quadrimestral, e suas atualizações mensais, bem como os desligamentos previstos para a primeira
+semana operativa.
+(4) Caso ocorra a entrada em operação de empreendimento de transmissão que altere os limites de
+transmissão durante o primeiro mês do modelo de otimização de curto prazo, as alterações de
+limites serão aplicadas no modelo de otimização de curto prazo na revisão semanal seguinte, de
+acordo com as informações disponibilizadas previamente no relatório mensal, conforme o
+Submódulo 2.4.
+(5)Os limites de transmissão definidos pelos estudos de planejamento elétrico de médio prazo, que
+ocorrem conforme periodicidade descrita no Submódulo 2.4 (Operacional), são atualizados no
+Endereço na internet: http://www.ons.org.br 3 / 9
+Procedimentos de Rede – Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação mensal da operação energética 4.3 Procedimental 2024.10 30/10/2024
+PMO seguinte caso a antecipação de entrada em operação de empreendimentos da transmissão
+seja alterada para o primeiro ou segundo mês do modelo de otimização de curto prazo e que esta
+alteração implique em mudanças nos limites da primeira configuração de transmissão definida no
+relatório de limites de médio prazo vigente.
+(g) previsão de carga ativa consolidada, conforme Submódulo 4.4 – Consolidação da previsão de carga
+para programação eletroenergética;
+(h) duração, em horas, dos patamares de carga de energia mensais e semanais, conforme Submódulo
+4.4;
+(i) desligamentos no sistema de transmissão programados para o período do estudo que imponham
+limitações de geração nas usinas simuladas individualmente nos modelos energéticos, conforme
+Submódulo 4.2 – Programação de intervenções em instalações da Rede de Operação;
+(j) geração mínima, por razões de confiabilidade elétrica, por patamar de carga, das usinas simuladas
+individualmente nos modelos energéticos, conforme Submódulo 4.1;
+(k) energia disponível de usinas não simuladas individualmente, conforme Submódulo 2.4; e
+(l) energia de empreendimentos de micro e minigeração distribuída - MMGD, conforme Submódulo 2.4.
+1.1.3. O ONS considera, no primeiro mês do estudo do PMO, as unidades liberadas para a operação
+comercial. Para o período estocástico, considera-se a mesma oferta utilizada no modelo de otimização de
+médio prazo.
+1.1.4. O ONS obtém do Poder Concedente, da Agência Nacional de Energia Elétrica - ANEEL e da Câmara de
+Comercialização de Energia Elétrica – CCEE, as informações adicionais necessárias para elaboração do
+Programa Mensal da Operação Energética e suas revisões semanais, conforme apresentado no Submódulo
+2.4 (Operacional).
+1.1.5. O ONS divulga aos agentes envolvidos os formatos, os meios e os prazos estabelecidos para o envio
+de dados e informações a serem considerados na elaboração do PMO e suas revisões semanais.
+1.1.6. Os agentes envolvidos encaminham ao ONS, nos formatos, meios e prazos estabelecidos, os dados
+sob sua responsabilidade, detalhados no Anexo A deste submódulo, por patamar de carga, com um horizonte
+de até dois meses à frente, sendo o primeiro mês discretizado em etapas semanais.
+1.1.6.1. As informações dos agentes referentes ao modelo de otimização de médio prazo necessárias à
+elaboração do PMO são encaminhadas quando das atualizações quadrimestrais dos estudos do ciclo anual
+de planejamento da operação energética, conforme estabelecido no Submódulo 3.3.
+1.1.7. Em caso de não cumprimento pelos agentes envolvidos dos prazos estabelecidos, o ONS determina a
+forma de preenchimento das informações faltantes para viabilizar a realização do PMO e de suas revisões
+semanais, sem prejuízo do encaminhamento das não-conformidades, estabelecido no Submódulo 1.3 –
+Identificação e tratamento das não conformidades.
+1.2. Execução do modelo de otimização de médio prazo para atualização da Função de Custo Futuro (FCF)
+1.2.1. O ONS atualiza os dados de entrada do modelo de otimização de médio prazo, com horizonte de
+análise de até 60 meses à frente, considerando os dados e informações obtidos para realização dos estudos
+do ciclo anual de planejamento da operação energética de médio prazo, estabelecidos no Submódulo 3.3, e
+conforme critérios estabelecidos no Submódulo 2.4.
+Endereço na internet: http://www.ons.org.br 4 / 9
+Procedimentos de Rede – Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação mensal da operação energética 4.3 Procedimental 2024.10 30/10/2024
+1.2.1.1. O ONS disponibiliza aos agentes envolvidos, conforme [1], os arquivos de dados preliminares do
+modelo de otimização de médio prazo contendo os dados e informações disponíveis até o prazo
+estabelecido.
+1.2.1.2. Para os dois primeiros meses do horizonte de análise, os dados e informações considerados serão
+compatíveis com aqueles obtidos conforme item 1.1 deste submódulo, considerando as especificidades dos
+modelos computacionais utilizados.
+1.2.1.3. O ONS atualiza a oferta considerada no modelo de otimização de médio prazo com base no
+cronograma de obras de empreendimentos de geração conforme detalhado no Submódulo 2.4
+(Operacional).
+1.2.2. O ONS executa o modelo de otimização de médio prazo e obtém a FCF atualizada, com as estratégias
+de planejamento da operação energética de médio prazo, a ser utilizada no Modelo para Otimização da
+Operação de Curto Prazo com Base em Usinas Individualizadas (modelo de otimização de curto prazo).
+1.2.2.1. A FCF pode ser revista, a qualquer tempo, conforme critérios estabelecidos em [1].
+1.2.2.2. No caso de atualização extraordinária da FCF, a mesma será utilizada a partir das revisões semanais
+do mês de referência do estudo subsequentes a data desta atualização.
+1.3. Análise e consistência dos dados de entrada do modelo de otimização de curto prazo
+1.3.1. O ONS analisa os dados encaminhados pelos agentes envolvidos, consiste e consolida as informações,
+e as incorpora ao conjunto de dados de entrada do modelo de otimização de curto prazo, apresentados no
+item 1.1 deste submódulo dando origem ao arquivo de dados preliminares do modelo de otimização de curto
+prazo.
+1.3.1.1. Em caso de modificações nas informações referentes a CVU, encaminhadas antecipadamente à
+ANEEL, pelo agente de geração responsável, acompanhadas de justificativa técnica, serão incorporadas ao
+conjunto de dados de entrada do modelo de otimização de curto prazo somente após autorização da ANEEL.
+1.3.1.2. O agente de geração poderá declarar valor inferior ao CVU aprovado pela ANEEL ou atualizado pela
+CCEE, desde que atendidas as condições estabelecidas em [1].
+1.3.2. Para a elaboração do PMO e suas revisões semanais, o ONS, em conjunto com os agentes envolvidos,
+consiste os dados de entrada do modelo de otimização de curto prazo.
+1.3.3. O ONS, quando verificada alguma inconsistência nos dados encaminhados pelos agentes, solicita ao
+agente responsável a atualização com base em justificativa técnica.
+1.3.3.1. Os agentes envolvidos, retificam ou ratificam seus dados de forma a atender ao cronograma do
+estudo, e o ONS elabora o arquivo de dados preliminares e disponibiliza a todos os agentes envolvidos.
+1.3.3.2. Os agentes envolvidos informam ao ONS caso sejam encontradas divergências entre os dados
+enviados e os apresentados no arquivo de dados preliminares do modelo de otimização de curto prazo.
+1.3.3.3. O ONS analisa as inconsistências identificadas pelos agentes envolvidos e, caso necessário, efetua
+as devidas alterações no arquivo de dados preliminares do modelo de otimização de curto prazo.
+1.4. Execução do modelo de otimização de curto prazo e análise dos resultados
+1.4.1. O ONS incorpora as informações consistidas nos arquivos de dados do modelo de otimização de curto
+prazo, executa o modelo e obtém os seguintes resultados:
+(a) Custo Marginal de Operação (CMO) médio semanal, por subsistema, por patamar de carga;
+Endereço na internet: http://www.ons.org.br 5 / 9
+Procedimentos de Rede – Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação mensal da operação energética 4.3 Procedimental 2024.10 30/10/2024
+(b) definição dos valores de despacho de geração das usinas simuladas individualmente nos modelos
+energéticos, estabelecidas no Submódulo 2.4;
+(c) intercâmbios de energia entre os subsistemas; e
+(d) evolução dos armazenamentos de cada reservatório.
+1.4.2. O ONS analisa os resultados da execução do modelo de otimização de curto prazo no que se refere as
+condições de atendimento à carga por patamar de carga, visando a implementação de medidas que
+objetivem recompor, em caso de necessidade, o atendimento ao subsistema em déficit.
+1.4.2.1. Em função das condições conjunturais de armazenamento e afluências, bem como dos cenários de
+evolução de oferta e carga e do comportamento hidrológico nas bacias do SIN, o ONS realiza análise
+prospectiva da evolução das condições operativas dos subsistemas que compõem o SIN, para um período de
+até doze meses à frente, a fim de subsidiar a tomada de decisão de curto prazo. A elaboração do estudo
+prospectivo é feita com periodicidade e critérios determinados pelo ONS.
+1.4.3. O ONS reexecuta o modelo de otimização de curto prazo, quando:
+(a) em caso de revisão da Função de Custo Futuro conforme critérios estabelecidos em [1]Error!
+Reference source not found.; e
+(b) em caso de ocorrência de vertimentos para atendimento dos volumes de espera em aproveitamentos
+hidroelétricos que integram o Plano Anual de Prevenção de Cheias (PAPC), o ONS analisa e verifica a
+necessidade de revisão dos volumes de espera conforme Submódulo 3.7 – Planejamento anual de
+prevenção de cheias.
+1.5. Planos de Contingência
+1.5.1. Na semana de elaboração do PMO, caso o ONS não obtenha os resultados do modelo de médio prazo,
+para o respectivo PMO, até as 06h00 da sexta-feira1, são utilizados os resultados do modelo de médio prazo
+mais recentes disponíveis.
+1.5.1.1. Na ocorrência do previsto no item 1.5.1, os resultados do modelo de médio prazo, para o respectivo
+PMO, são considerados a partir da primeira revisão subsequente em que forem obtidos até as 06h00 da
+sexta-feira1 da semana de elaboração da respectiva revisão
+1.5.2. Caso o ONS não obtenha os resultados do modelo de curto prazo até as 12h00 de sexta-feira1, são
+utilizados os resultados válidos mais recentes disponíveis.
+1.5.2.1. O ONS avalia, diariamente, se o modelo de curto prazo obteve os resultados atualizados da semana
+operativa atualmente em elaboração e, em caso positivo, os novos resultados são utilizados no modelo de
+curtíssimo prazo do próximo dia, desde que sejam respeitados os prazos relacionados à programação diárias.
+1.5.3. O ONS comunica aos agentes sobre os eventuais acionamentos dos planos de contingência.
+1.6. Definição da política de operação energética e disponibilização do Programa Mensal de Operação e
+suas revisões semanais e de metas e diretrizes eletroenergéticas
+1 Em caso de alterações nos dias da semana indicados, em função da ocorrência de feriados, o ONS informa de forma
+antecipada os novos prazos a serem atendidos em cada excepcionalidade.
+Endereço na internet: http://www.ons.org.br 6 / 9
+Procedimentos de Rede – Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação mensal da operação energética 4.3 Procedimental 2024.10 30/10/2024
+1.6.1. O ONS define a política de operação energética para o período de estudo do PMO e suas revisões
+semanais, com base nos resultados da execução do modelo de curto prazo, de forma a atender os desvios
+de carga e/ou diferenças de recursos nos subsistemas.
+1.6.2. O ONS disponibiliza o PMO e suas revisões semanais a todos os agentes envolvidos, com horizonte de
+análise mensal, discretizado em base semanal para o primeiro mês, que pode ser estendido por um período
+variável, desde que resguardada a base mensal.
+1.6.2.1. As semanas compreendidas no estudo correspondem ao período estabelecido em [1].
+1.6.3. O ONS elabora as metas e diretrizes eletroenergéticas de forma a subsidiar as etapas de programação
+diária eletroenergética, conforme Submódulo 4.5 – Programação Diária da Operação, e da operação em
+tempo real, com diretrizes a serem implementadas nos programas de geração e intercâmbio dos agentes
+envolvidos, de forma a viabilizar o cumprimento da política energética definida no PMO e suas revisões
+semanais.
+1.7. Disponibilização das bases de dados dos modelos de otimização de médio prazo e de curto prazo
+1.7.1. Após a consolidação do PMO, o ONS disponibiliza a todos os agentes envolvidos e à CCEE as bases de
+dados dos modelos de otimização de médio prazo e de curto prazo, bem como os resultados da execução
+dos modelos.
+1.7.1.1. No que se refere ao modelo de otimização de médio prazo, são disponibilizadas as premissas de
+modelagem, os principais insumos considerados para a execução do modelo e a FCF.
+1.7.1.2. No que se refere ao modelo de otimização de curto prazo, são disponibilizados os seguintes
+resultados:
+(a) para as usinas simuladas individualmente nos modelos energéticos, conforme o Submódulo 2.4:
+(1) despacho de geração individualizado, por patamar de carga e seu valor médio semanal, das
+usinas hidroelétricas;
+(2) despacho de geração por patamar de carga e seu valor médio semanal da usina de Itaipu, para
+suprimento ao SIN, discretizada nos setores de 50Hz e 60Hz;
+(3) despacho de geração individualizado por patamar de carga e seu valor médio semanal das usinas
+termoelétricas;
+(4) disponibilidade de geração média semanal das usinas hidroelétricas;
+(5) níveis de armazenamento dos reservatórios, ao final de cada semana operativa;
+(6) cronogramas de manutenção de unidades geradoras hidroelétricas e termoelétricas
+consolidados junto aos agentes;
+(7) energia média vertida turbinável e não turbinável, por patamar de carga e seus valores médios
+semanais.
+(b) estimativas dos montantes líquidos de energia disponibilizados para o SIN agrupados por subsistema,
+de empreendimentos de geração não simulados individualmente nos modelos energéticos;
+(c) CMO, em base semanal, por subsistema e por patamar de carga;
+(d) balanços de energia por subsistemas, em base semanal; e
+(e) intercâmbios de energia entre os subsistemas, por patamar de carga e média semanal.
+1.7.1.3. As versões dos modelos computacionais utilizados pelo ONS são aquelas validadas com a
+participação dos agentes e homologadas pela ANEEL, por meio de ato específico.
+Endereço na internet: http://www.ons.org.br 7 / 9
+Procedimentos de Rede – Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação mensal da operação energética 4.3 Procedimental 2024.10 30/10/2024
+1.7.2. Após a consolidação de cada revisão semanal do PMO, o ONS disponibiliza a todos os agentes
+envolvidos e à CCEE a base de dados do modelo de otimização de curto prazo atualizada na respectiva revisão
+semanal.
+1.7.3. Em caso de atualização extraordinária das Funções de Custo Futuro, o ONS informa aos agentes
+envolvidos, bem como disponibiliza a base de dados do modelo de otimização de médio e/ou curto prazo.
+1.7.4. O ONS disponibiliza à CCEE e aos agentes envolvidos informativo sobre os CVUs e os despachos
+decorrentes de inflexibilidades e restrições elétricas das usinas termoelétricas, bem como os motivos que
+determinaram os despachos em função de restrições elétricas do SIN, considerados na elaboração do PMO.
+2. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa nº 1.032, de 26 de julho de 2022.
+[2] ANEEL. Resolução Normativa nº 1.029, de 25 de julho de 2022.
+[3] ANEEL. Resolução Normativa nº 1.033, de 26 de julho de 2022.
+3. ANEXOS
+Anexo A - Informações encaminhadas pelos agentes para a elaboração do PMO e suas revisões semanais.
+Endereço na internet: http://www.ons.org.br 8 / 9
+Procedimentos de Rede – Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação mensal da operação energética 4.3 Procedimental 2024.10 30/10/2024
+ANEXO A - Informações encaminhadas pelos agentes envolvidos para a elaboração do PMO e
+suas revisões semanais2
+A.1. Agentes de geração
+(a) cronograma atualizado de manutenção de equipamentos, com identificação da usina, da unidade
+geradora e sua potência nominal, do dia, mês e hora de início e fim da manutenção e do motivo de
+sua realização;
+(b) armazenamentos previstos dos reservatórios para as 00h00min do primeiro dia da semana operativa
+do período de estudo, expressos em percentuais de seus volumes úteis;
+(c) valores de geração mínima/inflexibilidade por patamar de carga, em MWmed, das usinas
+termoelétricas [4];
+(d) disponibilidade líquida, em MWmed, por patamar de carga, das usinas termoelétricas, já consideradas
+as indisponibilidades decorrentes de manutenções e restrições operativas;
+(e) CVU, em R$/MWh, por patamar de carga, das usinas termoelétricas que não sejam vendedoras nos
+Leilões de Energia, acompanhados de justificativa técnica em caso de modificação em relação a
+informações anteriores;
+(f) geração líquida e potência semanal disponível das usinas reversíveis, por patamar de carga;
+(g) restrições operativas das usinas térmicas ou hidráulicas, que limitem a produção das unidades
+geradoras, com indicação das causas dessas restrições, da produção mínima e/ou máxima de energia,
+em MWmed, por patamar de carga, e da potência máxima disponível, em MW.
+A.2. Agente comercializador de Itaipu Binacional
+(a) valor de potência contratada da Usina Hidroelétrica de Itaipu (UHE Itaipu) para o sistema elétrico
+brasileiro, em MWmed, por semana;
+(b) cronograma atualizado de manutenção, com identificação da unidade geradora e sua potência
+nominal, do dia, mês e hora de início e fim da manutenção e do motivo de sua realização;
+(c) suprimentos previstos de energia e demanda para a Administración Nacional de Electricidad – ANDE,
+em base semanal e por patamar de carga;
+(d) consumo interno de energia do setor de 50Hz, por patamar de carga, e seu valor no horário de ponta;
+(e) limites de geração mínima e máxima, por patamar de carga semanal, decorrentes do acordo tripartite.
+(f) armazenamento previsto do reservatório para as 00h00min do primeiro dia da semana operativa do
+período de estudo, expressos em percentuais de seus volumes úteis.
+2 Informações associadas ao cronograma de enchimento de volume morto de novos reservatórios estão detalhadas na
+Rotina Operacional de Apuração dos Dados Hidrológicos e Hidráulicos no Submódulo 5.13 – Rotinas Operacionais.
+Endereço na internet: http://www.ons.org.br 9 / 9

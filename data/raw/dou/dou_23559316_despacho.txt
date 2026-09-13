@@ -1,0 +1,18 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 02/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=02/02/2026&jornal=515&pagina=94
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Superintendência de Arrecadação e Fiscalização de Receitas/Gerência de Cobrança das Demais Receitas/Coordenação de Autuação e Fiscalização da TAH
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação Nº 45/2026
+Ficam NOTIFICADOS para pagar ou parcelar débito(MULTAS)/prazo 10(dez) dias (6.62)
+Areal Minas Ltda - 810407/12 - Not.15/2026 - R$ 5.471,89
+Marcio da Silveira Barcelos Ltda - 810915/16 - Not.16/2026 - R$ 151,30
+JADIR VIANNA BOTELHO
+Coordenador Substituto

@@ -1,0 +1,449 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.1-RS_2022.10.docx_2bd96cf0-52ee-4a40-ae6a-7b8ded99fa71
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.1-RS_2022.10.docx_2bd96cf0-52ee-4a40-ae6a-7b8ded99fa71.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.1
+Acesso às instalações de transmissão
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2022.10 Despacho ANEEL nº 2.852/2022 03/10/2022
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Responsabilidades 2022.10 03/10/2022
+ÍNDICE
+1. OBJETIVO ..................................................................................................................................... 3
+2. PRODUTOS ................................................................................................................................... 3
+2.1. Informação de Acesso ................................................................................................................... 3
+2.2. Documento Equivalente de Acesso ............................................................................................... 3
+2.3. Parecer Técnico dos Impactos do Acesso à Distribuição sobre o Sistema de Transmissão .......... 3
+2.4. Parecer de Acesso .......................................................................................................................... 4
+3. RESPONSABILIDADES .................................................................................................................... 4
+3.1. Operador Nacional do Sistema Elétrico – ONS .............................................................................. 4
+3.2. Agentes de geração e titulares de registro de centrais geradoras de capacidade reduzida ........ 4
+3.3. Consumidores ou agentes de importação/exportação autorizados ............................................. 5
+3.4. Agentes de distribuição ................................................................................................................. 5
+3.5. Agentes de transmissão ................................................................................................................. 6
+4. PRAZOS ........................................................................................................................................ 6
+4.1. Emissão da Informação de Acesso e do Parecer Técnico dos Impactos do Acesso à Distribuição
+sobre o Sistema de Transmissão ................................................................................................... 6
+4.2. Emissão do Parecer de Acesso às instalações de transmissão ...................................................... 7
+4.3. Desativação da conexão às instalações de transmissão ............................................................. 11
+5. REFERÊNCIAS .............................................................................................................................. 11
+Endereço na internet: http://www.ons.org.br 2 / 11
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Responsabilidades 2022.10 03/10/2022
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas dos processos relativos:
+(a) à solicitação de acesso às instalações sob responsabilidade de transmissora, que abrange a conexão
+na Rede Básica, nas Demais Instalações de Transmissão (DIT), nas instalações de transmissão de
+interesse exclusivo de centrais de geração para conexão compartilhada (ICG) ou nas instalações de
+transmissão de energia elétrica destinadas a interligações internacionais conectadas à Rede Básica;
+(b) ao esclarecimento ao acessante quanto aos requisitos regulatórios e técnicos para a sua conexão às
+instalações sob responsabilidade de transmissora;
+(c) à solicitação ao Operador Nacional do Sistema Elétrico – ONS da Informação de Acesso, para fins de
+obtenção ou alteração de outorga de autorização de centrais geradoras;
+(d) à solicitação ao ONS de Documento Equivalente de Acesso de central geradora às instalações sob
+responsabilidade de transmissora, para fins de cadastramento e habilitação em leilões de energia em
+ambiente regulado; e
+(e) à emissão pelo ONS de Parecer Técnico, mediante solicitação de distribuidora, acerca de impactos do
+acesso requerido no sistema de distribuição sobre o sistema de transmissão para emissão Orçamento
+Estimado ou de Conexão pela distribuidora.
+2. PRODUTOS
+2.1. Informação de Acesso
+2.1.1. Consolida a avaliação preliminar de viabilidade sistêmica de acesso pretendido por agente gerador,
+em consonância com o disposto na regulação [2][3], para os casos de obtenção ou de alteração de outorga
+de autorização para exploração de central geradora com conexão às instalações sob responsabilidade de
+transmissora e com entrada em operação prevista para ocorrer em prazo inferior ou igual ao horizonte de
+planejamento do ONS.
+2.2. Documento Equivalente de Acesso
+2.2.1. Apresenta a avaliação preliminar de viabilidade sistêmica da conexão individual de central geradora
+às instalações sob responsabilidade de transmissora, para fins de cadastramento de empreendimento de
+geração, com vistas à habilitação técnica pela Empresa de Pesquisa Energética – EPE para participação em
+um determinado leilão de compra de energia elétrica em ambiente regulado, na hipótese em que a entrada
+em operação do empreendimento de geração ocorrer em prazo inferior ou igual ao horizonte de
+planejamento do ONS.
+2.3. Parecer Técnico dos Impactos do Acesso à Distribuição sobre o Sistema de Transmissão
+2.3.1. Apresenta as informações acerca de impactos do acesso requerido ao sistema de distribuição sobre o
+sistema de transmissão, inclusive se há necessidade de obras no sistema de transmissão, com a finalidade de
+subsidiar a emissão de Informação de Orçamento Estimado ou Orçamento de Conexão pela distribuidora
+quando da conexão às suas instalações, em consonância com o disposto na regulação [9].
+Endereço na internet: http://www.ons.org.br 3 / 11
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Responsabilidades 2022.10 03/10/2022
+2.4. Parecer de Acesso
+2.4.1. Consolida as avaliações de aspectos regulatórios e de viabilidade sistêmica dos acessos solicitados às
+instalações sob responsabilidade de transmissora, definindo as condições de acesso, em consonância com a
+regulação [4][5][6][7][9], e é parte integrante do Contrato de Uso do Sistema de Transmissão (CUST) e/ou do
+Contrato de Uso do Sistema de Distribuição (CUSD). A principal finalidade do parecer é analisar a capacidade
+disponível do sistema de transmissão para atender o acessante, assim como avaliar os impactos da nova
+conexão sobre o sistema de transmissão, mantendo o atendimento aos demais agentes dentro dos requisitos
+de segurança, qualidade e confiabilidade, definidos nos Procedimentos de Rede, além de antecipar questões
+relevantes de natureza operativa ou aspectos que afetem a qualidade do serviço oferecido por meio por
+meio das instalações sob responsabilidade de transmissora, quando o caso assim o exigir.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Realizar as análises de caráter sistêmico para avaliar os reflexos das diversas solicitações de acesso
+no desempenho das instalações de transmissão.
+(b) Fornecer ao acessante informações sobre o sistema elétrico e informar as etapas do processo de
+acesso.
+(c) Informar ao acessante sobre a necessidade da realização dos estudos específicos de qualidade de
+energia elétrica para etapa de solicitação de acesso, caso haja em sua instalação equipamentos com
+características não lineares que possam comprometer o desempenho das instalações de transmissão.
+(d) Emitir Informação de Acesso, mediante solicitação de agente autorizado ou de detentor de Despacho
+de recebimento do requerimento de outorga de autorização ou de Despacho de aprovação do projeto
+básico ou Despacho de Registro da Adequação do Sumário Executivo, ou de Despacho de
+Requerimento de Registro de Intenção à Outorga de Autorização.
+(e) Emitir Documento Equivalente de Acesso, mediante solicitação do empreendedor.
+(f) Emitir Parecer Técnico dos Impactos do Acesso à Distribuição sobre o Sistema de Transmissão,
+mediante solicitação de distribuidora.
+(g) Coordenar o processo de acesso às instalações sob responsabilidade de transmissora.
+(h) Emitir Parecer de Acesso para uso do sistema de transmissão.
+(i) Emitir Parecer de Acesso para centrais geradoras outorgadas ainda que as características técnicas da
+central geradora e/ou do respectivo sistema de transmissão de interesse restrito informadas na
+solicitação de acesso não estejam em acordo com a outorga vigente da central geradora, em
+consonância com o disposto na regulamentação [6].
+(j) Avaliar se o requisito de compartilhamento físico da infraestrutura de conexão ao sistema de
+transmissão entre as centrais geradoras associadas está sendo cumprido conforme determina a
+regulamentação [8], sendo o cumprimento deste requisito necessário para a emissão do Parecer de
+Acesso das centrais geradoras associadas.
+3.2. Agentes de geração e titulares de registro de centrais geradoras de capacidade reduzida
+Endereço na internet: http://www.ons.org.br 4 / 11
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Responsabilidades 2022.10 03/10/2022
+(a) Realizar e apresentar ao ONS os estudos de integração do seu empreendimento às instalações sob
+responsabilidade de transmissora, considerando o ponto e a forma de conexão indicados na sua
+solicitação de acesso.
+(b) Solicitar ao ONS Informação de Acesso.
+(c) Solicitar ao ONS o Acesso às instalações sob responsabilidade de transmissora, contendo os estudos
+e informações necessários para a solicitação de acesso.
+(d) Providenciar e enviar ao ONS os estudos de qualidade de energia elétrica, caso em suas instalações
+haja equipamentos com características elétricas não-lineares ou quando solicitado pelo ONS.
+(e) Implementar as recomendações definidas no Parecer de Acesso.
+(f) Arcar com os riscos decorrentes de solicitação de acesso em desacordo com a outorga de autorização
+vigente, em consonância com o disposto na regulamentação [6].
+3.3. Consumidores ou agentes de importação/exportação autorizados
+(a) Realizar e apresentar ao ONS os estudos de integração do seu empreendimento às instalações sob
+responsabilidade de transmissora, considerando o ponto e a forma de conexão indicados na sua
+solicitação de acesso.
+(b) Solicitar ao ONS o Acesso às instalações sob responsabilidade de transmissora, contendo os estudos
+e informações necessários para a solicitação de acesso.
+(c) Providenciar e enviar ao ONS os estudos de qualidade de energia elétrica, caso em suas instalações
+haja equipamentos com características elétricas não-lineares ou quando solicitado pelo ONS.
+(d) Implementar as recomendações definidas no Parecer de Acesso.
+3.4. Agentes de distribuição
+(a) Solicitar o Parecer Técnico dos Impactos do Acesso à Distribuição sobre o Sistema de Transmissão ao
+ONS para os casos em que (i) as análises realizadas pela distribuidora indicarem a existência de
+impactos no sistema de transmissão, (ii) se tratar de acesso à Rede Complementar e/ou (iii) se tratar
+de acesso de central geradora com possibilidade de serem classificadas nas modalidades de operação
+Tipo I ou Tipo II-A, conforme Submódulo 7.2 – Classificação da modalidade de operação de usinas.
+(b) Enviar cópia ao ONS do Parecer de Acesso elaborado de acordo com o roteiro apresentado neste
+submódulo, no caso de conexão às instalações sob sua responsabilidade de usinas despachadas
+centralizadamente pelo ONS.
+(c) Realizar e apresentar ao ONS os estudos de integração do seu empreendimento às instalações sob
+responsabilidade de transmissora, considerando o ponto e a forma de conexão indicados na sua
+solicitação de acesso.
+(d) Solicitar ao ONS o acesso às instalações sob responsabilidade de transmissora, contendo os estudos
+e informações necessários para solicitação de acesso.
+(e) Providenciar e enviar ao ONS os estudos de qualidade de energia elétrica, caso em suas instalações
+haja equipamentos com características elétricas não-lineares ou quando solicitado ao ONS.
+Endereço na internet: http://www.ons.org.br 5 / 11
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Responsabilidades 2022.10 03/10/2022
+(f) Observar os requisitos técnicos mínimos estabelecidos no Submódulo 2.10 – Requisitos técnicos
+mínimos para a conexão às instalações de transmissão ao elaborar o Parecer de Acesso de central
+geradora para conexão em instalações sob sua responsabilidade, em nível de tensão superior a 69 kV,
+e, no caso de central geradora eólica ou fotovoltaica, solicitar que o acessante providencie estudos
+específicos se necessário.
+(g) Implementar as recomendações definidas no Parecer de Acesso.
+3.5. Agentes de transmissão
+(a) Fornecer ao ONS todos os dados e informações técnicas relativas aos equipamentos e instalações
+sob sua responsabilidade.
+(b) Repassar ao ONS para análise e providências qualquer solicitação de acesso que porventura receba,
+e informar ao acessante que a sua solicitação pode ser feita diretamente ao ONS via sistema
+computacional.
+(c) Especificar os requisitos técnicos mínimos necessários às características do ponto de conexão a partir
+de suas normas e especificações técnicas e de padrões mínimos definidos nos Procedimentos de Rede.
+(d) Executar as obras sob sua responsabilidade definidas no Parecer de Acesso e outorgadas pela ANEEL
+para viabilização de acesso solicitado ao ONS.
+4. PRAZOS
+4.1. Emissão da Informação de Acesso e do Parecer Técnico dos Impactos do Acesso à Distribuição
+sobre o Sistema de Transmissão
+Quadro 1 - Prazos relativos aos processos de emissão da Informação de Acesso e Parecer Técnico dos Impactos do
+Acesso à Distribuição sobre o Sistema de Transmissão
+Atividade Responsável Prazo Observação
+A partir do protocolo de entrada
+Notificação ao agente Até 15 (quinze) dias, da solicitação, o ONS deve, no
+da falta de algum dado, contados da data do prazo de até 15 (quinze) dias
+informação, documento protocolo de entrada verificar o atendimento aos dados,
+1 ONS
+ou estudo necessário à da solicitação de informações, documentos e
+elaboração da Informação de estudos requisitados, e receber ou
+Informação de Acesso Acesso cancelar com justificativa essa
+solicitação.
+Até 30 (trinta) dias,
+contados a partir da
+Emissão da Informação data de recebimento
+2 ONS -
+de Acesso da solicitação de
+Informação de
+Acesso
+Endereço na internet: http://www.ons.org.br 6 / 11
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Responsabilidades 2022.10 03/10/2022
+Atividade Responsável Prazo Observação
+A partir do protocolo de entrada
+da solicitação, o ONS deve, no
+Notificação ao agente
+Até 15 (quinze) dias, prazo de até 15 (quinze) dias
+da falta de algum dado,
+contados da data do verificar o atendimento aos dados,
+informação, documento
+3 ONS protocolo de entrada informações, documentos e
+ou estudo necessário à
+da solicitação da estudos requisitados, e receber ou
+elaboração do Parecer
+distribuidora cancelar com justificativa essa
+Técnico
+solicitação.
+-
+Emissão do Parecer Até 30 (trinta) dias,
+Técnico dos Impactos contados da data de
+4 do Acesso à Distribuição ONS recebimento da -
+sobre o Sistema de solicitação da
+Transmissão distribuidora
+4.2. Emissão do Parecer de Acesso às instalações de transmissão
+Quadro 2 - Prazos relativos ao processo de emissão do Parecer de Acesso às instalações de transmissão
+Atividade Responsável Prazo Observação
+Informação ao acessante
+da viabilidade física,
+Em até 30 (trinta) dias,
+condições contratuais,
+Agente de contados da data do
+1 prazos, requisitos -
+transmissão recebimento da
+técnicos e normas e
+solicitação
+padrões técnicos para o
+acesso
+Encaminhamento ao ONS
+Em até 3 (três) dias úteis Ocorre caso o agente de
+da solicitação de acesso Agente de
+2 após recebimento da transmissão receba a
+recebida e notificação ao transmissão
+solicitação de acesso solicitação de acesso
+acessante sobre o envio
+Endereço na internet: http://www.ons.org.br 7 / 11
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Responsabilidades 2022.10 03/10/2022
+Atividade Responsável Prazo Observação
+Caso o acesso envolva a
+implantação de obras de
+ampliação e/ou reforço
+Antecedência mínima de na Rede Básica, nas DIT,
+3 (três) anos antes da nas ICG e/ou nas
+Solicitação de acesso
+data da conexão, no caso instalações de
+3 para uso da rede em Acessante
+descrito na coluna de transmissão destinadas a
+caráter permanente
+Observação; ou de 1 (um) interligações
+ano nos demais casos internacionais conectadas
+à Rede Básica, além
+daqueles relacionados ao
+ponto de conexão
+Solicitação de Parecer de Antecedência mínima de
+Acesso para aumento de 90 (noventa) dias em
+4 Acessante -
+MUST em caráter relação a data de início
+permanente do aumento pretendido
+Antecedência mínima de
+Solicitação de acesso
+60 (sessenta) dias antes Antecedência mínima
+para uso do sistema de
+da data de início do uso pode ser reduzida a
+5 transmissão em caráter Acessante
+pretendida, e não pedido do acessante e a
+temporário, flexível ou de
+superior a 180 (cento e critério do ONS
+reserva de capacidade
+oitenta) dias
+Solicitação de acesso Antecedência mínima de
+para uso do sistema de Acessante 60 (sessenta) dias antes Antecedência mínima
+transmissão por (agente de da data de início do uso pode ser reduzida a
+6
+importadores e importação/ex pretendida, e não pedido do acessante e a
+exportadores de energia portação) superior a 180 (cento e critério do ONS
+elétrica oitenta) dias
+Verificação da solicitação A partir do protocolo de
+de acesso para uso da entrada da solicitação, o
+rede em caráter ONS deve verificar o
+Em até 15 (quinze) dias
+permanente, temporário, atendimento aos dados,
+contados da data do
+7 flexível ou de reserva de ONS informações, documentos
+protocolo de entrada da
+capacidade e por e estudos requisitados, e
+solicitação de acesso
+importadores e receber ou cancelar com
+exportadores de energia justificativa essa
+elétrica solicitação.
+Endereço na internet: http://www.ons.org.br 8 / 11
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Responsabilidades 2022.10 03/10/2022
+Atividade Responsável Prazo Observação
+Em até 30 (trinta) dias O processo de acesso
+contados da data de poderá ser interrompido
+Envio ao ONS de algum
+interrupção da solicitação mais de uma vez, sendo
+dado, informação ou
+pelo ONS, durante o que o prazo máximo de
+complemento de estudo
+período de elaboração do dias somados de todas as
+8 para elaboração do Acessante
+Parecer de Acesso, sendo interrupções deverá ser
+Parecer de Acesso após o
+facultado prazo distinto a de até 30 (trinta) dias.
+recebimento da
+ser acordado e O referido prazo poderá
+solicitação.
+formalizado junto ao ser revisto de comum
+ONS. acordo com o ONS.
+Até 25 (vinte e cinco)
+Caso não identificada
+dias(1)(2) da data do
+Emissão do Parecer de necessidade de obras de
+recebimento da
+9 Acesso para uso da rede ONS ampliações, reforços ou
+solicitação de acesso
+em caráter permanente melhorias nas instalações
+(após atividade 7) no caso
+de transmissão.
+descrito na Observação
+Até 85 (oitenta e cinco)
+Caso identificada
+dias(1)(2) da data do
+Emissão do Parecer de necessidade de
+recebimento da
+10 Acesso para uso da rede ONS ampliações, reforços ou
+solicitação de acesso
+em caráter permanente melhorias nas instalações
+(após atividade 7) no caso
+de transmissão
+descrito na Observação
+Emissão do Parecer de Até 25 (vinte e cinco)
+Acesso para uso da rede dias(1)(2) da data do
+11 em caráter temporário, ONS recebimento da -
+flexível ou de reserva de solicitação de acesso
+capacidade (após atividade 7)
+Emissão do Parecer de
+Acesso para uso do Até 25 (vinte e cinco)
+sistema de transmissão dias(1)(2) da data do
+12 por importadores e ONS recebimento da -
+exportadores de energia solicitação de acesso
+elétrica (após atividade 7)
+Solicitação ao ONS da Acessante Até 60 (sessenta) dias A autorização a ser
+revisão ou a revalidação (Consumidor contados da data de expedida pela ANEEL terá
+13
+do seu Parecer de Acesso ou publicação da autorização prazo de validade de 180
+emitido conforme [1][6] autoprodutor) pela ANEEL (cento e oitenta) dias
+Endereço na internet: http://www.ons.org.br 9 / 11
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Responsabilidades 2022.10 03/10/2022
+Atividade Responsável Prazo Observação
+O prazo para emissão da
+revisão ou revalidação do
+Parecer de Acesso seguirá
+os prazos estabelecidos
+para emissão de novo
+Parecer de Acesso.
+Em até 30 (trinta) dias
+após o vencimento da
+validade do Parecer de O prazo para emissão da
+Acesso, caso não tenha revisão do Parecer de
+Solicitação ao ONS da
+sido assinado CUST ou Acesso seguirá os prazos
+14 revisão do Parecer de Acessante
+CUSD; ou a qualquer estabelecidos para
+Acesso
+momento após a emissão de novo Parecer
+assinatura dos contratos de Acesso.
+de uso do sistema e/ou
+de conexão
+O Parecer de Acesso pode
+ser revalidado apenas
+uma vez
+Até 30 (trinta) dias após
+Solicitação de revalidação O prazo para emissão da
+prazo de validade
+15 do Parecer de Acesso Acessante revalidação do Parecer de
+expirado do Parecer de
+expirado Acesso seguirá os prazos
+Acesso
+estabelecidos para
+emissão de novo Parecer
+de Acesso.
+Solicitação de revisão de
+Parecer de Acesso para Antecedência mínima de
+antecipação de data de 90 (noventa) dias em
+16 primeira Acessante relação à data de início -
+sincronização/conexão ao pretendido da primeira
+sistema de transmissão sincronização/conexão.
+em caráter permanente
+Até 90 (noventa) dias Após vencimento do
+contados da data de prazo, o Parecer de
+Celebração dos contratos
+emissão do Parecer de Acesso perde a validade e
+17 de conexão e de uso do Acessante
+Acesso pelo ONS, ou da o acessante fica sujeito a
+sistema de transmissão
+correspondente revisão novas condições de
+ou revalidação do parecer acesso
+Endereço na internet: http://www.ons.org.br 10 / 11
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Responsabilidades 2022.10 03/10/2022
+(1) a contagem do prazo fica interrompida no período da notificação de pendências pelo ONS até o recebimento das
+informações pelo ONS (atividade 8 desta tabela), sendo que a solicitação de acesso poderá ser cancelada caso as
+informações não sejam prestadas no prazo previsto na atividade 8.
+(2) De forma transitória, no primeiro ano de vigência da regulamentação [6], o ONS deverá, no prazo de até 35 (trinta e
+cinco) dias, contados da data de admissão da solicitação de acesso, emitir o PARECER DE ACESSO. Havendo necessidade
+de AMPLIAÇÕES ou REFORÇOS para atendimento ao acesso solicitado, o prazo passará a ser de até 105 (cento e cinco)
+dias.
+4.3. Desativação da conexão às instalações de transmissão
+Quadro 3 - Prazos relativos ao processo de desativação da conexão às instalações de transmissão
+Atividade Responsável Prazo
+Solicitação ao ONS e ao agente de transmissão
+Mínimo de 1 (um) ano antes da
+1 acessado da desativação da conexão às instalações Acessante
+desconexão
+de transmissão
+Definição, em comum acordo com o acessante e o Até 60 (sessenta) dias após
+2 agente de transmissão acessado, do cronograma de ONS solicitação do acessante
+desconexão (atividade 1)
+5. REFERÊNCIAS
+[1] MME. Decreto nº 5.597, de 28 de novembro de 2005.
+[2] ANEEL. Resolução Normativa nº 875, de 10 de março de 2020.
+[3] ANEEL. Resolução Normativa nº 876, de 10 de março de 2020.
+[4] ANEEL. Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de Transmissão
+de Energia Elétrica no Sistema Elétrico Nacional. Módulo 2 - Classificação das Instalações.
+[5] ANEEL. Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de Transmissão
+de Energia Elétrica no Sistema Elétrico Nacional. Módulo 3 - Instalações e Equipamentos de
+Transmissão.
+[6] ANEEL. Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de Transmissão
+de Energia Elétrica no Sistema Elétrico Nacional. Módulo 5 - Acesso ao Sistema.
+[7] ANEEL. Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de Transmissão
+de Energia Elétrica no Sistema Elétrico Nacional. Módulo 6 - Coordenação e Controle da Operação.
+[8] ANEEL. Resolução Normativa nº 954, de 30 de novembro de 2021.
+[9] ANEEL. Resolução Normativa n° 1.000, de 7 de dezembro de 2021.
+Endereço na internet: http://www.ons.org.br 11 / 11

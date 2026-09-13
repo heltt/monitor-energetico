@@ -1,0 +1,132 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.13-RS_2026.04
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.13-RS_2026.04.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.13
+Diagnóstico dos sistemas de proteção e
+controle
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2026.04 Despacho STD nº 1.238/2026 09/04/2026
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Diagnóstico dos sistemas de proteção e
+6.13 Responsabilidades 2026.04 01/05/2026
+controle
+ÍNDICE
+1. OBJETIVO............................................................................................................................3
+2. PRODUTOS..........................................................................................................................3
+2.1. Diagnóstico dos Sistemas de Proteção e Controle...........................................................3
+2.2. Plano de Ação para Implementação de Adequações nos Sistemas de Proteção e
+Controle............................................................................................................................3
+2.3. Plano de Ajustes das Proteções........................................................................................3
+3. RESPONSABILIDADES..........................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS.................................................................3
+3.2. Agentes de operação........................................................................................................3
+3.3. Agentes de transmissão responsável pelo módulo geral de Rede Básica mais antigo de
+uma subestação que possua instalações de mais de um agente.....................................4
+3.4. Demais agentes de operação responsáveis por instalações de uma subestação que
+possua instalações de mais de um agente.......................................................................4
+4. PRAZOS...............................................................................................................................4
+5. REFERÊNCIAS......................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Diagnóstico dos sistemas de proteção e
+6.13 Responsabilidades 2026.04 01/05/2026
+controle
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas do processo relativo ao
+diagnóstico, avaliação e adequação dos sistemas de proteção e controle das instalações definidas
+pelo ONS, pertencentes a Rede de Operação.
+2. PRODUTOS
+2.1. Relatório de Diagnóstico dos Sistemas de Proteção e Controle
+2.1.1. Consiste na avaliação da aderência dos sistemas de proteção aos requisitos estabelecidos no
+Submódulo 2.10 - Requisitos técnicos mínimos para a conexão às instalações de transmissão e no
+Submódulo 2.11 – Requisitos para os sistemas de proteção, de registro de perturbações e de
+teleproteção, e às filosofias de proteção estabelecidas nos Relatórios de Filosofia emitidos pelo ONS
+[1], visando identificar as anormalidades e estabelecer adequações com vistas a aumentar a
+confiabilidade dos sistemas de proteção.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Definir as instalações que devem ser objeto do Relatório de Diagnóstico dos Sistemas de
+Proteção e Controle e estabelecer as diretrizes para tal diagnóstico.
+(b) Elaborar, em conjunto com os agentes, o Relatório de Diagnóstico dos Sistemas de Proteção
+e Controle.
+(c) Analisar a necessidade de propor adequações às instalações conforme estabelecido em
+regulação [1].
+(d) Cadastrar as providências constantes no referido relatório, previamente acordadas com os
+agentes de transmissão.
+(e) Acompanhar o cumprimento das providências pelos agentes.
+3.2. Agentes de operação
+(a) Fornecer ao ONS as informações referentes aos sistemas de proteção e controle e às filosofias
+de atuação das proteções.
+(b) Participar da elaboração do Relatório de Diagnóstico dos Sistemas de Proteção e Controle.
+(c) Propor os prazos e prioridades para execução das providências constantes no referido
+relatório.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Diagnóstico dos sistemas de proteção e
+6.13 Responsabilidades 2026.04 01/05/2026
+controle
+(d) Executar, nas instalações sob sua responsabilidade, as ações necessárias para o atendimento
+das providências constantes no relatório.
+(e) Manter atualizado no sistema computacional do ONS o andamento do atendimento às
+providências constantes no relatório de Diagnóstico dos Sistemas de Proteção e Controle.
+4. PRAZOS
+Quadro 1 – Prazos para as atividades referentes ao diagnóstico dos sistemas de proteção e controle
+Atividade Responsável Prazo
+Anualmente, até 31/03 de
+Definir as instalações que serão cada ano, o ONS irá definir
+1 ONS
+objeto do diagnóstico as instalações que serão
+objeto de diagnóstico.
+Estabelecer as diretrizes para a
+realização do diagnóstico dos
+sistemas de proteção e controle
+Até 15 dias após a
+2 das instalações selecionadas e ONS
+atividade 1
+indicar aos agentes a forma como
+as informações devem ser
+fornecidas
+Informar ao ONS os resultados
+das análises realizadas, bem
+como as adequações necessárias Agente de Até 60 dias após a
+3
+nos sistemas de proteção e operação atividade 2
+controle das instalações sob sua
+responsabilidade
+Emissão da minuta do relatório Até 90 dias após a
+4 ONS
+de diagnóstico atividade 3
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Diagnóstico dos sistemas de proteção e
+6.13 Responsabilidades 2026.04 01/05/2026
+controle
+Atividade Responsável Prazo
+Apresentação das propostas de
+prioridades, as justificativas e os
+prazos necessários, acordados Agente de Até 60 dias após a
+5
+com o ONS, para a viabilização operação atividade 4
+das adequações identificadas
+com base no diagnóstico
+Emissão da versão final do Até 45 dias após a
+6 ONS
+relatório de diagnóstico atividade 5
+5. REFERÊNCIAS
+[1] ONS RE 3/200/2012 - FILOSOFIAS DAS PROTEÇÕES DOS TRANSFORMADORES E
+AUTOTRANSFORMADORES DA REDE DE OPERAÇÃO DO ONS – Revisão vigente.
+ONS RE 3/109/2011 - FILOSOFIAS DAS PROTEÇÕES DAS LTs DE ALTA E EXTRA ALTA TENSÃO DA REDE
+DE OPERAÇÃO DO ONS – Revisão vigente.
+[2] ANEEL. Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de
+Transmissão de Energia Elétrica no Sistema Elétrico Nacional. Módulo 3 - Instalações e
+Equipamentos de Transmissão.
+Endereço na internet: http://www.ons.org.br 5 / 5

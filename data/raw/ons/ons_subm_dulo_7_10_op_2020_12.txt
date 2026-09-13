@@ -1,0 +1,135 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.10-OP_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.10-OP_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.10
+Implantação e análise do sistema de
+registro de perturbações
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação e análise do sistema de registro de
+7.10 Operacional 2020.12 01/01/2021
+perturbações
+ÍNDICE
+1. IMPLANTAÇÃO DO SISTEMA DE REGISTRO DE PERTURBAÇÕES........................................................3
+1.1. Proposta de implantação de registradores de perturbação.........................................................3
+1.2. Transferência dos registros de perturbações para o ONS.............................................................3
+1.3. Implantação e manutenção do banco de dados...........................................................................3
+1.3.1. Implantação.................................................................................................................3
+1.3.2. Envio dos dados...........................................................................................................3
+1.3.3. Atualização dos dados.................................................................................................4
+2. ANÁLISE DOS SISTEMAS DE REGISTRO.............................................................................................4
+2.1. Elaboração do Relatório de Análise dos Sistemas de Registros para a Supervisão de Fenômenos
+de Curta Duração na Rede Básica..................................................................................................4
+2.2. Acompanhamento do cumprimento do plano de ação para adequação, substituição e
+instalação dos RDP........................................................................................................................5
+3. REFERÊNCIAS...................................................................................................................................5
+4. ANEXOS...........................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação e análise do sistema de registro de
+7.10 Operacional 2020.12 01/01/2021
+perturbações
+1. IMPLANTAÇÃO DO SISTEMA DE REGISTRO DE PERTURBAÇÕES
+1.1. Proposta de implantação de registradores de perturbação
+1.1.1. O Operador Nacional do Sistema Elétrico – ONS ou o agente de operação propõe a instalação de
+Registradores Digitais de Perturbação (RDP) conforme procedimentos descritos no Submódulo 3.2 –
+Modernização de instalações, cujos requisitos estão estabelecidos no Submódulo 2.10 – Requisitos técnicos
+mínimos para a conexão às instalações de transmissão e Submódulo 2.11 – Requisitos para os sistemas de
+proteção, de registro de perturbações e de teleproteção.
+1.2. Transferência dos registros de perturbações para o ONS
+1.2.1. Os agentes de operação enviam, de forma automática, os arquivos dos registros de perturbações ao
+ONS, gerados por RDP instalados na Rede Básica ou relé de proteção com função de oscilografia integrada
+instalados na Rede Complementar.
+1.2.2. Não é admitida alteração decorrente de processamento manual ou automático, como o descarte ou
+a filtragem de registros de perturbações, exceto quando da utilização de filtros automáticos para descarte
+de registros ocasionados por partidas programadas dos RDP, para a verificação da condição de operação e
+calibração desses RDP ou para a eliminação de partidas espúrias.
+1.2.3. A transferência dos registros das perturbações para o ONS é realizada por meio do sistema
+computacional específico fornecido pelo ONS, utilizado e executado pelo agente de operação, ou por
+infraestrutura desenvolvida pelo agente para esse fim.
+1.2.4. Os registros das perturbações são transferidos para o ONS em arquivos no formato COMTRADE
+descrito em norma [1] .
+1.3. Implantação e manutenção do banco de dados
+1.3.1. Implantação
+1.3.1.1. O ONS implementa e mantém o banco de dados dos RDP instalados e a serem instalados na Rede
+de Operação, o qual deve conter as seguintes informações:
+(a) agente responsável;
+(b) nome do RDP;
+(c) localização (instalação [usina ou subestação], setor [230 kV, 345 kV, 440 kV, 500 kV etc.], local [região,
+estado, país]); e
+(d) configuração (frequência, multiplicador de tempo, nº de canais analógicos, nº de canais digitais).
+1.3.2. Envio dos dados
+1.3.2.1. Os agentes de operação encaminham ao ONS os dados requeridos após a adequação, implantação
+ou substituição de RDP.
+1.3.2.2. Para cada canal analógico, os agentes de operação fornecem os seguintes dados:
+(a) número do canal;
+(b) nome do canal;
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação e análise do sistema de registro de
+7.10 Operacional 2020.12 01/01/2021
+perturbações
+(c) equipamento monitorado;
+(d) fase monitorada;
+(e) unidade de medida do canal;
+(f) fator multiplicador do canal (fator a);
+(g) fator indicador de deslocamento do zero do canal (fator b);
+(h) deslocamento de tempo entre amostras;
+(i) valor mínimo;
+(j) valor máximo;
+(k) fator de relação de transformação do primário;
+(l) fator de relação de transformação do secundário; e
+(m)indicação de escala (primário ou secundário).
+1.3.2.3. Para cada canal digital, os agentes de operação fornecem os seguintes dados:
+(a) número do canal;
+(b) nome do canal;
+(c) equipamento monitorado;
+(d) fase monitorada; e
+(e) estado normal da grandeza monitorada.
+1.3.2.4. Ao solicitar os dados, o ONS comunica aos agentes de operação a forma como os dados devem ser
+fornecidos.
+1.3.2.5. Os agentes de operação fornecem os dados na forma definida pelo ONS.
+1.3.3. Atualização dos dados
+1.3.3.1. Os agentes de operação comunicam ao ONS, para atualização do banco de dados, os dados de
+configuração de novos RDP e as modificações nas configurações dos RDP existentes.
+2. ANÁLISE DA CONFORMIDADE DOS SISTEMAS DE REGISTRO
+2.1. Elaboração do Relatório de Análise dos Sistemas de Registros para a Supervisão de Fenômenos de
+Curta Duração na Rede Básica
+2.1.1. O ONS identifica as não conformidades dos sistemas de registro por equipamento disponíveis no
+banco de dados, com base nos requisitos de supervisão estabelecidos no Submódulo 2.11.
+2.1.2. O ONS elabora e encaminha aos agentes de operação, para comentários e sugestões, a minuta do
+Relatório de Análise dos Sistemas de Registro para Supervisão de Fenômenos de Curta Duração na Rede
+Básica e indica as necessidades de implantação de novos RDP ou de adequação e substituição de RDP
+existentes.
+2.1.3. O ONS emite a versão final do Relatório de Análise dos Sistemas de Registros para Supervisão de
+Fenômenos de Curta Duração na Rede Básica, com as conclusões e recomendações para a melhoria da
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação e análise do sistema de registro de
+7.10 Operacional 2020.12 01/01/2021
+perturbações
+supervisão para fenômenos de curta duração, após a consolidação dos comentários e sugestões dos agentes
+de operação.
+2.1.4. O plano de ação, com os prazos para implantação de novos RDP ou para adequação ou substituição
+de RDP existentes, consta na versão final do Relatório de Análise dos Sistemas de Registros para Supervisão
+de Fenômenos de Curta Duração na Rede Básica.
+2.2. Acompanhamento do cumprimento do plano de ação para adequação, substituição e instalação
+dos RDP
+2.2.1. O ONS acompanha o cumprimento do plano de ação para adequação, substituição e instalação dos
+RDP relativo ao ciclo anterior e registra as não conformidades quando constatadas.
+3. REFERÊNCIAS
+[1] IEEE/IEC. Measuring relays and protection equipment - Part 24: Common format for transient data
+exchange (COMTRADE) for power. Norma IEEE/IEC C37.111-2013.
+4. ANEXOS
+4.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 5 / 5

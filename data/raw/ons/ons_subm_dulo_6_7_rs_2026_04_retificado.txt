@@ -1,0 +1,193 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.7-RS_2026.04_Retificado
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.7-RS_2026.04_Retificado.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.7
+Apuração de indisponibilidade, restrição
+da capacidade operativa e sobrecarga
+nas instalações de transmissão da Rede
+Básica e das Interligações Internacionais
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2026.04* Despacho STD nº 1.238/2026* 09/04/2026
+retificado por DOU Nº125, de
+07/07/2026
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração de indisponibilidade,
+restrição da capacidade operativa
+e sobrecarga nas instalações de 6.7 Responsabilidades 2026.04* 01/05/2026
+transmissão da Rede Básica e das
+Interligações Internacionais
+ÍNDICE
+1. OBJETIVOS.......................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Eventos apurados de indisponibilidade de FT, exceto FT Conversora..........................................3
+2.2. Eventos apurados de indisponibilidade em FT Conversora...........................................................3
+2.3. Eventos apurados de restrição de capacidade operativa..............................................................3
+2.4. Eventos apurados de cancelamento de intervenções...................................................................3
+2.5. Eventos apurados de indisponibilidade de equipamento reserva remunerado...........................3
+2.6. Eventos apurados de indisponibilidade de equipamento substituído por equipamento reserva
+remunerado...................................................................................................................................3
+2.7. Relatório de Análise Estatística da Indisponibilidade Programada e Não Programada de
+Funções Transmissão....................................................................................................................3
+3. RESPONSABILIDADES.......................................................................................................................4
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................4
+3.2. Agentes de transmissão................................................................................................................4
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIAS...................................................................................................................................6
+Endereço na internet: http://www.ons.org.br 2 / 6
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração de indisponibilidade,
+restrição da capacidade operativa
+e sobrecarga nas instalações de 6.7 Responsabilidades 2026.04* 01/05/2026
+transmissão da Rede Básica e das
+Interligações Internacionais
+1. OBJETIVOS
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas de processos relativas à apuração
+de indisponibilidades, restrições da capacidade operativa, cancelamentos de intervenções e sobrecargas em
+instalações de transmissão da Rede Básica e das Interligações Internacionais, conforme [1].
+2. PRODUTOS
+2.1. Eventos apurados de indisponibilidade de FT, exceto FT Conversora
+2.1.1. Referem-se aos resultados da apuração dos eventos de indisponibilidade nas Funções Transmissão
+(FT) da Rede Básica e das Interligações Internacionais, exceto FT Conversora.
+2.2. Eventos apurados de indisponibilidade em FT Conversora
+2.2.1. Referem-se aos resultados da apuração dos eventos de indisponibilidade nas FT Conversora da Rede
+Básica e das Interligações Internacionais.
+2.3. Eventos apurados de restrição de capacidade operativa
+2.3.1. Referem-se aos resultados da apuração dos eventos de restrição de capacidade operativa nas FT da
+Rede Básica e das Interligações Internacionais.
+2.4. Eventos apurados de cancelamento de intervenções
+2.4.1. Referem-se aos resultados da apuração dos eventos de cancelamento de intervenções previamente
+aprovadas pelo Operador Nacional do Sistema Elétrico – ONS nas FT da Rede Básica e das Interligações
+Internacionais.
+2.5. Eventos apurados de indisponibilidade de equipamento reserva remunerado
+2.5.1. Referem-se aos resultados da apuração dos eventos de indisponibilidade de equipamentos reserva
+remunerados pertencentes às instalações de transmissão da Rede Básica e das Interligações Internacionais.
+2.6. Eventos apurados de indisponibilidade de equipamento substituído por equipamento reserva
+remunerado
+2.6.1. Referem-se aos resultados da apuração dos eventos de indisponibilidade de equipamento substituído
+por equipamento reserva remunerado pertencente às instalações de transmissão da Rede Básica e das
+Interligações Internacionais.
+2.7. Relatório de Análise Estatística da Indisponibilidade Programada e Não Programada de Funções
+Transmissão
+2.7.1. Apresenta o resultado da análise quantitativa das indisponibilidades programadas e não programadas
+das Funções Transmissão e o resultado do cálculo dos indicadores de desempenho previstos no Submódulo
+Endereço na internet: http://www.ons.org.br 3 / 6
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração de indisponibilidade,
+restrição da capacidade operativa
+e sobrecarga nas instalações de 6.7 Responsabilidades 2026.04* 01/05/2026
+transmissão da Rede Básica e das
+Interligações Internacionais
+9.2 – Indicadores de desempenho de equipamentos e linhas de transmissão e das funções transmissão e
+geração.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Coletar, consistir e classificar os dados e informações relativos aos eventos de indisponibilidade,
+restrição da capacidade operativa, cancelamento de intervenção e sobrecarga em instalações de
+transmissão de energia elétrica da Rede Básica e das Interligações Internacionais.
+(b) Disponibilizar aos agentes envolvidos os eventos apurados.
+(c) Interagir com os agentes envolvidos, para dirimir dúvidas e inconsistências nos dados e nas
+informações obtidas, bem como na classificação dos eventos.
+(d) Analisar e divulgar o resultado das análises dos relatórios técnicos ou consultas formais enviadas pelo
+agente, com esclarecimentos a respeito de eventos específicos.
+(e) Analisar o relatório de sobrecargas, encaminhado pelo agente de transmissão, e, se julgar procedente,
+aprová-lo.
+(f) Armazenar, por um período de 5 anos, em bancos de dados, os resultados das consistências dos
+dados, informações e classificações efetuadas.
+(g) Analisar os dados apurados de indisponibilidade programada e não programada para obtenção de
+informações que expressem os resultados da operação realizada.
+(h) Elaborar o Relatório de Análise Estatística da Indisponibilidade Programada e Não Programada de
+Funções Transmissão e disponibilizá-lo publicamente em seu site e à ANEEL.
+(i) Calcular os valores dos indicadores de desempenho dos equipamentos e linhas de transmissão e da
+função transmissão, definidos no Submódulo 9.2, considerando suas diversas formas de agregação, e
+armazenar os resultados na Base de Dados Técnica (BDT) do ONS.
+3.2. Agentes de transmissão
+(a) Informar ao ONS, quando solicitado, os dados complementares referentes aos eventos nas
+instalações da Rede Básica e Interligações Internacionais, sob sua responsabilidade.
+(b) Dirimir dúvidas e inconsistências nos dados e informações disponibilizados, quando solicitado pelo
+ONS.
+(c) Consistir os dados e as informações disponibilizados pelo ONS, sob sua responsabilidade, referentes
+às instalações da Rede Básica e das Interligações Internacionais.
+4. PRAZOS
+Endereço na internet: http://www.ons.org.br 4 / 6
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração de indisponibilidade,
+restrição da capacidade operativa
+e sobrecarga nas instalações de 6.7 Responsabilidades 2026.04* 01/05/2026
+transmissão da Rede Básica e das
+Interligações Internacionais
+Quadro1 - Prazos para a apuração de eventos de indisponibilidade, restrição da capacidade operativa e sobrecarga
+em instalações da Rede Básica e Interligações Internacionais
+Atividade Responsável Prazo Periodicidade
+Consistência final dos dados,
+informações e classificações ONS e Até o 10º dia útil do mês
+1 referentes ao mês anterior e agentes de subsequente ao mês Mensal
+solução de eventuais dúvidas e transmissão apurado
+inconsistências pendentes
+Fechamento das apurações dos
+eventos de meses anteriores a
+serem considerados no
+processo de apuração de Até o 10º dia útil do mês
+Mensal
+2 serviços e encargos da ONS subsequente ao mês
+transmissão, conforme apurado
+Submódulo 8.3 – Apuração de
+serviços e encargos da
+transmissão e encargos setoriais
+Até 90 dias após o
+Solicitação de revisão de fechamento da apuração
+Agentes de
+3 apuração de eventos já mensal de serviços e Sob demanda
+transmissão
+contabilizados encargos, conforme
+Submódulo 8.3
+Após decisão final do ONS
+Solicitação de pedido de
+para a atividade 3 deste
+impugnação da apuração Agentes de
+4 quadro conforme prazo Sob demanda
+técnica de eventos transmissão
+estabelecido no Submódulo
+contabilizados [2]
+1.3
+Até 90 dias após o mês de
+ocorrência das sobrecargas.
+Para que seja considerado na
+apuração mensal de serviços
+Encaminhamento ao ONS de Agentes de
+5 e encargos do mês apurado, Sob demanda
+relatório de sobrecargas transmissão
+conforme Submódulo 8.3, o
+encaminhamento deve
+ocorrer até 5º dia útil de
+cada mês
+Endereço na internet: http://www.ons.org.br 5 / 6
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração de indisponibilidade,
+restrição da capacidade operativa
+e sobrecarga nas instalações de 6.7 Responsabilidades 2026.04* 01/05/2026
+transmissão da Rede Básica e das
+Interligações Internacionais
+Atividade Responsável Prazo Periodicidade
+Elaborar o Relatório de Análise
+Estatística da Indisponibilidade
+Programada e Não Programada
+6 ONS - Anual
+de Funções Transmissão e
+disponibilizá-lo publicamente
+em seu site e à ANEEL
+5. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de Transmissão de
+Energia Elétrica no Sistema Elétrico Nacional. Módulo 4 - Prestação dos Serviços
+[2] ANEEL. Resolução Normativa nº 1.017, de 19 de abril de 2022 (alterada pela REN nº 1.107, 3 de
+dezembro de 2024)
+Endereço na internet: http://www.ons.org.br 6 / 6

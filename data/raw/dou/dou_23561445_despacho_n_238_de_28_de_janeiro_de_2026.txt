@@ -1,0 +1,15 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: DESPACHO Nº 238, DE 28 DE JANEIRO DE 2026
+DATA_PUBLICACAO: 02/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=02/02/2026&jornal=515&pagina=91
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Energia Elétrica/Superintendência de Regulação dos Serviços de Geração e do Mercado de Energia Elétrica
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+DESPACHO Nº 238, DE 28 DE JANEIRO DE 2026
+O SUPERINTENDENTE DE REGULAÇÃO DOS SERVIÇOS DE GERAÇÃO E DO MERCADO DE ENERGIA ELÉTRICA SUBSTITUTO DA AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA - ANEEL, no uso da atribuição delegada por meio do inciso XVI do art. 1º da Portaria nº 6.824, de 4 de maio de 2023, e tendo em vista o que consta do Processo nº 48500.900286/2015-11, decide:
+(i) conhecer e, no mérito, dar provimento parcial ao requerimento da UEG Araucária S.A, inscrita no CNPJ sob o nº 02.743.574/0001-85, de forma a alterar o Custo Variável Unitário (CVU) da Usina Termelétrica (UTE) Araucária, aprovado pelo Despacho nº 1.985, de 27 de junho de 2025, para R$ 905,85/MWh, referente a janeiro de 2026; informar que, a partir da data de publicação deste Despacho, as atualizações de que trata o item "ii" do Despacho nº 1.985/2025 deverão adotar os parâmetros da Tabela que consta no Anexo 1 da Nota Técnica anexa a este Despacho; possibilitar que a UEG Araucária S.A redeclare, excepcionalmente, para fins de aprovação pelo ONS, os valores dos parâmetros de Unit Commitment Térmico (UCT) da UTE Araucária, considerando as informações apresentadas na Carta nº 43, de 04/09/2025, e na Carta nº 96/2025, de 06/10/2025; e indeferir o requerimento de alteração do montante de geração necessário à recuperação dos custos fixos da UTE Araucária, aprovado pelo Despacho nº 1.985, de 27/06/2025.
+FELIPE ALVES CALABRIA

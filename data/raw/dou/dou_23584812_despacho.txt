@@ -1,0 +1,22 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 10/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=10/02/2026&jornal=515&pagina=60
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado do Mato Grosso do Sul
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 14/2026
+Fase de Requerimento de Pesquisa
+Determina cumprimento de exigência - Prazo 60 dias(131)
+868.116/2024-JOSÉ ALBERTO DA SILVA JUNIOR-OF. N°6384/2026/COROUT-PR/MS/ANM
+868.117/2024-JOSÉ ALBERTO DA SILVA JUNIOR-OF. N°6385/2026/COROUT-PR/MS/ANM
+Fase de Requerimento de Registro de Extração
+Determina cumprimento de exigência - Prazo 60 dias(2964)
+868.233/2024-MUNICIPIO DE SANTA RITA DO PARDO-OF. N°6357/2026/COROUT-PR/MS/ANM
+LUIS CLÁUDIO DE SOUSA
+Gerente

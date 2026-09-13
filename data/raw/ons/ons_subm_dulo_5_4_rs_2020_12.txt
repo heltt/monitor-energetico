@@ -1,0 +1,62 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 5.4-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 5.4-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 5.4
+Controle da transmissão
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Controle da transmissão 5.4 Responsabilidades 2020.12 01/01/2021
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Centro Nacional de Operação do Sistema – CNOS........................................................................3
+3.2. Centros de Operação do Sistema – COSR......................................................................................3
+3.3. Agentes de geração, de transmissão e de distribuição, e consumidores livres ou
+potencialmente livres cujas instalações estejam conectadas à Rede Básica................................3
+4. PRAZOS............................................................................................................................................3
+5. REFERÊNCIAS...................................................................................................................................3
+Endereço na internet: http://www.ons.org.br 2 / 3
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Controle da transmissão 5.4 Responsabilidades 2020.12 01/01/2021
+1. OBJETIVO
+1.1. Estabelecer as responsabilidades e etapas de processos relativos ao controle da transmissão em
+operação normal da Rede de Operação em tempo real, que abrange o controle de tensão e de carregamento
+de equipamentos e linhas de transmissão dentro dos limites operativos vigentes na Rede de Operação
+Sistêmica e Regional.
+2. PRODUTOS
+2.1. Não há produtos estabelecidos neste documento.
+3. RESPONSABILIDADES
+3.1. Centro Nacional de Operação do Sistema – CNOS
+(a) Coordenar e supervisionar as ações operativas para controle do sistema de transmissão dentro dos
+limites operativos vigentes na Rede de Operação Sistêmica.
+(b) Supervisionar as ações operativas dos centros de operação do ONS para controle do sistema de
+transmissão em cada Rede de Operação Regional durante a operação normal.
+3.2. Centros de Operação do Sistema – COSR
+(a) Supervisionar e controlar as Redes de Operação Sistêmica e Regional, sob sua responsabilidade, para
+controle do sistema de transmissão dentro dos limites operativos vigentes.
+(b) Coordenar, supervisionar, controlar e executar, conforme o caso, as ações operativas para controle
+do sistema de transmissão dentro dos limites operativos vigentes na Rede de Operação Sistêmica e
+Regional, sob sua responsabilidade.
+(c) Informar aos agentes de operação as restrições na Rede de Operação.
+3.3. Agentes de geração, de transmissão e de distribuição, e consumidores livres ou potencialmente
+livres cujas instalações estejam conectadas à Rede Básica
+(a) Supervisionar, comandar e executar, conforme orientação dos centros de operação do ONS, as ações
+operativas necessárias para controle do sistema de transmissão dentro dos limites operativos
+vigentes.
+(b) Informar ao centro de operação do ONS com o qual se relaciona indisponibilidades, restrições,
+alterações de limites de operativos e problemas operativos que possam impactar o controle da
+transmissão dentro dos limites operativos.
+4. PRAZOS
+4.1. Não há prazos estabelecidos neste documento.
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 3 / 3

@@ -1,0 +1,13 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Retificação
+TITULO: RETIFICAÇÃO
+DATA_PUBLICACAO: 25/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=25/02/2026&jornal=515&pagina=86
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Energia Elétrica/Superintendência de Concessões,  Permissões e Autorizações dos Serviços de Energia Elétrica
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+RETIFICAÇÃO
+No Despacho nº 170, de 26 de janeiro de 2026, constante do Processo nº 48500.034427/2025-63, publicado no D.O. de 04.02.2026, seção 1, p. 64, v. 164, n. 24, onde se lê: " na modalidade de Produção Independente de Energia Elétrica - PIE", leia-se: " na modalidade de Autoprodução". A íntegra deste Despacho consta dos autos e estará disponível em biblioteca.aneel.gov.br.

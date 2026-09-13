@@ -1,0 +1,649 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 9.1-IN_2026.04
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 9.1-IN_2026.04.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 9.1
+Indicadores de confiabilidade da Rede
+Básica
+Indicadores
+Revisão Motivo da revisão Data de aprovação
+2026.04 Despacho STD nº 1.238/2026 09/04/2026
+Procedimentos de Rede - Módulo 9 – Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de confiabilidade da Rede Básica 9.1 Indicadores 2026.04 01/05/2026
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. INDICADORES DE CONFIABILIDADE DA REDE BÁSICA.......................................................................3
+2.1. Controle de Carregamento de Transformadores (CCAT)..............................................................3
+2.2. Controle de Carregamento de Linhas de Transmissão (CCAL)......................................................4
+2.3. Desempenho da Tensão em Regime Permanente (DTRP)............................................................4
+2.4. Robustez da Malha Sistêmica (RMAL)...........................................................................................6
+2.5. Robustez da Malha Sistêmica para Contingências Simples (RMCS)..............................................7
+2.6. Robustez da Rede Básica (RRB).....................................................................................................8
+2.7. Robustez da Rede Básica para Contingências Simples (RRBCS)....................................................8
+2.8. Atendimento aos Limites Sistêmicos (ATLS)..................................................................................9
+2.9. Carga Interrompida por Perturbação (CIPER)..............................................................................10
+2.10. Severidade das Perturbações (SM).............................................................................................11
+2.11. Frequência Equivalente de Interrupção de Carga (FREQ)...........................................................13
+2.12. Duração Equivalente de Interrupção de Carga (DREQ)...............................................................14
+2.13. Energia Não Suprida (ENS)..........................................................................................................15
+2.14. Grau de Impacto de Interrupção de Energia (GIE)......................................................................16
+2.15. Controle de Carregamento por Sistemas Especiais de Proteção (COSEP)...................................19
+3. REFERÊNCIAS.................................................................................................................................19
+Endereço na internet: http://www.ons.org.br 2 / 19
+Procedimentos de Rede - Módulo 9 – Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de confiabilidade da Rede Básica 9.1 Indicadores 2026.04 01/05/2026
+1. OBJETIVO
+1.1. Estabelecer a sistemática para cálculo dos indicadores de confiabilidade da Rede Básica relacionados à
+segurança elétrica do Sistema Interligado Nacional (SIN).
+2. INDICADORES DE CONFIABILIDADE DA REDE BÁSICA
+2.1. Controle de Carregamento de Transformadores (CCAT)
+2.1.1. Objetivo
+2.1.1.1. Avaliar a capacidade do sistema de manter os elementos de transformação da Rede Básica dentro
+de seus valores nominais.
+2.1.2. Definição
+2.1.2.1. É o percentual de transformadores da Rede Básica que não foram submetidos a carregamentos
+superiores a seus valores nominais.
+2.1.3. Formulação
+2.1.3.1. O indicador CCAT é calculado pela seguinte relação:
+Total Sobre ( 1 )
+CCAT  TF TF .100 [%]
+Total
+TF
+Onde:
+SOBRE = Quantidade de transformadores submetidos à sobrecarga no período. Não
+TF
+são considerados intervalos de tempo de violação com duração inferior a 10
+(dez) minutos.
+TOTAL = Quantidade de transformadores do universo estatístico considerado.
+TF
+2.1.4. Dados utilizados
+2.1.4.1. Dados coletados do sistema de supervisão e controle, posteriormente consistidos pelo ONS.
+2.1.5. Agregações
+2.1.5.1. Sistêmica: sistema e área de controle.
+2.1.5.2. Espacial: agentes.
+2.1.5.3. Temporal: mensal e anual.
+2.1.6. Divulgação
+2.1.6.1. O Operador Nacional do Sistema Elétrico – ONS calcula e divulga o indicador CCAT no site do ONS.
+2.1.6.2. A periodicidade de divulgação do CCAT é mensal.
+Endereço na internet: http://www.ons.org.br 3 / 19
+Procedimentos de Rede - Módulo 9 – Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de confiabilidade da Rede Básica 9.1 Indicadores 2026.04 01/05/2026
+2.1.6.3. O ONS fornece aos agentes de operação, mediante consulta, os valores dos indicadores calculados
+para os equipamentos e barramentos sob sua responsabilidade.
+2.2. Controle de Carregamento de Linhas de Transmissão (CCAL)
+2.2.1. Objetivo
+2.2.1.1. Avaliar a capacidade do sistema de manter os elementos de transmissão da Rede Básica dentro de
+seus valores nominais.
+2.2.2. Definição
+2.2.2.1. É o percentual de LT da Rede Básica que não foram submetidas a carregamentos superiores a seus
+valores nominais.
+2.2.3. Formulação
+2.2.3.1. O indicador CCAL é calculado pela seguinte relação:
+Total Sobre ( 2 )
+CCAL  LT LT .100 [%]
+Total
+LT
+Onde:
+SOBRE = Quantidade de LT submetidas à sobrecarga no período. Não são
+LT
+considerados intervalos de tempo de violação com duração inferior a 10
+(dez) minutos.
+TOTAL = Quantidade de LT do universo estatístico considerado.
+LT
+2.2.4. Dados utilizados
+2.2.4.1. Dados coletados do sistema de supervisão e controle, posteriormente consistidos pelo ONS.
+2.2.5. Agregações
+2.2.5.1. Sistêmica: sistema e área de controle.
+2.2.5.2. Espacial: agentes.
+2.2.5.3. Temporal: mensal e anual.
+2.2.6. Divulgação
+2.2.6.1. O ONS calcula e divulga o indicador CCAL no site do ONS.
+2.2.6.2. A periodicidade de divulgação do CCAL é mensal.
+2.2.6.3. O ONS fornece aos agentes de operação, mediante consulta, os valores dos indicadores calculados
+para os equipamentos e barramentos sob sua responsabilidade.
+2.3. Desempenho da Tensão em Regime Permanente (DTRP)
+2.3.1. Objetivo
+Endereço na internet: http://www.ons.org.br 4 / 19
+Procedimentos de Rede - Módulo 9 – Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de confiabilidade da Rede Básica 9.1 Indicadores 2026.04 01/05/2026
+2.3.1.1. Avaliar a qualidade da operação na coordenação dos recursos do SIN para a segurança do sistema e
+dos equipamentos pelo percentual de tempo em que a tensão das barras da Rede Básica permaneceu dentro
+dos limites operativos estabelecidos nos documentos normativos da operação.
+2.3.2. Definição
+2.3.2.1. É o percentual de tempo em que a tensão permaneceu dentro dos limites operativos estabelecidos
+nos documentos normativos da operação.
+2.3.3. Formulação
+2.3.3.1. O indicador DTRP é calculado pela seguinte relação:
+( 3 )
+Onde:
+N = Número de minutos no mês em que a tensão da barra ficou fora limites
+m
+operativos definidos em instruções de operação.
+Minutos = Número de minutos no mês
+mês
+Critérios de apuração:
+i - Não são considerados intervalos de tempo de violação com duração menor que 10 (dez) minutos;
+ii. Não são considerados os períodos em que a tensão permaneceu fora dos limites operativos em
+decorrência de distúrbios;
+iii. Nas transições de período de carga, são considerados como limites de faixa o maior limite máximo e o
+menor limite mínimo das faixas dos dois períodos de carga, considerando 15 minutos antes e 15 minutos
+depois do horário de transição. Este critério é adotado para permitir a adequação das tensões durante as
+transições de período de carga pelas equipes de tempo real;
+iv. A banda morta das medidas é de 1 kV. Este critério é adotado para acomodar variações marginais da
+tensão em torno do limite da faixa, considerando a precisão da medição, arredondamentos da medida e
+critérios de alarme no sistema de supervisão e controle;
+v. Não são considerados os períodos em que a tensão permaneceu fora dos limites operativos em
+decorrência de solicitação do agente.
+2.3.4. Dados utilizados
+2.3.4.1. Dados coletados do sistema de supervisão e controle, posteriormente consistidos pelo ONS.
+2.3.5. Agregações
+2.3.5.1. Espacial: por barra.
+2.3.5.2. Temporal: mensal.
+2.3.6. Divulgação
+Endereço na internet: http://www.ons.org.br 5 / 19
+Procedimentos de Rede - Módulo 9 – Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de confiabilidade da Rede Básica 9.1 Indicadores 2026.04 01/05/2026
+2.3.6.1. O ONS calcula e divulga o indicador DTRP no site do ONS
+2.3.6.2. A periodicidade de divulgação do DTRP é mensal.
+2.4. Robustez da Malha Sistêmica (RMAL)
+2.4.1. Objetivo
+2.4.1.1. Avaliar a capacidade da malha sistêmica de suportar contingências sem interrupção de fornecimento
+aos consumidores, com exclusão das que envolveram cargas com suprimento radial.
+2.4.2. Definição
+2.4.2.1. É a relação entre o número de perturbações sem corte de carga e o número total de perturbações
+verificadas na malha sistêmica, para um período considerado.
+2.4.2.2. Define-se como malha sistêmica a Rede Básica, com exceção das linhas de transmissão (LT) e
+transformadores que se configuram como única fonte de suprimento de determinadas cargas – radiais ou
+derivações.
+2.4.3. Formulação
+2.4.3.1. O indicador RMAL é calculado pela seguinte relação:
+Nscc ( 4 )
+RMAL  MAL .100 [%]
+Nt
+MAL
+Onde:
+Nscc = Número de perturbações sem corte de carga na malha sistêmica.
+MAL
+Nt = Número total de perturbações na malha sistêmica.
+MAL
+2.4.4. Dados utilizados
+2.4.4.1. A sistemática para coleta, consistência e classificação dos dados utilizados para o cálculo do RMAL
+está descrita em rotina operacional específica no Submódulo 5.13.
+2.4.5. Agregações
+2.4.5.1. Sistêmica: sistema e subsistema.
+2.4.5.2. Temporal: mensal e anual.
+2.4.6. Divulgação
+2.4.6.1. O ONS calcula o indicador RMAL, divulga-o no site do ONS e encaminha-o, por meio do Relatório de
+Análise Estatística das Perturbações Ocorridas na Rede Básica do SIN, aos agentes de operação e à Agência
+Nacional de Energia Elétrica – ANEEL.
+2.4.6.2. A periodicidade de divulgação do RMAL, no site do ONS, é mensal e o encaminhamento do relatório
+é anual.
+Endereço na internet: http://www.ons.org.br 6 / 19
+Procedimentos de Rede - Módulo 9 – Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de confiabilidade da Rede Básica 9.1 Indicadores 2026.04 01/05/2026
+2.4.6.3. O ONS fornece aos agentes de operação, mediante consulta, os valores dos indicadores calculados
+para os equipamentos e barramentos sob sua responsabilidade.
+2.5. Robustez da Malha Sistêmica para Contingências Simples (RMCS)
+2.5.1. Objetivo
+2.5.1.1. Avaliar a capacidade da malha sistêmica de suportar contingências simples sem interrupção de
+fornecimento aos consumidores, com exclusão daquelas que envolveram cargas com suprimento radial.
+2.5.2. Definição
+2.5.2.1. É a relação percentual entre o número de perturbações ocasionadas por contingência simples sem
+corte de carga e o número total de perturbações ocasionadas por contingência simples verificadas na malha
+sistêmica, conforme item 2.4.2.1. , para um período considerado.
+2.5.3. Formulação
+2.5.3.1. O indicador RMCS é calculado pela seguinte relação:
+Nscc ( 5 )
+RMCS  MCS .100 [%]
+Nt
+MCS
+Onde:
+Nscc = Número de perturbações para contingência simples na malha sistêmica sem
+MCS
+corte de carga.
+Nt = Número total de perturbações para contingência simples na malha sistêmica.
+MCS
+2.5.4. Dados utilizados
+2.5.4.1. A sistemática para coleta, classificação e consistência dos dados utilizados para o cálculo do RMCS
+está descrita em rotina operacional específica no Submódulo 5.13.
+2.5.5. Agregações
+2.5.5.1. Sistêmica: sistema e subsistema.
+2.5.5.2. Temporal: mensal e anual.
+2.5.6. Divulgação
+2.5.6.1. O ONS calcula o indicador RMCS, divulga-o no site do ONS e encaminha-o, por meio do Relatório de
+Análise Estatística das Perturbações Ocorridas na Rede Básica do SIN, aos agentes de operação e à ANEEL.
+2.5.6.2. A periodicidade de divulgação do RMCS no site do ONS é mensal e o encaminhamento do relatório
+é anual.
+2.5.6.3. O ONS fornece aos agentes de operação, mediante consulta, os valores dos indicadores calculados
+para os equipamentos e barramentos sob sua responsabilidade.
+Endereço na internet: http://www.ons.org.br 7 / 19
+Procedimentos de Rede - Módulo 9 – Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de confiabilidade da Rede Básica 9.1 Indicadores 2026.04 01/05/2026
+2.6. Robustez da Rede Básica (RRB)
+2.6.1. Objetivo
+2.6.1.1. Avaliar a capacidade da Rede Básica de suportar contingências sem interrupção de carga.
+2.6.2. Definição
+2.6.2.1. É a relação percentual entre o número de perturbações sem corte de carga e o número total de
+perturbações verificadas na Rede Básica, para um período considerado.
+2.6.3. Formulação
+2.6.3.1. O indicador RRB é calculado pela seguinte relação:
+Nscc ( 6 )
+RRB RB.100 [%]
+Nt
+RB
+Onde:
+Nscc = Número de perturbações sem corte de carga na Rede Básica.
+RB
+Nt = Número total de perturbações na Rede Básica.
+RB
+2.6.4. Dados utilizados
+2.6.4.1. A sistemática para coleta, consistência e classificação dos dados utilizados para o cálculo do RRB está
+descrita em rotina operacional específica no Submódulo 5.13.
+2.6.5. Agregações
+2.6.5.1. Sistêmica: sistema e subsistema.
+2.6.5.2. Temporal: mensal e anual.
+2.6.6. Divulgação
+2.6.6.1. O ONS calcula o indicador RRB, divulga-o no site do ONS e encaminha-o, por meio do Relatório de
+Análise Estatística das Perturbações Ocorridas na Rede Básica do SIN, aos agentes de operação e à ANEEL.
+2.6.6.2. A periodicidade de divulgação do RRB no site do ONS é mensal e o encaminhamento do relatório é
+anual.
+2.6.6.3. O ONS fornece aos agentes de operação, mediante consulta, os valores dos indicadores calculados
+para os equipamentos e barramentos sob sua responsabilidade.
+2.7. Robustez da Rede Básica para Contingências Simples (RRBCS)
+2.7.1. Objetivo
+2.7.1.1. Avaliar a capacidade da Rede Básica de suportar contingências simples sem interrupção de carga.
+2.7.2. Definição
+Endereço na internet: http://www.ons.org.br 8 / 19
+Procedimentos de Rede - Módulo 9 – Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de confiabilidade da Rede Básica 9.1 Indicadores 2026.04 01/05/2026
+2.7.2.1. É a relação percentual entre o número de perturbações ocasionadas por contingência simples sem
+corte de carga e o número total de perturbações ocasionadas por contingência simples verificadas na Rede
+Básica, para um período considerado.
+2.7.3. Formulação
+2.7.3.1. O indicador RRBCS é calculado pela seguinte relação:
+Nscc ( 7 )
+RRBCS  RBCS .100 [%]
+Nt
+RBCS
+Onde:
+Nscc = Número de perturbações para contingência simples na Rede Básica sem
+RBCS
+corte de carga.
+Nt = Número total de perturbações para contingência simples na Rede Básica.
+RBCS
+2.7.4. Dados utilizados
+2.7.4.1. A sistemática para coleta, consistência e classificação dos dados utilizados para o cálculo do RRBCS
+está descrita em rotina operacional específica no Submódulo 5.13.
+2.7.5. Agregações
+2.7.5.1. Sistêmica: sistema e subsistema.
+2.7.5.2. Temporal: mensal e anual.
+2.7.6. Divulgação
+2.7.6.1. O ONS calcula o indicador RRBCS, divulga-o no site do ONS e encaminha-o, por meio do Relatório de
+Análise Estatística das Perturbações Ocorridas na Rede Básica do SIN, aos agentes de operação e à ANEEL.
+2.7.6.2. A periodicidade de divulgação do RRBCS no site do ONS é mensal e o encaminhamento do relatório
+é anual.
+2.7.6.3. O ONS fornece aos agentes de operação, mediante consulta, os valores dos indicadores calculados
+para os equipamentos e barramentos sob sua responsabilidade.
+2.8. Atendimento aos Limites Sistêmicos (ATLS)
+2.8.1. Objetivo
+2.8.1.1. Avaliar a segurança do sistema de acordo com o tempo em que os principais fluxos sistêmicos se
+mantiveram dentro das faixas recomendadas pelos estudos elétricos específicos.
+2.8.2. Definição
+2.8.2.1. É o percentual de tempo em que os fluxos, definidos nos documentos normativos da operação e
+selecionados como relevantes para avaliação da segurança elétrica, operaram dentro das faixas de segurança
+recomendadas pelos estudos elétricos específicos.
+Endereço na internet: http://www.ons.org.br 9 / 19
+Procedimentos de Rede - Módulo 9 – Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de confiabilidade da Rede Básica 9.1 Indicadores 2026.04 01/05/2026
+2.8.3. Formulação
+2.8.3.1. O indicador ATLS é calculado pela seguinte relação:
+( 8 )
+[%]
+Onde:
+A = Somatório dos tempos de violação das faixas de segurança recomendadas
+pelos estudos elétricos específicos no período da agregação considerada. Não
+são considerados intervalos de tempo de violação com duração inferior a 10
+(dez) minutos.
+B = Período total de observação da agregação considerada. É considerado, no
+cálculo do indicador, uma banda morta de 50 MW ou 5% do limite da faixa,
+o que for maior.
+2.8.4. Dados utilizados
+2.8.4.1. Dados coletados do sistema de supervisão e controle, posteriormente consistidos pelo ONS.
+2.8.5. Agregações
+2.8.5.1. Temporal: mensal e anual.
+2.8.6. Divulgação
+2.8.6.1. O ONS calcula o indicador ATLS e o divulga no site do ONS.
+2.8.6.2. A periodicidade de divulgação do ATLS é mensal.
+2.8.6.3. O ONS fornece aos agentes de operação, mediante consulta, os valores dos indicadores calculados
+para os equipamentos e barramentos sob sua responsabilidade.
+2.9. Carga Interrompida por Perturbação (CIPER)
+2.9.1. Objetivo
+2.9.1.1. Quantificar a redução percentual do atendimento à carga, quando uma perturbação envolver a Rede
+Básica ou a atuação de Sistemas Especiais de Proteção (SEP).
+2.9.2. Definição
+2.9.2.1. É a relação percentual entre a carga de demanda interrompida numa perturbação que envolva
+desligamentos de equipamentos da Rede Básica ou atuação de SEP e a carga de demanda média suprida ao
+agente, estado, região ou sistema, na hora anterior à perturbação.
+2.9.3. Formulação
+2.9.3.1. O indicador CIPER é calculado pela seguinte relação:
+Endereço na internet: http://www.ons.org.br 10 / 19
+Procedimentos de Rede - Módulo 9 – Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de confiabilidade da Rede Básica 9.1 Indicadores 2026.04 01/05/2026
+MW ( 9 )
+CIPER CI .100 [%]
+P
+S
+Onde:
+MW = Carga de demanda interrompida no instante do início da perturbação [MW].
+CI
+P = Carga de demanda média suprida ao agente, estado, região ou sistema, na
+S
+hora anterior à perturbação [MW].
+2.9.4. Dados utilizados
+2.9.4.1. A sistemática para coleta, consistência e classificação dos dados utilizados para o cálculo do CIPER
+está descrita em rotina operacional específica no Submódulo 5.13.
+2.9.5. Agregações
+2.9.5.1. Espacial: agente.
+2.9.5.2. Sistêmica: estado, subsistema e sistema.
+2.9.5.3. Temporal: mensal e anual.
+2.9.5.4. Os resultados para cada agregação são apresentados por faixas, conforme a Tabela 1.
+Tabela 1 – Agregações relativas ao indicador CIPER
+Carga Interrompida (%) Número de perturbações
+0 – 20
+20 – 40
+40 – 60
+60 – 80
+80 – 100
+TOTAL
+2.9.6. Divulgação
+2.9.6.1. O ONS calcula o indicador CIPER, divulga-o no site do ONS e encaminha-o, por meio do Relatório de
+Análise Estatística das Perturbações Ocorridas na Rede Básica do SIN, aos agentes de operação e à ANEEL.
+2.9.6.2. A periodicidade de divulgação do CIPER no site do ONS é mensal e o encaminhamento do relatório
+é anual.
+2.9.6.3. O ONS fornece aos agentes de operação, mediante consulta, os valores dos indicadores calculados
+para os equipamentos e barramentos sob sua responsabilidade.
+2.10. Severidade das Perturbações (SM)
+2.10.1.Objetivo
+2.10.1.1. Mensurar a severidade das perturbações que tiveram envolvimento da Rede Básica ou atuação de
+SEP.
+2.10.2.Definição
+Endereço na internet: http://www.ons.org.br 11 / 19
+Procedimentos de Rede - Módulo 9 – Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de confiabilidade da Rede Básica 9.1 Indicadores 2026.04 01/05/2026
+2.10.2.1. O indicador SM (Sistema-Minuto) é definido como a relação entre:
+(a) a carga de demanda interrompida numa dada perturbação que envolva desligamentos de
+equipamentos da Rede Básica ou atuação de SEP; e
+(b) a carga de demanda máxima da hora anterior à perturbação, conforme a agregação considerada.
+2.10.3.Formulação
+2.10.3.1. O indicador SM é calculado pela seguinte relação:
+MW .T ( 10 )
+SM  CI MI
+D
+MAX
+Onde:
+MW = Carga de demanda interrompida no instante do início da perturbação [MW].
+CI
+T = Tempo médio de interrupção das cargas, estimado a partir do gráfico de carga
+MI
+[min].
+D = Carga de demanda máxima da hora anterior à perturbação [MW].
+MAX
+2.10.4.Dados utilizados
+2.10.4.1. A sistemática para coleta, consistência e classificação dos dados utilizados para o cálculo do SM
+está descrita em rotina operacional específica no Submódulo 5.13.
+2.10.5.Agregações
+2.10.5.1. Espacial: agente.
+2.10.5.2. Sistêmica: estado, subsistema e sistema.
+2.10.5.3. Temporal: mensal e anual.
+2.10.5.4. Esses resultados são apresentados por faixas, conforme a Tabela 2.
+Tabela 2 – Agregações relativas ao indicador SM.
+SM Número de perturbações
+Endereço na internet: http://www.ons.org.br 12 / 19
+Procedimentos de Rede - Módulo 9 – Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de confiabilidade da Rede Básica 9.1 Indicadores 2026.04 01/05/2026
+SM < 1
+1 < SM < 10
+10 < SM < 100
+100 < SM < 1000
+SM > 1000
+TOTAL
+2.10.6.Divulgação
+2.10.6.1. O ONS calcula o indicador SM, divulga-o no site do ONS e encaminha-o, por meio do Relatório de
+Análise Estatística das Perturbações Ocorridas na Rede Básica do SIN, aos agentes de operação e à ANEEL.
+2.10.6.2. A periodicidade de divulgação do SM no site do ONS é mensal e o encaminhamento do relatório é
+anual.
+2.10.6.3. O ONS fornece aos agentes de operação, mediante consulta, os valores dos indicadores calculados
+para os equipamentos e barramentos sob sua responsabilidade.
+2.11. Frequência Equivalente de Interrupção de Carga (FREQ)
+2.11.1.Objetivo
+2.11.1.1. Quantificar o número equivalente de vezes em que houve perda plena do atendimento com
+desligamentos de equipamentos da Rede Básica ou com atuação de SEP, para avaliar a capacidade do sistema
+de manter a confiabilidade de atendimento.
+2.11.2.Definição
+2.11.2.1. É o número de vezes, no período observado, em que houve interrupção equivalente ao total do
+atendimento às cargas da área em análise.
+2.11.3.Formulação
+2.11.3.1. O indicador FREQ é calculado pela seguinte relação:
+n P   ( 11 )
+FREQ  int i
+P
+i1
+max
+
+Onde:
+P = Carga de demanda máxima verificada no período [MW].
+max
+P = Carga de demanda interrompida no evento i [MW].
+int
+i = Evento de ordem i, para i = 1, 2, ..., n.
+2.11.4.Dados utilizados
+2.11.4.1. A sistemática para coleta, consistência e classificação dos dados utilizados para o cálculo do FREQ
+está descrita em rotina operacional específica no Submódulo 5.13.
+Endereço na internet: http://www.ons.org.br 13 / 19
+Procedimentos de Rede - Módulo 9 – Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de confiabilidade da Rede Básica 9.1 Indicadores 2026.04 01/05/2026
+2.11.5.Agregações
+2.11.5.1. Espacial: agente.
+2.11.5.2. Sistêmica: estado, subsistema e sistema.
+2.11.5.3. Temporal: mensal e anual.
+2.11.6.Divulgação
+2.11.6.1. O ONS calcula o indicador FREQ, divulga-o no site do ONS e encaminha-o, por meio do Relatório de
+Análise Estatística das Perturbações Ocorridas na Rede Básica do SIN, aos agentes de operação e à ANEEL.
+2.11.6.2. A periodicidade de divulgação do FREQ no site do ONS é mensal e o encaminhamento do relatório
+é anual.
+2.11.6.3. O ONS fornece aos agentes de operação, mediante consulta, os valores dos indicadores calculados
+para os equipamentos e barramentos sob sua responsabilidade.
+2.12. Duração Equivalente de Interrupção de Carga (DREQ)
+2.12.1.Objetivo
+2.12.1.1. Quantificar a duração equivalente à perda total do atendimento, conforme a agregação
+considerada, com desligamentos de equipamentos da Rede Básica ou atuação de SEP, para que se possa
+avaliar a capacidade do sistema de manter a confiabilidade de atendimento, a flexibilidade operacional do
+sistema e a habilidade das equipes de operação em recompor o sistema.
+2.12.2.Definição
+2.12.2.1. É a duração equivalente à perda total do atendimento às cargas da área em análise, no período
+observado.
+2.12.3.Formulação
+2.12.3.1. O indicador DREQ é calculado pela seguinte relação:
+n P .T   ( 12 )
+DREQ    int Int i [min]
+P
+i1  max 
+Onde:
+P = Carga de demanda máxima verificada no período [MW].
+max
+P = Carga de demanda interrompida no evento i [MW].
+int
+T = Tempo de interrupção do evento i [min].
+int
+i = Evento de ordem i, para i = 1, 2, ..., n.
+2.12.4.Dados utilizados
+2.12.4.1. A sistemática para coleta, classificação e consistência dos dados utilizados para o cálculo do DREQ
+está descrita em rotina operacional específica no Submódulo 5.13.
+Endereço na internet: http://www.ons.org.br 14 / 19
+Procedimentos de Rede - Módulo 9 – Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de confiabilidade da Rede Básica 9.1 Indicadores 2026.04 01/05/2026
+2.12.5.Agregações
+2.12.5.1. Espacial: agente.
+2.12.5.2. Sistêmica: estado, subsistema e sistema.
+2.12.5.3. Temporal: mensal e anual.
+2.12.6.Divulgação
+2.12.6.1. O ONS calcula o indicador DREQ, divulga-o no site do ONS e encaminha-o, por meio do Relatório
+de Análise Estatística das Perturbações Ocorridas na Rede Básica do SIN, aos agentes de operação e à ANEEL.
+2.12.6.2. A periodicidade de divulgação do DREQ no site do ONS é mensal e o encaminhamento do relatório
+é anual.
+2.12.6.3. O ONS fornece aos agentes de operação, mediante consulta, os valores dos indicadores calculados
+para os equipamentos e barramentos sob sua responsabilidade.
+2.13. Energia Não Suprida (ENS)
+2.13.1.Objetivo
+2.13.1.1. Quantificar o grau de continuidade no suprimento de energia aos consumidores.
+2.13.2.Definição
+2.13.2.1. É a relação percentual entre a energia não suprida, face à interrupção do fornecimento de energia
+causado por perturbações que afetaram a Rede Básica, e a energia total que seria suprida na ausência das
+interrupções.
+2.13.3.Formulação
+2.13.3.1. O indicador ENS é calculado pela seguinte relação:
+n ( 13 )
+(P T )
+int int i
+ENS i1 100 [%]
+E
+T
+Onde:
+P = Carga de demanda interrompida no evento i [MW].
+int
+T = Tempo de interrupção do evento i [hora].
+int
+E = Energia total que seria suprida na ausência da interrupção causada pelo
+T
+evento i [MWh].
+i = Evento de ordem i, para i = 1, 2, ..., n.
+2.13.4.Dados utilizados
+2.13.4.1. A sistemática para coleta, consistência e classificação dos dados utilizados para o cálculo do ENS
+está descrita em rotina operacional específica no Submódulo 5.13.
+Endereço na internet: http://www.ons.org.br 15 / 19
+Procedimentos de Rede - Módulo 9 – Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de confiabilidade da Rede Básica 9.1 Indicadores 2026.04 01/05/2026
+2.13.5.Agregações
+2.13.5.1. Sistêmica: sistema e subsistema.
+2.13.5.2. Temporal: mensal e anual.
+2.13.6.Divulgação
+2.13.6.1. O ONS calcula o indicador ENS, divulga-o no site do ONS e encaminha-o, por meio do Relatório de
+Análise Estatística das Perturbações Ocorridas na Rede Básica do SIN, aos agentes de operação e à ANEEL.
+2.13.6.2. A periodicidade de divulgação do ENS no site do ONS é mensal e o encaminhamento do relatório é
+anual.
+2.13.6.3. O ONS fornece aos agentes de operação, mediante consulta, os valores dos indicadores calculados
+para os equipamentos e barramentos sob sua responsabilidade.
+2.14. Grau de Impacto de Interrupção de Energia (GIE)
+2.14.1.Objetivo
+2.14.1.1. Este indicador visa classificar eventos que resultem na interrupção de suprimento de energia
+elétrica, permitindo a caracterização adequada da gravidade desses eventos, sob a visão do SIN e dos estados
+que sofreram a interrupção.
+2.14.2.Definição
+2.14.2.1. É o somatório de cinco fatores (total de carga interrompida, tempo de interrupção, horário do
+evento, abrangência, população afetada) pontuados de 0,25 a 2,0 cujo resultado é classificado de acordo
+com as Tabela 3, Tabela 4, Tabela 5 e Tabela 6 deste submódulo.
+2.14.3.Formulação
+2.14.3.1. O indicador GIE é calculado pelo seguinte somatório:
+5 ( 14 )
+GIEPontuaçãoFATOR
+i
+i1
+Onde:
+Pontuação = Pontuação atribuída a um determinado fator considerado na matriz de
+cálculo.
+Fator = Fator de ordem i, para i = 1, 2, ..., n
+i
+2.14.3.1.1. Os 5 (cinco) fatores considerados para pontuação são os seguintes:
+(a) percentual Carga Interrompida (MW) da Macro-Região (S/SE/CO ou N/NE);
+(b) tempo médio de interrupção (minutos);
+(c) período do dia (detalhado na matriz de cálculo);
+(d) abrangência, em percentual, do impacto na Macro-Região; e
+(e) percentual da população atingida na Macro-Região.
+Endereço na internet: http://www.ons.org.br 16 / 19
+Procedimentos de Rede - Módulo 9 – Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de confiabilidade da Rede Básica 9.1 Indicadores 2026.04 01/05/2026
+2.14.3.2. Visão SIN
+(a) A matriz para o cálculo do GIE, para a visão SIN, está apresentada na Tabela 3.
+(b) Quando a interrupção de energia envolver duas macro-regiões, será feita a avaliação para ambas e
+adotada a classificação mais severa.
+(c) Após o cálculo do GIE, obtêm-se a classificação da gravidade da perturbação de acordo com a Tabela
+4.
+2.14.3.3. Visão Estado
+(a) A matriz para o cálculo do GIE, para a visão Estado, está apresentada na Tabela 5.
+(b) Após o cálculo do GIE, obtêm-se a classificação da gravidade da perturbação de acordo com a Tabela
+6.
+Tabela 3 – Matriz de cálculo para o GIE- Visão SIN
+Tabela 4 – Classificação da gravidade - Visão SIN
+Tabela 5 – Matriz de cálculo para o GIE- Visão Estado
+Endereço na internet: http://www.ons.org.br 17 / 19
+Procedimentos de Rede - Módulo 9 – Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de confiabilidade da Rede Básica 9.1 Indicadores 2026.04 01/05/2026
+Tabela 6 – Classificação da gravidade - Visão Estado
+2.14.3.4. Para as interrupções que envolvam capital ou polo industrial, é calculado o percentual da área
+atingida e considerado, para efeito de pontuação, o maior valor encontrado entre os dois valores. Este
+critério é válido para o cálculo do GIE para as duas visões (SIN e Estado).
+2.14.4.Agregações
+2.14.4.1. Sistêmica: sistema e estado.
+2.14.4.2. Temporal: mensal e anual.
+2.14.5.Divulgação
+2.14.5.1. O ONS calcula o indicador GIE e divulga-o no Boletim de Interrupção de Suprimento de Energia
+Elétrica no SIN (BISE), conforme Submódulo 6.1 – Elaboração dos informes e boletins da Operação.
+2.14.5.2. O ONS fornece aos agentes de operação, mediante consulta, os valores dos indicadores calculados
+para os equipamentos e barramentos sob sua responsabilidade.
+2.15. Controle de Carregamento por Sistemas Especiais de Proteção (COSEP)
+2.15.1.Objetivo
+2.15.1.1. Quantificar a relação dos equipamentos que possuem controle de carregamento realizado por SEP.
+2.15.2.Definição
+Endereço na internet: http://www.ons.org.br 18 / 19
+Procedimentos de Rede - Módulo 9 – Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de confiabilidade da Rede Básica 9.1 Indicadores 2026.04 01/05/2026
+2.15.2.1. É a relação percentual entre o número de equipamentos que possuem controle de carregamento
+por SEP e o número total de equipamentos existentes.
+2.15.3.Formulação
+2.15.3.1. O indicador COSEP é calculado pela seguinte relação:
+N ( 15 )
+COSEP  EQUIP_SEP .100 [%]
+N
+EQUIP
+Onde:
+N = Número total de equipamentos com controle de carregamento por SEP.
+EQUIP_SEP
+N = Número total de equipamentos.
+EQUIP
+2.15.4.Dados utilizados
+2.15.4.1. A sistemática para coleta, consistência e classificação dos dados utilizados para o cálculo do COSEP
+está descrita em rotina operacional específica no Submódulo 5.13.
+2.15.5.Agregações
+2.15.5.1. Espacial: tipo de equipamento, região e sistema.
+2.15.5.2. Temporal: mensal e anual.
+2.15.6.Divulgação
+2.15.6.1. O ONS calcula o indicador COSEP, divulga-o no site do ONS e encaminha-o, por meio do Relatório
+de Análise Estatística do Desempenho de Sistemas Especiais de Proteção, aos agentes de operação e à ANEEL.
+2.15.6.2. A periodicidade de divulgação do COSEP no site do ONS é mensal e o encaminhamento do relatório
+é anual.
+2.15.6.3. O ONS fornece aos agentes de operação, mediante consulta, os valores dos indicadores calculados
+para os equipamentos e barramentos sob sua responsabilidade.
+3. REFERÊNCIAS
+3.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 19 / 19

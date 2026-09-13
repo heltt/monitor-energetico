@@ -1,0 +1,18 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 20/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=20/02/2026&jornal=515&pagina=100
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Superintendência de Arrecadação e Fiscalização de Receitas/Gerência de Cobrança das Demais Receitas/Coordenação de Autuação e Fiscalização da TAH
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 80/2026
+FASE DE AUTORIZAÇÃO DE PESQUISA. declara a nulidade do Alvará de Pesquisa (TAH). Prazo de 10 dias para pedido de reconsideração - a ser juntado ao NUP do processo, através do protocolo digital: https://app.anm.gov.br/protocolo.(6.50)
+Titular ANM NUP "Auto de Infração/ano" UF
+RP MINERAÇÃO LTDA 800079/2021 48065.800079/2021-86 6713/2021 CE
+EUTIQUIA LUCIA DO VALE RAMOS
+Coordenadora

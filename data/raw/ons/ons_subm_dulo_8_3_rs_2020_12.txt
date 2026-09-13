@@ -1,0 +1,220 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 8.3-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 8.3-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 8.3
+Apuração de serviços e encargos da
+transmissão e encargos setoriais
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Responsabilidades 2020.12 01/01/2021
+transmissão e encargos setoriais
+ÍNDICE
+1. OBJETIVO ..................................................................................................................................... 3
+2. PRODUTOS ................................................................................................................................... 3
+2.1. Avisos de Débito (AVD) .................................................................................................................. 3
+2.2. Avisos de Crédito (AVC) ................................................................................................................. 3
+2.3. Relatório de Apuração Mensal de Serviços e Encargos de Transmissão (RAMSET) ..................... 3
+2.4. Relatório anual de apuração das Parcelas Variáveis ..................................................................... 3
+2.5. Relatório anual de eficiência de contratação e acompanhamento das diferenças entre MUST
+contratado e MUST verificado ....................................................................................................... 3
+2.6. Base de dados anual de receita apurada por concessionária de transmissão .............................. 3
+3. RESPONSABILIDADES .................................................................................................................... 4
+3.1. Operador Nacional do Sistema Elétrico – ONS .............................................................................. 4
+3.2. Usuários do sistema de transmissão ............................................................................................. 5
+3.3. Agentes de transmissão ................................................................................................................ 5
+4. PRAZOS ........................................................................................................................................ 5
+5. REFERÊNCIAS ................................................................................................................................ 7
+Endereço na internet: http://www.ons.org.br 2 / 7
+Procedimentos de Rede - Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Responsabilidades 2020.12 01/01/2021
+transmissão e encargos setoriais
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas de processos relativos à apuração
+de serviços e encargos de transmissão, apuração de encargos setoriais relativos à Conta de Desenvolvimento
+Energético (CDE) e conta do Programa de Incentivo às Fontes Alternativas de Energia Elétrica (conta
+PROINFA), bem como o acompanhamento da liquidação financeira destes encargos.
+2. PRODUTOS
+2.1. Avisos de Débito (AVD)
+2.1.1. Apresenta o valor mensal de encargos devido por cada usuário do sistema de transmissão à cada
+agente de transmissão e ao Operador Nacional do Sistema Elétrico – ONS.
+2.2. Avisos de Crédito (AVC)
+2.2.1. Apresenta o valor mensal de receita a ser faturado por cada agente de transmissão e pelo ONS à cada
+usuário do sistema de transmissão.
+2.3. Relatório de Apuração Mensal de Serviços e Encargos de Transmissão (RAMSET)
+2.3.1. Apresenta os resultados da apuração mensal de serviços e encargos de transmissão e encargos
+setoriais.
+2.4. Relatório anual de apuração das Parcelas Variáveis
+2.4.1. Apresenta o resultado de apuração de parcela variável relativa à cada Função Transmissão (FT)
+integrantes das instalações de Rede Básica e Interligações Internacionais, conforme [1] e [3].
+2.5. Relatório anual de eficiência de contratação e acompanhamento das diferenças entre MUST
+contratado e MUST verificado
+2.5.1. Apresenta os resultados das diferenças entre o MUST contratado e a demanda máxima medida, por
+horário e por ponto de conexão, conforme [2].
+2.6. Base de dados anual de receita apurada por concessionária de transmissão
+2.6.1. Apresenta as receitas a serem creditadas a cada agente de transmissão entre os meses de junho a
+maio do ano seguinte, incluindo a discriminação das antecipações, como subsídio ao processo de revisão
+tarifária.
+Endereço na internet: http://www.ons.org.br 3 / 7
+Procedimentos de Rede - Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Responsabilidades 2020.12 01/01/2021
+transmissão e encargos setoriais
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Administrar e coordenar a prestação dos serviços de transmissão de energia elétrica por parte dos
+agentes de transmissão aos usuários do sistema de transmissão.
+(b) Apurar os encargos relativos ao uso das instalações de transmissão, encargos setoriais relativos à CDE
+e conta PROINFA e os valores de receita relativos às instalações de transmissão.
+(c) Determinar a parcela da receita mensal do ONS, em consonância com o valor de orçamento anual
+aprovado pela Agência Nacional de Energia Elétrica – ANEEL.
+(d) Disponibilizar aos agentes de transmissão, para análise e validação, os demonstrativos de cálculo das
+parcelas variáveis.
+(e) Disponibilizar aos agentes envolvidos, para análise e validação, os demonstrativos de cálculo de
+encargos e receitas, quando verificada alteração de parâmetros.
+(f) Emitir os AVC e AVD e disponibilizá-los aos agentes de transmissão e aos usuários do sistema de
+transmissão, respectivamente.
+(g) Emitir o RAMSET e disponibilizá-los aos agentes envolvidos e à ANEEL.
+(h) Analisar os comentários e dúvidas dos agentes, quando houver, relativos ao RAMSET e apresentar
+resultado da análise de forma a realizar possíveis retificações.
+(i) Disponibilizar à ANEEL os valores totais a serem arrecadados por cada agente de transmissão a título
+de CDE e PROINFA no respectivo mês de apuração.
+(j) Disponibilizar aos agentes envolvidos os dados institucionais e demais informações, atualizadas pelos
+próprios agentes, necessárias à atividade de faturamento e liquidação.
+(k) Emitir os documentos de cobrança dos valores referentes aos serviços prestados e cabíveis a cada
+usuário do sistema de transmissão.
+(l) Administrar o faturamento e a liquidação dos encargos referentes à prestação dos serviços de
+transmissão da Rede Básica e avaliar, periodicamente, a situação de adimplência dos usuários.
+(m) Analisar as solicitações recebidas das concessionárias de transmissão para acionamento do
+mecanismo de garantia financeira e avaliar a prioridade.
+(n) Encaminhar à ANEEL relatório anual contendo apuração da eficiência de contratação relativo à
+ultrapassagem e sobrecontratação e o acompanhamento das diferenças entre Montante de Uso do
+Sistema de Transmissão (MUST) contratado e verificado.
+(o) Encaminhar à ANEEL relatório anual de apresentação do montante de receita apurada por agente de
+transmissão.
+(p) Encaminhar à ANEEL relatório anual de apresentação do resultado de apuração de parcela variável
+relativa à cada Função Transmissão (FT) integrantes das instalações de Rede Básica e Interligações
+Internacionais.
+(q) Informar à ANEEL quando um dos limites dos descontos de parcela variável para um agente de
+transmissão for ultrapassado, conforme [1] e [3].
+Endereço na internet: http://www.ons.org.br 4 / 7
+Procedimentos de Rede - Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Responsabilidades 2020.12 01/01/2021
+transmissão e encargos setoriais
+(r) Informar à ANEEL quando o número de Outros Desligamentos de uma FT ultrapassar o
+correspondente Padrão de Frequência de Outros Desligamentos, conforme [1].
+3.2. Usuários do sistema de transmissão
+(a) Manter atualizados, junto ao ONS, os seus dados cadastrais necessários para a emissão de
+documentos de cobrança necessários à devida operacionalização do processo de liquidação dos
+encargos.
+(b) Realizar o pagamento dos valores cabíveis apresentados nos documentos de cobrança.
+(c) Autoprodutores e produtores independentes que suprem mais de uma unidade consumidora
+conectada à Rede Básica devem declarar ao ONS os montantes de autoprodução e de produção
+independente própria de cada unidade de geração relativos a cada unidade consumidora.
+3.3. Agentes de transmissão 1
+(a) Manter atualizados, junto ao ONS, os seus dados cadastrais necessários à devida operacionalização
+do processo de liquidação dos encargos.
+(b) Emitir os documentos de cobrança dos valores referentes aos serviços prestados e cabíveis a cada
+usuário do sistema de transmissão.
+(c) Informar ao ONS eventuais situações de pendência nos pagamentos, bem como informar quando da
+quitação integral ou parcial dos pagamentos pelos usuários destes serviços.
+4. PRAZOS
+Quadro 1 - Prazos para realização do processo de apuração mensal de serviços e encargos de transmissão e
+encargos setoriais
+Atividade Responsável Prazo Periodicidade
+Disponibilização dos demonstrativos Até o 15º dia útil do mês
+1 de cálculo de Parcelas Variáveis aos ONS subsequente ao da ocorrência Mensal
+agentes de transmissão dos eventos
+Análise e consistência dos Agentes de Até 5 dias úteis após a
+2 Mensal
+demonstrativos de cálculo de PV transmissão Atividade (1)
+Quando
+Disponibilização dos demonstrativos
+verificada
+3 de cálculo de receitas e encargos aos ONS -
+alteração de
+agentes envolvidos
+parâmetros
+1Os agentes de transmissão considerados neste submódulo referem-se àqueles responsáveis por instalações integrantes
+da Rede Básica e Interligações Internacionais conectadas à Rede Básica.
+Endereço na internet: http://www.ons.org.br 5 / 7
+Procedimentos de Rede - Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Responsabilidades 2020.12 01/01/2021
+transmissão e encargos setoriais
+Atividade Responsável Prazo Periodicidade
+Até 8 dias úteis antes do dia
+Disponibilização dos AVC, AVD e
+4 ONS 15 do mês seguinte ao mês da Mensal
+RAMSET
+apuração
+Informar à ANEEL os valores totais a
+serem arrecadados por cada Até 5 dias úteis após a
+5 ONS Mensal
+concessionária de transmissão, a emissão dos AVC e AVD
+título de CDE e PROINFA
+3o dia útil (ou 4o dia útil, com
+Informação ao ONS da posição dos
+Agentes de justificativa) após o
+6 pagamentos recebidos e eventuais Mensal
+transmissão vencimento de cada parcela
+inadimplências
+da fatura
+7 Informação às distribuidoras dos Até 31 de janeiro do ano
+ONS Anual
+valores de PIS apurados seguinte ao da apuração
+Contestação, quando julgar
+8 Agentes de Até 1º de março do ano
+necessário, dos valores de PIS Anual
+distribuição seguinte ao da apuração
+apurados pelo ONS
+Encaminhar à ANEEL relatório de
+eficiência de contratação e
+9 acompanhamento das diferenças ONS Até o dia 31 de março Anual
+entre MUST contratado e MUST
+verificado
+Encaminhar à ANEEL relatório de
+apresentação do resultado de
+apuração de parcela variável relativa Até 5º dia útil do mês de
+10 ONS Anual
+à cada Função Transmissão (FT) junho
+integrantes das instalações de Rede
+Básica e Interligações Internacionais
+Encaminhar à ANEEL a base e dados Até o dia 10 de junho do ano
+11 das receitas apuradas por ONS de início do próximo ciclo Anual
+concessionária de transmissão tarifário
+Informar à ANEEL da ocorrência de
+número de Outros Desligamentos de Até o dia 10 de junho do ano
+12 uma FT ultrapassar o ONS de início do próximo ciclo Anual
+correspondente Padrão de tarifário
+Frequência de Outros Desligamento
+Endereço na internet: http://www.ons.org.br 6 / 7
+Procedimentos de Rede - Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Apuração mensal de serviços e encargos da
+8.3 Responsabilidades 2020.12 01/01/2021
+transmissão e encargos setoriais
+5. REFERÊNCIAS
+ANEEL. Resolução Normativa nº 729, de 28 de junho de 2016.
+ANEEL. Resolução Normativa nº 666, de 23 de junho de 2015.
+ANEEL. Resolução Normativa nº 853, de 13 de agosto de 2019.
+Endereço na internet: http://www.ons.org.br 7 / 7

@@ -1,0 +1,100 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 5.2-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 5.2-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 5.2
+Execução de intervenções
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Execução de intervenções 5.2 Responsabilidades 2020.12 01/01/2021
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Centro Nacional de Operação do Sistema – CNOS........................................................................3
+3.2. Centros de Operação do Sistema – COSR......................................................................................3
+3.3. Agentes de operação.....................................................................................................................4
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIAS...................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Execução de intervenções 5.2 Responsabilidades 2020.12 01/01/2021
+1. OBJETIVO
+1.1. Estabelecer responsabilidades e etapas dos processos referentes à execução, em tempo real, de
+intervenções na Rede de Operação, programadas no Programa Diário de Operação (PDO), constantes na
+parte referente ao Programa Diário de Intervenções consolidado (PDI), e demais intervenções liberadas em
+tempo real pelos centros do Operador Nacional do Sistema Elétrico – ONS.
+2. PRODUTOS
+2.1. Não há produtos estabelecidos neste documento.
+3. RESPONSABILIDADES
+3.1. Centro Nacional de Operação do Sistema – CNOS
+(a) Analisar, aprovar ou indeferir intervenções solicitadas em tempo real pelos agentes da Rede de
+Operação Sistêmica.
+(b) Coordenar e supervisionar as ações para a execução do PDI e intervenções solicitadas em tempo real,
+no que se refere à Rede de Operação Sistêmica.
+(c) Autorizar a execução, reprogramar, prorrogar, cancelar, paralisar ou suspender intervenções na Rede
+de Operação Sistêmica, em função de necessidade operativa, as quais devem ser informadas aos
+agentes de operação com os devidos motivos.
+(d) Reprogramar, prorrogar ou cancelar intervenções na Rede de Operação Sistêmica, mediante
+solicitação do agente, com a devida justificativa, e conforme a disponibilidade sistêmica.
+(e) Registrar, em sistema computacional de gestão específico, os motivos para reprogramações,
+prorrogações, cancelamentos, paralizações e suspensões de intervenções na Rede de Operação
+Sistêmica.
+3.2. Centros de Operação do Sistema – COSR
+(a) Coordenar e supervisionar as ações para a execução do PDI e intervenções solicitadas em tempo real,
+no que se refere à Rede de Operação Regional.
+(b) Executar o PDI no que se refere à Rede de Operação Sistêmica e Regional, registrando as alterações e
+as dificuldades encontradas.
+(c) Analisar, aprovar ou indeferir intervenções solicitadas em tempo real pelos agentes na Rede de
+Operação Regional.
+(d) Supervisionar e controlar a operação da Rede de Operação Sistêmica para execução das intervenções.
+(e) Coordenar, supervisionar e controlar a operação da Rede de Operação Regional para execução das
+intervenções.
+(f) Autorizar a execução, reprogramar, prorrogar, cancelar, paralisar ou suspender intervenções na Rede
+de Operação Regional, em função de necessidade operativa.
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Execução de intervenções 5.2 Responsabilidades 2020.12 01/01/2021
+(g) Informar os devidos motivos de reprogramação, prorrogação, cancelamento, paralização ou
+suspensão de intervenções ao agente envolvido.
+(h) Registrar, em sistema computacional de gestão específico, os motivos para reprogramações,
+prorrogações, cancelamentos, paralizações e suspensões de intervenções na Rede de Operação
+Regional.
+3.3. Agentes de operação
+(a) Programar, supervisionar, comandar e executar as manobras necessárias para possibilitar a
+execução da intervenção, incluindo as tratativas com outros agentes envolvidos.
+(b) Atender as condições de segurança física necessárias para a execução da intervenção, tais como a
+definição da área a ser isolada, a execução da isolação e a liberação da área isolada para as equipes
+de manutenção.
+(c) Permitir a execução de serviços em suas instalações somente se estiver assegurado o cumprimento
+integral dos Procedimentos de Rede, sejam tais serviços executados por seus empregados ou por
+terceiros.
+(d) Comunicar ao COSR com o qual se relaciona o motivo do cancelamento de uma intervenção no
+momento de sua execução.
+(e) Informar de imediato ao centro de operação do ONS com o qual se relacionada qualquer imprevisto
+que venha a impedir que o equipamento ou linha de transmissão liberada retorne à operação no
+horário previsto.
+(f) Informar ao centro de operação do ONS com o qual se relaciona eventuais alterações de limites ou
+restrições operacionais resultantes da intervenção.
+(g) Cadastrar em sistema computacional de gestão específico a indisponibilidade de um equipamento
+sempre que este tenha ficado indisponível por desligamento forçado por defeito que signifique risco
+iminente para a segurança da instalação, do equipamento ou de terceiros.
+(h) Liberar o equipamento ou linha de transmissão para a operação quando houver solicitação de
+cancelamento por um centro do ONS, dentro do prazo de retorno antecipado constante no pedido de
+intervenção.
+(i) Informar ao centro de operação do ONS com o qual se relaciona tão logo o equipamento ou linha de
+transmissão sob intervenção esteja disponível para reintegração ao Sistema Interligado Nacional
+(SIN).
+4. PRAZOS
+4.1. Não há prazos estabelecidos neste documento.
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 4 / 4

@@ -1,0 +1,358 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.5-PR_2024.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.5-PR_2024.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.5
+Apuração da geração e de
+indisponibilidade de empreendimentos
+de geração
+Procedimental
+Revisão Motivo da revisão Data de aprovação
+2024.12 Despacho ANEEL 3.806/2024 16/12/2024
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração da geração e de
+indisponibilidade de 6.5 Procedimental 2024.12 19/12/2024
+empreendimentos de geração
+ÍNDICE
+1. APURAÇÃO DA GERAÇÃO................................................................................................................3
+1.1. Coleta de dados.............................................................................................................................3
+1.2. Apuração de geração de usina termoelétrica...............................................................................3
+1.3. Apuração de geração de usina hidroelétrica.................................................................................4
+1.4. Apuração de geração de usinas ou conjuntos de usinas eolioelétricas........................................4
+1.5. Apuração de geração de usinas ou conjuntos de usinas fotovoltaicas.........................................5
+1.6. Disponibilização dos valores apurados de geração.......................................................................7
+1.7. Comprovação de geração para operação comercial de unidades geradoras................................7
+2. APURAÇÃO DE INDISPONIBILIDADES...............................................................................................8
+2.1. Apuração de indisponibilidades....................................................................................................8
+2.2. Comprovação da disponibilidade de unidades geradoras.............................................................8
+2.3. Disponibilização dos dados de indisponibilidades.........................................................................9
+3. ELABORAÇÃO ANUAL DE RELATÓRIO DE ANÁLISE ESTATÍSTICA DA INDISPONIBILIDADE
+PROGRAMADA E NÃO PROGRAMADA DE FUNÇÕES GERAÇÃO......................................................10
+4. REFERÊNCIAS.................................................................................................................................10
+5. ANEXOS.........................................................................................................................................10
+Endereço na internet: http://www.ons.org.br 2 / 10
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração da geração e de
+indisponibilidade de 6.5 Procedimental 2024.12 19/12/2024
+empreendimentos de geração
+1. APURAÇÃO DA GERAÇÃO
+1.1. Coleta de dados
+1.1.1. O Operador Nacional do Sistema Elétrico – ONS apura a geração de energia elétrica de usinas e o fluxo
+de intercâmbio de empreendimentos de importação de energia, despachados centralizadamente, e para
+usinas ou conjuntos de usinas eolioelétricas e fotovoltaicas considerados na programação, com base no
+montante de geração e de intercâmbio de energia programados no Programa Diário de produção (PDP), por
+usina e por conexões internacionais modeladas como geração, conforme Submódulo 4.5 – Programação
+Diária da Operação, bem como as respectivas reprogramações em tempo real, conforme Submódulo 5.3 –
+Controle da geração.
+1.1.2. O ONS, através do sistema de supervisão e controle, das informações registradas em tempo real e dos
+dados complementares informados pelos agentes de geração, coleta os seguintes dados:
+(a) montante de geração de energia ativa bruta, em MWh/h, verificada, por usina; e
+(b) montante de geração de energia ativa bruta, em MWh/h, verificada, de intercâmbios internacionais.
+1.2. Apuração de geração de usina termoelétrica
+1.2.1. O ONS apura, para cada usina termoelétrica despachada centralizadamente, o montante de geração
+e os motivos de despachos, estabelecidos conforme Submódulo 4.5 – Programação Diária da Operação,
+programados, constantes no PDP, e os reprogramados em tempo real.
+1.2.2. Quando houver mais de um motivo para despacho programado ou reprogramado, o ONS utiliza, para
+o registro dos desvios de geração, a seguinte ordem de prioridades:
+(a) em caso de redução da geração: exportação, despacho complementar para manutenção da reserva
+operativa, geração por garantia de suprimento energético, energia de reposição, restrição elétrica e
+inflexibilidade; e
+(b) em caso de aumento da geração: inflexibilidade.
+1.2.3. O ONS apura os valores verificados de inflexibilidade de usinas despachadas por ordem de mérito de
+custo, considerando os valores verificados limitados aos valores declarados na elaboração do Programa
+Mensal da Operação (PMO), estabelecido conforme Submódulo 4.3 – Programação Mensal da Operação
+Energética.
+1.2.3.1. Para a apuração dos valores de inflexibilidade, conforme [1], o ONS considera:
+(a) disponibilidade eletromecânica: potência ativa bruta que a usina tem condições de fornecer ao
+Sistema Interligado Nacional (SIN), proveniente do processo de apuração dos eventos de mudança de
+estados operativos de unidades geradoras; e
+(b) geração verificada: montante de geração bruta verificada, em tempo real, no sistema de supervisão
+dos centros de operação.
+1.2.3.2. O ONS calcula, anualmente, a média dos valores de inflexibilidade verificada nos últimos 5 anos, e
+caso o valor obtido seja inferior à média dos valores declarados pelos agentes nos últimos 5 anos, a diferença
+será considerada como indisponibilidade da respectiva usina, conforme [1].
+Endereço na internet: http://www.ons.org.br 3 / 10
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração da geração e de
+indisponibilidade de 6.5 Procedimental 2024.12 19/12/2024
+empreendimentos de geração
+1.2.4. O ONS apura o desempenho das usinas termoelétricas relativos ao despacho complementar para
+manutenção da reserva de potência operativa, conforme [2].
+1.2.5. O ONS apura a GSUB, conforme [1], considerando os seguintes dados:
+(a) montante de energia gerada por usinas termoelétricas fora da ordem de mérito de custo, em
+substituição àquelas despachadas por ordem de mérito de custo, que deixou de gerar por
+indisponibilidade associada à falta de combustível (GSUB).
+1.2.5.1. Para a apuração do armazenamento adicional dos reservatórios devido a Geração Foram da Ordem
+de Mérito (GFOM), o ONS considera:
+(a) crédito GFOM: montante de GFOM, em MWh, que considera a soma dos valores existentes creditados
+por um conjunto de usinas termoelétricas, alocados de forma proporcional, nos reservatórios
+localizados em seu submercado;
+(b) utilização da conta GFOM: montante de energia, em MWh, que um conjunto de termoelétricas
+deixou de gerar por indisponibilidade associada à falta de combustível, retirado do saldo existente,
+de forma proporcional, dos reservatórios de seu submercado;
+(c) vertimento: montante de energia, em MWh, que considera a soma dos valores de energia vertida em
+cada reservatório; e
+(d) saldo atual GFOM: resultado, em MWh, da soma do saldo anterior com o crédito GFOM, subtraindo-
+se os valores de utilização da conta GFOM e o vertimento de cada reservatório.
+1.2.5.2. Na ocorrência de vertimentos operativos, tais como aqueles necessários para testes de
+equipamentos de descarga das usinas ou para recompor o balanço energético das usinas a jusante,
+decorrentes de indisponibilidade de unidades geradoras nas usinas a montante, os mesmos não implicarão
+redução dos saldos das contas.
+1.3. Apuração de geração de usina hidroelétrica
+1.3.1. O ONS apura, para cada usina hidroelétrica despachada centralizadamente, o montante de geração e
+os períodos em que as unidades geradoras destas usinas, que tenham contrato de Prestação de Serviços
+Ancilares (CPSA) para suporte de reativos, conforme Submódulo 8.1 – Administração dos Contratos, foram
+ligadas como compensadores síncronos por solicitação do ONS.
+1.4. Apuração de geração de usinas ou conjuntos de usinas eolioelétricas
+1.4.1. O ONS apura os eventos de restrição de geração de usinas ou conjuntos de usinas eolioelétricas por
+Constrained-off, conforme [5].
+1.4.2. O ONS apura os eventos de restrição de geração de usinas eolioelétricas despachadas
+centralizadamente ou usinas/conjuntos de usinas eolioelétricas consideradas na programação, conforme
+Submódulo 4.5, programados no PDP e os reprogramados em tempo real.
+1.4.3. Quando houver restrição de geração de usinas ou conjuntos de usinas eolioelétricas por Constrained-
+off, o ONS classifica os eventos de restrição de operação de acordo com sua motivação em:
+(a) Razão de indisponibilidade externa;
+(b) Razão de atendimento a requisitos de confiabilidade elétrica; ou
+(c) Razão energética.
+Endereço na internet: http://www.ons.org.br 4 / 10
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração da geração e de
+indisponibilidade de 6.5 Procedimental 2024.12 19/12/2024
+empreendimentos de geração
+1.4.4. O ONS calcula a referência de geração de energia decorrente de evento de restrição de operação por
+Constrained-off das usinas ou conjuntos de usinas eolioelétricas, classificado como razão de indisponibilidade
+externa.
+1.4.4.1. Para a apuração dos valores de referência de geração, o ONS utiliza:
+(a) curva de produtividade da usina eolioelétrica, que relaciona a potência de saída da usina e a
+velocidade do vento, conforme Submódulo 2.4 – Critérios para estudos energéticos e hidrológicos;
+(b) o segundo menor valor de energia gerada nos 10 períodos imediatamente anteriores coincidentes
+com o horário da restrição de operação em análise, excluindo os períodos que eventualmente tenham
+ocorrido eventos de Constrained-off;
+(c) a garantia física da usina eolioelétricas;
+(d) disponibilidade eletromecânica: potência ativa bruta que a usina tem condições de fornecer ao SIN;
+(e) vento verificado, em tempo real, no sistema de supervisão dos centros de operação;
+(f) geração verificada: montante de geração bruta verificada, em tempo real, no sistema de supervisão
+dos centros de operação;
+(g) registro dos valores de limitação de geração solicitados em tempo real pelo ONS; e
+(h) restrições indicadas no Parecer de Acesso das usinas ou dos conjuntos de usinas eolioelétricas.
+1.4.5. O limite temporal para compensação das situações de Constrained-off de usinas eolioelétricas por
+razões de indisponibilidade externa considera o número de horas de indisponibilidade média apurada das
+Funções Transmissão dos últimos 05 (cinco) anos civis, calculado conforme formulação apresentada a seguir:
+onde:
+DISPF - média móvel dos últimos 05 (cinco) anos do indicador DISPF, estabelecido no Submódulo 9.2 –
+m
+Indicadores de desempenho de equipamentos e linhas de transmissão e das funções transmissão e geração,
+agregado por nível de tensão e tipo de Função Transmissão. Para as agregações serão consideradas as
+tensões entre 230 kV e 500 kV e as Funções Transmissão linha de transmissão, transformação e controle de
+reativo (banco de capacitores, compensações série e reatores).
+nº de horas no ano – adotam-se 8.760 (oito mil e setecentos e sessenta) horas para anos normais e 8.784
+(oito mil e setecentos e oitenta e quatro) horas para anos bissextos.
+1.5. Apuração de geração de usinas ou conjuntos de usinas fotovoltaicas
+1.5.1. O ONS apura os eventos de restrição de geração de usinas ou conjuntos de usinas fotovoltaicas por
+Constrained-off, conforme [6].
+Endereço na internet: http://www.ons.org.br 5 / 10
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração da geração e de
+indisponibilidade de 6.5 Procedimental 2024.12 19/12/2024
+empreendimentos de geração
+1.5.2. O ONS apura os eventos de restrição de geração de usinas fotovoltaicas despachadas
+centralizadamente ou usinas/conjuntos de usinas fotovoltaicas consideradas na programação, conforme
+Submódulo 4.5, programados no PDP e os reprogramados em tempo real.
+1.5.3. Quando houver restrição de geração de usinas ou conjuntos de usinas fotovoltaicas por Constrained-
+off, o ONS classifica os eventos de restrição de operação de acordo com sua motivação em:
+(a) Razão de indisponibilidade externa;
+(b) Razão de atendimento a requisitos de confiabilidade elétrica; ou
+(c) Razão energética.
+1.5.4. Eventos de restrição de geração fotovoltaica estão limitados ao período diurno entre 04h00 e 20h00
+e quando houver irradiância.
+1.5.5. O ONS calcula a referência de geração de energia decorrente de evento de restrição de operação por
+Constrained-off das usinas ou conjuntos de usinas fotovoltaicas, classificado como razão de indisponibilidade
+externa.
+1.5.5.1. Para a apuração dos valores de referência de geração, o ONS utiliza:
+(a) função de produtividade da usina fotovoltaica, que relaciona a potência de saída da usina e a medição
+solarimétrica, conforme Submódulo 2.4;
+(b)média aritmética entre os quinto e sexto valores ordenados de energia gerada nos 10 períodos
+imediatamente anteriores coincidentes com o horário da restrição de operação em análise, excluindo os
+períodos em que eventualmente tenham ocorrido eventos de Constrained-off;
+(c)a garantia física da usina fotovoltaica;
+(d)disponibilidade eletromecânica: potência ativa bruta que a usina tem condições de fornecer ao SIN;
+(e)medição solarimétrica verificada, em tempo real, no sistema de supervisão dos centros de operação;
+(f) geração verificada: montante de geração bruta verificada, em tempo real, no sistema de supervisão
+dos centros de operação;
+(g)registro dos valores de limitação de geração solicitados em tempo real pelo ONS; e
+(h)restrições indicadas no Parecer de Acesso das usinas ou dos conjuntos de usinas fotovoltaicas.
+1.5.6. O limite temporal para compensação das situações de Constrained-off de usinas fotovoltaicas por
+razões de indisponibilidade externa considera a metade do número de horas de indisponibilidade média
+apurada das Funções Transmissão dos últimos 05 (cinco) anos civis, calculado conforme formulação
+apresentada a seguir:
+onde:
+DISPF - média móvel dos últimos 05 (cinco) anos do indicador DISPF, estabelecido no Submódulo 9.2,
+m
+agregado por nível de tensão e tipo de Função Transmissão. Para as agregações serão consideradas as
+tensões entre 230 kV e 500 kV e as Funções Transmissão linha de transmissão, transformação e controle de
+reativo (banco de capacitores, compensações série e reatores).
+Endereço na internet: http://www.ons.org.br 6 / 10
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração da geração e de
+indisponibilidade de 6.5 Procedimental 2024.12 19/12/2024
+empreendimentos de geração
+nº de horas no ano – adotam-se 8.760 (oito mil e setecentos e sessenta) horas para anos normais e 8.784
+(oito mil e setecentos e oitenta e quatro) horas para anos bissextos.
+1.6. Disponibilização dos valores apurados de geração
+1.6.1. O ONS disponibiliza aos agentes de geração os seguintes dados apurados:
+(a) montante de geração de energia programado, reprogramado e verificado, em MWh/h, em patamares
+horários, por usina termoelétrica, e correspondentes motivos de despacho;
+(b) montante de energia exportada, em MWh/h;
+(c) montante de energia gerada para exportação, em MWh/h, por usina termoelétrica e hidroelétrica;
+(d) montante dos valores de inflexibilidade de energia ativa bruta, por usina termoelétrica, apurados em
+base anual.
+(e) montantes de crédito de GFOM;
+(f) períodos de operação de unidades geradoras despachadas como compensador síncrono; e
+(g) montante de geração verificada, montante de limitação solicitado em tempo real, com a respectiva
+razão e origem, o valor da referência de geração (curva de produtividade, função de produtividade,
+disponibilidade, geração verificada ou garantia física).
+1.6.2. Os agentes de geração consistem os dados e informações apurados, sob sua responsabilidade,
+disponibilizados pelo ONS.
+1.6.3. O ONS disponibiliza à CCEE, para fins de contabilização, os dados e informações de geração
+consolidados.
+1.7. Comprovação de geração para operação comercial de unidades geradoras
+1.7.1. O ONS avalia o histórico acumulado, no período mínimo de 96 horas ininterruptas, de geração a plena
+carga de unidades geradoras, atendendo aos critérios estabelecidos em [3] de usinas despachadas
+centralizadamente com solicitação de liberação para início da operação comercial.
+1.7.1.1. Nas situações em que houver interrupção da geração, por causa interna ao empreendimento, deverá
+haver um novo período de geração de no mínimo 96 horas ininterruptas.
+1.7.1.2. No caso de interrupção da geração por falha no sistema de transmissão ou de distribuição (causa
+externa ao empreendimento), o período de geração já realizado será considerado e deverá haver uma
+complementação do período de geração até atingir uma geração verificada de no mínimo 96 horas.
+1.7.2. O agente de geração informa ao ONS eventuais comprometimentos para atingir geração em plena
+carga, quando a variação for superior a 5%, por motivo de restrição de temperatura ambiente, queda líquida,
+indisponibilidade de fonte primária de usinas hidrelétricas, fotovoltaicas ou eolioelétricas.
+2. APURAÇÃO DE INDISPONIBILIDADES
+2.1. Apuração de indisponibilidades
+Endereço na internet: http://www.ons.org.br 7 / 10
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração da geração e de
+indisponibilidade de 6.5 Procedimental 2024.12 19/12/2024
+empreendimentos de geração
+2.1.1. O ONS apura, para as usinas hidroelétricas, termoelétricas com Custo Variável Unitário (CVU)
+declarado diferente de zero e empreendimentos de importação de energia elétrica despachados
+centralizadamente, conforme [1], as seguintes taxas de indisponibilidades:
+(a) Taxa Equivalente de Indisponibilidade Forçada Apurada Acumulada (TEIFa); e
+(b) Taxa Equivalente de Indisponibilidade Programada Acumulada (TEIP).
+2.1.1.1. O ONS apura, para a obtenção das TEIFa e TEIP, as mudanças de estado operativo, condições
+operativas e disponibilidades de unidades geradoras.
+2.1.1.2. O ONS pode desconsiderar, para a apuração das TEIFa e TEIP, as indisponibilidades decorrentes dos
+motivos apresentados em [1], desde que justificados adequadamente pelo agente de geração responsável.
+2.1.2. ONS apura, para as usinas hidroelétricas despachadas centralizadamente com concessões renovadas,
+o índice de indisponibilidade total verificada (Indisp ), conforme [4].
+verificada
+2.1.3. O ONS apura, para as usinas termoelétricas, as indisponibilidades em decorrência da falha no
+suprimento de combustível, conforme [3].
+2.2. Comprovação da disponibilidade de unidades geradoras
+2.2.1. Na ocorrência de indisponibilidade programada ou forçada de unidade geradora, o agente de geração
+responsável pela unidade geradora pode solicitar ao ONS a comprovação da disponibilidade por meio de
+teste, por ele solicitado, ou por atendimento a despacho do ONS.
+2.2.2. O ONS considera como indisponibilidade a diferença entre a potência autorizada pela ANEEL e a
+disponibilidade efetivamente comprovada pelo agente, até que o agente comprove nova capacidade de
+geração.
+2.2.2.1. O período compreendido entre a declaração do agente de geração de que a unidade geradora está
+disponível para a realização da comprovação de disponibilidade e a efetiva realização desta comprovação,
+que tiver sido originado pelo agente de geração, a unidade geradora é considerada como indisponível.
+2.2.2.2. Se o período não tiver sido originado pelo agente de geração, a situação da unidade geradora é
+considerada “aguardando comprovação de disponibilidade”.
+2.2.2.3. Caso o fato gerador da indisponibilidade afete mais de uma unidade geradora, o ONS pode solicitar
+a geração de mais de uma unidade geradora simultaneamente para comprovação da capacidade de geração.
+2.2.3. Na apuração das TEIFa e TEIP, o ONS considera a disponibilidade efetivamente comprovada pelo
+agente de geração, conforme critérios estabelecidos em [1], sendo o valor médio da geração verificada
+durante o período de comprovação de disponibilidade.
+2.2.3.1. A rampa de elevação de geração é desconsiderada na comprovação de disponibilidade, desde que
+atenda o período de rampa constante no cadastro de informações operacionais, conforme Submódulo 5.11
+– Cadastro de Informações Operacionais, declaradas pelo agente proprietário e que haja geração verificada
+durante quatro horas após o tempo de rampa. No caso de houver interrupção da comprovação de
+disponibilidade por solicitação do ONS, será considerada a média de geração até o momento da interrupção,
+expurgando-se a rampa de elevação.
+2.2.3.2. No caso de usinas termoelétricas que operem em ciclo combinado, quando de desligamento de
+unidade a vapor motivada por causas oriundas de caldeira de recuperação, a disponibilidade de geração a
+ser comprovada pela unidade a vapor fica restrita ao valor máximo de geração para a configuração de
+unidades geradoras a gás e caldeiras imediatamente anterior ao referido desligamento.
+Endereço na internet: http://www.ons.org.br 8 / 10
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração da geração e de
+indisponibilidade de 6.5 Procedimental 2024.12 19/12/2024
+empreendimentos de geração
+2.2.3.3. As usinas despachadas centralizadamente com supervisão somente por grupo de unidades
+geradoras, também deverão comprovar disponibilidade de geração quando da indisponibilidade parcial ou
+total do grupo supervisionado.
+2.2.3.4. No caso de indisponibilidade causada por falta de combustível, a comprovação de disponibilidade
+será realizada por meio da geração de todas as unidades geradoras da usina simultaneamente, podendo a
+ANEEL definir critérios que levem em consideração a logística de abastecimento simultâneo de combustível
+para conjuntos de usuários, sendo que os custos serão de responsabilidade do agente proprietário da usina
+indisponível.
+2.3. Disponibilização dos dados de indisponibilidades
+2.3.1. O ONS disponibiliza aos agentes de geração os seguintes dados apurados:
+(a) dados de mudanças dos estados operativos, condições operativas e a disponibilidade de unidades
+geradoras de usinas despachadas centralizadamente;
+(b) valores de TEIFa e TEIP das usinas hidroelétricas, termoelétricas com CVU declarado diferente de zero
+e empreendimentos de importação de energia elétrica despachados centralizadamente;
+(c) valores das parcelas que compõem as taxas TEIFa e TEIP;
+(d) valores de disponibilidade de unidades geradoras de usinas termoelétricas;
+(e) valores das indisponibilidades mensais, expressas em %, em decorrência da falha no suprimento de
+combustível das usinas termoelétricas movidas à combustível fóssil e com despacho centralizado,
+quando for o caso.
+(f) energia não suprida, em decorrência da falha no suprimento de combustível das usinas termoelétricas
+movidas à combustível fóssil e com despacho centralizado, quando for o caso.
+2.3.2. Os agentes de geração consistem os dados apurados, sob sua responsabilidade, disponibilizados pelo
+ONS.
+2.3.3. O ONS disponibiliza à CCEE, para fins de contabilização, os resultados da apuração dos estados
+operativos, as condições operativas, disponibilidade de unidades geradoras de usinas termoelétricas
+despachadas centralizadamente e valores apurados de TEIFa e TEIP de usinas hidroelétricas despachadas
+centralizadamente.
+2.3.4. O ONS disponibiliza, anualmente, aos agentes de geração envolvidos, à ANEEL e à CCEE os valores
+apurados de TEIFa e TEIP, conforme [1], das usinas termoelétricas com CVU declarado diferente de zero e de
+empreendimentos de importação de energia elétrica despachados centralizadamente.
+2.3.5. O ONS disponibiliza anualmente à ANEEL os valores apurados de Indisp , conforme [4], das
+verificada
+usinas hidroelétricas despachadas centralizadamente com concessões renovadas.
+3. ELABORAÇÃO ANUAL DE RELATÓRIO DE ANÁLISE ESTATÍSTICA DA INDISPONIBILIDADE PROGRAMADA
+E NÃO PROGRAMADA DE FUNÇÕES GERAÇÃO
+Endereço na internet: http://www.ons.org.br 9 / 10
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração da geração e de
+indisponibilidade de 6.5 Procedimental 2024.12 19/12/2024
+empreendimentos de geração
+3.1. O ONS analisa, anualmente, e acompanha a indisponibilidade programada e não programada de
+Funções Geração, por nível de tensão, agente de geração e sistema, bem como diagnostica os problemas e
+propõe medidas corretivas.
+3.1.1. São utilizados os dados das indisponibilidades programadas e não programadas ocorridas,
+classificados e consistidos conforme Submódulo 5.13 – Rotinas Operacionais.
+3.2. O ONS efetua o tratamento estatístico, conforme Submódulo 9.2 – Indicadores de desempenho de
+equipamentos e linhas de transmissão e das funções transmissão e geração, e elabora o Relatório de Análise
+Estatística da Indisponibilidade Programada e Não Programada de Funções Geração, considerando os
+seguintes aspectos:
+(a) expansão do SIN no período considerado;
+(b) análise quantitativa das indisponibilidades programadas e não programadas das Funções Geração; e
+(c) resultado do cálculo dos indicadores de desempenho previstos no Submódulo 9.2.
+3.3. O ONS publica em seu site o Relatório de Análise Estatística da Indisponibilidade Programada e Não
+Programada de Funções Geração e encaminha à ANEEL.
+4. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa nº 614, de 3 de junho de 2014.
+[2] ANEEL. Resolução Normativa nº 822, de 26 de junho de 2018.
+[3] ANEEL. Resolução Normativa nº 583, de 22 de outubro de 2013.
+[4] ANEEL. Resolução Normativa nº 541, de 12 de março de 2013.
+[5] ANEEL. Resolução Normativa nº 1.030, de 26 de julho de 2022.
+[6] ANEEL. Resolução Normativa nº 1.073, de 12 de setembro de 2023.
+5. ANEXOS
+5.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 10 / 10

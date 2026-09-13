@@ -1,0 +1,102 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.13-OP_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.13-OP_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.13
+Diagnóstico dos sistemas de proteção e
+controle
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Diagnóstico dos sistemas de proteção e
+6.13 Operacional 2020.12 01/01/2021
+controle
+ÍNDICE
+1. DIAGNÓSTICO DOS SISTEMAS DE PROTEÇÃO E CONTROLE...............................................................3
+1.1. Definição das instalações objeto de diagnóstico...........................................................................3
+1.2. Elaboração do diagnóstico preliminar...........................................................................................3
+1.3. Análise do diagnóstico preliminar pelos agentes..........................................................................3
+1.4. Consolidação do diagnóstico e dos planos....................................................................................4
+1.5. Execução dos planos.....................................................................................................................4
+1.6. Acompanhamento da execução do plano de ação.......................................................................4
+2. REFERÊNCIAS...................................................................................................................................4
+3. ANEXOS...........................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Diagnóstico dos sistemas de proteção e
+6.13 Operacional 2020.12 01/01/2021
+controle
+1. DIAGNÓSTICO DOS SISTEMAS DE PROTEÇÃO E CONTROLE
+1.1. Definição das instalações objeto de diagnóstico
+1.1.1. O Operador Nacional do Sistema Elétrico – ONS define, dentre todas as instalações da Rede Básica e
+das que se conectam ao barramento de transformador de fronteira, aquelas cujos sistemas de proteção e
+controle devem ser objeto do Diagnóstico dos Sistemas de Proteção e Controle, do Plano de Ação para
+Implementação de Adequações nos Sistemas de Proteção e Controle e do Plano de Ajustes das Proteções.
+1.1.1.1. Tal definição tem como base os requisitos estabelecidos no Submódulo 2.10 – Requisitos técnicos
+mínimos para a conexão às instalações de transmissão, Submódulo 2.11 – Requisitos para os sistemas de
+proteção, de registro de perturbações e de teleproteção e Submódulo 2.12 – Requisitos de supervisão e
+controle para a operação, e os resultados obtidos nos processos e indicadores estabelecidos no Submódulo
+6.2 – Análise da operação, ocorrências e perturbações e acompanhamento das providências, Submódulo 6.3
+– Análise de perturbação, Submódulo 6.12 – Análise estatística de desligamentos forçados e de desempenho
+dos sistemas de proteção, Submódulo 9.3 – Indicadores de desempenho dos sistemas de proteção e
+Submódulo 9.6 – Indicadores de desempenho dos sistemas de supervisão e controle e dos serviços de
+telecomunicações.
+1.1.1.2. As instalações são priorizadas conforme, no mínimo, os seguintes motivadores:
+(a) variação, positiva ou negativa, igual ou superior a 10% do nível de curto-circuito em cada barra da
+Rede Básica ou em cada barra de transformador de fronteira, no horizonte de três anos à frente;
+(b) desempenho dos sistemas de proteção conforme Submódulo 6.12;
+(c) demandas oriundas de estudos específicos realizados pelo ONS e agentes;
+(d) solicitação da Agência Nacional de Energia Elétrica – ANEEL ou Ministério de Minas e Energia – MME;
+ou
+(e) relatórios de análise de perturbações.
+1.2. Elaboração do diagnóstico preliminar
+1.2.1. O ONS estabelece as diretrizes para análise dos sistemas de proteção e controle para a realização da
+análise dos sistemas de proteção e controle das instalações e indica a forma como as informações devem ser
+fornecidas.
+1.2.2. Os agentes realizam a análise das condições atuais dos sistemas de proteção e controle das
+instalações, em conformidade com as diretrizes estabelecidas pelo ONS.
+1.2.3. Os agentes informam ao ONS os resultados das análises realizadas, bem como as adequações
+necessárias nos sistemas de proteção e controle das instalações sob sua responsabilidade.
+1.2.4. O ONS elabora o diagnóstico preliminar dos sistemas de proteção e controle após o recebimento das
+informações dos agentes.
+1.3. Análise do diagnóstico preliminar pelos agentes
+1.3.1. O ONS encaminha o diagnóstico preliminar dos sistemas de proteção e controle para análise dos
+agentes.
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Diagnóstico dos sistemas de proteção e
+6.13 Operacional 2020.12 01/01/2021
+controle
+1.3.2. Os agentes apresentam propostas de prioridades para a execução das adequações identificadas,
+formulam as justificativas da priorização proposta e informam os investimentos e os prazos necessários para
+a viabilização das modificações, substituições ou melhorias, com base no diagnóstico preliminar dos sistemas
+de proteção e controle. Essas informações compõem o Plano de Ação para Implementação de Adequações
+nos Sistemas de Proteção e Controle e o Plano de Ajustes das Proteções.
+1.3.3. Os agentes encaminham essas informações para análise do ONS.
+1.4. Consolidação do diagnóstico e dos planos
+1.4.1. O ONS analisa as propostas de prioridades com a participação dos agentes e procede à consolidação
+do Diagnóstico dos Sistemas de Proteção e Controle, do Plano de Ação para Implementação de Adequações
+nos Sistemas de Proteção e Controle e do Plano de Ajustes das Proteções.
+1.4.2. O ONS consolida o Diagnóstico dos Sistemas de Proteção e Controle, o Plano de Ação para
+Implementação de Adequações nos Sistemas de Proteção e Controle e o Plano de Ajustes das Proteções em
+um único relatório, e o encaminha aos agentes e à ANEEL.
+1.4.3. O ONS cadastra em sistema computacional próprio o Plano de Ação para Implementação de
+Adequações nos Sistemas de Proteção e Controle e o Plano de Ajustes das Proteções.
+1.5. Execução dos planos
+1.5.1. Os agentes executam, nas instalações sob sua responsabilidade, o Plano de Ação para Implementação
+de Adequações nos Sistemas de Proteção e Controle e o Plano de Ajustes das Proteções.
+1.6. Acompanhamento da execução do plano de ação
+1.6.1. O ONS acompanha o cumprimento do Plano de Ação para Implementação de Adequações nos
+Sistemas de Proteção e Controle e do Plano de Ajustes das Proteções pelos agentes.
+2. REFERÊNCIAS
+2.1. Não há referências neste documento.
+3. ANEXOS
+3.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 4 / 4

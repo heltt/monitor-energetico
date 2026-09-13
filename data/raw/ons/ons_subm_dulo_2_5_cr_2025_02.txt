@@ -1,0 +1,442 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 2.5-CR_2025.02
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 2.5-CR_2025.02.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 2.5
+Critérios para Operação
+Critérios
+Revisão Motivo da revisão Data de aprovação
+2025.02 Resolução Normativa ANEEL nº 1.112/2025 11/02/2025
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para Operação 2.5 Critérios 2025.02 01/03/2025
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. CRITÉRIOS PARA EXECUÇÃO DAS INTERVENÇÕES.............................................................................3
+3. CRITÉRIOS PARA CONTROLE DA GERAÇÃO.......................................................................................4
+4. CRITÉRIOS PARA CONTROLE DA TRANSMISSÃO...............................................................................4
+4.1. Controle do carregamento de equipamentos e linhas de transmissão.........................................4
+4.2. Hierarquização dos recursos para controle de tensão na Rede de Operação...............................4
+4.3. Controle dos limites operativos de carregamentos e fluxos sistêmicos.......................................5
+5. CRITÉRIOS PARA OPERAÇÃO HIDRÁULICA DOS RESERVATÓRIOS.....................................................6
+5.1. Definições......................................................................................................................................6
+5.2. Caracterização das situações de operação dos reservatórios.......................................................6
+6. CRITÉRIOS PARA GERENCIAMENTO DA CARGA................................................................................8
+6.1. Corte direto e manual de carga.....................................................................................................8
+6.2. Corte direto e automático de carga..............................................................................................8
+6.3. Corte indireto de carga por redução de tensão............................................................................9
+6.4. Definição do montante de carga a ser cortado.............................................................................9
+6.5. Elaboração do Plano de Corte Manual de Carga (PCMC)............................................................10
+7. CRITÉRIOS PARA RECOMPOSIÇÃO DA REDE DE OPERAÇÃO............................................................10
+7.1. Classificação das usinas de autorrestabelecimento....................................................................10
+7.2. Recomposição na fase fluente....................................................................................................11
+7.3. Recomposição na fase coordenada.............................................................................................12
+7.4 Regulação da tensão e frequência durante recomposição.........................................................12
+8 REFERÊNCIAS.................................................................................................................................12
+Endereço na internet: http://www.ons.org.br 2 / 13
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para Operação 2.5 Critérios 2025.02 01/03/2025
+1. OBJETIVO
+1.1. Estabelecer os critérios da operação referente aos processos descritos no Submódulo 5.2 – Execução de
+intervenções, Submódulo 5.3 – Controle da geração, Submódulo 5.4 – Controle da transmissão, Submódulo
+5.5 – Operação hidráulica de reservatórios, Submódulo 5.7 – Gerenciamento de carga e Submódulo 5.8 –
+Recomposição da Rede de Operação.
+2. CRITÉRIOS PARA EXECUÇÃO DAS INTERVENÇÕES
+2.1 Os centros de operação do ONS não autorizam o início de uma intervenção, caso o recurso principal de
+comunicação de voz não esteja funcionando entre:
+(a) o centro de operação do ONS e o centro de operação do agente, ou órgão designado pelo agente
+como interlocutor; ou
+(b) o centro de operação do agente, ou órgão designado pelo agente, e as instalações envolvidas com as
+manobras.
+2.2 As intervenções de urgência solicitadas aos centros de operação do ONS em tempo real têm tratamento
+prioritário em relação às intervenções programadas, conforme as instruções de operação do Submódulo 5.12
+– Instruções de Operação.
+2.2.1 Os critérios para análise das solicitações de intervenções de urgência no tempo real e na pré-operação
+são os mesmos.
+2.3 Os equipamentos ou linhas de transmissão fora de operação por conveniência operacional não podem
+estar sob intervenção que possa restringir sua condição operativa normal, exceto intervenções previstas no
+Programa Diário de Intervenções consolidado (PDI), conforme Submódulo 5.2.
+2.4 As manobras para reenergização do equipamento ou linha de transmissão após sua intervenção, só
+podem ser efetuadas durante o período de ponta da carga do Sistema Interligado Nacional (SIN) nas
+seguintes situações:
+(a) caso a ausência desse equipamento ou linha de transmissão possa provocar:
+(1) sobrecarga em outros equipamentos;
+(2) esgotamento dos recursos para controle de tensão;
+(3) esgotamento da margem para regulação da frequência; ou
+(4) corte de carga.
+(b) caso uma contingência simples em um equipamento ou linha de transmissão, juntamente com a
+ausência do equipamento ou linha de transmissão sob intervenção, possa provocar:
+(1) esgotamento dos recursos para controle sistêmico ou regional da tensão;
+(2) esgotamento dos recursos para controle sistêmico da frequência; ou
+(3) corte de carga em proporções sistêmicas ou regionais.
+(c) caso a sua reintegração ao SIN não implique riscos sistêmicos.
+2.5 Durante o regime especial de operação, definido no Submódulo 5.1 – Operação do sistema e das
+instalações da Rede de Operação, só são executadas intervenções de caráter inadiável. O ONS avaliará, caso
+a caso, situações especiais, como por exemplo, intervenções para entrada em operação ou retorno de
+equipamentos importantes para o evento.
+Endereço na internet: http://www.ons.org.br 3 / 13
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para Operação 2.5 Critérios 2025.02 01/03/2025
+2.6 Nas instalações estratégicas, os centros de operação do ONS não autorizam o início de uma intervenção
+programada com desligamento ou o início de uma intervenção com risco de desligamento durante sua
+execução, caso haja indisponibilidade dos recursos de supervisão e controle associados à intervenção, nos
+centros de operação do ONS ou do agente de operação ou nas instalações envolvidas, que possa
+comprometer a confiabilidade do sistema ou o processo de recomposição após eventual desligamento.
+3. CRITÉRIOS PARA CONTROLE DA GERAÇÃO
+3.1 A frequência nominal do SIN é 60 Hz.
+3.2 Os reguladores de velocidade das unidades geradoras devem estar sempre desbloqueados.
+3.3 O estatismo das unidades geradoras deve estar ajustado em 5%, exceto nos casos de necessidade do
+sistema com base em estudos realizados pelo ONS, conforme Submódulo 3.10 – Estudos para segurança
+operacional elétrica.
+3.4 O desvio da frequência para o desligamento automático do Controle Automático de Geração (CAG) deve
+estar ajustado em 0,5 Hz em relação à frequência nominal do sistema.
+3.5 As rampas de mudança de programa ou reprogramação de intercâmbio devem ser executadas com
+duração mínima de 10 minutos, exceto em casos de urgência ou emergência.
+4. CRITÉRIOS PARA CONTROLE DA TRANSMISSÃO
+4.1. Controle do carregamento de equipamentos e linhas de transmissão
+4.1.1 A alteração do limite de carregamento dos equipamentos e das linhas de transmissão que implicar em
+restrições severas ao SIN, como corte de carga real ou potencial, perda de confiabilidade ou dificuldades para
+o controle de tensão, pode ser realizada pelo agente somente em casos de urgência ou emergência,
+devidamente justificada.
+4.2. Hierarquização dos recursos para controle de tensão na Rede de Operação
+4.2.1 Os recursos para o controle de tensão são utilizados conforme sequência definida nas instruções de
+operação do Submódulo 5.12 (Instruções de Operação), caso a caso, observando aspectos como o
+desempenho operacional e os benefícios sistêmicos de cada recurso disponível. Os recursos são:
+(a) reatores de barra manobráveis;
+(b) bancos de capacitores;
+(c) compensadores síncronos e estáticos;
+(d) absorção/fornecimento de potência reativa proveniente de centrais geradoras despachadas
+centralizadamente ou consideradas na programação, na condição de geração de potência ativa;
+(e) unidades geradoras funcionando como compensadores síncronos;
+(f) absorção/fornecimento de potência reativa proveniente de centrais geradoras despachadas
+centralizadamente ou consideradas na programação, na condição de geração de potência ativa nula;
+(g) reatores de linha manobráveis;
+(h) comutadores sob carga de transformadores e de reguladores série; e
+(i) manobras de linhas de transmissão.
+Endereço na internet: http://www.ons.org.br 4 / 13
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para Operação 2.5 Critérios 2025.02 01/03/2025
+4.2.2 Os recursos para o controle de tensão devem ser mantidos com folga em relação aos seus limites
+operativos nas diversas áreas e, prioritariamente, nos equipamentos de controle automático, como
+compensadores síncronos e estáticos e nas unidades geradoras.
+4.2.3 Os compensadores síncronos e estáticos e as unidades geradoras devem ser operadas com reserva
+adequada de reativo para minimizar as variações transitórias da tensão, em casos de contingências. A
+utilização plena desses equipamentos e instalações só deve ocorrer quando as condições de tensão não
+forem satisfatórias e depois de esgotados todos os recursos disponíveis.
+4.2.4 As manobras que envolvem bancos de capacitores ou reatores e provocam grandes variações da
+tensão são precedidas e sucedidas de atuação nos comutadores sob carga dos transformadores, nos
+transformadores reguladores de tensão série, nos compensadores ou na excitação das unidades geradoras,
+se houver recursos disponíveis.
+4.2.5 Na passagem de um período de carga para outro de maior valor, deve-se antecipar a produção de
+reativos em relação à demanda, de modo a minimizar a queda de tensão com o aumento de carga.
+4.2.6 As manobras em equipamentos e linhas de transmissão durante o período de carga pesada só podem
+ser efetuadas quando as ações de controle de tensão não puderem ser realizadas previamente.
+4.2.7 Em todos os períodos de carga, deve-se operar com as tensões dentro das faixas de tensão
+recomendadas, conforme as instruções de operação do Submódulo 5.12.
+4.2.8 No caso de violação dos limites das faixas de tensão recomendadas ou dos limites dos equipamentos
+e das linhas de transmissão, depois de esgotados todos os recursos para o controle de tensão, podem ser
+adotadas as seguintes alternativas:
+(a) violação do limite superior: desligamento de linhas de transmissão para evitar sobretensões na rede;
+ou
+(b) violação do limite inferior: ações de gerenciamento de carga não usuais na operação do sistema para
+evitar o colapso de tensão, conforme Submódulo 5.7.
+4.2.9 Inicialmente, os agentes devem utilizar os recursos locais instalados próximos à carga e fora da Rede
+de Operação.
+4.2.9.1 Caso os recursos locais para o controle de tensão sejam insuficientes, devem ser utilizados os
+recursos de controle de tensão da Rede de Operação Regional e priorizados os recursos que afetem o menor
+número de barramentos de referência da região.
+4.2.9.2 Caso os recursos de controle de tensão da Rede de Operação Regional sejam insuficientes, devem
+ser utilizados os recursos de controle de tensão da Rede de Operação Sistêmica e priorizados os recursos que
+afetem o menor número de barramentos de referência da Rede de Operação Sistêmica.
+4.2.9.3 Caso não existam mais recursos de controle de tensão disponíveis para uma determinada área da
+Rede de Operação Regional, cabe ao Centro de Operação do Sistema – COSR contatar o Centro Nacional de
+Operação do Sistema – CNOS para coordenar a utilização dos recursos sistêmicos. A partir do momento em
+que o CNOS estiver agindo para efetivar os necessários ajustes no controle de tensão, o COSR solicitante não
+pode tomar qualquer medida ou realizar qualquer ação sem prévia autorização do CNOS.
+4.3. Controle dos limites operativos de carregamentos e fluxos sistêmicos
+4.3.1 Os centros de operação do ONS controlam os carregamentos e os fluxos sistêmicos dentro dos limites
+operativos na Rede de Operação, considerando:
+(a) os fluxos sistêmicos dentro dos limites operativos definidos nos estudos de planejamento da operação
+elétrica, descritos no Submódulo 3.1 – Planejamento da operação elétrica de médio prazo, Submódulo
+Endereço na internet: http://www.ons.org.br 5 / 13
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para Operação 2.5 Critérios 2025.02 01/03/2025
+3.3 – Planejamento da operação elétrica com horizonte quadrimestral e Submódulo 4.1 –
+Programação mensal da operação elétrica;
+(b) os limites operativos dos carregamentos nas instalações de transmissão, incluindo as eventuais
+restrições permanentes ou temporárias, definidas na regulamentação e informadas pelos agentes de
+operação proprietários, conforme Submódulo 5.11 – Cadastro de Informações Operacionais; e
+(c) as restrições temporárias das instalações de transmissão informadas em tempo real pelos agentes de
+operação proprietários.
+4.3.2 Esgotados os recursos para não violação dos limites operativos estabelecidos, devem ser adotadas
+como último recurso as ações para gerenciamento de carga, conforme descritas no Submódulo 5.7.
+5. CRITÉRIOS PARA OPERAÇÃO HIDRÁULICA DOS RESERVATÓRIOS
+5.1. Definições
+5.1.1. O indicativo de violação das restrições hidráulicas de vazões máximas é obtido com base nos estados
+de armazenamentos, de afluências aos reservatórios e de vazões incrementais entre os reservatórios e os
+pontos de controle.
+5.1.2. A ocupação de volumes de espera é definida quando os volumes vazios disponíveis são iguais ou
+inferiores aos volumes de espera estabelecidos para o reservatório.
+5.1.3. A caracterização de cheia é definida quando a previsão ou ocorrência de vazões naturais nos pontos
+de controle é superior às restrições das vazões máximas consideradas.
+5.1.4. A caracterização de seca é definida quando há um período prolongado em que a ausência ou carência
+de chuvas, em uma região ou bacia hidrográfica, acarreta baixas afluências aos seus reservatórios.
+5.2. Caracterização das situações de operação dos reservatórios
+5.2.1. A caracterização das situações de operação dos reservatórios e a responsabilidade de coordenação
+dos reservatórios estão definidas no
+Endereço na internet: http://www.ons.org.br 6 / 13
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para Operação 2.5 Critérios 2025.02 01/03/2025
+Quadro 1:
+Endereço na internet: http://www.ons.org.br 7 / 13
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para Operação 2.5 Critérios 2025.02 01/03/2025
+Quadro 1 – Situações de operação dos reservatórios
+Responsável Situação Caracterização
+Não há:
+ indicativo de violação das restrições operativas hidráulicas máximas ou mínimas,
+registradas pelo agente junto ao ONS ou informadas em tempo real;
+ONS Normal  ocupação de volumes de espera;
+ caracterização de cheias; e
+ situações de secas prolongadas com vazões naturais no ponto de controle iguais ou
+superiores às restrições hidráulicas de vazões mínimas.
+Não há:
+ indicativo de violação das restrições operativas hidráulicas máximas ou mínimas,
+registradas pelo agente junto ao ONS ou informadas em tempo real; e
+Há:
+ ocupação de volumes de espera; ou
+ONS Atenção  caracterização de cheia; ou
+ situações de seca prolongadas com vazões naturais no ponto de controle inferiores
+às restrições hidráulicas de vazões mínimas; ou
+ violação do nível d’água máximo ou mínimo operativo normal do reservatório; ou
+ indisponibilidade dos equipamentos hidráulicos e/ou elétricos que afetam o
+controle operacional do reservatório, sem previsão de retorno; ou
+ necessidade de procedimentos específicos para não violação de restrição não usual
+ou restrição não cadastrada anteriormente.
+Há:
+ indicativo de violação das restrições operativas hidráulicas máximas ou mínimas,
+registradas pelo agente junto ao ONS ou informadas em tempo real; e
+ ocupação de volumes de espera; ou
+ caracterização de cheia; ou
+Agente de  situações de seca prolongadas com vazões naturais no ponto de controle inferiores
+Alerta
+geração às restrições hidráulicas de vazões mínimas; ou
+ violação do nível d’água máximo ou mínimo operativo normal do reservatório; ou
+ indisponibilidade de equipamentos hidráulicos e/ou elétricos que afetam o controle
+operacional do reservatório, sem previsão de retorno; ou
+ necessidade de procedimentos específicos para não violação de restrição não usual
+ou restrição não cadastrada anteriormente.
+Há:
+ violação de quaisquer das restrições operativas hidráulicas máximas ou mínimas,
+Agente de Emer-
+registradas pelo agente junto ao ONS ou informadas em tempo real; e
+geração gência
+ perda total de comunicação entre a usina e o centro de operação de relacionamento;
+ou
+Endereço na internet: http://www.ons.org.br 8 / 13
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para Operação 2.5 Critérios 2025.02 01/03/2025
+Responsável Situação Caracterização
+ ocupação de volumes de espera; ou
+ caracterização de cheia; ou
+ situações de seca prolongadas com vazões naturais no ponto de controle inferiores
+às restrições hidráulicas de vazões mínimas; ou
+ violação do nível d’água máximo ou mínimo operativo normal do reservatório; ou
+ indisponibilidade dos equipamentos hidráulicos e/ou elétricos que afetam o
+controle operacional do reservatório, sem previsão de retorno; ou
+ fatos não hidráulicos ocorridos a montante ou a jusante que comprometem a
+operação do reservatório.
+6. CRITÉRIOS PARA GERENCIAMENTO DA CARGA
+6.1. Corte direto e manual de carga
+6.1.1 O Plano de Corte Manual de Carga (PCMC) dos agentes de distribuição e consumidores livres ou
+potencialmente livres, cujas instalações estejam conectadas à Rede Básica e às DIT, instrui a redução da sua
+carga por corte direto manual em até 35% da sua carga original e em patamares de 5%.
+6.1.1.1 A critério do ONS, o percentual total de redução indicado no PCMC pode ser maior do que 35%.
+6.1.2 O corte manual de cargas se aplica a todo o SIN, ou isoladamente aos sistemas Sul, Sudeste, Nordeste
+ou Norte/Centro Oeste, ou ainda às áreas isoladas do sistema em função do local de contingência.
+6.1.3 O CNOS coordena o corte manual de carga em caso de:
+(a) subfrequência sustentada, quando a frequência permanece igual ou inferior a 59,5 Hz em função do
+desequilíbrio entre geração e carga, e há perspectiva ou tendência de elevação desse desequilíbrio;
+ou
+(b) previsão de déficit de geração no sistema.
+6.1.4 O montante de carga a ser cortado manualmente pelos agentes, em caso de subfrequência sustentada,
+deve possibilitar o imediato restabelecimento do equilíbrio entre geração e carga para estabilizar a
+frequência do SIN, ainda que de forma precária, em no mínimo 59,7 Hz.
+6.1.5 As cargas interrompidas não devem ser restabelecidas quando a frequência estiver entre 59,7 Hz e o
+valor nominal da frequência de 60 Hz.
+6.1.6 O ONS avalia as condições do sistema para autorizar de forma gradativa a recomposição das cargas,
+quando a frequência atinge 60 Hz.
+6.2. Corte direto e automático de carga
+6.2.1 O corte automático de carga é efetuado em função dos valores mínimos verificados de frequência e
+tensão ou pelo Sistema Especial de Proteção (SEP) que compreende o Esquema Regional de Alívio de Carga
+(ERAC) e o Esquema de Controle de Emergência (ECE).
+6.2.2 O ERAC atua por meio de relés de taxa de variação de frequência no tempo (Δf/Δt) em uma janela de
+frequência e/ou por meio de relés de frequência absoluta, que atuam desligando automaticamente as cargas
+previamente estabelecidas, sempre que forem atingidos os valores pré-definidos de taxa de frequência,
+frequência absoluta e, caso exista, temporização.
+Endereço na internet: http://www.ons.org.br 9 / 13
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para Operação 2.5 Critérios 2025.02 01/03/2025
+6.2.3 Os relés de subfrequência que compõem o ERAC devem estar permanentemente ativados, exceto nos
+períodos de manutenção programada, para garantir a atuação do ERAC em casos de contingência.
+6.2.4 No caso de atuação dos esquemas de subtensão, as cargas desligadas só podem ser recompostas
+quando as grandezas sob controle atingirem os valores definidos nas instruções de operação do
+Submódulo 5.12 ou quando ocorrer o restabelecimento da configuração normal da área afetada.
+6.2.5 Caso ocorra falha na atuação do ERAC ou ECE, o agente de operação deve efetuar manualmente os
+cortes das cargas previamente determinados para o corte automático e informar ao centro de operação do
+ONS com o qual se relaciona.
+6.2.5.1 O centro de operação do ONS informa ao agente de operação quando os valores de tensão e
+frequência foram restabelecidos às condições normais do sistema, de forma que seja minimizado o corte de
+carga.
+6.2.5.2 Caso não haja possibilidade de restabelecimento imediato das condições normais do sistema, as
+cargas desligadas pelo ERAC ou ECE podem ser substituídas por outras cargas de igual valor através do corte
+manual de cargas.
+6.2.6 É recomendável que os disjuntores incluídos nos esquemas automáticos não sejam desligados em
+corte manual de carga para preservação da confiabilidade do sistema, exceto em casos especiais descritos
+nas instruções de operação no Submódulo 5.12, com base em estudos realizados pelo ONS.
+6.3. Corte indireto de carga por redução de tensão
+6.3.1 O corte indireto de carga é coordenado e controlado pelos centros de operação do ONS, por meio da
+redução dos níveis de tensão nos barramentos da Rede de Operação na área afetada e pelos agentes de
+operação envolvidos nas barras fora da Rede de Operação.
+6.3.2 Os níveis mínimos de tensão nas barras da Rede de Operação são definidos nos estudos de
+planejamento da operação elétrica pelo ONS, conforme Submódulo 3.1, Submódulo 3.3 e Submódulo 4.1, e
+acordados com os agentes de distribuição e transmissão.
+6.3.3 Os níveis mínimos de tensão fora da Rede de Operação são definidos pelos agentes.
+6.4. Definição do montante de carga a ser cortado
+6.4.1 A definição do montante de carga a ser cortado deve considerar que a carga remanescente não exceda
+a capacidade geradora disponível ou os limites operativos dos equipamentos, linhas de transmissão e do
+sistema.
+6.4.2 O montante de carga a ser cortado deve atender aos requisitos mínimos de tensão estabelecidos nas
+instruções de operação do Submódulo 5.12.
+6.4.3 O rateio do montante de carga a ser cortado é realizado da seguinte forma:
+(a) corte de carga para controle de frequência: aplicado a todo o SIN ou, isoladamente, às áreas de
+controle do Sul, Sudeste, Nordeste ou Norte/Centro-Oeste, ou ainda às áreas isoladas do sistema em
+função do local da contingência, e rateado entre os agentes da área elétrica afetada; e
+(b) corte de carga para controle de tensão, carregamento de transmissão ou transformação: o rateio é
+proporcional ao requisito de carga dos agentes na região ou área elétrica afetada, exceto em casos
+especiais com base em estudos realizados pelo ONS para preservação da segurança do sistema ou
+otimização do corte de carga.
+Endereço na internet: http://www.ons.org.br 10 / 13
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para Operação 2.5 Critérios 2025.02 01/03/2025
+6.4.4 Os agentes podem implementar o processo de redução da carga negociada com seus consumidores,
+desde que tal medida não tenha reflexos negativos para as ações de gerenciamento de carga em curso e
+assegure os montantes demandados pelo centro de operação do ONS.
+6.4.5 Os agentes devem informar os valores e os períodos de redução de carga negociados ao centro de
+operação do ONS com o qual se relacionam.
+6.4.6 Não são consideradas como reduções negociadas de carga aquelas decorrentes de:
+(a) variações climáticas; e
+(b) reduções voluntárias de carga pelos consumidores, resultantes de campanha de mídia.
+6.4.7 Na ocorrência de perda ou limitação de linhas de transmissão ou transformadores, ao ser atingido o
+limite operativo permissível dos equipamentos ou do sistema, devem ser efetuadas, prioritariamente e de
+forma antecipada, possíveis transferências de carga na área diretamente afetada para evitar o corte de carga.
+6.5. Elaboração do Plano de Corte Manual de Carga (PCMC)
+6.5.1 Os critérios para elaboração do PCMC e da síntese dos PCMC dos agentes estão contidos em rotina
+operacional do Submódulo 5.13 – Rotinas Operacionais, elaborada com a participação dos agentes de
+distribuição e consumidores livres ou potencialmente livres cujas instalações estejam conectadas à Rede
+Básica e às DIT.
+6.5.2 Para assegurar maior efetividade e equanimidade de um eventual corte de carga, a rotina operacional
+descreve, no mínimo, os seguintes aspectos:
+(a) o patamar de carga a ser adotado para explicitação das cargas no PCMC;
+(b) a periodicidade necessária para atualização do PCMC;
+(c) o valor da carga de cada agente para definição do percentual de participação do agente em um
+eventual rateio de corte de carga;
+(d) o tratamento dado aos consumidores livres ou potencialmente livres, não conectados à Rede Básica
+e às DIT, e o tratamento dado aos agentes de distribuição conectados na rede de distribuição;
+(e) a não inclusão das cargas que fazem parte do ERAC ou ECE nas cargas a serem cortadas manualmente,
+fixando os casos de exceção;
+(f) a informação pelo agente do tempo necessário para o atendimento de uma solicitação do centro de
+operação do ONS para realização do corte de carga.
+7. CRITÉRIOS PARA RECOMPOSIÇÃO DA REDE DE OPERAÇÃO
+7.1. Classificação das usinas de autorrestabelecimento
+7.1.1 A classificação das usinas em função da sua capacidade de autorrestabelecimento considera os
+seguintes aspectos:
+(a) usinas de autorrestabelecimento integral:
+(1) contribuem para o processo de recomposição do sistema elétrico, partindo o número de unidades
+geradoras definido pelo ONS para viabilizar o processo de recomposição da área; e
+(2) devem ser capazes de:
+Endereço na internet: http://www.ons.org.br 11 / 13
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para Operação 2.5 Critérios 2025.02 01/03/2025
+(i) sair da condição de parada total para condição de operação, independentemente de fontes
+externas para alimentação dos seus serviços auxiliares;
+(ii) dar partida nas unidades geradoras e sincronizar o número mínimo de unidades, definido nas
+instruções de operação do Submódulo 5.12, com seus próprios serviços auxiliares;
+(iii) energizar os elementos da rede adjacente sem considerar eventos fora do seu controle;
+(iv) assimilar variações bruscas de carga e controlar tensão e frequência dentro das faixas definidas
+em situações de emergência; e
+(v) ter o índice de disponibilidade superior a 80%.
+(b) usinas de autorrestabelecimento parcial:
+(3) possuem uma ou mais unidades com capacidade de alimentar seus serviços auxiliares a partir da
+tensão terminal dos seus próprios geradores; e
+(4) possuem unidades geradoras que, após a ocorrência de uma perturbação, permanecem girando e
+excitadas.
+(c) usinas sem autorrestabelecimento: necessitam de alimentação externa para seus serviços auxiliares
+para conseguirem recompor suas unidades geradoras após uma perturbação.
+7.2. Recomposição na fase fluente
+7.2.1 Na fase de recomposição fluente, são considerados os seguintes aspectos:
+(a) as áreas de recomposição estão totalmente desenergizadas;
+(b) as usinas térmicas não são definidas como fontes de recomposição do SIN, porém devem possuir
+esquemas de ilhamento, sempre que for tecnicamente viável, para preservar uma parcela do sistema
+estável após grandes perturbações; e
+(c) a maior parcela possível do montante máximo da carga prioritária é atendida com a condição de carga
+pesada para garantir a viabilidade de recomposição em qualquer horário, conforme critérios
+estabelecidos no Submódulo 2.3 – Premissas, critérios e metodologia para estudos elétricos.
+7.2.2 A liberação dos montantes máximos de carga em cada área considera os seguintes aspectos:
+(a) capacidade de geração da configuração mínima das unidades geradoras das usinas de
+autorrestabelecimento da área necessária para energização dos troncos de transmissão;
+(b) limitações de carregamento dos equipamentos e das linhas de transmissão da rede de recomposição
+fluente;
+(c) limitações relacionadas ao controle de tensão na rede de recomposição fluente;
+(d) rejeições de carga durante a recomposição; e
+(e) configuração dos alimentadores da distribuição dos agentes.
+7.2.3 Para liberação adicional de carga, as seguintes condições devem ser atendidas:
+(a) disponibilidade adicional de geração;
+(b) limitações de carregamento dos equipamentos e das linhas de transmissão;
+(c) restrições de tomada de carga na área para evitar sobretensões, em caso de rejeição de carga; e
+Endereço na internet: http://www.ons.org.br 12 / 13
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Critérios para Operação 2.5 Critérios 2025.02 01/03/2025
+(d) frequência na faixa de 59 a 61 Hz.
+7.3. Recomposição na fase coordenada
+7.3.1 A fase de recomposição coordenada só deve ter início após verificação das seguintes condições:
+(a) ausência de sobrecargas nos equipamentos e linhas de transmissão da área considerada;
+(b) estabilização da frequência; e
+(c) níveis de tensão compatíveis com a carga restabelecida no momento.
+7.3.2 Previamente à realização das manobras de fechamento dos disjuntores, é verificada a condição para
+definir se o fechamento será de anel ou de paralelo, para então executá-las conforme as instruções de
+operação.
+7.4 Regulação da tensão e frequência durante recomposição
+7.4.1 A frequência na recomposição é regulada em torno de 60 Hz, admitindo-se variação dentro dos
+seguintes limites:
+(a) na fase fluente: entre 58 e 62 Hz; e
+(b) na fase coordenada: entre 59 e 61 Hz.
+7.4.2 A tensão na recomposição fluente e coordenada é regulada em torno do valor nominal da tensão da
+rede, admitindo-se variação superior ou inferior de 10%, exceto nos seguintes casos:
+(a) para 765 kV da interligação Sul/Sudeste: o limite superior é 4,5% da tensão nominal;
+(b) para 525 kV da região Sul: o limite superior é 5% da tensão nominal; e
+(c) para tensões nominais menores ou iguais a 230 kV: o limite superior é 10% na fase de recomposição
+fluente e 5% na fase coordenada.
+7.4.2.1 Os valores percentuais dos limites para regulação da tensão são valores de referência e estão
+condicionados às características dos equipamentos e das linhas de transmissão informadas pelos agentes
+proprietários.
+7.4.3 Os bancos de capacitores devem ser desligados e os tapes dos transformadores devem ser comutados
+para uma posição que não implique em sobretensões durante a recomposição do sistema, exceto em casos
+específicos descritos nas instruções de operação do Submódulo 5.12.
+8 REFERÊNCIAS
+8.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 13 / 13

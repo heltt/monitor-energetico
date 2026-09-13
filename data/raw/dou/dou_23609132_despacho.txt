@@ -1,0 +1,22 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 20/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=20/02/2026&jornal=515&pagina=99
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado de Rondônia
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 145/2026
+Fase de Licenciamento
+Determina cumprimento de exigência - Prazo 30 dias(718)
+886.102/2015-JOSEMAR GERALDO DE MOURA-OF. N°8514/2026
+Indefere pedido de prorrogação do Registro de Licença(744)
+886.102/2014-GENIVALDO LENCI
+Nega a anuência prévia aos atos de cessão total de Registro de Licença(750)
+886.224/2006-CANGUSSU & CIA LTDA
+ANTÔNIO TEOTÔNIO DE SOUZA NETO
+Gerente

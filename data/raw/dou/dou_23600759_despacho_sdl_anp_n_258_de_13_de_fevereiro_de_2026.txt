@@ -1,0 +1,62 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: DESPACHO SDL-ANP Nº 258, DE 13 DE FEVEREIRO DE 2026
+DATA_PUBLICACAO: 18/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=18/02/2026&jornal=515&pagina=198
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional do Petróleo, Gás Natural e Biocombustíveis/Superintendência de Distribuição e Logística
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+DESPACHO SDL-ANP Nº 258, DE 13 DE FEVEREIRO DE 2026
+O SUPERINTENDENTE ADJUNTO DE DISTRIBUIÇÃO E LOGÍSTICA DA AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS - ANP, no uso das atribuições que lhe foram conferidas pela Portaria ANP nº 265, de 10 de setembro de 2020, com base na Resolução ANP nº 958, de 5 de outubro de 2023, torna pública a outorga das seguintes autorizações para o exercício da atividade de revenda de gás liquefeito de petróleo - GLP, observado:
+I) as instalações dos revendedores ora autorizados foram vistoriadas por instituições de bombeiros, atendendo os requisitos de segurança, e se encontram limitadas às quantidades máximas de armazenamento de GLP, conforme certificado expedido pelo corpo de bombeiros competente; e
+II) a manutenção da presente Autorização fica condicionada ao atendimento dos requisitos constantes no Certificado que trata o item anterior e à Norma NBR 15514:2020 Versão Corrigida: 2021, da Associação Brasileira de Normas Técnicas - ABNT.
+
+
+Nº de Registro
+Razão Social
+CNPJ
+Processo
+GLPMT0465649
+CM FONTE DISTRIBUIDORA LTDA
+58.162.790/0001-91
+48610.203345/2026-17
+GLPGO0465643
+GAS JK JD BSB II LTDA
+59.961.070/0001-59
+48610.231503/2025-30
+GLPPR0465647
+GENUINUS PRODUTOS LTDA
+14.688.031/0002-72
+48610.203280/2026-00
+GLPRN0465664
+MACAIBA COMERCIO E DISTRIBUICAO DE GAS LTDA
+59.374.826/0001-63
+48610.203410/2026-04
+GLPRS0465659
+MEGA GAS DO ALEMAO LTDA
+59.714.799/0001-20
+48610.201423/2026-31
+GLPRS0465671
+MP POSTOS E LOGISTICA LTDA
+23.448.964/0058-38
+48610.228446/2025-10
+GLPRJ0465645
+M-10 REVENDEDORA DE GAS LTDA
+11.190.244/0001-09
+48610.210280/2025-77
+GLPRJ0465667
+PAI E FILHOS COMERCIO VAREJISTA DE GAS LTDA
+57.939.982/0001-07
+48610.200680/2026-55
+GLPMA0465669
+R D F ALMEIDA LTDA
+63.533.473/0001-74
+48610.200364/2026-83
+GLPPB0465661
+REGIANE DOS SANTOS
+62.333.038/0001-33
+48610.202772/2026-70
+BRUNO VALLE DE MOURA

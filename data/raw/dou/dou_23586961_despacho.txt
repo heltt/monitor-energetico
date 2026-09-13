@@ -1,0 +1,40 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 10/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=10/02/2026&jornal=515&pagina=58
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 9/2026
+Fica(m) o(s) abaixo relacionado(s) cientes(s) que o recurso administrativo interposto foi julgado improcedente; restando-lhe(s) pagar ou parcelar o débito(s) apurado(s), sob pena de inscrição em Dívida Ativa, CADIN e ajuizamento da ação de execução.
+
+
+Nº DO PROCESSO
+INTERESSADO
+48403.930959/2014-79
+Mineração Belocal Ltda
+48405.950016/2016-12
+Alcoa World Alumina Brasil Ltda
+48403.932158/2009-81
+Gecal Indústria e Comércio de Produtos Minerais Ltda
+48407.974118/2010-18
+Corcovado Granitos Ltda
+48402.922842/2009-64
+Votorantim Cimentos Brasil S.A
+48405.950330/2016-97
+Mineração Rio do Norte S.A
+48054.930061/2020-56
+Samarco Mineração S.A
+48403.932629/2009-51
+Minasgoiás Mineração Bergamo Ltda
+48402.920930/2014-99
+Uniporto - Unidade Industrial de Britagem Porto Feliz Ltda.; Empresa Brasileira de Agregados Minerais S.A
+48411.915270/2008-77
+Indústria Carbonífera Rio Deserto Ltda
+MAURO HENRIQUE MOREIRA SOUSA
+Diretor-Geral

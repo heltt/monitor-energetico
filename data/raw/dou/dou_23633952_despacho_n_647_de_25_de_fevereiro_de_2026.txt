@@ -1,0 +1,15 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: DESPACHO Nº 647, DE 25 DE FEVEREIRO DE 2026
+DATA_PUBLICACAO: 27/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=27/02/2026&jornal=515&pagina=56
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Energia Elétrica/Superintendência de Fiscalização Técnica dos Serviços de Energia Elétrica/Gerência de Fiscalização da Geração
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+DESPACHO Nº 647, DE 25 DE FEVEREIRO DE 2026
+O GERENTE DE FISCALIZAÇÃO DA GERAÇÃO DA SUPERINTENDÊNCIA DE FISCALIZAÇÃO TÉCNICA DOS SERVIÇOS DE ENERGIA ELÉTRICA DA AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA - ANEEL, nos termos do art. 3º da Portaria nº 6.836, de 21 de junho de 2023, e considerando o que consta do Processo nº 48500.004682/2026-62, decide:
+liberar a unidade geradora UG01, de 600,00 kW, da UFV Pedreira Tangara, Código Único de Empreendimentos de Geração - CEG UFV.RS.MT.075471-4.01, localizada no município de Tangará da Serra no estado de Mato Grosso, de titularidade da Pedreira Tangara LTDA., para início da operação comercial a partir de 26 de fevereiro de 2026, para fins de contabilização de sua energia, nos termos do §2º do art. 3º da Resolução Normativa nº 1.029, de 25 de julho de 2022.
+RAFAEL ERVILHA CAETANO

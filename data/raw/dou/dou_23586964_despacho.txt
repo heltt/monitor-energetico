@@ -1,0 +1,34 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 10/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=10/02/2026&jornal=515&pagina=59
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 15/2026
+Fica(m) o(s) abaixo relacionado(s) cientes(s) que o recurso administrativo interposto foi julgado improcedente; restando-lhe(s) pagar ou parcelar o débito(s) apurado(s), sob pena de inscrição em Dívida Ativa, CADIN e ajuizamento da ação de execução.
+
+
+PROCESSO Nº
+INTERESSADO
+48077.903019/2020-02
+Luiz Alceu Maranho
+48069.926506/2021-15
+Zamir José Teixeira
+48403.930116/2017-15
+Brazminco Ltda
+48403.930141/2017-07
+Brazminco Ltda
+48054.930852/2024-18
+Minas Mandacarú Mineração Ltda
+48054.930854/2024-07
+Minas Mandacarú Mineração Ltda
+48403.830583/2009-36
+Bagatelle imobiliária Ltda
+MAURO HENRIQUE MOREIRA SOUSA
+Diretor-Geral

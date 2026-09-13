@@ -1,0 +1,133 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 1.1-OP_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 1.1-OP_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 1.1
+Elaboração e manutenção do Manual de
+Procedimentos da Operação
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Elaboração e manutenção do Manual de
+1.1 Operacional 2020.12 01/01/2021
+Procedimentos da Operação
+ÍNDICE
+1. ELABORAÇÃO E MANUTENÇÃO DO MPO ........................................................................................3
+2. REFERÊNCIAS...................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Elaboração e manutenção do Manual de
+1.1 Operacional 2020.12 01/01/2021
+Procedimentos da Operação
+1. ELABORAÇÃO E MANUTENÇÃO DO MPO
+1.1. O CNOS mantém no MPO os procedimentos operacionais necessários para a operação normal da Rede
+de Operação, bem como os procedimentos operacionais para situações de contingência.
+1.2. Os centros de operação do ONS iniciam o processo de elaboração de uma nova regra de operação
+quando da identificação de processo consolidado não normatizado ou quando da implementação de novo
+processo operativo.
+1.3. Os centros de operação do ONS iniciam o processo de revisão de regra de operação existente quando
+da alteração ou complementação de premissas, diretrizes, critérios ou responsabilidades contidas na regra.
+1.4. Os centros de operação do ONS iniciam o processo de elaboração ou de revisão de instrução de operação
+ou de rotina operacional a partir de um dos seguintes eventos:
+(a) criação de nova regra de operação ou alteração de regra de operação existente com consequências
+sobre os procedimentos operacionais vigentes;
+(b) diretrizes operativas constantes em estudos elétricos, energéticos ou hidrológicos, elaborados pelo
+ONS;
+(c) informações provenientes dos agentes de operação relativas às indisponibilidades, restrições
+operacionais, alterações de limites de equipamentos ou linhas de transmissão e a mudanças na
+configuração das instalações;
+(d) análises de pós-operação e normatização em função de resultados da operação da rede e nas
+informações dos centros de operação do ONS ou dos agentes de operação.
+1.5. Os centros de operação do ONS deflagram o processo de emissão de uma mensagem operativa,
+conforme detalhado no Submódulo 5.13 – Rotinas Operacionais, em decorrência de um dos seguintes
+eventos:
+(a) ocorrências imprevistas na Rede de Operação que resultem em alteração de procedimentos
+operacionais ou implantação de novos procedimentos;
+(b) realização de testes ou ensaios em instalações já integradas à Rede de Operação que visem ao
+aperfeiçoamento de procedimentos operacionais vigentes;
+(c) atendimento a condições especiais e temporárias de operação, decorrentes de eventos, solenidades
+ou comemorações;
+(d) atendimento a condições especiais e temporárias de operação decorrentes de implantação em etapas
+de uma nova instalação e de mudanças de configuração em instalações existentes com conclusão de
+cada etapa em prazo inferior a 5 (cinco) dias.
+1.6. O CNOS coordena a manutenção dos procedimentos operacionais contidos nas instruções de operação,
+mensagens operativas (Submódulo 5.12 – Instruções de Operação) e rotinas operacionais (Submódulo 5.13)
+vigentes, a emissão de uma nova instrução, mensagem ou rotina, como também a elaboração do cadastro
+de informações operacionais (Submódulo 5.11 – Cadastro de Informações Operacionais).
+1.6.1. As atividades são executadas e aprovadas no âmbito dos centros de operação do ONS, e contam com
+a participação dos agentes de operação envolvidos, conforme detalhado no Submódulo 5.13.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Elaboração e manutenção do Manual de
+1.1 Operacional 2020.12 01/01/2021
+Procedimentos da Operação
+1.7. Os centros de operação do ONS organizam, de forma adequada às áreas de atuação dos centros e aos
+processos operativos tratados nos documentos operativos, os submódulos do MPO que contêm as instruções
+de operação, as mensagens operativas (Submódulo 5.12), as rotinas operacionais (Submódulo 5.13), os
+ajustamentos operativos (Submódulo 5.14 – Ajustamentos Operativos), os regulamentos internacionais
+(Submódulo 5.15 – Regulamentos Internacionais) e os cadastros de informações operacionais (Submódulo
+5.11 – Cadastro de Informações Operacionais).
+1.7.1. A indexação e a numeração dos documentos dos Submódulos 5.11, 5.12, 5.13, 5.14 e 5.15 do MPO
+deve ser exclusiva de cada documento, vinculada a uma regra de operação constante no Submódulo 5.13,
+codificada de forma a facilitar a utilização desses documentos pelas equipes de operação de sistema e de
+instalação.
+1.7.2. Caso haja necessidade de nova definição ou de revisão de critério ou de procedimento operativo que
+não possa ser feita em regra ou instrução de operação vigente, os centros de operação do ONS devem criar
+um novo documento para regulamentar tal critério ou procedimento.
+1.8. Os centros de operação do ONS redigem e revisam as regras de operação, rotinas operacionais,
+instruções de operação, mensagens operativas, ajustamentos operativos e regulamentos internacionais do
+MPO, com base em resultados de estudos técnicos, análises de ocorrências e perturbações, consolidação dos
+conhecimentos obtidos na prática operacional, resoluções da ANEEL, regras de mercado, legislação vigente
+e regulamentações pertinentes.
+1.9. Os centros de operação do ONS dão entrada em vigência à documentos normativos que façam parte do
+MPO após sua implantação junto às equipes envolvidas no assunto.
+1.9.1. As formas e os prazos de implantação são definidos no Submódulo 5.13, com base no grau de
+complexidade do assunto abordado no documento.
+1.10. Os centros de operação do ONS definem o grau de alteração dos procedimentos constantes das
+instruções de operação, rotinas operacionais e ajustamentos operativos, decorrentes de ampliações,
+reformas, entrada de novas obras ou mudança de regra operativa, conforme Submódulo 5.13.
+1.11. Os centros de operação do ONS distribuem, internamente e para os demais agentes de operação, os
+documentos operativos que compõem o Submódulo 5.12, de modo a manter o MPO sempre atualizado e
+disponível nos centros de operação do ONS e nos centros dos agentes de operação.
+1.11.1. Os prazos para distribuição das mensagens operativas constantes do MPO são definidos em função
+das alterações efetuadas e da data de vigência.
+1.12. Agentes de operação e o ONS mantém este submódulo e os Submódulos de 5.1 a 5.8; Submódulo 2.5;
+e Submódulo 2.16 disponíveis em todos os centros de operação dos agentes de operação e do ONS que
+tenham atribuições referentes à operação de sistema e de instalações na Rede de Operação.
+1.13. Os centros de operação do ONS mantém os documentos operativos dos Submódulos de 5.11 a 5.15
+disponíveis nos centros de operação do ONS, conforme lista de distribuição específica indicada em cada
+documento operativo.
+1.13.1. Os centros de operação do ONS indicam os agentes de operação envolvidos na lista de distribuição
+de cada documento operativo.
+1.13.2. Os agentes de operação incluem os procedimentos operativos estabelecidos pelo ONS para as suas
+instalações nos seus documentos operativos.
+1.13.2.1. Tal inclusão pode ser feita por meio dos próprios documentos emitidos pelo ONS ou dos
+documentos operativos emitidos pelos agentes de operação.
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Elaboração e manutenção do Manual de
+1.1 Operacional 2020.12 01/01/2021
+Procedimentos da Operação
+1.14. O agente de operação implanta os procedimentos estabelecidos pelo ONS nas instalações da Rede de
+Operação de sua propriedade.
+1.14.1. Em caso de necessidade, o ONS fornece suporte técnico para dirimir possíveis dúvidas dos agentes
+de operação quanto aos procedimentos estabelecidos.
+1.14.2. O processo de implantação pelos agentes de operação deve incluir o treinamento dos operadores
+dos centros ou instalações nos procedimentos concernentes à operação das suas respectivas instalações.
+1.15. O agente de operação elabora, atualiza e encaminha ao ONS os diagramas unifilares operacionais das
+instalações da Rede de Supervisão de sua propriedade.
+1.16. Os centros de operação do ONS dispõe de diagramas unifilares operacionais das instalações que fazem
+parte da Rede de Supervisão.
+1.17. Os Centros de Operação do ONS arquivam os documentos operativos que forem atualizados ou
+cancelados no MPO, após sua data final de vigência, pelo prazo estabelecido neste submódulo.
+2. REFERÊNCIAS
+2.1. Não há referências estabelecidas neste documento.
+Endereço na internet: http://www.ons.org.br 5 / 5

@@ -1,0 +1,15 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: DESPACHO Nº 414, DE 6 DE FEVEREIRO DE 2026
+DATA_PUBLICACAO: 10/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=10/02/2026&jornal=515&pagina=58
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Energia Elétrica/Superintendência de Regulação dos Serviços de Geração e do Mercado de Energia Elétrica
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+DESPACHO Nº 414, DE 6 DE FEVEREIRO DE 2026
+O SUPERINTENDENTE DE REGULAÇÃO DOS SERVIÇOS DE GERAÇÃO E DO MERCADO DE ENERGIA ELÉTRICA SUBSTITUTO DA AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA - ANEEL, no uso da atribuição delegada por meio do inciso XVI do art. 1º da Portaria nº 6.824, de 4 de maio de 2023, e tendo em vista o que consta do Processo nº 48500.907124/2008-77, decide:
+conhecer e, no mérito, dar provimento à solicitação da J&F S.A., inscrita no CNPJ sob o nº 00.350.763/0001-62, para: (i) aprovar, nos termos da Resolução Normativa nº 1.093, de 21 de maio de 2024: (i.a) o Custo Variável Unitário - CVU para a UTE Uruguaiana, código CEG: UTE.GN.RS.002913-0.01, no valor de R$ 1.194,66 MWh; (i.b) a Parcela de Custo Fixo - PCF, no valor de R$ 74,26/MWh; e (i.c) o Montante de geração necessário à recuperação dos custos fixos, no valor de 420.630 MWh; (ii) informar que o CVU definido em "i.a" refere-se ao mês de fevereiro de 2026 e deverá ser atualizado mensalmente pela Câmara de Comercialização de Energia Elétrica - CCEE, adotando-se os parâmetros da Tabela que consta no Anexo 2 da Nota Técnica anexa a este Despacho; (iii) informar que o CVU acrescido de custos fixos da usina corresponde à soma do CVU mensal com a PCF e que sua adoção deverá observar a vigência e as condições definidas na Portaria Normativa nº 108/GM/MME, de 29 de abril de 2025, do Ministério de Minas e Energia; (iv) determinar que os valores aprovados em "i", respeitados os itens "ii" e "iii", deverão ser aplicados a partir da publicação deste Despacho e por um período de 12 (doze) meses: (iv.a) pelo Operador Nacional do Sistema Elétrico - ONS, para consideração nos processos de Planejamento e Programação da Operação; e (iv.b) pela CCEE, para Contabilização e Liquidação da energia elétrica produzida pela usina no período; e (v) possibilitar que J&F S.A., redeclare, excepcionalmente, para fins de aprovação pelo ONS, os valores dos parâmetros de Unit Commitment Térmico (UCT) da UTE Uruguaiana, considerando as informações apresentadas na Carta s/nº, de 26/09/2025, e na Carta nº 96/2025, de 06/10/2025.
+FELIPE ALVES CALABRIA

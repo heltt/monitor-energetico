@@ -1,0 +1,20 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 05/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=05/02/2026&jornal=515&pagina=62
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Superintendência de Arrecadação e Fiscalização de Receitas/Gerência de Cobrança das Demais Receitas/Coordenação de Autuação e Fiscalização da TAH
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 63/2026
+Ficam NOTIFICADOS para pagar ou parcelar débito(MULTAS)/prazo 10(dez) dias (6.62)
+Agrícola Rio Pardo Ltda - 870979/17 - Not.21/2026 - R$ 2.510,53
+Florestamar Empreendimentos Florestais Ltda - 870809/19 - Not.18/2026 - R$ 11.707,58
+Mineracao Tremendal Ltda - 873066/15 - Not.20/2026 - R$ 11.606,07
+Mineradora Ubax Ltda - 872579/15 - Not.19/2026 - R$ 3.057,57
+Eutiquia Lucia do Vale Ramos
+Coordenadora

@@ -1,0 +1,96 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 5.3-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 5.3-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 5.3
+Controle da geração
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Controle da geração 5.3 Responsabilidades 2020.12 01/01/2021
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Centro Nacional de Operação do Sistema – CNOS........................................................................3
+3.2. Centro de Operação do Sistema – COSR.......................................................................................3
+3.3. Agentes de geração.......................................................................................................................3
+3.4. Agentes de transmissão................................................................................................................4
+3.5. Agentes de distribuição.................................................................................................................4
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIAS...................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Controle da geração 5.3 Responsabilidades 2020.12 01/01/2021
+1. OBJETIVO
+1.1. Estabelecer as responsabilidades e etapas de processos relativos à atividade de tempo real para o
+controle de geração, o controle da reserva de potência operativa e para o Controle Automático de Geração
+(CAG) na Rede de Operação do Sistema Interligado Nacional (SIN).
+2. PRODUTOS
+2.1. Não há produtos neste documento.
+3. RESPONSABILIDADES
+3.1. Centro Nacional de Operação do Sistema – CNOS
+(a) Coordenar, supervisionar e controlar ações para garantir a constante otimização energética e a
+segurança operacional do sistema.
+(b) Coordenar, supervisionar e controlar ações para o cumprimento do Programa Diário de Operação
+(PDO), no que se refere ao Programa Diário de Produção (PDP) e Programa Diário de Carga e
+Frequência (PDFC).
+(c) Coordenar, supervisionar e controlar ações para alocação da reserva de potência operativa.
+(d) Coordenar e supervisionar ações para a operação dos CAG e para redução e elevação de geração nas
+usinas da Rede de Operação, inclusive as usinas que não estejam conectadas a um CAG.
+3.2. Centro de Operação do Sistema – COSR
+(a) Coordenar, supervisionar e controlar a execução do PDO e as manobras nas instalações, referente à
+Rede de Operação Regional na sua respectiva área de atuação.
+(b) Supervisionar e controlar as ações para o cumprimento do PDO e de suas reprogramações, para o
+controle da alocação da reserva de potência operativa.
+(c) Supervisionar, controlar, comandar e executar a operação do CAG e as reduções e elevações de
+geração nas usinas da Rede de Operação conectadas a um CAG.
+(d) Supervisionar e controlar as reduções e elevações de geração nas usinas da Rede de Operação que
+não estejam conectadas a um CAG e informar aos agentes de operação envolvidos os motivos destas
+reduções ou elevações.
+3.3. Agentes de geração
+(a) Executar as ações determinadas no PDO.
+(b) Supervisionar, comandar e executar as partidas, o sincronismo e as paradas das unidades geradoras,
+a inserção e a retirada de unidades geradoras no controle conjunto da usina, a conversão de unidades
+geradoras para compensadores síncronos e a reversão para gerador.
+(c) Supervisionar, comandar e executar as mudanças de topologia da rede determinadas pelo ONS.
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Controle da geração 5.3 Responsabilidades 2020.12 01/01/2021
+(d) Supervisionar, comandar e executar as elevações e reduções de geração nas usinas da Rede de
+Operação que não estejam conectadas a um CAG, para contingências na Rede de Operação e para
+controle da reserva de potência operativa.
+(e) Informar ao COSR com o qual se relaciona as indisponibilidades das unidades geradoras, os horários
+de início e término das intervenções em unidades geradoras e as limitações em unidades geradoras
+que impliquem restrições de geração em sua área de atuação e o valor da disponibilidade de geração
+nas unidades geradoras de suas usinas.
+(f) Solicitar ao COSR com o qual se relaciona a realização da comprovação de disponibilidade de geração
+de unidade geradora de usinas da Rede de Operação após ocorrência de indisponibilidade por
+desligamento programado ou forçado.
+3.4. Agentes de transmissão
+(a) Supervisionar, comandar e executar as mudanças de topologia da Rede de Operação determinadas
+pelo ONS.
+(b) Informar aos COSR as limitações em equipamentos de transmissão, os horários de início e término
+das intervenções, as manobras e ocorrências no sistema de transmissão.
+(c) Informar aos COSR as indisponibilidades ou limitações de equipamentos ou linhas de transmissão de
+seu conhecimento, já ocorridas ou prestes a ocorrer, previstas ou não, que possam limitar a geração
+das usinas da Rede de Operação.
+3.5. Agentes de distribuição
+(a) Supervisionar, comandar e executar, na sua Rede de Operação, as mudanças de topologia da rede
+determinadas pelo ONS.
+(b) Informar aos COSR as variações de carga que afetem a frequência do sistema.
+(c) Informar aos agentes de geração as indisponibilidades ou limitações de equipamentos ou linhas de
+transmissão de seu conhecimento, já ocorridas ou prestes a ocorrer, previstas ou não, que possam
+limitar a geração das usinas da Rede de Operação.
+4. PRAZOS
+4.1. Não há prazos neste documento.
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 4 / 4

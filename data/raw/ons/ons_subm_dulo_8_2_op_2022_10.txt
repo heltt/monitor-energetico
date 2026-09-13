@@ -1,0 +1,77 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 8.2-OP_2022.10
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 8.2-OP_2022.10.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 8.2
+Disponibilização de dados para cálculo
+tarifário
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2022.10 Resolução da Reunião de Diretoria do 18/10/2022
+ONS nº 104/2022
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Disponibilização de dados para cálculo tarifário 8.2 Operacional 2022.10 18/10/2022
+ÍNDICE
+1. DISPONIBILIZAÇÃO DE DADOS PARA O CÁLCULO DA TUST E TUSDG ............................................... 3
+2. REFERÊNCIAS ................................................................................................................................ 4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Disponibilização de dados para cálculo tarifário 8.2 Operacional 2022.10 18/10/2022
+1. DISPONIBILIZAÇÃO DE DADOS PARA O CÁLCULO DA TUST E TUSDG
+1.1. O Operador Nacional do Sistema Elétrico – ONS formata as informações necessárias à simulação das
+Tarifa de Uso da Transmissão (TUST) e TUSDg, conforme o Programa Nodal, disponibilizado pela Aneel; a
+regulamentação e a sistemática estabelecida pela Agência Nacional de Energia Elétrica – ANEEL.
+1.1.1. O ONS na elaboração dos dados e informações observa:
+(a) regulamentos, orientações, critérios e parâmetros definidos pela ANEEL para cálculo das TUST,
+TUSDg;
+(b) valores das Receita Anual Permitida (RAP) das instalações de transmissão e das interligações
+internacionais, orçamento econômico do ONS e índices inflacionários definidos pela ANEEL;
+1.1.2. A base de dados de entrada para o programa Nodal contém:
+(a) a topologia da Rede Básica, contendo o sistema existente nos estudos do Plano da Operação
+Elétrica de Médio Prazo do SIN (PAR/PEL) para o horizonte correspondente;
+(b) os valores de Montante de Uso do Sistema de Transmissão (MUST) por ponto de conexão
+contratados nos Contratos de Uso do Sistema de Transmissão (CUST);
+(c) os valores de MUST e MUSTg por empreendimento de geração contratados nos CUST;
+(d) máximas potências instaladas dos empreendimentos de geração outorgados com previsão de
+conexão à Rede Básica, que não possuem CUST celebrado;
+(e) a topologia da Rede Básica com os TRFR e DITC do sistema existente ou previsto para o horizonte
+em estudo;
+(f) os valores referentes à RAP das instalações e equipamentos a serem remunerados por TUST-FR
+definidos pela ANEEL;
+(g) a topologia das Redes Unificadas (RU);
+(h) os valores de demanda por barramento de cada RU nos horários de ponta;
+(i) os valores de MUSD dos geradores pertecentes de cada RU;
+(j) os valores de receita de cada Rede RU definidos pela ANEEL;
+(k) custos modulares de instalações e equipamentos de transmissão definidos pela ANEEL, para fins
+de cálculo de TUST;
+(l) valores das TUST de centrais de geração e TUSDg atualizados pela ANEEL, de acordo com
+regulamentação específica1;
+(m) os geradores habilitados pela Empresa de Pesquisa Energética - EPE para os leilões de energia nova
+sujeitos ao cálculo de TUSDg; e
+(n) Capacidades nominais de longa duração constantes nos Constratos de Prestação dos Serviços de
+Transmissão (CPST) das instalações de transmissão integrantes da Rede Básica e das Interligações
+Internacionais.
+1 ANEEL. Resoluções Normativas nº 559/2013 e 349/2009.
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 8 - Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Disponibilização de dados para cálculo tarifário 8.2 Operacional 2022.10 18/10/2022
+1.2. O ONS encaminha estas informações à ANEEL e as divulga a todos os agentes para que estes elaborem
+estudos e cálculos estimativos.
+2. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa nº 351, de 11/11/1998.
+[2] ANEEL. Resolução Normativa nº 905, de 08/12/2020. Regras dos Serviços de Transmissão de Energia
+Elétrica no Sistema Elétrico Nacional. Módulo 2 - Classificação das Instalações, Módulo 3 - Instalações e
+equipamentos de transmissão, Módulo 5 - Acesso ao Sistema, Módulo 6 Coordenação e Controle da
+Operação.
+[3] ANEEL. Resolução Normativa nº 349, de 13/01/2009.
+[4] ANEEL. Resolução Normativa nº 559, de 27/06/2013.
+Endereço na internet: http://www.ons.org.br 4 / 4

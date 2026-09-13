@@ -1,0 +1,329 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 9.6-IN_2025.02
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 9.6-IN_2025.02.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 9.6
+Indicadores de desempenho dos
+sistemas de supervisão e controle e dos
+serviços de telecomunicações
+Indicadores
+Revisão Motivo da revisão Data de aprovação
+2025.02 Despacho ANEEL nº 370/2025 27/02/2025
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho dos sistemas de
+supervisão e controle e dos serviços de 9.6 Indicadores 2025.02 01/05/2025
+telecomunicações
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. INDICADORES DE DESEMPENHO DOS SISTEMAS DE SUPERVISÃO E CONTROLE................................3
+3. INDICADOR DE DESEMPENHO DOS SERVIÇOS DE TELECOMUNICAÇÕES...........................................7
+4. INDICADORES DE DESEMPENHO DA ASSISTÊNCIA DE INSTALAÇÕES TELEASSISTIDAS.......................8
+5 REFERÊNCIAS........................................................................................................................................10
+Endereço na internet: http://www.ons.org.br 2 / 10
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho dos sistemas de
+supervisão e controle e dos serviços de 9.6 Indicadores 2025.02 01/05/2025
+telecomunicações
+1. OBJETIVO
+1.1. Estabelecer a sistemática para o cálculo e a divulgação dos indicadores relacionados aos sistemas de
+supervisão e controle e aos serviços de telecomunicações.
+2. INDICADORES DE DESEMPENHO DOS SISTEMAS DE SUPERVISÃO E CONTROLE
+2.1. Disponibilidade dos Recursos de Supervisão e Controle (DRSC )
+ij
+2.1.1. Objetivo
+2.1.1.1. Prover um indicador que permita avaliar a disponibilidade dos recursos de supervisão e controle
+associados a um Sistema de Supervisão e Controle Local (SSCL) ou a um agente de operação.
+2.1.2. Definição
+2.1.2.1. Determina, percentualmente, para um SSCL ou para um agente de operação “i” a disponibilidade
+agregada dos recursos de supervisão e controle fornecidos para um determinado centro de operação do ONS
+“j”, no período de observação.
+2.1.2.2. Os valores mínimos toleráveis de disponibilidades dos recursos de supervisão e controle estão
+definidos no Submódulo 2.12 – Requisitos mínimos de supervisão e controle para a operação.
+2.1.3. Formulação
+2.1.3.1. O indicador DRSCij é calculado pelas seguintes equações:
+T
+zij
+DRSC  z .100 [%] ( 1 )
+ij T.NPRS
+ij
+( 2 )
+Onde:
+T = Tempo total em minutos do período de apuração.
+NPRS = Número total de recursos de supervisão e controle do SSCL ou agente de
+ij
+operação “i” na Rede de Supervisão sob responsabilidade do centro de
+operação do ONS “j”.
+T = Soma dos períodos em que o recurso “z” da unidade terminal remota, SSCL,
+zij
+concentrador de dados ou agente de operação “i” ficou disponível durante o
+tempo total “T” para um determinado centro de operação do ONS “j”.
+TI = Soma dos períodos em que o recurso de supervisão e controle “z” do SSCL ou
+zij
+agente de operação “i” ficou indisponível durante o tempo total, visto pelo
+centro de operação do ONS “j”.
+Endereço na internet: http://www.ons.org.br 3 / 10
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho dos sistemas de
+supervisão e controle e dos serviços de 9.6 Indicadores 2025.02 01/05/2025
+telecomunicações
+2.1.4. Dados utilizados
+2.1.4.1. Recursos de supervisão e controle disponibilizados pelos agentes de operação, conforme indicado
+na equação do item 2.1.3 deste submódulo.
+2.1.4.2. Não são computados no índice os tempos de indisponibilidade nos casos descritos no Submódulo
+2.12.
+2.1.5. Agregações
+2.1.5.1. Sistêmica: agente de operação e SSCL, apurado por centro de operação do ONS.
+2.1.5.2. Temporal: últimos 12 (doze) meses com atualização mensal.
+2.1.6. Divulgação
+2.1.6.1. O ONS calcula o DRSC para todos os SSCL que atendem à Rede de Supervisão, definida no
+ij
+Submódulo 2.1 – Definição das redes do Sistema Interligado Nacional, e divulga-o por meio do relatório
+Disponibilidade dos Recursos de Supervisão e Controle (DRSC), conforme Submódulo 6.11 – Manutenção e
+avaliação dos recursos de supervisão e controle, disponibilizado aos agentes de operação e à Agência
+Nacional de Energia Elétrica – ANEEL, através do site do ONS.
+2.1.6.2. A periodicidade de divulgação é mensal.
+2.2. Qualidade dos Recursos de Supervisão e Controle (QRSC )
+ij
+2.2.1. Objetivo
+2.2.1.1. Prover um indicador que permita avaliar a qualidade da supervisão e controle relacionada a SSCL ou
+a um agente de operação.
+2.2.2. Definição
+2.2.2.1. Determina, percentualmente, para um SSCL ou agente de operação “i”, a média dos tempos em que
+os recursos de supervisão e controle para um determinado centro de operação do ONS “j” não violaram o
+conceito de qualidade, no período de observação.
+2.2.2.2. O conceito de qualidade e os valores mínimos toleráveis estão definidos no Submódulo 2.12.
+2.2.3. Formulação
+2.2.3.1. O indicador QRSC é calculado pelas seguintes equações:
+ij
+Tq
+zij
+QRSC  z .100[%] ( 3 )
+ij Tq.NPRSq
+ij
+( 4 )
+Onde:
+Endereço na internet: http://www.ons.org.br 4 / 10
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho dos sistemas de
+supervisão e controle e dos serviços de 9.6 Indicadores 2025.02 01/05/2025
+telecomunicações
+Tq = Tempo total em minutos do período de apuração.
+NPRSq = Número total de recursos de supervisão e controle do SSCL ou agente de
+ij
+operação “i” na Rede de Supervisão sob responsabilidade do centro de
+operação do ONS “j” e passíveis de avaliação de qualidade.
+Tq = Soma dos períodos em que o recurso “z” do SSCL ou agente de operação “i”
+zij
+atendeu ao conceito de qualidade durante o tempo total “Tq” quando visto
+pelo centro de operação do ONS “j”.
+Tnq = Soma dos períodos em que o recurso de supervisão e controle “z” do SSCL ou
+zij
+agente de operação “i” não atendeu ao conceito de qualidade durante o tempo
+total, quando visto pelo centro de operação do ONS “j”.
+2.2.4. Dados utilizados
+2.2.4.1. Recursos de supervisão e controle disponibilizados pelos agentes de operação, conforme indicado
+na equação do item 2.2.3 deste submódulo.
+2.2.4.2. Não são computados no índice os tempos de indisponibilidade nos casos descritos no Submódulo
+2.12.
+2.2.5. Agregações
+2.2.5.1. Sistêmica: agente de operação e SSCL, apurado por centro de operação do ONS.
+2.2.5.2. Temporal: últimos 12 (doze) meses com atualização mensal.
+2.2.6. Divulgação
+2.2.6.1. O ONS calcula o QRSC para todos os SSCL que atendem à Rede de Supervisão e divulga-o por meio
+ij
+do relatório Qualidade dos Recursos de Supervisão e Controle (QRSC), conforme Submódulo 6.11,
+disponibilizado aos agentes de operação e à ANEEL, através do site do ONS.
+2.2.6.2. A periodicidade de divulgação é mensal.
+2.3. Disponibilidade de Sistema de Supervisão e Controle Local ou Concentrador de Dados (DCD)
+i
+2.3.1. Objetivo
+2.3.1.1. Prover um indicador que permita avaliar a disponibilidade de um SSCL ou um Concentrador de Dados
+(CD) ou um agente de operação.
+2.3.2. Definição
+2.3.2.1. Determina, percentualmente, a disponibilidade do SSCL ou CD “i” utilizado pelo agente de operação
+na cadeia de aquisição e/ou distribuição de dados do ONS, no período de observação. O índice se refere a
+cada um dos elementos da cadeia de aquisição e/ou distribuição, diretamente ligados ao CD ou a um centro
+do ONS, incluindo-se o CD.
+2.3.2.2. Os valores mínimos toleráveis dos requisitos de disponibilidades estão definidos no Submódulo 2.12.
+Endereço na internet: http://www.ons.org.br 5 / 10
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho dos sistemas de
+supervisão e controle e dos serviços de 9.6 Indicadores 2025.02 01/05/2025
+telecomunicações
+2.3.3. Formulação
+2.3.3.1. O indicador DCD é calculado pela seguinte equação:
+i
+TD TIT
+DCD  i i .100[%] ( 5 )
+i T
+Onde:
+T = Tempo total do período de apuração em minutos.
+TD = Soma dos períodos em que o SSCL ou CD “i” ficou disponível durante o
+i
+período de apuração, para supervisão a partir de um centro de operação do
+ONS.
+TIT = Soma dos períodos de indisponibilidade dos serviços de telecomunicações
+i
+sujeito à apuração de indisponibilidade, conforme definido no Submódulo 2.15
+– Requisitos mínimos para telecomunicações e Submódulo 6.10 – Avaliação
+do desempenho dos serviços de telecomunicações que atendem à Operação do
+SIN, durante o período de apuração.
+2.3.4. Dados utilizados
+2.3.4.1. Recursos de supervisão e controle disponibilizados pelos agentes de operação, conforme indicado
+na equação do item 2.3.3 deste submódulo, que inclui o estado operacional das Unidades Terminais Remotas
+(UTR), sistema de supervisão local ou CD, adquirido pelos centros de operação do ONS através das
+informações requeridas para supervisão do sistema elétrico, conforme Submódulo 2.12, e o estado
+operacional dos serviços de telecomunicações, abrangidos pelo Submódulo 2.15, e incluídos na cadeia de
+aquisição de dados da UTR, sistema de supervisão local ou CD.
+2.3.4.2. Não são computados no índice os tempos de indisponibilidade nos casos descritos no Submódulo
+2.12.
+2.3.5. Agregações
+2.3.5.1. Sistêmica: agente de operação, CD e sistema de supervisão, apurado por centro de operação do
+ONS.
+2.3.5.2. Temporal: últimos 12 (doze) meses com atualização mensal.
+2.3.6. Divulgação
+2.3.6.1. O ONS calcula o DCD para todos os SSCL que atendem à Rede de Supervisão e divulga-o por meio
+i
+do relatório DRSC, conforme Submódulo 6.11, disponibilizado aos agentes de operação e à ANEEL, através
+do site do ONS.
+2.3.6.2. A periodicidade de divulgação é mensal.
+Endereço na internet: http://www.ons.org.br 6 / 10
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho dos sistemas de
+supervisão e controle e dos serviços de 9.6 Indicadores 2025.02 01/05/2025
+telecomunicações
+3. INDICADOR DE DESEMPENHO DOS SERVIÇOS DE TELECOMUNICAÇÕES
+3.1. Disponibilidade Relativa dos Serviços de Telecomunicações (DRST)
+3.1.1. Objetivo
+3.1.1.1. Prover um indicador que permita avaliar a disponibilidade dos serviços de telecomunicações de voz
+e de dados entre instalações do ONS e instalações dos agentes de operação, para suporte à operação do
+Sistema Interligado Nacional (SIN), conforme definidos no Submódulo 6.10.
+3.1.2. Definição
+3.1.2.1. É definido pelo percentual de tempo durante o qual o serviço esteve disponível para utilização
+normal em relação ao tempo total num período de observação de 12 (doze) meses.
+3.1.3. Formulação
+3.1.3.1. O indicador DRST, para cada serviço considerado, é calculado pela seguinte equação:
+ TI
+DRST(%)  1  100 [%] ( 6 )
+TT
+Onde:
+DRST = Disponibilidade relativa do serviço de telecomunicações.
+TI = Tempo de cada indisponibilidade do serviço durante o período de observação,
+dado pela diferença entre o momento de saída de operação e o momento de
+retorno à operação normal, em minutos.
+TIT = Tempo total no período de observação, em minutos.
+i
+3.1.4. Dados utilizados
+3.1.4.1. Os dados utilizados são os tempos de indisponibilidade de cada serviço de telecomunicações,
+registrados durante o período de observação e o tempo total do período de 12 (doze) meses de observação,
+em minutos.
+3.1.5. Agregações
+3.1.5.1. Temporal: últimos 12 (doze) meses com atualização mensal.
+3.1.6. Divulgação
+3.1.6.1. O ONS calcula o DRST para os serviços que tenham uma extremidade numa instalação do ONS e
+divulga-o pelo site do ONS, por meio de sistema computacional específico, no Relatório de Avaliação de
+Desempenho dos Serviços de Telecom, conforme Submódulo 6.10.
+3.1.6.2. A periodicidade de divulgação é mensal.
+Endereço na internet: http://www.ons.org.br 7 / 10
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho dos sistemas de
+supervisão e controle e dos serviços de 9.6 Indicadores 2025.02 01/05/2025
+telecomunicações
+4. INDICADORES DE DESEMPENHO DA ASSISTÊNCIA DE INSTALAÇÕES TELEASSISTIDAS
+4.1. Assistência (ASST)
+4.1.1. Objetivo
+4.1.1.1. Medir a assistência às instalações de transmissão e geração teleassistidas.
+4.1.2. Definição
+4.1.2.1. Percentual do tempo em que a instalação esteve assistida.
+4.1.2.2. A Perda da Assistência é caracterizada quando há uma interrupção da assistência realizada por um
+determinado agente a uma instalação.
+4.1.3. Formulação
+4.1.3.1. O indicador ASST é calculado pela seguinte equação, dado em unidade percentual com 2 (duas) casas
+decimais:
+[%]
+( 7 )
+Onde:
+Perda_ASST = período total, em minutos, de perda da assistência durante o tempo de
+observação.
+DIAS = quantidade de dias apurados da instalação durante o tempo de
+observação.
+4.1.4. Dados utilizados
+4.1.4.1. Data/horário de início da perda da assistência e data/horário do retorno da assistência.
+4.1.4.2. A contabilização dos períodos de indisponibilidade para apuração do ASST inicia-se junto com o início
+da perda da assistência e encerra-se no momento em que a instalação retorna à condição de assistida, ou
+seja, quando a sua teleassistência ou assistência local é plenamente restabelecida.
+4.1.5. Agregações
+4.1.5.1. O ASST é calculado por instalação e por agente, numa janela móvel de 12 (doze) meses, com
+atualização mensal.
+4.2. Teleassistência (TELEASST)
+Endereço na internet: http://www.ons.org.br 8 / 10
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho dos sistemas de
+supervisão e controle e dos serviços de 9.6 Indicadores 2025.02 01/05/2025
+telecomunicações
+4.2.1. Objetivo
+4.2.1.1. Medir o desempenho da teleassistência das instalações de transmissão e geração, sem observar a
+assistência local.
+4.2.2. Definição
+4.2.2.1. É definido pelo percentual do tempo em que a instalação esteve teleassistida.
+4.2.2.2. A Perda da Teleassistência é caracterizada quando há indisponibilidade programada sem assistência
+local ou indisponibilidade não programada da telesupervisão ou telecomando de uma instalação.
+4.2.3. Formulação
+4.2.3.1. O indicador TELEASST é calculado pela seguinte equação, dado em unidade percentual com 2 (duas)
+casas decimais:
+[%]
+( 8 )
+Onde:
+Perda_TELEASST = período total, em minutos, de indisponibilidade da teleassistência
+durante o tempo de observação.
+DIAS = quantidade de dias apurados da instalação durante o tempo de
+observação.
+4.2.4. Dados utilizados
+4.2.4.1. Data/horário de início e término da perda da teleassistência.
+4.2.4.2. A contabilização dos períodos de indisponibilidade para apuração do TELEASST inicia-se junto com
+o início da perda da teleassistência e encerra-se no momento em que a instalação retorna à condição de
+assistência remota, ou seja, quando a sua teleassistência é plenamente restabelecida.
+4.2.5. Agregações
+4.2.5.1. O TELEASST é calculado por instalação teleassistida apurado por agente, numa janela móvel de 12
+(doze) meses, com atualização mensal.
+4.3. Frequência de Perdas de Teleassistência (FPTELEASST)
+4.3.1. Objetivo
+4.3.1.1. Medir a quantidade média de perdas de teleassistência das instalações de transmissão e geração.
+4.3.2. Definição
+Endereço na internet: http://www.ons.org.br 9 / 10
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho dos sistemas de
+supervisão e controle e dos serviços de 9.6 Indicadores 2025.02 01/05/2025
+telecomunicações
+4.3.2.1. É definido pela frequência média mensal de perdas de teleassistência das instalações de transmissão
+e geração.
+4.3.3. Formulação
+4.3.3.1. O indicador FPTELEASST é calculado pela seguinte equação:
+( 9 )
+Onde:
+i = cada mês da janela móvel de 12 (doze) meses apurados da
+instalação
+NPerda_TELEASST = quantidade total de indisponibilidades de teleassistência da
+i
+instalação no mês i, ou seja, no somatório da quantidade de perdas
+da teleassistência no mês i.
+4.3.4. Dados utilizados
+4.3.4.1. Quantidade de indisponibilidades de teleassistência da instalação ocorridas no mês.
+4.3.5. Agregações
+4.3.5.1. O FPTELEASST é calculado por instalação teleassistida apurado por agente, numa janela móvel de 12
+(doze) meses, com atualização mensal.
+5 REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 10 / 10

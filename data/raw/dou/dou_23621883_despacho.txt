@@ -1,0 +1,18 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 25/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=25/02/2026&jornal=515&pagina=91
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado de Pernambuco
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 37/2026
+Fase de Autorização de Pesquisa
+Autoriza a emissão de Guia de Utilização - prazo 3 anos(2754)
+840.146/2020 - CONSTRUTORA ABROLHOS LTDA - SALGUEIRO/PE - Guia n° 57/2026 - Substância(s): QUARTZO - Volume(s): 4.000 toneladas/ano
+WERTHER LARRAZABAL DA SILVA JÚNIOR
+Gerente

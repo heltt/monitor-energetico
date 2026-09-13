@@ -1,0 +1,29 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 25/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=25/02/2026&jornal=515&pagina=94
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Superintendência de Outorga de Títulos Minerários
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 55/2026
+Fase de Autorização de Pesquisa
+Dá provimento ao recurso interposto.(2643)
+878.092/2015-TAICOCA MINERACAO TRANSPORTES LTDA
+878.099/2015-TAICOCA MINERACAO TRANSPORTES LTDA
+826.624/2016-COMPASA DO BRASIL DISTRIBUIDORA DE DERIVADOS DE PETROLEO LTDA
+Nega provimento ao recurso interposto(2848)
+846.082/2014 - BM MINERACAO LTDA
+890.049/2021 - STONE IMOBILIARIA E MINERACAO LTDA
+Fase de Requerimento de Lavra
+Nega provimento ao recurso interposto(2850)
+810.698/2020 - AGREGA MINERADORA LTDA
+Fase de Requerimento de Pesquisa
+Nega provimento ao recurso interposto(2847)
+860.483/2017 - C & C MINERACAO LTDA
+ANDRE ELIAS MARQUES
+Superintendente

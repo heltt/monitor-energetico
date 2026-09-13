@@ -1,0 +1,95 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Retificação
+TITULO: RETIFICAÇÃO
+DATA_PUBLICACAO: 06/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=06/02/2026&jornal=515&pagina=78
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Energia Elétrica/Superintendência de Concessões,  Permissões e Autorizações dos Serviços de Energia Elétrica
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+RETIFICAÇÃO
+No Despacho nº 318, de 2 de fevereiro de 2026, constante dos Processos n°. 48500.035640/2025-92, 48500.003076/2018-10 e 48500.003078/2018-17, publicado no D.O. de 04.02.2026, seção 1, p. 64, v. 164, n. 24, . Retificar o Anexo. A íntegra deste Despacho consta dos autos e estará disponível em biblioteca.aneel.gov.br.
+onde se lê:
+ANEXO
+
+
+UFV
+Processo da outorga
+Resolução
+Autorizativa nº
+Sucessoras
+CNPJ
+CEG*
+Belmonte 2.2
+48500.003076/2018-10
+REA 8.928, de 09/06/2020, c/c DSP 1.508,
+de 15/05/2024
+Belmonte 2.2. Parque Solar
+S.A.
+50.869.462/0001-18
+UFV.RS.MG.047446-.01
+Belmonte 2.4. Parque Solar
+S.A.
+50.819.429/0001-83
+Mateus Supermercados
+S.A.
+03.995.515/0013-09
+Belmonte 2.4
+48500.003078/2018-17
+REA 8.930, de 09/06/2020, c/c DSP 1.508,
+de 15/05/2024
+Belmonte 2.2. Parque Solar
+S.A.
+50.869.462/0001-18
+UFV.RS.MG.047447-.01
+Belmonte 2.4. Parque Solar
+S.A.
+50.819.429/0001-83
+Mateus Supermercados
+S.A.
+03.995.515/0013-09
+* Código Único de Empreendimento de Geração - CEG
+Leia-se:
+ANEXO
+
+
+UFV
+Processo da outorga
+Resolução
+Autorizativa nº
+Sucessoras
+CNPJ
+CEG*
+Belmonte 2.2
+48500.003076/2018-
+10
+REA 8.928, de 09/06/2020, c/c DSP 1.508,
+de 15/05/2024
+Belmonte 2.2. Parque Solar
+S.A.
+50.869.462/0001-18
+UFV.RS.PE.0407364.01
+Belmonte 2.4. Parque Solar
+S.A.
+50.819.429/0001-83
+Mateus Supermercados
+S.A.
+03.995.515/0013-09
+Belmonte 2.4
+48500.003078/2018-
+17
+REA 8.930, de 09/06/2020, c/c DSP 1.508,
+de 15/05/2024
+Belmonte 2.2. Parque Solar
+S.A.
+50.869.462/0001-18
+UFV.RS.PE.0407380.01
+Belmonte 2.4. Parque Solar
+S.A.
+50.819.429/0001-83
+Mateus Supermercados
+S.A.
+03.995.515/0013-09
+* Código Único de Empreendimento de Geração - CEG

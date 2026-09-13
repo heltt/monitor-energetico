@@ -1,0 +1,212 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 3.4-RS_2024.07
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 3.4-RS_2024.07.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 3.4
+Planejamento da operação elétrica com
+horizonte quadrimestral
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2024.07 Despacho ANEEL nº 2080/2024 18/07/2024
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Assunto Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica com
+3.4 Responsabilidades 2024.07 01/08/2024
+horizonte quadrimestral
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Diretrizes para Operação Elétrica com Horizonte Quadrimestral.................................................3
+2.2. Base de Dados para Estudos Elétricos de Fluxo de Potência para o horizonte quadrimestral......3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de transmissão................................................................................................................3
+3.3. Agentes de geração.......................................................................................................................4
+3.4. Agentes de distribuição.................................................................................................................4
+3.5. Consumidores livres......................................................................................................................5
+4. PRAZOS............................................................................................................................................5
+5. REFERÊNCIAS...................................................................................................................................6
+Endereço na internet: http://www.ons.org.br 2 / 7
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Assunto Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica com
+3.4 Responsabilidades 2024.07 01/08/2024
+horizonte quadrimestral
+1. OBJETIVO
+1.1. Estabelecer as responsabilidades, os produtos, os prazos e as etapas do processo para o planejamento
+da operação elétrica com horizonte quadrimestral para configuração da Rede de Operação.
+2. PRODUTOS
+2.1. Diretrizes para Operação Elétrica com Horizonte Quadrimestral
+2.1.1 Apresenta as análises realizadas nos estudos de planejamento da operação elétrica do SIN com
+horizonte quadrimestral com base na avaliação do desempenho do SIN, sob o ponto de vista do atendimento
+aos critérios e aos padrões estabelecidos nos Procedimentos de Rede.
+2.1.2 O objetivo principal das diretrizes é a concepção de medidas operativas a partir de cenários
+eletroenergéticos mais prováveis de ocorrência dentro do quadrimestre em análise.
+2.2. Base de Dados para Estudos Elétricos de Fluxo de Potência para o horizonte quadrimestral
+2.2.1 Casos de referência de fluxo de potência elaborados, atualizados e disponibilizados pelo ONS aos
+agentes de operação com base no escopo e premissas para realização dos estudos de planejamento da
+operação elétrica com horizonte quadrimestral.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Coordenar e executar o processo de recebimento de dados e informações, de elaboração do estudo
+e dos produtos de planejamento da operação elétrica com horizonte quadrimestral, de emissão,
+distribuição e acompanhamento da implantação das providências recomendadas nas Diretrizes para
+Operação Elétrica com Horizonte Quadrimestral.
+(b) Consolidar os dados recebidos pelos agentes de operação, efetuar a montagem dos casos de
+referência e disponibilizá-los aos agentes.
+(c) Elaborar as premissas dos estudos de planejamento da operação elétrica, considerando sugestões dos
+agentes de operação.
+(d) Realizar os estudos elétricos e as análises da Rede de Simulação que forem necessários à avaliação do
+desempenho da Rede de Operação.
+(e) Propor e desenvolver ações junto aos agentes de operação para garantir a segurança operativa do
+SIN e a otimização dos custos da operação.
+(f) Disponibilizar, no Portal de relacionamento do ONS, ao Ministério de Minas e Energia – MME e a
+Agência Nacional de Energia Elétrica – ANEEL as conclusões e recomendações dos estudos para
+garantir que o atendimento da operação elétrica do SIN ocorra com segurança.
+(g) Verificar eventuais inconsistências nos dados informados pelos agentes de operação.
+Endereço na internet: http://www.ons.org.br 3 / 7
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Assunto Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica com
+3.4 Responsabilidades 2024.07 01/08/2024
+horizonte quadrimestral
+3.2. Agentes de transmissão
+(a) Fornecer ao ONS e manter atualizado, os dados e informações necessárias para a realização dos
+estudos de planejamento da operação elétrica com horizonte quadrimestral, de acordo com o
+formato e plataforma indicados pelo ONS.
+(b) Fornecer ao ONS sugestões para elaboração das premissas dos estudos de planejamento da operação
+elétrica com horizonte quadrimestral.
+(c) Participar, sempre que convocados pelo ONS ou por interesse próprio, das etapas do processo e
+acompanhar o desenvolvimento dos estudos.
+(d) Implantar as providências recomendadas nas Diretrizes para Operação Elétrica com Horizonte
+Quadrimestral.
+(e) Informar de imediato ao ONS qualquer incorreção identificada nos dados e informações já fornecidas
+com as devidas justificativas.
+(f) Responder às solicitações do ONS de verificação de inconsistência nos dados para os estudos elétricos.
+(g) Verificar eventuais inconsistências nos casos de referência disponibilizados pelo ONS e informar de
+imediato ao ONS.
+3.3. Agentes de geração1
+(a) Fornecer ao ONS e manter atualizado os dados e informações necessárias para a realização dos
+estudos de planejamento da operação elétrica com horizonte quadrimestral, de acordo com o
+formato e plataforma indicados pelo ONS.
+(b) Fornecer ao ONS sugestões para elaboração das premissas dos estudos de planejamento da operação
+elétrica.
+(c) Participar, sempre que convocados pelo ONS ou por interesse próprio, das diversas etapas de
+realização do processo e acompanhar o desenvolvimento dos estudos.
+(d) Implantar as providências recomendadas nas Diretrizes para Operação Elétrica com Horizonte
+Quadrimestral.
+(e) Informar de imediato ao ONS qualquer incorreção identificada nos dados e informações já fornecidos.
+(f) Responder às solicitações do ONS de verificação de inconsistência nos dados para os estudos elétricos.
+(g) Verificar eventuais inconsistências nos casos de referência disponibilizados pelo ONS e informar ao
+ONS.
+1 Os agentes de geração considerados neste submódulo são aqueles detentores, por concessão ou autorização, de
+usinas classificadas nas modalidades de operação como Tipo I, Tipo II-A, Tipo II-B e Tipo II-C, conforme critérios e
+sistemática estabelecidos no Módulo 7.2 - Classificação da modalidade de operação de usinas.
+Endereço na internet: http://www.ons.org.br 4 / 7
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Assunto Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica com
+3.4 Responsabilidades 2024.07 01/08/2024
+horizonte quadrimestral
+3.4. Agentes de distribuição
+(a) Fornecer ao ONS e manter atualizado os dados e informações necessárias para a realização dos
+estudos de planejamento da operação elétrica com horizonte quadrimestral, de acordo com o
+formato e plataforma indicados pelo ONS.
+(b) Fornecer ao ONS sugestões para elaboração das premissas dos estudos de planejamento da operação
+elétrica com horizonte quadrimestral.
+(c) Participar, sempre que convocados pelo ONS ou por interesse próprio, das diversas etapas de
+realização do processo e acompanhar o desenvolvimento dos estudos.
+(d) Implantar as providências recomendadas nas Diretrizes para Operação Elétrica com Horizonte
+Quadrimestral.
+(e) Informar de imediato ao ONS qualquer incorreção identificada nos dados e nas informações já
+fornecidas.
+(f) Responder às solicitações do ONS de verificação de inconsistência nos dados para os estudos.
+(g) Atender às solicitações do ONS quanto ao envio de informações sobre a possibilidade de transferência
+de carga entre subestações em complementação às informações sobre os montantes de
+remanejamento de carga de demanda ativa entre barramentos da Rede de Simulação, solicitadas no
+Submódulo 3.5 - Consolidação da previsão de carga para planejamento da operação eletroenergética.
+(h) Verificar eventuais inconsistências nos casos de referência disponibilizados pelo ONS e informar ao
+ONS.
+3.5. Consumidores livres
+(a) Fornecer ao ONS e manter atualizado os dados e informações necessárias para a realização dos
+estudos de planejamento da operação elétrica com horizonte quadrimestral, de acordo com o
+formato e plataforma indicados pelo ONS.
+(b) Fornecer ao ONS sugestões para elaboração das premissas dos estudos de planejamento da operação
+elétrica com horizonte quadrimestral.
+(c) Participar, sempre que convocados pelo ONS ou por interesse próprio, das diversas etapas de
+realização do processo e acompanhar o desenvolvimento dos estudos.
+(d) Implantar as providências recomendadas nas Diretrizes para Operação Elétrica com Horizonte
+Quadrimestral.
+(e) Informar de imediato ao ONS qualquer incorreção identificada nos dados e informações já fornecidos.
+(f) Responder às solicitações do ONS de verificação de inconsistência nos dados para os estudos.
+(g) Verificar eventuais inconsistências nos casos de referência disponibilizados pelo ONS e informar ao
+ONS.
+4. PRAZOS
+Endereço na internet: http://www.ons.org.br 5 / 7
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Assunto Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica com
+3.4 Responsabilidades 2024.07 01/08/2024
+horizonte quadrimestral
+Endereço na internet: http://www.ons.org.br 6 / 7
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Assunto Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica com
+3.4 Responsabilidades 2024.07 01/08/2024
+horizonte quadrimestral
+Quadro 1 - Prazos para os estudos de diretrizes da operação elétrica com horizonte quadrimestral
+Atividade Responsável Prazo Horizonte Periodicidade
+Janeiro a abril
+Envio dos dados ao ONS Último dia útil
+Agente de do ano
+1 para diretrizes do 1º de agosto Anual
+operação subsequente
+quadrimestre
+Disponibilização das
+Janeiro a abril
+Diretrizes para Operação Último dia útil
+do ano
+2 Elétrica com Horizonte ONS de novembro Anual
+subsequente
+Quadrimestral aos agentes
+– 1º quadrimestre
+Envio dos dados ao ONS Maio a agosto
+Agente de Último dia útil
+3 para diretrizes do 2º do ano Anual
+operação de dezembro
+quadrimestre subsequente
+Disponibilização das
+Diretrizes para Operação Maio a agosto
+Último dia útil
+4 Elétrica com Horizonte ONS do ano Anual
+de março
+Quadrimestral aos agentes subsequente
+– 2º quadrimestre
+Envio dos dados ao ONS Setembro a
+Agente de Último dia útil
+5 para diretrizes do 3º dezembro do Anual
+operação de abril
+quadrimestre mesmo ano
+Disponibilização das
+Diretrizes para Operação Setembro a
+Último dia útil
+6 Elétrica com Horizonte ONS dezembro do Anual
+de julho
+Quadrimestral aos agentes mesmo ano
+– 3º quadrimestre
+Solicitação aos agentes da
+7 verificação de ONS Sob demanda - -
+inconsistência dos dados
+Verificação de
+Até 5 (cinco)
+inconsistência dos dados Agente de
+8 dias úteis após - -
+fornecidos e informe ao operação
+atividade 7
+ONS
+5. REFERÊNCIAS
+5.1. Não há referências neste submódulo.
+Endereço na internet: http://www.ons.org.br 7 / 7

@@ -1,0 +1,911 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 2.4-OP_2025.03
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 2.4-OP_2025.03.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 2.4
+Premissas, critérios e metodologias para
+estudos energéticos
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2025.03 Resolução da 994ª Reunião de 25/03/2025
+Diretoria do ONS
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologias para
+2.4 Operacional 2025.03 25/03/2025
+estudos energéticos
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................4
+2. REPRESENTAÇÃO DAS CENTRAIS GERADORAS NÃO SIMULADAS INDIVIDUALMENTE.......................4
+2.1. Representação em modelo com horizonte de médio prazo.........................................................4
+2.1.1. Diretrizes gerais...........................................................................................................4
+2.1.2. Usinas em Operação Comercial...................................................................................4
+2.1.3. Centrais Geradoras da Expansão (que não iniciaram Operação Comercial)...............5
+2.1.4. Centrais Geradoras de Micro e Minigeração Distribuída (MMGD).............................5
+2.2. Representação em modelo com horizonte de curto prazo...........................................................6
+2.2.1. Usinas de geração de fonte eólica...............................................................................6
+2.2.2. Usinas de geração de outras fontes de energia..........................................................7
+2.2.3. Centrais Geradoras de Micro e Minigeração Distribuída (MMGD).............................7
+2.3. Representação em modelo com horizonte de curtíssimo prazo...................................................8
+2.3.1. Geração de fonte eólica..............................................................................................8
+2.3.2. Geração de fonte fotovoltaica.....................................................................................9
+2.3.3. Geração de fonte hidráulica e térmicas......................................................................9
+2.3.4. Centrais Geradoras de Micro e Minigeração Distribuída (MMGD)...........................10
+3. METODOLOGIA PARA CONSOLIDAÇÃO DA PREVISÃO DE CARGA...................................................10
+3.1. Consolidação para o modelo com horizonte de médio prazo.....................................................10
+3.1.1. Diretrizes Gerais........................................................................................................10
+3.1.2. Levantamento dos dados..........................................................................................10
+3.1.3. Previsões de Carga.....................................................................................................11
+3.2. Consolidação para o modelo com horizonte de curto prazo......................................................11
+3.2.1. Diretrizes Gerais........................................................................................................11
+3.2.2. Levantamento dos dados..........................................................................................11
+3.2.3. Previsões de Carga.....................................................................................................12
+3.3. Consolidação para o modelo com horizonte de curtíssimo prazo..............................................12
+3.3.1. Diretrizes Gerais........................................................................................................12
+3.3.2. Processo de previsão de carga..................................................................................13
+Endereço na internet: http://www.ons.org.br 2 / 23
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologias para
+2.4 Operacional 2025.03 25/03/2025
+estudos energéticos
+4. REFERÊNCIAS.................................................................................................................................13
+5. ANEXOS.........................................................................................................................................14
+Endereço na internet: http://www.ons.org.br 3 / 23
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologias para
+2.4 Operacional 2025.03 25/03/2025
+estudos energéticos
+1. OBJETIVO
+1.1. Este submódulo descreve as metodologias utilizadas para a representação das centrais geradoras não
+simuladas individualmente nos modelos de otimização eletroenergética utilizados para o planejamento e
+programação; e para o processo de consolidação da previsão de carga do Sistema Interligado Nacional (SIN).
+1.1.1. A representação das centrais geradoras não simuladas individualmente atende aos preceitos
+determinados na regulamentação [1], considerando as especificidades e granularidades de modelagem
+possíveis para cada modelo da cadeia energética.
+2. REPRESENTAÇÃO DAS CENTRAIS GERADORAS NÃO SIMULADAS INDIVIDUALMENTE
+2.1. Representação em modelo com horizonte de médio prazo
+2.1.1. Diretrizes gerais
+2.1.1.1. As gerações de que tratam o item 2.1.2 e os fatores de que tratam o item 2.1.2.1. são atualizados
+anualmente e utilizados a partir do Programa Mensal da Operação (PMO) de maio de cada ano, sendo
+contemplada a apuração de dados pelo período de cinco anos, encerrado no mês de dezembro do ano
+anterior.
+2.1.2. Usinas em Operação Comercial
+2.1.2.1. A representação da estimativa de geração das usinas não simuladas individualmente em operação
+comercial é considerada com base na média mensal do histórico dos últimos cinco anos de geração líquida
+disponibilizada ao SIN de cada usina, agregada por subsistema, por mês e por patamar de carga, para todo o
+horizonte de planejamento, respeitando a atualização descrita no subitem 2.1.2.10.
+2.1.2.2. A Câmara de Comercialização de Energia Elétrica – CCEE informa ao Operador Nacional do Sistema
+Elétrico – ONS os valores do histórico de geração conforme acordo operacional.
+2.1.2.3. O ONS obtém os valores de geração das usinas que injetam energia na rede de distribuição ou nas
+Demais Instalações de Transmissão (DIT), e que não possuam medição registrada na CCEE.
+2.1.2.4. Para as usinas com menos de cinco anos de histórico de geração líquida disponibilizada ao SIN, é
+considerada a média do histórico existente.
+2.1.2.5. Caso a usina tenha menos de um ano de operação comercial, são utilizados, nos meses sem histórico
+de geração, os montantes de energia conforme metodologia descrita no item 2.1.3 de forma a completar um
+ano de informações.
+2.1.2.6. No caso de usinas de autoprodução, com carga associada no mesmo sítio, a geração a ser
+considerada deve ser bruta.
+2.1.2.7. Usina com operação comercial suspensa ou com revogação da outorga não é representada na oferta
+a partir do PMO posterior à referida suspensão.
+2.1.2.8. A repotenciação de usina existente é considerada a partir do PMO posterior à referida mudança.
+Para determinação da energia associada à alteração de potência é calculado um fator de ajuste que é obtido
+por mês e patamar de carga, dado pela razão entre a geração líquida mensal por patamar e a potência da
+usina fornecida pela CCEE.
+2.1.2.9. O novo montante de energia em cada mês e patamar associado à repotenciação da usina é
+determinado pela nova potência instalada multiplicada pelo fator de ajuste descrito no item anterior.
+Endereço na internet: http://www.ons.org.br 4 / 23
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologias para
+2.4 Operacional 2025.03 25/03/2025
+estudos energéticos
+2.1.2.10. Para o 1º mês de simulação, no modelo de médio prazo, em substituição ao montante calculado
+de energia das usinas eólicas, será utilizada a previsão calculada conforme metodologia descrita no subitem
+2.2.1.1.
+2.1.2.11. Para cálculo da previsão média mensal do primeiro mês da geração eólica por patamar e
+subsistema utiliza-se a previsão semanal realizada para o dia do PMO, determinada conforme subitem
+2.2.1.1.5, agregando-se os valores semanais por patamar de carga e subsistema. Os valores mensais são
+obtidos pela ponderação dos valores semanais proporcionais ao número de dias do primeiro mês em cada
+semana e o número total de dias do mês vigente.
+2.1.3. Centrais Geradoras da Expansão (que não iniciaram Operação Comercial)
+2.1.3.1. As centrais geradoras não simuladas individualmente com cronograma de entrada em operação
+comercial futuro são representadas a partir de sua data de entrada em operação comercial conforme
+regulamentação [1][2].
+2.1.3.2. Para as usinas que não iniciaram sua operação comercial, o montante de energia considerado é
+calculado pela soma de suas potências instaladas multiplicada por um fator calculado pelo ONS.
+2.1.3.2.1. O fator é calculado por mês, fonte, submercado e patamar de carga, e é dado pela soma da razão
+entre a média da geração líquida e a média da potência dos últimos cinco anos de cada usina, dividido pelo
+número de centrais geradoras.
+2.1.3.2.2. No caso de usinas com menos de cinco anos de operação, são considerados no cálculo do fator
+somente os meses em que a usina esteve em operação.
+2.1.3.3. Para as usinas eólicas, a representação para o 1º mês de horizonte do estudo é compatível com a
+metodologia descrita no item 2.2.1.
+2.1.4. Centrais Geradoras de Micro e Minigeração Distribuída (MMGD)
+2.1.4.1. O processo de previsão de carga global para o planejamento e para o programa de operação
+energética estabelece os valores de energia para os modelos de otimização energética. A carga global
+prevista será atendida por diferentes fontes de geração, simuladas e não simuladas. Uma parcela da carga
+atendida por geração não simulada será atendida por micro e minigeração distribuída – MMGD,
+considerando autoconsumo e injeção na rede.
+2.1.4.2. Os valores de geração de MMGD são obtidos a partir das instalações existentes, com base nos dados
+publicados pela Agência Nacional de Energia Elétrica –ANEEL e acrescido das novas instalações que ocorrerão
+ao longo do período de planejamento previstas pelo ONS. Os ritos de atualização das previsões estão
+detalhados no relatório da Fase 2 do Grupo de Trabalho – GT MMGD disponibilizado no Portal de
+Relacionamento do ONS e no portal do CT PMO/PLD. Também são disponibilizados os dados utilizados no
+processo de atualização das previsões.
+2.1.4.3. A expansão das instalações de MMGD e respectivas gerações de energia serão obtidas com a
+utilização do Modelo de Mercado da Micro e Minigeração Distribuída (4MD) da Empresa de Pesquisa
+Energética – EPE [3]. Sendo os valores de potência instalada previstos pelo modelo 4MD atualizados em
+função da potência instalada verificada disponibilizada pela ANEEL. É realizada a conversão dessa potência
+instalada em geração.
+2.1.4.3.1. No caso da MMGD fotovoltaica, a geração é estimada utilizando-se a irradiação diária global média
+no plano inclinado, fornecida pelo Atlas Brasileiro de Energia Solar [4], e aplicando uma taxa de performance
+estimada para os segmentos.
+Endereço na internet: http://www.ons.org.br 5 / 23
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologias para
+2.4 Operacional 2025.03 25/03/2025
+estudos energéticos
+2.1.4.3.2. A geração das demais fontes é estimada pelo ONS por subsistema, utilizando-se de fatores de
+capacidade de usinas do SIN com características semelhantes.
+2.1.4.3.3. A geração prevista é desagregada em patamares, seguindo a tabela de intervalo dos patamares de
+carga, referida no Submódulo 4.4 - Consolidação da previsão de carga para programação eletroenergética.
+2.1.4.3.4. No caso da MMGD fotovoltaica, são calculados os pontos por unidade de profundidade (PU’s da
+geração média) por subsistema, com base em dados históricos horários de MMGD fotovoltaica. Esses dados
+abrangem até os 5 anos mais recentes da base histórica. Os PU’s calculados para cada dia são utilizados para
+o cálculo dos PU’s médios por patamar de carga (leve, média e pesada), por tipo de dia (dia útil e final de
+semana/feriado) e por mês.
+2.1.4.3.5. Em virtude da sazonalidade das demais fontes não ser explícita, os patamares dessas fontes são
+considerados um mesmo valor para todos os períodos.
+2.2. Representação em modelo com horizonte de curto prazo
+2.2.1.Usinas de geração de fonte eólica
+2.2.1.1.Metodologia
+2.2.1.1.1. A representação das usinas eólicas no primeiro mês operativo do modelo de otimização da
+operação de curto prazo é realizada com base na previsão gerada pelo modelo de previsão eólica semanal.
+2.2.1.1.2. O modelo de previsão eólica semanal fornece previsões ou estimativas de geração para três
+blocos, sendo que cada bloco é composto pelas usinas listadas a seguir:
+(a) Bloco 1: usinas eólicas dos Tipos I, II-B e II-C;
+(b) Bloco 2: usinas eólicas do Tipo III; e
+(c) Bloco 3: usinas eólicas da expansão com data de entrada em operação comercial prevista no
+primeiro mês operativo.
+2.2.1.1.3. O resultado do modelo de previsão é dado pelo somatório dos montantes de geração dos três
+blocos.
+2.2.1.1.4. A metodologia adotada para a realização da previsão do Bloco 1 consiste na criação de um modelo
+que relaciona as curvas Vento x Potência, que são estimadas pelo modelo de previsão eólica semi-horário e
+voltado para o curtíssimo prazo, com dados previstos provenientes de modelos numéricos de tempo
+(modelos meteorológicos), que são fornecidos por provedores externos. Os parâmetros do modelo são
+ajustados de forma que a previsão da geração eólica consiga incorporar adequadamente as características
+do comportamento de médio e curto prazo.
+2.2.1.1.5. Na sequência, as previsões são selecionadas e/ou combinadas, agregadas por subsistema, semana
+operativa e patamar de carga.
+2.2.1.1.6. A geração das usinas que compõem o Bloco 2 é estimada através de um modelo que utiliza os
+montantes históricos de geração observada das usinas do Bloco 1 (Tipo I, II-B e II-C) e das usinas do Bloco 2
+(Tipo III). Em seguida, o montante de previsão do Bloco 1 é aplicado a esse modelo gerando a estimativa do
+montante de geração das usinas do Bloco 2.
+2.2.1.1.7. A estimação da geração de cada usina da expansão, que forma o Bloco 3, é feita a partir de uma
+relação de similaridade da usina com as usinas mais próximas geograficamente contidas no Bloco 1,
+ponderadas pela relação da usina com as potências das usinas mais próximas.
+Endereço na internet: http://www.ons.org.br 6 / 23
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologias para
+2.4 Operacional 2025.03 25/03/2025
+estudos energéticos
+2.2.1.1.8. Em caso de indisponibilidade de algum modelo de previsão numérica de tempo, o processo de
+previsão de geração se dá com os modelos disponíveis no momento de execução do processo. Em caso de
+indisponibilidade de todos os modelos de previsão numérica de tempo, é utilizada a simulação feita com o
+modelo iniciado vinte e quatro horas antes da atual. Em caso de nova indisponibilidade, utiliza-se a simulação
+feita com quarenta e oito horas de antecedência, e assim por diante.
+2.2.1.1.9. A metodologia detalhada do modelo de previsão de geração eólica semanal é apresentada em
+Nota Técnica ONS [5].
+2.2.2.Usinas de geração de outras fontes de energia
+2.2.2.1. A representação das usinas não simuladas individualmente das demais fontes de energia, para o
+modelo de curto prazo é realizada conforme descrito no item 2.1.
+2.2.3. Centrais Geradoras de Micro e Minigeração Distribuída (MMGD)
+2.2.3.1. O processo de previsão de carga global para o PMO estabelece os valores de energia para os modelos
+de otimização energética. A carga global prevista será atendida por diferentes fontes de geração, simuladas
+e não simuladas. Uma parcela da carga atendida por geração não simulada será atendida por MMGD,
+considerando autoconsumo e injeção na rede.
+2.2.3.2. Os valores de geração de MMGD são obtidos a partir das instalações existentes, com base nos dados
+publicados pela ANEEL e acrescido das novas instalações que ocorrerão ao longo do período de planejamento
+previstas pelo ONS. Os ritos de atualização das previsões estão detalhados no relatório da Fase 2 do GT
+MMGD disponibilizado no Portal de Relacionamento do ONS e no portal do CT PMO/PLD. Também são
+disponibilizados os dados utilizados no processo de atualização das previsões.
+2.2.3.3. Os valores de geração de MMGD são atualizados mensalmente de acordo com o estudo do PMO.
+Nos estudos do PMO que não forem meses de atualização das previsões de carga para os Estudos de
+Planejamento da Operação Energética de Médio Prazo e revisões quadrimestrais do ciclo anual de
+planejamento da operação energético, somente os meses do horizonte de estudo do PMO serão atualizados.
+Nos demais meses, todo horizonte de planejamento é atualizado.
+2.2.3.4. A expansão das instalações de MMGD e respectivas gerações de energia serão obtidas com a
+utilização do Modelo de Mercado da Micro e Minigeração Distribuída (4MD) da EPE [3]. Sendo os valores de
+potência instalada previstos pelo modelo 4MD atualizados em função da potência instalada verificada
+disponibilizada pela ANEEL. É realizada a conversão dessa potência instalada em geração.
+2.2.3.4.1. No caso da MMGD fotovoltaica, a geração é estimada utilizando-se a irradiação diária global
+média no plano inclinado, fornecida pelo Atlas Brasileiro de Energia Solar [4], e aplicando uma taxa de
+performance estimada para os segmentos.
+2.2.3.4.2. A geração das demais fontes é estimada pelo ONS por subsistema, utilizando-se de fatores de
+capacidade de usinas do SIN com características semelhantes.
+2.2.3.4.3. A geração prevista é desagregada em patamares, seguindo a tabela de intervalo dos patamares
+de carga, referida no Submódulo 4.4.
+2.2.3.4.4. No caso da MMGD fotovoltaica, são calculados os pontos por unidade de profundidade (PU’s da
+geração média) por subsistema, com base em dados históricos horários de MMGD fotovoltaica. Esses dados
+abrangem até os 5 anos mais recentes da base histórica. Os PU’s calculados para cada dia são utilizados para
+o cálculo dos PU’s médios por patamar de carga (leve, média e pesada), por tipo de dia (dia útil e final de
+semana/feriado) e por mês.
+Endereço na internet: http://www.ons.org.br 7 / 23
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologias para
+2.4 Operacional 2025.03 25/03/2025
+estudos energéticos
+2.2.3.4.5. Em virtude da sazonalidade das demais fontes não ser explícita, os patamares dessas fontes são
+considerados um mesmo valor para todos os períodos.
+2.3. Representação em modelo com horizonte de curtíssimo prazo
+2.3.1.Geração de fonte eólica
+2.3.1.1.Usinas dos Tipos I e II
+2.3.1.1.1. A representação desta fonte para as usinas dos Tipos I, II-B e II-C no modelo de otimização da
+operação de curtíssimo prazo é feita a partir da previsão de geração eólica gerada pelo modelo de previsão
+eólica semi-horário.
+2.3.1.1.2. A metodologia adotada para a realização da previsão do modelo semi-horário consiste na criação
+dinâmica de curvas Vento x Potência, nas quais se aplicam dados ajustados de previsão numérica de tempo
+para a obtenção da geração eólica prevista. Os dados previstos, provenientes de modelos numéricos de
+tempo, são fornecidos por provedores externos.
+2.3.1.1.3. Mais de um modelo de previsão pode ser utilizado para a previsão da geração. Ao final do
+processo, as previsões de todos os modelos são combinadas levando-se em consideração o nível de
+assertividade de cada previsão obtida.
+2.3.1.1.4. Como resultado desse modelo de previsão, tem-se a previsão de geração da fonte eólica para
+cada meia hora, em um horizonte que se estende do dia corrente até 9 dias à frente.
+2.3.1.1.5. Em caso de indisponibilidade de algum modelo de previsão numérica de tempo, o processo de
+previsão de geração se dá com os modelos disponíveis no momento de execução do processo. Em caso de
+indisponibilidade de todos os modelos de previsão numérica de tempo, é utilizada a simulação feita com o
+modelo iniciado vinte e quatro horas antes da atual. Em caso de nova indisponibilidade, utiliza-se a simulação
+feita com quarenta e oito horas de antecedência, e assim por diante.
+2.3.1.1.6. O detalhamento da metodologia do modelo de previsão de geração eólica semi-horário é
+apresentado em [6].
+2.3.1.1.7. Após o processamento do modelo de previsão, são consideradas as manutenções nas unidades
+geradoras eólicas para o primeiro dia do horizonte do modelo de otimização da operação de curtíssimo prazo.
+2.3.1.2.Usinas do Tipo III
+2.3.1.2.1. A representação desta fonte para as usinas do Tipo III no modelo de otimização da operação de
+curtíssimo prazo é feita a partir de uma regra de estimativa, definida na Nota Técnica [7].
+2.3.2.Geração de fonte fotovoltaica
+2.3.2.1.Usinas do Tipos I e II
+2.3.2.1.1. A representação desta fonte para as usinas dos tipos I, II-B e II-C no modelo de otimização da
+operação de curtíssimo prazo é feita a partir da previsão de geração fotovoltaica gerada pelo modelo de
+previsão solar fotovoltaico semi-horário.
+2.3.2.1.2. A metodologia adotada para a realização da previsão do modelo semi-horário consiste na criação
+de modelos, nos quais se aplicam dados de previsão numérica de tempo para a obtenção da geração solar
+Endereço na internet: http://www.ons.org.br 8 / 23
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologias para
+2.4 Operacional 2025.03 25/03/2025
+estudos energéticos
+fotovoltaica prevista. Os dados previstos, provenientes de modelos numéricos de tempo, são fornecidos por
+provedores externos.
+2.3.2.1.3. Mais de um modelo de previsão pode ser utilizado para a previsão da geração. Ao final do
+processo, as previsões de todos os modelos são combinadas levando-se em consideração o nível de
+assertividade de cada previsão obtida.
+2.3.2.1.4. Como resultado desse modelo de previsão, tem-se a previsão de geração solar fotovoltaica para
+cada meia hora, em um horizonte que se estende do dia corrente até 9 dias à frente.
+2.3.2.1.5. Em caso de indisponibilidade de algum modelo de previsão numérica de tempo, o processo de
+previsão de geração se dá com os modelos disponíveis no momento de execução do processo. Em caso de
+indisponibilidade de todos os modelos de previsão numérica de tempo, é utilizada a simulação feita com o
+modelo iniciado vinte e quatro horas antes da atual. Em caso de nova indisponibilidade, utiliza-se a simulação
+feita com quarenta e oito horas de antecedência, e assim por diante.
+2.3.2.1.6. O detalhamento da metodologia do modelo de previsão de geração fotovoltaica semi-horário é
+apresentado em [8].
+2.3.2.1.7. Após o processamento do modelo de previsão, são consideradas as manutenções nas unidades
+geradoras solares para o primeiro dia do horizonte do modelo de otimização da operação de curtíssimo
+prazo.
+2.3.2.2.Usinas do Tipo III
+2.3.2.2.1. A representação desta fonte para as usinas do Tipo III no modelo de otimização da operação de
+curtíssimo prazo é feita a partir de uma regra de estimativa, definida na Nota Técnica [7].
+2.3.3.Geração de fonte hidráulica e térmicas
+2.3.3.1. Usinas do Tipos II-B, II-C e III
+2.3.3.1.1. A representação desta fonte para as usinas do Tipo III no modelo de otimização da operação de
+curtíssimo prazo é feita a partir de uma regra de estimativa, definida na Nota Técnica [7].
+2.3.4.Centrais Geradoras de Micro e Minigeração Distribuída (MMGD)
+2.3.4.1. O ONS estima a carga diária a ser atendida pela MMGD fotovoltaica das áreas geoelétricas,
+subsistemas e SIN com base em modelo de estimativa de geração. O modelo consiste em um cálculo
+utilizando-se da potência instalada, fator de performance dos inversores e irradiância solar.
+2.3.4.1.1. A potência instalada de todas as instalações de MMGD existente no país é obtida com base em
+dados disponibilizados pela ANEEL.
+2.3.4.1.2. Os dados de radiação solar horários utilizados para o processo de estimativa de micro e
+minigeração distribuída são originários de dados de reanálise do Programa de Observação da Terra, da União
+Europeia.
+2.3.4.1.3. Os dados de radiação solar horários previstos utilizados para o processo de previsão de micro e
+minigeração distribuída são originários do Centro Europeu de Previsões Meteorológicas a Médio Prazo.
+2.3.4.1.4. Para as demais fontes de MMGD, a carga mensal a ser atendida é estimada com base na potência
+instalada verificada em até dois meses anteriores ao mês corrente e no fator de capacidade extraído de
+plantas centralizadas.
+Endereço na internet: http://www.ons.org.br 9 / 23
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologias para
+2.4 Operacional 2025.03 25/03/2025
+estudos energéticos
+2.3.4.1.5. Maiores detalhes sobre os ritos de atualização da estimação histórica e das previsões estão
+detalhados nos relatórios da Fase 1 e Fase 2 do GT MMGD disponibilizado no Portal de Relacionamento do
+ONS e no portal do CT PMO/PLD.
+3. METODOLOGIA PARA CONSOLIDAÇÃO DA PREVISÃO DE CARGA
+3.1. Consolidação para o modelo com horizonte de médio prazo
+3.1.1.Diretrizes Gerais
+3.1.1.1. O processo de previsão de carga para os estudos de Planejamento da Operação Energética de Médio
+Prazo encontra-se definido no Submódulo 3.5 - Consolidação da previsão de carga para planejamento da
+operação.
+3.1.1.2. Esse processo é dividido em duas etapas: na primeira etapa obtém-se os dados necessários para
+embasamento das previsões e na segunda etapa são definidas as previsões de carga global mensal de energia
+e demanda para o horizonte de estudo.
+3.1.1.3. Esse processo é realizado em conjunto com a EPE e a CCEE, conforme Nota Técnica publicada
+anualmente [9].
+3.1.2.Levantamento dos dados
+3.1.2.1. O ONS solicita aos agentes de distribuição, consumidores livres e potencialmente livres,
+autoprodutores e produtores independentes os dados de carga global de energia em base mensal na unidade
+MWmed.
+3.1.2.2. As previsões de demanda ativa máxima global dos agentes, em MW, são obtidos do processo de
+previsão de carga para o planejamento da operação elétrica, conforme estabelecido no Submódulo 3.5.
+3.1.2.3. O ONS calcula a carga global de energia verificada com base na geração de MMGD estimada para o
+mês, nos dados verificados de geração oriundos do sistema de supervisão do ONS e nos dados verificados de
+geração fornecidos pela CCEE.
+3.1.2.4. O ONS obtém com base nos dados da ANEEL, a potência instalada de todas as instalações de MMGD
+existente no país.
+3.1.2.5. O ONS obtém os dados de irradiação diária global média a partir do Atlas Brasileiro de Energia Solar
+do Instituto Nacional de Pesquisas Espaciais – INPE.
+3.1.3.Previsões de Carga
+3.1.3.1. O ONS analisa as previsões de carga global de energia encaminhadas pelos agentes, realizando
+comparações com a carga verificada e com as previsões de carga encaminhadas para o Programa Mensal da
+Operação – PMO. Em caso de dúvidas ou divergências, solicita esclarecimento ao agente.
+3.1.3.2. O ONS, em reunião conjunta com a EPE e CCEE, define os cenários macroeconômicos para o
+horizonte de estudo de até 5 anos.
+3.1.3.3. Definido o cenário macroeconômico, o ONS em conjunto com a EPE e CCEE define as previsões de
+consumo e perdas totais para o horizonte de estudo e com base nessas previsões calcula-se as projeções de
+carga global de energia, em periodicidade anual, para o horizonte de estudo.
+Endereço na internet: http://www.ons.org.br 10 / 23
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologias para
+2.4 Operacional 2025.03 25/03/2025
+estudos energéticos
+3.1.3.4. Desagrega-se as projeções anuais de carga global de energia em base mensal, utilizando a
+sazonalidade histórica. As previsões mensais são desagregadas em patamares de carga, sendo esses
+patamares de carga reavaliados anualmente como definido no Submódulo 4.4.
+3.1.3.5. Com base nas previsões de energia anual, o ONS em conjunto com a EPE e a CCEE define as projeções
+de demanda ativa máxima, utilizando-se os fatores de carga históricos e a sazonalidade média mensal para
+a desagregação dessa previsão.
+3.1.3.6. O ONS prevê os valores de MMGD com base na potência instalada de dois meses anteriores ao
+estudo do PMO no qual será considerado e da irradiação diária global média de cada mês, conforme
+metodologia divulgada em Nota Técnica no Portal de Relacionamento do ONS e no Portal do CT PMO/PLD.
+3.2. Consolidação para o modelo com horizonte de curto prazo
+3.2.1.Diretrizes Gerais
+3.2.1.1. O Submódulo 4.4 define o processo de consolidação da previsão de carga para o PMO.
+3.2.1.2. Esse processo é dividido em duas etapas: na primeira etapa são levantados todos os dados
+necessários para embasamento das previsões de carga global de energia e na segunda etapa são definidas
+as previsões de carga global de energia mensal e semanal para o horizonte de estudo.
+3.2.1.3. As premissas, análises e resultados são publicadas semanalmente, conforme [10], e apresentadas
+aos agentes.
+3.2.2.Levantamento dos dados
+3.2.2.1. O ONS solicita aos agentes de distribuição, consumidores livres e potencialmente livres,
+autoprodutores e produtores independentes os dados de carga global de energia mensal e semanal em
+MWmed, como definido no Submódulo 3.5, para o horizonte de estudo.
+3.2.2.2. Os agentes de distribuição enviam ao ONS os dados verificados de geração horária das usinas que
+injetam em sua rede de Distribuição ou em DIT que não constam na CCEE, para composição da carga global
+de energia.
+3.2.2.3. O ONS obtém com base nos dados da ANEEL a potência instalada de todas as instalações de MMGD
+existente no país.
+3.2.2.4. O ONS obtém os dados de irradiação diária global média a partir do Atlas Brasileiro de Energia Solar
+do INPE.
+3.2.2.5. O ONS calcula a carga global de energia verificada com base na geração de MMGD estimada para o
+mês, nos dados verificados de geração oriundos do sistema de supervisão do ONS, nos dados verificados de
+geração fornecidos pela CCEE e nos dados de geração fornecidos pelos agentes.
+3.2.2.6. O ONS executa os modelos de previsão internos para embasamento das previsões de carga global
+de energia.
+3.2.2.7. O ONS utiliza como premissa para as previsões de carga global de energia o cenário meteorológico
+previsto pela equipe de meteorologia do ONS para o horizonte de estudo.
+3.2.3.Previsões de Carga
+3.2.3.1. O ONS analisa os desvios de previsão de carga global de energia dos agentes em relação a carga
+verificada dos meses anteriores ao PMO. Destaca-se que, ao somar a carga dos agentes que compõem aquele
+Endereço na internet: http://www.ons.org.br 11 / 23
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologias para
+2.4 Operacional 2025.03 25/03/2025
+estudos energéticos
+subsistema e a parcela de perdas da Rede Básica obtém-se as previsões de carga global de energia dos
+subsistemas utilizando as informações dos agentes.
+3.2.3.2. O ONS analisa os desvios dos dados de carga global de energia verificados em relação as previsões
+consolidadas para os estudos do planejamento da operação energética de médio prazo e as previsões dos
+modelos de previsão de carga global de energia do ONS, dos meses anteriores ao PMO.
+3.2.3.3. O ONS analisa o comportamento sazonal histórico da carga global de energia para embasamento
+das previsões.
+3.2.3.4. O ONS define em reunião, com a participação da CCEE, as previsões de carga global de energia
+mensais para o horizonte de estudo, com base nas análises realizadas nas etapas 2.1, 2.2 e 2.3, nas previsões
+de carga global de energia informadas pelos agentes, nas previsões de carga global de energia dos modelos
+e nas previsões de carga global de energia para os estudos de planejamento da operação energética de médio
+prazo. Sendo realizado ajustes que julgar de relevância em função do comportamento da carga, das previsões
+meteorológicas e de outras variáveis que tenham interferido nos resultados.
+3.2.3.5. O ONS desagrega as previsões mensais do primeiro mês do horizonte em semanas operativas com
+base nos valores verificados, nas informações meteorológicas para o período (sendo considerada de forma
+qualitativa na primeira semana operativa e nas demais semanas as previsões seguem de forma quantitativas)
+e nas previsões de carga global de energia dos modelos do ONS.
+3.2.3.6. Consolidadas as previsões de carga global de energia, os valores são disponibilizados em patamares
+de carga. Sendo esses patamares de carga reavaliados anualmente como definido no submódulo 4.4 dos
+procedimentos de rede.
+3.2.3.7. O ONS prevê os valores de MMGD com base na potência instalada de dois meses anteriores ao
+estudo do PMO e da irradiação diária global média de cada mês, de acordo com metodologia divulgado em
+Nota Técnica no Portal de Relacionamento do ONS.
+3.3. Consolidação para o modelo com horizonte de curtíssimo prazo
+3.3.1.Diretrizes Gerais
+3.3.1.1 O processo de consolidação da previsão de carga para a Programação Diária da Operação é definido
+no Submódulo 4.4.
+3.3.1.2 O ONS considera para o processo de previsão de carga para a programação diária eletroenergética,
+estabelecida no Submódulo 4.5 – Programação Diária da Operação, os valores de carga global obtidos a partir
+do sistema de medição de supervisão do ONS, dos dados de medição de geração de usinas não
+supervisionadas que injetam na Rede de Distribuição informados pela CCEE e de dados de medição de
+geração, que não estão disponíveis na CCEE, enviados pelos agentes de distribuição.
+3.3.2.Processo de previsão de carga
+3.3.2.1 O ONS elabora as previsões de curvas de carga global em intervalos semi-horários referentes às áreas
+e subsistemas.
+3.3.2.2 O ONS utiliza o modelo de previsão de carga PrevCargaDESSEM, conforme Manual de uso [11], em
+conjunto com outros modelos desenvolvidos pelo ONS.
+3.3.2.3 O ONS considera também outras informações para definição dos valores previstos da curva de carga
+global diária, como: informações obtidas internamente de variáveis meteorológicas previstas para o dia da
+operação e de eventos especiais que possam incorrer em um comportamento atípico da curva de carga
+diária.
+Endereço na internet: http://www.ons.org.br 12 / 23
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologias para
+2.4 Operacional 2025.03 25/03/2025
+estudos energéticos
+3.3.2.4 O ONS considera as perdas na Rede Básica na carga dos subsistemas.
+3.3.2.5 No caso de necessidade de envio de previsões encaminhadas pelos agentes envolvidos, estas serão
+analisadas e consideradas ou não para as previsões de áreas e subsistemas.
+3.3.2.6 O ONS disponibiliza a Previsão de Curva de Carga Global de Demanda Diária por áreas geoelétricas,
+subsistemas e SIN.
+3.3.2.7 O ONS disponibiliza a Previsão de Carga Global de Demanda Diária por patamar para os subsistemas
+e SIN, a partir do dia “D+1” até o final da semana operativa. Sendo esses patamares de carga reavaliados
+anualmente como definido no Submódulo 4.4.
+3.3.2.8 O ONS estima a carga global diária a ser atendida pela MMGD fotovoltaica das áreas geoelétricas,
+subsistemas e SIN com base na potência instalada verificada de dois meses anteriores ao mês corrente e em
+dados horários de reanálise de radiação solar.
+3.3.2.9 Para as demais fontes de MMGD, a carga mensal a ser atendida é estimada com base na potência
+instalada verificada em até dois meses anteriores ao mês corrente e no fator de capacidade extraído de
+plantas centralizadas, conforme Nota Técnica.
+3.3.2.10 O ONS estima a carga global diária a ser atendida pela MMGD por barramento, com base nas
+previsões semi-horárias por área geoelétrica, rateada a partir das estimativas elaboradas pelos agentes para
+o estudo elétrico mensal.
+3.3.2.11 O ONS estima a geração das usinas tipo III utilizando-se de modelos desenvolvidos pelo próprio ONS
+e que utiliza de histórico de geração atualizado semanalmente pela CCEE, conforme apresentado na Nota
+Técnica [7].
+4. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa nº 1.032, de 26 de julho de 2022.
+[2] CNPE. Resolução nº 22, de 05 de outubro de 2022.
+[3] Empresa de Pesquisa Energética – EPE. Modelo de Mercado da Micro e Minigeração Distribuída (4MD):
+Metodologia, disponível no site da EPE.
+[4] Instituto Nacional de Pesquisas Espaciais – INPE. Atlas Brasileiro de Energia Solar – 2ª Edição, 2017
+[5] ONS. Nota Técnica ONS-DPL – Modelo de Previsão Eólica em Base Semanal para até Um Mês à Frente,
+disponível no Portal de Relacionamento do ONS.
+[6] ONS. Nota Técnica ONS-DPL – Desenvolvimento Metodológico para Previsão de Geração de Fonte
+Eólica, disponível no Portal de Relacionamento do ONS.
+[7] ONS. Nota Técnica ONS-DPL - Metodologia de Estimativa de Geração Não Simuladas Tipo IIB e IIC
+(fontes Térmicas e Hidráulicas) e Tipo III, disponível no Portal de Relacionamento do ONS.
+[8] ONS. Nota Técnica ONS-DPL – Desenvolvimento Metodológico para Previsão de Geração Solar
+Fotovoltaica, disponível no Portal de Relacionamento do ONS.
+Endereço na internet: http://www.ons.org.br 13 / 23
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologias para
+2.4 Operacional 2025.03 25/03/2025
+estudos energéticos
+[9] CCEE.EPE.ONS Nota Técnica – Previsão de carga para o Planejamento Anual da Operação Energética
+do Sistema Interligado Nacional.
+[10] ONS. Relatório Executivo do Programa Mensal de Operação – item “Previsão de carga”.
+[11] Centro de Pesquisas de Energia Elétrica – CEPEL. Manual de metodologia e uso doPrevCargaDESSEM.
+5. ANEXOS
+Anexo A – Dados de entrada dos modelos da cadeia energética.
+Endereço na internet: http://www.ons.org.br 14 / 23
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologias para estudos energéticos 2.4 Operacional 2025.03 25/03/2025
+ANEXO A - DADOS DE ENTRADA DOS MODELOS DA CADEIA ENERGÉTICA
+A.1 A Tabela 1 apresenta os dados de entrada utilizados nos estudos e modelos computacionais da cadeia principal para formação do Custo Marginal da Operação
+– CMO. Os modelos incluem os horizontes de estudo para o médio, curto e curtíssimo prazo [1].
+A.2 Os dados de entrada listados na Tabela 1 são aqueles que podem ser incorporados nos modelos computacionais mencionados, respeitando as suas
+especificidades.
+A.3 O detalhamento dos dados de entrada é disponibilizado pelo ONS no seu Portal de Relacionamento de acordo com o modelo relacionado.
+Tabela 1 – Dados de entrada dos modelos computacionais NEWAVE, DECOMP e DESSEM.
+PLAN, PMO (NEWAVE) Formação do CMO semi-horário
+PMO, Revisão semanal PMO (DECOMP)
+Procedi- (DESSEM)
+ID mentos de Dado de entrada1 Origem
+Periodicidade de Vigência do Dado Periodicidade de Vigência do Dado Periodicidade Vigência do Dado
+Rede
+atualização (horizonte) atualização (horizonte) de atualização (horizonte)
+ONS, EPE, até o final do
+001 3.3; 3.5 Carga global de energia - Dados Previstos (PLAN) Quadrimestral Não utilizado Não utilizado Não utilizado Não utilizado
+CCEE horizonte do modelo
+até o final do
+até o final do
+002 4.3; 4.4 Carga global de energia - Dados Previstos (PMO) ONS, CCEE Mensal horizonte do modelo Mensal Não utilizado Não utilizado
+horizonte do modelo
+de curto prazo
+Até a última semana Até o final da semana
+Carga global de energia - Dados Previstos (Revisão
+003 4.3; 4.4 ONS Não utilizado Não utilizado Semanal operativa do 1º mês Diária operativa que estiver
+semanal PMO e Formação do CMO semi-horário)
+de estudo sendo programada
+1.2; 2.4; 3.3; Poder
+Até o final da semana
+3.8; 4.3; 4.5; Concedente, até o final do Até o final do
+004 Dados técnicos de aproveitamentos hidroelétricos Mensal Mensal Diária operativa que estiver
+4.6; 4;7 ;7.7; ANEEL, horizonte do modelo horizonte do modelo
+sendo programada
+6.18 Agentes, ONS
+2.4; 3.3; 4.3; DPME, Até o final da semana
+Enchimento do Volume Morto de novos até o final do Até o final do
+005 4.5; 7.7; ANEEL, Mensal Semanal Diária operativa que estiver
+reservatórios horizonte do modelo horizonte do modelo
+6.18 Agentes sendo programada
+Endereço na internet: http://www.ons.org.br 15 / 23
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologias para estudos energéticos 2.4 Operacional 2025.03 25/03/2025
+PLAN, PMO (NEWAVE) Formação do CMO semi-horário
+PMO, Revisão semanal PMO (DECOMP)
+Procedi- (DESSEM)
+ID mentos de Dado de entrada1 Origem
+Periodicidade de Vigência do Dado Periodicidade de Vigência do Dado Periodicidade Vigência do Dado
+Rede
+atualização (horizonte) atualização (horizonte) de atualização (horizonte)
+2.4, 3.3, 4.3; Cronograma de entrada em operação das usinas DPME, até o final do Até o final do
+006 Mensal1 Mensal Não utilizado Não utilizado
+7.2; 6.18 hidroelétricas e termoelétricas ANEEL horizonte do modelo horizonte do modelo
+Até o final da semana
+2.4, 4.5; Entrada efetiva em operação das usinas até o final do Até o final do
+007 ANEEL Mensal Semanal Diária operativa que estiver
+6.18 hidroelétricas e termoelétricas horizonte do modelo horizonte do modelo
+sendo programada
+Diária,
+2.4; 2.5; Mensal, respeitada Semanal, respeitada
+Agentes, respeitada a Até o final da semana
+3.3,3.7; 3.8; a possibilidade de até o final do a possibilidade de Até o final do
+008 Condicionantes Operativos Hidráulicos ANA, IBAMA, possibilidade de operativa que estiver
+4.3; 4.5; 4.7; representação no horizonte do modelo representação no horizonte do modelo
+ONS, ANEEL representação sendo programada
+5.5; 6.18 modelo modelo
+no modelo
+Mensal, respeitada
+Até o final da semana
+ANEEL, a possibilidade de até o final do Até o final do
+009 3.3; 4.3; 4.5 Restrições de geração hidráulica e térmica Semanal Diária operativa que estiver
+Agentes, ONS representação no horizonte do modelo horizonte do modelo
+sendo programada
+modelo
+Mensal: até o final do
+horizonte do modelo
+1.2; 2.4; 3.3; de curto prazo
+Até o final do No mínimo no 1º dia a
+010 3.7; 4.3; 4.5; Volumes de espera por reservatório ONS, Agentes Mensal2, Anual3 Semanal Diária
+horizonte do modelo ser programado
+5.5; 6.18; Anual: até o final do
+horizonte do modelo
+de médio prazo
+2.4; 3.3; 4.3;
+011 Afluência do passado recente em vazões ONS Mensal Até 12 meses Não utilizado Não utilizado Não utilizado Não utilizado
+4.6;
+1 Para o NEWAVE, a data de entrada é considerada no mês subsequente à data de previsão, exceto quando a previsão é para o primeiro dia do mês, quando é considerada no próprio mês.
+2 As atualizações são realizadas quando a alteração excede um mês de duração.
+3 Implementação conforme Plano Anual de Prevenção de Cheias, estabelecido no Submódulo 3.7 - Planejamento anual de prevenção de cheias.
+Endereço na internet: http://www.ons.org.br 16 / 23
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologias para estudos energéticos 2.4 Operacional 2025.03 25/03/2025
+PLAN, PMO (NEWAVE) Formação do CMO semi-horário
+PMO, Revisão semanal PMO (DECOMP)
+Procedi- (DESSEM)
+ID mentos de Dado de entrada1 Origem
+Periodicidade de Vigência do Dado Periodicidade de Vigência do Dado Periodicidade Vigência do Dado
+Rede
+atualização (horizonte) atualização (horizonte) de atualização (horizonte)
+2.4; 3.3; 4.3; Armazenamentos previstos por reservatório para
+012 ONS, Agentes Mensal Início da Simulação Semanal Início da Simulação Diária Início da Simulação
+4.5; 6.18 o início do horizonte de estudo
+Séries históricas de vazões naturais médias até o final do
+013 2.4; 3.3, 4.6 ONS Anual, PMO de Jan4 Não utilizado Não utilizado Não utilizado Não utilizado
+mensais horizonte do modelo
+Até o final da semana
+2.4; 2.5; 3.7; Até o final do
+014 Previsão de vazões naturais ONS Não utilizado Não utilizado Semanal Diária operativa que estiver
+4.3; 4.5; 4.6 horizonte do modelo
+sendo programada
+1.2; 2.4; 3.3; Eventual, a ser Até o final da semana
+Eventual, a ser até o final do Eventual, a ser até o final do
+015 4.3; 4.5; 4.6; Vazões de usos consuntivos da água ANA, ONS atualizado no operativa que estiver
+atualizado no PMO horizonte do modelo atualizado no PMO horizonte do modelo
+6.18 PMO sendo programada
+2.4; 3.3; 4.2; Cronograma de manutenção de unidades Até o final da semana
+ANEEL,
+016 4.3; 4.5; geradoras das usinas hidroelétricas simuladas Não utilizado5 Não utilizado Semanal 1º mês Diária operativa que estiver
+Agentes
+6.18 individualmente sendo programada
+Até o final da semana
+1.2; 2.4; 3.3; Anual, no PMO de até o final do Anual, no PMO de Até o final do Anual, no PMO
+017 Atualização da Função de Custo do Déficit CCEE operativa que estiver
+6.18 JAN horizonte do modelo JAN horizonte do modelo de JAN
+sendo programada
+Poder
+Anual, no PMO de até o final do Anual, no PMO de Até o final do
+018 3.3 Penalidades relativas a requisitos hidráulicos Concedente, Não utilizado Não utilizado
+JAN horizonte do modelo JAN horizonte do modelo
+ANEEL
+Anual, no PMO de até o final do Anual, no PMO de Até o final do
+019 2.4; 3.3 CMSE Não utilizado Não utilizado
+Mecanismos de Aversão ao Risco JAN horizonte do modelo JAN horizonte do modelo
+4 Haverá atualização em qualquer momento caso haja revisão das séries históricas ou quando houver a entrada de novos aproveitamentos.
+5 O modelo de médio prazo não está apto para representação explícita de manutenção de usinas hidroelétricas.
+Endereço na internet: http://www.ons.org.br 17 / 23
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologias para estudos energéticos 2.4 Operacional 2025.03 25/03/2025
+PLAN, PMO (NEWAVE) Formação do CMO semi-horário
+PMO, Revisão semanal PMO (DECOMP)
+Procedi- (DESSEM)
+ID mentos de Dado de entrada1 Origem
+Periodicidade de Vigência do Dado Periodicidade de Vigência do Dado Periodicidade Vigência do Dado
+Rede
+atualização (horizonte) atualização (horizonte) de atualização (horizonte)
+Mensal: até o Até o final da semana
+2.4; 3.3; 4.3; Suprimentos previstos de energia e de demanda Mensal / Até o final do
+020 Agente horizonte do modelo Semanal Diária operativa que estiver
+4.5; 6.18 Administración Nacional de Electricidad – ANDE, Quadrimestral, no horizonte do modelo
+de curto prazo sendo programada
+potência contratada e consumo interno da UHE PMO de JAN, MAI e
+Itaipu 50 Hz SET
+Quadrimestral: até o
+horizonte do modelo
+de médio prazo
+Até o final do
+021 2.4; 4.3 Geração mínima na UHE Itaipu 50 Hz Agente Não utilizado Não utilizado Mensal Não utilizado Não utilizado
+horizonte do modelo
+Mensal: até o
+horizonte do modelo
+de curto prazo
+3.3; 3.8; Nível do canal de fuga das UHEs com variação Mensal / Anual no Até o final do
+022 Agente, ONS Mensal Não utilizado Não utilizado
+4.3; 6.18 mensal PMO de JAN horizonte do modelo
+Quadrimestral: até o
+horizonte do modelo
+de médio prazo
+Até o final da semana
+023 4.1; 4.5 Reserva de Potência / Áreas de controle ONS Não utilizado Não utilizado Não utilizado Não utilizado Diária operativa que estiver
+sendo programada
+Poder
+Dados cadastrais e técnicos das usinas Concedente, até o final do
+024 3.3; 6.18 Mensal Não utilizado Não utilizado Não utilizado Não utilizado
+termoelétricas ANEEL, CCEE, horizonte do modelo
+Agentes
+Até o final da semana
+2.4; 4.5; Unit commitment (cadastrais) das usinas Anual, no PMO
+025 Agentes, ONS Não utilizado Não utilizado Não utilizado Não utilizado operativa que estiver
+6.18 termoelétricas de maio6
+sendo programada
+6 Poderá haver atualização dos dados cadastrais em caso de publicação de comando regulatório.
+Endereço na internet: http://www.ons.org.br 18 / 23
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologias para estudos energéticos 2.4 Operacional 2025.03 25/03/2025
+PLAN, PMO (NEWAVE) Formação do CMO semi-horário
+PMO, Revisão semanal PMO (DECOMP)
+Procedi- (DESSEM)
+ID mentos de Dado de entrada1 Origem
+Periodicidade de Vigência do Dado Periodicidade de Vigência do Dado Periodicidade Vigência do Dado
+Rede
+atualização (horizonte) atualização (horizonte) de atualização (horizonte)
+Pode ser atualizado
+Diária,
+a qualquer Semanal, respeitada
+respeitada a Até o final da semana
+3.3; 4.3; 4.5; Repotenciação, suspensão e desativação de momento, até o final do a possibilidade de Até o final do
+026 ANEEL possibilidade de operativa que estiver
+6.18 usinas simuladas individualmente respeitada a data horizonte do modelo representação no horizonte do modelo
+representação sendo programada
+de processamento modelo
+no modelo
+do modelo
+Quadrimestral7 nos a partir do 3º mês até
+2.4; 3.3;
+027 Geração térmica máxima Agente PMOs JAN, MAI e o final do horizonte do Não utilizado Não utilizado Não utilizado Não utilizado
+6.18
+SET modelo ou até o final
+da vigência do
+contrato, se menor
+que o horizonte.
+até o 2º mês/ até o Até o final da semana
+Dados operacionais das usinas termoelétricas ANEEL, até o 2º mês/ até o 4º
+028 4.3 Mensal Semanal 4º mês para usinas a Diária operativa que estiver
+(disponibilidade) Agentes mês para usinas a GNL
+GNL sendo programada
+Até o final da semana
+2.4; 4.5; Unit commitment (rampa de acionamento e
+029 Agentes, ONS Não utilizado Não utilizado Não utilizado Não utilizado Diária operativa que estiver
+6.18 desligamento) das usinas termoelétricas
+sendo programada
+Mensal: até o 2º mês /
+até o 4º mês para
+usinas a GNL
+Mensal/Quadrimes até o 2º mês/ até o Até o final da semana
+2.4; 3.3; 4.3; Inflexibilidades de usinas termoelétricas Tipo I e
+030 Agentes tral7 nos PMOs Quadrimestral7: a Semanal 4º mês para usinas a Diária operativa que estiver
+4.5; 6.18 Tipo II-A
+JAN, MAI e SET partir do 3º mês até o GNL sendo programada
+final do horizonte do
+modelo ou até o final
+da vigência do
+7Caso haja alteração da vigência do contrato fora da revisão quadrimestral, o agente deverá redeclarar as informações de acordo com a nova vigência.
+Endereço na internet: http://www.ons.org.br 19 / 23
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologias para estudos energéticos 2.4 Operacional 2025.03 25/03/2025
+PLAN, PMO (NEWAVE) Formação do CMO semi-horário
+PMO, Revisão semanal PMO (DECOMP)
+Procedi- (DESSEM)
+ID mentos de Dado de entrada1 Origem
+Periodicidade de Vigência do Dado Periodicidade de Vigência do Dado Periodicidade Vigência do Dado
+Rede
+atualização (horizonte) atualização (horizonte) de atualização (horizonte)
+contrato, se menor
+que o horizonte
+Valores de taxas equivalentes de
+3.3; 6.5; Anual, no PMO de Até o final do Anual, no PMO de Até o final do
+031 indisponibilidade forçada e de indisponibilidade EPE, ONS Não utilizado Não utilizado
+6.18 MAI horizonte do modelo MAI horizonte do modelo
+programada
+até o final do até o final do
+horizonte do modelo horizonte do modelo
+Até o final da semana
+2.4, 3.3, 4.3, Custo Variável Unitário (CVU) de usinas CCEE, ou até o final da ou até o final da Semanal ou
+032 Mensal Semanal9 operativa que estiver
+4.5; 6.18 termoelétricas vendedoras nos Leilões de Energia Agentes8 vigência do contrato, vigência do Diário10
+sendo programada
+se menor que o contrato, se menor
+horizonte que o horizonte
+até o final do até o final do Conforme
+Conforme
+Poder horizonte do modelo horizonte do modelo regulação,
+regulação, Até o final da semana
+2.4, 3.3, 4.3, CVU de usinas termoelétricas não vendedoras nos Concedente, ou até o final da ou até o final da respeitado a
+033 respeitada a data Semanal9 operativa que estiver
+4.5 Leilões de Energia ANEEL, CCEE, vigência da regulação, vigência da data de
+de processamento sendo programada
+Agentes8 se menor que o regulação, se menor processamento
+do modelo
+horizonte que o horizonte do modelo
+Poder Após ocorrência do
+Relação das usinas futuras e seus respectivos Concedente, Leilão de Energia até o final do Até o final do
+034 3.3 Mensal11 Não utilizado Não utilizado
+dados técnicos e operativos ANEEL e ou quando horizonte do modelo horizonte do modelo
+CCEE necessário
+8 Os agentes podem declarar CVU inferiores aos valores aprovados pela ANEEL ou atualizados pela CCEE a serem utilizados apenas no 1º mês.
+9 Valores declarados pelos agentes podem ser revistos semanalmente e serão considerados desde que inferiores aos valores calculados pela CCEE para o mês corrente.
+10 A atualização deverá respeitar a indicação do comando regulatório.
+11 Incluir informações quando a usina estiver no horizonte do Decomp.
+Endereço na internet: http://www.ons.org.br 20 / 23
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologias para estudos energéticos 2.4 Operacional 2025.03 25/03/2025
+PLAN, PMO (NEWAVE) Formação do CMO semi-horário
+PMO, Revisão semanal PMO (DECOMP)
+Procedi- (DESSEM)
+ID mentos de Dado de entrada1 Origem
+Periodicidade de Vigência do Dado Periodicidade de Vigência do Dado Periodicidade Vigência do Dado
+Rede
+atualização (horizonte) atualização (horizonte) de atualização (horizonte)
+Quadrimestral, nos
+3.3, 4.3, 4.5; obrigatório 1º ano, Até o final do No mínimo no 1º dia a
+035 Agentes PMOs JAN, MAI e Semanal Diária
+6,18 opcional 2º ano12 horizonte do modelo ser programado
+Cronograma de manutenção de unidades SET
+geradoras das usinas termoelétricas simuladas
+individualmente
+Limites de geração e fluxos devido a restrições da
+rede de transmissão, considerando: Mensal: até o
+- a Rede Completa e a previsão de expansão da horizonte do modelo
+Mensal (dois
+transmissão com horizonte de até 5 anos, de curto prazo
+primeiros meses) /
+conforme DPME/ANEEL Mensal13 / Até o final do
+036 3.3 ONS Quadrimestral nos Não utilizado Não utilizado
+- as intervenções em execução ou previstas de Quadrimestral: até o Semanal eventual14 horizonte do modelo
+PMOs JAN, MAI e
+longa duração na transmissão (duração > um final do horizonte do
+SET
+mês) modelo de médio
+- a representação específica da rede de prazo
+transmissão para cada modelo de otimização.
+Limites de geração e fluxos devido a restrições da
+rede de transmissão considerando:
+- as intervenções em execução ou aprovadas com
+037 2.4, 4.3 ONS Não utilizado Não utilizado Semanal até a 1ª semana Não utilizado Não utilizado
+duração < 30 dias
+- a representação específica da rede de
+transmissão para cada modelo de otimização.
+12 As declarações para usinas termoelétricas serão consideradas somente nos dois primeiros anos civis e as taxas de indisponibilidade a partir do terceiro ano.
+13 Para o NEWAVE e DECOMP, os limites impactados pela expansão da transmissão são aplicados no mês subsequente à data de previsão da DPME/ANEEL, exceto quando a previsão é para o primeiro
+dia do mês, quando os limites são aplicados no próprio mês.
+14 Durante o 1º mês do DECOMP, caso ocorra a entrada em operação de empreendimento da transmissão que altere os limites, na revisão semanal seguinte, as alterações de limites serão aplicadas no
+DECOMP no horizonte da revisão a partir das informações prévias dos limites atualizadas mensalmente.
+Endereço na internet: http://www.ons.org.br 21 / 23
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologias para estudos energéticos 2.4 Operacional 2025.03 25/03/2025
+PLAN, PMO (NEWAVE) Formação do CMO semi-horário
+PMO, Revisão semanal PMO (DECOMP)
+Procedi- (DESSEM)
+ID mentos de Dado de entrada1 Origem
+Periodicidade de Vigência do Dado Periodicidade de Vigência do Dado Periodicidade Vigência do Dado
+Rede
+atualização (horizonte) atualização (horizonte) de atualização (horizonte)
+Limites de geração e fluxos devido a restrições da
+rede de transmissão considerando: Até o final da semana
+038 2.4, 4.5 - as intervenções vigentes ONS Não utilizado Não utilizado Não utilizado Não utilizado Diária operativa que estiver
+- a representação específica da rede de sendo programada
+transmissão para o horizonte de simulação.
+1º dia da semana
+039 2.4, 4.5 Rede Elétrica interna dos subsistemas ONS Não utilizado Não utilizado Não utilizado Não utilizado Diária
+operativa
+Atualização de Montantes e fatores de Usinas CCEE, ONS, Anual, no PMO de até o final do Anual, no PMO de Até o final do
+040 2.4 Não utilizado Não utilizado
+Não Simuladas Individualmente ANEEL MAI horizonte do modelo MAI horizonte do modelo
+Cronograma de entrada em operação de usinas DPME, até o final do Até o final do
+041 3.3 Mensal Mensal Não utilizado Não utilizado
+não simuladas individualmente ANEEL horizonte do modelo horizonte do modelo
+Até o final do
+Até o final da semana
+2.4, 3.3, 4.3, Geração das Usinas Não Simuladas até o final do Mensal / semanal horizonte do modelo
+042 ONS Mensal Diária operativa que estiver
+4.5; 6.18 Individualmente horizonte do modelo para usinas eólicas / até 1º mês
+sendo programada
+operativo
+Poder Até o final da semana
+Taxa de desconto a ser utilizada nos modelos para Anual, no PMO de até o final do Anual, no PMO de até o final do Anual, no PMO
+043 3.3; 6.18 Concedente, operativa que estiver
+cálculo do valor presente dos custos JAN horizonte do modelo JAN horizonte do modelo de JAN
+ANEEL sendo programada
+Até o final da semana
+Defluência anterior aos aproveitamentos que Até o final do
+044 4.3; 4.5 ONS Não utilizado Não utilizado Semanal Diária operativa que estiver
+possuem tempo de viagem da água horizonte do modelo
+sendo programada
+Endereço na internet: http://www.ons.org.br 22 / 23
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologias para estudos energéticos 2.4 Operacional 2025.03 25/03/2025
+PLAN, PMO (NEWAVE) Formação do CMO semi-horário
+PMO, Revisão semanal PMO (DECOMP)
+Procedi- (DESSEM)
+ID mentos de Dado de entrada1 Origem
+Periodicidade de Vigência do Dado Periodicidade de Vigência do Dado Periodicidade Vigência do Dado
+Rede
+atualização (horizonte) atualização (horizonte) de atualização (horizonte)
+Anual, no PMO de até o final do Anual, no PMO de até o final do Anual, no PMO até o final do horizonte
+045 4.4 Atualização dos patamares de carga ONS
+JAN horizonte do modelo JAN horizonte do modelo de JAN do modelo
+Mensal: até o
+horizonte do modelo
+Mensal (dois
+de curto prazo
+primeiros meses) / Até o final da semana
+Informações de Micro e Minigeração Distribuída Até o final do
+046 2.4 ONS; EPE Quadrimestral nos Mensal Diária operativa que estiver
+(MMGD) Quadrimestral: até o horizonte do modelo
+PMOs JAN, MAI e sendo programada
+final do horizonte do
+SET
+modelo de médio
+prazo
+Endereço na internet: http://www.ons.org.br 23 / 23

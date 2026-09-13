@@ -1,0 +1,15 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: DESPACHO Nº 1, DE 2 DE JANEIRO DE 2026
+DATA_PUBLICACAO: 18/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=18/02/2026&jornal=515&pagina=192
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Energia Elétrica/Superintendência de Inovação e Transição Energética
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+DESPACHO Nº 1, DE 2 DE JANEIRO DE 2026
+Processo nº: 48500.000012/2026-77 Interessado: Itaqui Geração, CNPJ: 08.219.477/0001-74, Decisão: (i) não reconhecer nenhum investimento referente à realização do Projeto de PG-6921-0004/2014; e (ii) declarar o encerramento deste projeto. A íntegra deste Despacho consta dos autos e estará disponível em http://biblioteca.aneel.gov.br.
+PAULO LUCIANO DE CARVALHO
+Superintendente

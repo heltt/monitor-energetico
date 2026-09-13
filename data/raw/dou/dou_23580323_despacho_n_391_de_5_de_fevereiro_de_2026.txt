@@ -1,0 +1,15 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: DESPACHO Nº 391, DE 5 DE FEVEREIRO DE 2026
+DATA_PUBLICACAO: 09/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=09/02/2026&jornal=515&pagina=56
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Energia Elétrica/Superintendência de Regulação dos Serviços de Geração e do Mercado de Energia Elétrica
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+DESPACHO Nº 391, DE 5 DE FEVEREIRO DE 2026
+O SUPERINTENDENTE DE REGULAÇÃO DOS SERVIÇOS DE GERAÇÃO E DO MERCADO DE ENERGIA ELÉTRICA SUBSTITUTO DA AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA - ANEEL, no uso da atribuição delegada por meio do inciso do IX art. 1º da Portaria nº 6.824, de 4 de maio de 2023, e tendo em vista o que consta do Processo nº 48500.033024/2025-05, decide:
+autorizar, a parir do Programa Mensal de Operação Energética (PMO) de abril de 2026, o uso da versão 31 do modelo computacional Newave, para fins de planejamento e programação da operação do Sistema Interligado Nacional (SIN) e cálculo do Preço de Liquidação das Diferenças (PLD), pelo Operador Nacional do Sistema Elétrico (ONS) e pela Câmara de Comercialização de Energia Elétrica (CCEE).
+FELIPE ALVES CALABRIA

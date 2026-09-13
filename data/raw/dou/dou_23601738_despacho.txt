@@ -1,0 +1,27 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 18/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=18/02/2026&jornal=515&pagina=195
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado da Paraíba
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 15/2026
+Fase de Autorização de Pesquisa
+Determina cumprimento de exigência - Prazo 60 dias(250)
+846.075/2021-GG STONE MINERACAO LTDA-OF. N°6854/2026/SERFIS-PB/RN/ANM
+Fase de Concessão de Lavra
+Determina cumprimento de exigência - Prazo 60 dias(470)
+812.195/1968-COMPANHIA BRASILEIRA DE VIDROS PLANOS - CBVP-OF. N°7707/2026/SERFIS-PB/RN/ANM
+Aprova o novo Plano de Aproveitamento Econômico da jazida(416)
+846.141/2005-EBB EXTRACAO DE BETONITA DO BRASIL LTDA
+Fase de Licenciamento
+Determina cumprimento de exigência - Prazo 30 dias(718)
+846.121/2019-BRUNO WANDERLEY DE SÁ-OF. N°7847/2026/SERFIS-PB/RN/ANM
+846.182/2023-CANAA MINERACAO E TERRAPLENAGEM LTDA-OF. N°6656/2026/SERFIS-PB/RN/ANM
+ARNALDO BEZERRA LOPES DE ALMEIDA
+Gerente

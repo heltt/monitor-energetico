@@ -1,0 +1,173 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.4-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.4-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.4
+Estudos pré-operacionais de integração
+de instalações da Rede de Operação
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Estudos pré-operacionais de integração de
+7.4 Responsabilidades 2020.12 01/01/2021
+instalações da Rede de Operação
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTO........................................................................................................................................3
+2.1. Relatório de Estudo Pré-Operacional............................................................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de operação.....................................................................................................................4
+4. PRAZOS............................................................................................................................................5
+5. REFERÊNCIAS...................................................................................................................................6
+Endereço na internet: http://www.ons.org.br 2 / 6
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Estudos pré-operacionais de integração de
+7.4 Responsabilidades 2020.12 01/01/2021
+instalações da Rede de Operação
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas do processo para a realização dos
+estudos pré-operacionais de integração de instalações à Rede de Operação, que compreendem todas as
+análises de regime permanente, de transitórios eletromagnéticos, de estabilidade eletromecânica, de curto-
+circuito, bem como as demais análises requeridas para avaliar seu impacto e definir as condições para
+operação integrada dessa nova instalação ao Sistema Interligado Nacional (SIN).
+2. PRODUTO
+2.1. Relatório de Estudo Pré-Operacional
+2.1.1. Consolida os resultados, conclusões e recomendações dos estudos pré-operacionais de integração de
+novas instalações à Rede de Operação, que abrangem o período inicial de operação da instalação, incluindo
+o período de realização de ensaios de comissionamento, e define requisitos para a elaboração de diretrizes
+voltadas para o reforço da segurança operacional elétrica.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Coordenar o processo de elaboração dos estudos pré-operacionais de integração de instalações à
+Rede de Operação.
+(b) Convocar os agentes de operação envolvidos.
+(c) Consolidar os dados e modelos recebidos e ajustar os casos de referência.
+(d) Realizar as simulações e análises dos resultados dos estudos pré-operacionais para os novos
+empreendimentos que se integrarão à Rede de Operação.
+(e) Elaborar relatórios relativos aos estudos pré-operacionais para os novos empreendimentos que se
+integrarão à Rede de Operação.
+(f) Disponibilizar para os agentes de operação envolvidos as informações necessárias à reprodução das
+análises e os relatórios produzidos.
+(g) Disponibilizar para os agentes de operação a relação dos ensaios a serem realizados no período de
+comissionamento.
+(h) Elaborar o termo de referência dos estudos pré-operacionais.
+(i) Acompanhar o cronograma de comissionamento de instalações da Rede de Operação.
+(j) Acompanhar os ensaios, em comum acordo com o agente de operação responsável, quando esses
+ensaios forem de interesse sistêmico.
+Endereço na internet: http://www.ons.org.br 3 / 6
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Estudos pré-operacionais de integração de
+7.4 Responsabilidades 2020.12 01/01/2021
+instalações da Rede de Operação
+(k) Revisar o Relatório de Estudo Pré-Operacional em função da análise dos resultados dos ensaios com
+repercussão sistêmica e solicitar esclarecimentos, informações e/ou ensaios adicionais caso seja
+identificado algum resultado que indique um desempenho inadequado do equipamento.
+(l) Disponibilizar aos agentes de operação documentos com orientações para realização de testes de
+comissionamento e com modelos para subsidiar a elaboração do Relatório final de comissionamento
+pelo agente.
+(m)Cadastrar e acompanhar a implantação das recomendações dos estudos pré-operacionais.
+(n) Aprovar o Relatório final de comissionamento.
+3.2. Agentes de operação1
+(a) Fornecer ao ONS dados, modelos e informações necessários à realização dos estudos pré-
+operacionais de integração de instalações da Rede de Operação.
+(b) Fornecer ao ONS os resultados de estudos de regime permanente, de transitórios eletromagnéticos,
+de estabilidade eletromecânica e de outros estudos que se façam necessários, quando da conexão de
+novas usinas Tipo I fora da Rede de Operação.
+(c) Participar, por convocação do ONS ou por seu próprio interesse, das atividades previstas no âmbito
+de cada estudo.
+(d) Encaminhar ao ONS sugestões para a elaboração do termo de referência dos estudos pré-
+operacionais.
+(e) Informar ao ONS, de imediato, todo evento ou decisão que afete o cronograma de entrada em
+operação da instalação, altere sua configuração, produza efeito na programação dos ensaios de
+comissionamento ou que tenha outras repercussões sistêmicas.
+(f) Implantar as providências recomendadas nos relatórios relativos aos estudos pré-operacionais de
+integração de instalações da Rede de Operação.
+(g) Fornecer as informações relativas ao cumprimento das recomendações dos relatórios referentes aos
+estudos pré-operacionais de integração de instalações da Rede de Operação e das causas de eventuais
+pendências.
+(h) Informar os ajustes efetivamente implantados em campo para as proteções de equipamentos,
+Sistemas Especiais de Proteção (SEP), relés de verificação de sincronismo e de religamento e para os
+controladores.
+1 Os agentes de geração considerados nesse submódulo são aqueles detentores de usinas classificadas na modalidade
+de operação Tipo I ou Tipo II-C, conforme Submódulo 7.2 – Classificação da modalidade de operação de usinas, com
+potência instalada total igual ou superior a 100 MW.
+Endereço na internet: http://www.ons.org.br 4 / 6
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Estudos pré-operacionais de integração de
+7.4 Responsabilidades 2020.12 01/01/2021
+instalações da Rede de Operação
+(i) Realizar simulações e análises de regime permanente, de estabilidade eletromecânica, de transitórios
+eletromagnéticos, de curto-circuito e de outras análises que se façam necessárias para avaliar os
+impactos da nova instalação no desempenho, disponibilidade, proteções, operação e manutenções
+das instalações de sua responsabilidade.
+(j) Elaborar os modelos dos controladores utilizados na nova instalação de sua responsabilidade e
+realizar estudos para a definição dos seus ajustes iniciais, disponibilizando-os em diagramas de blocos
+e em formato dos programas computacionais em uso no ONS para validação.
+(k) Enviar ao ONS a proposta de programação com a relação de ensaios com equipamentos energizados
+ao sistema, necessários para o comissionamento da instalação, incluindo os ensaios eventualmente
+solicitados pelo ONS.
+(l) Executar todas as atividades de comissionamento da instalação sob sua responsabilidade, incluindo
+as decorrentes de ensaios solicitados pelo ONS.
+(m)Elaborar e enviar ao ONS o Relatório final de comissionamento para aprovação.
+(n) Manter registro detalhado da execução dos ensaios, bem como de seus resultados, para posteriores
+consultas pelo ONS.
+4. PRAZOS
+Quadro 1 - Prazos para as atividades referentes aos estudos pré-operacionais de integração de instalações da Rede
+Operação
+Atividade Responsável Prazo
+Comunicação ao agente de operação
+sobre a definição do escopo e o Antecedência mínima de 10 dias em relação ao
+1 ONS
+cronograma para a execução dos início dos estudos pré-operacionais
+estudos pré-operacionais
+Antecedência mínima de 6 meses em relação à
+2 Início dos estudos pré-operacionais ONS data prevista para entrada em operação da
+nova instalação
+Estabelecido no escopo dos estudos em função
+do porte e do impacto sistêmico da instalação,
+Conclusão dos estudos pré-
+3 ONS com antecedência mínima de 40 dias úteis em
+operacionais
+relação à data prevista para entrada em
+operação da nova instalação
+Envio ao ONS dos cronogramas e a
+Antecedência mínima de 40 dias úteis em
+relação dos ensaios de Agente de
+4 relação à data prevista para o primeiro ensaio
+comissionamento de instalações da operação
+de comissionamento da instalação
+Rede de Operação
+Endereço na internet: http://www.ons.org.br 5 / 6
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Estudos pré-operacionais de integração de
+7.4 Responsabilidades 2020.12 01/01/2021
+instalações da Rede de Operação
+Atividade Responsável Prazo
+Informação de quaisquer correções
+Agente de Até 5 dias úteis após a disponibilização dos
+5 ou alterações relativas aos dados
+operação dados coletados e consolidados pelo ONS
+consolidados pelo ONS
+Envio ao ONS do Relatório final de Agente de Até 30 dias após o término dos ensaios de
+6
+comissionamento operação comissionamento da instalação
+Emissão de documento para
+aprovação ou solicitação de
+Até 30 dias após o recebimento do Relatório
+7 esclarecimentos e providências ONS
+final de comissionamento (atividade 6)
+necessárias em relação ao Relatório
+final de comissionamento
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 6 / 6

@@ -1,0 +1,158 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.16-OP_2026.04
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.16-OP_2026.04.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.16
+Manutenção do Sistema de Medição
+para Faturamento
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2026.04 Resolução da Reunião de Diretoria 29/04/2026
+do ONS nº 0056/2026
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Manutenção do Sistema de Medição para
+6.16 Operacional 2026.04 01/05/2026
+Faturamento
+ÍNDICE
+1. MANUTENÇÃO PREVENTIVA............................................................................................................3
+2. MANUTENÇÃO CORRETIVA..............................................................................................................3
+3. EXECUÇÃO DAS MANUTENÇÕES......................................................................................................3
+4. REFERÊNCIAS...................................................................................................................................4
+5. ANEXOS...........................................................................................................................................4
+ANEXO A...................................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 6
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Manutenção do Sistema de Medição para
+6.16 Operacional 2026.04 01/05/2026
+Faturamento
+1. MANUTENÇÃO PREVENTIVA
+1.1. O agente responsável pelo Sistema de Medição para Faturamento (SMF)1 elabora o Plano anual de
+manutenção preventiva do SMF para todos os seus pontos de conexão e envia-o aos agentes envolvidos,
+para refletir as manutenções preventivas a serem realizadas no ano subsequente.
+1.1.1. O Plano anual de manutenção preventiva do SMF deve conter as seguintes informações:
+(a) listagem de subestações/usinas e outros postos de medição;
+(b) listagem de pontos de conexão, inclusive das unidades geradoras com medição da geração bruta;
+(c) agentes envolvidos; e
+(d) programação de datas e horários dos serviços.
+1.1.2. A manutenção preventiva de cada SMF deve ser realizada em intervalos de até 2 (dois) anos, devendo
+a calibração dos medidores ocorrer a cada 5 (cinco) anos.
+1.2. O agente responsável pelo SMF acorda com cada agente conectado1 ou consumidor livre ou especial,
+conforme o caso, as datas e os horários dos serviços a serem realizados no âmbito do Plano anual de
+manutenção preventiva do SMF.
+1.3. O agente responsável pelo SMF envia ao Operador Nacional do Sistema Elétrico – ONS e aos respectivos
+agentes conectados e consumidores livres ou especiais, conforme o caso, seu Plano anual de manutenção
+preventiva do SMF com cronograma consolidado entre as partes.
+1.4. O agente responsável pelo SMF, durante o ano de execução do Plano anual de manutenção preventiva
+do SMF, confirma com cada agente conectado ou consumidor livre ou especial, conforme o caso, as datas e
+os horários dos serviços.
+1.4.1. Em caso de reprogramação, o agente responsável pelo SMF encaminha ao ONS a justificativa para
+alteração e a nova data acordada.
+1.5. O agente responsável pelo SMF realiza a manutenção preventiva, acompanhada pelo agente conectado
+ou pelo consumidor livre ou especial, conforme o caso, de acordo com seu Plano anual de manutenção
+preventiva do SMF e atendendo aos procedimentos descritos na seção 3.
+2. MANUTENÇÃO CORRETIVA
+2.1. O agente responsável pelo SMF informa ao agente conectado ou consumidor livre ou especial, conforme
+o caso, a necessidade de manutenções corretivas nos SMF, ou vice-versa.
+2.2. O agente responsável pelo SMF realiza a manutenção corretiva, acompanhada pelo agente conectado
+ou pelo consumidor livre ou especial, conforme o caso, quando identificada a necessidade de ajustes no SMF,
+atendendo aos procedimentos descritos na seção 3.
+3. EXECUÇÃO DAS MANUTENÇÕES
+1 Termos definidos no Submódulo 1.2 – Glossário dos Procedimentos de Rede.
+Endereço na internet: http://www.ons.org.br 3 / 6
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Manutenção do Sistema de Medição para
+6.16 Operacional 2026.04 01/05/2026
+Faturamento
+3.1. O agente responsável pelo SMF confirma as datas e os horários das manutenções com o agente
+conectado ou consumidor livre ou especial, conforme o caso, e solicita o acesso às suas instalações.
+3.1.1. O consumidor livre ou especial ou o agente conectado, conforme o caso, solicita ao agente responsável
+pelo SMF acesso às instalações desse agente para acompanhamento das manutenções.
+3.2. O agente conectado faz as necessárias solicitações de intervenção ao Operador Nacional do Sistema
+Elétrico – ONS, nos termos do Submódulo 4.2 – Programação de intervenções em instalações da Rede de
+Operação.
+3.3. O agente conectado libera o acesso do agente responsável pelo SMF ou consumidor livre ou especial,
+conforme o caso, às suas instalações, no período autorizado pelo ONS.
+3.3.1. O consumidor livre ou especial ou o agente conectante1, conforme o caso, libera o acesso do agente
+conectado às suas instalações para a execução ou o acompanhamento das manutenções do SMF.
+3.4. O agente responsável pelo SMF executa a manutenção do SMF, conforme atividades descritas no A.1
+deste submódulo.
+3.5. O agente conectado ou consumidor livre ou especial, conforme o caso, acompanha a manutenção do
+SMF.
+3.6. Após a manutenção, o agente responsável pelo SMF, juntamente com o agente conectado ou o
+consumidor livre ou especial, conforme o caso, selam todos os pontos cujos lacres foram rompidos e liberam
+o SMF para a coleta de dados.
+3.7. Se houver não conformidades no processo de manutenção, o agente conectado deve elaborar o Termo
+de ocorrência de não conformidades, o qual deve ser assinado por ambos agentes, conectado e conectante,
+e encaminhado ao ONS e à CCEE.
+3.8. O agente responsável pelo SMF, através de sistema computacional da CCEE, realiza a alteração de dados
+dos pontos de medição, quando houver alteração, registra as notificações de manutenção dos pontos de
+medição e submete-as à aprovação da CCEE, conforme disposto nos Procedimentos de Comercialização
+[1][2].
+3.9. A CCEE aprova as solicitações de alteração de dados de cadastro, quando houver solicitação, aprova as
+notificações de manutenção e disponibiliza em seu sistema computacional as notificações para consulta dos
+agentes responsáveis pelo SMF e do ONS.
+3.10. O ONS recebe os dados e atualiza o seu cadastro, bem como a configuração do sistema elétrico, para
+utilizá-los na realização de suas atividades.
+3.11. O agente responsável pelo SMF guarda as leituras dos medidores, as alterações de cadastro
+decorrentes das manutenções e os relatórios dos serviços realizados na manutenção por 5 (cinco) anos após
+a data de realização da manutenção.
+4. REFERÊNCIAS
+[1] CCEE. Procedimentos de Comercialização, Submódulo 1.2 – Cadastro de agentes.
+[2] CCEE. Procedimentos de Comercialização, Módulo 2 – Medição.
+5. ANEXOS
+Anexo A – Atividades a serem realizadas na manutenção do SMF
+Endereço na internet: http://www.ons.org.br 4 / 6
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Manutenção do Sistema de Medição para
+6.16 Operacional 2026.04 01/05/2026
+Faturamento
+Endereço na internet: http://www.ons.org.br 5 / 6
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Manutenção do Sistema de Medição para
+6.16 Operacional 2026.04 01/05/2026
+Faturamento
+ANEXO A
+Atividades a serem realizadas na manutenção do SMF
+A.1. Todos os resultados das ações executadas devem constar do relatório dos serviços realizados na
+manutenção.
+A.2. Na manutenção do SMF que não dispõe de medidor de retaguarda, o medidor principal deve ser
+substituído por outro medidor devidamente programado e calibrado, a fim de minimizar o tempo de
+interrupção do registro dos dados de medição.
+A.3. Qualquer alteração na relação de transformação dos Transformadores de Instrumentos (TI) que afete o
+circuito de medição para faturamento deve ser comunicada previamente ao agente responsável pelo SMF.
+Esse agente deve efetuar a alteração dos dados cadastrados em sistema computacional da CCEE e submetê-la
+à sua aprovação. Após a execução das alterações no SMF, os agentes envolvidos devem repor os lacres.
+A.4. Deve ser realizada a verificação do perfeito funcionamento das diversas funções do medidor, como
+programação, memória de massa, horário, registros, leitura, comunicação etc. Deve ser verificada a
+conformidade da configuração da memória de massa do medidor ao estabelecido no Submódulo 7.11 –
+Implantação do Sistema de Medição para Faturamento.
+A.5. Deve ser realizada a inspeção geral das ligações do SMF para verificar a existência de eventual não
+conformidade que possa afetar a medição.
+A.6. A calibração do medidor deve ser feita por método comparativo de consumo de Wh, com carga artificial,
+ensaio monofásico ou trifásico, em laboratórios ou no campo, com padrões rastreados ao Instituto Nacional
+de Metrologia, Qualidade e Tecnologia – INMETRO.
+A.7. A tensão aplicada para fim de calibração deve ser igual à tensão nominal do medidor.
+A.8. O padrão a ser utilizado na calibração deve atender ao disposto no site do ONS. O padrão do agente que
+acompanha a manutenção pode ser utilizado em conjunto com o padrão de referência apenas para efeito de
+comparação de medidas. Cada padrão deve estar acompanhado do respectivo certificado de calibração
+válido no período do evento.
+A.9. O padrão, a carga artificial e o medidor devem ser energizados antes do ensaio com tensão e corrente
+nominais, durante o tempo necessário – no mínimo 30 (trinta) minutos ou de acordo com orientações dos
+fabricantes dos medidores e do padrão – para a estabilização térmica.
+A.10. As condições e limites para o ensaio de exatidão devem ser as do Anexo B (B5.3 e B5.4) do Regulamento
+Técnico Metrológico (RTM) aprovado pela Portaria INMETRO nº 587, de 5 de novembro de 2012, ou aquela
+que vier substituí-la.
+A.11. O medidor que apresentar erros fora dos limites especificados pelo RTM deve ser substituído.
+A.12. Os códigos de identificação dos medidores fornecidos pela CCEE devem ser programados e/ou
+verificados.
+A.13. Os estudos fasoriais das correntes, tensões e sequência de fases devem ser realizados antes e depois
+da manutenção.
+Endereço na internet: http://www.ons.org.br 6 / 6

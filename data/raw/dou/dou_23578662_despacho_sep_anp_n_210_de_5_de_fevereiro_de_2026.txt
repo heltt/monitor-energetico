@@ -1,0 +1,48 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: DESPACHO SEP-ANP Nº 210, DE 5 DE FEVEREIRO DE 2026
+DATA_PUBLICACAO: 06/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=06/02/2026&jornal=515&pagina=81
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional do Petróleo, Gás Natural e Biocombustíveis/Superintendência de Exploração
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+DESPACHO SEP-ANP Nº 210, DE 5 DE FEVEREIRO DE 2026
+O SUPERINTENDENTE DE EXPLORAÇÃO DA AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS - ANP, considerando o uso de suas atribuições legais e regulamentares, em especial a disposta no art. 109, inciso I, do Regimento Interno da ANP, aprovado pela portaria ANP nº 265, de 10 de setembro de 2020; o atendimento às exigências do contrato de concessão da 11ª Rodada de Licitações; a devolução da concessão BAR-M-387_R11, por meio da Carta BRE-CORP-REG-2026-0010 (SEI Nº 5632905); bem como a análise descrita no Parecer Técnico nº 26/2026/SEP-E -ANP (SEI nº 5669206) acerca da avaliação do Programa Exploratório Mínimo; resolve:
+A) PARA O BLOCO BAR-M-387 <> CONTRATO 48610.005442/2013-13 <> PRIMEIRO PERÍODO EXPLORATÓRIO
+I-Atestar a realização de 119,59902 UTs e o cumprimento de 98,0319836065574% do Programa Exploratório Mínimo compromissado, considerando os seguintes dados/atividades da Tabela 2 abaixo.
+II-Atestar a inexecução 1,9680163934426% do Programa Exploratório Mínimo compromissado de 122 UTs.
+III-Dar ciência ao operador acerca do início dos procedimentos referentes à execução das garantias financeiras remanescentes, resguardado o direito de o operador optar pela substituição por aporte financeiro de valor equivalente.
+Tabela 1 - Extrato das unidades de trabalho (UT) totalizadas ao contrato
+
+
+PEM compromissado (UTs)
+Unidades de Trabalho
+Realizadas (UTs)
+PEM Cumprido (%)
+Unidades de Trabalho
+Remanescente (UTs)
+Unidades de Trabalho
+Remanescente (%)
+122
+119,59902
+98,0319836065574%
+2,40098
+1,9680163934426%
+Tabela 2 - Dados utilizados para o abatimento/cumprimento do PEM
+
+
+Programa/Atividade
+Tipo de dado
+Tecnologia
+Laudo de aprovação
+Despacho
+0264_BM_MEGABAR
+Não Exclusivo
+Sísmica 3D
+SEI nº 5679139
+atual
+Registra-se que, como para o dado listado na Tabela 2 há laudo de aprovação de conformidade emitido pela SDT, após o Superintendente de Exploração atestar a inexecução do PEM do contrato BAR-M-387_R11, este Despacho poderá ser utilizado como subsídio para que a Coordenação de Garantias Financeiras realize os procedimentos cabíveis no que tange à execução das garantias financeiras remanescentes, resguardado o direito ao operador de optar pela substituição por aporte financeiro de valor equivalente.
+LUCIANO LOBO

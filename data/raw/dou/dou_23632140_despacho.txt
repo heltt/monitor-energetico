@@ -1,0 +1,19 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 27/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=27/02/2026&jornal=515&pagina=58
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado de São Paulo
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 18/2026
+Fase de Requerimento de Licenciamento
+O GERENTE REGIONAL DA AGÊNCIA NACIONAL DE MINERAÇÃO, no uso da competência delegada de que trata o Art. 23, inciso IV, alínea "a" da Ordem de Serviço nº 334, de 12 de agosto de 2025, outorga o(s) seguinte(s) Registro(s) de Licença com vigência a partir da data de publicação:(730)
+Registro de Licença n°: 118/2026 - Processo nº: 820.246/2025 - Titular: PEDREIRA SANTA ISABEL LTDA. - Vencimento: 03/06/2027 - Substância(s): SAIBRO, GRANITO - Município(s): SANTA ISABEL/SP
+Registro de Licença n°: 119/2026 - Processo nº: 820.405/2024 - Titular: MINERACAO MOURTE LTDA - Vencimento: 04/08/2028 - Substância(s): ARGILA - Município(s): TAMBAÚ/SP
+Registro de Licença n°: 120/2026 - Processo nº: 820.394/2019 - Titular: SAN MARCO SABBIA LTDA - Vencimento: 05/11/2029 - Substância(s): AREIA - Município(s): DESCALVADO/SP, SANTA RITA DO PASSA QUATRO/SP
+MARCUS VINICIUS DE OLIVEIRA

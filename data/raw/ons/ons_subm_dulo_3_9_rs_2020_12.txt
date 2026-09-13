@@ -1,0 +1,111 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 3.9-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 3.9-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 3.9
+Validação de dados e modelos de
+componentes para estudos elétricos
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Validação de dados e modelos de componentes
+3.9 Responsabilidades 2020.12 01/01/2021
+para estudos elétricos
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Arquivos de dados para estudos elétricos.....................................................................................3
+2.2. Base de Dados de Modelos e Componentes para Estudos Elétricos.............................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de operação.....................................................................................................................3
+4. PRAZOS............................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Validação de dados e modelos de componentes
+3.9 Responsabilidades 2020.12 01/01/2021
+para estudos elétricos
+1. OBJETIVO
+1.1. Estabelecer as responsabilidades, produtos, prazos e as etapas do processo envolvidos na validação,
+uniformização de tratamento, organização e atualização de dados e de modelos de componentes utilizados
+pelo ONS nas ferramentas computacionais, com vistas a subsidiar as atividades de estudos elétricos.
+2. PRODUTOS
+2.1. Arquivos de dados para estudos elétricos
+2.1.1. Arquivos de dados utilizados nos estudos elétricos de regime permanente, de estabilidade
+eletromecânica e de transitórios eletromagnéticos que compõem a Base de Dados de Modelos e
+Componentes para Estudos Elétricos.
+2.2. Base de Dados de Modelos e Componentes para Estudos Elétricos
+2.2.1. Base de dados atualizada contendo os arquivos de dados para cada modelo computacional utilizado
+nos estudos elétricos, incluindo a consolidação dos dados e dos modelos de componentes necessários nas
+simulações.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Solicitar aos agentes de operação os dados e modelos de componentes a serem incorporados à Base
+de Dados de Modelos e Componentes para Estudos Elétricos.
+(b) Atestar a validade dos dados e modelos de componentes para estudos elétricos, fornecidos pelos
+agentes de operação.
+(c) Disponibilizar a Base de Dados de Modelos e Componentes para Estudos Elétricos aos agentes de
+operação.
+3.2. Agentes de operação1
+(a) Fornecer, ao ONS, dados e modelos de componentes validados para estudos elétricos, no padrão
+dos modelos computacionais utilizados, tendo como referência as diretrizes estabelecidas pelo ONS
+para cada um dos modelos computacionais.
+(b) Participar, quando convocados pelo ONS, das atividades de validação de dados e de modelos de
+componentes para estudos elétricos.
+1 Os agentes de geração considerados neste submódulo são aqueles detentores, por concessão ou autorização, de
+usinas classificadas na modalidade de operação como Tipo I, Tipo II-A e Tipo II-B e II-C, conforme critérios e
+sistemática estabelecida no Módulo 7.2 – Classificação da modalidade de operação de usinas.
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Validação de dados e modelos de componentes
+3.9 Responsabilidades 2020.12 01/01/2021
+para estudos elétricos
+(c) Atualizar os modelos de componentes utilizados nos estudos elétricos, a partir dos ajustes realizados
+em campo durante o comissionamento.
+(d) Apresentar resultados comparativos de simulação utilizando os modelos computacionais atualizados
+e os registros obtidos dos ensaios de comissionamento, considerando os ajustes realizados em campo
+durante o comissionamento, de forma a atestar o desempenho dos modelos.
+4. PRAZOS
+Quadro 1 – Prazos do processo de validação de dados e de componentes
+Atividade Responsável Prazo Periodicidade Observação
+Solicitação de envio de
+dados e modelos aos
+1 agentes de operação ONS - Por demanda Quando necessário
+para participação no
+processo de validação
+Envio de dados e
+modelos de
+Até 10 dias
+componentes para Agentes de
+2 úteis após a - -
+estudos elétricos, Operação
+atividade 1
+adequados e/ou
+corrigidos
+Atestar a validade de Caso os dados iniciais não
+Estabelecido
+dados e de modelos de apresentem consistência
+em função do
+componentes para ou conformidade esta
+3 ONS escopo da -
+estudos elétricos atividade é cancelada e o
+validação a
+fornecidos pelos processo retorna à
+ser efetuada
+Agentes de Operação atividade 1
+Disponibilização dos Após
+4 dados e modelos ONS conclusão da - -
+validados atividade 3
+Informar ao ONS sobre 5 dias úteis da
+quaisquer correções ou Agentes de identificação
+5 Por demanda -
+alterações relativas aos operação de correções
+dados disponibilizados ou alterações
+Endereço na internet: http://www.ons.org.br 4 / 4

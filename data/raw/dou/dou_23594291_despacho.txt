@@ -1,0 +1,41 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 12/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=12/02/2026&jornal=515&pagina=84
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Superintendência de Outorga de Títulos Minerários
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 46/2026
+Autoriza a averbação dos atos de penhora de direitos minerarios(1934)
+Exequente: ANDERSON HEINZEN BAIAO - CPF ou CNPJ ***.843.771-** - Processo nº 866.611/2005 - TORIO BRASIL MINERACAO LTDA - Requerimento de Lavra Nº /
+Exequente: NELSON JUSTINO ARAUJO - CPF ou CNPJ - Processo nº 831.193/1996 - PEDREIRA ROLIM LTDA. - Registro de Licença Nº 888/1997
+Exequente: NELSON JUSTINO ARAUJO - CPF ou CNPJ - Processo nº 830.931/1982 - PEDREIRA ROLIM LTDA. - Portaria de Lavra Nº 174/2010
+Exequente: NELSON JUSTINO ARAUJO - CPF ou CNPJ - Processo nº 832.623/2013 - PEDREIRA ROLIM LTDA. - Alvará de Pesquisa Nº 486/2017
+Exequente: NELSON JUSTINO ARAUJO - CPF ou CNPJ - Processo nº 832.080/2018 - PEDREIRA ROLIM LTDA. - Alvará de Pesquisa Nº 7079/2019
+Exequente: NELSON JUSTINO ARAUJO - CPF ou CNPJ - Processo nº 832.296/2021 - PEDREIRA ROLIM LTDA. - Alvará de Pesquisa Nº 9601/2021
+Exequente: UNIÃO - FAZENDA NACIONAL - CPF ou CNPJ - Processo nº 815.018/1983 - SAIBRITA MINERACAO E CONSTRUCAO LTDA - Registro de Licença Nº 76/2012
+Exequente: UNIÃO - FAZENDA NACIONAL - CPF ou CNPJ - Processo nº 816.101/2013 - SAIBRITA MINERACAO E CONSTRUCAO LTDA - Alvará de Pesquisa Nº 3671/2014
+Exequente: JEVERSON BUECK SALVADOR - CPF ou CNPJ - Processo nº 896.319/2004 - VALDEMIR JOSE MONTEIRO - Alvará de Pesquisa Nº 9943/2005
+Exequente: JEVERSON BUECK SALVADOR - CPF ou CNPJ - Processo nº 833.881/2012 - MONTE GRAN COMÉRCIO DE PEDRAS LTDA ME - Requerimento de Lavra Nº /
+Exequente: JEVERSON BUECK SALVADOR - CPF ou CNPJ - Processo nº 871.130/2012 - MONTE GRAN COMÉRCIO DE PEDRAS LTDA ME - Requerimento de Lavra Nº /
+Exequente: JEVERSON BUECK SALVADOR - CPF ou CNPJ - Processo nº 896.148/2013 - MONTE GRAN COMÉRCIO DE PEDRAS LTDA ME - Alvará de Pesquisa Nº 7840/2018
+Exequente: JEVERSON BUECK SALVADOR - CPF ou CNPJ - Processo nº 896.382/2013 - MONTE GRAN COMÉRCIO DE PEDRAS LTDA ME - Portaria de Lavra Nº 144/2023
+Exequente: JEVERSON BUECK SALVADOR - CPF ou CNPJ - Processo nº 896.557/2013 - MONTE GRAN COMÉRCIO DE PEDRAS LTDA ME - Registro de Licença Nº 9/2014
+Exequente: JEVERSON BUECK SALVADOR - CPF ou CNPJ - Processo nº 896.072/2014 - MONTE GRAN COMÉRCIO DE PEDRAS LTDA ME - Alvará de Pesquisa Nº 6640/2014
+Exequente: JEVERSON BUECK SALVADOR - CPF ou CNPJ - Processo nº 896.162/2014 - MONTE GRAN COMÉRCIO DE PEDRAS LTDA ME - Alvará de Pesquisa Nº 6664/2014
+Exequente: JEVERSON BUECK SALVADOR - CPF ou CNPJ - Processo nº 872.757/2015 - MONTE GRAN COMÉRCIO DE PEDRAS LTDA ME - Alvará de Pesquisa Nº 5302/2016
+Exequente: JEVERSON BUECK SALVADOR - CPF ou CNPJ - Processo nº 872.663/2016 - MONTE GRAN COMÉRCIO DE PEDRAS LTDA ME - Alvará de Pesquisa Nº 3000/2017
+Exequente: JEVERSON BUECK SALVADOR - CPF ou CNPJ - Processo nº 896.079/2017 - G A M STONE LTDA - Requerimento de Lavra Nº /
+Exequente: JEVERSON BUECK SALVADOR - CPF ou CNPJ - Processo nº 871.026/2018 - G A M STONE LTDA - Alvará de Pesquisa Nº 224/2016
+Exequente: JEVERSON BUECK SALVADOR - CPF ou CNPJ - Processo nº 896.150/2018 - G A M STONE LTDA - Alvará de Pesquisa Nº 9280/2018
+Exequente: JEVERSON BUECK SALVADOR - CPF ou CNPJ - Processo nº 830.336/2019 - G A M STONE LTDA - Requerimento de Lavra Nº /
+Exequente: JEVERSON BUECK SALVADOR - CPF ou CNPJ - Processo nº 830.491/2019 - G A M STONE LTDA - Alvará de Pesquisa Nº 1943/2020
+Exequente: JEVERSON BUECK SALVADOR - CPF ou CNPJ - Processo nº 830.735/2021 - G A M STONE LTDA - Alvará de Pesquisa Nº 7013/2021
+Exequente: SÉRGIO MOURÃO CORREA LIM - CPF ou CNPJ - Processo nº 815.691/1971 - EMICON MINERACAO E TERRAPLENAGEM LIMITADA - Portaria de Lavra Nº 79903/1977
+ANDRE ELIAS MARQUES
+Superintendente

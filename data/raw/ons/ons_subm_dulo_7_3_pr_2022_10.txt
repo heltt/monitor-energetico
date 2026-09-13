@@ -1,0 +1,4223 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.3-PR_2022.10
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.3-PR_2022.10.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.3
+Verificação da conformidade das
+instalações de transmissão aos
+requisitos
+Procedimental
+Revisão Motivo da revisão Data de aprovação
+2022.10 Despacho nº 2.941/2022 11/10/2022
+Procedimentos de Rede - Módulo 7 - Integração de
+Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das
+7.3 Procedimental 2022.10 11/10/2022
+instalações de transmissão aos requisitos
+ÍNDICE
+1. VERIFICAÇÃO DA CONFORMIDADE DAS INSTALAÇÕES DE TRANSMISSÃO AOS REQUISITOS.............3
+1.1. Proposição de requisitos técnicos para as instalações de transmissão........................................3
+1.2. Análise da conformidade do projeto básico das instalações de transmissão...............................3
+1.3. Análise da conformidade das características como efetivamente implantadas das instalações
+de transmissão..............................................................................................................................4
+2. FORNECIMENTO, GERENCIAMENTO E DISPONIBILIZAÇÃO À ANEEL DOS DADOS TÉCNICOS QUE
+COMPÕEM A BDIT...........................................................................................................................5
+3. REFERÊNCIAS...................................................................................................................................6
+4. ANEXOS...........................................................................................................................................6
+ANEXO A...................................................................................................................................................7
+Endereço na internet: http://www.ons.org.br 2 / 73
+Procedimentos de Rede - Módulo 7 - Integração de
+Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das
+7.3 Procedimental 2022.10 11/10/2022
+instalações de transmissão aos requisitos
+1. VERIFICAÇÃO DA CONFORMIDADE DAS INSTALAÇÕES DE TRANSMISSÃO AOS REQUISITOS
+1.1. Proposição de requisitos técnicos para as instalações de transmissão
+1.1.1. O Operador Nacional do Sistema Elétrico – ONS encaminha à Agência Nacional de Energia Elétrica –
+ANEEL a Proposição de Requisitos para os Instrumentos Técnicos, visando assegurar que as instalações a
+serem licitadas ou autorizadas pela ANEEL estejam em conformidade com os relatórios do Planejamento
+Setorial e com os Procedimentos de Rede.
+1.1.2. Os relatórios do Planejamento Setorial que subsidiam o processo de verificação da conformidade das
+instalações de transmissão são os Relatórios R1 [1] , R2 [2] e R3 [3] , emitidos pelo Ministério de Minas e
+Energia – MME e a Empresa de Pesquisa Energética – EPE e o Relatório R4 [4] , emitido pelo agente a ser
+conectado pelas instalações de transmissão a serem integradas ao SIN.
+1.2. Análise da conformidade do projeto básico das instalações de transmissão
+1.2.1. O agente de transmissão elabora o projeto básico das instalações.
+1.2.1.1. O ONS disponibiliza documento orientativo [5] para consulta em seu site, com o intuito de apoiar a
+elaboração do projeto básico.
+1.2.1.2. No caso de a instalação de transmissão ser em corrente alternada, o agente de transmissão elabora
+o projeto básico em uma etapa única.
+1.2.1.3. No caso de a instalação de transmissão ser um ou mais elos de corrente contínua, o agente de
+transmissão elabora o projeto básico em duas etapas denominadas de etapa de concepção do projeto básico
+e etapa de detalhamento do projeto básico.
+1.2.1.3.1. Na etapa de concepção, o agente de transmissão apresenta todos os componentes do circuito
+principal, bem como suas especificações, a filosofia dos sistemas de proteção, supervisão e controle,
+incluindo o Master Control, os valores estimados para as perdas máximas e os diagramas unifilares gerais.
+1.2.1.3.2. Para a demonstração da conformidade do projeto do elo CC aos requisitos da etapa de concepção
+o agente de transmissão apresenta, entre outros, os estudos à frequência fundamental, tais como fluxo de
+potência, curto-circuito e estabilidade eletromecânica. Apresenta também questões tais como sobretensões,
+autoexcitação de unidades geradoras e interação torcional subsíncrona, caso aplicável.
+1.2.1.3.3. O agente apresenta ainda na etapa de concepção avaliações de desempenho dinâmico, por meio
+de simuladores do tipo PSCAD e ANATEM, considerando uma representação apropriada da rede CA e o
+sistema de controle do fabricante com ajustes preliminares, com a finalidade de identificar a necessidade de
+novos equipamentos tais como de compensação reativa controlável adicional ou de alterações de
+modularização de bancos de filtros/compensação reativa.
+1.2.1.3.4. Na etapa de concepção, o agente de transmissão realiza estudos de coordenação de isolamento
+dos pátios CA e CC e demonstra a adequação das correntes de coordenação assumidas nas estimativas iniciais
+por meio de estudos de transitórios eletromagnéticos. Apresenta ainda estudos de tensão de
+restabelecimento transitória – TRT para dimensionamento de disjuntores, incluindo aqueles dos filtros.
+1.2.1.3.5. Todos os estudos de transitórios eletromagnéticos, na etapa de concepção, devem ser elaborados
+por meio de ferramenta de simulação digital, com a representação da rede CA incluindo pelo menos até duas
+barras (subestações) de distância dos pátios CA das subestações terminais do elo CC.
+1.2.1.3.6. Também é necessária, na etapa de concepção, a apresentação de todos os estudos de
+dimensionamento das linhas CC e das linhas do eletrodo.
+Endereço na internet: http://www.ons.org.br 3 / 73
+Procedimentos de Rede - Módulo 7 - Integração de
+Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das
+7.3 Procedimental 2022.10 11/10/2022
+instalações de transmissão aos requisitos
+1.2.1.3.7. A etapa de detalhamento se inicia após a conclusão da etapa de concepção, com algumas áreas
+de superposição. Essa fase tem como foco a otimização dos controles, da proteção, dos esquemas de
+emergência e dos procedimentos operativos de forma geral, que envolvem em detalhe as interações CA/CC.
+Envolve, também, os estudos de coordenação indutiva, o detalhamento do eletrodo de terra e a definição
+da sobrecarga low ambient.
+1.2.1.3.8. A comprovação da conformidade do projeto do elo CC aos requisitos da etapa de detalhamento
+depende da representação detalhada em programas digitais e/ou simuladores do elo CC. Os dados e
+modelagens oriundas desta etapa deverão ser disponibilizados ao ONS para a execução dos estudos pré-
+operacionais.
+1.2.2. O agente de transmissão encaminha ao ONS e à ANEEL a versão inicial do projeto básico do
+empreendimento de transmissão e somente ao ONS as informações relacionadas no Anexo A deste
+submódulo.
+1.2.2.1. No caso de solicitação de excepcionalidade para os requisitos de serviços auxiliares em corrente
+alternada, o agente de transmissão envia a proposta alternativa ao ONS para avaliação e aprovação,
+conforme o Submódulo 2.6 – Requisitos mínimos para subestações e seus equipamentos.
+1.2.3. O ONS analisa o projeto básico no sentido de assegurar que as instalações estejam em conformidade
+com os requisitos estabelecidos no instrumento técnico dos processos de licitação ou autorização e nos
+requisitos técnicos estabelecidos nos Procedimentos de Rede.
+1.2.3.1. O ONS fornece anualmente registro à ANEEL dos casos excepcionais aprovados para os requisitos de
+serviços auxiliares em corrente alternada, contendo a descrição sucinta, justificativas do agente, análise
+técnica, conclusões e providências tomadas.
+1.2.4. O ONS encaminha ao agente de transmissão e à ANEEL o Parecer Técnico de Análise da Conformidade
+do Projeto Básico do empreendimento e o agente de transmissão devolve ao ONS o projeto com as
+adequações necessárias, quando for o caso. Esse processo iterativo junto ao agente é repetido até que as
+não conformidades verificadas sejam solucionadas.
+1.2.4.1. Nos casos em que persistam dúvidas sobre as características técnicas avaliadas, o ONS pode solicitar
+ao agente de transmissão que declare formalmente o atendimento às referidas solicitações ou requisitos ou
+que comprove esse atendimento por meio de ensaios, testes ou estudos especiais, os quais devem ser
+definidos em conjunto com o ONS.
+1.2.4.2. No caso de elos de corrente contínua, após a etapa de detalhamento e antes da entrada em
+operação, o agente de transmissão comprova, por meio de testes/medições, o atendimento aos requisitos
+de perdas estabelecidos no anexo técnico, que foram estimadas na etapa de concepção. Comprova também,
+por meio de testes/medições, o atendimento às premissas e tolerâncias assumidas na concepção do projeto
+para a fabricação dos equipamentos.
+1.2.5. Concluída a análise da conformidade do projeto básico, isento de não conformidades, o ONS emite o
+Certificado de Conformidade do Projeto Básico (CCPB), com os resultados de sua análise, e o encaminha ao
+agente de transmissão e à ANEEL, em conjunto com o Parecer Técnico de Análise da Conformidade do Projeto
+Básico completo.
+1.3. Análise da conformidade das características como efetivamente implantadas das instalações de
+transmissão
+1.3.1. O agente de transmissão encaminha ao ONS, por meio de sistema computacional do ONS, as
+informações solicitadas nas seguintes etapas:
+Endereço na internet: http://www.ons.org.br 4 / 73
+Procedimentos de Rede - Módulo 7 - Integração de
+Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das
+7.3 Procedimental 2022.10 11/10/2022
+instalações de transmissão aos requisitos
+(a) dados referentes aos parâmetros elétricos, destinados aos estudos pré-operacionais, dos itens
+A.3.2.1. a A.3.2.19. no Anexo A deste submódulo, relativo a todos os equipamentos integrantes de
+Funções Transmissão Linha de Transmissão (FTLT), Transformação (FTTR) e Controle de Reativo
+(FTCR);
+(b) informações indicadas no item A.3.2.20. , relativas a Reator limitador de corrente de curto-circuito, e
+as informações dos equipamentos que não se enquadram no item 1.3.1. (a); e
+(c) informações dos dispositivos de proteção referidas no item A.3.2.21. e informações dos registradores
+de perturbação referidas no item A.3.2.22.
+1.3.2. O ONS analisa as informações fornecidas no sentido de verificar se estão em conformidade com o
+projeto básico, quando houver, e com os requisitos estabelecidos no instrumento técnico dos processos de
+licitação ou autorização e nos requisitos técnicos estabelecidos nos Procedimentos de Rede.
+1.3.2.1. Caso persistam dúvidas sobre as características técnicas de equipamentos ou instalações no que diz
+respeito ao atendimento dos requisitos estabelecidos no instrumento técnico ou nos Procedimentos de
+Rede, o ONS pode solicitar ao agente de transmissão que declare formalmente o atendimento às referidas
+solicitações ou requisitos ou que comprove esse atendimento por meio de ensaios, testes ou estudos
+especiais, os quais devem ser definidos em conjunto com o ONS.
+1.3.3. Para cada empreendimento cadastrado no sistema computacional, o ONS informa ao agente o
+resultado da análise das características como efetivamente implantadas das instalações de transmissão.
+1.3.4. Concluída a análise da conformidade das características como efetivamente implantadas, isento de
+não conformidades, o ONS emite o Parecer Técnico de Análise da Conformidade das Instalações de
+Transmissão como Efetivamente Implantadas, por meio de sistema computacional do ONS, com os
+resultados de sua análise e o encaminha ao agente e à ANEEL.
+2. FORNECIMENTO, GERENCIAMENTO E DISPONIBILIZAÇÃO À ANEEL DOS DADOS TÉCNICOS QUE
+COMPÕEM A BDIT
+2.1. O agente de transmissão encaminha, por meio de sistema específico, os dados técnicos das instalações
+sob sua concessão para composição da Base de Dados das Instalações de Transmissão (BDIT), conforme o
+Anexo A deste submódulo.
+2.2. A cada ano, o agente de transmissão atualiza, por meio de sistema específico, os dados técnicos das
+instalações sob sua concessão, estabelecidos no Anexo A deste submódulo, relativos à condição das
+instalações sob sua concessão em 31 de dezembro do ano anterior.
+2.3. Os dados técnicos que alimentam processos do ONS são enviados nos prazos estabelecidos para os
+respectivos processos.
+2.4. O ONS valida os dados fornecidos pelo agente de transmissão, por meio de sistema específico, de forma
+a evitar o carregamento de dados que não atendam a parâmetros lógicos mínimos de consistência.
+2.5. O agente de transmissão efetua a correção e atualização imediata, por meio de sistema específico, dos
+dados técnicos das instalações sob sua concessão, estabelecidos no Anexo A deste submódulo, que estiverem
+incorretos ou inconsistentes.
+2.6. O ONS fornece à ANEEL os dados técnicos da BDIT encaminhados pelos agentes de transmissão.
+3. REFERÊNCIAS
+Endereço na internet: http://www.ons.org.br 5 / 73
+Procedimentos de Rede - Módulo 7 - Integração de
+Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das
+7.3 Procedimental 2022.10 11/10/2022
+instalações de transmissão aos requisitos
+[1] MME/EPE, “Relatório de Viabilidade Técnico-Econômica”, Relatório R1.
+[2] MME/EPE, “Relatório de Detalhamento da Alternativa de Referência”, Relatório R2.
+[3] MME/EPE, “Relatório de Caracterização e Análise Socio-ambiental”, Relatório R3.
+[4] Agente, “Relatório de Caracterização da Rede Existente”, Relatório R4.
+[5] ONS, “Diretrizes para a Elaboração de Projetos Básicos para Empreendimentos de Transmissão”.
+4. ANEXOS
+Anexo A – Informações geográficas e características do projeto básico e como efetivamente implantadas
+das instalações de transmissão
+Endereço na internet: http://www.ons.org.br 6 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+ANEXO A
+INFORMAÇÕES GEOGRÁFICAS E CARACTERÍSTICAS DO PROJETO BÁSICO E COMO EFETIVAMENTE
+IMPLANTADAS DAS INSTALAÇÕES DE TRANSMISSÃO
+A.1. OBJETIVO
+A.1.1. Este anexo apresenta as especificações técnicas do formato dos arquivos digitais da BDIT, indica
+padrões e métodos de aquisição de dados geográficos e apresenta as informações dos equipamentos a serem
+fornecidas ao ONS pelos agentes de transmissão no processo de análise da conformidade do projeto básico
+e análise da conformidade das características “como efetivamente implantadas”.
+A.1.2. As duas últimas colunas das tabelas apresentadas nas seções A.2.4. e A.3.2. identificam se a
+informação é requisitada no processo de análise do projeto básico ou de “como efetivamente implantadas”.
+A.2. DADOS GEOGRÁFICOS DA BDIT
+A.2.1. Classificação
+A.2.1.1. As entidades geográficas da BDIT são classificadas conforme tabela a seguir:
+Tabela 1 – Classificação das entidades geográficas da BDIT
+Nome Subdivisão Sigla Feição Descrição
+Representa a localização e a área de
+Subestação Subestação SUB Polígono
+ocupação da subestação.
+Torre ou
+Representa a localização das torres ou
+Ponto de TLT Ponto
+pontos de referência.
+Referência
+Linha de Transmissão
+Segmentos Representa a localização e a extensão
+Vão VLT
+de reta dos vãos da LT.
+A.2.2. Especificação dos dados e forma de envio
+A.2.2.1. Todos os dados cartográficos deverão ser fornecidos no Sistema de Coordenadas Geodésicas
+(Latitude/Longitude em graus decimais) e Sistema de Referência SIRGAS2000.
+A.2.2.2. A altimetria deverá ser fornecida pela Altitude Normal (H) dos pontos coletados. No caso de
+utilização de tecnologia que forneça a altura geométrica (h), é indicado o uso de interpolador, em sua versão
+mais atual, disponibilizado gratuitamente pelo IBGE para obtenção da Altitude Normal (H).
+A.2.2.3. Os pontos coletados em campo devem ser obtidos com precisão planimétrica melhor ou igual a 1
+metro. A precisão altimétrica é de até três vezes a precisão planimétrica.
+A.2.2.4. Para os carregamentos realizados até 31 de dezembro de 2023, serão aceitos dados cartográficos
+com precisão planimétrica melhor ou igual a 5 metros e altimétrica melhor ou igual a 10 metros, desde que
+não se refiram a dados dos seguintes tipos de instalação:
+Endereço na internet: http://www.ons.org.br 7 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+(a) trechos de LT cuja largura da faixa de servidão seja menor ou igual a 15 metros;
+(b) trechos de LT subterrâneas; e
+(c) trechos de LT dispostos em troncos de circuito duplo.
+A.2.2.5. As instruções para o fornecimento dos dados geográficos, as características dos arquivos, o modelo
+das entidades geográficas e do relatório técnico referente ao levantamento desses dados são disponibilizadas
+no Validador Geográfico BDIT – Manual do Componente de Validação do ONS.
+A.2.3. Conectividade
+A.2.3.1. Os pontos de conectividade são os pontos de conexão elétrica entre os ativos. Assim, estes pontos
+estão relacionados aos barramentos das subestações e às torres e/ou pontos de referência das linhas de
+transmissão. A identificação dos pontos de conectividade será realizada, conforme consta na tabela a seguir:
+Tabela 2 - Identificação dos pontos de conectividade
+Tipo de Ponto Codificação Descrição
+Torre IdBDIT Identificador único da torre na BDIT.
+Ponto de
+IdBDIT Identificador único do ponto de referência na BDIT.
+Referência
+Barramento IdBDIT Identificador único do barramento na BDIT.
+A.2.4. Entidades geográficas
+A.2.4.1. Subestação
+SUBESTAÇÃO
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Dados de Cadastro
+I - Nome da subestação Alfanumérico sim sim
+Idesbe: Identificador da
+II - Código SIGET da subestação sim sim
+subestação no SIGET
+IdAgente: Identificador
+III - Transmissora sim sim
+da Transmissora no SIGET
+Ideccd: Identificador da
+IV - Concessão sim sim
+concessão no SIGET
+Lista de opções (CA, CC
+V - Tipo de Corrente sim sim
+ou misto)
+Idemdl: Identificador do
+VI - Código do Módulo no SIGET sim sim
+Módulo no SIGET
+Endereço na internet: http://www.ons.org.br 8 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+SUBESTAÇÃO
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+VII - Entrada em Operação Comercial (1) Data (XX/YY/ZZZZ) sim sim
+VIII - Tensão Nominal (kV) Número sim sim
+IX - Resistência de aterramento da malha de terra (Ω) Número não sim
+Dados Gerais
+1 - O Diagrama unifilar referente ao setor / pátio por
+Arquivo em anexo sim sim
+nível de tensão da subestação deverá ser anexado
+Polígono que delimita o
+espaço físico ocupado
+pela subestação. As
+2 - Coordenadas Geográfica da Subestação (Sistema de coordenadas dos pontos
+sim sim
+Referência SIRGAS 2000) representativos deverão
+seguir o Sistema de
+Referência vigente e suas
+atualizações
+(1) Na impossibilidade de se ter a data precisa a informação pode ser cadastrada nos formatos 01/YY/ZZZZ
+ou 01/01/ZZZZ.
+A.2.4.2. LT Geral
+LINHA DE TRANSMISSÃO CA E CC
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Dados de Cadastro
+IdAgente: Identificador da
+I - Transmissora sim sim
+Transmissora no SIGET
+Ideccd: Identificador da
+II - Concessão sim sim
+concessão no SIGET
+III - Tipo de corrente Lista de opções (CA ou CC) sim sim
+Idemdl: Identificador do
+IV - Código do módulo no SIGET sim sim
+Módulo no SIGET
+V - Conclusão da implantação (1) Data (DD/MM/AAAA) não sim
+VI - Entrada em operação comercial (1) Data (DD/MM/AAAA) não sim
+VII - Número operacional Alfanumérico sim sim
+VIII - Código identificador do ativo na concessionária Alfanumérico sim sim
+IX - Tensão nominal (kV) Número sim sim
+Dados Gerais da LT
+Idesbe: Identificador da
+1.1 - Subestação Inicial sim sim
+1 - Subestações subestação no SIGET
+terminais Idesbe: Identificador da
+1.2 - Subestação Final sim sim
+subestação no SIGET
+2 - Normas de projeto Alfanumérico sim sim
+3 - Tensão máxima de operação em regime
+Numérico sim sim
+permanente (kV)
+4 - Número do circuito Número sim sim
+5 - Extensão da linha (km) Número sim sim
+Endereço na internet: http://www.ons.org.br 9 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+LINHA DE TRANSMISSÃO CA E CC
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Aérea, Subterrânea,
+6 - Tipo da instalação sim sim
+Subaquática
+7 - Tipo da região da instalação Rural, Urbana sim sim
+8 - Quantidade de diferentes projetos na linha de
+Número sim sim
+transmissão
+9 - Nome longo da linha de transmissão Alfanumérico sim sim
+10 - Quantidade total de estruturas da LTA Número não sim
+11 - Quantidade de pontos de referência na LTS Número não sim
+12 - Desenhos das entradas nas SE (2) Arquivo Anexo não sim
+13 - Lista de construção (2) Arquivo Anexo não sim
+14 - Planta do traçado (somente para LTA) (2) Arquivo Anexo sim sim
+Cabos Para-Raios
+Lista de opções (CA/AAC,
+CAA-EF, Aço AR/Aço HS,
+15 - Tipo Aço EAR/Aço EHS, Aço- sim sim
+alumínio/Alumoweld ou
+OPGW)
+16 - Nomenclatura Alfanumérico sim sim
+17 - Quantidade de fibras óticas Número sim sim
+Arquivo Anexo (Data
+18 - Características técnicas do cabo sim sim
+Sheet)
+Projetos da LT
+19 - Identificação do projeto Número sim sim
+Lista de opções (Aérea,
+20 - Identificação do tipo da instalação do projeto sim sim
+Subterrânea, Subaquática)
+21 - Identificação do tipo da região de instalação do Lista de opções (Rural,
+sim sim
+projeto Urbana)
+Parâmetros Elétricos da LT
+22.1 - Resistência (Ω/km) Número sim sim
+22 - Sequência
+22.2 - Reatância (Ω/km) Número sim sim
+positiva - LT CA
+22.3 - Susceptância capacitiva
+(Ω/km) Número sim sim
+(µS/km)
+23.1 - Resistência (Ω/km) Número sim sim
+23 - Sequência
+23.2 - Reatância (Ω/km) Número sim sim
+zero - LT CA
+23.3 - Susceptância capacitiva
+(Ω/km) Número sim sim
+(µS/km)
+24.1 - Resistência por polo linha
+24 - LT CC Número sim sim
+(Ω/km)
+24.2 - Resistência equivalente por
+Número sim sim
+polo linha (Ω)
+25 - 25.1 - Resistência de sequência
+Número sim sim
+Equivalentes positiva (%)
+série da LT CA, 25.2 - Reatância de sequência
+Número sim sim
+incluindo a positiva (%)
+Endereço na internet: http://www.ons.org.br 10 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+LINHA DE TRANSMISSÃO CA E CC
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+correção 25.3 - Susceptância capacitiva de
+Número sim sim
+hiperbólica sequência positiva (Mvar)
+para seu 25.4 - Resistência de sequência zero
+Número sim sim
+comprimento, (%)
+na base de 100 25.5 - Reatância de sequência zero
+Número sim sim
+MVA e na (%)
+tensão nominal
+25.6 - Susceptância capacitiva de
+do sistema Número sim sim
+sequência zero (Mvar)
+26 - 26.1- Reatância de sequência zero
+Número sim sim
+Impedância(s) (Ω/km)
+mútua(s) entre
+26.2- Resistência de sequência zero
+trechos de LT Número sim sim
+(Ω/km)
+CA paralelas
+Sistema de Transposição de Fases
+Lista de opções (Sim ou
+27 - Sistema de Transposição de Fases sim sim
+Não)
+28 - Esquema de Transposição de Fases (2) Arquivo Anexo sim sim
+Travessias
+29.1 - Nome da LT existente Alfanumérico sim sim
+29.2 - Número da estrutura mais
+Número não sim
+próxima da LT em projeto
+29.3 - Tensão nominal da LT existente
+Número sim sim
+(kV)
+29.4 - Número de circuitos da LT
+29 - Número sim sim
+existente
+Cruzamento
+Lista de opções (Rede
+com LTA
+29.5 - Tipo da LT existente Básica ou Rede sim sim
+Complementar)
+Lista de opções (Sobre ou
+29.6 - Modo de execução da travessia sim sim
+Sob)
+29.7 - Menor distância vertical entre
+Número não sim
+as LTs (m)
+30.1 - Nome do obstáculo Alfanumérico sim sim
+Lista de opções (Águas
+30.2 - Tipo do obstáculo navegáveis, Rodovia, sim sim
+30 - Travessia
+Ferrovia ou Outro)
+sobre
+30.3 - Número da estrutura mais
+obstáculo Número não sim
+próxima da LT em projeto
+30.4 - Menor distância vertical entre
+Número não sim
+a LT e o obstáculo (m)
+31 - Projetos de Travessias (2) Arquivo Anexo não sim
+Trechos da LT
+Endereço na internet: http://www.ons.org.br 11 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+LINHA DE TRANSMISSÃO CA E CC
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+32 - Quantidade de trechos na linha de transmissão Número não sim
+33 - Identificação do projeto ao qual cada trecho
+Alfanumérico não sim
+pertence
+34 - Identificação do trecho Número não sim
+Paralelismo
+35 - Nome da LT paralela Alfanumérico sim sim
+36 - Tensão nominal da LT paralela (kV) Número sim sim
+37 - Extensão do paralelismo (km) Número sim sim
+38 - Número sequencial da estrutura da LT em projeto
+Número não sim
+mais próxima ao início do paralelismo
+39 - Número sequencial da estrutura da LT em projeto
+Número não sim
+mais próxima ao fim do paralelismo
+40 - Distância(s) entre eixos dos circuitos paralelos (m) Número sim sim
+Capacidades Operativas
+41 - Capacidade operativa de longa duração (A) Número sim sim
+42 - Temperatura máxima do condutor em longa
+Número sim sim
+duração (°C)
+43 - Capacidade operativa de curta duração (A) Número sim sim
+44 - Temperatura máxima do condutor em curta
+Número sim sim
+duração (°C)
+45 - Duração máxima da curta duração (h) - LTS Número sim sim
+46 - Quantidade de capacidades operativas de curta
+Número sim sim
+duração - LTS
+47 - Fator de carga típico - LTS Número sim sim
+Projeto da Linha de Transmissão Aérea
+Lista de opções (CA/AAC,
+CAL 1120, CAL
+48.1 - Tipo sim sim
+6201/AAAC, CAA/ACSR ou
+CAAL/ACAR)
+48.2 - Nomenclatura Alfanumérico sim sim
+48 - Cabo
+48.3 - Quantidade de sucondutores
+Condutor Número sim sim
+por fase
+48.4 - Espaçamento entre
+Número sim sim
+subcondutores (cm)
+Arquivo Anexo (Data
+48.5 - Características técnicas sim sim
+Sheet)
+49.1 - Nome da estrutura Alfanumérico sim sim
+49.2 - Quantidade total da estrutura
+Número não sim
+no projeto
+49 - Série de
+Lista de opções (Sim ou
+Estruturas 49.3 - Estrutura especial sim sim
+Não)
+Lista de opções (Sim ou
+49.4 - Estrutura de transposição sim sim
+Não)
+Endereço na internet: http://www.ons.org.br 12 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+LINHA DE TRANSMISSÃO CA E CC
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Lista de opções (Aço,
+49.5 - Material predominante na
+Concreto, Madeira ou sim sim
+composição
+Outro)
+Lista de opções
+49.6 - Característica 1 (Convencional ou sim sim
+Compacta)
+Lista de opções
+49.7 - Característica 2 (Suspensão ou sim sim
+Ancoragem)
+Lista de opções
+49.8 - Característica 3 (Autoportante ou sim sim
+Estaiada)
+Lista de opções (Circuito
+49.9 - Característica 4 sim sim
+Simples ou Duplo)
+Arquivo Anexo (Desenho
+49.10 - Características técnicas (2) de Silhueta das Estruturas sim sim
+da Série)
+Lista de opções
+50.1 - Disposição das fases (Horizontal, Triangular, sim sim
+Vertical ou Outro)
+Lista de opções (Para LT
+CA: III, IVI, VVV ou 3xLine-
+50.2 - Arranjo da cadeia de isoladores sim sim
+Post. Para LT CC: II ou
+Outro)
+Lista de opções (Polímero,
+50.3 - Material isolante dos
+Porcelana, Vidro ou sim sim
+isoladores
+Outro)
+50.4 - Quantidade de pencas por
+Número sim sim
+cadeia
+50.5 - Quantidade de isoladores por
+50 - Circuito I Número sim sim
+penca
+50.6 - Passo do isolador (mm) Número sim sim
+50.7 - Comprimento total da cadeia
+Número sim sim
+de isoladores (m)
+Lista de opções (Sim ou
+50.8 - Cadeia jumper sim sim
+Não)
+Lista de opções (Polímero,
+50.9 - Material isolante dos
+Porcelana, Vidro ou sim sim
+isoladores da cadeia jumper
+Outro)
+50.10 - Quantidade de isoladores por
+Número sim sim
+penca da cadeia jumper
+50.11 - Passo do isolador da cadeia
+Número sim sim
+jumper (mm)
+Endereço na internet: http://www.ons.org.br 13 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+LINHA DE TRANSMISSÃO CA E CC
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+50.12 - Comprimento total da cadeia
+Número sim sim
+jumper (m)
+50.13 - Quantidade de cabos para-
+Número sim sim
+raios aplicados na estrutura
+50.14 - Abscissa da Fase I Número sim sim
+50.15 - Abscissa da Fase II Número sim sim
+50.16 - Abscissa da Fase III Número sim sim
+50.17 - Abscissa do polo negativo - LT
+Número sim sim
+CC
+50.18 - Abscissa do polo positivo - LT
+Número sim sim
+CC
+50.19 - Abscissa do para-raios I Número sim sim
+50.20 - Abscissa do para-raios II Número sim sim
+50.21 - Abscissa do para-raios III Número sim sim
+50.22 - Ordenada da Fase I Número sim sim
+50.23 - Ordenada da Fase II Número sim sim
+50.24 - Ordenada da Fase III Número sim sim
+50.25 - Ordenada do polo negativo -
+LT CC
+50.26 - Ordenada do polo positivo -
+LT CC
+50.27 - Ordenada do para-raios I Número sim sim
+50.28 - Ordenada do para-raios II Número sim sim
+50.29 - Ordenada do para-raios III Número sim sim
+Lista de opções
+51.1 - Disposição das fases (Horizontal, Triangular, sim sim
+Vertical ou Outro)
+Lista de opções (Para LT
+CA: III, IVI, VVV ou 3xLine-
+51.2 - Arranjo da cadeia de isoladores sim sim
+Post. Para LT CC: II ou
+Outro)
+Lista de opções (Polímero,
+51.3 - Material isolante dos
+Porcelana, Vidro ou sim sim
+isoladores
+51 - Circuito II Outro)
+51.4 - Quantidade de pencas por
+Número sim sim
+cadeia
+51.5 - Quantidade de isoladores por
+Número sim sim
+penca
+51.6 - Passo do isolador (mm) Número sim sim
+51.7 - Comprimento total da cadeia
+Número sim sim
+de isoladores (m)
+Lista de opções (Sim ou
+51.8 - Cadeia jumper sim sim
+Não)
+Endereço na internet: http://www.ons.org.br 14 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+LINHA DE TRANSMISSÃO CA E CC
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Lista de opções (Polímero,
+51.9 - Material isolante dos
+Porcelana, Vidro ou sim sim
+isoladores da cadeia jumper
+Outro)
+51.10 - Quantidade de isoladores por
+Número sim sim
+penca da cadeia jumper
+51.11 - Passo do isolador da cadeia
+Número sim sim
+jumper (mm)
+51.12 - Comprimento total da cadeia
+Número sim sim
+jumper (m)
+51.13 - Abscissa da Fase I Número sim sim
+51.14 - Abscissa da Fase II Número sim sim
+51.15 - Abscissa da Fase III Número sim sim
+51.16 - Ordenada da Fase I Número sim sim
+51.17 - Ordenada da Fase II Número sim sim
+51.18 - Ordenada da Fase III Número sim sim
+Lista de opções (Série de
+52.1 - Nome da estrutura sim sim
+Estruturas)
+52.2 - Vão médio (m) Número sim sim
+52.3 - Flecha do cabo condutor (m) Número sim sim
+52.4 - Temperatura de referência do
+Número sim sim
+cabo condutor (°C)
+52 - Estrutura
+52.5 - Flecha do cabo para-raios (m) Número sim sim
+Típica
+52.6 - Distância cabo-solo (m) Número sim sim
+52.7 - Resistividade média do solo
+Número sim sim
+(Ωm)
+Arquivo Anexo
+52.8 - Características técnicas (2) (Detalhamento Completo não sim
+da Estrutura Típica)
+53.1 - Quantidade de fases de
+Número sim sim
+aterramento
+53.2 - Quantidade de ramais por fase Número sim sim
+53.3 - Comprimento de cabo
+Número sim sim
+contrapeso por ramal (m)
+53 - Sistema de Lista de opções (Aço SM,
+Aterramento Aço-cobre/Copperweld,
+53.4 - Tipo de cabo contrapeso sim sim
+Aço-alumínio/Alumoweld
+ou Cobre)
+53.5 - Nomenclatura do cabo
+Alfanumérico sim sim
+contrapeso
+53.6 - Quantidade de configurações
+Número sim sim
+de aterramento urbano
+Endereço na internet: http://www.ons.org.br 15 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+LINHA DE TRANSMISSÃO CA E CC
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Arquivo Anexo
+53.7 - Características técnicas do
+(Configurações do Sistema não sim
+sistema de aterramento (2)
+de Aterramento)
+54 - Desenhos de Planta e Perfil (2) Arquivo Anexo não sim
+Projeto da Linha de Transmissão Subterrânea ou Subaquática
+Lista de opções (Sim ou
+55.1 - Cabo reserva sim sim
+Não)
+Lista de opções (Cobre ou
+55.2 - Material dos fios sim sim
+Alumínio)
+Lista de opções (Redondo,
+Redondo Compacto,
+55.3 - Formato dos fios sim sim
+Setorial Compacto -
+Milliken ou Outro)
+55.4 - Quantidade de segmentos Número sim sim
+55 - Cabo 55.5 - Diâmetro nominal (mm) Número sim sim
+Isolado 55.6 - Seção transversal (mm²) Número sim sim
+55.7 - Espessura da camada
+Número sim sim
+semicondutora interna (mm)
+Lista de opções (EPR,
+55.8 - Material da camada isolante XLPE, Óleo Mineral, SF6 sim sim
+ou Outro)
+55.9 - Espessura da camada isolante
+Número sim sim
+(mm)
+55.10 - Espessura da camada
+Número sim sim
+semicondutora externa (mm)
+Lista de opções (Fios e
+56.1 - Formato da composição Fitas, Camada Extrudada sim sim
+ou Outro)
+56.2 - Diâmetro dos fios (mm) Número sim sim
+Lista de opções (Alumínio,
+56.3 - Material dos fios sim sim
+Cobre ou Outro)
+56.4 - Quantidade de fios Número sim sim
+56.5 - Largura das fitas (mm) Número sim sim
+56 - Blindagem
+Lista de opções (Alumínio,
+Metálica 56.6 - Material das fitas sim sim
+Chumbo, Cobre ou Outro)
+56.7 - Espessura da fita (mm) Número sim sim
+56.8 - Espessura da camada
+Número sim sim
+extrudada (mm)
+Lista de opções (Alumínio,
+56.9 - Material da camada extrudada sim sim
+Chumbo, Cobre ou Outro)
+56.10 - Seção transversal equivalente
+Número sim sim
+(mm²)
+Endereço na internet: http://www.ons.org.br 16 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+LINHA DE TRANSMISSÃO CA E CC
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+56.11 - Capacidade de corrente (kA²s) Número sim sim
+57 - Capa Lista de opções (PEAD ou
+57.1 - Material sim sim
+Interna de Outros)
+Proteção 57.2 - Espessura (mm) Número sim sim
+Lista de opções (Fios de
+58 - Camada de 58.1 - Material sim sim
+PP ou Outro)
+Acolchoamento
+58.2 - Espessura (mm) Número sim sim
+Lista de opções (Aço,
+59.1 - Material sim sim
+Cobre ou Outro)
+59.2 - Diâmetro do fio (mm) Número sim sim
+59 - Armadura 59.3 - Quantidade de fios Número sim sim
+59.4 - Seção transversal equivalente
+Número sim sim
+(mm²)
+59.5 - Capacidade de corrente (kA²s) Número sim sim
+Lista de opções (PEAD,
+60 - Camada 60.1 - Material sim sim
+Fios de PP ou Outro)
+Externa
+60.2 - Espessura (mm) Número sim sim
+Lista de opções
+61.1 - Tipo sim sim
+(Monopolar ou Tripolar)
+61 - Cabo
+61.2 - Diâmetro nominal (mm) Número sim sim
+Completo
+Lista de opções (Sim ou
+61.3 - Fibras óticas internas sim sim
+Não)
+Lista de opções
+62.1 - Tipo das fibras óticas (Monomodo ou sim sim
+62 - Sistemas
+Multimodo)
+de Proteção,
+62.2 - Quantidade de dutos de fibra
+S&C e Número sim sim
+ótica
+TELECOM
+62.3 - Quantidade de fibras óticas por
+Número sim sim
+duto
+Lista de opções
+63.1 - Tipo das fibras óticas (Monomodo ou sim sim
+63 - Distributed Multimodo)
+Temperature 63.2 - Quantidade de dutos de fibra
+Número sim sim
+Sensor ótica
+63.3 - Quantidade de fibras óticas por
+Número sim sim
+duto
+Lista de opções (Direto no
+64 - Instalação solo, Banco de dutos,
+64.1 - Tipo de instalação sim sim
+dos Cabos Túnel, Aéreo, MND, Leito
+Isolados na de rio ou mar ou Outro)
+Rota 64.2 - Resistividade térmica do solo
+Número sim sim
+(mK/W) - Valor de projeto
+Endereço na internet: http://www.ons.org.br 17 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+LINHA DE TRANSMISSÃO CA E CC
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+64.3 - Resistividade térmica mínima
+Número não sim
+do solo (mK/W) - Valor medido
+64.4 - Resistividade térmica máxima
+Número não sim
+do solo (mK/W) - Valor medido
+Lista de opções (Sim ou
+64.5 - Backfill sim sim
+Não)
+64.6 - Resistividade térmica do
+Número sim sim
+backfill a seco (mK/W)
+64.7 - Temperatura máxima do solo
+Número sim sim
+(°C)
+64.8 - Temperatura máxima
+Número sim sim
+ambiente (°C)
+65.1 - Eixo horizontal de referência Alfanumérico sim sim
+65.2 - Eixo vertical de referência Alfanumérico sim sim
+65 -
+65.3 - Abscissa (m) - Fase I Número sim sim
+Coordenadas
+65.4 - Abscissa (m) - Fase II Número sim sim
+dos Cabos
+65.5 - Abscissa (m) - Fase III Número sim sim
+Isolados na
+65.6 - Ordenada (m) - Fase I Número sim sim
+Rota
+65.7 - Ordenada (m) - Fase II Número sim sim
+65.8 - Ordenada (m) - Fase III Número sim sim
+Lista de opções (Single
+point bonded, Midle point
+66.1 - Tipo sim sim
+66 - Sistema de bonded, Multiaterrado,
+Aterramento Cross bonded ou Outro)
+das Blindagens 66.2 - Resistência de aterramento
+Número sim sim
+máxima - Link Box (Ω)
+66.3 - Tensão máxima induzida (kV) Número sim sim
+67 - Sistema de monitoramento de temperatura do Lista de opções (Sim ou
+sim sim
+condutor e de estimação da capacidade de corrente Não)
+68 - Especificação do sistema de monitoramento de
+Arquivo Anexo não sim
+temperatura do condutor
+69 - Rota dos cabos Arquivo Anexo sim sim
+70 - Características técnicas das fibras óticas do cabo
+Arquivo Anexo não sim
+de fibras óticas isolado
+71 - Características técnicas do cabo isolado Arquivo Anexo sim sim
+Condições de Projeto
+72 - Máxima sobretensão fase-terra admissível para
+Número sim não
+surtos de manobra - LT CA (pu)
+73 - Máxima sobretensão fase-fase admissível para
+Número sim não
+surtos de manobra - LT CA (pu)
+Endereço na internet: http://www.ons.org.br 18 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+LINHA DE TRANSMISSÃO CA E CC
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+74 - Máxima sobretensão polo-terra admissível ao
+Número sim não
+longo da linha - LT CC (pu)
+75.1 - Temperatura ambiente média
+75 - Condições Número sim não
+(°C)
+ambientais
+75.2 - Radiação solar (watts/m²) Número sim não
+típicas
+75.3 - Velocidade do vento (m/s) Número sim não
+(1) Na impossibilidade de se ter a data precisa a informação pode ser cadastrada nos formatos 01/YY/ZZZZ
+ou 01/01/ZZZZ.
+(2) Deve ser sempre informado em caso de instalação com entrada em operação a partir de 01/01/2013.
+A.2.4.3. Torre da LT
+LINHA DE TRANSMISSÃO CA E CC
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Dados de Cadastro
+IdAgente: Identificador
+I - Transmissora da Transmissora no sim sim
+SIGET
+Ideccd: Identificador da
+II - Concessão sim sim
+concessão no SIGET
+Lista de opções (CA ou
+III - Tipo de corrente sim sim
+CC)
+Idemdl: Identificador do
+IV - Código do módulo no SIGET sim sim
+Módulo no SIGET
+V - Conclusão da implantação (1) Data (DD/MM/AAAA) não sim
+VI - Entrada em operação comercial (1) Data (DD/MM/AAAA) não sim
+VII - Número operacional Alfanumérico sim sim
+IX - Código identificador do ativo na concessionária
+Alfanumérico sim sim
+(Código operacional)
+X - Tensão nominal (kV) Número sim sim
+Conforme regra
+XI - Conectividade da estrutura específica de não sim
+conectividade
+Identificação da LT
+1 - Identificador da linha de transmissão onde o pórtico Idemdl: Identificador do
+não sim
+ou a estrutura está localizada no SIGET Módulo no SIGET
+Dados Geográficos da Estrutura (Linha de Transmissão Aérea)
+2 - Número sequencial da estrutura Número não sim
+3 - Numeração da estrutura tomando como referência a
+Alfanumérico não sim
+quilometragem da LT
+4 - Coordenada geográfica da estrutura (Sistema de
+Arquivo Shapefile não sim
+Referência SIRGAS 2000)
+Características da Estrutura (Linha de Transmissão Aérea)
+Endereço na internet: http://www.ons.org.br 19 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+LINHA DE TRANSMISSÃO CA E CC
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+5 - Identificação do projeto ao qual pertence Número não sim
+6 - Identificação do trecho ao qual pertence Número não sim
+Lista de opções (Série de
+7 -Tipo de Estrutura não sim
+Estruturas)
+Lista de opções (Não
+Pórtico, Pórtico Inicial,
+8 - Pórtico não sim
+Pórtico Meio de Linha,
+Pórtico Final)
+Lista de opções (Tubulão
+Reto, Tubulão com Base,
+9 - Tipo de fundação de cada pé da estrutura não sim
+Sapata, Bloco, Estaca,
+Grelha ou Outro)
+10.1 - Quantidade de
+Número não sim
+mastros
+Lista de opções (Sapata,
+10.2 - Tipo de fundação -
+Bloco Chumbado em não sim
+Mastros
+Rocha, Estaca ou Outro)
+Lista de opções (Bloco
+Pré-moldado - Viga L,
+Tubulão - Grampo
+10 - Estrutura estaiada
+Assimétrico ou
+Simétrico e Stub, Haste
+10.3 - Tipo de fundação -
+Ancorada - Rocha Sã ou não sim
+Estais
+Fraturada, Bloco
+Chumbado em Rocha -
+Grampo Assimétrico ou
+Stub, Estaca Helicoidal
+ou Outro)
+Lista de opções (Fases
+11 - Fase de aterramento não sim
+de Aterramento)
+12 - Resistência de aterramento (Ω) Número não sim
+13 - Data de medição da resistência de aterramento (2) Data (DD/MM/AAAA) não sim
+14 - Distância vertical condutor-solo na estrutura (m) Número não sim
+Lista de opções (I, II ou
+15 - Fase mais próxima do solo não sim
+III)
+16 - Altura da estrutura (m) - Altura total da estrutura Número não sim
+17 - Distância entre os condutores (m) Número não sim
+18.1 - Distância ao eixo da
+Número não sim
+estrutura (m)
+18 - Cabos Para-Raios 18.2 - Espaçamento entre
+cabos para- Número não sim
+raios
+(1) Na impossibilidade de se ter a data precisa a informação pode ser cadastrada nos formatos 01/YY/ZZZZ
+ou 01/01/ZZZZ.
+Endereço na internet: http://www.ons.org.br 20 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+LINHA DE TRANSMISSÃO CA E CC
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+(2) Campo opcional.
+A.2.4.4. Ponto de Referência da LT
+LINHA DE TRANSMISSÃO CA E CC
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Dados de Cadastro
+IdAgente: Identificador
+I - Transmissora da Transmissora no sim sim
+SIGET
+Ideccd: Identificador da
+II - Concessão sim sim
+concessão no SIGET
+Lista de opções (CA ou
+III - Tipo de corrente sim sim
+CC)
+Idemdl: Identificador do
+IV - Código do módulo no SIGET sim sim
+Módulo no SIGET
+V - Conclusão da implantação (1) Data (DD/MM/AAAA) não sim
+VI - Entrada em operação comercial (1) Data (DD/MM/AAAA) não sim
+VII - Número operacional Alfanumérico sim sim
+IX - Código identificador do ativo na concessionária
+Alfanumérico sim sim
+(Código operacional)
+X - Tensão nominal (kV) Número sim sim
+Conforme regra
+XI - Conectividade do ponto de referência específica de não sim
+conectividade
+Identificação da LT
+1 - Identificador da linha de transmissão onde o ponto de Idemdl: Identificador do
+não sim
+referência está localizado no SIGET Módulo no SIGET
+Dados Geográficos do Ponto de Referência (Linha de Transmissão Subterrânea ou Subaquática)
+2 - Número sequencial Número não sim
+3 - Numeração do ponto de referência tomando como
+Alfanumérico não sim
+referência a quilometragem da LT
+4 - Coordenada geográfica (Sistema de Referência SIRGAS
+Arquivo Shapefile não sim
+2000)
+Características do Ponto de Referência (Linha de Transmissão Subterrânea ou Subaquática)
+5 - Identificação do projeto ao qual pertence Número não sim
+6 - Identificação do trecho ao qual pertence Número não sim
+Lista de opções (Ponto
+de controle, Caixa de
+7 - Tipo do ponto de referência emenda, Caixa de não sim
+passagem, Pórtico ou
+Outro)
+Endereço na internet: http://www.ons.org.br 21 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+LINHA DE TRANSMISSÃO CA E CC
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+8 - Resistência de aterramento do ponto de transposição
+Número não sim
+de blindagem (Ω)
+9 - Data de medição da resistência de aterramento Data (DD/MM/AAAA) não sim
+(1) Na impossibilidade de se ter a data precisa a informação pode ser cadastrada nos formatos 01/YY/ZZZZ
+ou 01/01/ZZZZ.
+A.2.4.5. Vão da LT
+LINHA DE TRANSMISSÃO CA E CC
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Dados de Cadastro
+IdAgente: Identificador
+I - Transmissora da Transmissora no sim sim
+SIGET
+Ideccd: Identificador da
+II - Concessão sim sim
+concessão no SIGET
+Lista de opções (CA ou
+III - Tipo de corrente sim sim
+CC)
+Idemdl: Identificador do
+IV - Código do módulo no SIGET sim sim
+Módulo no SIGET
+V - Conclusão da implantação (1) Data (DD/MM/AAAA) não sim
+VI - Entrada em operação comercial (1) Data (DD/MM/AAAA) não sim
+VII - Número operacional Alfanumérico sim sim
+VIII - Código identificador do ativo na concessionária Alfanumérico não sim
+IX - Tensão nominal (kV) Número sim sim
+Identificação da LT
+1 - Identificador da linha de transmissão onde o pórtico Idemdl: Identificador do
+sim sim
+ou a torre está localizada no SIGET Módulo no SIGET
+Dados Geográficos do Vão
+Lista de opções (Aérea,
+2 - Identificação do tipo da instalação do vão Subterrânea, não sim
+Subaquática)
+3 - Identificação do projeto ao qual pertence Número não sim
+4 - Identificação do trecho ao qual pertence Número não sim
+5 - Coordenada geográfica do vão (Sistema de Referência
+Shapefile não sim
+SIRGAS 2000)
+6.1 – Número sequencial Número não sim
+6 - Estrutura 1 / Ponto de
+referência 1 Conforme regra
+6.2 - Conectividade específica de não sim
+conectividade.
+Endereço na internet: http://www.ons.org.br 22 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+LINHA DE TRANSMISSÃO CA E CC
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+7.1 – Número sequencial Número não sim
+7 - Estrutura 2 / Ponto de
+referência 2 Conforme regra
+7.2 - Conectividade específica de não sim
+conectividade.
+Lista de opções (Cabos
+8.1 - Tipo de cabo para-raios não sim
+Para-Raios)
+8 - Cabo para- raios
+8.2 - Quantidade de cabos
+Número não sim
+para-raios
+9 - Largura da faixa de servidão Número sim sim
+(1) Na impossibilidade de se ter a data precisa a informação pode ser cadastrada nos formatos 01/YY/ZZZZ
+ou 01/01/ZZZZ.
+A.3. DADOS TÉCNICOS DA BDIT – NÃO GEOGRÁFICOS
+A.3.1. Geral
+A.3.1.1. As entidades não geográficas consistem nos ativos que compõem as instalações de transmissão.
+A.3.1.2. Cada um desses ativos deve estar vinculado a uma das entidades geográficas descritas no item A.2.4.
+deste Anexo.
+A.3.1.3. A tabela a seguir apresenta a itemização dos equipamentos na seção A.3.2. .
+Tabela 3 - Itemização dos equipamentos
+Item Equipamento
+A.3.2.1. Barramentos
+A.3.2.2. Transformador
+A.3.2.3. Disjuntor
+A.3.2.4. Para-raios
+A.3.2.5. Compensador estático
+A.3.2.6. Reator em derivação
+A.3.2.7. Capacitor em derivação
+A.3.2.8. Capacitor série fixo
+A.3.2.9. Compensador síncrono
+Endereço na internet: http://www.ons.org.br 23 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+A.3.2.10. Seccionador
+A.3.2.11. Transformador de corrente
+A.3.2.12. Transformador de potencial
+A.3.2.13. Compensador série controlado a tiristor
+A.3.2.14. Centelhador
+A.3.2.15. Filtro de harmônicos passivo
+A.3.2.16. Válvulas
+A.3.2.17. Reator de alisamento
+A.3.2.18. Filtro PLC
+A.3.2.19. Bobina de bloqueio
+A.3.2.20. Reator limitador de corrente de curto-circuito
+Dispositivo de Proteção - Relé ou IED
+A.3.2.21.
+(Intelligent Eletronic Device)
+A.3.2.22. Registrador de Perturbação
+A.3.2. Entidades não geográficas (equipamentos/ativos)
+A.3.2.1. Barramentos
+BARRAMENTOS
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Dados de Cadastro
+I - Nome do equipamento Alfanumérico sim sim
+IdAgente: Identificador
+II - Transmissora da Transmissora no sim sim
+SIGET
+Ideccd: Identificador da
+III - Concessão sim sim
+concessão no SIGET
+Lista de opções (CA ou
+IV - Tipo de corrente sim sim
+CC)
+Idemdl: Identificador do
+V - Código do módulo no SIGET sim sim
+Módulo no SIGET
+Data de fabricação do
+VI - Data de fabricação (1) equipamento (Formato: não sim
+DD/MM/AAAA)
+Data de início da
+operação
+VII - Entrada em operação comercial (1) não sim
+comercial (Formato:
+DD/MM/AAAA)
+VIII - Número operacional Alfanumérico sim sim
+IX - Código identificador do ativo na concessionária Alfanumérico sim sim
+X - Número do patrimônio Alfanumérico não sim
+XI - Nome da subestação Alfanumérico sim sim
+Endereço na internet: http://www.ons.org.br 24 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+BARRAMENTOS
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Idesbe: Identificador da
+XII - Código SIGET da subestação sim sim
+subestação no SIGET
+XIII - Pátio Alfanumérico sim sim
+XIV - Tensão nominal do sistema no ponto de instalação
+Número sim sim
+do equipamento (kV)
+Conforme regra
+XV - Conectividade do ativo específica de sim sim
+conectividade
+Dados Gerais
+1- Fabricante Alfanumérico não sim
+Lista de opções (Ar, Gás
+2 - Isolamento sim sim
+ou Outro)
+3 - Norma de especificação Alfanumérico sim sim
+Características Técnicas
+Lista de opções
+(Principal,
+transferência,
+4 - Tipo Interligação entre sim sim
+Equipamentos, Saída de
+Circuitos Externos,
+Outro)
+5 - Condutor (nº de cabos por fase) Número sim sim
+6 - Condutor (tipo) Alfanumérico sim sim
+7 - Nomenclatura (bitola, formação e nome) Alfanumérico sim sim
+8 - Capacidade em condição normal (A) Número sim sim
+9 - Capacidade em emergências (A) Número sim sim
+10 - Capacidade de corrente de curto-circuito simétrica
+Número sim sim
+(kA/1s)
+11 - Capacidade de corrente de curto-circuito assimétrica
+Número sim sim
+(kA crista)
+(1) Na impossibilidade de se ter a data precisa a informação pode ser cadastrada nos formatos 01/YY/ZZZZ
+ou 01/01/ZZZZ.
+A.3.2.2. Transformador
+TRANSFORMADOR
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Dados de Cadastro
+I - Nome do equipamento Alfanumérico sim sim
+IdAgente:
+Identificador da
+II - Transmissora sim sim
+Transmissora no
+SIGET
+Endereço na internet: http://www.ons.org.br 25 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+TRANSFORMADOR
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Ideccd: Identificador
+III - Concessão da concessão no sim sim
+SIGET
+Lista de opções (CA
+IV - Tipo de corrente sim sim
+ou CC)
+Idemdl: Identificador
+V - Código do módulo no SIGET sim sim
+do Módulo no SIGET
+Data de fabricação
+do
+VI - Data de fabricação (1) equipamento não sim
+(Formato:
+DD/MM/AAAA)
+Data de início da
+operação
+VII - Entrada em operação comercial (1) não sim
+comercial (Formato:
+DD/MM/AAAA)
+VIII - Número operacional Alfanumérico sim sim
+IX - Código identificador do ativo na concessionária Alfanumérico sim sim
+X - Número do patrimônio Alfanumérico não sim
+XI - Nome da subestação Alfanumérico sim sim
+Idesbe: Identificador
+XII - Código SIGET da subestação da subestação no sim sim
+SIGET
+XIII - Pátio Alfanumérico sim sim
+XIV - Tensão nominal do sistema no ponto de instalação do
+Número sim sim
+equipamento (kV)
+Conforme regra
+XV.1 – Primário – Barra 1 específica de sim sim
+conectividade
+Conforme regra
+XV.2 – Primário – Barra 2 (2) específica de não sim
+conectividade
+Conforme regra
+XV - Conectividade do
+XV.3 – Secundário – Barra 1 específica de sim sim
+Transformador
+conectividade
+Conforme regra
+XV.4 – Secundário – Barra 2 (2) específica de não sim
+conectividade
+Conforme regra
+XV.5 - Terciário específica de sim sim
+conectividade
+Dados Gerais
+1 - Fabricante Alfanumérico não sim
+2 - Norma de especificação Alfanumérico sim sim
+Endereço na internet: http://www.ons.org.br 26 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+TRANSFORMADOR
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Lista de opções
+3.1 - Tipo do transformador (Transformador ou sim sim
+Autotransformador)
+Lista de opções
+3.2 - Fases do transformador (Monofásico ou sim sim
+Trifásico)
+Lista de opções (Sim
+3.3 - Transformador Defasador sim sim
+ou Não)
+3.3.1 - Limite Inferior em °(graus) Número sim sim
+3.3.2 - Limite superior em °(graus) Número sim sim
+Lista de opções (De
+Conversora,
+3.4 - Tipo do transformador sim sim
+Tradicional ou De
+Aterramento)
+Lista de opções (Sim
+4.1 - É unidade reserva? sim sim
+ou Não)
+4.2 - Tempo estimado para substituição da unidade reserva
+Número não sim
+em horas
+Lista de opções (Três
+5 - Número de enrolamentos por fase sim sim
+ou Dois)
+Lista de opções
+(Óleo mineral tipo A,
+6 - Material Isolante sim sim
+Óleo mineral tipo B
+ou Outro)
+Características Técnicas
+7.1 - Primário Número sim sim
+7 - Tensões nominais
+7.2 - Secundário Número sim sim
+(kV)
+7.3 - Terciário Número sim sim
+8 - Potência nominal 8.1 - Primário Número sim sim
+por enrolamento 8.2 - Secundário Número sim sim
+(MVA) 8.3 - Terciário Número sim sim
+9 - Corrente de curto- 9.1 - Primário Número sim sim
+circuito nominal por 9.2 - Secundário Número sim sim
+enrolamento (kA) (3) 9.3 - Terciário Número sim sim
+Lista de opções
+10.1 - 1º estágio (ODAF, ODWF, OFAF não sim
+ou ONAN)
+10 - Sistemas de Lista de opções
+10.2 - 2º estágio não sim
+resfriamento (4) (ODAF ou ONAF)
+Lista de opções
+10.3 - 3º estágio (ODAF, OFAF ou não sim
+ONAF I)
+11.1 - Potência 11.1.1 - 1º estágio Número não sim
+Primário (MVA) (4) 11.1.2 - 2º estágio Número não sim
+Endereço na internet: http://www.ons.org.br 27 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+TRANSFORMADOR
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+11.1.3 - 3º estágio Número não sim
+11.2.1 - 1º estágio Número não sim
+11.3 - Potência
+11.2.2 - 2º estágio Número não sim
+Secundário (MVA) (4)
+11.2.3 - 3º estágio Número não sim
+11.3.1 - 1º estágio Número não sim
+11.3 - Potência
+11.3.2 - 2º estágio Número não sim
+Terciário (MVA) (4)
+11.3.3 - 3º estágio Número não sim
+12.1 - Perdas totais (% da potência
+Número sim sim
+trifásica nominal)
+12.2 - Perdas em Vazio
+12.2.1 - Perdas em vazio (kW) Número não sim
+12 - Perdas (3)
+12.2.2 - Tensão base (kV) Número não sim
+12.3 - Perdas em Carga
+12.3.1 - Perdas em carga (kW) Número não sim
+12.3.2 - Potência base (MVA) Número não sim
+Lista de opções
+13.1 - Enrolamento de referência para o levantamento da (Primário,
+sim sim
+curva de saturação (3) Secundário ou
+Terciário)
+13.2 - Curva de saturação (projeto básico - especificada;
+Arquivo em anexo sim sim
+como construído - medida) (3)
+Lista de opções (Sim
+- Primário e/ou
+14 - Possui TC de bucha? sim sim
+Secundário e/ou
+Terciário ou Não)
+Lista de opções
+(Primário,
+15 - Derivação nos enrolamentos Secundário, sim sim
+Primário/Secundário
+ou Nenhum)
+Lista de opções
+(Primário,
+16 - Comutação sob carga sim sim
+Secundário ou
+Nenhum)
+17.1.1 - Fator de derivação (%) -
+Número sim sim
+Inferior
+17.1 - Primário 17.1.2 - Fator de derivação (%) -
+Número sim sim
+Superior
+17.1.3 - Degrau Número sim sim
+17.2.1 - Fator de derivação (%) -
+Número sim sim
+Inferior
+17.2 - Secundário 17.2.2 - Fator de derivação (%) -
+Número sim sim
+Superior
+17.2.3 - Degrau Número sim sim
+Endereço na internet: http://www.ons.org.br 28 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+TRANSFORMADOR
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+18 - Posição do tap central Número sim sim
+Conexões Elétricas e Impedâncias
+Lista de opções
+(Estrela aterrada,
+19.1 - Primário sim sim
+estrela isolada,
+triângulo ou zig-zag)
+Lista de opções
+19 - Ligação dos (Estrela aterrada,
+19.2 - Secundário sim sim
+enrolamentos estrela isolada ou
+triângulo)
+Lista de opções
+(Estrela aterrada,
+19.3 - Terciário sim sim
+estrela isolada ou
+triângulo)
+Lista de opções (-
+20 - Defasagem angular entre os enrolamentos primário e
+150°; -90°; -30°; sim sim
+secundário para transformadores (Y-D)
++30°; +90°; +150°)
+21 - Aterramento do Neutro
+Lista de opções
+(Solidamente
+aterrado, Aterrado
+21.1.1 - Forma de aterramento não sim
+21.1 - Primário por resistor,
+Aterrado por reator
+ou Outro)
+21.1.2 - Resistência / Reatância (Ω) Número não sim
+Lista de opções
+(Solidamente
+aterrado, Aterrado
+21.2.1 - Forma de aterramento não sim
+21.2 - Secundário por resistor,
+Aterrado por reator
+ou Outro)
+21.2.2 - Resistência / Reatância (Ω) Número sim sim
+Lista de opções
+(Serviço Auxiliar,
+Estabilizador,
+22 - Aplicação do terciário Compensação de sim sim
+harmônicos ou
+Terciário curto-
+circuitado)
+23.1.1 - Impedância Equivalente (%)
+Número não sim
+- Parte Real (2)
+23.1 - Impedância
+23.1.2 - Impedância Equivalente (%)
+Primário-Secundário Número sim sim
+- Parte Imaginária
+23.1.3 - Potência base (MVA) Número sim sim
+Endereço na internet: http://www.ons.org.br 29 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+TRANSFORMADOR
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+23.1.4 - Tensão base primário (kV) Número sim sim
+23.1.5 - Tensão base secundário (kV) Número sim sim
+23.2.1 - Impedância Equivalente (%)
+Número não sim
+- Parte Real (2)
+23.2.2 - Impedância Equivalente (%)
+23.2 - Impedância Número sim sim
+- Parte Imaginária
+Primário-Terciário
+23.2.3 - Potência base (MVA) Número sim sim
+23.2.4 - Tensão base primário (kV) Número sim sim
+23.2.5 - Tensão base terciário (kV) Número sim sim
+23.3.1 - Impedância Equivalente (%)
+Número não sim
+- Parte Real (2)
+23.3.2 - Impedância Equivalente (%)
+23.3 - Impedância Número sim sim
+- Parte Imaginária
+Secundário-Terciário
+23.3.3 - Potência base (MVA) Número sim sim
+23.3.4 - Tensão base secundário (kV) Número sim sim
+23.3.5 - Tensão base terciário (kV) Número sim sim
+24 - Temperatura de referência das impedâncias Número não sim
+Carregamentos Admissíveis
+25 - Classe térmica (°C) Número sim sim
+26 - Temperatura ambiente máxima (°C) Número sim sim
+27 - Máxima temperatura do topo do óleo (°C) Número sim sim
+28 - Máxima temperatura do ponto mais quente (°C) Número sim sim
+29 - Carregamentos máximos admissíveis (NBR 5416)
+29.1 - Normal 29.1.1 - Carga máxima Número sim sim
+29.2 - Emergência de 29.2.1 - Carga máxima Número sim sim
+longa duração 29.2.2 - Duração máxima (horas) Número sim sim
+29.3 - Emergência de 29.3.1 - Carga máxima Número sim sim
+curta duração 29.3.2 - Duração máxima (horas) Número sim sim
+Lista de opções (1º,
+29.4 - % de Sn referente ao estágio de refrigeração sim sim
+2º ou 3º)
+Tensões Máxima e Suportável
+30 - Máxima do 30.1 Primário Número sim sim
+equipamento (kV 30.2 Secundário Número sim sim
+eficaz) 30.3 Terciário Número sim sim
+31 - Suportável com 31.1 Primário Número sim sim
+impulso de manobra 31.1 Secundário Número sim sim
+(kV crista) (5) 31.3 Terciário Número sim sim
+32 - Suportável com 32.1 Primário Número sim sim
+impulso atmosférico 32.1 Secundário Número sim sim
+pleno (kV crista) 32.3 Terciário Número sim sim
+33 - Suportável à 60 33.1 Primário Número sim sim
+Hz, 1 minuto a seco 33.1 Secundário Número sim sim
+(kV eficaz) 33.3 Terciário Número sim sim
+34 - Curva de suportabilidade a sobretensões (3) Arquivo em anexo sim sim
+Endereço na internet: http://www.ons.org.br 30 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+TRANSFORMADOR
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+(1) Na impossibilidade de se ter a data precisa a informação pode ser cadastrada nos formatos 01/YY/ZZZZ
+ou 01/01/ZZZZ.
+(2) Campos opcionais.
+(3) Deve ser sempre informado em caso de equipamento com entrada em operação a partir de
+01/01/2013 e sempre que possível para os demais equipamentos.
+(4) As linhas do 2º e 3º estágios de resfriamento deverão ser preenchidas quando aplicável.
+(5) Obrigatório para o enrolamento com tensão nominal igual ou superior a 345 kV.
+A.3.2.3. Disjuntor
+DISJUNTOR
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Dados de Cadastro
+I - Nome do equipamento Alfanumérico sim sim
+IdAgente: Identificador
+II - Transmissora da Transmissora no sim sim
+SIGET
+Ideccd: Identificador da
+III - Concessão sim sim
+concessão no SIGET
+Lista de opções (CA ou
+IV - Tipo de corrente sim sim
+CC)
+Idemdl: Identificador do
+V - Código do módulo no SIGET sim sim
+Módulo no SIGET
+Data de fabricação do
+VI - Data de fabricação (1) equipamento (Formato: não sim
+DD/MM/AAAA)
+Data de início da
+operação
+VII - Entrada em operação comercial (1) não sim
+comercial (Formato:
+DD/MM/AAAA)
+VIII - Número operacional Alfanumérico sim sim
+IX - Código identificador do ativo na concessionária Alfanumérico sim sim
+X - Número do patrimônio Alfanumérico não sim
+XI - Nome da subestação Alfanumérico sim sim
+Idesbe: Identificador da
+XII - Código SIGET da subestação sim sim
+subestação no SIGET
+XIII - Pátio Alfanumérico sim sim
+XIV - Tensão nominal do sistema no ponto de instalação
+Número sim sim
+do equipamento (kV)
+Conforme regra
+XV - Conectividade do ativo – Barra 1 específica de sim sim
+conectividade
+Endereço na internet: http://www.ons.org.br 31 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+DISJUNTOR
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Conforme regra
+XVI - Conectividade do ativo – Barra 2 (2) específica de não sim
+conectividade
+Dados Gerais
+Lista de opções (Linha
+de Transmissão,
+Transformador, Reator,
+1 - Circuito manobrado (CA) Capacitor, Gerador, sim sim
+Filtro(s), Compensador
+Estático,
+Interligador ou Outro)
+2 - Localização (CA) Alfanumérico sim sim
+Lista de opções (NBS,
+3 - Identificação (CC) sim sim
+GRTS, MRTB ou Outro)
+4 - Fabricante Alfanumérico sim sim
+5 - Norma de especificação Alfanumérico sim sim
+Lista de opções (SF6, Ar
+Comprimido, Grande
+6 - Tipo Volume de Óleo, sim sim
+Pequeno Volume de
+Óleo ou Outro)
+Lista de opções (Tripolar
+7 - Comando sim sim
+ou Monopolar)
+Características Técnicas
+8 - Tensão nominal do equipamento (kV) Número sim sim
+9 - Tensão máxima suportável em condições de
+Número sim sim
+emergência durante 1 hora (kV eficaz) (3)
+10 - Corrente nominal (A) Número sim sim
+11 - Capacidade de interrupção nominal de curto-circuito
+Número sim sim
+(kA - eficaz)
+12 - Valor de crista da corrente suportável nominal (kA -
+Número sim sim
+crista)
+13 - Relação X/R Número sim sim
+14 - Fator de Assimetria Número sim sim
+15 - Tempo de interrupção nominal (ciclos) Número sim sim
+16 - Frequência (Hz) Número sim sim
+17.1 - Abertura Número sim sim
+17 - Tempos típicos dos
+17.2 - Fechamento Número sim sim
+contatos principais (ms)
+17.3 - Dispersão entre polos Número sim sim
+Lista de opções (Resistor
+de Fechamento,
+18 - Existência de dispositivo de controle de sobretensão Resistor sim sim
+de Abertura, Dispositivo
+de
+Endereço na internet: http://www.ons.org.br 32 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+DISJUNTOR
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Sincronização ou
+Nenhum)
+19.1 - Resistência (Ω/polo) Número sim sim
+19.2 - Tempo de
+19 - Resistores de Número sim sim
+permanência mínimo (ms)
+fechamento
+19.3 - Dispersão entre polos
+Número sim sim
+(ms)
+20.1 - Resistência (Ω/polo) Número sim sim
+20 - Resistores de
+20.2 - Dispersão entre polos
+abertura Número sim sim
+(ms)
+Lista de opções
+21.1 - Dispositivo de
+(Abertura ou sim sim
+sincronização para
+Fechamento)
+21.2 - Precisão do
+mecanismo de Número sim sim
+abertura/fechamento (+-ms)
+21 - Dispositivo de
+21.3 - Dispersão máxima de
+sincronização
+um mesmo polo (imprecisão Número sim sim
+mecânica - ΔTmech) (ms) (4)
+21.4 - Valor mínimo da taxa
+de decaimento da rigidez
+Número sim sim
+dielétrica (RDDS) do gap
+entre contatos (kV/ms) (4)
+21.5 - Valor médio da taxa de
+decaimento da rigidez
+Número sim sim
+dielétrica (RDDS) do gap
+entre contatos (kV/ms) (4)
+21.6 Valor máximo da taxa
+de decaimento da rigidez
+Número sim sim
+dielétrica (RDDS) do gap
+entre contatos (kV/ms) (4)
+22 - Capacidade de abertura de corrente capacitiva (A
+Número sim sim
+eficaz) (5)
+23 - Tensão de Restabelecimento Transitória (TRT)
+23.1.1 - Envoltória para a
+interrupção de faltas Lista de opções (Sim ou
+sim sim
+terminais de acordo com a Não)
+23.1 - Envoltória para norma?
+interrupção de faltas
+23.1.2 - u1 (kV) (6) Número sim sim
+terminais
+23.1.3 - t1 (μs) (6) Número sim sim
+23.1.4 - uC (kV) (6) Número sim sim
+23.1.5 - t2 (μs) (6) Número sim sim
+Endereço na internet: http://www.ons.org.br 33 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+DISJUNTOR
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+23.1.6 - Fator de 1º polo Número sim sim
+23.1.7 - Taxa de crescimento
+Número sim sim
+(kV/μs) (6)
+23.2.1 - Envoltória para
+abertura em discordância de Lista de opções (Sim ou
+sim sim
+fases de acordo com a Não)
+norma?
+23.2 - Envoltória para
+23.2.2 - u1 (kV) Número sim sim
+abertura em discordância
+23.2.3 - t1 (μs) Número sim sim
+de fases (6)
+23.2.4 - uC (kV) Número sim sim
+23.2.5 - t2 (μs) Número sim sim
+23.2.6 - Taxa de crescimento
+Número sim sim
+(kV/μs)
+23.3.1 - Envoltória para
+abertura de falta Lista de opções (Sim ou
+sim sim
+quilométrica de acordo com Não)
+a norma?
+23.3 - Abertura de falta 23.3.2 - u1 (kV) Número sim sim
+quilométrica (6) 23.3.3 - t1 (μs) Número sim sim
+23.3.4 - uC (kV) Número sim sim
+23.3.5 - t2 (μs) Número sim sim
+23.3.6 - Taxa de crescimento
+Número sim sim
+(kV/μs)
+23.4.1 - Envoltória para
+abertura de corrente Lista de opções (Sim ou
+sim sim
+capacitiva de acordo com a Não)
+23.4 - Abertura de
+norma?
+corrente capacitiva (6)
+23.4.2 - Tensão de crista (kV) Número sim sim
+23.4.3 - Tempo de crista da
+Número sim sim
+envoltória (ms)
+Níveis de Isolamento
+24 - Norma utilizada (7) Alfanumérico sim sim
+25 - Tensão suportável nominal a impulso atmosférico (7)
+25.1 - A terra e entre polos (kV crista) Número sim sim
+25.2 - Entre contatos abertos (kV crista) Número sim sim
+25.3 - Entre contatos abertos a 60 Hz (kV eficaz) (7)(8) Número sim sim
+26 - Tensão suportável nominal a impulso de manobra (7)(8)
+26.1 - Entre polos (kV crista) Número sim sim
+26.2 - Entre contatos abertos (kV crista) Número sim sim
+26.3 - Através de distância de isolamento a impulso (kV
+Número sim sim
+crista)
+26.4 - Através de distância de isolamento a 60 Hz (kV
+Número sim sim
+eficaz)
+27 - Tensão suportável nominal à frequência industrial (60 Hz) (7)
+Endereço na internet: http://www.ons.org.br 34 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+DISJUNTOR
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+27.1 - A terra e entre polos (kV eficaz) Número sim sim
+27.2 - Entre contatos abertos (kV eficaz) Número sim sim
+28 - Tensão suportável nominal a frequência industrial,
+Número não sim
+circuitos auxiliares, 1 min (kV eficaz) (9)
+Campos Eletromagnéticos
+29 - Tensão fase-terra de início e de extinção da corona
+Número sim sim
+visual (kV eficaz) (3)(9)
+30 - Nível máximo de rádio interferência para as chaves
+Número sim sim
+energizadas (µV/m a 1000 kHz) (3)(9)
+(1) Na impossibilidade de se ter a data precisa a informação pode ser cadastrada nos formatos 01/YY/ZZZZ
+ou 01/01/ZZZZ.
+(2) Campos opcionais.
+(3) Obrigatório para equipamento com tensão nominal igual ou superior a 138 kV.
+(4) Deve ser sempre informado em caso de equipamento com entrada em operação a partir de
+01/01/2022 e sempre que possível para os demais equipamentos.
+(5) Obrigatório para equipamento com tensão nominal igual ou superior a 69 kV.
+(6) Para equipamentos que ultrapassarem os valores normatizados, devem ser informados os valores da
+especificação dos equipamentos para as TRTs e, caso contrário, indicação conforme norma.
+(7) Para equipamentos que entrarem em operação até 31/12/2012, informar os valores conforme norma.
+Para equipamentos que entrarem em operação a partir de 01/01/2013, devem ser informados os valores
+da especificação dos equipamentos.
+(8) Obrigatório para equipamento com tensão nominal igual ou superior a 345 kV.
+(9) Deve ser sempre informado em caso de equipamento com entrada em operação a partir de
+01/01/2013 e sempre que possível para os demais equipamentos.
+A.3.2.4. Para-raios
+PARA-RAIOS
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Dados de Cadastro
+I - Nome do equipamento Alfanumérico sim sim
+IdAgente: Identificador
+II - Transmissora da Transmissora no sim sim
+SIGET
+Ideccd: Identificador da
+III - Concessão sim sim
+concessão no SIGET
+Lista de opções (CA ou
+IV - Tipo de corrente sim sim
+CC)
+Idemdl: Identificador do
+V - Código do módulo no SIGET sim sim
+Módulo no SIGET
+Data de fabricação do
+VI - Data de fabricação (1) equipamento (Formato: não sim
+DD/MM/AAAA)
+Endereço na internet: http://www.ons.org.br 35 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+PARA-RAIOS
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Data de início da
+operação
+VII - Entrada em operação comercial (1) não sim
+comercial (Formato:
+DD/MM/AAAA)
+VIII - Número operacional Alfanumérico sim sim
+IX - Código identificador do ativo na concessionária Alfanumérico sim sim
+X - Número do patrimônio Alfanumérico não sim
+XI - Nome da subestação Alfanumérico sim sim
+Idesbe: Identificador da
+XII - Código SIGET da subestação sim sim
+subestação no SIGET
+XIII - Pátio Alfanumérico sim sim
+XIV - Tensão nominal do sistema no ponto de instalação
+Número sim sim
+do equipamento (kV)
+Conforme regra
+XV - Conectividade do ativo – Barra 1 específica de sim sim
+conectividade
+Conforme regra
+XVI - Conectividade do ativo – Barra 2 (2) específica de não sim
+conectividade
+Dados Gerais
+1 - Fabricante Alfanumérico sim sim
+Lista de opções (ZnO,
+2 - Tipo sim sim
+SiC ou Outro)
+3 - Norma de especificação Alfanumérico sim sim
+Lista de opções (Linha
+de Transmissão,
+Transformador, Reator,
+4 - Para-raios de Capacitor, Gerador, sim sim
+Filtro(s), Compensador
+Estático, Barramento ou
+Outro)
+5 - Localização Alfanumérico sim sim
+Características Técnicas
+6 - Tensão nominal do Para-Raios (kV eficaz fase-terra) Número sim sim
+7 - Tensão máxima suportável em condições de
+Número sim sim
+emergência durante 1 hora (kV eficaz) (3)
+8 - Tensão máx de operação continua - MCOV (kV eficaz
+Número sim sim
+fase-terra) (4)
+9 - Corrente de descarga nominal (kA - crista) Número sim sim
+10 - Capacidade máxima de absorção de energia (kJ / kV
+Número sim sim
+de tensão nominal do Para-Raios) (5)
+11 - Número de colunas (5) Número sim sim
+Endereço na internet: http://www.ons.org.br 36 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+PARA-RAIOS
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+12 - Tensões residuais máximas para impulsos
+atmosféricos: onda 8x20 μs - apresentar curva - projeto Arquivo em anexo sim sim
+básico: especificada; como construído: do fabricante (5)
+13 - Tensão residual máxima para impulsos de manobra:
+onda 30x60 μs - apresentar curva - projeto básico: Arquivo em anexo sim sim
+especificada; como construído: do fabricante (5)
+Nota: Em caso de empreendimentos CC (pátio CA ou CC)
+incluir, por meio de anexo, o documento que define a Arquivo em anexo não sim
+Coordenação de Isolamento dos pátios CA e CC
+(1) Na impossibilidade de se ter a data precisa a informação pode ser cadastrada nos formatos 01/YY/ZZZZ
+ou 01/01/ZZZZ.
+(2) Campos opcionais.
+(3) Obrigatório para equipamento com tensão nominal igual ou superior a 108 kV.
+(4) Obrigatório apenas para equipamento do tipo ZnO.
+(5) Deve ser sempre informado em caso de equipamento com entrada em operação a partir de
+01/01/2013 e sempre que possível para os demais equipamentos.
+A.3.2.5. Compensador estático
+COMPENSADOR ESTÁTICO
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Dados de Cadastro
+I - Nome do equipamento Alfanumérico sim sim
+IdAgente: Identificador
+II - Transmissora da Transmissora no sim sim
+SIGET
+Ideccd: Identificador da
+III - Concessão sim sim
+concessão no SIGET
+Lista de opções (CA ou
+IV - Tipo de corrente sim sim
+CC)
+Idemdl: Identificador do
+V - Código do módulo no SIGET sim sim
+Módulo no SIGET
+Data de fabricação do
+VI - Data de fabricação (1) equipamento (Formato: não sim
+DD/MM/AAAA)
+Data de início da
+operação
+VII - Entrada em operação comercial (1) não sim
+comercial (Formato:
+DD/MM/AAAA)
+VIII - Número operacional Alfanumérico sim sim
+IX - Código identificador do ativo na concessionária Alfanumérico sim sim
+X - Número do patrimônio Alfanumérico não sim
+XI - Nome da subestação Alfanumérico sim sim
+Endereço na internet: http://www.ons.org.br 37 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+COMPENSADOR ESTÁTICO
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Idesbe: Identificador da
+XII - Código SIGET da subestação sim sim
+subestação no SIGET
+XIII - Pátio Alfanumérico sim sim
+XIV - Tensão nominal do sistema no ponto de instalação
+Número sim sim
+do equipamento (kV)
+Conforme regra
+XV - Conectividade do ativo – Barra 1 específica de sim sim
+conectividade
+Conforme regra
+XVI - Conectividade do ativo – Barra 2 (2) específica de não sim
+conectividade
+Dados Gerais
+1 - Fabricante Alfanumérico sim sim
+2 - Norma de especificação Alfanumérico sim sim
+3 - Tensão nominal na barra de conexão (kV) Número sim sim
+4 - Diagrama unifilar da instalação Arquivo em anexo sim sim
+Características Técnicas
+5 - Faixa operativa de 5.1 Mínima Número sim sim
+tensão na barra de
+5.2 Máxima Número sim sim
+conexão (kV)
+6.1 - Capacidade nominal contínua na barra de conexão
+do para toda a faixa de tensão operativa (Mvar Número sim sim
+Capacitivo)
+6.2 - Capacidade nominal contínua na barra de conexão
+Número sim sim
+do para toda a faixa de tensão operativa (Mvar Indutivo)
+7 - Configuração (TCRs, TSCs, capacitores fixos,
+Arquivo em anexo sim sim
+elementos externos manobráveis, filtros, etc.)
+8.1 - Mínimo Número sim sim
+8 - Estatismo (%)
+8.2 - Máximo Número sim sim
+9 - Característica de operação tensão x corrente reativa
+Arquivo em anexo sim sim
+(V x I)
+10.1 - Reatância inicial (Ω) Número sim sim
+10 - Reatância nominal (Ω)
+10.2 - Reatância final (Ω) Número sim sim
+11 - Capacidade de sobrecarga (curva V x t) Arquivo em anexo sim sim
+12 - Corrente nominal (A - eficaz) Número sim sim
+13 - Corrente de curto-circuito no ponto de conexão para
+Número sim sim
+dimensionamento dos equipamentos do CER (kA)
+14 - Número de pulsos das pontes tiristoras Número sim sim
+15 - Perdas do CER Arquivo em anexo sim sim
+16 - Diagrama em blocos dos sistemas de controle, no
+domínio da frequência, representado através das
+Arquivo em anexo sim sim
+funções de transferência, com a respectiva topologia.
+Devem ser fornecidos os valores dos parâmetros, bem
+Endereço na internet: http://www.ons.org.br 38 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+COMPENSADOR ESTÁTICO
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+como as suas faixas de ajuste e uma descrição sucinta
+dos seus significados.
+17 - Estudos de desempenho harmônico do CER Arquivo em anexo sim não
+18 - Estudos de dimensionamento do rating dos
+Arquivo em anexo sim não
+equipamentos do CER (filtros, etc.)
+19 - Modelo computacional para simulação de
+fenômenos transitórios eletromagnéticos no programa Arquivo em anexo sim sim
+ATP
+20 - Modelo computacional para simulação de
+fenômenos transitórios eletromecânicos no programa Arquivo em anexo sim sim
+ANATEM
+21 - Folha de Dados (Datasheet) das válvulas Arquivo em anexo não sim
+22 - Relatório de ensaios Arquivo em anexo não sim
+(1) Na impossibilidade de se ter a data precisa a informação pode ser cadastrada nos formatos 01/YY/ZZZZ
+ou 01/01/ZZZZ.
+(2) Campos opcionais.
+A.3.2.6. Reator em derivação
+REATOR EM DERIVAÇÃO
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Dados de Cadastro
+I - Nome do equipamento Alfanumérico sim sim
+IdAgente:
+Identificador da
+II - Transmissora sim sim
+Transmissora no
+SIGET
+Ideccd: Identificador
+III - Concessão da concessão no sim sim
+SIGET
+Lista de opções (CA
+IV - Tipo de corrente sim sim
+ou CC)
+Idemdl: Identificador
+V - Código do módulo no SIGET sim sim
+do Módulo no SIGET
+Data de fabricação do
+VI - Data de fabricação (1) não sim
+equipamento
+Endereço na internet: http://www.ons.org.br 39 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+REATOR EM DERIVAÇÃO
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+(Formato:
+DD/MM/AAAA)
+Data de início da
+VII - Entrada em operação comercial (1) não sim
+operação
+comercial (Formato:
+DD/MM/AAAA)
+VIII - Número operacional Alfanumérico sim sim
+IX - Código identificador do ativo na concessionária Alfanumérico sim sim
+X - Número do patrimônio Alfanumérico não sim
+XI - Nome da subestação Alfanumérico sim sim
+Idesbe: Identificador
+XII - Código SIGET da subestação da subestação no sim sim
+SIGET
+XIII - Pátio Alfanumérico sim sim
+XIV - Tensão nominal do sistema no ponto de instalação do
+Número sim sim
+equipamento (kV)
+Conforme regra
+XV - Conectividade do ativo – Barra 1 específica de sim sim
+conectividade
+Conforme regra
+XVI - Conectividade do ativo – Barra 2 (2) específica de não sim
+conectividade
+Dados Gerais
+Lista de opções (Linha
+de Transmissão,
+1 - Reator de? sim sim
+Barramento ou
+Outro)
+2 - Localização do reator Alfanumérico sim sim
+Lista de opções (Sim
+3 - Manobrável por disjuntor sim sim
+ou Não)
+Lista de opções (Sim
+4 - É unidade reserva sim sim
+ou Não)
+5 - Fabricante Alfanumérico sim sim
+6 - Norma de especificação ou norma aplicável no ano de
+Alfanumérico sim sim
+fabricação
+Lista de opções
+7 - Fases do reator (Monofásico ou sim sim
+Trifásico)
+Características Elétricas
+8 - Tensão nominal do equipamento (kV - eficaz) Número sim sim
+9 - Tensão máxima de operação (kV - eficaz) Número sim sim
+10 - Tensão Máxima suportável em condições de
+Número sim sim
+emergência durante 1 hora (kV - eficaz) (3)
+Endereço na internet: http://www.ons.org.br 40 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+REATOR EM DERIVAÇÃO
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+11 - Frequência (Hz) Número sim sim
+12 - Potência nominal contínua (Mvar) aplicada à base de
+Número sim sim
+tensão associada
+13 - Base de tensão (kV) associada à potência nominal Número sim sim
+14.1 - Impedância a 60 Hz (4)
+14.1.1 - Especificada por fase (Ω) Número sim sim
+14.2 - Tolerâncias de projeto das reatâncias por fase (4)
+14.2.1 - Dispersão máxima por fase (%) Número sim sim
+14.2.2 - Afastamento máximo por fase em relação a média
+Número sim sim
+das fases (%)
+14.3 - Medida por fase (Ω) (4)
+14.3.1 - Fase A Número não sim
+14.3.2 - Fase B Número não sim
+14.3.3 - Fase C Número não sim
+14.3.4 – Fase Reserva Número não sim
+15 - Perdas a tensão e frequência nominais (% da potência
+Número sim sim
+trifásica nominal) (4)
+16 - Tensão nominal da bucha de neutro (kV - eficaz) (4) Número sim sim
+Lista de opções
+(estrela aterrada ou
+17 - Ligação (4) estrela com neutro sim sim
+isolado ou triângulo
+ou outro)
+Lista de opções
+(solidamente
+18 - Aterramento do neutro (4) sim sim
+aterrado ou com
+reatância ou outro)
+19 - Curva de saturação
+Arquivo em anexo sim sim
+Joelho (pu da tensão nominal da rede) e Xac (%) (4)
+Coordenação de Isolamento dos Enrolamentos do Reator Principal
+20 - Tensão suportável nominal a impulso atmosférico, onda plena
+20.1 - Alta tensão (kV crista) Número sim sim
+20.2 - Neutro (kV crista) (4) Número sim sim
+21 - Tensão suportável nominal a impulso atmosférico, onda cortada
+21.1 - Alta tensão (kV crista) Número sim sim
+21.2 - Neutro (kV crista) (4) Número sim sim
+22 - Tensão suportável nominal a impulso de manobra (5)
+22.1 - Alta tensão (kV crista) Número sim sim
+22.2 - Neutro (kV crista) (2) Número sim sim
+23 - Tensão suportável nominal a 60 Hz, 1 minuto a seco
+23.1 - Alta tensão (kV eficaz) Número sim sim
+23.2 - Neutro (kV eficaz) (4) Número sim sim
+24 - Suportabilidades para sobretensões temporárias
+Arquivo em anexo não sim
+(tensão x tempo) (4)
+Endereço na internet: http://www.ons.org.br 41 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+REATOR EM DERIVAÇÃO
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Reator de neutro, caso aplicável
+25 - Reatância (Ω) Número sim sim
+26 - Potência nominal contínua (kvar) Número sim sim
+27 - Corrente nominal (A - eficaz) Número sim sim
+28 - Corrente de curta duração (A - eficaz) Número sim sim
+29 - Tensão nominal (kV - eficaz) Número sim sim
+30 - Para-Raios
+30.1 - Tensão nominal (kV) Número sim sim
+30.2 - Energia (kJ/kV) Número sim sim
+30.3 - Curva de descarga (30 x 60 µs) (4) Arquivo em anexo sim sim
+Campos Eletromagnéticos
+31 - Tensão fase-terra de início e de extinção da corona
+Número sim sim
+visual (kV eficaz) (3)(4)
+32 - Nível máximo de rádio interferência (µV/m a 1000 kHz)
+Número sim sim
+(3)(4)
+TC de Bucha
+Lista de opções (Sim -
+Alta/Neutro, Sim-
+33 - Possui TC de bucha? sim sim
+Alta, Sim-Neutro ou
+Não)
+(1) Na impossibilidade de se ter a data precisa a informação pode ser cadastrada nos formatos 01/YY/ZZZZ
+ou 01/01/ZZZZ.
+(2) Campos opcionais.
+(3) Obrigatório para equipamento com tensão nominal igual ou superior a 138 kV.
+(4) Deve ser sempre informado em caso de equipamento com entrada em operação a partir de
+01/01/2013 e sempre que possível para os demais equipamentos.
+(5) Obrigatório para o enrolamento com tensão nominal igual ou superior a 345 kV.
+A.3.2.7. Capacitor em derivação
+CAPACITOR EM DERIVAÇÃO
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Dados de Cadastro
+I - Nome do equipamento Alfanumérico sim sim
+IdAgente: Identificador
+II - Transmissora da Transmissora no sim sim
+SIGET
+Ideccd: Identificador da
+III - Concessão sim sim
+concessão no SIGET
+Lista de opções (CA ou
+IV - Tipo de corrente sim sim
+CC)
+Idemdl: Identificador do
+V - Código do módulo no SIGET sim sim
+Módulo no SIGET
+Endereço na internet: http://www.ons.org.br 42 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+CAPACITOR EM DERIVAÇÃO
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Data de fabricação do
+VI - Data de fabricação (1) equipamento (Formato: não sim
+DD/MM/AAAA)
+Data de início da
+operação
+VII - Entrada em operação comercial (1) não sim
+comercial (Formato:
+DD/MM/AAAA)
+VIII - Número operacional Alfanumérico sim sim
+IX - Código identificador do ativo na concessionária Alfanumérico sim sim
+X - Número do patrimônio Alfanumérico não sim
+XI - Nome da subestação Alfanumérico sim sim
+Idesbe: Identificador da
+XII - Código SIGET da subestação sim sim
+subestação no SIGET
+XIII - Pátio Alfanumérico sim sim
+XIV - Tensão nominal do sistema no ponto de instalação
+Número sim sim
+do equipamento (kV)
+Conforme regra
+XV - Conectividade do ativo – Barra 1 específica de sim sim
+conectividade
+Conforme regra
+XVI - Conectividade do ativo – Barra 2 (2) específica de não sim
+conectividade
+Dados Gerais
+1 - Fabricante Alfanumérico não sim
+2 - Norma de especificação ou norma aplicável no ano de
+Alfanumérico sim sim
+fabricação
+Características Elétricas
+3 - Tensão nominal do equipamento (kV) Número sim sim
+4 - Tensão máxima de emergência (1 hora) (kV eficaz) (3) Número sim sim
+5 - Potência nominal (Mvar) Número sim sim
+6 - Frequência Número sim sim
+Lista de opções (Estrela
+com Neutro Aterrado,
+7 - Ligação trifásica do banco Estrela com Neutro sim sim
+Isolado, Triângulo ou
+Outro)
+8 - Tolerâncias de projeto das capacitâncias por fase (%) (4)
+8.1 - Máxima por fase Número sim sim
+8.2 - Afastamento máx. por fase em relação a média das
+Número sim sim
+fases
+9 - Capacitâncias medidas por fase (µF)
+9.1 - Fase A Número não sim
+9.2 - Fase B Número não sim
+9.3 - Fase C Número não sim
+Endereço na internet: http://www.ons.org.br 43 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+CAPACITOR EM DERIVAÇÃO
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+10 - Perdas do banco (W / kvar) Número sim sim
+11 - Reator série, caso aplicável (Ω) Número sim sim
+Lista de opções (Sim ou
+12 - Para-raios instalados nos terminais do banco sim sim
+Não)
+13.1 - atmosférico, a seco Número sim sim
+13 - Níveis de isolamento
+13.2 - de manobra, sob
+(kV crista) Número sim sim
+chuva (5)
+14 - Diagrama unifilar Arquivo em anexo não sim
+(1) Na impossibilidade de se ter a data precisa a informação pode ser cadastrada nos formatos 01/YY/ZZZZ
+ou 01/01/ZZZZ.
+(2) Campos opcionais.
+(3) Obrigatório para equipamento com tensão nominal igual ou superior a 138 kV.
+(4) Deve ser sempre informado em caso de equipamento com entrada em operação a partir de
+01/01/2013 e sempre que possível para os demais equipamentos.
+(5) Obrigatório para equipamento com tensão nominal igual ou superior a 345 kV.
+A.3.2.8. Capacitor série fixo
+CAPACITOR SÉRIE FIXO
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Dados de Cadastro
+I - Nome do equipamento Alfanumérico sim sim
+IdAgente:
+Identificador da
+II - Transmissora sim sim
+Transmissora no
+SIGET
+Ideccd:
+Identificador da
+III - Concessão sim sim
+concessão no
+SIGET
+Lista de opções
+IV - Tipo de corrente sim sim
+(CA ou CC)
+Idemdl:
+V - Código do módulo no SIGET Identificador do sim sim
+Módulo no SIGET
+Data de
+fabricação do
+VI - Data de fabricação (1) equipamento não sim
+(Formato:
+DD/MM/AAAA)
+Data de início da
+VII - Entrada em operação comercial (1) operação não sim
+comercial
+Endereço na internet: http://www.ons.org.br 44 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+CAPACITOR SÉRIE FIXO
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+(Formato:
+DD/MM/AAAA)
+VIII - Número operacional Alfanumérico sim sim
+IX - Código identificador do ativo na concessionária Alfanumérico sim sim
+X - Número do patrimônio Alfanumérico não sim
+XI - Nome da subestação Alfanumérico sim sim
+Idesbe:
+Identificador da
+XII - Código SIGET da subestação sim sim
+subestação no
+SIGET
+XIII - Pátio Alfanumérico sim sim
+XIV - Tensão nominal do sistema no ponto de instalação do
+Número sim sim
+equipamento (kV)
+Conforme regra
+XV - Conectividade do ativo – Barra 1 específica de sim sim
+conectividade
+Conforme regra
+XVI - Conectividade do ativo – Barra 2 (2) específica de não sim
+conectividade
+Dados Gerais
+1.1 - Nome Alfanumérico sim sim
+Idelt:
+1 - Linha de transmissão
+1.2 - Código SIGET Identificador da sim sim
+LT no SIGET
+2 - Fabricante Alfanumérico sim sim
+3 - Norma de especificação ou norma aplicável no ano de
+Alfanumérico sim sim
+fabricação
+Características Elétricas do Banco
+4 - Tensão nominal dos capacitores série (kV eficaz) Número sim sim
+5 - Tensão nominal do banco de capacitores série (kV eficaz) Número sim sim
+6.1 - Dos capacitores série Número sim sim
+6 - Reatância nominal (Ω)
+6.2 - Do banco série Número sim sim
+7 - Potência nominal (Mvar) Número sim sim
+8 - Capacidade de sobrecarga (curva I x t) (3) Arquivo em anexo sim sim
+9 - Ciclo de operação durante faltas internas e externas na linha
+Arquivo em anexo sim sim
+de transmissão
+Lista de opções:
+por fase, trifásico
+10 - Tipo de by-pass adotado ou selecionável sim sim
+(por
+fase/trifásico)
+Características da Proteção do Banco
+Endereço na internet: http://www.ons.org.br 45 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+CAPACITOR SÉRIE FIXO
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+11 - Diagrama unifilar indicando os principais componentes do
+banco, incluindo o circuito principal (capacitores, circuito de Arquivo em anexo sim sim
+amortecimento, GAP controlado, MOV e disjuntor de by-pass)
+12 - Corrente de swing e 12.1 - Corrente de swing (A) Número sim sim
+tempo associado
+considerados no projeto (A / 12.2 - Tempo associado (s) Número sim sim
+s) (4)
+13 - Nível protetivo (kV pico/pu) (4) Número sim sim
+14.1 - Energia máxima dos
+Número sim sim
+varistores (MJ/fase)
+14 - Características dos 14.2 - Tensão nominal (kV
+Número sim sim
+varistores (4) eficaz)
+14.3 - Característica V x I Arquivo em anexo sim sim
+14.4 - MCOV (kV eficaz) Número sim sim
+15 - Tempo de disparo do GAP (ms) (4) Número sim sim
+16 - Tensão mínima para disparo do GAP (pu) (4) Número sim sim
+17.1 - Iset (kA) Número sim sim
+17 - Ajustes do by-pass (4) 17.2 - Eset (MJ) Número sim sim
+17.3 - dE/dt (MJ/ms) Número sim sim
+18 - Tempo de retardo do controle / transmissão ótica do sinal
+de by-pass s/considerar o retardo correspondente ao disparo Número sim sim
+do GAP (ms) (4)
+19 - Tempo de atuação do disjuntor de by-pass (ms) (4) Número sim sim
+Níveis de Isolamento
+20 - Tensão máxima operativa a 60 Hz (kV eficaz) Número sim sim
+21 - Níveis de isolamento da 21.1- Atmosférico, a seco Número sim sim
+plataforma (kV crista) 21.2- Manobra, sob chuva Número sim sim
+Comportamento Térmico do Banco
+22 - Temperatura máxima suportável pelas pastilhas do MOV
+Número sim sim
+(°C)
+23 - Temperatura máxima atingida pelas pastilhas do MOV nas
+Número sim sim
+sequências de faltas (°C)
+Arquivo em
+sim sim
+24 - Curva de resfriamento das pastilhas (temperatura x tempo) Anexo
+Modelos e Anexos
+25 - Fornecer modelo do banco série, no programa ATP, para
+simulações de transitórios eletromagnéticos, com os retardos
+inerentes ao sistema de controle/transmissão do sinal, além do
+Arquivo em
+disparo do GAP: (4) sim sim
+Anexo
+- O modelo deve representar com fidelidade o by-pass do BCS.
+- O modelo deve ser documentado c/ modelagem blocos
+implementada no ATP.
+Arquivo em
+26 - Relatório de Ensaio não sim
+Anexo
+Endereço na internet: http://www.ons.org.br 46 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+CAPACITOR SÉRIE FIXO
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Demais Equipamentos do Banco - Chaves Seccionadoras
+27 - Corrente nominal (A) Número sim sim
+28 - Corrente de curto-circuito (kA) Número sim sim
+29 - Corrente de curto-circuito assimétrica (kA) Número sim sim
+(1) Na impossibilidade de se ter a data precisa a informação pode ser cadastrada nos formatos 01/YY/ZZZZ
+ou 01/01/ZZZZ.
+(2) Campos opcionais.
+(3) Informar também a corrente nominal e as correntes para os períodos de 30 minutos, 2 horas e 8 horas.
+Deve também ser informada a periodicidade permitida para os períodos de sobrecarga e quantas vezes as
+mesmas podem ser aplicadas ao longo da vida útil do equipamento.
+(4) Deve ser sempre informado em caso de equipamento com entrada em operação a partir de
+01/01/2013 e sempre que possível para os demais equipamentos.
+A.3.2.9. Compensador síncrono
+COMPENSADOR SÍNCRONO
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Dados de Cadastro
+I - Nome do equipamento Alfanumérico sim sim
+IdAgente: Identificador
+II - Transmissora da Transmissora no sim sim
+SIGET
+Ideccd: Identificador da
+III - Concessão sim sim
+concessão no SIGET
+Lista de opções (CA ou
+IV - Tipo de corrente sim sim
+CC)
+Idemdl: Identificador do
+V - Código do módulo no SIGET sim sim
+Módulo no SIGET
+Data de fabricação do
+VI - Data de fabricação (1) equipamento (Formato: não sim
+DD/MM/AAAA)
+Data de início da
+operação
+VII - Entrada em operação comercial (1) não sim
+comercial (Formato:
+DD/MM/AAAA)
+VIII - Número operacional Alfanumérico sim sim
+IX - Código identificador do ativo na concessionária Alfanumérico sim sim
+X - Número do patrimônio Alfanumérico não sim
+XI - Nome da subestação Alfanumérico sim sim
+Idesbe: Identificador da
+XII - Código SIGET da subestação sim sim
+subestação no SIGET
+XIII - Pátio Alfanumérico sim sim
+Endereço na internet: http://www.ons.org.br 47 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+COMPENSADOR SÍNCRONO
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+XIV - Tensão nominal do sistema no ponto de instalação
+Número sim sim
+do equipamento (kV)
+Conforme regra
+XV - Conectividade do ativo – Barra 1 específica de sim sim
+conectividade
+Conforme regra
+XVI - Conectividade do ativo – Barra 2 (2) específica de não sim
+conectividade
+Dados Gerais
+1 - Fabricante Alfanumérico não sim
+2 - Norma de especificação ou norma aplicável no ano de
+Alfanumérico não sim
+fabricação
+Características Técnicas
+3 - Potência nominal (MVA) Número sim sim
+4 - Faixa operativa de 4.1 - Máxima Número sim sim
+tensão (kV) 4.2 - Mínima Número sim sim
+5 - Faixa operativa de 5.1 - Máxima Número sim sim
+potência reativa (Mvar) 5.2 - Mínima Número sim sim
+6 - Corrente máxima de estator (A) (3) Número sim sim
+7 - Corrente de campo nominal (A) (3) Número sim sim
+8 - Corrente de campo máxima (A) (3) Número sim sim
+9 - Diagrama em blocos do sistema de excitação
+(regulador de tensão e excitatriz) incluindo os
+limitadores existentes, no domínio da frequência,
+representado através das funções de transferência, com Arquivo em anexo sim sim
+a respectiva topologia. Devem ser fornecidos os valores
+dos parâmetros, bem como as suas faixas de ajuste e
+uma descrição sucinta dos seus significados. (3)
+10 - Curva de saturação (3) Arquivo em anexo sim sim
+11 - Inércia da máquina (parte girante) - GD2 (t.m2) Número sim sim
+12 - Constante de inércia – H (MWs /MVA) (3) Número sim sim
+13 - Velocidade síncrona (rpm) (3) Número sim sim
+14 - Número de polos (3) Número sim sim
+15 - Cte tempo transitória em vazio - eixo direto – T’ (s)
+do Número sim sim
+(3)
+16 - Cte tempo subtransitória em vazio - eixo direto – T”
+do Número sim sim
+(s) (3)
+17 - Cte de tempo transitória em vazio - eixo quadratura –
+Número sim sim
+T’ (s) (3)
+qo
+18 - Constante de tempo subtransitória em vazio de eixo
+Número sim sim
+quadratura – T'' (s) (3)
+qo
+19 - Reatância síncrona de eixo direto não saturada – X
+d Número sim sim
+(pu) (3)
+Endereço na internet: http://www.ons.org.br 48 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+COMPENSADOR SÍNCRONO
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+20 - Reatância transitória de eixo direto não saturada –
+Número sim sim
+X’ (pu) (3)
+d
+21 - Reatância subtransitória de eixo direto não saturada
+Número sim sim
+– X’’ (pu) (3)
+d
+22 - Reat. síncrona de eixo em quadratura não saturada
+Número sim sim
+– X (pu) (3)
+q
+23 - Reat. transitória de eixo em quadratura não
+Número sim sim
+saturada – X’ (pu) (3)
+q
+24 - Reat. subtransitória de eixo quadratura não
+Número sim sim
+saturada - X’’ (pu) (3)
+q
+25 - Reatância de Poitier - X (pu) (3) Número sim sim
+p
+26 - Reatância de dispersão não saturada – X (pu) Número sim sim
+L
+27 - Reatância de sequência negativa não saturada – X
+2 Número sim sim
+(pu) (3)
+28 - Reatância de sequência zero não saturada – X (pu)
+0 Número sim sim
+(3)
+29 - Resistência da armadura em corrente alternada – R
+a Número sim sim
+(pu) (3)
+30 - Resistência da armadura de sequência negativa – R
+2 Número sim sim
+(pu) (3)
+31 - Resistência da armadura de sequência zero – R (pu)
+0 Número sim sim
+(3)
+32 - Resistência de aterramento – R (Ω) (3) Número sim sim
+t
+33 - Reatância de aterramento – X (Ω) (3) Número sim sim
+t
+34 - Relação de curto-circuito – RCC Número sim sim
+(1) Na impossibilidade de se ter a data precisa a informação pode ser cadastrada nos formatos 01/YY/ZZZZ
+ou 01/01/ZZZZ.
+(2) Campos opcionais.
+(3) Deve ser sempre informado em caso de equipamento com entrada em operação a partir de
+01/01/2013 e sempre que possível para os demais equipamentos.
+A.3.2.10. Seccionador
+SECCIONADOR
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Dados de Cadastro
+I - Nome do equipamento Alfanumérico sim sim
+IdAgente: Identificador da
+II - Transmissora sim sim
+Transmissora no SIGET
+Ideccd: Identificador da
+III - Concessão sim sim
+concessão no SIGET
+IV - Tipo de corrente Lista de opções (CA ou CC) sim sim
+Endereço na internet: http://www.ons.org.br 49 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+SECCIONADOR
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Idemdl: Identificador do
+V - Código do módulo no SIGET sim sim
+Módulo no SIGET
+Data de fabricação do
+VI - Data de fabricação (1) equipamento (Formato: não sim
+DD/MM/AAAA)
+Data de início da operação
+VII - Entrada em operação comercial (1) comercial (Formato: não sim
+DD/MM/AAAA)
+VIII - Número operacional Alfanumérico sim sim
+IX - Código identificador do ativo na concessionária Alfanumérico sim sim
+X - Número do patrimônio Alfanumérico não sim
+XI - Nome da subestação Alfanumérico sim sim
+Idesbe: Identificador da
+XII - Código SIGET da subestação sim sim
+subestação no SIGET
+XIII - Pátio Alfanumérico sim sim
+XIV - Tensão nominal do sistema no ponto de
+Número sim sim
+instalação do equipamento (kV)
+Conforme regra específica de
+XV - Conectividade do ativo – Barra 1 sim sim
+conectividade
+Conforme regra específica de
+XVI - Conectividade do ativo – Barra 2 (2) não sim
+conectividade
+Dados Gerais
+Lista de opções (Linha de
+Transmissão, Transformador,
+1 - Localização sim sim
+Reator, Capacitor, Vão de
+Transferência ou Outro)
+2 - Fabricante Alfanumérico sim sim
+Lista de opções (Dupla
+Abertura Lateral, Abertura
+Lateral, Abertura Vertical,
+3 - Tipo Semi-pantográfica, Abertura sim sim
+Central, Semi-pantográfica
+tipo "Knee", Pantográgrica ou
+Outro)
+4 - Norma de especificação ou aplicável no ano de
+Alfanumérico sim sim
+fabricação
+Características Técnicas
+5 - Tensão nominal do equipamento (kV eficaz) Número sim sim
+6 - Tensão máxima suportável em condições de
+Número sim sim
+emergência durante 1 hora (kV eficaz) (3)
+7 - Frequência (Hz) Número sim sim
+8 - Corrente nominal (A eficaz) Número sim sim
+9 - Corrente suportável nominal de curta duração
+Número sim sim
+(1s) (kA - eficaz)
+Endereço na internet: http://www.ons.org.br 50 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+SECCIONADOR
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+10 - Valor de crista da corrente suportável nominal
+Número sim sim
+(kA - crista) (4)
+11 - Relação de assimetria (4) Número sim sim
+12 - X/R (4) Número sim sim
+13 - Classe de durabilidade mecânica Alfanumérico não sim
+14 - Possui transferência de barras Lista de opções (Sim ou Não) sim sim
+15 - Corrente nominal de transferência de barras
+Número sim sim
+(A eficaz)
+16 - Tensão nominal de transferência de barras (V
+Número sim sim
+eficaz)
+Campos Eletromagnéticos
+17 - Tensão fase-terra de início e extinção do
+Número sim sim
+corona visual (kV eficaz) (3)(4)
+18 - Nível máximo de rádio interferência (µV/m a
+Número sim sim
+1000 kHz) (3)(4)
+Níveis de Isolamento (4)
+19 - Tensão suportável nominal a impulso atmosférico
+19.1 - Para a terra e entre polos (kV crista) Número sim sim
+19.2 - Entre os contatos abertos (kV crista) Número sim sim
+20 - Tensão suportável nominal a impulso de manobras (5)
+20.1 - Para a terra e entre polos (kV crista) Número sim sim
+20.2 - Entre os contatos abertos (kV crista) Número sim sim
+20.3 - Através de distância de isolamento, impulso
+Número sim sim
+(kV crista)
+20.4 - Através de distância de isolamento, a 60 Hz
+Número sim sim
+(kV eficaz)
+21 - Tensão suportável nominal a frequência industrial
+21.1 - Para a terra e entre polos (kV eficaz) Número sim sim
+21.2 - Entre os contatos abertos (kV eficaz) Número sim sim
+22 - Tensão suportável nominal a frequência
+industrial, circuitos auxiliares, 1 minuto, tensão Número sim sim
+suportável (kV eficaz)
+Lâminas de Aterramento
+23 - Possui lâmina de aterramento? Lista de opções (Sim ou Não) sim sim
+24 - Classe de acoplamento especificada Lista de opções (A, B ou Outro) sim sim
+25 - Classe de durabilidade elétrica Lista de opções (E0, E1 ou E2) não sim
+26.1 - Corrente induzida
+Número sim sim
+26 - Limite (A - eficaz)
+Eletromagnético (4) 26.2 - Tensão induzida (kV
+Número sim sim
+- eficaz)
+27.1 - Corrente induzida
+Número sim sim
+27 - Limite (A - eficaz)
+Eletrostático (4) 27.2 - Tensão induzida (kV
+Número sim sim
+- eficaz)
+Endereço na internet: http://www.ons.org.br 51 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+SECCIONADOR
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+28 - Norma de especificação Alfanumérico sim sim
+(1) Na impossibilidade de se ter a data precisa a informação pode ser cadastrada nos formatos 01/YY/ZZZZ
+ou 01/01/ZZZZ.
+(2) Campos opcionais.
+(3) Obrigatório para equipamento com tensão nominal igual ou superior a 138 kV.
+(4) Deve ser sempre informado em caso de equipamento com entrada em operação a partir de
+01/01/2013 e sempre que possível para os demais equipamentos.
+(5) Obrigatório para equipamento com tensão nominal igual ou superior a 345 kV.
+A.3.2.11. Transformador de corrente
+TRANSFORMADOR DE CORRENTE
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Dados de Cadastro
+I - Nome do equipamento Alfanumérico sim sim
+IdAgente: Identificador
+II - Transmissora da Transmissora no sim sim
+SIGET
+Ideccd: Identificador da
+III - Concessão sim sim
+concessão no SIGET
+Lista de opções (CA ou
+IV - Tipo de corrente sim sim
+CC)
+Idemdl: Identificador do
+V - Código do módulo no SIGET sim sim
+Módulo no SIGET
+Data de fabricação do
+VI - Data de fabricação (1) equipamento (Formato: não sim
+DD/MM/AAAA)
+Data de início da
+operação
+VII - Entrada em operação comercial (1) não sim
+comercial (Formato:
+DD/MM/AAAA)
+VIII - Número operacional Alfanumérico sim sim
+IX - Código identificador do ativo na concessionária Alfanumérico sim sim
+X - Número do patrimônio Alfanumérico não sim
+XI - Nome da subestação Alfanumérico sim sim
+Idesbe: Identificador da
+XII - Código SIGET da subestação sim sim
+subestação no SIGET
+XIII - Pátio Alfanumérico sim sim
+XIV - Tensão nominal do sistema no ponto de instalação
+Número sim sim
+do equipamento (kV)
+Conforme regra
+XV - Conectividade do ativo – Barra 1 específica de sim sim
+conectividade
+Endereço na internet: http://www.ons.org.br 52 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+TRANSFORMADOR DE CORRENTE
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Conforme regra
+XVI - Conectividade do ativo – Barra 2 (2) específica de não sim
+conectividade
+Dados Gerais
+1 - Fabricante Alfanumérico não sim
+Lista de opções
+2 - Tipo (Pedestal, Bucha ou não sim
+Outro)
+3 - Norma de especificação ou aplicável no ano de
+Alfanumérico sim sim
+fabricação
+Lista de opções (Linha
+de Transmissão,
+Transformador, Reator,
+4 - TC de (circuito)? sim sim
+Capacitor, Disjuntor,
+Vão de
+Transferência ou Outro)
+5 - Localização Alfanumérico sim sim
+Características Técnicas
+6 - Tensão máxima de operação contínua (kV) Número sim sim
+7 - Tensão máxima suportável em condições de
+Número sim sim
+emergência durante 1 hora (kV eficaz) (3)
+8 - Corrente nominal primária (A eficaz) Número sim sim
+9 - Corrente nominal secundária (A eficaz) Alfanumérico sim sim
+10 - Corrente suportável nominal de curta duração (kA
+Número sim sim
+eficaz)
+11 - Valor de crista da corrente suportável nominal (kA
+Número sim sim
+crista)
+12 - Constante de tempo da componente contínua da
+Número sim sim
+corrente de curto-circuito (ms) (4)
+13 - Frequência (Hz) Número sim sim
+14 - Fator térmico 14.1 - Núcleo de medição Número sim sim
+nominal 14.2 - Núcleo de proteção Número sim sim
+15.1 - Núcleo de medição Número sim sim
+15 - Número de núcleos
+15.2 - Núcleo de proteção Número sim sim
+16 - Classe de exatidão e 16.1 - Núcleo de medição Alfanumérico sim sim
+carga 16.2 - Núcleo de proteção Alfanumérico sim sim
+17 - Relações de 17.1 - Núcleo de medição Alfanumérico sim sim
+transformação nominal 17.2 - Núcleo de proteção Alfanumérico sim sim
+Níveis de Isolamento
+18 - Tensão suportável nominal a impulso atmosférico,
+Número sim sim
+onda plena (kV crista)
+19 - Tensão suportável nominal a impulso atmosférico,
+Número sim sim
+onda cortada (kV crista)
+Endereço na internet: http://www.ons.org.br 53 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+TRANSFORMADOR DE CORRENTE
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+20 - Tensão suportável nominal a impulso de manobra
+Número sim sim
+(kV crista) (5)
+21 - Tensão suportável nominal a 60 Hz, 1 minuto a seco
+Número sim sim
+(kV eficaz)
+22 - Tensão suportável nominal a 60 Hz a seco nos
+Número sim sim
+enrolamentos secundários durante 1 min (kV eficaz)
+23 - Curva de saturação (4) Arquivo em Anexo sim sim
+(1) Na impossibilidade de se ter a data precisa a informação pode ser cadastrada nos formatos 01/YY/ZZZZ
+ou 01/01/ZZZZ.
+(2) Campos opcionais.
+(3) Obrigatório para equipamento com tensão nominal igual ou superior a 138 kV.
+(4) Obrigatório em caso de equipamento com entrada em operação a partir de 01/01/2013.
+(5) Obrigatório para equipamento com tensão nominal igual ou superior a 345 kV.
+A.3.2.12. Transformador de potencial
+TRANSFORMADOR DE POTENCIAL
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Dados de Cadastro
+I - Nome do equipamento Alfanumérico sim sim
+IdAgente: Identificador
+II - Transmissora da Transmissora no sim sim
+SIGET
+Ideccd: Identificador da
+III - Concessão sim sim
+concessão no SIGET
+Lista de opções (CA ou
+IV - Tipo de corrente sim sim
+CC)
+Idemdl: Identificador do
+V - Código do módulo no SIGET sim sim
+Módulo no SIGET
+Data de fabricação do
+VI - Data de fabricação (1) equipamento (Formato: não sim
+DD/MM/AAAA)
+Data de início da
+operação
+VII - Entrada em operação comercial (1) não sim
+comercial (Formato:
+DD/MM/AAAA)
+VIII - Número operacional Alfanumérico sim sim
+IX - Código identificador do ativo na concessionária Alfanumérico sim sim
+X - Número do patrimônio Alfanumérico não sim
+XI - Nome da subestação Alfanumérico sim sim
+Idesbe: Identificador da
+XII - Código SIGET da subestação sim sim
+subestação no SIGET
+XIII - Pátio Alfanumérico sim sim
+Endereço na internet: http://www.ons.org.br 54 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+TRANSFORMADOR DE POTENCIAL
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+XIV - Tensão nominal do sistema no ponto de instalação
+Número sim sim
+do equipamento (kV)
+Conforme regra
+XV - Conectividade do ativo – Barra 1 específica de sim sim
+conectividade
+Conforme regra
+XVI - Conectividade do ativo – Barra 2 (2) específica de não sim
+conectividade
+Dados Gerais
+Lista de opções (Reator,
+Linha de Transmissão,
+1 - TP de? Transformador, sim sim
+Capacitor, Disjuntor,
+Barra ou Outro)
+2 - Localização Alfanumérico sim sim
+3 - Fabricante Alfanumérico não sim
+Lista de opções
+4 - Tipo sim sim
+(Capacitivo ou Indutivo)
+5 - Norma de especificação ou aplicável no ano de
+Alfanumérico sim sim
+fabricação
+Características Técnicas
+6 - Tensão máxima de operação contínua (kV) Número sim sim
+7 - Tensão máxima suportável em condições de
+Número sim sim
+emergência durante 1 hora (kV eficaz) (3)
+8 - Frequência (Hz) Número sim sim
+9.1 - Contínuo Número sim sim
+9 - Fator de sobretensão
+9.2 - Durante 30 segundos Número sim sim
+Lista de opções (1, 2, 3
+10 - Número de enrolamentos (NE) sim sim
+ou 4)
+11.1 Enrolamento 1 Alfanumérico sim sim
+11 - Relação de
+11.2 Enrolamento 2 Alfanumérico sim sim
+transformação para o
+11.3 Enrolamento 3 Alfanumérico sim sim
+enrolamento
+11.4 Enrolamento 4 Alfanumérico sim sim
+12.1 Enrolamento 1 Alfanumérico sim sim
+12 - Classe de exatidão e 12.2 Enrolamento 2 Alfanumérico sim sim
+carga para o enrolamento 12.3 Enrolamento 3 Alfanumérico sim sim
+12.4 Enrolamento 4 Alfanumérico sim sim
+Níveis de Isolamento
+13 - Tensão suportável nominal a impulso atmosférico,
+Número sim sim
+onda plena (kV crista)
+14 - Tensão suportável nominal a impulso atmosférico,
+Número sim sim
+onda cortada (kV crista)
+15 - Tensão suportável nominal a impulso de manobra
+Número sim sim
+(kV crista) (4)
+Endereço na internet: http://www.ons.org.br 55 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+TRANSFORMADOR DE POTENCIAL
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+16 - Tensão suportável nominal a 60 Hz, 1 minuto a seco
+Número sim sim
+e sob chuva (kV eficaz)
+17 - Tensão a frequência industrial no secundário (kV
+Número sim sim
+eficaz)
+(1) Na impossibilidade de se ter a data precisa a informação pode ser cadastrada nos formatos 01/YY/ZZZZ
+ou 01/01/ZZZZ.
+(2) Campos opcionais.
+(3) Obrigatório para equipamento com tensão nominal igual ou superior a 138 kV.
+(4) Obrigatório para equipamento com tensão nominal igual ou superior a 345 kV.
+A.3.2.13. Capacitor série controlado a tiristor
+CAPACITOR SÉRIE CONTROLADO A TIRISTOR
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Dados de Cadastro
+I - Nome do equipamento Alfanumérico sim sim
+IdAgente: Identificador
+II - Transmissora da Transmissora no sim sim
+SIGET
+Ideccd: Identificador da
+III - Concessão sim sim
+concessão no SIGET
+Lista de opções (CA ou
+IV - Tipo de corrente sim sim
+CC)
+Idemdl: Identificador do
+V - Código do módulo no SIGET sim sim
+Módulo no SIGET
+Data de fabricação do
+VI - Data de fabricação (1) equipamento (Formato: não sim
+DD/MM/AAAA)
+Data de início da
+operação
+VII - Entrada em operação comercial (1) não sim
+comercial (Formato:
+DD/MM/AAAA)
+VIII - Número operacional Alfanumérico sim sim
+IX - Código identificador do ativo na concessionária Alfanumérico sim sim
+X - Número do patrimônio Alfanumérico não sim
+XI - Nome da subestação Alfanumérico sim sim
+Idesbe: Identificador da
+XII - Código SIGET da subestação sim sim
+subestação no SIGET
+XIII - Pátio Alfanumérico sim sim
+XIV - Tensão nominal do sistema no ponto de instalação
+Número sim sim
+do equipamento (kV)
+Endereço na internet: http://www.ons.org.br 56 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+CAPACITOR SÉRIE CONTROLADO A TIRISTOR
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Conforme regra
+XV - Conectividade do ativo – Barra 1 específica de sim sim
+conectividade
+Conforme regra
+XVI - Conectividade do ativo – Barra 2 (2) específica de não sim
+conectividade
+Dados Gerais
+1.1 - Nome Alfanumérico sim sim
+1 - Linha de transmissão Idelt: Identificador da LT
+1.2 - Código SIGET sim sim
+no SIGET
+2 - Fabricante Alfanumérico não sim
+3 - Norma de especificação ou norma aplicável no ano de
+Alfanumérico não sim
+fabricação
+Características elétricas do banco
+4 - Tensão nominal dos capacitores série (kV eficaz) Número sim sim
+5 - Tensão nominal do banco de capacitores série (kV
+Número sim sim
+eficaz)
+6 - Reatância capacitiva nominal (Ω) Número sim sim
+7 - Faixa de reatância 7.1 - Reatância mínima Número sim sim
+capacitiva efetiva
+7.2 - Reatância máxima Número sim sim
+contínua (Ω)
+8 - Potência nominal (Mvar) Número sim sim
+9 - Capacidade de sobrecarga (curva I x t) (3) Arquivo em anexo sim sim
+10 - Ciclo de operação durante faltas internas e externas
+Arquivo em anexo sim sim
+na linha de transmissão
+Lista de opções (Por
+Fase, Trifásico ou
+11 - Tipo de by-pass adotado sim sim
+Selecionável(Por
+Fase/Trifásico))
+Características da proteção do banco
+12 - Diagrama unifilar indicando os principais
+componentes do banco, incluindo o circuito principal
+Arquivo em anexo sim sim
+(capacitores, circuito de amortecimento, GAP
+controlado, MOV e disjuntor de by-pass)
+13 - Corrente de swing e 13.1 - Corrente de swing (A) Número sim sim
+tempo associado
+considerados no projeto 13.2 - Tempo associado (s) Número sim sim
+(A / s) (4)
+14 - Nível protetivo (kV pico/pu) (4) Número sim sim
+15.1 - Energia máxima dos
+Número sim sim
+varistores (MJ/fase)
+15 - Características dos
+15.2 - Tensão nominal (kV
+varistores (4) Número sim sim
+eficaz)
+15.3 - Característica V x I Arquivo em anexo sim sim
+Endereço na internet: http://www.ons.org.br 57 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+CAPACITOR SÉRIE CONTROLADO A TIRISTOR
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+15.4 - MCOV (kV eficaz) Número sim sim
+16 - Tempo de disparo do GAP (ms) (4) Número sim sim
+17 - Tensão mínima para disparo do GAP (pu) Número sim sim
+18.1 - Iset (kA) Número sim sim
+18 - Ajustes do by-pass (4) 18.2 - Eset (MJ) Número sim sim
+18.3 - dE/dt (MJ/ms) Número sim sim
+19 - Tempo de retardo do controle / transmissão ótica
+do sinal de by-pass s/considerar o retardo Número sim sim
+correspondente ao disparo do GAP (ms) (4)
+20 - Tempo de atuação do disjuntor de by-pass (ms) (4) Número sim sim
+Níveis de Isolamento
+21 - Tensão máxima operativa a 60 Hz (kV eficaz) Número sim sim
+22 - Níveis de isolamento 22.1 - Atmosférico, a seco Número sim sim
+da plataforma (kV crista) 22.2 - Manobra, sob chuva Número sim sim
+Modelos
+23 - Diagrama em blocos dos sistemas de controle, no
+domínio da freqüência, representado através das
+funções de transferência, com a respectiva topologia.
+Arquivo em Anexo sim sim
+Devem ser fornecidos os valores dos parâmetros, bem
+como as suas faixas de ajuste e uma descrição sucinta
+dos seus significados. (4)
+24 - Fornecer modelo do TCSC no programa ANATEM,
+Arquivo em Anexo sim sim
+para avaliação de estabilidade eletromecânica (4)
+25 - Fornecer modelo do TCSC, no programa ATP, para
+simulações de transitórios eletromagnéticos, com os
+retardos inerentes ao sistema de controle/transmissão
+do sinal, além do disparo do GAP: (4)
+Arquivo em Anexo sim sim
+- O modelo deve representar com fidelidade o by-pass
+do BCS.
+- O modelo deve ser documentado c/modelagem blocos
+implementado no ATP.
+Comportamento térmico do banco
+26 - Temperatura máxima suportável pelas pastilhas do
+Número sim sim
+MOV (°C)
+27 - Temperatura máxima atingida pelas pastilhas do
+MOV nas sequências de falta que definiram o Número sim sim
+dimensionamento da energia dissipada (°C)
+Demais equipamentos do banco - Chaves seccionadoras
+28 - Corrente nominal (A) Número sim sim
+29 - Corrente de curto-circuito (kA) Número sim sim
+30 - Corrente de curto-circuito assimétrica (kA) Número sim sim
+(1) Na impossibilidade de se ter a data precisa a informação pode ser cadastrada nos formatos 01/YY/ZZZZ
+ou 01/01/ZZZZ.
+(2) Campos opcionais.
+Endereço na internet: http://www.ons.org.br 58 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+CAPACITOR SÉRIE CONTROLADO A TIRISTOR
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+(3) Informar também a corrente nominal e as correntes para os períodos de 30 minutos, 2 horas e 8 horas.
+Deve também ser informada a periodicidade permitida para os períodos de sobrecarga e quantas vezes as
+mesmas podem ser aplicadas ao longo da vida útil do equipamento.
+(4) Deve ser sempre informado em caso de equipamento com entrada em operação a partir de
+01/01/2013 e sempre que possível para os demais equipamentos.
+A.3.2.14. Centelhador
+CENTELHADOR
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Dados de Cadastro
+I - Nome do equipamento Alfanumérico sim sim
+IdAgente: Identificador
+II - Transmissora da Transmissora no sim sim
+SIGET
+Ideccd: Identificador da
+III - Concessão sim sim
+concessão no SIGET
+Lista de opções (CA ou
+IV - Tipo de corrente sim sim
+CC)
+Idemdl: Identificador do
+V - Código do módulo no SIGET sim sim
+Módulo no SIGET
+Data de fabricação do
+VI - Data de fabricação (1) equipamento (Formato: não sim
+DD/MM/AAAA)
+Data de início da
+operação
+VII - Entrada em operação comercial (1) não sim
+comercial (Formato:
+DD/MM/AAAA)
+VIII - Número operacional Alfanumérico sim sim
+IX - Código identificador do ativo na concessionária Alfanumérico sim sim
+X - Número do patrimônio Alfanumérico não sim
+XI - Nome da subestação Alfanumérico sim sim
+Idesbe: Identificador da
+XII - Código SIGET da subestação sim sim
+subestação no SIGET
+XIII - Pátio Alfanumérico sim sim
+XIV - Tensão nominal do sistema no ponto de instalação
+Número sim sim
+do equipamento (kV)
+Conforme regra
+XV - Conectividade do ativo – Barra 1 específica de sim sim
+conectividade
+Conforme regra
+XVI - Conectividade do ativo – Barra 2 (2) específica de não sim
+conectividade
+Endereço na internet: http://www.ons.org.br 59 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+CENTELHADOR
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Dados Gerais
+Lista de opções (Linha
+1 - Centelhador de? de Transmissão, sim sim
+Transformador, Reator,
+Capacitor, Barramento,
+Outro)
+2- Localização Alfanumérico sim sim
+Características técnicas
+3 - Tensão nominal do centelhador (kV - fase-terra) Número sim sim
+Lista de opções (Haste-
+4 - Arranjo dos eletrodos Haste, Anel-Haste, sim sim
+Esfera- Esfera, Outro)
+5 - Distância entre eletrodos (cm) Número sim sim
+6 - Tensão disruptiva para impulso atmosférico - V (kV
+50% Número sim sim
+crista)
+7 - Tensão disruptiva para surto de manobra - V (kV
+50% Número sim sim
+crista)
+8 - Tensão disruptiva para 60 Hz - V (kV eficaz) Número sim sim
+50%
+(1) Na impossibilidade de se ter a data precisa a informação pode ser cadastrada nos formatos 01/YY/ZZZZ
+ou 01/01/ZZZZ.
+(2) Campos opcionais.
+A.3.2.15. Filtro de harmônicos passivo
+FILTRO DE HARMÔNICO PASSIVO
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Dados de Cadastro
+I - Nome do equipamento Alfanumérico sim sim
+IdAgente: Identificador
+II - Transmissora da Transmissora no sim sim
+SIGET
+Ideccd: Identificador da
+III - Concessão sim sim
+concessão no SIGET
+Lista de opções (CA ou
+IV - Tipo de corrente sim sim
+CC)
+Idemdl: Identificador do
+V - Código do módulo no SIGET sim sim
+Módulo no SIGET
+Data de fabricação do
+VI - Data de fabricação (1) equipamento (Formato: não sim
+DD/MM/AAAA)
+Data de início da
+VII - Entrada em operação comercial (1) não sim
+operação
+Endereço na internet: http://www.ons.org.br 60 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+FILTRO DE HARMÔNICO PASSIVO
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+comercial (Formato:
+DD/MM/AAAA)
+VIII - Número operacional Alfanumérico sim sim
+IX - Código identificador do ativo na concessionária Alfanumérico sim sim
+X - Número do patrimônio Alfanumérico não sim
+XI - Nome da subestação Alfanumérico sim sim
+Idesbe: Identificador da
+XII - Código SIGET da subestação sim sim
+subestação no SIGET
+XIII - Pátio Alfanumérico sim sim
+XIV - Tensão nominal do sistema no ponto de instalação
+Número sim sim
+do equipamento (kV)
+Conforme regra
+XV - Conectividade do ativo – Barra 1 específica de sim sim
+conectividade
+Conforme regra
+XVI - Conectividade do ativo – Barra 2 (2) específica de não sim
+conectividade
+Dados Gerais
+Lista de opções
+(Sintonia Simples, Dupla
+1 - Tipo do filtro sim sim
+Sintonia, Tripla Sintonia,
+High Pass ou Outro)
+2 - Fabricante Alfanumérico não sim
+Características Elétricas
+3 - Tensão nominal do equipamento (kV) Número sim sim
+4 - Parâmetros elétricos, como filtro geral (sintonia dupla) (3)
+4.1 - Capacitor (ramo série) (μF) Número sim sim
+4.2 - Indutor (ramo série) (mH) Número sim sim
+4.3- Fator de qualidade do indutor (ramo série), para 60
+Número sim sim
+Hz
+4.4 - Capacitor (ramo paralelo) (μF) Número sim sim
+4.5 - Indutor (ramo paralelo) (mH) Número sim sim
+4.6 - Fator de qualidade do indutor (ramo paralelo), para
+Número sim sim
+60 Hz
+4.7 - Resistor (ramo paralelo) (Ω) (4) Número sim sim
+5 - Localização do resistor do ramo paralelo (4)
+Número sim sim
+(série/paralelo)
+6 - Potência nominal trifásica do filtro (Mvar), aplicada
+Número sim sim
+ao item 3
+Lista de opções (Estrela
+7 - Ligação trifásica do filtro com Neutro Aterrado, sim sim
+Estrela com Neutro
+Endereço na internet: http://www.ons.org.br 61 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+FILTRO DE HARMÔNICO PASSIVO
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Isolado, Triângulo ou
+Outro)
+8 - Perda máxima trifásica do filtro (kW) Número sim sim
+9 - Dimensionamento dos componentes em Regime Permanente
+9.1.1 - Tensão máxima (kVp) Número sim sim
+9.1 - Capacitor (ramo
+9.1.2 - Corrente Térmica
+série) Número sim sim
+Máxima (kArms)
+9.2.1 - Tensão máxima (kVp) Número sim sim
+9.2 - Indutor (ramo série) 9.2.2 - Corrente Térmica
+Número sim sim
+Máxima (kArms)
+9.3.1 - Tensão máxima (kVp) Número sim sim
+9.3 - Capacitor (ramo
+9.3.2 - Corrente Térmica
+paralelo) Número sim sim
+Máxima (kArms)
+9.4.1 - Tensão máxima (kVp) Número sim sim
+9.4 - Indutor (ramo
+9.4.2 - Corrente Térmica
+paralelo) Número sim sim
+Máxima (kArms)
+9.5.1 - Tensão máxima (kVp) Número sim sim
+9.5 - Resistor (ramo
+9.5.2 - Corrente Térmica
+paralelo) (4) Número sim sim
+Máxima (kArms)
+10 - Ordem de harmônicos filtradas Número sim sim
+11 - Diagrama completo do filtro identificando todos os
+seus elementos, cujos valores devem ser explicitados na Arquivo anexo sim sim
+tabela acima.
+(1) Na impossibilidade de se ter a data precisa a informação pode ser cadastrada nos formatos 01/YY/ZZZZ
+ou 01/01/ZZZZ.
+(2) Campos opcionais.
+(3) Indicar como zero ou infinito os valores para os ramos inexistentes, dependendo do caso.
+(4) O resistor dos filtros de dupla sintonia pode estar em paralelo ou em série com o indutor do ramo
+paralelo.
+A.3.2.16. Válvulas
+VÁLVULA
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Dados de Cadastro
+I - Nome do equipamento Alfanumérico sim sim
+IdAgente:
+Identificador da
+II - Transmissora sim sim
+Transmissora no
+SIGET
+Endereço na internet: http://www.ons.org.br 62 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+VÁLVULA
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Ideccd:
+III - Concessão Identificador da sim sim
+concessão no SIGET
+Lista de opções (CA
+IV - Tipo de corrente sim sim
+ou CC)
+Idemdl:
+V - Código do módulo no SIGET Identificador do sim sim
+Módulo no SIGET
+Data de fabricação
+do
+VI - Data de fabricação (1) equipamento não sim
+(Formato:
+DD/MM/AAAA)
+Data de início da
+operação
+VII - Entrada em operação comercial (1) não sim
+comercial (Formato:
+DD/MM/AAAA)
+VIII - Número operacional Alfanumérico sim sim
+IX - Código identificador do ativo na concessionária Alfanumérico sim sim
+X - Número do patrimônio Alfanumérico não sim
+XI - Nome da subestação Alfanumérico sim sim
+Idesbe:
+Identificador da
+XII - Código SIGET da subestação sim sim
+subestação no
+SIGET
+XIII - Pátio Alfanumérico sim sim
+XIV - Tensão nominal do sistema no ponto de instalação do
+Número sim sim
+equipamento (kV)
+Conforme regra
+XV - Conectividade do ativo – Barra 1 específica de sim sim
+conectividade
+Conforme regra
+XVI - Conectividade do ativo – Barra 2 (2) específica de não sim
+conectividade
+Dados Gerais
+1 - Fabricante Alfanumérico. não sim
+2 - Normas Técnicas de referência Alfanumérico. sim sim
+Lista de opções
+(Estrutura metálica,
+3 - Tipo de construção Alvenaria, sim sim
+Contêiner ou
+Outros)
+Endereço na internet: http://www.ons.org.br 63 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+VÁLVULA
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Lista de opções
+4 - Tipo de montagem (Suspensa, sim sim
+Com base ou Outro)
+Características Técnicas
+Lista de opções (Ar
+5 - Tipo de isolamento sim sim
+ou Outro)
+Lista de opções
+6 - Elemento refrigerante sim sim
+(Água ou Outro)
+Lista de opções
+7.1 - Tipo (Dupla, Quádrupla, sim sim
+7 - Descrição
+Óctupla, Outro)
+7.2 - Nº de válvulas por polo Número sim sim
+8.1 - Tipo Alfanumérico sim sim
+8.2 - Quantidade por válvula Número sim sim
+8 - Tiristor 8.3 - Número de elementos
+Número sim sim
+redundantes
+8.4 - Número de módulos tiristores Número sim sim
+9.1 - Nominal Número sim sim
+9 - Faixa de Corrente 9.2 - Mínima Número sim sim
+(A) 9.3 - Máxima Número sim sim
+9.4 - Sobrecarga Número sim sim
+10.1 - Nominal, polo-terra Número sim sim
+10 - Faixa de Tensão 10.2 - Máxima, polo-terra Número sim sim
+(kV) 10.3 - Reduzida, polo neutro Número sim sim
+10.4 - Máxima na barra de neutro Número sim sim
+Retificador
+11.1 - Nominal Número sim sim
+11.2 - Mínimo Número sim sim
+11.3 - Máximo Número sim sim
+Inversor
+11 - Ângulos de
+11.4 - Nominal Número sim sim
+controle (°el)
+11.5 - Mínimo Número sim sim
+11.6 - Máximo Número sim sim
+11.7 - Mínimo absoluto Número sim sim
+11.8 - Máximo como função da
+Número sim sim
+corrente
+12.1 - Nominal (pu) Número sim sim
+12.2 - Mínimo (pu) Número sim sim
+12 - Reatância de 12.3 - Máximo (pu) Número sim sim
+comutação 12.4 - Base potência (MVA) Número sim sim
+12.5 - Base tensão (kV) Número sim sim
+12.6 - Contribuição do filtro PLC (pu) Número sim sim
+13 - Capacitor de 13.1 - Capacitância (μF) Número sim sim
+Endereço na internet: http://www.ons.org.br 64 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+VÁLVULA
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+comutação (CCC) 13.2 - Contribuição para a reatância
+Número sim sim
+de comutação (pu)
+14 - Valor de perdas garantido (%) Número sim sim
+15 - Corrente de curto-circuito (kA) Número sim sim
+Níveis de isolamento através da válvula (kV)
+16 - SIPL/SIWL Número sim sim
+17 - LIPL/LIWL Número sim sim
+18 - FWPL/FWWL Número sim sim
+19 - Sobretensão mínima para seleção
+Número sim sim
+do nível do disparo protetivo (kV)
+20 - Relatório do circuito principal Arquivo anexo sim sim
+(1) Na impossibilidade de se ter a data precisa a informação pode ser cadastrada nos formatos 01/YY/ZZZZ
+ou 01/01/ZZZZ.
+(2) Campos opcionais.
+A.3.2.17. Reator de alisamento
+REATOR DE ALISAMENTO
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Dados de Cadastro
+I - Nome do equipamento Alfanumérico sim sim
+IdAgente: Identificador da
+II - Transmissora sim sim
+Transmissora no SIGET
+Ideccd: Identificador da
+III - Concessão sim sim
+concessão no SIGET
+IV - Tipo de corrente Lista de opções (CA ou CC) sim sim
+Idemdl: Identificador do Módulo
+V - Código do módulo no SIGET sim sim
+no SIGET
+Data de fabricação do
+VI - Data de fabricação (1) equipamento (Formato: não sim
+DD/MM/AAAA)
+Data de início da operação
+VII - Entrada em operação comercial (1) comercial (Formato: não sim
+DD/MM/AAAA)
+VIII - Número operacional Alfanumérico sim sim
+IX - Código identificador do ativo na
+Alfanumérico sim sim
+concessionária
+X - Número do patrimônio Alfanumérico não sim
+XI - Nome da subestação Alfanumérico sim sim
+Idesbe: Identificador da
+XII - Código SIGET da subestação sim sim
+subestação no SIGET
+XIII - Pátio Alfanumérico sim sim
+Endereço na internet: http://www.ons.org.br 65 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+REATOR DE ALISAMENTO
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+XIV - Tensão nominal do sistema no
+ponto de instalação do equipamento Número sim sim
+(kV)
+Conforme regra específica de
+XV - Conectividade do ativo – Barra 1 sim sim
+conectividade
+XVI - Conectividade do ativo – Barra 2 Conforme regra específica de
+não sim
+(2) conectividade
+Dados Gerais
+Lista de opções (Barra CC, Barra
+1 - Localização do reator sim sim
+de neutro ou Outro)
+2 - Fabricante Alfanumérico sim sim
+3 - Norma de especificação ou norma
+Alfanumérico sim sim
+aplicável no ano de fabricação
+Características Elétricas
+4.1 - Nominal (mH) Número sim sim
+4 - Indutância
+4.2 - Tolerância (%) Número sim sim
+5.1 - Nominal Número sim sim
+5 - Faixa de 5.2 - Sobrecarga Número sim sim
+corrente (A) 5.3 - Harmônica
+Número sim sim
+(incluir tabela)
+6 - Corrente de curto-circuito (kA) Número sim sim
+7 - Tensão nominal para terra (kV) Número sim sim
+8.1 - SIPL/SIWL
+8.1.1 - Para terra Número sim sim
+8.1.2 - Através do
+Número sim sim
+8 - Níveis de reator
+isolamento (kV) 8.2 - LIPL/LIWL
+8.2.1 - Para terra Número sim sim
+8.2.2 - Através do
+Número sim sim
+reator
+(1) Na impossibilidade de se ter a data precisa a informação pode ser cadastrada nos formatos 01/YY/ZZZZ
+ou 01/01/ZZZZ.
+(2) Campos opcionais.
+A.3.2.18. Filtro PLC
+FILTRO PLC
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Dados de Cadastro
+I - Nome do equipamento Alfanumérico sim sim
+IdAgente:
+II - Transmissora sim sim
+Identificador da
+Endereço na internet: http://www.ons.org.br 66 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+FILTRO PLC
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Transmissora no
+SIGET
+Ideccd: Identificador
+III - Concessão da concessão no sim sim
+SIGET
+Lista de opções (CA
+IV - Tipo de corrente sim sim
+ou CC)
+Idemdl: Identificador
+V - Código do módulo no SIGET sim sim
+do Módulo no SIGET
+Data de fabricação
+do
+VI - Data de fabricação (1) equipamento não sim
+(Formato:
+DD/MM/AAAA)
+Data de início da
+operação
+VII - Entrada em operação comercial (1) não sim
+comercial (Formato:
+DD/MM/AAAA)
+VIII - Número operacional Alfanumérico sim sim
+IX - Código identificador do ativo na concessionária Alfanumérico sim sim
+X - Número do patrimônio Alfanumérico não sim
+XI - Nome da subestação Alfanumérico sim sim
+Idesbe: Identificador
+XII - Código SIGET da subestação da subestação no sim sim
+SIGET
+XIII - Pátio Alfanumérico sim sim
+XIV - Tensão nominal do sistema no ponto de instalação
+Número sim sim
+do equipamento (kV)
+Conforme regra
+XV - Conectividade do ativo – Barra 1 específica de sim sim
+conectividade
+Conforme regra
+XVI - Conectividade do ativo – Barra 2 (2) específica de não sim
+conectividade
+Dados Gerais
+1 - Localização Alfanumérico sim sim
+2 - Fabricante Alfanumérico sim sim
+3 - Norma de especificação ou aplicável no ano de
+Alfanumérico sim sim
+fabricação
+Características Elétricas
+4 - Tensão nominal do equipamento (kV) Número sim sim
+5 - Parâmetros elétricos
+5.1 - Indutor (ramo série) (mH) Número sim sim
+Endereço na internet: http://www.ons.org.br 67 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+FILTRO PLC
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+5.2 - Fator de qualidade do indutor (ramo série) para 60
+Número sim sim
+Hz
+5.3 - Descrição da unidade de sintonia incluindo para-
+Alfanumérico sim sim
+raios e níveis de proteção do indutor (ramo série)
+5.4 - Capacitor (ramo paralelo) (μF) Número sim sim
+5.5 - Descrição da unidade de sintonia incluindo para-
+Alfanumérico sim sim
+raios e níveis de proteção do capacitor (ramo paralelo)
+6 - Potência nominal trifásica do filtro (Mvar) Número sim sim
+7 - Diagrama completo do filtro, identificando todos os
+seus elementos, cujos valores devem ser explicitados na Arquivo anexo sim sim
+tabela acima
+(1) Na impossibilidade de se ter a data precisa a informação pode ser cadastrada nos formatos
+01/YY/ZZZZ ou 01/01/ZZZZ.
+(2) Campos opcionais.
+A.3.2.19. Bobina de bloqueio
+BOBINA DE BLOQUEIO
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Dados de Cadastro
+I - Nome do equipamento Alfanumérico sim sim
+IdAgente:
+II - Transmissora Identificador da sim sim
+Transmissora no SIGET
+Ideccd: Identificador
+III - Concessão sim sim
+da concessão no SIGET
+Lista de opções (CA ou
+IV - Tipo de corrente sim sim
+CC)
+Idemdl: Identificador
+V - Código do módulo no SIGET sim sim
+do Módulo no SIGET
+Data de fabricação do
+equipamento
+VI - Data de fabricação (1) não sim
+(Formato:
+DD/MM/AAAA)
+Data de início da
+operação
+VII - Entrada em operação comercial (1) não sim
+comercial (Formato:
+DD/MM/AAAA)
+VIII - Número operacional Alfanumérico sim sim
+IX - Código identificador do ativo na concessionária Alfanumérico sim sim
+X - Número do patrimônio Alfanumérico não sim
+XI - Nome da subestação Alfanumérico sim sim
+Endereço na internet: http://www.ons.org.br 68 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+BOBINA DE BLOQUEIO
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Idesbe: Identificador
+XII - Código SIGET da subestação da subestação no sim sim
+SIGET
+XIII - Pátio Alfanumérico sim sim
+XIV - Tensão nominal do sistema no ponto de instalação
+Número sim sim
+do equipamento (kV)
+Conforme regra
+XV - Conectividade do ativo – Barra 1 específica de sim sim
+conectividade
+Conforme regra
+XVI - Conectividade do ativo – Barra 2 (2) específica de não sim
+conectividade
+Dados Gerais
+1 - Linha onde a entidade está localizada Alfanumérico sim sim
+2 - Fabricante Alfanumérico não sim
+3 - Tipo Alfanumérico não sim
+4 - Normas Técnicas de referência Alfanumérico sim sim
+Características técnicas
+5 - Tensão máxima de operação contínua (kV - eficaz) Número sim sim
+6 - Tensão máxima suportável em condições de
+Número sim sim
+emergência durante 1 hora (kV eficaz) (3)(4)
+7 - Corrente nominal (A - eficaz) Número sim sim
+8 - Capacidade de sobrecarga (A - eficaz / Horas) (3) Número sim sim
+9 - Corrente suportável nominal de curta duração (1
+Número sim sim
+segundo) (kA - eficaz)
+10 - Valor de crista da corrente suportável nominal (kA -
+Número sim sim
+crista) (3)
+11 - Indutância (mH) Número sim sim
+12 - Bandas de frequência (kHz) Número sim sim
+13 - Frequência (Hz) Número sim sim
+14 - Relação X/R (3) Número sim sim
+15.1 - Atmosférico, a seco Número sim sim
+15 - Níveis de isolamento
+15.2 - De manobra, sob
+(kV crista) (3) Número sim sim
+chuva (5)
+(1) Na impossibilidade de se ter a data precisa a informação pode ser cadastrada nos formatos
+01/YY/ZZZZ ou 01/01/ZZZZ.
+(2) Campos opcionais.
+(3) Deve ser sempre informado em caso de equipamento com entrada em operação a partir de
+01/01/2013 e sempre que possível para os demais equipamentos.
+(4) Obrigatório para equipamento com tensão nominal igual ou superior a 138 kV.
+(5) Obrigatório para equipamento com tensão nominal igual ou superior a 345 kV.
+Endereço na internet: http://www.ons.org.br 69 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+A.3.2.20. Reator limitador de corrente de curto-circuito
+REATOR LIMITADOR DE CURTO-CIRCUITO
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Dados de Cadastro
+I - Nome do equipamento Alfanumérico sim sim
+IdAgente: Identificador
+II - Transmissora da Transmissora no sim sim
+SIGET
+Ideccd: Identificador da
+III - Concessão sim sim
+concessão no SIGET
+Lista de opções (CA ou
+IV - Tipo de corrente sim sim
+CC)
+Idemdl: Identificador do
+V - Código do módulo no SIGET sim sim
+Módulo no SIGET
+Data de fabricação do
+VI - Data de fabricação (1) equipamento (Formato: não sim
+DD/MM/AAAA)
+Data de início da
+operação
+VII - Entrada em operação comercial (1) não sim
+comercial (Formato:
+DD/MM/AAAA)
+VIII - Número operacional Alfanumérico sim sim
+IX - Código identificador do ativo na concessionária Alfanumérico sim sim
+X - Número do patrimônio Alfanumérico não sim
+XI - Nome da subestação Alfanumérico sim sim
+Idesbe: Identificador da
+XII - Código SIGET da subestação sim sim
+subestação no SIGET
+XIII - Pátio Alfanumérico sim sim
+XIV - Tensão nominal do sistema no ponto de instalação
+Número sim sim
+do equipamento (kV)
+Conforme regra
+XV - Conectividade do ativo – Barra 1 específica de sim sim
+conectividade
+Conforme regra
+XVI - Conectividade do ativo – Barra 2 (2) específica de não sim
+conectividade
+Dados Gerais
+Lista de opções (Linha
+1 - Localização do reator de Transmissão, sim sim
+Barramento, Outro)
+2 - Nome do equipamento onde está localizado Alfanumérico sim sim
+Lista de opções (Sim ou
+3 - É unidade reserva? sim sim
+Não)
+4 - Fabricante Alfanumérico não sim
+5 - Norma de especificação ou norma aplicável no ano de
+Alfanumérico sim sim
+fabricação
+Endereço na internet: http://www.ons.org.br 70 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+REATOR LIMITADOR DE CURTO-CIRCUITO
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Características Elétricas
+6 - Potência nominal (Mvar) Número sim sim
+7 - Frequência (Hz) Número sim sim
+8 - Indutância por fase (mH) Número sim sim
+9 - Impedância nominal (Ω) Número sim sim
+10 - Corrente nominal (A) Número sim sim
+11 - Tensão Nominal (kV) Número sim sim
+12 - Fator de qualidade Número sim sim
+13 - Resfriamento Alfanumérico sim sim
+14 - Nível de ruído (2) Número sim sim
+15 - Queda de tensão por fase (%) (3) Número sim sim
+16 - Perdas por fase (kW) (3) Número sim sim
+17 - Corrente de curta duração (kA - eficaz) Número sim sim
+18 - Valor de crista da corrente de curta duração (kA -
+Número sim sim
+crista)
+19 - Duração da corrente de curta duração (s) Número sim sim
+20 - Potência máxima dissipada sob curto-circuito (Mvar)
+Número sim sim
+(3)
+(1) Na impossibilidade de se ter a data precisa a informação pode ser cadastrada nos formatos 01/YY/ZZZZ
+ou 01/01/ZZZZ.
+(2) Campos opcionais.
+(3) Deve ser sempre informado em caso de equipamento com entrada em operação a partir de
+01/01/2013 e sempre que possível para os demais equipamentos.
+A.3.2.21. Dispositivo de Proteção - Relé ou IED (Intelligent Eletronic Device)
+DISPOSITIVO DE PROTEÇÃO - RELÉ OU IED (INTELLIGENT ELETRONIC DEVICE) (1)
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Dados de Cadastro
+I - Nome Alfanumérico sim sim
+IdAgente: Identificador da
+II - Transmissora sim sim
+Transmissora no SIGET
+Ideccd: Identificador da
+III - Concessão sim sim
+concessão no SIGET
+Idemdl: Identificador do
+IV - Código do módulo no SIGET sim sim
+Módulo no SIGET
+Data de fabricação do
+V - Data de fabricação equipamento (Formato: não sim
+DD/MM/AAAA)
+Data de início da operação
+VI - Entrada em operação comercial comercial (Formato: não sim
+DD/MM/AAAA)
+VII - Número de patrimônio Alfanumérico não sim
+Endereço na internet: http://www.ons.org.br 71 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+VIII - Nome da subestação Alfanumérico sim sim
+Idesbe: Identificador da
+IX - Código SIGET da subestação sim sim
+subestação no SIGET
+Dados Gerais
+1 - Fabricante Alfanumérico não sim
+2 - Modelo Alfanumérico não sim
+Lista de opções
+3 - Tecnologia (Eletromecânico, Estático não sim
+ou Digital)
+3 - Identificador do dispositivo (Nome Curto) (2) Alfanumérico não sim
+4 - Descrição do dispositivo (Nome Longo) (3) Alfanumérico não sim
+Lista de opções (Linha,
+Transformador, Reator,
+Capacitor, Compensador
+Estático, Compensador
+6 - Tipo de Equipamento Protegido sim sim
+Síncrono, Capacitor Série
+Fixo, Capacitor Série
+Controlado a Tiristor ou
+Barramento)
+7 - Identificação do Equipamento Protegido Alfanumérico sim sim
+(1) O cadastro dessa entidade é opcional caso a data de entrada em operação seja anterior a 01/01/2022.
+(2) Exemplo de preenchimento: PPLT.
+(3) Exemplo de preenchimento: Proteção Principal - Linha de transmissão.
+A.3.2.22. Registrador de Perturbações
+REGISTRADOR DE PERTURBAÇÕES (1)
+PROJETO COMO
+DESCRIÇÃO TIPO DE DADO
+BÁSICO IMPLANT.
+Dados de Cadastro
+I - Nome Alfanumérico sim sim
+IdAgente: Identificador da
+II - Transmissora sim sim
+Transmissora no SIGET
+Ideccd: Identificador da
+III - Concessão sim sim
+concessão no SIGET
+Idemdl: Identificador do
+IV - Código do módulo no SIGET sim sim
+Módulo no SIGET
+Data de fabricação do
+V - Data de fabricação equipamento (Formato: não sim
+DD/MM/AAAA)
+Data de início da operação
+VI - Entrada em operação comercial comercial (Formato: não sim
+DD/MM/AAAA)
+VII - Número de patrimônio Alfanumérico não sim
+VIII - Nome da subestação Alfanumérico sim sim
+Idesbe: Identificador da
+IX - Código SIGET da subestação sim sim
+subestação no SIGET
+Dados Gerais
+1 - Fabricante Alfanumérico não sim
+Endereço na internet: http://www.ons.org.br 72 / 73
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações
+7.3 Procedimental 2022.10 11/10/2022
+de transmissão aos requisitos
+2 - Modelo Alfanumérico não sim
+3 - Comprovação da emissão do registro de oscilografia no
+Arquivo em anexo não sim
+sistema SPERT (2)
+4 - Lista das grandezas analógicas e sinais digitais registrados
+Arquivo em anexo sim sim
+(3)
+(1) O cadastro dessa entidade é opcional caso a data de entrada em operação seja anterior a 01/01/2022.
+(2) Integração ao SPERT e emissão da comprovação do envio do registro de oscilografia para o SPERT (RECIBO).
+(3) O arquivo a ser anexado deverá seguir o modelo padrão do ONS.
+Endereço na internet: http://www.ons.org.br 73 / 73

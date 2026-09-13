@@ -1,0 +1,20 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 18/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=18/02/2026&jornal=515&pagina=196
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Superintendência de Outorga de Títulos Minerários
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 49/2026
+Fase de Autorização de Pesquisa
+Nega provimento ao recurso interposto(2848)
+810.020/2010 - GRAVITAL PEDRAS LTDA
+Dá provimento ao recurso interposto.(2643)
+896.096/2009-VEM TERRA LTDA ME
+ANDRE ELIAS MARQUES
+Superintendente

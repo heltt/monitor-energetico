@@ -1,0 +1,22 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 10/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=10/02/2026&jornal=515&pagina=59
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 14/2026
+Fica(m) o(s) abaixo relacionado(s) cientes(s) que o recurso administrativo interposto foi julgado improcedente; mantendo-se o indeferimento do pedido de parcelamento extraordinário (REFIS) pelos fundamentos expostos na Nota nº 0280/2015/MSSM/PF-DNPM-DF/PGF/AGU, ratificados pela Nota Jurídica nº 00189/2025/PFE-ANM/PGF/AGU (doc. SEI 17971179);
+
+
+Nº DO PROCESSO
+INTERESSADO
+48406.962730/2013-92
+Mineração de Calcário Montividiu Ltda
+MAURO HENRIQUE MOREIRA SOUSA
+Diretor-Geral

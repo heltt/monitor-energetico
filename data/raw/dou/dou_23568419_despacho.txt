@@ -1,0 +1,30 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 04/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=04/02/2026&jornal=515&pagina=66
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Superintendência de Outorga de Títulos Minerários
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 30/2026
+Não conhece o recurso interposto(1837)
+810.277/2018 - Interposto por BETONPAVI SERVICOS DE ENGENHARIA EIRELI ME
+810.358/2021 - Interposto por RICARDO LUIZ MONTEIRO BRASIL
+Fase de Autorização de Pesquisa
+Nega provimento ao recurso interposto(2848)
+800.508/2022 - EXOTICA STONES GRANITOS E MARMORES LTDA
+800.548/2021 - NORTECOM CONSTRUCOES E SERVICOS EIRELI
+871.853/2017 - B & W MINERAÇÃO DO BRASIL
+871.854/2017 - B & W MINERAÇÃO DO BRASIL
+871.725/2017 - B & W MINERAÇÃO DO BRASIL
+Dá provimento ao recurso interposto.(2643)
+864.174/2010-VIVALDO GAUNDENCIO
+Fase de Requerimento de Pesquisa
+Dá provimento ao recurso interposto(2728)
+831.808/2017 - R & D PROJETOS, MINERAÇÃO E COMÉRCIO LTDA
+ANDRE ELIAS MARQUES
+Superintendente

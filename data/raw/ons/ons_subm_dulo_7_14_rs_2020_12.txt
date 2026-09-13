@@ -1,0 +1,143 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.14-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.14-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.14
+Emissão de declaração de atendimento aos
+Procedimentos de Rede para instalações de
+distribuição, autoprodutor com carga maior
+que geração, consumidor livre e agente de
+exportação ou importação de energia
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de declaração de atendimento aos
+Procedimentos de Rede para instalações de
+distribuição, autoprodutor com carga maior que 7.14 Responsabilidades 2020.12 01/01/2021
+geração, consumidor livre e agente de
+exportação ou importação de energia
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Declaração de Atendimento aos Requisitos dos Procedimentos de Rede para Energização
+(DAPR/E)........................................................................................................................................3
+2.2. Declaração de Atendimento aos Requisitos dos Procedimentos de Rede Definitiva (DAPR/D)...3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de distribuição, consumidores livres e autoprodutores..................................................4
+3.3. Agentes de exportação ou importação de energia.......................................................................4
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIAS...................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de declaração de atendimento aos
+Procedimentos de Rede para instalações de
+distribuição, autoprodutor com carga maior que 7.14 Responsabilidades 2020.12 01/01/2021
+geração, consumidor livre e agente de
+exportação ou importação de energia
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas do processo relativos à emissão
+das declarações de atendimento aos requisitos dos Procedimentos de Rede para integração, por meio de
+conexão em instalações das transmissoras, das instalações de:
+(a) distribuição;
+(b) consumidores livres;
+(c) autoprodutores com carga maior que geração; e
+(d) agentes de exportação ou importação autorizados a implantar novas instalações destinadas à
+interligação internacional que acessam à Rede Básica e não são equiparadas [1].
+1.2. Os autoprodutores citados neste submódulo referem-se àqueles com carga maior que a geração e que
+acessam a Rede Básica.
+2. PRODUTOS
+2.1. Declaração de Atendimento aos Requisitos dos Procedimentos de Rede para Energização (DAPR/E)
+2.1.1 Declara que as instalações do agente de distribuição, do consumidor livre ou do autoprodutor atendem
+aos requisitos estabelecidos nos Procedimentos de Rede para sua energização e operação integrada ao SIN,
+e sua data de emissão define a partir de quando a energização das instalações pode ser realizada.
+2.2. Declaração de Atendimento aos Requisitos dos Procedimentos de Rede Definitiva (DAPR/D)
+2.2.1 Declara que as instalações do agente de distribuição, do consumidor livre ou do autoprodutor atendem
+aos requisitos estabelecidos nos Procedimentos de Rede, sem pendências para a operação integrada ao SIN
+em caráter definitivo; ou
+2.2.2 Declara que as instalações do agente de exportação ou importação de energia atendem aos requisitos
+estabelecidos nos Procedimentos de Rede e sua data de emissão define a partir de quando o agente pode
+iniciar a exportação ou importação de energia elétrica por meio das instalações de transmissão destinadas à
+interligação internacional conectadas à Rede Básica.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Emitir DAPR/E e DAPR/D e disponibilizá-la ao agente de distribuição, consumidor livre ou
+autoprodutor solicitante.
+(b) Emitir DAPR/D e disponibilizá-la ao agente de exportação ou importação de energia.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de declaração de atendimento aos
+Procedimentos de Rede para instalações de
+distribuição, autoprodutor com carga maior que 7.14 Responsabilidades 2020.12 01/01/2021
+geração, consumidor livre e agente de
+exportação ou importação de energia
+(c) Avaliar desempenho das instalações de conexão do agente de distribuição, consumidor livre ou
+autoprodutor em instalações sob responsabilidade do agente de transmissão.
+3.2. Agentes de distribuição, consumidores livres e autoprodutores
+(a) Solicitar ao ONS a emissão da DAPR/E e DAPR/D com a Declaração de Conformidade de Integração
+das Instalações preenchida.
+(b) Informar ao ONS e manter atualizadas as datas previstas para a energização das suas instalações.
+(c) Tornar-se membro associado ao ONS.
+(d) Atender aos prazos para solucionar as pendências identificadas.
+3.3. Agentes de exportação ou importação de energia
+(a) Solicitar ao ONS a emissão da DAPR/D com a Declaração de Conformidade de Integração das
+Instalações preenchida.
+(b) Informar ao ONS o início do período de exportação ou importação de energia.
+4. PRAZOS
+Quadro 1 – Prazos do processo de emissão das DAPR para agente de distribuição e consumidor
+Atividade Responsável Prazos
+Agente de distribuição, Mínimo de 10 dias antes da
+1 Solicitação da DAPR/E consumidor livre ou data prevista para energização
+autoprodutor das instalações
+Até 10 dias após o protocolo da
+2 Emissão da DAPR/E ONS
+solicitação no ONS (atividade 1)
+Verificação do desempenho das
+instalações energizadas e, caso Durante os 30 dias após
+3 ONS
+necessário, solicitação de energização das instalações
+desligamento das instalações
+Informe ao agente de distribuição,
+consumidor livre ou autoprodutor a Até 30 dias após energização
+4 ONS
+relação das pendências não das instalações
+impeditivas
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Emissão de declaração de atendimento aos
+Procedimentos de Rede para instalações de
+distribuição, autoprodutor com carga maior que 7.14 Responsabilidades 2020.12 01/01/2021
+geração, consumidor livre e agente de
+exportação ou importação de energia
+Atividade Responsável Prazos
+Até 5 dias úteis após
+Informe ao ONS dos prazos de Agente de distribuição,
+recebimento da relação das
+5 solução das pendências não consumidor livre ou
+pendências não impeditivas
+impeditivas autoprodutor
+(atividade 4)
+Até 10 dias após cumprimento
+6 Emissão da DAPR/D ONS das condições estabelecidas
+neste submódulo
+Quadro 2 - Prazos do processo de emissão das DAPR para agente de exportação ou importação de energia
+Atividade Responsável Prazos
+Mínimo de 10 dias antes da
+Agente de exportação ou
+1 Solicitação da DAPR/D data prevista para energização
+importação de energia
+das instalações
+Até 10 dias após o protocolo da
+2 Emissão da DAPR/D ONS
+solicitação no ONS (atividade 1)
+5. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa nº 442, de 26 de julho de 2011.
+Endereço na internet: http://www.ons.org.br 5 / 5

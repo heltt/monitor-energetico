@@ -1,0 +1,21 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 13/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=13/02/2026&jornal=515&pagina=158
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Superintendência de Segurança de Barragens e Pilhas de Mineração/Gerência de Barragens de Mineração
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 11/2026
+Fase de Concessão de Lavra
+Determina o arquivamento do auto de embargo - BARRAGENS(2734)
+NORTE/LARANJEIRAS-VALE S.A.-930.021/2004-Auto de embargo nº 36/2023/DIRC/SBM-ANM/COPGBM-C
+NORTE/LARANJEIRAS-VALE S.A.-930.021/2004-Auto de embargo nº 106/2023/DIRC/SBM-ANM/COPGBM-C
+Autoriza o desembargo da barragem de mineração.(2530)
+NORTE/LARANJEIRAS-VALE S.A.-930.021/2004
+DAVID DE BARROS GALO
+Gerente

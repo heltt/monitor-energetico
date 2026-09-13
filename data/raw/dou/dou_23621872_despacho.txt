@@ -1,0 +1,27 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 25/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=25/02/2026&jornal=515&pagina=89
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado de Minas Gerais
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 49/2026
+Fase de Autorização de Pesquisa
+Determina cumprimento de exigência - Prazo 60 dias(250)
+834.581/2007-ANTONIO CELSO DINIZ ME-OF. N°3663/2026/DIVFIS-MG/ANM
+Fase de Concessão de Lavra
+Determina cumprimento de exigência - Prazo 60 dias(470)
+004.568/1941-MINERAL DO BRASIL LTDA-OF. N°47468/2025/DIVFIS-MG/ANM
+830.054/2014-MSI - MINERACAO SANTOS ITAMARANDIBA LTDA-OF. N°3483/2026/DIVFIS-MG/ANM
+Nega provimento a defesa apresentada(476)
+005.395/1961-ACENDINO CYPRIANO & CIA LTDA
+Fase de Licenciamento
+Determina cumprimento de exigência - Prazo 30 dias(718)
+831.069/1999-AREIAL RIO MINAS LTDA EPP-OF. N°3621/2026/DIVFIS-MG/ANM e OF.Nº6345/2026/DIVFIS-MG/ANM
+CAIRO COSTA DUARTE
+Gerente

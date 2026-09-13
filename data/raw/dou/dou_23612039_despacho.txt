@@ -1,0 +1,19 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 23/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=23/02/2026&jornal=515&pagina=126
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Superintendência de Segurança de Barragens e Pilhas de Mineração/Gerência de Barragens de Mineração
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 12/2026
+Fase de Lavra Garimpeira
+Nega o pedido de desembargo da barragem de mineração.(2527)
+Barragem de Rejeitos SB02-ROSEMEIRE BENEDETTI ALVES-867.292/2013
+Barragem Alain II-ALAIN STEPHANE RIVIERE MINERACAO-866.499/2012
+DAVID DE BARROS GALO
+Gerente

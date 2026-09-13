@@ -1,0 +1,133 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.8-OP_2026.04
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.8-OP_2026.04.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.8
+Avaliação do impacto do acesso ou
+integração à Rede Básica de instalações
+com elementos não lineares ou cargas
+elétricas especiais
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2026.04 Resolução da Reunião de Diretoria 30/04/2026
+do ONS nº 0056/2026
+Procedimentos de Rede - Módulo 7 - Integração de
+Instalações
+Nome Submódulo Tipo Revisão Vigência
+Avaliação do impacto do acesso ou integração à Rede
+Básica de instalações com elementos não lineares ou 7.8 Operacional 2026.04 01/05/2026
+especiais
+ÍNDICE
+1. AVALIAÇÃO DO IMPACTO DE INSTALAÇÃO NÃO LINEAR EM PROCESSO DE ACESSO OU DE
+INTEGRAÇÃO À REDE BÁSICA...........................................................................................................3
+1.1. Estudos para avaliação de desempenho quanto à QEE................................................................3
+1.2. Campanhas de medição para avaliação de desempenho quanto a QEE.......................................3
+2. REFERÊNCIAS...................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 7 - Integração de
+Instalações
+Nome Submódulo Tipo Revisão Vigência
+Avaliação do impacto do acesso ou integração à Rede
+Básica de instalações com elementos não lineares ou 7.8 Operacional 2026.04 01/05/2026
+especiais
+1. AVALIAÇÃO DO IMPACTO DE INSTALAÇÃO NÃO LINEAR EM PROCESSO DE ACESSO OU DE
+INTEGRAÇÃO À REDE BÁSICA
+1.1. Estudos para avaliação de desempenho quanto à QEE
+1.1.1. O agente realiza estudos de Qualidade de Energia Elétrica (QEE) definidos no Submódulo 2.3 –
+Premissas, critérios e metodologias para estudos elétricos, que tratam das avaliações de impacto da
+instalação quanto à flutuação, desequilíbrio e distorção harmônica de tensão no Ponto de Acoplamento
+Comum (PAC), e os submete à apreciação do ONS, dentro do prazo estabelecido no Submódulo 7.1 – Acesso
+às instalações de transmissão ou do prazo estabelecido nos documentos de outorga, sob a forma de relatório,
+incluindo informações detalhadas quanto aos dados, modelos e metodologias utilizadas, bem como os
+resultados obtidos e as eventuais ações a serem desenvolvidas no sentido de adequar o desempenho da
+instalação aos limites individuais estabelecidos.
+1.1.2. Em função dos resultados obtidos pelos estudos, podem ser solicitados procedimentos
+complementares de medição. No Submódulo 2.3 e em demais documentos técnicos, o ONS apresenta um
+guia básico para a realização desses estudos, a ser utilizado pelo agente como referência.
+1.1.3. Após avaliação dos relatórios de estudo, o ONS pode apresentar comentários e recomendações
+relacionadas às metodologias de cálculo utilizadas, atendendo aos Procedimentos de Rede, aos documentos
+técnicos publicados pelo ONS ou nos documentos de outorga. Os dados utilizados e os resultados obtidos
+são de responsabilidade do agente.
+1.1.4. O ONS repassa ao agente todas as informações disponíveis relativas aos estudos a serem realizados.
+1.2. Medições para avaliação de desempenho quanto a QEE
+1.2.1. A avaliação de desempenho quanto à QEE é realizada por meio de campanhas de medição e de
+monitoramento contínuo.
+1.2.2. De forma a atender e complementar o processo de conexão de uma instalação que contenha
+elementos não lineares ou especiais, são realizadas campanhas de medição de tensão e/ou de corrente, a
+depender do tipo de empreendimento. Tais campanhas devem ser realizadas a cargo do agente.
+1.2.3. As campanhas de medição de QEE são pré-requisito para a emissão das declarações de atendimento
+aos requisitos dos Procedimentos Rede para os acessantes à Rede Básica que possuem componentes não
+lineares. Similarmente, as campanhas de medição de tensão (pré e pós-tensão) são pré-requisito para a
+emissão dos termos de liberação para integração de instalações de transmissão à Rede Básica e de
+interligações internacionais ao SIN que possuam componentes não lineares, conforme os Submódulo 7.13 –
+Emissão de declaração de atendimento aos Procedimentos de Rede para instalações de geração, Submódulo
+7.14 – Emissão de declaração de atendimento aos Procedimentos de Rede para instalações de distribuição,
+autoprodutor com carga maior que geração, consumidor livre e agente de exportação ou importação de
+energia e Submódulo 7.15 - Emissão de Termo de Liberação para instalações de transmissão.
+1.2.4. As campanhas de tensão são realizadas principalmente em dois momentos: imediatamente antes
+(campanha pré-tensão) e após a entrada em operação da instalação (campanha pós-tensão).
+Especificamente para parques eólicos e solares fotovoltaicos, será necessária a realização de outra campanha
+pós-tensão após a implantação da solução de filtragem, quando aplicável.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 7 - Integração de
+Instalações
+Nome Submódulo Tipo Revisão Vigência
+Avaliação do impacto do acesso ou integração à Rede
+Básica de instalações com elementos não lineares ou 7.8 Operacional 2026.04 01/05/2026
+especiais
+1.2.5. Outro método de avaliação necessário é o monitoramento contínuo dos níveis de distorção harmônica
+de tensão no PAC, que deve permanecer durante toda a vida útil do empreendimento, conforme detalhado
+no Submódulo 2.9.
+1.2.6. A campanha de corrente, quando aplicável, é realizada após a entrada em operação do
+empreendimento, conforme requisitos estabelecidos no Submódulo 2.9.
+1.2.7. Para empreendimentos de geração eólica e solar fotovoltaica, inclusive quando fizerem parte de
+centrais híbridas ou associadas, tendo em vista que o impacto da sua operação na QEE do PAC depende do
+regime de ventos ou da irradiância solar da região onde se encontra instalada, a campanha pós-tensão é
+realizada, e o respectivo relatório enviado ao ONS, no prazo máximo estabelecido neste submódulo.
+1.2.8. O agente encaminha ao ONS os relatórios e planilhas com os resultados das campanhas de medição
+realizadas.
+1.2.9. Caso julgue necessário, o ONS pode acompanhar a realização da campanha de medição. Nesse sentido,
+torna-se necessário que o agente forneça ao ONS, com antecedência mínima estabelecida no presente
+submódulo, informações quanto à data de realização de cada campanha de medição, bem como informações
+quanto ao tipo de transdutor e instrumento de medição a ser utilizado.
+1.3. Processo de avaliação da qualidade de energia elétrica para agentes de geração
+1.3.1. O agente de geração realiza a campanha de medição pré-tensão e implanta o equipamento para
+monitoração contínua de QEE antes do início da sua operação em teste e encaminha ao ONS os resultados
+da campanha da campanha de medição e a evidência de implantação do equipamento.
+1.3.2. O agente de geração realiza as campanhas de medição de corrente, quando solicitado pelo ONS, e de
+pós-tensão após o início da sua operação comercial e envia ao ONS os resultados das campanhas de medição.
+1.3.3. O agente de geração realiza e envia ao ONS o estudo de diagnóstico quanto à distorção harmônica de
+tensão para avaliação de desempenho quanto à QEE.
+1.3.4. O ONS avalia o estudo de diagnóstico enviado pelo agente de geração e os resultados da campanha
+de medição pós-tensão, que resultam na indicação ou não da necessidade de realização do estudo de
+dimensionamento de uma solução de filtragem e posterior implantação da solução.
+1.3.4.1. Caso os estudos não indiquem necessidade de implantação de filtros e seja identificada violação dos
+indicadores resultantes da campanha de medição pós-tensão, o agente de geração, o ONS e demais agentes
+envolvidos no PAC realizam análise, através de um método de atribuição de responsabilidade harmônica, e
+o ONS indica se o agente de geração e/ou demais agentes devem implantar filtros.
+1.3.5. Após a implantação dos filtros, o agente de geração realiza outra campanha de medição pós-tensão e
+envia os resultados ao ONS.
+1.4. Processo de avaliação da qualidade de energia elétrica para agentes de transmissão, distribuição e
+consumidores livres
+1.4.1. Os consumidores livres realizam estudo de avaliação do impacto das suas instalações em relação à
+distorção harmônica de tensão e flutuação de tensão, quando aplicável, e envia ao ONS para análise e insumo
+para a emissão do Parecer de Acesso.
+1.4.2. Os agentes de transmissão, distribuição e consumidores livres realiza a campanha de medição pré-
+tensão e implanta o equipamento para monitoração contínua de QEE antes do início da sua operação em
+teste e encaminha ao ONS os resultados da campanha da campanha de medição e a evidência de implantação
+do equipamento.
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 7 - Integração de
+Instalações
+Nome Submódulo Tipo Revisão Vigência
+Avaliação do impacto do acesso ou integração à Rede
+Básica de instalações com elementos não lineares ou 7.8 Operacional 2026.04 01/05/2026
+especiais
+1.4.3. Os agentes de transmissão, distribuição e consumidores livres realizam a campanha pós-tensão após
+o início da sua operação comercial e envia ao ONS os resultados da campanha de medição.
+2. REFERÊNCIAS
+2.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 5 / 5

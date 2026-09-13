@@ -1,0 +1,18 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Portaria
+TITULO: PORTARIA Nº 7.062, DE 23 DE FEVEREIRO DE 2026
+DATA_PUBLICACAO: 26/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=26/02/2026&jornal=515&pagina=63
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Energia Elétrica/Diretoria Colegiada
+
+TEXTO_COMPLETO:
+EMENTA: Institui o Plano de Resposta e Comunicação de Incidentes de Segurança com Dados Pessoais no âmbito da Agência Nacional de Energia Elétrica - ANEEL (PRIS-DP/ANEEL).
+
+PORTARIA Nº 7.062, DE 23 DE FEVEREIRO DE 2026
+Institui o Plano de Resposta e Comunicação de Incidentes de Segurança com Dados Pessoais no âmbito da Agência Nacional de Energia Elétrica - ANEEL (PRIS-DP/ANEEL).
+O DIRETOR-GERAL DA AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA - ANEEL, no uso de suas atribuições regimentais, conforme deliberação da Diretoria, e com fundamento no art. 4º, inciso I, do Regimento Interno, aprovado pela Portaria nº 6.980, de 16 de junho de 2025, bem como na Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais - LGPD), considerando a necessidade de estabelecer procedimentos padronizados e coordenados para a resposta a incidentes de segurança envolvendo dados pessoais, e o que consta no Processo nº 48500.003132/2026-26, resolve:
+Art. 1º Aprovar o Plano de Resposta e Comunicação de Incidentes de Segurança com Dados Pessoais da Aneel (PRIS-DP/ANEEL), na forma estabelecida no Anexo integrante desta Portaria.
+Art. 2º O Anexo desta Portaria encontra-se disponível no endereço eletrônico https://biblioteca.aneel.gov.br/.
+Art. 3º Esta Portaria entra em vigor na data de sua publicação.
+SANDOVAL DE ARAÚJO FEITOSA NETO

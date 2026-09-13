@@ -1,0 +1,22 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 03/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=03/02/2026&jornal=515&pagina=171
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado da Bahia
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 19/2026
+Fase de Requerimento de Licenciamento
+O GERENTE REGIONAL DA AGÊNCIA NACIONAL DE MINERAÇÃO, no uso da competência delegada de que trata o Art. 23, inciso IV, alínea "a" da Ordem de Serviço nº 334, de 12 de agosto de 2025, outorga o(s) seguinte(s) Registro(s) de Licença com vigência a partir da data de publicação:(730)
+Registro de Licença n°: 47/2026 - Processo nº: 870.901/2025 - Titular: SOUZA UNIAO MATERIAIS DE CONSTRUCAO LTDA - Vencimento: 27/06/2028 - Substância(s): AREIA, CASCALHO, SAIBRO - Município(s): CORRENTINA/BA
+Registro de Licença n°: 48/2026 - Processo nº: 870.458/2024 - Titular: CERAMICA SAO TOME LTDA - Vencimento: Indeterminado - Substância(s): ARGILA - Município(s): IBIPEBA/BA
+Registro de Licença n°: 53/2026 - Processo nº: 871.216/2024 - Titular: BAHIA BRITA BUSINESS BRASIL MINERACAO IMPORTACAO E EXPORTACAO LTDA - Vencimento: 09/08/2042 - Substância(s): AREIA - Município(s): JEQUIÉ/BA
+Registro de Licença n°: 54/2026 - Processo nº: 872.266/2024 - Titular: FLORAMA INDUSTRIA E COMERCIO DE PRODUTOS CERAMICOS LTDA - Vencimento: 19/11/2027 - Substância(s): ARGILA - Município(s): IBOTIRAMA/BA
+Registro de Licença n°: 57/2026 - Processo nº: 870.064/2025 - Titular: VSG MATERIAIS PARA CONSTRUCAO LTDA - Vencimento: 05/12/2029 - Substância(s): AREIA - Município(s): SANTA CRUZ CABRÁLIA/BA
+Registro de Licença n°: 58/2026 - Processo nº: 870.753/2022 - Titular: JOSÉ ALVES FILHO - Vencimento: 03/12/2027 - Substância(s): AREIA - Município(s): EUNÁPOLIS/BA
+CARLA FERREIRA VIEIRA MARTINS

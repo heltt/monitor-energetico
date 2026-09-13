@@ -1,0 +1,129 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.14-OP_2021.06
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.14-OP_2021.06.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.14
+Monitoramento dos Esquemas
+Regionais de Alívio de Carga
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2021.06 Despacho ANEEL nº 1.895/2021 29/06/2021
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Monitoramento dos Esquemas Regionais de
+6.14 Operacional 2021.06 02/07/2021
+Alívio de Carga
+ÍNDICE
+1. MONITORAMENTO DOS ESQUEMAS REGIONAIS DE ALÍVIO DE CARGA (ERAC).................................3
+1.1. Levantamento das cargas disponibilizadas para corte..................................................................3
+1.2. Envio de dados..............................................................................................................................3
+1.3. Avaliação dos dados fornecidos pelos agentes.............................................................................3
+1.4. Acompanhamento do atendimento às providências geradas.......................................................4
+1.5. Elaboração do Relatório Anual de Acompanhamento do ERAC....................................................4
+2. REFERÊNCIAS...................................................................................................................................5
+3. ANEXOS...........................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Monitoramento dos Esquemas Regionais de
+6.14 Operacional 2021.06 02/07/2021
+Alívio de Carga
+1. MONITORAMENTO DOS ESQUEMAS REGIONAIS DE ALÍVIO DE CARGA (ERAC)
+1.1. Levantamento das cargas disponibilizadas para corte
+1.1.1. O agente de distribuição ou consumidor livre realiza o levantamento das cargas disponibilizadas para
+corte pelo ERAC, por meio de procedimentos auditáveis, e o envia ao Operador Nacional do Sistema Elétrico
+– ONS em formato padrão.
+1.1.1.1. No caso de agente de distribuição, o levantamento é realizado a cada hora, durante todos os dias
+do ano, de forma cumulativa para todos os estágios.
+1.1.1.2. No caso de consumidor livre, o levantamento consiste na leitura das cargas disponibilizadas para
+corte pelo ERAC efetuada em consonância com o cronograma de coleta mensal de dados estabelecido pelo
+ONS.
+1.1.2. O agente de distribuição ou consumidor livre deve declarar como cargas disponibilizadas para corte
+pelo ERAC aquelas que efetivamente já estiverem conectadas. Alimentadores e transformadores em fase de
+implantação somente podem ter suas cargas declaradas como disponibilizadas para corte pelo ERAC após
+terem sido efetivamente implantados e energizados com carga.
+1.1.3. Previamente à desconexão de cargas que componham os montantes disponibilizados para corte pelo
+ERAC, o agente de distribuição ou consumidor livre deve providenciar cargas substitutas adicionais, a fim de
+se respeitarem os limites de tolerância estabelecidos para cada estágio.
+1.1.4. Caso sejam identificados desvios dos valores para atendimento aos estágios de corte de carga do ERAC,
+o agente de distribuição ou consumidor livre providencia proativamente as adequações necessárias.
+1.1.5. O agente de distribuição ou consumidor livre mantém armazenadas as leituras das cargas
+disponibilizadas para corte pelo ERAC por, no mínimo, 2 anos.
+1.2. Envio de dados
+1.2.1. O agente de distribuição envia mensalmente ao ONS os dados de leituras horárias das cargas
+disponibilizadas para corte pelo ERAC no mês anterior.
+1.2.2. O consumidor livre envia mensalmente a leitura das cargas disponibilizadas para corte pelo ERAC em
+consonância com a sistemática de coleta mensal de dados definida pelo ONS.
+1.3. Avaliação dos dados fornecidos pelos agentes
+1.3.1. O ONS consolida mensalmente os dados de carga enviados pelos agentes de distribuição e
+consumidores livres para compor o Relatório Anual de Acompanhamento do ERAC.
+1.3.2. O ONS compara os montantes teóricos de carga dos diversos estágios do ERAC, definidos no
+Submódulo 5.12 – Instruções de Operação, com os dados consolidados a partir das leituras informadas pelos
+agentes, de forma global e cumulativamente por estágio.
+1.3.2.1. Essa comparação leva em consideração os limites de tolerância estabelecidos com relação aos
+valores teóricos do ERAC, que são de 10% para os montantes de corte de carga globais e acumulados em
+cada estágio. Os desvios superiores aos limites de tolerância do ERAC para cada agente de operação são
+identificados e destacados. Além disso, são apontados os casos extremos de descumprimento, com desvios
+superiores a 20%. Os desvios considerados são aqueles referentes aos montantes de cargas cortados a menos
+que o estabelecido.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Monitoramento dos Esquemas Regionais de
+6.14 Operacional 2021.06 02/07/2021
+Alívio de Carga
+1.3.3. O ONS, com a utilização dos dados consolidados por agente de distribuição, realiza a apuração mensal
+dos Indicadores de Atendimento aos Limites de Tolerância do ERAC, conforme o Submódulo 9.3 – Indicadores
+de desempenho dos sistemas de proteção. Os Indicadores Mensais apurados por agente de distribuição são
+comparados com os patamares mínimos de aceitabilidade estabelecidos para cada estágio do ERAC, sendo
+apontados os casos em que os Indicadores Mensais estejam abaixo dos valores de referência indicados no
+Submódulo 9.3.
+1.3.3.1. Não será realizada a apuração de Indicadores de Atendimento aos Limites de Tolerância do ERAC
+dos consumidores livres. Entretanto, será apurado mensalmente pelo ONS o atendimento aos limites de
+tolerância estabelecidos para os montantes de corte de carga globais e acumulados em cada estágio do ERAC.
+1.3.3.2. O atendimento aos patamares mensais mínimos é considerado para efeito de monitoramento e
+fiscalização da Agência Nacional de Energia Elétrica – ANEEL. Entretanto, o agente não se eximirá de
+responsabilidade por eventuais violações dos limites de tolerância, caso o ERAC seja solicitado a atuar,
+independentemente do atendimento aos patamares verificados durante o acompanhamento mensal.
+1.3.4. Após a análise dos dados fornecidos pelos agentes, o ONS identifica os casos de não conformidade e
+estabelece as devidas providências aos agentes responsáveis para adequações.
+1.3.5. O ONS disponibiliza mensalmente aos agentes de operação e à ANEEL os Indicadores de Atendimento
+aos Limites de Tolerância do ERAC apurados no mês anterior e os montantes de corte de carga dos
+consumidores livres, destacando as situações de não conformidade identificadas.
+1.4. Acompanhamento do atendimento às providências geradas
+1.4.1. O ONS realiza mensalmente o acompanhamento do atendimento às providências em andamento e
+disponibiliza à ANEEL o seu andamento.
+1.4.1.1. Uma providência somente terá seu acompanhamento mensal finalizado quando estiver plenamente
+atendida.
+1.4.1.2. Cada providência é classificada como:
+(a) “Nova” quando for originada no mês de apuração;
+(b) “Atendida” quando estiver comprovadamente atendida em sua plenitude;
+(c) “Parcialmente Atendida” quando as ações para atendimento estiverem comprovadamente em
+andamento; ou
+(d) “Não Atendida” ou “Não Respondida” quando a providência tiver sido gerada em algum mês anterior
+ao de apuração e não houver comprovação de que o agente esteja tomando as devidas ações para o
+atendimento ou o ONS não tiver recebido informações do agente com relação ao atendimento à
+providência.
+1.5. Elaboração do Relatório Anual de Acompanhamento do ERAC
+1.5.1. O ONS elabora e disponibiliza anualmente o Relatório Anual de Acompanhamento do ERAC, que inclui:
+(a) consolidação dos montantes de carga;
+(b) apurações mensais dos Indicadores de Atendimento aos Limites de Tolerância do ERAC;
+(c) comparações com os patamares mensais mínimos de aceitabilidade definidos para cada estágio;
+(d) ajustes teóricos dos diversos estágios do ERAC com os respectivos montantes de corte de carga
+definidos em função dos prováveis déficits de geração em cada uma das áreas geoelétricas do SIN;
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Monitoramento dos Esquemas Regionais de
+6.14 Operacional 2021.06 02/07/2021
+Alívio de Carga
+(e) requisitos mínimos dos relés de frequência para o ERAC; e
+(f) conclusões e acompanhamentos das providências aos agentes de operação em não conformidade.
+2. REFERÊNCIAS
+2.1. Não há referências neste documento.
+3. ANEXOS
+3.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 5 / 5

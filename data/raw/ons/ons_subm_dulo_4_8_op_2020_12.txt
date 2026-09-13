@@ -1,0 +1,110 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 4.8-OP_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 4.8-OP_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 4.8
+Acompanhamento e previsão
+meteorológica e climática
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Acompanhamento e previsão meteorológica e
+4.8 Operacional 2020.12 01/01/2021
+climática
+ÍNDICE
+1. ACOMPANHAMENTO E PREVISÃO CLIMÁTICA.................................................................................3
+1.1. Obtenção de dados e indicadores climáticos e elaboração do Boletim Climático Mensal...........3
+2. ACOMPANHAMENTO E PREVISÃO METEOROLÓGICA.......................................................................3
+2.1. Obtenção de informações e dados meteorológicos......................................................................3
+2.2. Elaboração do Boletim de Precipitação nas Principais Bacias Hidrográficas e do Boletim
+Meteorológico Diário....................................................................................................................3
+2.3. Avaliação das redes meteorológica e pluviométrica.....................................................................4
+2.4. Elaboração do Boletim de Tempo Severo.....................................................................................4
+3. REFERÊNCIAS...................................................................................................................................4
+4. ANEXOS...........................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Acompanhamento e previsão meteorológica e
+4.8 Operacional 2020.12 01/01/2021
+climática
+1. ACOMPANHAMENTO E PREVISÃO CLIMÁTICA
+1.1. Obtenção de dados e indicadores climáticos e elaboração do Boletim Climático Mensal
+1.1.1. O ONS obtém os indicadores de padrões climáticos e as previsões climáticas, gerados por instituições
+públicas, nacionais ou internacionais externas ao setor elétrico.
+1.1.2. O ONS elabora, a partir das informações obtidas, o Boletim Climático Mensal e o disponibiliza
+publicamente em seu site, no qual apresenta as condições climáticas observadas no mês anterior ao da sua
+elaboração e as condições climáticas previstas para, no mínimo, os próximos 3 meses.
+1.1.2.1. No Boletim Climático são apresentadas as tendências climáticas, com ênfase nas bacias hidrográficas
+e nos principais centros de carga, e os indicadores de padrões climáticos.
+2. ACOMPANHAMENTO E PREVISÃO METEOROLÓGICA
+2.1. Obtenção de informações e dados meteorológicos
+2.1.1. O ONS obtém da Agência Nacional de Energia Elétrica – ANEEL, da Agência Nacional de Águas – ANA,
+de entidades responsáveis por estações meteorológicas e pluviométricas, e dos agentes de geração,
+transmissão e distribuição, os dados meteorológicos e pluviométricos horários e diários disponíveis, bem
+como outras informações necessárias para o acompanhamento e previsão meteorológica e climática.
+2.1.1.1. Os dados meteorológicos e pluviométricos observados referem-se às redes de estações dos agentes
+de geração, transmissão e distribuição, do Instituto Nacional de Meteorologia, do Ministério da Defesa, dos
+sistemas estaduais de meteorologia e da ANA.
+2.1.2. O ONS analisa os dados e as informações coletadas, a fim de avaliar preliminarmente as condições
+meteorológicas, e, em seguida, serem incorporados à base de dados.
+2.1.2.1. Os dados meteorológicos recebidos são submetidos a testes de validação e erro.
+2.1.2.2. Caso seja verificada inconsistência nos dados o ONS solicita correção ao agente responsável, o qual
+encaminha o dado corrigido.
+2.2. Elaboração do Boletim de Precipitação nas Principais Bacias Hidrográficas e do Boletim
+Meteorológico Diário
+2.2.1. O ONS determina a precipitação média observada a partir dos totais diários de precipitação
+consistidos, coletados nas bacias de interesse do SIN e em suas bacias vizinhas.
+2.2.1.1. Os totais diário, semanal, mensal e anual de precipitação observados são representados,
+numericamente e por meio de isolinhas, sobre mapas com os limites das bacias hidrográficas e com a
+hidrografia.
+2.2.2. O ONS atualiza os resultados das previsões de precipitação provenientes de modelos numéricos,
+correspondente aos totais acumulados em 24 horas, e os representam graficamente por meio de isolinhas
+de precipitação e sobre uma base hidrográfica com a delimitação das bacias ou sub-bacias de interesse do
+SIN. Esses resultados são também apresentados quantitativamente.
+2.2.3. O ONS atualiza, e representa numericamente, as previsões horárias de temperatura do ar, para as
+capitais brasileiras e para os centros de carga, e de direção e velocidade do vento, para locais de geração
+eólica, provenientes de modelos numéricos de previsão do tempo.
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Acompanhamento e previsão meteorológica e
+4.8 Operacional 2020.12 01/01/2021
+climática
+2.2.3.1. Outras variáveis meteorológicas consideradas relevantes podem ser atualizadas e representadas
+graficamente ou numericamente.
+2.2.4. O ONS analisa as informações obtidas de forma integrada, elabora o Boletim de Precipitação nas
+Principais Bacias Hidrográficas e o Boletim Meteorológico Diário e os disponibiliza publicamente em seu site.
+2.3. Avaliação das redes meteorológica e pluviométrica
+2.3.1. O ONS, quando necessário, analisa a rede de estações meteorológicas e pluviométricas disponíveis
+nas bacias hidrográficas, instalações sob responsabilidade de transmissora e centros de carga, a partir das
+informações sobre as estações meteorológicas e sobre os postos pluviométricos, fornecidas pelos agentes
+de geração, transmissão e distribuição e por outras entidades responsáveis.
+2.3.2. Caso seja verificada a necessidade de aprimorar a qualidade dos dados meteorológicos e para
+conhecer a variabilidade desses dados, o ONS pode propor à ANEEL a instalação de novas estações
+meteorológicas, de novos sensores e novos sistemas de transmissão de dados em tempo real para as
+estações existentes, bem como, conforme [1], pode propor à ANEEL e à ANA a instalação de novos postos
+pluviométricos.
+2.3.2.1. A proposta deve conter a finalidade de cada estação meteorológica ou posto pluviométrico e
+explicitar os aproveitamentos hidroelétricos e de geração eólica, os centros de carga e as linhas de
+transmissão relacionadas.
+2.4. Elaboração do Boletim de Tempo Severo
+2.4.1. O ONS acompanha a evolução das condições de tempo nas regiões das instalações estratégicas para
+a operação do SIN, com o objetivo de identificar eventuais situações de tempo severo nestas regiões,
+associadas a rajadas de vento, precipitação e /ou descargas atmosféricas.
+2.4.2. Caso seja identificada uma situação de tempo severo nas regiões das instalações estratégicas do SIN,
+o ONS emite o Boletim de Tempo Severo, contendo as instalações sujeitas às condições de tempo severo e o
+seu período de vigência.
+2.4.3. O ONS disponibiliza o Boletim de Tempo Severo aos agentes responsáveis pelas instalações de
+transmissão abrangidas e à ANEEL.
+2.4.3.1. Em caso de alteração nas condições de tempo o boletim poderá ser revisto ou cancelado.
+3. REFERÊNCIAS
+[1] ANEEL/ANA. Resolução Conjunta nº 03/2010.
+4. ANEXOS
+4.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 4 / 4

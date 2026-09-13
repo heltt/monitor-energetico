@@ -1,0 +1,42 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 24/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=24/02/2026&jornal=515&pagina=47
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado de Goiás
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 30/2026
+Fase de Autorização de Pesquisa
+Prorroga prazo para cumprimento de exigência - Prazo 60 dias(252)
+860.966/2024-GERSON MARTINS DA COSTA JUNIOR-OF. N°3602/2026/COROUT-GO/DF/ANM
+Fase de Licenciamento
+Determina cumprimento de exigência - Prazo 30 dias(718)
+860.472/2024-JOSE BATISTA DE AGUIAR-OF. N°5695/2026/COROUT-GO/DF/ANM
+861.441/2015-ATAIR CRUZEIRO DO PRADO-OF. N°5725/2026/COROUT-GO/DF/ANM
+861.370/2009-ALICE TELES GOMES-OF. N°3062/2026/COROUT-GO/DF/ANM
+862.425/2011-MINERADORA SANTA BARBARA LTDA ME-OF. N°5715/2026/COROUT-GO/DF/ANM
+860.999/2010-MARCELO AMERICO DANTAS-OF. N°3035/2026/COROUT-GO/DF/ANM
+Fase de Requerimento de Lavra
+Determina cumprimento de exigência - Prazo 60 dias(361)
+860.886/2014-MINERADORA & TRANSPORTADORA BRASIL CENTRAL LTDA ME-OF. N°3974/2026/COROUT-GO/DF/ANM
+Fase de Requerimento de Lavra Garimpeira
+Determina cumprimento de exigência - Prazo 60 dias(344)
+861.606/2024-ANTONIO PEREIRA - Ofício N° 49242/2025/COROUT-GO/DF/ANM
+Fase de Requerimento de Licenciamento
+Determina o cumprimento de exigência - Prazo 30 dias(1155)
+Processo nº: 860.911/2025
+Titular: USINA IPOJUCA S/A
+Ofício nº: 3063/2026/COROUT-GO/DF/ANM
+Processo nº: 860.544/2025
+Titular: ANGLO AMERICAN NIQUEL BRASIL LTDA
+Ofício nº: 3037/2026/COROUT-GO/DF/ANM
+Processo nº: 860.071/2018
+Titular: LAZARO BENEDITO EUSTAQUIO GONTIJO
+Ofício nº: 3501/2026/COROUT-GO/DF/ANM
+AILSON MACHADO DE ANDRADE
+Gerente

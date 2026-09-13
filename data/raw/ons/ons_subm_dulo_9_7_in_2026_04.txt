@@ -1,0 +1,388 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 9.7-IN_2026.04
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 9.7-IN_2026.04.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 9.7
+Indicadores de qualidade de energia
+elétrica da Rede Básica
+Indicadores
+Revisão Motivo da revisão Data de aprovação
+2026.04 Despacho STD nº 1.238/2026 09/04/2026
+Procedimentos de Rede - Módulo 9 – Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de qualidade da energia elétrica da
+9.7 Indicadores 2026.04 01/05/2026
+Rede Básica
+ÍNDICE
+1. OBJETIVOS.......................................................................................................................................3
+2. INDICADORES DE FREQUÊNCIA........................................................................................................3
+3. INDICADORES DE FLUTUAÇÃO, DESEQUILÍBRIO E DISTORÇÃO HARMÔNICA DE TENSÃO..................4
+4. INDICADORES DE VARIAÇÃO DE TENSÃO DE CURTA DURAÇÃO – VTCD............................................8
+5. REFERÊNCIAS.................................................................................................................................11
+Endereço na internet: http://www.ons.org.br 2 / 11
+Procedimentos de Rede - Módulo 9 – Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de qualidade da energia elétrica da
+9.7 Indicadores 2026.04 01/05/2026
+Rede Básica
+1. OBJETIVOS
+1.1. Estabelecer a sistemática para a apuração e a divulgação dos indicadores de desempenho da Rede Básica
+relacionados à qualidade de energia elétrica (QEE) e apresentar os valores limites de referência, nos aspectos
+global e individual quanto à QEE.
+2. INDICADORES DE FREQUÊNCIA
+2.1. Desempenho da Frequência em Regime Permanente – DFP
+2.1.1. Definição
+3.1.1.1. O indicador DFP, coletado de forma contínua pelo ONS, com apuração realizada em base diária,
+avalia as variações de frequência ocorridas durante a operação do sistema elétrico em regime permanente.
+2.1.2. Formulação
+3.1.3.1. O indicador DFP é quantificado como:
+DFP = (1 – (n / 1440)) x 100 (%) (1)
+Onde:
+n = número de vezes em que a integral do módulo do desvio de frequência (A), calculada para
+intervalos de 1 (um) minuto, foi superior a 0,1 Hz.min, considerando o total de 1440 intervalos
+diários.
+3.1.3.2. A integral do módulo do desvio da frequência (A) é quantificado como:
+A =  | f (t) | . dt (Hz.min) (2)
+Onde:
+A = Integral do módulo do desvio da frequência
+f = Desvio da frequência: f – f
+0
+f = Frequência medida (Hz)
+f = Frequência nominal: 60,00 Hz
+0
+t = Tempo (minutos)
+3.1.3.3. As variações de frequência durante distúrbios devem ser expurgadas para o cálculo do indicador
+DFP.
+3.1.3.4. A integral do módulo do desvio de frequência calculado no minuto que coincidir com o início do
+distúrbio não será considerada se nesse intervalo forem verificados valores absolutos de frequência
+superiores a +/- 0,5 Hz em relação ao valor nominal, o que caracteriza um distúrbio no SIN. Nesse caso, o
+número total diário de intervalos de um minuto, qual seja, 1440, utilizado na formulação apresentada no
+Endereço na internet: http://www.ons.org.br 3 / 11
+Procedimentos de Rede - Módulo 9 – Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de qualidade da energia elétrica da
+9.7 Indicadores 2026.04 01/05/2026
+Rede Básica
+item 3.1.3. deste submódulo deve ser substituído pelo resultado da expressão 1440 - X, em que X
+corresponde ao número de intervalos em que tenham ocorrido distúrbios desse total diário.
+2.1.3. Agregações
+3.1.5.1. Espacial: sistema.
+3.1.5.2. Temporal: diária, mensal e anual.
+2.1.4. Divulgação
+3.1.7.1. O indicador DFP é divulgado no site do ONS, conforme procedimentos e prazos estabelecidos no
+Submódulo 6.15.
+3.1.7.2. A periodicidade de divulgação do indicador é mensal.
+2.2. Desempenho da Frequência em Distúrbios – DFD
+2.2.1. Definição
+3.3.1.1. O indicador DFD, coletado durante distúrbios, com apuração em base anual, avalia as variações de
+frequência ocorridas durante distúrbios no sistema elétrico e é estabelecido a partir dos valores absolutos
+da frequência, sem integralização, para cada distúrbio.
+3.3.1.2. A gestão do indicador está detalhada no Submódulo 6.15.
+2.2.2. Formulação
+3.3.2.1. Não se aplica.
+2.2.3. Agregações
+3.3.5.1. Espacial: sistema.
+3.3.5.2. Temporal: evento, mensal e anual.
+2.2.4. Divulgação
+3.3.7.1. O indicador DFD é divulgado no site do ONS, conforme procedimentos e prazos estabelecidos no
+Submódulo 6.15.
+3.3.7.2. A periodicidade de divulgação do indicador é mensal.
+3. INDICADORES DE FLUTUAÇÃO, DESEQUILÍBRIO E DISTORÇÃO HARMÔNICA DE TENSÃO
+3.1. Flutuação de Tensão
+3.1.1. Definição
+5.1.1.1. Flutuação de tensão é a variação aleatória, repetitiva ou esporádica, do valor eficaz da tensão. De
+um modo geral, podem-se relacionar as flutuações aleatórias e repetitivas com a operação de cargas não
+lineares que apresentem consumo de potência variável no tempo, enquanto as flutuações esporádicas
+relacionam-se com manobras de rede ou de carga.
+Endereço na internet: http://www.ons.org.br 4 / 11
+Procedimentos de Rede - Módulo 9 – Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de qualidade da energia elétrica da
+9.7 Indicadores 2026.04 01/05/2026
+Rede Básica
+5.1.1.2. A determinação da qualidade da tensão quanto à flutuação de tensão tem por objetivo avaliar o
+incômodo provocado pelo efeito da cintilação no consumidor final que tenha seus pontos de iluminação
+alimentados pela tensão secundária de distribuição. A depender qual nível de tensão secundária de
+distribuição (127 V ou 220 V) seja preponderante entre os agentes conectados a tais barramentos, o processo
+de medição deve ser realizado com o medidor ajustado para o nível adequado de tensão. Quando não for
+possível caracterizar a preponderância de uma dessas tensões, o processo de medição deve ser realizado
+com o medidor ajustado para a tensão de 220 V, por corresponder a resultados mais conservadores.
+5.1.1.3. As flutuações de tensão podem provocar uma série de distúrbios ao se propagarem através da rede,
+mas apenas o distúrbio que causa a cintilação luminosa (flicker) é objeto deste submódulo.
+5.1.1.4. Cintilação, aplicada a sistemas elétricos, é a impressão visual resultante das variações do fluxo
+luminoso nas lâmpadas causada pelas flutuações da tensão de alimentação.
+5.1.1.5. A severidade de cintilação é uma representação quantitativa do incômodo visual percebido pelas
+pessoas expostas ao fenômeno de cintilação.
+5.1.1.6. O desempenho da Rede Básica quanto à flutuação de tensão é quantificado por meio de indicadores
+obtidos através de campanha de medição e no Ponto de Acoplamento Comum (PAC) correspondente da
+instalação.
+5.1.1.7. Os níveis de severidade de cintilação, causados pela flutuação de tensão, são quantificados pelos
+indicadores Indicador de Severidade de Cintilação de Curta Duração – Pst e Indicador de Severidade de
+Cintilação de Longa Duração – Plt, conforme descrição e recomendação da IEC [1].
+5.1.1.8. A flutuação de tensão é caracterizada, conforme estabelecido no item 5.1.2.3. deste submódulo,
+pelos indicadores PstD95% e PltS95%, relacionados com o nível de severidade do fenômeno da cintilação
+(flicker).
+3.1.2. Formulação
+5.1.2.1. O indicador Pst representa a severidade dos níveis de cintilação causados pela flutuação de tensão
+verificada num período contínuo de 10 (dez) minutos e é calculado a partir dos níveis instantâneos de
+sensação de cintilação, conforme a seguinte expressão:
+P  0,0314P 0,0525P 0,0657P 0,28P 0,08P
+(3)
+st 0,1 1 3 10 50
+Onde:
+Pi corresponde ao nível de sensação de cintilação que foi ultrapassado durante i% do tempo,
+resultante do histograma de classificação por níveis, calculado conforme estabelecido na
+Publicação IEC-61000-4-15.
+5.1.2.2. O indicador Plt representa a severidade dos níveis de cintilação causados pela flutuação de tensão
+verificada num período contínuo de 2 (duas) horas e é calculado a partir dos valores de Pst conforme a
+seguinte expressão:
+1 12  3
+P lt  3 12  P sti
+i1 (4)
+5.1.2.3. Os indicadores de severidade de cintilação, aqui adotados como representativos da flutuação de
+tensão, são:
+Endereço na internet: http://www.ons.org.br 5 / 11
+Procedimentos de Rede - Módulo 9 – Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de qualidade da energia elétrica da
+9.7 Indicadores 2026.04 01/05/2026
+Rede Básica
+(a) PstD95%: valor do indicador Pst que foi superado em 5% dos registros obtidos no período de 1 (um)
+dia (24 horas);
+(b) PltS95%: valor do indicador Plt que foi superado em 5% dos registros obtidos no período de uma
+semana, ou seja, de 7 (sete) dias completos e consecutivos.
+3.1.3. Agregações
+5.1.2.4. As agregações dos indicadores são definidas por campanha de medição, incluindo sempre agregação
+semanal por ponto de observação da tensão.
+3.1.4. Divulgação
+5.1.4.1. Os indicadores de flutuação de tensão são divulgados no site do ONS, conforme procedimentos e
+prazos estabelecidos no Submódulo 6.15.
+3.2. Desequilíbrio de Tensão
+3.2.1. Definição
+5.2.1.1. O desempenho da Rede Básica quanto ao desequilíbrio de tensão é quantificado por meio de
+indicadores obtidos através de campanha de medição no PAC correspondente da instalação.
+5.2.1.2. O desequilíbrio de tensão é caracterizado pelo indicador KS95%, que exprime a relação entre as
+componentes da tensão de sequência negativa (V2) e positiva (V1).
+3.2.2. Formulação
+5.2.2.1. O Fator de Desequilíbrio de Tensão - K corresponde à relação entre as componentes de sequência
+negativa - V2 e sequência positiva - V1 da tensão, expresso em termos percentuais da componente de
+sequência positiva, da seguinte forma:
+V
+K  2 x 100 [%] (5)
+V
+1
+5.2.2.2. Para a avaliação do desequilíbrio de tensão é utilizado o indicador KS95%, assim obtido:
+(a) determina-se o valor que foi superado em 5% dos registros de K obtidos no período de 1 dia (24
+horas), considerando os valores das componentes de sequência positiva e negativa integralizadas em
+intervalos de 10 (dez) minutos; e
+(b) o valor do indicador corresponde ao maior valor entre os sete valores obtidos, em base diária, ao
+longo de 7 (sete) dias consecutivos.
+3.2.3. Agregações
+5.2.3.1. As agregações dos indicadores são definidas por campanha de medição, incluindo sempre agregação
+semanal por ponto de observação da tensão.
+3.2.4. Divulgação
+5.2.4.1. O indicador de desequilíbrio de tensão é divulgado no site do ONS, conforme procedimentos e
+prazos estabelecidos no Submódulo 6.15.
+Endereço na internet: http://www.ons.org.br 6 / 11
+Procedimentos de Rede - Módulo 9 – Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de qualidade da energia elétrica da
+9.7 Indicadores 2026.04 01/05/2026
+Rede Básica
+3.3. Distorção Harmônica de Tensão
+3.3.1. Definição
+5.3.1.1. O desempenho da Rede Básica quanto a harmônicos, em regime permanente, é observado por meio
+de indicadores associados à distorção harmônica de tensão, monitorada em barramentos sob
+responsabilidade de concessionárias de transmissão e nos pontos de observação da tensão.
+5.3.1.2. A distorção harmônica de tensão não se aplica durante a ocorrência de fenômenos transitórios ou
+de curta duração que resultem em injeção de correntes harmônicas, como ocorre, por exemplo, na
+energização de transformadores ou em partida de unidades geradoras que utilizem equipamentos
+conversores de frequência.
+5.3.1.3. A distorção harmônica de tensão é caracterizada pelos indicadores DTHI e DTHTS95%.
+3.3.2. Formulação
+5.3.2.1. A Distorção de Tensão Harmônica Individual – DTHI corresponde ao valor obtido da relação
+percentual entre a tensão harmônica de ordem h, Vh, e a tensão à frequência fundamental, V1, ambas
+medidas em Volts, sendo expressa por:
+v
+DTHI 100 h
+h v (em %) (6)
+1
+5.3.2.2. A Distorção de Tensão Harmônica Total – DTHT corresponde ao valor obtido da raiz quadrada do
+somatório quadrático das DTHI de ordens 2 a 50, sendo expressa por:
+DTHT= DTHI2 (em %) (7)
+h
+5.3.2.3. Para a avaliação da distorção harmônica de tensão são utilizados os indicadores:
+(a) DTHI; e
+(b) DTHTS95%.
+5.3.2.4. O indicador DTHTS95% é assim obtido:
+(a) determina-se o valor que foi superado em 5% dos registros obtidos no período de 1 dia (24 horas),
+considerando os valores dos indicadores integralizados em intervalos de 10 (dez) minutos; e
+(b) o valor do indicador corresponde ao maior entre os sete valores obtidos, em base diária, ao longo de
+7 (sete) dias consecutivos.
+5.3.2.5. No cálculo de cada indicador deve-se utilizar o maior valor dentre os valores de cada fase, em cada
+intervalo de integralização.
+3.3.3. Agregações
+5.3.3.1. As agregações dos indicadores são definidas por campanha de medição, incluindo sempre agregação
+semanal por ponto de observação da tensão.
+3.3.4. Divulgação
+Endereço na internet: http://www.ons.org.br 7 / 11
+Procedimentos de Rede - Módulo 9 – Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de qualidade da energia elétrica da
+9.7 Indicadores 2026.04 01/05/2026
+Rede Básica
+5.3.4.1. Os indicadores de distorção harmônica de tensão são divulgados no site do ONS, conforme
+procedimentos e prazos estabelecidos no Submódulo 6.15.
+4. INDICADORES DE VARIAÇÃO DE TENSÃO DE CURTA DURAÇÃO – VTCD
+4.1. Definição
+6.1.1. São considerados pontos de observação da tensão os pontos onde se localizam o Sistema de Medição
+para Faturamento – SMF dos agentes de distribuição, de geração, de importação/exportação e
+consumidores, conforme designados nos respectivos Contratos de Uso do Sistema de Transmissão – CUST.
+6.1.2. O acompanhamento do desempenho da Rede Básica quanto a VTCD pode ser realizado por meio de
+valores obtidos pelos sistemas de medição e supervisão do Agente ou por um sistema de monitoramento
+contínuo a ser proposto pelo ONS, para os barramentos sob responsabilidade de concessionárias de
+transmissão.
+6.1.3. VTCD é um evento aleatório de tensão caracterizado por desvio significativo, por curto intervalo de
+tempo, do valor eficaz da tensão. Calcula-se o valor eficaz da tensão a partir da média quadrática dos valores
+instantâneos da tensão, em período mínimo de meio ciclo e máximo de um ciclo. A VTCD refere-se à tensão
+fase-neutro e é descrita monofasicamente pelos parâmetros amplitude e duração.
+6.1.4. A amplitude da VTCD é definida pelo valor extremo do valor eficaz da tensão, dentre as três fases,
+enquanto perdurar o evento.
+6.1.5. A duração da VTCD é definida pelo intervalo de tempo decorrido entre o instante em que o valor eficaz
+da tensão ultrapassa determinado limite e o instante em que essa variável volta a cruzar esse limite.
+6.1.6. A análise do desempenho da Rede Básica quanto à VTCD é feita com base em indicadores
+quantificados em barramentos sob responsabilidade de concessionárias de transmissão e nos pontos de
+observação da tensão.
+6.1.7. A partir da duração e amplitude, as VTCD são classificadas de acordo com o Quadro 2.
+6.1.8. A variação momentânea de tensão compreende os eventos com duração inferior ou igual a 3 (três)
+segundos, sendo classificada em interrupção, afundamento e elevação momentâneas de tensão, em função
+da amplitude da VTCD.
+6.1.9. A variação temporária de tensão compreende os eventos com duração superior a 3 (três) segundos e
+inferior ou igual a 1 (um) minuto, sendo classificada em interrupção, afundamento e elevação temporárias
+de tensão, em função da amplitude da VTCD.
+6.1.10. Denomina-se Interrupção Momentânea de Tensão (IMT) o evento em que o valor eficaz da tensão é
+inferior a 0,1 pu da tensão nominal, durante um intervalo de tempo com duração inferior ou igual a 3 (três)
+segundos.
+6.1.11. Denomina-se Afundamento Momentâneo de Tensão (AMT) o evento em que o valor eficaz da tensão
+é igual ou superior a 0,1 e inferior a 0,9 pu da tensão nominal, durante um intervalo de tempo com duração
+superior ou igual a um ciclo e inferior ou igual a 3 (três) segundos.
+6.1.12. Denomina-se Elevação Momentânea de Tensão (EMT) o evento em que o valor eficaz da tensão é
+superior a 1,1 pu da tensão nominal, durante um intervalo de tempo com duração superior ou igual a um
+ciclo e inferior ou igual a 3 (três) segundos.
+6.1.13. Denomina-se Interrupção Temporária de Tensão (ITT) o evento em que o valor eficaz da tensão é
+inferior a 0,1 pu da tensão nominal, durante um intervalo de tempo com duração superior a 3 (três) segundos
+e inferior ou igual a 1 (um) minuto.
+Endereço na internet: http://www.ons.org.br 8 / 11
+Procedimentos de Rede - Módulo 9 – Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de qualidade da energia elétrica da
+9.7 Indicadores 2026.04 01/05/2026
+Rede Básica
+6.1.14. Denomina-se Afundamento Temporário de Tensão (ATT) o evento em que o valor eficaz da tensão é
+igual ou superior a 0,1 e inferior a 0,9 pu da tensão nominal, durante um intervalo de tempo com duração
+superior a 3 (três) segundos e inferior ou igual a 1 (um) minuto.
+6.1.15. Denomina-se Elevação Temporária de Tensão (ETT) o evento em que o valor eficaz da tensão é
+superior a 1,1 pu da tensão nominal, durante um intervalo de tempo com duração superior a 3 (três)
+segundos e inferior ou igual a 1 (um) minuto.
+6.1.16. As configurações de disparo dos equipamentos de monitoração das VTCD, para início de gravação do
+evento e de reinício de gravação para o mesmo evento, devem ser de 0,90 e 0,92 p.u. para registro de
+afundamento de tensão e de 1,10 e 1,08 p.u. para registro de elevação de tensão, respectivamente.
+Quadro 1 - Tipos de variações de tensão de curta duração
+Amplitude da VTCD, em
+Tipo de VTCD Duração da VTCD
+relação à tensão nominal
+Interrupção momentânea de
+inferior ou igual a 3 (três) segundos inferior a 0,1 pu
+tensão – IMT
+Afundamento momentâneo igual ou superior a um ciclo e igual ou superior a 0,1 e
+de tensão – AMT inferior ou igual a 3 (três) segundos inferior a 0,9 pu
+Elevação momentânea de igual ou superior a um ciclo e
+superior a 1,1 pu
+tensão – EMT inferior ou igual a 3 (três) segundos
+Interrupção temporária de superior a 3 (três) segundos e
+inferior a 0,1 pu
+tensão – ITT inferior ou igual a 1 (um) minuto
+Afundamento temporário de superior a 3 (três) segundos e igual ou superior a 0,1 e
+tensão – ATT inferior ou igual a 1 (um) minuto inferior a 0,9 pu
+Elevação temporária de superior a 3 (três) segundos e
+superior a 1,1 pu
+tensão – ETT inferior ou igual a 1 (um) minuto
+6.1.17. Além dos parâmetros duração e amplitude já descritos, a severidade da VTCD em cada fase é também
+caracterizada pela frequência de ocorrência, que corresponde à quantidade de vezes que cada combinação
+dos parâmetros duração e amplitude ocorre por unidade de tempo.
+6.1.18. Num barramento sob avaliação, uma VTCD é caracterizada a partir da agregação dos parâmetros
+amplitude e duração de cada evento. Assim sendo, eventos simultâneos são primeiramente agregados
+compondo um mesmo evento no barramento sob avaliação (agregação de fases) e, em seguida, eventos
+consecutivos, em um período de 1 (um) minuto, no mesmo ponto, são agregados compondo um único evento
+(agregação temporal).
+6.1.19. Afundamentos e elevações são tratados separadamente, compondo um afundamento e uma
+elevação no barramento sob avaliação.
+6.1.20. A amplitude do evento obtida após o processo de agregação de fases corresponde ao mínimo valor
+para afundamento e ao máximo valor para elevação, dentre as três fases.
+Endereço na internet: http://www.ons.org.br 9 / 11
+Procedimentos de Rede - Módulo 9 – Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de qualidade da energia elétrica da
+9.7 Indicadores 2026.04 01/05/2026
+Rede Básica
+6.1.21. A agregação de fases deve ser feita pelo critério de união das fases, ou seja, a duração do evento é
+definida como o intervalo de tempo decorrido entre o instante em que o primeiro dos eventos de uma fase
+ultrapassa determinado limite e o instante em que o último dos eventos volta a cruzar esse limite.
+6.1.22. Após a agregação de fases, afundamentos consecutivos ou elevações consecutivas devem ser
+agregados de forma temporal quando o intervalo de tempo entre o início de eventos consecutivos for inferior
+a 1 (um) minuto. O afundamento e a elevação que representa o intervalo de 1 (um) minuto é o de menor ou
+maior amplitude, respectivamente.
+6.1.23. O indicador utilizado para quantificar os eventos de VTCD em um barramento sob avaliação é a
+frequência de ocorrência, em base anual.
+6.1.24. A contabilização das combinações amplitude e duração de afundamentos de tensão deve ser feita
+em intervalos discretizados conforme Tabela 1, para cada barramento sob avaliação, onde a amplitude é
+quantificada em p.u. da tensão nominal do barramento.
+Tabela 1 – Contabilização de afundamentos de tensão no barramento sob avaliação, em função da amplitude e
+duração do evento.
+Duração
+Amplitude [pu]
+[16,67 ms-300 ms] [300 ms-600 ms] [600 ms-1 s] [1 s-3 s] [3 s-1 min]
+(0,85 - 0,90]
+(0,80 - 0,85]
+(0,70 - 0,80]
+(0,60 - 0,70]
+(0,50 - 0,60]
+(0,40 - 0,50]
+(0,30 - 0,40]
+(0,20 - 0,30]
+[0,10 - 0,20]
+< 0,10
+6.1.25. A contabilização das combinações amplitude e duração de elevações de tensão deve ser feita em
+intervalos discretizados conforme Tabela 2, para cada barramento sob avaliação, onde a amplitude é
+quantificada em p.u. da tensão nominal do barramento.
+Duração
+Amplitude [pu] (300 ms-
+[16,67 ms-300 ms] (600 ms-1 s] (1s-3 s] (3 s-1 min]
+600 ms]
+[1,10 - 1,40]
+> 1,40
+Tabela 2 – Contabilização de elevações de tensão no barramento sob avaliação, em função da amplitude e duração
+do evento.
+6.1.26. A gestão dos indicadores de VTCD está detalhada no Submódulo 6.15.
+Endereço na internet: http://www.ons.org.br 10 / 11
+Procedimentos de Rede - Módulo 9 – Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de qualidade da energia elétrica da
+9.7 Indicadores 2026.04 01/05/2026
+Rede Básica
+4.2. Formulação
+6.3.1. Não se aplica.
+4.3. Agregações
+6.5.1. Sistêmica: ponto de observação da tensão, agente de operação conectante, região, sistema e estado.
+6.5.2. Temporal: mensal e anual.
+6.5.3. Com exceção da agregação por ponto de observação da tensão, os valores dos indicadores, para uma
+dada agregação temporal, correspondem a valores médios do universo de observação.
+4.4. Divulgação
+6.7.1. Os indicadores de VTCD são divulgados no site do ONS, conforme procedimentos e prazos
+estabelecidos no Submódulo 6.15.
+5. REFERÊNCIAS
+[1] IEC, Flickermeter – Functional and design specifications. IEC-61000-4-15.
+Endereço na internet: http://www.ons.org.br 11 / 11

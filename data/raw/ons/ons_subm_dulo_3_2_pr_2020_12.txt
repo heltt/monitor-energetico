@@ -1,0 +1,113 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 3.2-PR_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 3.2-PR_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 3.2
+Modernização de instalações
+Procedimental
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Modernização de instalações 3.2 Procedimental 2020.12 01/01/2021
+ÍNDICE
+1. MODERNIZAÇÃO DE INSTALAÇÕES..................................................................................................3
+1.1. Cadastramento de obras e consolidação dos dados.....................................................................3
+1.2. Análise das obras cadastradas.......................................................................................................4
+1.3. Elaboração e emissão do PMI.......................................................................................................4
+1.4. Acompanhamento da implantação das modernizações...............................................................4
+2. REFERÊNCIAS...................................................................................................................................5
+3. ANEXOS...........................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Modernização de instalações 3.2 Procedimental 2020.12 01/01/2021
+1. MODERNIZAÇÃO DE INSTALAÇÕES
+1.1. Cadastramento de obras e consolidação dos dados
+1.1.1. O Operador Nacional do Sistema Elétrico – ONS mantém sistema computacional próprio aberto
+durante o período estabelecido nos prazos deste submódulo para que os agentes de geração, de transmissão
+e de distribuição realizem o cadastramento das suas obras necessárias no novo ciclo do Plano de
+Modernização de Instalações (PMI).
+1.1.2. O ONS e os agentes de geração, de transmissão e de distribuição cadastram no sistema computacional
+as obras necessárias para o horizonte de até três anos, compreendendo o período entre o ano vigente e os
+três anos subsequentes ao ano de elaboração do PMI.
+1.1.2.1. As seguintes informações são fornecidas para cada obra cadastrada:
+(a) região – área geográfica da instalação;
+(b) agente – indicação do agente responsável pela modernização;
+(c) instalação – indicação da usina ou subestação onde a modernização será realizada;
+(d) nível de tensão – indicação do nível de tensão da instalação em kV;
+(e) tipo de agente – indicação do segmento de atuação do agente (geração, transmissão ou distribuição);
+(f) Função Transmissão (FT) – indicação da FT a qual a obra está associada;
+(g) origem da indicação – indicação do documento de referência ou responsável pela indicação da obra;
+(h) tipo de revitalização – indicação de subgrupo a que se refere a obra;
+(i) revitalização necessária – descrição da obra em si;
+(j) justificativa – informa o motivo da obra;
+(k) prazo para implantação – indicação da previsão de implantação da modernização pelo agente, em
+meses, contados a partir da emissão do PMI;
+(l) projeto que originou a indicação – indicação da origem da obra (ex: GT, Copa Mundo etc.);
+(m)custo – indicação da estimativa de valoração do empreendimento efetuada pelo agente;
+(n) status – indicação do estado em que se encontra a modernização;
+(o) classificação – indicação da classificação da modernização, conforme regulamentação vigente [1] [2]
+;
+(p) necessidade sistêmica – indicação pelo ONS do prazo para implantação diante dos requisitos de
+segurança do SIN;
+(q) observação – campo livre para informações adicionais; e
+(r) cronograma de acompanhamento da obra conforme implantada – com indicações de marcos
+intermediários e final.
+1.1.2.2. No caso da identificação de necessidade de modernização considerada relevante dentro do
+horizonte do PMI já emitido, o ONS comunica à Agência Nacional de Energia Elétrica – ANEEL e inclui a obra
+na subsequente emissão do PMI.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Modernização de instalações 3.2 Procedimental 2020.12 01/01/2021
+1.1.3. O ONS consolida os dados cadastrados no sistema computacional próprio.
+1.1.4. O ONS ou o agente envolvido registra eventuais incorreções ou necessidade de atualização dos dados
+cadastrados, quando for o caso, para que se mantenha o histórico da obra.
+1.2. Análise das obras cadastradas
+1.2.1. O ONS e o agente envolvido realizam a análise da necessidade de cada obra cadastrada no sistema
+computacional do ONS a partir dos dados obtidos dos agentes e das informações levantadas.
+1.2.2. O ONS classifica as modernizações cadastradas em conformidade com a regulamentação vigente [1]
+[2] , sendo opcional para o agente uma indicação de classificação no momento do cadastro.
+1.2.3. O ONS elabora a síntese quantitativa e de custos das modernizações, a partir das informações
+cadastradas pelos agentes no sistema computacional, a qual é apresentada através do PMI em forma de
+tabelas e/ou gráficos, considerando enfoques como agente e tipo de agente.
+1.3. Elaboração e emissão do PMI
+1.3.1. O ONS elabora e encaminha a minuta do PMI aos agentes de geração, de transmissão e de distribuição.
+1.3.2. Os agentes de geração, de transmissão e de distribuição avaliam a minuta do PMI e encaminham suas
+contribuições ao ONS.
+1.3.2.1. Essas contribuições devem servir apenas para alterações que visem corrigir os cadastros efetuados
+no período compreendido para tal finalidade. Não devem ser consideradas como contribuições à minuta a
+inserção de novos cadastros.
+1.3.3. Após recebimento e avaliação da contribuição dos agentes à minuta, o ONS emite e disponibiliza o
+PMI à ANEEL e aos agentes de geração, de transmissão e de distribuição.
+1.3.3.1. As modernizações são agrupadas no PMI em cinco tabelas:
+(a) tabela das transmissoras, que inclui melhorias necessárias em instalações sob responsabilidade de
+concessionárias de transmissão, observado o disposto em regulamentação vigente [1] ;
+(b) duas tabelas das distribuidoras, sendo uma que inclui melhorias e outra que inclui reforços, ambos
+necessários em instalações sob responsabilidade de agentes de distribuição, observado o disposto
+para agentes de transmissão [1] ; e
+(c) duas tabelas das geradoras, sendo uma que inclui melhorias e outra que inclui reforços, ambos
+necessários em instalações sob responsabilidade de agente de geração, observado o disposto em
+regulamentação vigente [1] [2] .
+1.4. Acompanhamento da implantação das modernizações
+1.4.1. Os agentes implementam as modernizações relacionadas no PMI conforme estabelecido em
+cronograma apropriado no sistema computacional próprio do ONS.
+1.4.2. O ONS acompanha a implantação das modernizações, por meio do sistema computacional próprio.
+1.4.3. Os agentes, por meio do sistema computacional do ONS, atualizam as informações relativas ao
+cumprimento da implantação das modernizações e das causas de eventual não cumprimento.
+1.4.3.1. Os agentes atribuem status de “executada”, “não iniciada” ou “em andamento” às modernizações
+cadastradas.
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Modernização de instalações 3.2 Procedimental 2020.12 01/01/2021
+2. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa nº 443, de 26 de julho de 2011.
+[2] ANEEL. Resolução Normativa nº 697, de 16 de dezembro de 2015.
+3. ANEXOS
+3.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 5 / 5

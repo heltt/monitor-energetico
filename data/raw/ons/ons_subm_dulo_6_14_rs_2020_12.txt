@@ -1,0 +1,97 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.14-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.14-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.14
+Monitoramento dos Esquemas
+Regionais de Alívio de Carga
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Monitoramento dos Esquemas Regionais de
+6.14 Responsabilidades 2020.12 01/01/2021
+Alívio de Carga
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTO........................................................................................................................................3
+2.1. Relatório Anual de Acompanhamento do ERAC............................................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de distribuição ou consumidores livres...........................................................................3
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIAS...................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Monitoramento dos Esquemas Regionais de
+6.14 Responsabilidades 2020.12 01/01/2021
+Alívio de Carga
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas dos processos relativos ao
+monitoramento dos Esquemas Regionais de Alívio de Carga (ERAC) da Rede de Operação do Sistema
+Interligado Nacional (SIN).
+2. PRODUTO
+2.1. Relatório Anual de Acompanhamento do ERAC
+2.1.1. Consolida os montantes de carga, a apuração dos indicadores relativos ao ERAC, a comparação com
+os patamares de aceitabilidade, os ajustes teóricos dos estágios do ERAC, requisitos mínimos dos relés de
+frequência para o ERAC e o acompanhamento das recomendações aos agentes.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Definir os montantes de carga total e acumulados por estágio do ERAC para cada região geoelétrica
+do SIN.
+(b) Definir os requisitos mínimos dos relés de frequência para o ERAC.
+(c) Definir anualmente a sistemática e o cronograma de coleta mensal de dados das cargas
+disponibilizadas pelos consumidores livres para corte pelo ERAC.
+(d) Apurar os Indicadores de Atendimento aos Limites de Tolerância do ERAC, os montantes de cargas
+disponibilizados para corte pelos consumidores livres, identificar as situações de não conformidade e
+recomendar as adequações aos agentes de operação.
+(e) Acompanhar o atendimento às recomendações geradas a partir das apurações dos meses anteriores.
+(f) Enviar aos agentes de operação e à ANEEL a análise das leituras apuradas no mês anterior, as situações
+de não conformidade identificadas e o acompanhamento do atendimento às recomendações.
+(g) Elaborar e disponibilizar para os agentes de operação e para a ANEEL o Relatório Anual de
+Acompanhamento do ERAC.
+3.2. Agentes de distribuição ou consumidores livres
+(a) Realizar leituras horárias ou mensais, conforme o caso, das cargas disponibilizadas para corte pelo
+ERAC, enviá-las ao ONS e mantê-las armazenadas por, no mínimo, 2 anos.
+(b) Analisar o resultado das leituras do ERAC e efetuar proativamente as eventuais adequações
+necessárias, bem como informar ao ONS as ações corretivas adotadas.
+(c) Efetuar as adequações indicadas nas recomendações mensais do ONS e no Relatório Anual de
+Acompanhamento do ERAC.
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Monitoramento dos Esquemas Regionais de
+6.14 Responsabilidades 2020.12 01/01/2021
+Alívio de Carga
+4. PRAZOS
+Quadro 1 - Prazos para atividades referentes ao monitoramento do ERAC
+Atividade Responsável Prazo Periodicidade
+Encaminhamento ao ONS das Agente de
+Até o 15º dia do mês
+leituras das cargas distribuição ou
+1 seguinte ao de realização Mensal
+disponibilizadas para corte pelo consumidor
+das leituras
+ERAC livre
+Disponibilização aos agentes de
+operação e à ANEEL dos
+montantes de carga do ERAC e
+Até o 15º dia do mês
+dos Indicadores de Atendimento
+2 ONS seguinte ao de Mensal
+aos Limites de Tolerância
+recebimento das leituras
+apurados no mês anterior e à
+ANEEL do acompanhamento do
+atendimento às recomendações
+Emissão e divulgação do Até dia 31 de março de
+3 Relatório Anual de ONS cada ano referente aos Anual
+Acompanhamento do ERAC dados do ano anterior
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 4 / 4

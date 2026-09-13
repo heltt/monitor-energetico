@@ -1,0 +1,359 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.7-PR_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.7-PR_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.7
+Avaliação de enchimento de
+reservatório e emissão de declaração
+para integração de reservatório
+Procedimental
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede – Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Avaliação de enchimento de reservatório e
+emissão de declaração para integração de 7.7 Procedimental 2020.12 01/01/2021
+reservatório
+ÍNDICE
+1. AVALIAÇÃO DE ENCHIMENTO DE RESERVATÓRIO............................................................................3
+1.1. Identificação de novos aproveitamentos hidroelétricos...............................................................3
+1.2. Elaboração e disponibilização do Parecer Técnico Preliminar sobre Enchimento do Reservatório
+.......................................................................................................................................................3
+1.3. Obtenção da confirmação da data de início de enchimento do reservatório...............................4
+1.4. Obtenção do estudo de enchimento do reservatório e de dados complementares....................4
+1.5. Elaboração e disponibilização do Parecer Técnico sobre Enchimento do Reservatório...............4
+1.6. Obtenção de dados hidráulicos e hidrológicos.............................................................................5
+2. EMISSÃO DE DECLARAÇÃO DE LIBERAÇÃO PARA INÍCIO DE ENCHIMENTO DE RESERVATÓRIO.........5
+3. REFERÊNCIAS...................................................................................................................................6
+4. ANEXOS...........................................................................................................................................6
+ANEXO A – Informações e dados técnicos do aproveitamento hidroelétrico.........................................7
+ANEXO B – Informações e dados técnicos para solicitação de emissão da DLIER...................................9
+ANEXO C – Requisitos impeditivos para emissão da DLIER...................................................................11
+Endereço na internet: http://www.ons.org.br 2 / 11
+Procedimentos de Rede – Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Avaliação de enchimento de reservatório e
+emissão de declaração para integração de 7.7 Procedimental 2020.12 01/01/2021
+reservatório
+1. AVALIAÇÃO DE ENCHIMENTO DE RESERVATÓRIO
+1.1. Identificação de novos aproveitamentos hidroelétricos
+1.1.1. O Operador Nacional do Sistema Elétrico – ONS identifica os novos aproveitamentos hidroelétricos
+previstos num horizonte de três anos à frente, com base nas revisões quadrimestrais dos estudos do ciclo
+anual de planejamento da operação energética de médio prazo do Sistema Interligado Nacional (SIN),
+estabelecido no Submódulo 3.3 – Planejamento da operação energética de médio prazo.
+1.1.2. O ONS solicita aos agentes de geração responsáveis pelos aproveitamentos hidroelétricos
+identificados os dados técnicos e informações listados no ANEXO A – Informações e dados técnicos do
+aproveitamento hidroelétrico, necessários para a avaliação preliminar do enchimento do reservatório, a fim
+de subsidiar o processo de integração deste reservatório ao SIN e o processo de programação da operação
+do SIN durante o período de enchimento deste reservatório.
+1.1.2.1. Entende-se por enchimento de um reservatório o preenchimento de seu volume morto, até que seja
+atingido o nível mínimo operativo, ou o preenchimento do volume equivalente à cota da soleira do
+vertedouro.
+1.1.3. Os agentes de geração encaminham ao ONS, nos formatos, meios e prazos especificados, os dados
+técnicos e informações dos aproveitamentos hidroelétricos sob sua responsabilidade.
+1.2. Elaboração e disponibilização do Parecer Técnico Preliminar sobre Enchimento do Reservatório
+1.2.1. O ONS analisa os dados e informações encaminhados pelos agentes de geração, avaliando os aspectos
+hidrológicos e energéticos e eventuais impactos na operação do SIN decorrentes do processo de enchimento
+de cada reservatório, considerando as diretrizes e critérios descritos nos Submódulos 2.4 – Critérios para
+estudos energéticos e hidrológicos.
+1.2.2. Caso necessário, o ONS solicita ao agente de geração responsável pelo reservatório a atualização e/ou
+complementação de dados.
+1.2.3. O ONS elabora Parecer Técnico Preliminar sobre Enchimento do Reservatório específico a cada
+reservatório contendo a declaração de necessidade ou não do agente de geração apresentar estudo de
+enchimento do reservatório e a classificação de impacto do enchimento deste reservatório à operação do
+SIN, quais sejam:
+(a) nenhum impacto em outras usinas do SIN;
+(b) nenhum impacto em outras usinas do SIN, mas necessita de acompanhamento do enchimento para
+reconstituição das vazões naturais do próprio aproveitamento e de eventuais aproveitamentos a
+jusante; ou
+(c) impacta outras usinas do SIN.
+1.2.3.1. Em função da classificação de impacto estabelecida, o parecer técnico poderá sinalizar eventuais
+providências requeridas. No caso de classificação como “nenhum impacto em outras usinas do SIN”, poderá
+haver a dispensa da emissão do Parecer Técnico sobre Enchimento de Reservatório.
+1.2.4. Caso necessário, o ONS articula com a Agência Nacional de Águas – ANA assuntos relativos à avaliação
+do enchimento do reservatório.
+Endereço na internet: http://www.ons.org.br 3 / 11
+Procedimentos de Rede – Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Avaliação de enchimento de reservatório e
+emissão de declaração para integração de 7.7 Procedimental 2020.12 01/01/2021
+reservatório
+1.2.5. O ONS disponibiliza ao agente responsável e à Agência Nacional de Energia Elétrica – ANEEL o Parecer
+Técnico Preliminar sobre Enchimento do Reservatório específico a cada reservatório.
+1.3. Obtenção da confirmação da data de início de enchimento do reservatório
+1.3.1. O agente de geração responsável pelo reservatório retifica ou ratifica ao ONS a data de início do
+enchimento deste reservatório.
+1.3.2. Quando da confirmação, o agente de geração responsável pelo reservatório encaminha ao ONS:
+(a) eventuais revisões dos dados técnicos e informações referentes ao enchimento do reservatório; e
+(b) informações sobre o atendimento das recomendações e sobre as soluções das pendências de sua
+responsabilidade constantes do Parecer Técnico Preliminar sobre Enchimento do Reservatório.
+1.4. Obtenção do estudo de enchimento do reservatório e de dados complementares
+1.4.1. O agente de geração responsável pelo reservatório encaminha ao ONS a série histórica de vazões
+naturais médias diárias e os dados técnicos complementares solicitados no parecer técnico preliminar,
+conforme estabelecido no Submódulo 3.8 – Atualização de dados técnicos dos aproveitamentos
+hidroelétricos, bem como o estudo do enchimento do reservatório, quando este não for dispensado no
+parecer técnico preliminar.
+1.4.1.1. Com base no estudo, o ONS, em conjunto com o agente responsável pelo reservatório, avalia o
+impacto provocado pelo enchimento desse reservatório e verifica a necessidade de realização de estudos
+adicionais para a avaliação dos impactos hidrológicos e eletroenergéticos.
+1.4.2. A partir do estudo de enchimento do reservatório, o ONS procede à identificação de demais agentes
+eventualmente afetados e os convida a participarem, de forma facultativa, do processo de elaboração das
+avaliações.
+1.4.3. Quando, em qualquer etapa posterior, são identificados novos agentes afetados, o ONS estende a
+esses agentes o convite a participarem do processo de elaboração das avaliações do enchimento do
+reservatório.
+1.5. Elaboração e disponibilização do Parecer Técnico sobre Enchimento do Reservatório
+1.5.1. O ONS elabora o Parecer Técnico sobre Enchimento do Reservatório, quando este não for dispensado
+no parecer técnico preliminar, considerando as seguintes informações encaminhadas pelo agente de geração
+responsável pelo reservatório:
+(a) ratificação ou retificação da data prevista para início do enchimento do reservatório, conforme
+item 1.3.1. deste submódulo;
+(b) eventuais revisões dos dados técnicos;
+(c) informações sobre o atendimento das recomendações e sobre as soluções das pendências
+constantes do parecer técnico preliminar, conforme item 1.3.2. deste submódulo;
+(d) série histórica de vazões naturais médias diárias; e
+(e) estudo de enchimento do reservatório, conforme item 1.4.1.
+Endereço na internet: http://www.ons.org.br 4 / 11
+Procedimentos de Rede – Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Avaliação de enchimento de reservatório e
+emissão de declaração para integração de 7.7 Procedimental 2020.12 01/01/2021
+reservatório
+1.5.2. O ONS estabelece, com a participação do agente de geração responsável pelo reservatório e,
+facultativamente, dos demais agentes afetados, o escopo e o cronograma dos estudos, que devem abranger
+os aspectos hidroenergéticos e de segurança operacional do SIN.
+1.5.3. Nesses estudos são avaliados, entre outros, a duração estimada do enchimento do reservatório, seus
+impactos sobre a operação das demais usinas hidroelétricas, o atendimento à carga sistêmica e local, o
+atendimento a restrições operacionais locais e sistêmicas e o período mais adequado para sua efetivação.
+1.5.4. Caso necessário, o ONS solicita ao agente de geração a atualização e/ou complementação de dados
+sob sua responsabilidade.
+1.5.5. O ONS elabora Parecer Técnico sobre Enchimento do Reservatório específico a cada reservatório
+contendo:
+(a) dados do solicitante;
+(b) caracterização do reservatório (descrição do empreendimento e caracterização do agente
+responsável);
+(c) relação dos agentes afetados pelo enchimento do reservatório;
+(d) escopo dos estudos realizados;
+(e) dados e premissas considerados;
+(f) pendências, ressalvas e informações complementares;
+(g) avaliação dos impactos eletroenergéticos ao SIN e reflexos nas afluências aos demais reservatórios
+e usinas do SIN;
+(h) duração provável, requisitos necessários, melhores períodos e prazos para efetivação do
+enchimento do reservatório;
+(i) conclusões, providências necessárias e recomendações.
+1.5.6. O ONS disponibiliza ao agente de geração responsável pelo reservatório, aos demais agentes afetados,
+à ANEEL e à ANA, o Parecer Técnico sobre Enchimento do Reservatório.
+1.6. Obtenção de dados hidráulicos e hidrológicos
+1.6.1. O ONS solicita aos agentes de geração responsáveis por novos aproveitamentos hidroelétricos os
+dados hidráulicos descritos no Submódulo 2.12 – Requisitos mínimos de supervisão e controle para a
+operação, necessários para o acompanhamento da situação hidrológica antes do início do enchimento do
+reservatório.
+1.6.2. Os agentes de geração fornecem ao ONS, diariamente, nos formatos, meios e prazos estabelecidos,
+as informações solicitadas relativas aos novos aproveitamentos hidroelétricos.
+2. EMISSÃO DE DECLARAÇÃO DE LIBERAÇÃO PARA INÍCIO DE ENCHIMENTO DE RESERVATÓRIO
+2.1. Os agentes de geração responsáveis por novos aproveitamentos hidroelétricos solicitam ao ONS, nos
+formatos, meios e prazos estabelecidos, a emissão da Declaração de Liberação para Início do Enchimento do
+Reservatório (DLIER), contendo os dados técnicos e informações do reservatório sob sua responsabilidade,
+conforme ANEXO B – Informações e dados técnicos para solicitação de emissão da DLIER.
+Endereço na internet: http://www.ons.org.br 5 / 11
+Procedimentos de Rede – Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Avaliação de enchimento de reservatório e
+emissão de declaração para integração de 7.7 Procedimental 2020.12 01/01/2021
+reservatório
+2.1.1. No que se refere à integração de usina hidroelétrica de agente de geração que esteja relacionada ao
+reservatório que será integrado à operação do SIN, devem ser atendidos os requisitos e procedimentos
+descritos no Submódulo 7.13 – Emissão de declaração de atendimento aos Procedimentos de Rede para a
+integração de instalações de geração.
+2.2. O ONS analisa os dados e informações encaminhados pelos agentes de geração e, quando necessário,
+solicita esclarecimentos adicionais.
+2.3. Caso existam pendências impeditivas nos requisitos analisados, conforme estabelecido no ANEXO C –
+Requisitos impeditivos para emissão da DLIER, o ONS suspende o processo de emissão da DLIER, e informa
+ao agente de geração os impedimentos que levaram a tal situação.
+2.4. Quando o agente de geração responsável pelo reservatório comunica ao ONS a solução das pendências
+impeditivas indicadas, o ONS reinicia o processo de análise, emite a DLIER e a encaminha ao agente, à ANEEL
+e à ANA.
+2.5. Caso o ONS considere que o reservatório possa iniciar o enchimento contendo pendências não
+impeditivas, emite a DLIER e a encaminha ao agente responsável pelo reservatório, à ANEEL, à ANA e aos
+agentes diretamente afetados, se houver. A DLIER explicita as pendências não impeditivas, as adequações
+necessárias e os prazos acordados para a solução das mesmas.
+2.5.1. Até o vencimento do prazo da pendência constante na DLIER, o agente responsável pelo reservatório
+formaliza ao ONS o atendimento à pendência ou, caso as ações não tenham sido concluídas, solicita um novo
+prazo mediante apresentação das justificativas para o não atendimento às adequações e prazos acordados.
+2.5.2. O ONS analisa a justificativa apresentada, podendo ou não revalidar as adequações e prazos da DLIER
+informando à ANEEL e à ANA, se necessário.
+3. REFERÊNCIAS
+3.1. Não há referências neste documento.
+4. ANEXOS
+ANEXO A – Informações e dados técnicos do aproveitamento hidroelétrico
+ANEXO B – Informações e dados técnicos para solicitação de emissão da DLIER
+ANEXO C – Requisitos impeditivos para emissão da DLIER
+Endereço na internet: http://www.ons.org.br 6 / 11
+Procedimentos de Rede – Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Avaliação de enchimento de reservatório e
+emissão de declaração para integração de 7.7 Procedimental 2020.12 01/01/2021
+reservatório
+ANEXO A – Informações e dados técnicos do aproveitamento hidroelétrico
+Nome do Proprietário ou do Cessionário do Empreendimento
+AGENTE
+de Geração
+Cadastro Nacional de Pessoa Jurídica do Proprietário ou do
+CNPJ
+Cessionário do Empreendimento de Geração
+Nome, telefone e e-mail de pessoa física que prestará
+REPRESENTANTE PARA CONTATO
+esclarecimentos sobre o processo de integração do
+reservatório
+NOME DO RESERVATÓRIO / USINA
+Nome da Usina conforme Ato Autorizativo
+Município e a unidade federativa onde está localizado o
+MUNICÍPIO / UF DA USINA
+empreendimento de geração
+NOME DA BACIA
+Bacia hidrográfica onde está localizado o reservatório
+NOME DO RIO
+Rio onde está localizado o reservatório
+Número do documento emitido por órgão competente que
+ATO AUTORIZATIVO
+regula a implantação da referida instalação
+Latitude e longitude do ponto de cruzamento do eixo da
+LATITUDE E LONGITUDE (BARRAGEM)
+barragem com o rio
+ÁREA DE DRENAGEM (km²)
+Área de drenagem contribuinte à barragem em km2
+POTÊNCIA AUTORIZADA PARA A
+Potência da usina conforme o que consta no Ato Autorizativo,
+USINA (MW)
+em MW
+DATA PREVISTA PARA O INÍCIO DO
+Data prevista para início de enchimento do reservatório objeto
+ENCHIMENTO (DD/MM/AA)
+da solicitação
+DATA PREVISTA PARA O TÉRMINO
+Data prevista para o fim do enchimento do reservatório objeto
+DO ENCHIMENTO (DD/MM/AA)
+da solicitação (sob condições médias de afluência)
+N. A. MÍNIMO OPERACIONAL (m)
+Nível d’água mínimo operacional do reservatório em m
+N. A. MÁXIMO OPERACIONAL (m)
+Nível d’água máximo operacional do reservatório em m
+ÁREA DO RESERVATÓRIO N.A MÍN.
+Área alagada pelo reservatório em seu nível d’água mínimo
+(km2)
+normal, em km2
+ÁREA DO RESERVATÓRIO N.A MÁX.
+Área alagada pelo reservatório em seu nível d’água máximo
+(km2)
+normal, em km2
+Endereço na internet: http://www.ons.org.br 7 / 11
+Procedimentos de Rede – Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Avaliação de enchimento de reservatório e
+emissão de declaração para integração de 7.7 Procedimental 2020.12 01/01/2021
+reservatório
+ANEXO A – Informações e dados técnicos do aproveitamento hidroelétrico (continuação)
+Volume mínimo operacional do reservatório em hm3 (volume
+VOLUME NO N. A. MÍN. (hm³)
+total, incluindo volume morto)
+Volume máximo operacional do reservatório em hm3 (volume
+VOLUME NO N. A. MAX. (hm³)
+total, incluindo volume morto)
+COTA DA CRISTA DA SOLEIRA DO
+Cota da crista da soleira do vertedouro
+VERTEDOURO (m)
+TIPO DE CONTROLE DO VERTEDOURO
+Com comporta ou de lâmina livre
+Série de Vazões Médias Mensais utilizadas nos estudos
+energéticos de definição da potência autorizada para a usina
+SÉRIE DE VAZOES MÉDIAS MENSAIS
+(m3/s)
+VAZÃO MÍNIMA REMANESCENTE
+Vazão mínima a ser liberada para jusante da barragem durante
+(m3/s)
+o período de enchimento do reservatório, em m3/s
+Endereço na internet: http://www.ons.org.br 8 / 11
+Procedimentos de Rede – Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Avaliação de enchimento de reservatório e
+emissão de declaração para integração de 7.7 Procedimental 2020.12 01/01/2021
+reservatório
+ANEXO B – Informações e dados técnicos para solicitação de emissão da DLIER
+Nome do Proprietário ou do Cessionário do Empreendimento
+AGENTE
+de Geração
+Cadastro Nacional de Pessoa Jurídica do Proprietário ou do
+CNPJ
+Cessionário do Empreendimento de Geração
+Nome, telefone e e-mail de pessoa física que prestará
+REPRESENTANTE PARA CONTATO
+esclarecimentos sobre o processo de integração do
+reservatório
+Informar nome, telefone e e-mail do Diretor / Presidente do
+DIRETOR / PRESIDENTE DO AGENTE
+agente responsável pelo reservatório
+Informar o endereço para o qual deve ser enviada a carta (via
+ENDEREÇO
+física) da DLIER
+NOME DO RESERVATÓRIO / USINA
+Nome da Usina conforme Ato Autorizativo
+Informar capacidade do reservatório e tempo para conclusão
+CARACTERIZAÇÃO DO RESERVATÓRIO
+de seu enchimento
+NOME DA BACIA
+Bacia hidrográfica onde está localizado o reservatório
+NOME DO RIO
+Rio onde está localizado o reservatório
+Número do documento emitido por órgão competente que
+ATO AUTORIZATIVO
+regula a implantação da referida instalação
+Informar o nome da usina a jusante de onde está localizado o
+NOME DA USINA A JUSANTE
+reservatório
+Município e a unidade federativa onde está localizado o
+MUNICÍPIO / UF DA USINA
+empreendimento de geração
+LATITUDE
+Latitude da usina hidrelétrica
+LONGITUDE
+Longitude da usina hidrelétrica
+POTÊNCIA AUTORIZADA PARA A
+Potência da usina conforme o que consta no Ato Autorizativo,
+USINA (MW)
+em MW
+DATA PREVISTA PARA O INÍCIO DO
+Data prevista para início de enchimento do reservatório objeto
+ENCHIMENTO (DD/MM/AA)
+da solicitação
+DATA PREVISTA PARA O TÉRMINO
+Data prevista para o fim do enchimento do reservatório objeto
+DO ENCHIMENTO (DD/MM/AA)
+da solicitação (sob condições médias de afluência)
+Endereço na internet: http://www.ons.org.br 9 / 11
+Procedimentos de Rede – Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Avaliação de enchimento de reservatório e
+emissão de declaração para integração de 7.7 Procedimental 2020.12 01/01/2021
+reservatório
+ANEXO B – Informações e dados técnicos para solicitação de emissão da DLIER (continuação)
+COMENTÁRIOS ADICIONAIS
+RESPONSÁVEL PELA DECLARAÇÃO ASSINATURA DATA
+___/___/_____
+Endereço na internet: http://www.ons.org.br 10 / 11
+Procedimentos de Rede – Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Avaliação de enchimento de reservatório e
+emissão de declaração para integração de 7.7 Procedimental 2020.12 01/01/2021
+reservatório
+ANEXO C – Requisitos impeditivos para emissão da DLIER
+C.1. Requisitos Impeditivos para a emissão da DLIER
+(1) Atendimento às características técnicas estabelecidas no contrato de concessão ou ato autorizativo
+da ANEEL que outorgou a implantação da usina hidroelétrica cujo reservatório será integrado ao SIN.
+(2) Implantação das recomendações contidas no Parecer Técnico Preliminar sobre Enchimento do
+Reservatório.
+(3) Implantação das recomendações contidas no Parecer Técnico sobre Enchimento do Reservatório.
+(4) Fornecimento dos dados hidráulicos e hidrológicos.
+Endereço na internet: http://www.ons.org.br 11 / 11

@@ -1,0 +1,48 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.6-OP_2025.02
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.6-OP_2025.02.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.6
+Apuração dos serviços ancilares
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2025.02 Resolução Normativa ANEEL nº 1.112/2025 11/02/2025
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração dos serviços ancilares 6.6 Operacional 2025.02 01/03/2025
+ÍNDICE
+1. APURAÇÃO MENSAL DO SERVIÇO ANCILAR DE SUPORTE DE REATIVOS............................................3
+2. AVALIAÇÃO DO DESEMPENHO DA PRESTAÇÃO DOS SERVIÇOS ANCILARES......................................3
+3. REFERÊNCIAS...................................................................................................................................3
+4. ANEXOS...........................................................................................................................................3
+Endereço na internet: http://www.ons.org.br 2 / 3
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração dos serviços ancilares 6.6 Operacional 2025.02 01/03/2025
+1. APURAÇÃO MENSAL DO SERVIÇO ANCILAR DE SUPORTE DE REATIVOS
+1.1. O ONS registra no Arquivo Mensal de Valores Resultantes da Apuração de Serviços Ancilares os períodos
+referentes à operação de unidades geradoras como compensadores síncronos e de centrais geradoras
+despachadas centralizadamente ou consideradas na programação na condição de geração de potência ativa
+nula para suporte de reativos, para cada agente de geração com Contratos de Prestação de Serviços Ancilares
+(CPSA).
+1.2. O ONS disponibiliza, através de sistema computacional, à Câmara de Comercialização de Energia Elétrica
+– CCEE o Arquivo Mensal de Valores Resultantes da Apuração de Serviços Ancilares com todos os agentes de
+geração com CPSA.
+1.3. O ONS disponibiliza, através de sistema computacional, ao agente gerador com CPSA o Arquivo Mensal
+de Valores Resultantes da Apuração de Serviços Ancilares com dados de suas unidades geradoras ou centrais
+geradoras, conforme o caso.
+2. AVALIAÇÃO DO DESEMPENHO DA PRESTAÇÃO DOS SERVIÇOS ANCILARES
+2.1. O ONS elabora relatórios referente ao ano imediatamente anterior, com o resultado da avaliação de
+desempenho dos serviços ancilares de controle secundário de frequência, de autorrestabelecimento integral
+através de testes, de Sistemas Especiais de Proteção (SEP) quando há atuação do SEP e/ou de despacho
+complementar para manutenção da reserva de potência operativa [1].
+2.2. O ONS encaminha à ANEEL e disponibiliza em seu site os relatórios de avaliação de desempenho dos
+serviços ancilares.
+3. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa nº 1.030, de 26 de julho de 2022.
+4. ANEXOS
+4.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 3 / 3

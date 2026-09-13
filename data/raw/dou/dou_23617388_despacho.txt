@@ -1,0 +1,31 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 24/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=24/02/2026&jornal=515&pagina=48
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado de Minas Gerais
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 47/2026
+Fase de Autorização de Pesquisa
+Determina cumprimento de exigência - Prazo 60 dias(250)
+830.791/2014-MULTI GRANITOS E MARMORES EXOTICOS LTDA-OF. N°8010/2026/UAGV-MG/ANM
+Aprova o relatório de pesquisa com redução de área(291)
+831.494/2002-MINERACAO SANTA CRUZ INDUSTRIA E COMERCIO LTDA- Área de 1990,64 ha para 988,67 ha-Pegmatito - (Uso: Revestimento) e Xisto - (Uso: Revestimento)-MINAS NOVAS/MG
+Aprova o relatório de Pesquisa(317)
+834.592/2011-MINERACAO KADOSH LTDA-Areia (Uso: Construção Civil) e Cascalho Aurífero (Ouro - Uso: Industrial).-CONSELHEIRO PENA e RESPLENDOR/MG
+Fase de Direito de Requerer a Lavra
+Determina cumprimento de exigência - Prazo 60 dias(2224)
+831.408/2013-MINERADORA TUCUNACA LTDA-OF. N°7166/2026/UAGV-MG/ANM
+Fase de Licenciamento
+Determina cumprimento de exigência- RAL /Prazo 30 dias(1729)
+831.517/2007-CERÂMICA ÁLAMO LTDA EPP-OF. N°7065/2026/UAPC-MG/ANM
+Fase de Requerimento de Pesquisa
+Determina cumprimento de exigência - Prazo 60 dias(131)
+831.973/2025-ANDERSON LUIZ REIS-OF. N°5647/2026/CAREAS-MG/ANM
+CAIRO COSTA DUARTE
+Gerente

@@ -1,0 +1,167 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 2.1-DF_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 2.1-DF_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 2.1
+Definição das redes do Sistema
+Interligado Nacional
+Definição
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Definição das redes do Sistema Interligado
+2.1 Definição 2020.12 01/01/2021
+Nacional
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. RESPONSABILIDADES.......................................................................................................................3
+2.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+2.2. Agentes de transmissão, geração, distribuição, importação/exportação e consumidores..........3
+3. DEFINIÇÃO DAS REDES DO SIN.........................................................................................................3
+3.1. Rede Complementar.....................................................................................................................3
+3.2. Rede de Operação.........................................................................................................................4
+3.3. Rede de Supervisão.......................................................................................................................4
+3.4. Rede de Simulação........................................................................................................................5
+4. PRAZOS............................................................................................................................................5
+5. REFERÊNCIAS...................................................................................................................................6
+6. ANEXOS...........................................................................................................................................6
+ANEXO A...................................................................................................................................................7
+Endereço na internet: http://www.ons.org.br 2 / 7
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Definição das redes do Sistema Interligado
+2.1 Definição 2020.12 01/01/2021
+Nacional
+1. OBJETIVO
+1.1. Estabelecer os critérios para definição das seguintes redes que compõem o Sistema Interligado Nacional
+(SIN), conforme ANEXO A:
+(a) Rede Complementar;
+(b) Rede de Operação;
+(c) Rede de Supervisão; e
+(d) Rede de Simulação.
+2. RESPONSABILIDADES
+2.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Atualizar a composição das redes do SIN, com a participação dos agentes.
+(b) Disponibilizar aos agentes a atualização das informações das instalações, a cada revisão das redes do
+SIN.
+2.2. Agentes de transmissão, geração, distribuição, importação/exportação e consumidores
+(a) Indicar representante para a atualização da composição das redes do SIN.
+(b) Participar da revisão das redes do SIN.
+3. DEFINIÇÃO DAS REDES DO SIN
+3.1. Rede Complementar
+3.1.1. A Rede Complementar se localiza fora dos limites da Rede Básica, definida na regulamentação [1].
+3.1.2. A Rede Complementar é composta por instalações cujos desligamentos afetam a otimização
+energética do SIN e/ou afetam os parâmetros de avaliação do desempenho elétrico das instalações e dos
+equipamentos da Rede Básica que levem a condições operativas fora dos critérios estabelecidos nos
+Procedimentos de Rede.
+3.1.3. A Rede Complementar é composta pelas seguintes instalações e equipamentos:
+(a) instalações de conexão das usinas despachadas centralizadamente;
+(b) barramentos e equipamentos de compensação reativa conectados a eles, localizados no secundário
+e terciário dos transformadores de potência integrantes da Rede Básica; e
+(c) outras instalações ou parte delas, tais como:
+(1) conversores de frequência e suas instalações de conexão à Rede Básica, com tensão igual ou
+superior a 230 kV;
+Endereço na internet: http://www.ons.org.br 3 / 7
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Definição das redes do Sistema Interligado
+2.1 Definição 2020.12 01/01/2021
+Nacional
+(2) barramentos secundários de transformadores de fronteira, com instalações de conexão às usinas
+despachadas centralizadamente;
+(3) transformadores defasadores;
+(4) transformadores sob responsabilidade do agente de distribuição, com tensão primária igual ou
+superior a 230 kV; e
+(5) instalações de transmissão de interesse exclusivo de Centrais de Geração para conexão
+compartilhada (ICG).
+3.1.4. As instalações que não compõem de forma permanente a Rede Complementar podem ser
+identificadas na Rede Complementar em determinados cenários operativos que exigem a coordenação dos
+seus desligamentos e o controle da operação de geração e transmissão, junto ao ONS.
+3.1.4.1. Nestes cenários, essas instalações podem afetar a otimização energética do SIN e/ou ocasionar
+impactos nos carregamentos e nas tensões das instalações e dos equipamentos da Rede Básica, ocasionando
+condições operativas fora dos critérios estabelecidos nos Procedimentos de Rede.
+3.1.5. A relação das instalações pertencentes à Rede Complementar, de forma permanente ou não, é
+apresentada no cadastro de instalações operacionais no Submódulo 5.11 – Cadastro de Informações
+Operacionais.
+3.2. Rede de Operação
+3.2.1. A Rede de Operação é composta pelas seguintes redes e instalações:
+(a) Rede Básica [1];
+(b) instalações de transmissão destinadas às interligações internacionais, conectadas à Rede Básica;
+(c) Rede Complementar; e
+(d) usinas despachadas centralizadamente.
+3.3. Rede de Supervisão
+3.3.1. A Rede de Supervisão é composta pela Rede de Operação e outras instalações, cuja monitoração por
+meio do sistema de supervisão é necessária para que o ONS cumpra as suas responsabilidades de
+coordenação e controle do SIN.
+3.3.2. A Rede de Supervisão do SIN é composta pelas seguintes redes e instalações:
+(a) Rede de Operação;
+(b) instalações e equipamentos que garantem que o sistema supervisionado construa, em condições
+normais de operação, um sistema elétrico observável, viabilizando a modelagem da rede elétrica para
+o ONS processar funções avançadas de tempo real e realizar simulações de desempenho do SIN;
+(c) instalações em que a ausência de supervisão pode levar a resultados incorretos nas simulações em
+tempo real para verificação da segurança do SIN, tais como:
+(1) instalações de transmissão destinadas às interligações internacionais, fora da Rede de Operação;
+(2) ICG, fora da Rede de Operação;
+Endereço na internet: http://www.ons.org.br 4 / 7
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Definição das redes do Sistema Interligado
+2.1 Definição 2020.12 01/01/2021
+Nacional
+(3) Demais Instalações de Transmissão (DIT), fora da Rede de Operação;
+(4) instalações de distribuição, fora da Rede de Operação;
+(5) instalações de conexão, que interligam as usinas despachadas centralizadamente à Rede de
+Operação; e
+(6) instalações que não compõem de forma permanente a Rede Complementar.
+(d) outras instalações consideradas fundamentais para o modelo da rede elétrica conseguir representar
+o funcionamento adequado das ferramentas de apoio à tomada de decisão em tempo real.
+3.3.3. O modelo da rede elétrica, obtido a partir da Rede de Supervisão, deve permitir simulações de
+contingências na Rede de Operação com desvio relativo de carregamento máximo de 10%, quando
+comparados com os resultados da simulação dessas mesmas contingências na Rede de Simulação.
+3.4. Rede de Simulação
+3.4.1. A Rede de Simulação é composta pela Rede de Supervisão e outras instalações que necessitam ser
+representadas nos programas de simulação para garantir que os estudos elétricos desenvolvidos pelo ONS,
+apresentem resultados que reproduzam com precisão adequada os fenômenos que ocorrem no SIN.
+3.4.2. As instalações que não forem consideradas necessárias para os estudos elétricos, segundo avaliação
+do ONS com participação dos agentes, não serão agregadas à Rede de Simulação.
+3.4.3. A Rede de Simulação do SIN é composta pelas seguintes redes e instalações:
+(a) Rede de Supervisão;
+(b) instalações com tensão superior ou igual a 138 kV, por meio das quais sejam fechados anéis entre
+duas ou mais instalações da Rede Básica;
+(c) instalações com tensão inferior a 138 kV, por meio das quais sejam fechados anéis, somente em
+operação normal, entre duas ou mais instalações da Rede Básica; e
+(d) outras instalações, cuja representação seja necessária para reproduzir com precisão os fenômenos
+que ocorrem no SIN.
+4. PRAZOS
+Quadro 1 – Prazo para revisão das redes do SIN
+Atividade Responsável Periodicidade
+A cada 2 anos ou prazo inferior, caso
+Revisão da Rede Complementar,
+identificada alteração significativa na
+1 Rede de Supervisão e Rede de ONS
+configuração do SIN em função da sua
+Simulação
+expansão, conforme avaliação do ONS
+5. REFERÊNCIAS
+Endereço na internet: http://www.ons.org.br 5 / 7
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Definição das redes do Sistema Interligado
+2.1 Definição 2020.12 01/01/2021
+Nacional
+[1] ANEEL, Resolução Normativa nº 67, de 8 de junho de 2004.
+6. ANEXOS
+ANEXO A - Redes do Sistema Interligado Nacional
+Endereço na internet: http://www.ons.org.br 6 / 7
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Definição das redes do Sistema Interligado
+2.1 Definição 2020.12 01/01/2021
+Nacional
+ANEXO A
+REDES DO SISTEMA INTERLIGADO NACIONAL
+Endereço na internet: http://www.ons.org.br 7 / 7

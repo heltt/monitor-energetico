@@ -1,0 +1,1495 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 2.3-MT_2025.11
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 2.3-MT_2025.11.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 2.3
+Premissas, critérios e metodologia para
+estudos elétricos
+Metodologia
+Revisão Motivo da revisão Data de aprovação
+2025.11 Despacho STD nº. 3296/2025 05/11/2025
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+ÍNDICE
+1. OBJETIVO............................................................................................................................3
+2. ESTUDOS DE FLUXO DE POTÊNCIA.......................................................................................3
+3. ESTUDOS DE FLUXO DE POTÊNCIA ÓTIMO...........................................................................3
+4. ESTUDOS DE ESTABILIDADE ELETROMECÂNICA...................................................................4
+5. ESTUDOS DE CONFIABILIDADE............................................................................................6
+5.1. Premissas gerais...............................................................................................................6
+5.2. Diretrizes de modelagem................................................................................................11
+5.3. Diretrizes para tratamento de dados determinísticos e estocásticos............................18
+5.4. Diretrizes para simulação computacional......................................................................19
+5.5. Diretrizes para registro de resultados............................................................................26
+5.6. Critérios para diagnose dos níveis de risco probabilístico..............................................26
+6. ESTUDOS DE QUALIDADE DE ENERGIA..............................................................................28
+6.1. Aspectos gerais...............................................................................................................28
+6.2. Estudos de comportamento harmônico.........................................................................28
+6.3. Estudos de flutuação de tensão .....................................................................................32
+6.4. Estudos de variações de tensão de curta duração (VTCD).............................................33
+7. ESTUDOS DE SEGURANÇA DE TENSÃO...............................................................................33
+8. ESTUDOS DE RESERVA DE POTÊNCIA OPERATIVA..............................................................34
+9. ESTUDOS DE CONTROLE CARGA-FREQUÊNCIA...................................................................34
+10. FERRAMENTAS COMPUTACIONAIS PARA ESTUDOS ELÉTRICOS.........................................35
+11. REFERÊNCIAS....................................................................................................................37
+Endereço na internet: http://www.ons.org.br 2 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+1. OBJETIVO
+1.1. Este submódulo descreve a metodologia a ser seguida na elaboração dos seguintes estudos elétricos:
+(a) fluxo de potência;
+(b) fluxo de potência ótimo;
+(c) estabilidade eletromecânica;
+(d) confiabilidade;
+(e) qualidade de energia elétrica;
+(f) segurança de tensão;
+(g) reserva de potência operativa; e
+(h) controle carga-frequência.
+2. ESTUDOS DE FLUXO DE POTÊNCIA
+2.1 Os estudos de fluxo de potência são efetuados para verificar o comportamento da rede elétrica em
+regime permanente. De forma geral, avalia-se se os níveis de tensão nos barramentos e os carregamentos
+nas linhas, transformadores e demais componentes da rede de transmissão, para uma determinada
+configuração da rede elétrica e uma dada condição de carga e de geração, atendem ao estabelecido no
+documento de critérios deste submódulo.
+2.2 O sistema deve ser analisado para as condições de carga e de geração pertinentes ao objetivo da
+avaliação, entre carga pesada, média, leve e mínima.
+2.2.1 Caso necessário, podem ser analisadas outras condições de carga para horários e/ou dias específicos.
+2.3 O nível de detalhamento da representação do sistema de transmissão deve ser compatível com o escopo
+dos estudos.
+2.4 Os dados necessários aos estudos de fluxo de potência estão disponíveis no banco de dados do ONS ou
+são informados pelos agentes e consolidados pelo ONS.
+2.5 A ferramenta computacional utilizada nesses estudos – Modelo para análise de redes em regime
+permanente – está apresentada no item 10.
+3. ESTUDOS DE FLUXO DE POTÊNCIA ÓTIMO
+3.1 Os estudos de fluxo de potência ótimo (FPO) consideram restrições em suas variáveis e seu cálculo é
+realizado aplicando-se alguma técnica de otimização. Caracterizam-se como um refinamento dos estudos do
+de fluxo de potência descritos no documento de Critérios deste submódulo e aplicam-se aos estudos
+específicos descritos no Submódulo 3.1 – Planejamento da operação elétrica de médio prazo, Submódulo 3.4
+– Planejamento da operação elétrica com horizonte quadrimestral, Submódulo 4.1 – Programação mensal
+da operação elétrica e Submódulo 4.2 – Programação de intervenções em instalações da Rede de Operação.
+Endereço na internet: http://www.ons.org.br 3 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+3.2 O ponto de operação a ser pesquisado por meio dos estudos de FPO deve ter viabilidade operativa, ou
+seja, os controles como nível de tensão e geração de potência ativa e reativa dos geradores, tape dos On load
+tap changer (LTC) e ângulo dos defasadores devem operar dentro dos limites aceitáveis e restrições em
+tensões nodais.
+3.3 Os carregamentos das linhas de transmissão e transformadores devem ser respeitados.
+3.4 Os estudos de FPO podem ser elaborados para uma diversidade de funções objetivo a serem otimizadas,
+como, por exemplo, mínimo corte de carga, mínimo custo de geração de potência ativa, mínima injeção de
+potência reativa, máxima transferência de potência ativa entre áreas e máximo carregamento em um
+conjunto de barras.
+3.5 Os estudos de FPO podem abranger restrições de segurança, na busca de um ponto de operação que
+atenda também ao regime de emergência.
+3.6 Podem ser definidas manobras, tais como entrada e/ou saída de circuitos, geradores, equipamentos
+tipo shunt e de alteração de carga, associadas a determinadas emergências.
+3.7 Os estudos de FPO requerem a definição precisa de áreas de monitoração e de controle, ou seja, a
+definição que melhor traduz a realidade operativa dessas áreas.
+3.7.1 Nas áreas de monitoração, são monitoradas as variáveis elétricas, tais como tensões nodais e
+carregamentos em linhas de transmissão e transformadores.
+3.7.2 Nas áreas de controle, são ajustados de forma ótima os controles que promovem o redespacho de
+potência ativa e reativa, de modo a trazer as variáveis elétricas monitoradas para os limites aceitáveis.
+3.7.3 A depender da definição das áreas de controle e do ponto de operação inicial fornecido aos estudos
+de FPO, os controles devem explorar toda a faixa de operação.
+3.8 O principal subproduto dos estudos de FPO consiste nas análises de sensibilidade baseadas nos
+Multiplicadores de Lagrange.
+3.8.1 Esses multiplicadores, quando associados, por exemplo, à função objetivo mínimo corte de carga,
+devem apontar a necessidade de ampliações ou reforços no sistema elétrico, de modo a minimizar eventuais
+cortes de carga.
+3.9 Os dados de rede para os estudos de FPO devem constar no banco de dados do ONS, obtidos conforme
+o estabelecido no Submódulo 3.12 – Estudos de curto-circuito.
+3.10 Para os estudos de FPO com determinadas funções objetivo, pode ser necessário o fornecimento de
+dados complementares aos contidos no bancos de dados do ONS.
+3.11 A ferramenta computacional utilizada nesses estudos – Modelo de fluxo de potência ótimo – está
+apresentada no item 10.
+4. ESTUDOS DE ESTABILIDADE ELETROMECÂNICA
+4.1 Os estudos de estabilidade eletromecânica dos sistemas elétricos de potência estão relacionados à
+análise do comportamento desses sistemas após distúrbios.
+4.2 O tipo de distúrbio e a natureza dos fenômenos a serem analisados definem o grau de detalhamento e
+as características da modelagem que se deve usar na representação do sistema elétrico.
+Endereço na internet: http://www.ons.org.br 4 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+4.3 Como resultado dos distúrbios, que usualmente são decorrentes de súbitas mudanças estruturais na
+rede elétrica, o sistema sai do ponto de operação estável que se encontrava e tende a se acomodar em outro
+ponto de operação. As unidades geradoras são submetidas a acelerações e desacelerações de tal intensidade
+que certas unidades ou grupos de unidades podem perder sincronismo entre si ou com o sistema.
+4.4 A depender da natureza e da duração do distúrbio, o comportamento eletromecânico das unidades
+geradoras pode ser amortecido ou não amortecido, resultando em um novo ponto de operação estável ou
+no colapso do sistema.
+4.5 Os dados e modelos de máquinas, reguladores de tensão, seus limitadores e compensadores, sinais
+adicionais estabilizantes, reguladores de velocidade, geradores eólicos, compensadores estáticos, Thyristor
+controlled series capacitor (TCSC), sistemas de corrente contínua (CC), modelos de carga, proteções e demais
+equipamentos de controle são os constantes no banco de dados do ONS e complementados por informações
+dos agentes.
+4.6 Os estudos de estabilidade eletromecânica são aplicados aos estudos específicos descritos no
+Submódulo 3.1 - Planejamento da operação elétrica de médio prazo, Submódulo 3.2 – Modernização de
+instalações, Submódulo 3.3 - Planejamento da operação energética de médio prazo, Submódulo 4.1 -
+Planejamento da operação elétrica com horizonte mensal, Submódulo 4.2 - Programação de intervenções
+em instalações da Rede de Operação, Submódulo 3.9 – Validação de dados e de modelos de componentes
+para estudos elétricos, Submódulo 3.10 – Estudos para segurança operacional elétrica, Submódulo 3.11 –
+Análise técnica dos serviços ancilares de suporte de reativos, controle secundário de frequência e
+autorrestabelecimento integral, Submódulo 6.2 – Análise da operação, ocorrências e perturbações e
+acompanhamento das providências, Submódulo 6.3 – Elaboração do relatório de análise de perturbação,
+Submódulo 6.4 – Análise de falha em equipamentos e linhas de transmissão e Submódulo 7.4 – Estudos pré-
+operacionais de integração de instalações da Rede de Operação e relacionam-se aos seguintes assuntos:
+(a) análise de estabilidade entre as áreas, para proposição de ampliações e reforços ou para
+planejamento e programação da operação elétrica;
+(b) avaliação dos limites de transferência de potência entre áreas e subsistemas, com definição
+dos limites de intercâmbio;
+(c) análise dos impactos relativos a energização, desenergização, fechamento de anéis,
+fechamento de paralelos, religamento automático, análise/definição de SEP e, ainda, ajuste
+de proteções e otimização de controladores;
+(d) análise de sobretensões dinâmicas referentes a perturbações que provoquem rejeições de
+grandes blocos de carga para o ajuste de proteções de sobretensão e o dimensionamento de
+compensação reativa; e
+(e) análise de ocorrências de grande porte no SIN, para determinação de suas causas e definição
+das providências necessárias para evitá-las ou para reduzir seus impactos.
+4.7 A ferramenta computacional utilizada nesses estudos – Modelo para análise de estabilidade
+eletromecânica – está apresentada no item 10 deste submódulo.
+Endereço na internet: http://www.ons.org.br 5 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+5. ESTUDOS DE CONFIABILIDADE
+5.1. Premissas gerais
+5.1.1. Caracterização das tipologias das análises
+5.1.1.1 Os estudos de confiabilidade são realizados rotineiramente ou para atender a demandas especiais e
+abrangem um vasto universo de possibilidades, o que exige que sejam caracterizados em função de sua
+natureza para melhor compreensão dos resultados obtidos.
+5.1.1.2 As atividades relacionadas à monitoração da confiabilidade do SIN, sob o ponto de vista preditivo
+probabilístico, são classificadas nas seguintes categorias:
+(a) análise de confiabilidade composta;
+(b) análise de confiabilidade multiárea, conforme Submódulo 3.3 – Planejamento da operação
+energética de médio prazo e Submódulo 2.4 – Critérios para estudos energéticos e
+hidrológicos; e
+(c) análise de confiabilidade da reserva girante, conforme documento de critérios deste
+submódulo.
+5.1.1.3 Os estudos de confiabilidade descritos neste item tratam com minúcias apenas a análise composta e
+fornece subsídios gerais conceituais para as análises dos itens 5.1.1.2(b) e (c).
+5.1.1.4 A ferramenta computacional utilizada nesses estudos – Modelo para análise de confiabilidade
+preditiva de geração e transmissão – está apresentada no item 10.
+5.1.2. Estudos regulares relacionados à confiabilidade composta
+5.1.2.1. Avaliações referenciais
+5.1.2.1.1 Os estudos para avaliações referenciais concernem à aferição dos níveis de confiabilidade preditiva
+probabilística sob contingências simples para o sistema de transmissão representativo da Rede Básica,
+incluindo linhas de transmissão, transformadores de malha e transformadores de fronteira.
+5.1.2.1.2 Todos esses componentes estão sujeitos às incertezas usuais inerentes aos sistemas de transmissão
+para os regimes de carga pesada, previstos para um conjunto sequencial de topologias estabelecidas no Plano
+da Operação Elétrica de Médio Prazo do SIN (PAR/PEL);
+5.1.2.1.3 Esses estudos são denominados avaliações referenciais, casos de referência ou estudos de
+referência.
+5.1.2.1.4 O objetivo é a análise da evolução temporal dos riscos estáticos globais da Rede Básica e os
+resultados obtidos caracterizam os riscos de referência ou avaliações referenciais.
+5.1.2.2. Avaliações regionais por tensão
+5.1.2.2.1 Os estudos para avaliações regionais por tensão referem-se à aferição, em separado, dos níveis de
+confiabilidade preditiva probabilística sob contingências simples para os subsistemas de transmissão das
+regiões Norte, Nordeste, Sudeste, Centro-Oeste e Sul, representativos das tensões nominais de operação de
+Endereço na internet: http://www.ons.org.br 6 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+230, 345, 440, 500, 525 e 765 kV, incluindo linhas de transmissão, transformadores de malha e de fronteira
+desses subsistemas;
+5.1.2.2.2 Todos esses componentes estão sujeitos às incertezas usuais inerentes aos sistemas de transmissão
+para os regimes de carga pesada, previstos para um conjunto sequencial no tempo de topologias
+estabelecidas no PAR;
+5.1.2.2.3 Esses estudos são denominados avaliações regionais e são discriminadas por níveis de tensão;
+5.1.2.2.4 O objetivo é a análise da evolução temporal dos riscos estáticos regionais, por subsistemas da Rede
+Básica e por nível de tensão.
+5.1.2.3. Avaliações por classes de elementos
+5.1.2.3.1 Os estudos para avaliações por classe de elementos são análogos às avaliações referenciais.
+5.1.2.3.2 A discriminação e o processamento são realizados separando conjuntos de elementos sob as
+seguintes circunstâncias:
+(a) somente sob contingências simples em linhas de transmissão;
+(b) somente sob contingências simples em transformadores de malha; e
+(c) somente sob contingências simples em transformadores de fronteira.
+5.1.2.3.3 O objetivo é a identificação das parcelas de responsabilidades das diferentes classes de elementos
+no montante de risco estático global.
+5.1.3. Estudos especiais
+5.1.3.1 A qualquer tempo, por motivos de conveniência, os estudos especiais podem ter um caráter regular.
+Cada estudo identificado como especial tem suas especificidades que, quando executados, devem ser
+citadas.
+5.1.3.2 Os estudos classificados como especiais são os seguintes:
+(a) estudos idênticos às avaliações referenciais para carga pesada, descrito no item 5.1.2.1,
+porém enfocando patamares distintos da carga pesada (carga média, leve ou mínima).
+(1) O tratamento agregado dos patamares de carga via ponderação probabilística também é
+considerado um estudo especial.
+(b) estudos para avaliações referenciais por estado da federação:
+(1) Concernem ao cálculo dos níveis de confiabilidade preditiva probabilística, sob
+contingências simples, selecionadas para os subsistemas de transmissão da Rede Básica
+representativos das malhas estaduais, incluindo linhas de transmissão, transformadores
+de malha e transformadores de fronteira.
+(2) Todos esses componentes estão sujeitos às incertezas usuais inerentes aos sistemas de
+transmissão para os regimes de carga pesada, previstos para conjuntos selecionados de
+topologias estabelecidas no PAR.
+Endereço na internet: http://www.ons.org.br 7 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+(3) A lista de contingências abrange todos os ramos que tenham pelo menos um terminal em
+cada estado tratado, ou seja, as contingências de todos os elementos interestaduais e
+intraestaduais são simuladas.
+(4) O objetivo é a análise dos riscos estáticos regionais relacionados com a parcela da Rede
+Básica sobreposta a cada estado da federação.
+(c) estudo de confiabilidade composta operacional para avaliar os riscos operacionais do SIN em
+diversos perfis de intercâmbios nas interligações elétricas.
+(d) estudo de identificação das influências de subsistemas para avaliar, em relação aos casos de
+referência, a responsabilidade de subsistemas especiais sobre a confiabilidade do sistema
+global.
+(1) Entre os subsistemas de interesse, situam-se os subsistemas radiais, em derivação ("tapes"
+ou "pingos") e de uso exclusivo.
+(e) estudos de sensibilidade que refletem a influência de pequenas variações da carga nos níveis
+de risco do sistema.
+(f) estudo de identificação da influência de instalações fora da Rede Básica sobre Rede Básica
+para avaliar a responsabilidade de contingências em instalações fora da Rede Básica sobre a
+confiabilidade de um espaço probabilístico aumentado, no qual se considera a Rede Básica
+com incertezas, porém sem contingências.
+(1) Essa análise demanda avaliação inicial de um novo caso de referência representativo de
+um espaço probabilístico aumentado, no qual as incertezas da Rede Básica e das
+instalações fora da Rede Básica são contabilizadas.
+(g) estudo de confiabilidade estrita do parque gerador para avaliar a confiabilidade,
+considerando apenas as incertezas do parque gerador.
+(1) Esse estudo modela as restrições de transmissão e intercâmbios.
+(2) Essa é uma forma de análise de confiabilidade composta, na qual a modelagem das fontes
+primárias de energia é realizada indiretamente pela especificação das capacidades de
+geração máxima de cada uma das máquinas do sistema.
+(3) Esse tipo de análise deve apresentar interfaces com a análise de confiabilidade multiárea,
+conforme Submódulo 3.3 e Submódulo 2.4.
+(h) estudo de confiabilidade composta tradicional para avaliar a confiabilidade composta
+clássica, envolvendo o tratamento conjunto de incertezas e contingências no parque gerador
+e na malha de transmissão.
+(i) estudo da influência das margens de reserva para avaliar os riscos, considerando vários tipos
+de modelagem das reservas estáticas e girantes do sistema de potência, como por exemplo,
+Endereço na internet: http://www.ons.org.br 8 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+capacidade de carregamento em regime normal versus emergência, influência da reserva de
+transformação etc.
+(1) Um desses tipos de análise deve apresentar interfaces com a análise de confiabilidade da
+reserva girante, conforme descrito no documento de critérios deste submódulo.
+5.1.3.3 Diversos outros tipos de estudos especiais podem ser realizados e podem adquirir o status de estudos
+regulares.
+5.1.4. Abrangências espaciais
+5.1.4.1 As abrangências espaciais englobam duas categorias, quais sejam, tratamento global do SIN e
+tratamentos regionais.
+5.1.4.2 O tratamento global do SIN inclui:
+(a) todo o sistema de geração-transmissão relacionado à Rede Básica, associada às tensões
+nominais de operação de 765, 525, 500, 440, 345 e 230 kV; e
+(b) algumas partes e elementos do sistema que operam em níveis de tensão não integrantes
+daqueles anteriormente citados, tais como alguns segmentos do subsistema de Itaipu.
+(1) As avaliações referenciais, citadas no item 5.1.2.1, enquadram-se nessa categoria.
+5.1.4.3 Os tratamentos regionais enfocam parcelas do sistema elétrico, tais como estados da Federação,
+áreas elétricas predefinidas e subestações.
+5.1.5. Abrangências temporais
+5.1.5.1 Para um período predefinido, a perspectiva temporal da análise de confiabilidade via adequação, ou
+seja, focada unicamente no regime permanente, é apreendida através de variações topológicas, variações
+na carga e variações nas fontes primárias de energia ocorridas no período de interesse, de forma separada
+ou conjunta.
+5.1.5.2 Os fenômenos de solicitação ambiental atuantes sobre um dado sistema podem ser considerados,
+como por exemplo, a evolução de tormentas ou ventanias.
+5.1.5.3 As variações temporais topológicas representam as alterações no sistema ao longo do tempo,
+decorrentes de ampliações, reforços ou expansões, ou de mudanças de estratégias operativas, como por
+exemplo, manutenções, reconfigurações, etc.
+5.1.5.4 As variações temporais da curva de carga tratada na análise de adequação podem ser relacionadas a
+horizontes de tempo distintos, tais como a curva de carga diária, a curva mensal, a curva anual, etc.
+5.1.5.4.1 A representação de um único patamar de carga, constante durante todo o horizonte temporal da
+análise, constitui uma situação limite aproximada, usualmente de caráter pessimista.
+5.1.5.4.2 Na análise de confiabilidade de curtíssimo prazo, voltada para as aplicações da operação, o
+horizonte temporal de interesse pode situar-se nas 24 horas de cada dia.
+5.1.5.4.3 Na análise de confiabilidade voltada para os aspectos energéticos, um horizonte temporal usual é
+o ano, com discriminação mensal.
+Endereço na internet: http://www.ons.org.br 9 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+5.1.5.5 As variações temporais relacionadas às fontes primárias de energia refletem, ao longo do tempo, as
+diferentes hidrologias do sistema, a sazonalidade do regime eólico, a variabilidade de preços dos
+combustíveis fósseis, entre outras variações. Tais variações são relevantes na análise de confiabilidade em
+função dos impactos nas políticas de despacho de geração e na política de manutenção.
+5.1.5.5.1 Nos casos dos estudos multiárea, a abrangência temporal de interesse situa-se geralmente nas 52
+semanas do ano ou no cenário mensal.
+5.1.5.6 As avaliações referenciais, citadas no item 5.1.2.1, adotam a evolução temporal topológica do SIN
+ano a ano, descrita nos casos elaborados no PAR/PEL para o regime de carga pesada e para o cenário de
+despacho utilizado na obtenção de cada um dos casos de referência do PAR.
+5.1.5.6.1 A caracterização de um dado cenário de despacho é feita pela descrição dos fluxos nas interligações
+previamente definidas. O aperfeiçoamento futuro desse tipo de análise deve trazer representações mais
+apuradas das curvas de carga anuais, combinadas com múltiplos cenários de despacho.
+5.1.6. Modos de falha
+5.1.6.1 Os modos de falha relevantes para o estabelecido neste submódulo são os seguintes:
+(a) modo de falha de continuidade (ou modo de falha de integridade ou conectividade); e
+(1) Associado à existência ou inexistência de tensão em pontos de medição, à continuidade
+de suprimento, à ocorrência de ilhamentos, à presença de déficits de geração etc.
+(2) Mensurado por indicadores eminentemente topológicos e estacionários.
+(b) modo de falha de adequação (ou modo de falha de qualidade ou conformidade).
+(1) Indica a ocorrência e subsequente tentativa de eliminação de sobrecargas em ramos da
+rede, violações de limites inferiores ou superiores de tensão em barramentos, distorções
+senoidais, violações térmicas, violações de geração de potência reativa nas barras de
+geração, violações de potência ativa nas barras de referência, violações de intercâmbios
+entre áreas, violações de limites de excursão permitida para derivações de
+transformadores etc.
+(2) Mensurado por indicadores que refletem o regime estático do sistema, tanto do ponto de
+vista físico, quanto do ponto de vista da evolução temporal das incertezas.
+5.1.6.2 As avaliações referenciais, citadas no item 5.1.2.1, restringem-se aos modos de falha de continuidade
+e de adequação, em regime permanente.
+5.1.6.3 O modo de falha de segurança foge ao escopo das análises abordadas neste submódulo e está
+relacionado a:
+(a) ocorrências de perdas de sincronismos, baixos níveis de amortecimentos, posicionamento de
+polos no semiplano da direita, violações de faixas de frequência, oscilações subsíncronas etc;
+e
+(b) expectâncias das “folgas”, “distâncias” ou “margens” de um ponto de operação em relação à
+fronteira operacional, a partir da qual ocorre a perda de estabilidade angular, frequencial ou
+de tensão.
+Endereço na internet: http://www.ons.org.br 10 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+5.1.6.4 O modo de falha de segurança é mensurado por indicadores que, embora considerem as incertezas
+de forma estacionária, refletem eminentemente o regime dinâmico do sistema físico.
+5.1.6.5 O modo de falha de segurança é mencionado unicamente para fins de caracterização de inteireza
+conceitual e não é tratado nas avaliações referenciais, porém poderá ser futuramente incorporado.
+5.1.6.6 Os modos de falha tradicionalmente relacionados à qualidade do sistema fogem ao escopo deste
+submódulo.
+5.1.7. Índices de confiabilidade selecionados
+5.1.7.1 A mensuração de referência dos níveis de risco do sistema eletroenergético é realizada por meio dos
+indicadores convenientes para cada tipo de análise.
+5.1.7.2 Para monitoração preditiva da confiabilidade da Rede Básica, a mensuração de referência dos níveis
+de risco do sistema eletroenergético é realizada, pelo menos, por meio do indicador de severidade expresso
+em minutos.
+5.1.7.2.1 O indicador de severidade pode ser avaliado para diversas agregações espaciais e temporais, que
+devem ser necessariamente explicitadas.
+5.1.7.3 Registros adicionais de outros indicadores tradicionais da análise de confiabilidade também podem
+ser apresentados em caráter complementar ou quando a natureza específica da análise indicar essa
+conveniência.
+5.2. Diretrizes de modelagem
+5.2.1. Modelagem das fontes primárias de energia
+5.2.1.1 A modelagem das fontes primárias de energia nos estudos de confiabilidade composta é considerada
+pela atribuição de probabilidades convenientes aos diferentes cenários de despacho possíveis.
+5.2.1.2 Nos estudos de referência, permite-se a livre variabilidade de despacho de certas unidades
+geradoras, nos limites inferiores e superiores de placa permitidos a cada uma delas, para fins de eliminação
+de violações dos casos base de confiabilidade.
+5.2.1.3 O despacho do caso base de confiabilidade é, em princípio, tratado com probabilidade unitária, ou
+seja, o panorama energético que origina esse despacho também tem probabilidade unitária.
+5.2.1.4 As fontes primárias não contribuem para o espaço probabilístico de estados usados nos estudos de
+referência.
+5.2.1.5 O tratamento das incertezas das fontes primárias de energia, representadas por distintos perfis de
+despachos das unidades geradoras e suas respectivas probabilidades de ocorrências, obtidas de séries
+históricas ou sintéticas, poderão futuramente ser incorporados aos estudos de referência.
+5.2.2. Modelagem dos fenômenos de solicitação ambiental
+5.2.2.1 Nos estudos de referência, não são modeladas solicitações ambientais de qualquer natureza e, por
+conseguinte, esses fenômenos não contribuem para a composição do espaço de estados.
+5.2.3. Modelagem do parque gerador
+5.2.3.1 No estudo de referência, as unidades geradoras são representadas deterministicamente e de forma
+individualizada, ou seja, não são consideradas falhas nas unidades geradoras.
+Endereço na internet: http://www.ons.org.br 11 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+5.2.3.2 O tratamento das incertezas das unidades geradoras individualizadas poderá ser futuramente
+incorporado nos estudos de referência.
+5.2.3.3 O parque gerador, embora representado em sua plenitude, não contribui para a formação do espaço
+probabilístico de estados.
+5.2.3.4 Os compensadores estáticos são convertidos em síncronos equivalentes e também tratados de forma
+determinística.
+5.2.4. Modelagem da transmissão
+5.2.4.1 A modelagem estocástica da topologia compreende a representação de nós e ramos:
+(a) a modelagem dos nós visa refletir os riscos oriundos das falhas em subestações; e
+(b) a modelagem dos ramos permite representar o impacto das falhas nos elementos
+longitudinais e transversais da rede.
+5.2.4.2 Na avaliação de referência, são representadas todas as linhas e transformadores incluídos nos casos
+base de fluxo de potência de referência do PAR, porém são atribuídas incertezas apenas aos elementos da
+Rede Básica.
+5.2.4.3 O tratamento das incertezas baseia-se na modelagem clássica de cadeias de Markov com dois
+estados, com todos os condicionantes tradicionais, tais como intensidades de transições constantes, ausência
+de fenômenos de envelhecimento, regeneração, tendências e correlações.
+5.2.4.4 Os elementos da transmissão são classificados em três categorias e discriminadas por níveis de
+tensão: linhas de transmissão (LT), transformadores de malha (TM) e transformadores de fronteira (TF).
+5.2.4.5 A classe dos TF engloba os transformadores com a maior tensão igual ou superior a 230 kV, e a
+segunda menor tensão inferior a 230kV.
+5.2.4.6 A toda malha de 765 kV são atribuídas incertezas, dado o impacto resultante das falhas nesse nível
+de tensão.
+5.2.4.7 A modelagem estocástica dos ramos longitudinais no que concerne às linhas de corrente alternada,
+capacitores série, capacitores série controlados a tiristores ou Thyristor controled series capacitor (TCSC),
+reatores série, elos de corrente contínua e transformadores é, quando necessário, viabilizada por cadeias de
+Markov com múltiplos estados.
+5.2.4.7.1 Essa modelagem viabiliza a representação de contingências simples, duplas ou de ordem superior
+e também de quedas de torres com vários circuitos ou, ainda, de acidentes com circuitos distintos na mesma
+faixa de passagem.
+5.2.4.8 No estudo de referência, as linhas de corrente alternada são tratadas por meio de modelos
+Markovianos, com dois estados representando as situações de sucesso e de falha da linha, relacionados a
+parâmetros numéricos indicadores das taxas de falha, em ocorrências por ano, e de tempos médios de
+reparo, em horas.
+5.2.4.8.1 Nesse contexto, todas as linhas da Rede Básica contribuem para formação do espaço de estados e
+todas as demais linhas são tratadas de forma determinística.
+5.2.4.9 No estudo de referência, os elos de corrente contínua do SIN são representados de forma
+determinística por injeções de potência equivalentes associadas a gerações fictícias.
+Endereço na internet: http://www.ons.org.br 12 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+5.2.4.9.1 Nenhum componente ou fenômeno associado aos elos contribui na composição do espaço de
+estados ou na composição dos recursos de controle do sistema.
+5.2.4.9.2 A carga da Alumar também é modelada como elo de corrente contínua.
+5.2.4.10 A modelagem estocástica de transformadores de dois enrolamentos não apresenta
+particularidades, mas a modelagem de transformadores de três enrolamentos exige, em princípio, um
+tratamento adequado dos dados de desempenho do equipamento já que há necessidade da representação
+de barramento e ramos fictícios.
+5.2.4.10.1 Eventos relacionados a defeitos que ocorram no terciário podem ou não, dependendo dos
+objetivos do estudo, demandar a representação de seus efeitos no espaço de estados.
+5.2.4.11 No estudo de referência, os transformadores de dois enrolamentos de malha e de fronteira
+também são tratados por meio de modelos Markovianos com dois estados representando as situações de
+sucesso e falha do equipamento, relacionadas a parâmetros numéricos indicadores das taxas de falha, em
+ocorrências por ano, e de tempos médios de reparo, em horas.
+5.2.4.11.1 Embora as unidades geradoras sejam individualizadas, os transformadores elevadores, quando
+presentes, não são submetidos ao mesmo tratamento que os demais transformadores.
+5.2.4.11.2 Os transformadores elevadores e os transformadores fora da Rede Básica são tratados
+deterministicamente. No caso dos transformadores elevadores, a atribuição de incertezas ocorre somente
+nas raras situações nas quais tais transformadores são enquadrados como sendo de fronteira.
+5.2.4.11.3 Os transformadores defasadores são convertidos em elementos série fictícios, aos quais são
+atribuídos os parâmetros estocásticos convenientes.
+5.2.4.12 Os transformadores de três enrolamentos de malha e de fronteira também são tratados por meio
+de modelos Markovianos com dois estados, representando as situações de sucesso e falha do equipamento,
+relacionadas a parâmetros numéricos indicadores das taxas de falha, em ocorrências por ano, e de tempos
+médios de reparo, em horas.
+5.2.4.12.1 A incerteza é atribuída somente ao ramo conectado à maior tensão do equipamento.
+5.2.4.12.2 No contexto do estudo de referência, todos os transformadores de malha e de fronteira do SIN
+contribuem na formação do espaço de estados probabilísticos.
+5.2.4.13 A modelagem de interligações é um caso particular da modelagem de ramos longitudinais e admite
+níveis variados de detalhamento, em função dos objetivos da análise, que devem ser descritos em cada
+situação.
+5.2.4.13.1 No caso particular dos estudos multiárea, é usual atribuir incertezas apenas aos elementos, linhas
+e transformadores, que definem as interligações.
+5.2.4.13.2 Nos estudos de referência, as interligações são tratadas com incertezas e o tratamento é o mesmo
+dado às demais linhas e transformadores. Nesses estudos, os intercâmbios não são tratados como variáveis
+de controle.
+5.2.4.14 Para avaliação de referência, devem ser especificados todos os limites de carregamento para
+operação normal de todas as linhas em sistemas de corrente alternada (CA) e transformadores componentes
+da Rede Básica que são monitorados para detecção de violações, no caso base de confiabilidade.
+5.2.4.14.1 Em regime de contingências, a monitoração também é realizada com os limites normais de
+carregamento e a monitoração dos limites de emergência, quando tais limites são informados, enquadra-se
+na categoria de estudo especial.
+Endereço na internet: http://www.ons.org.br 13 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+5.2.4.15 Os demais elementos longitudinais da topologia, tais como, capacitores série, TCSC e reatores série
+fictícios, são tratados de forma determinística. Em particular, o TCSC é convertido num capacitor fictício
+equivalente.
+5.2.4.16 A modelagem estocástica dos ramos transversais, capacitores e reatores, é relevante para os
+estudos de confiabilidade. Porém nos estudos de referência, nenhum desses elementos contribui na
+composição do espaço probabilístico de estados.
+5.2.4.16.1 Caso necessário, a influência das falhas desses elementos no nível de risco do sistema também
+pode ser avaliada indiretamente por manipulações adequadas de vinculações e uma sequência de
+procedimentos especialmente estruturada.
+5.2.4.17 Nos estudos de referência, a topologia nodal (modelagem dos arranjos de subestações) não é
+explicitamente tratada. Entretanto, a influência das falhas das subestações é parcialmente refletida nos
+parâmetros das linhas de transmissão, em virtude da própria metodologia de coleta desses parâmetros.
+5.2.4.18 Para as avaliações de referência, os limites superiores e inferiores permissíveis para as excursões
+dos níveis de tensão dos barramentos devem ser especificados, em regime normal e sob emergência.
+5.2.4.18.1 Os valores em regime normal são monitorados para detecção de violações para fins de ajustes do
+caso base de confiabilidade.
+5.2.4.18.2 Os valores em regime de emergência são monitorados para fim de detecção de violações sob
+regime de contingências.
+5.2.4.19 No estudo de referência, não são consideradas: as falhas de modo comum da transmissão, as falhas
+simultâneas dependentes da transmissão e as vinculações oriundas dos esquemas de controle de
+emergência, proteção e instruções de operação, tais como, transferências de cargas, desligamento de cargas,
+reconfiguração da rede com desligamentos de linhas, de reatores, de capacitores, desligamento ou
+acionamento de geradores, seccionamento de barras etc.
+5.2.5. Modelagem do sistema de distribuição
+5.2.5.1 Nos estudos de referência, a parcela do sistema de distribuição, quando representada, é tratada de
+forma determinística.
+5.2.5.2 Sob demanda especial, as Demais Instalações de Transmissão (DIT) podem ser tratadas de forma
+estocástica.
+5.2.6. Modelagem da carga
+5.2.6.1. Tratamento conceitual
+5.2.6.1.1A carga admite três formas de representação:
+(a) composição de componentes de potência ativa (MW) e reativa (Mvar);
+(b) representação por meio de valor de potência aparente e fator de potência; e
+(c) modelagem por meio de um montante de energia associada (MWh).
+5.2.6.1.2Nos estudos de referência, a carga é tratada pelo par de valores de potência ativa e reativa.
+5.2.6.2. Correlações espaciais
+Endereço na internet: http://www.ons.org.br 14 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+5.2.6.2.1A correlações estatísticas entre cargas são reconhecidas e envolvem conjuntos de
+barramentos, áreas e submercados.
+5.2.6.2.2Nas avaliações de referência, o fenômeno da diversidade não é considerado, ou seja, todas
+as cargas têm comportamentos conformes.
+5.2.6.3. Correlações climáticas, ambientais e temporais
+5.2.6.3.1A previsão do valor da carga é viabilizada por meio do tratamento conveniente de medidas
+barométricas, eólicas, pluviométricas, térmicas, ceráunicas, de umidade, de luminosidade,
+considerando aspectos sazonais de curto, médio e longo prazos, indicados, respectivamente em
+horas e/ou dias, semanas e/ou, meses e anos.
+5.2.6.3.2Nos estudos de referência, as influências ambientais não são modeladas e o horizonte de
+previsão é o ano.
+5.2.6.3.3Sob demanda especial, outros horizontes de previsão podem ser tratados.
+5.2.6.4. Evolução temporal
+5.2.6.4.1A evolução da carga ao longo do tempo é afetada por fatores de natureza socioeconômica,
+como tarifação, jogos, greves, eventos, pagamento de salário, hábitos sociais de dias úteis e fins de
+semana, fraudes, perturbações, blecautes, e também pelo crescimento vegetativo ou retração.
+5.2.6.4.2A previsão da carga pode ser realizada por meio de diversas técnicas, cujas metodologias
+são baseadas em séries temporais, redes neurais, modelos híbrido-heurísticos, processos
+estocásticos etc.
+5.2.6.4.3As perdas de natureza técnica (perdas ôhmicas) podem ser estimadas diretamente a partir
+da análise convencional de fluxos na malha.
+5.2.6.4.4O conhecimento ou previsão do histórico cronológico da evolução da carga é essencial para
+realizar estimativas dos custos de interrupção de energia.
+5.2.6.4.5A curva de evolução temporal da carga também pode ser discretizada em intervalos
+horários, diários, semanais, mensais, anuais etc.
+5.2.6.4.6As discretizações podem ser agregadas em patamares, tais como, regimes de carga pesada,
+média, leve, mínima, ordenados cronologicamente para viabilizar a contagem das frequências e
+durações de residência em cada patamar. Esse tratamento permite a adaptação de modelos
+Markovianos ao comportamento temporal da carga.
+5.2.6.4.7Nas avaliações de referência, não são modelados aspectos particulares de cunho
+socioeconômico e a carga prevista é considerada estacionária, ou seja, de tendência nula, modelada
+por um único patamar global.
+5.2.6.4.8Modelagens mais apuradas, com vários patamares, podem ser futuramente incorporadas.
+Endereço na internet: http://www.ons.org.br 15 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+5.2.6.5. Agregação
+5.2.6.5.1Para fins de análise de desempenho estático ou dinâmico, a carga pode ser agregada com
+pontos de consumo que abrangem vários barramentos em diferentes níveis de tensão, relacionados
+às malhas de subtransmissão e distribuição.
+5.2.6.5.2O valor global da carga pode ser partilhado por estados, empresas e regiões.
+5.2.6.5.3Nos estudos de referência, a agregação da carga é a mesma usada nos estudos
+convencionais de fluxo de potência, usualmente em barramentos de 13.8, 34.5, 69 e 138 kV, e a
+partir dessa informação, pode-se contabilizar os montantes de carga por estado, empresa ou região.
+5.2.6.5.4Em casos raros, outros níveis de tensão mais elevados podem comportar a conexão de
+cargas, geralmente representativas de grandes consumidores, ou de cargas especiais.
+5.2.6.6. Segmentos de consumo
+5.2.6.6.1A classificação tradicional reconhece a presença de consumidores residenciais, comerciais,
+industriais, iluminação pública, agronegócio, tração elétrica etc.
+5.2.6.6.2O tratamento desses segmentos é fundamental quando há necessidade da avaliação das
+estimativas de custos de interrupção intempestiva de fornecimento de energia elétrica.
+5.2.6.6.3Nas avaliações de referência, não é realizada uma discriminação entre os diversos
+segmentos.
+5.2.6.7. Administração de cargas
+5.2.6.7.1Em várias situações, é conveniente tratar a carga como variável de controle induzido, por
+meio da caracterização de parcelas contratualmente interruptíveis, através de incentivo público via
+apelo pela mídia de redução controlada de tensão, de modulação tarifária ou de cortes regulatórios.
+5.2.6.7.2Nos estudos de referência, a administração da carga não é modelada.
+5.2.6.8. Modelagem do fenômeno físico
+5.2.6.8.1As categorias de interesse que auxiliam na caracterização do fenômeno físico são as
+seguintes:
+(a) elementos ativos: fontes, células combustíveis, baterias, cargas negativas, etc.
+(b) elementos passivos.
+5.2.6.8.2Os elementos ativos eventualmente podem injetar potência na rede e os elementos
+passivos representam o consumo propriamente dito.
+5.2.6.8.3A evolução dinâmica do fenômeno físico pode ser tratada via equações diferenciais, como
+por exemplo, quando se trata de motores de indução representados como cargas.
+Endereço na internet: http://www.ons.org.br 16 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+5.2.6.8.4O regime estático admite o tratamento algébrico via ajustes polinomiais, como por
+exemplo, quando há combinações de parcelas de potências, correntes e impedâncias constantes.
+5.2.6.8.5Nas avaliações de referência, o fenômeno físico é modelado na perspectiva estática e caso
+necessário, o uso de cargas modeladas como funcionais da tensão.
+5.2.6.8.6A grande maioria das cargas é modelada como potência constante.
+5.2.6.8.7No sistema Norte/Nordeste, algumas cargas são modeladas funcionalmente e suas
+dependências são representadas com relação às variações de tensão.
+5.2.6.8.8No estudo de referência, todas as cargas modeladas funcionalmente devem ser
+identificadas.
+5.2.6.9. Modelagem de incertezas
+5.2.6.9.1As cargas podem ser tratadas com ou sem consideração das incertezas.
+5.2.6.9.2Nos estudos de referência, a carga é modelada deterministicamente e de modo idêntico
+àquele utilizado nos casos de fluxo de potência do PAR/PEL para todas as configurações que são
+estudadas.
+5.2.6.9.3Os regimes de carga pesada, média e leve, oriundos do PAR, quando processados, são
+realizados de forma independente.
+5.2.6.9.4Todos os três regimes são tratados de forma determinística, ou seja, sem incertezas no
+patamar.
+5.2.6.9.5Em nenhum dos estudos de referência, a carga contribui para formação do espaço
+probabilístico de estados.
+5.2.6.9.6Quando necessário, a composição de indicadores de risco pode ser estimada com base nos
+intervalos horários dos patamares de carga, descrito no Submódulo 4.4 – Consolidação da previsão
+de carga para programação eletroenergética, considerando a importância relativa de todos os
+patamares de forma proporcional.
+5.2.6.9.7Nos estudos especiais, os quais consideram as incertezas nos patamares de carga, é
+recomendado o processamento com valores de incertezas, representadas por variâncias
+estatísticas, no intervalo entre 0,3% até 2,0%.
+5.2.7. Modelagem de práticas operativas
+5.2.7.1. Considerações gerais
+5.2.7.1.1Diversas práticas operativas ou estratégicas são passíveis de interesse para análise de
+confiabilidade e estão listadas a seguir, sob a perspectiva dos estudos de referência.
+Endereço na internet: http://www.ons.org.br 17 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+5.2.7.2. Modelagem da manutenção
+5.2.7.2.1Nos estudos de referência, os efeitos da manutenção preventiva não são considerados.
+5.2.7.2.2Na análise de confiabilidade convencional, tanto o parque gerador quanto a malha de
+transmissão podem ser modelados considerando o efeito da manutenção preventiva; essa prática
+pode ser incorporada futuramente nos estudos de referência.
+5.2.7.3. Modelagem da estratégia de reserva estática
+5.2.7.3.1 A classificação de reserva estática engloba:
+(a) a reserva de transformação: relacionada à disponibilidade de bancos de transformação
+monofásica ou trifásica, em reserva, nas subestações do sistema; e
+(b) a reserva de ampacidade: associada à definição de carregamentos de linhas e
+transformadores para um regime de operação em emergência, contraposto a um regime de
+operação classificado como normal.
+5.2.7.3.2 A operação em regime de emergência, usualmente, é considerada permitida durante
+curtos períodos de tempo;
+5.2.7.3.3 Nos estudos de referência, a reserva de transformação e de ampacidade não são
+modeladas, porém essas modelagens podem ser futuramente incorporadas.
+5.2.7.4. Modelagem da estratégia de reserva girante
+5.2.7.4.1 Nos estudos de referência, os efeitos oriundos da modelagem da estratégia de reserva
+girante não são tratados.
+5.2.7.5. Modelagem de esquemas especiais de proteção e vinculações
+5.2.7.5.1 Nos estudos de referência, os esquemas especiais de proteção e vinculações não são
+modelados.
+5.2.7.6. Modelagem de reconfigurações topológicas
+5.2.7.6.1 A modelagem de reconfigurações topológicas não é realizada nos estudos de referência.
+5.3. Diretrizes para tratamento de dados determinísticos e estocásticos
+5.3.1. Diretrizes para representação das incertezas
+5.3.1.1. Hierarquia de precisão dos dados estocásticos para linhas de transmissão
+5.3.1.1.1 A ordem crescente de precisão dos dados estatísticos associados ao desempenho das
+linhas é a seguinte:
+Endereço na internet: http://www.ons.org.br 18 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+(a) estimação dos parâmetros de desempenho estocástico a partir de um único par de valores
+típicos de indisponibilidade e frequência de falhas;
+(b) estimação dos dados estocásticos a partir da estimação dos comprimentos das linhas,
+realizada com um valor típico de reatância média das linhas;
+(c) estimação dos dados estocásticos a partir da estimação dos comprimentos das linhas,
+realizada com base nos valores de reatâncias e susceptâncias;
+(d) estimação dos dados estocásticos a partir dos comprimentos reais de cada linha de
+transmissão; e
+(e) uso dos valores de taxas de falha e tempos médios de reparo representativos de cada linha
+de transmissão individualizada.
+5.3.1.2. Hierarquia de precisão dos dados estocásticos para transformadores
+5.3.1.2.1 A ordem crescente de precisão dos dados estatísticos associados ao desempenho dos
+transformadores é a seguinte:
+(a) estimação dos parâmetros de desempenho estocástico a partir de um único par de valores
+típicos de indisponibilidade e frequência de falhas;
+(b) discriminação dos parâmetros estatísticos por faixa da tensão mais elevada do equipamento
+e com enfoque na função transformação;
+(c) discriminação dos parâmetros estatísticos por faixa de potência do equipamento e com
+enfoque na função transformação; e
+(d) uso dos parâmetros reais do equipamento individualizado.
+5.3.1.3. Hierarquia de precisão dos dados estocásticos para geradores
+5.3.1.3.1A ordem crescente de precisão dos dados estatísticos associados ao desempenho dos
+geradores é a seguinte:
+(a) estimação dos parâmetros de desempenho estocástico a partir de um único par de valores
+típicos de indisponibilidade e frequência de falhas;
+(b) discriminação dos parâmetros estocásticos por faixa de potência ativa das unidades
+geradoras; e
+(c) uso dos parâmetros reais de cada unidade geradora individualizada.
+5.3.2. Combinação de hierarquias paramétricas
+5.3.2.1 Ressalta-se a possibilidade de uso de uma hierarquia híbrida, na qual são empregados os melhores
+dados disponíveis para cada equipamento em particular, combinando diferentes enfoques.
+Endereço na internet: http://www.ons.org.br 19 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+5.3.2.2 Caso necessário, essa estratégia deve ser explicitada de forma inequívoca nos registros dos
+resultados oriundos dos estudos de confiabilidade.
+5.3.3. Estratégia utilizada nos estudos de referência
+5.3.3.1 Nos estudos de referência, a técnica adotada para linhas é a estimação dos dados estocásticos a
+partir da estimação dos comprimentos das linhas, realizada com base nos valores de reatâncias e
+susceptâncias.
+5.3.3.2 Nos estudos de referência, a técnica adotada para transformadores é a discriminação dos parâmetros
+estatísticos por faixa da tensão mais elevada do equipamento e com enfoque na função transformação.
+5.3.3.3 Nos estudos de referência, as incertezas para os geradores não são consideradas. Entretanto, quando
+o forem, devem ser utilizados os parâmetros estatísticos reais de cada unidade geradora individualizada.
+5.3.3.4 A qualquer tempo, o tratamento de qualquer parâmetro representativo de incertezas pode ser
+aperfeiçoado.
+5.4. Diretrizes para simulação computacional
+5.4.1. Considerações gerais
+5.4.1.1 A simulação computacional compreende duas etapas consecutivas, quais sejam:
+(a) pré-processamento para obtenção do denominado caso base de confiabilidade; e
+(b) cálculo numérico da confiabilidade propriamente dita.
+5.4.2. Pré-processamento para obtenção do caso base de confiabilidade
+5.4.2.1. Considerações gerais
+5.4.2.1.1 O objetivo da etapa de pré-processamento é a criação de um registro num arquivo histórico de
+confiabilidade, que contenha o caso base de confiabilidade.
+5.4.2.1.2 O arquivo apresenta um caso de fluxo de potência convergido e sem violações e que agrega, ainda,
+dados adicionais específicos para o processamento posterior da etapa de confiabilidade.
+5.4.2.1.3 A seguir estão descritas as diretrizes para obtenção do caso base de confiabilidade.
+5.4.2.2. Ajustes de dados determinísticos adicionais
+5.4.2.2.1 Os ajustes de dados determinísticos adicionais compreendem, por exemplo, a introdução
+de informações sobre os limites normais e de emergência de tensão e carregamento, eliminação
+dos eventuais subsistemas isolados resultantes do tratamento dos elos CC, ajustes no parque
+gerador e eventuais relaxamentos preestabelecidos de limites de tensão e de carregamento.
+5.4.2.3. Diretrizes para obtenção do caso base de confiabilidade
+5.4.2.3.1 Conformidade topológica:
+Endereço na internet: http://www.ons.org.br 20 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+(a) a obtenção do caso base de confiabilidade deve ser realizada individualmente para cada
+cenário, isto é, para cada patamar de carga;
+(b) o chaveamento adequado dos equipamentos de controle é uma condição fundamental para
+consistência dos índices a serem obtidos:
+(1) Para os estudos de referência em carga pesada, essa exigência é, em geral, inócua.
+(2) Nos estudos que envolvem os regimes de cargas média e leve, a observação das corretas
+conexões de reatores e capacitores é relevante.
+5.4.2.3.2 Modos de falha:
+(a) para obtenção do caso base de confiabilidade dos estudos de referência, o único modo de
+falha relevante é o modo de falha de adequação, que compreende violações dos limites
+normais permitidos para as tensões, violações dos limites normais permitidos para os
+carregamentos de linhas e transformadores, sendo ambos sob o enfoque da corrente;
+(b) o modo de falha de continuidade não é relevante, porque no caso base não há contingências
+de qualquer espécie.
+5.4.2.3.3 Elenco das medidas operacionais corretivas permitidas:
+(a) para obtenção do caso base de confiabilidade dos estudos de referência, é permitido o
+redespacho de potência ativa e reativa, exceto para usinas térmicas que têm seu despacho
+fixo e idêntico àquele do caso de fluxo de potência;
+(1) Com essa diretriz, o risco de referência está associado a um ponto de operação distinto do
+ponto de operação do caso de fluxo de potência original.
+(b) o redespacho de potência ativa é inibido, a fim de manter inalterado o fluxo nas interligações
+na situação em que se deseja avaliar o risco operacional;
+(c) é permitido a variação das derivações dos transformadores, respeitados seus limites e, em
+última instância, o corte de carga mínimo, calculado via algoritmo ótimo de pontos interiores.
+5.4.2.3.4 Definição dos recursos manobráveis do parque gerador:
+(a) a modelagem das usinas é realizada de forma individualizada por unidade geradora, com um
+despacho compatível com aquele especificado no caso base de fluxo de potência;
+(b) nos estudos de referência, atenção especial deve ser dada aos despachos realizados nas
+usinas nucleares do sistema, os quais devem ser compatíveis com os despachos dos casos
+base de fluxo de potência utilizados;
+(c) todas as usinas térmicas e as pequenas centrais hidroelétricas não despachadas
+centralizadamente têm as suas gerações de potência ativa fixas;
+Endereço na internet: http://www.ons.org.br 21 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+(d) o limite inferior de geração da potência ativa das unidades geradoras é respeitado, ou caso
+não haja dado específico, é considerado como nulo;
+(e) a capacidade superior da geração de cada barra é determinada com base no critério da inércia
+mínima, prioritariamente, para um dado montante de geração ativa, seguido do montante
+de geração reativa;
+(f) as usinas julgadas como não despacháveis por razões operativas devem ser claramente
+explicitadas nas premissas do estudo em questão;
+(g) nas situações nas quais os limites de geração de potência reativa não são especificados nos
+casos de fluxo de potência, devem ser adotados os limites associados aos valores
+correspondentes aos fatores de potência 0,9 (sobre-excitação) e 0,95 (subexcitação).
+5.4.2.3.5 Definição da região de controle ou influência:
+(a) por região de controle ou influência entende-se o conjunto de regiões ou áreas do sistema
+cujos recursos disponíveis são utilizados quando da eliminação de violações operativas;
+(b) os recursos possivelmente disponíveis incluem redespacho de potência ativa, alterações nas
+derivações dos transformadores com comutação sob carga e alterações em tensões de barras
+controladas;
+(c) nenhum desses controles localizados fora da região de controle especificada é utilizado, ou
+seja, os despachos das unidades geradoras, as derivações dos transformadores e as tensões
+em barras controladas são mantidas conforme o caso de fluxo de potência original;
+(d) o corte de carga também é considerado um controle de última instância para eliminação de
+violações e somente é realizado nos barramentos pertencentes à região de controle.
+(1) No estudo de referência, todas as áreas elétricas do sistema são tratadas como região de
+controle.
+5.4.2.3.6 Definição da região de monitoração ou de interesse:
+(a) por região de monitoração ou de interesse entende-se o conjunto de regiões ou áreas do
+sistema cujas grandezas especificadas são monitoradas, incluindo fluxos em circuitos de
+transmissão, tensões em barramentos e geração de potência ativa e reativa:
+(1) Grandezas fora dessa região não são contabilizadas.
+(2) As grandezas podem apresentar violações que não são identificadas e,
+consequentemente, não serão eliminadas.
+(b) os índices de confiabilidade são contabilizados apenas para os cortes de carga em
+barramentos pertencentes à região de monitoração:
+Endereço na internet: http://www.ons.org.br 22 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+(1) É usual que essa região de monitoração seja sempre um subconjunto da região de
+controle.
+(2) Caso a região de monitoração seja menor que a região de controle, podem ocorrer cortes
+de carga em barramentos externos à região de monitoração, que não serão contabilizados
+no cálculo dos índices de confiabilidade.
+(c) no estudo de referência, todas as áreas elétricas do sistema são tratadas como região de
+monitoração.
+5.4.2.3.7 Metodologia de cálculo numérico do ponto de operação do caso base de confiabilidade:
+(a) na avaliação de referência, o sistema sob análise deve ser inicialmente submetido a um
+processamento do algoritmo de Newton Raphson completo, com todos os controles
+tradicionais ativados;
+(b) na hipótese de obtenção de uma solução sem violações, essa será tomada como caso base
+de confiabilidade;
+(c) se houver violação de tensão, de carregamento ou de limites de geração, o procedimento
+adotado deve ser o apresentado a seguir, em ordem decrescente de preferência:
+(1) Ajustes no caso base de fluxo de potência devem ser realizados com o objetivo de eliminar
+manualmente todas as violações.
+(2) Caso a ação anterior não seja factível, as violações devem ser tentativamente eliminadas
+de forma automática, por meio de um processamento de algoritmo de fluxo de potência
+ótimo com função objetivo que visa ao mínimo corte de carga.
+(i) a solução eventualmente obtida será submetida a um critério de validação, como
+descrito a seguir.
+(ii) o resultado, se aceito, será tomado como caso base de confiabilidade.
+(3) em situações extremas, quando a ação anterior se revela incapaz de fornecer uma solução
+adequada, permite-se o relaxamento progressivo das restrições de carregamento e de
+tensão do sistema.
+5.4.2.3.8 Validação da solução obtida via fluxo ótimo de potência:
+(a) para os estudos de referência, na etapa de obtenção do caso base de confiabilidade, a solução
+oriunda do processamento do algoritmo de fluxo ótimo é considerada válida se o montante
+de corte de carga em MW não exceder, em princípio, 0,5% do montante da carga total do
+sistema.
+5.4.2.3.9Fixação dos fluxos nas interligações:
+(a) Nos estudos de referência, a fixação dos valores dos fluxos nas interligações não é modelada.
+Endereço na internet: http://www.ons.org.br 23 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+5.4.2.3.10Grandezas monitoradas:
+(a) em consonância com os modos de falha selecionados, a monitoração é realizada sobre os
+valores dos limites normais dos carregamentos sob enfoque de corrente de linhas e
+transformadores, limites normais de tensão em barramentos de carga com carga, limites de
+geração de potência reativa das unidades geradoras e limites de geração ativa e reativa das
+barras de referência do sistema.
+5.4.2.4 Diretrizes para composição do espaço probabilístico de estados:
+5.4.2.4.1 A composição do espaço probabilístico de estados tem extrema influência nos valores
+numéricos dos índices de confiabilidade.
+5.4.2.4.2 Por isso, não é relevante o simples fornecimento de índices de confiabilidade sem a prévia
+descrição rigorosa da composição do espaço probabilístico de estados sobre o qual os mesmos
+índices são gerados.
+5.4.2.4.3 Nos estudos de referência, o espaço probabilístico de estados é composto pelo conjunto
+de todas as linhas de transmissão integrantes da Rede Básica, as linhas de transmissão em 765kV
+do subsistema de Itaipu, todos os transformadores de malha e todos os transformadores de
+fronteira.
+5.4.2.4.4 Os estudos especiais podem considerar espaços probabilísticos mais abrangentes.
+5.4.3. Diretrizes para cálculo numérico da confiabilidade
+5.4.3.1 A etapa de cálculo numérico da confiabilidade pressupõe a existência de um arquivo com um caso
+base de fluxo de potência, convergido e sem violações e o caso base de confiabilidade, usualmente obtido
+na etapa de pré-processamento, descrita anteriormente.
+5.4.3.2 Conceitualmente, o cálculo da confiabilidade compreende três etapas, cujas diretrizes são
+apresentados a seguir.
+5.4.3.3 Diretrizes de seleção de estados operativos do sistema:
+(a) a seleção de um conjunto de estados operativos do sistema, primeira etapa do cálculo
+numérico da confiabilidade, pode ser realizada por enumeração explícita ou via técnica de
+Monte Carlo;
+(b) nos estudos de referência, essa seleção é feita por enumeração de uma lista de contingências
+de linhas de transmissão, transformadores de malha e transformadores de fronteira,
+exatamente coincidente com o espaço probabilístico de estados, anteriormente definido;
+(c) nas avaliações especiais, quando a seleção dos estados for realizada via técnica de Monte
+Carlo, as seguintes diretrizes devem ser observadas:
+(1) Número especificado de sorteios: 100.000 (um único lote).
+Endereço na internet: http://www.ons.org.br 24 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+(2) Tolerância (coeficiente de variação) associada à Probabilidade de Perda de Carga (PPC) e
+Expectância de Potência Não Suprida (EPNS): 3%.
+(3) Semente: 1513.
+5.4.3.4Diretrizes de análise dos estados operativos selecionados:
+(a) em linhas gerais, após cada seleção do estado, deve ser verificado se o estado selecionado
+constitui um estado de sucesso, caso em que ele não apresenta nenhum modo de falha, ou
+estado de falha;
+(b) quando ocorre algum tipo de modo de falha, tenta-se eliminá-la com as medidas corretivas
+que representam os recursos operacionais do sistema;
+(c) as diretrizes adotadas para a etapa de análise dos estados operativos selecionados são
+mencionados a seguir:
+(1) Conformidade topológica:
+(i) devem ser previamente registradas as diferenças topológicas relacionadas aos
+diferentes patamares de carga: pesada, média e leve;
+(ii) para os estudos de referência, essa exigência é inócua.
+(2) Modos de falha:
+(i) para avaliação de referência da confiabilidade, os modos de falha relevantes são o de
+continuidade, sob enfoque de ocorrência de ilhamentos e déficits de potência, e o de
+adequação, que compreende violações dos limites de emergência permitidos para as
+tensões e violações dos limites normais permitidos para os carregamentos de linhas e
+transformadores, ambos sob o enfoque de corrente;
+(ii) a monitoração dos limites normais de carregamento, em situação de contingência,
+justifica-se por razões de natureza jurídico-legal consoante os Contratos de Prestação
+dos Serviços de Transmissão (CPST).
+(3) Elenco de medidas operacionais corretivas permitidas:
+(i) para avaliação de referência da confiabilidade, permite-se apenas o redespacho de
+potência reativa, ou seja, o redespacho de potência ativa é inibido;
+(ii) as unidades térmicas mantêm seus despachos fixos;
+(iii)são permitidos a variação das derivações dos transformadores, respeitados seus
+limites, as alterações em tensões de barras controladas e, em última instância, o corte
+de carga mínimo, calculado via algoritmo ótimo de pontos interiores.
+(4) Definição dos recursos manobráveis do parque gerador:
+Endereço na internet: http://www.ons.org.br 25 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+(i) a modelagem das usinas é realizada de forma individualizada por unidade geradora,
+com um despacho compatível com aquele especificado no caso base de fluxo de
+potência;
+(ii) nos estudos de referência, atenção especial deve ser dada aos despachos realizados
+nas usinas nucleares do sistema, os quais devem ser compatíveis com os despachos dos
+casos base de fluxo de potência utilizados;
+(iii)todas as usinas térmicas e as pequenas centrais hidroelétricas não despachadas
+centralizadamente têm as suas gerações de potência ativa fixas;
+(iv)o limite inferior de geração de potência ativa das unidades geradoras é respeitado, ou
+caso não haja dado específico, é considerado como nulo;
+(v) a capacidade superior da geração de cada barra é determinada com base no critério da
+inércia mínima, prioritariamente, para um dado montante de geração ativa, seguido do
+montante de geração reativa;
+(vi)as usinas julgadas como não despacháveis por razões operativas devem ser claramente
+explicitadas nas premissas do estudo em questão;
+(vii) nas situações nas quais os limites de geração de potência reativa não são especificados
+nos casos de fluxo de potência, devem ser adotados os limites associados aos valores
+correspondentes aos fatores de potência 0,9 (sobre-excitação) e 0,95 (subexcitação).
+(5) Definição da região de controle ou influência:
+(i) no estudo de referência, todas as áreas elétricas do sistema são tratadas como região
+de controle ou influência.
+(6) Definição da região de monitoração ou de interesse:
+(i) no estudo de referência, todas as áreas elétricas do sistema são tratadas como região
+de monitoração ou interesse.
+(7) Metodologia de cálculo numérico do ponto de operação sob contingências:
+(i) no estudo de referência, o sistema em presença de contingências é avaliado por meio
+do processamento de um algoritmo de fluxo ótimo de potência com função objetivo
+que visa ao mínimo corte de carga, no qual se empregam todos os recursos liberados,
+incluindo, em última instância, o corte de carga;
+(ii) o fluxo nas interligações não é tratado como variável de controle.
+(8) Validação da análise do espaço de estados:
+(i) no estudo de referência, a avaliação do espaço de estados é considerada significativa
+se, em princípio, um máximo de até 3% de todas as contingências da lista predefinida
+Endereço na internet: http://www.ons.org.br 26 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+não forem passíveis de processamento, com sucesso, pelo algoritmo de pontos
+interiores.
+(9) Grandezas monitoradas:
+(i) em consonância com os modos de falha selecionados, a monitoração é realizada sobre
+os valores dos limites normais dos carregamentos sob enfoque de corrente de linhas e
+transformadores, dos limites em emergência de tensão em barramentos de carga com
+carga, dos limites de geração de potência reativa das unidades geradoras e dos limites
+de geração ativa e reativa das barras de referência do sistema;
+(ii) a monitoração do carregamento é realizada sobre o limite normal porque se deseja que
+o sistema planejado apresente uma margem de manobra para a operação; entretanto,
+se desejado, a monitoração do valor de emergência do carregamento pode ser
+realizada sob a égide de estudo especial, conforme item 5.1.3.3.
+5.4.3.5Diretrizes de cálculo numérico dos índices de confiabilidade:
+(a) no cálculo numérico dos índices de confiabilidade, contabilizam-se todos os estados nos quais
+foi necessário o uso de medidas operativas com o objetivo de eliminar os modos de falha
+detectados;
+(b) os valores dos índices de confiabilidade desejados resultam dessa análise cujas diretrizes de
+interesse estão apresentados a seguir:
+(1) Premissas e técnicas de cálculo numérico:
+(i) considera-se que o sistema de potência tem comportamento coerente, sob o ponto de
+vista de confiabilidade, o que permite o cálculo dos índices primários – probabilidade
+de perda de carga (PPC), expectância de potência não suprida (EPNS) e frequência de
+perda de carga (FPC) – por meio de funções-teste convenientes, previamente definidas;
+(ii) os indicadores expectância da energia não suprida (EENS), número de horas de déficit
+de potência (NHD), duração de perda de carga (DPC), severidade (Sev) resultam da
+manipulação adequada dos indicadores primários;
+(iii)o indicador probabilidade de problema no sistema (PPS) resulta de uma contabilização
+direta das incertezas relacionadas aos estados com modos de falha, antes da aplicação
+de medidas corretivas.
+(2) Tolerância de cálculo:
+(i) nos estudos de referência, a tolerância é representada na forma de um valor de
+probabilidade;
+(ii) o valor adotado para o processo de enumeração situa-se em 1,0 E-30 pu.
+Endereço na internet: http://www.ons.org.br 27 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+5.5.Diretrizes para registro de resultados
+5.5.1 Todos os indicadores de confiabilidade são apresentados com pelo menos dois algarismos
+significativos nas casas decimais, submetidos ao processo de arredondamento convencional.
+5.6.Critérios para diagnose dos níveis de risco probabilístico
+5.6.1. Critério de severidade
+5.6.1.1 O balizador de referência para diagnose do risco preditivo probabilístico do Sistema Interligado
+Nacional (SIN) é dado pelo indicador de severidade.
+5.6.1.2 A severidade é um índice normalizado, dado pelo quociente da energia não suprida (MWh) pela
+ponta (MW) do sistema analisado e com o resultado convertido em minutos.
+5.6.1.3 Esse índice exprime um tempo fictício de uma perturbação imaginária que seria necessária para
+acumular uma energia não suprida exatamente equivalente àquela calculada, se toda a carga do sistema
+fosse afetada.
+5.6.1.4 O índice captura não apenas a habitualidade das falhas do sistema, mas também a gravidade e
+consequências das mesmas.
+5.6.1.5 Trata-se de um indicador relativo e que permite a comparação de sistemas de portes e naturezas
+distintas, advindo daí a sua origem e importância.
+5.6.1.6 A severidade é um dos poucos indicadores probabilísticos de curso internacional e que já dispõe de
+uma escala de valoração classificatória, com base logarítmica.
+5.6.1.7 O conceito que o embasa é o da classificação dos eventos de tal forma que cada escala é diferenciada
+da antecedente por uma ordem de grandeza.
+5.6.1.8 Outra vantagem da severidade como indicador de risco, advém da possibilidade de calculá-lo tanto
+para eventos pretéritos, como de forma preditiva.
+5.6.1.9 A Tabela 1 mostra a hierarquia usada na classificação da confiabilidade do sistema via severidade.
+Cabe ressaltar que entre dois sistemas, o mais confiável é o que apresenta menor valor numérico de
+severidade.
+Tabela 1 – Classificação do risco pela severidade
+Severidade S
+Classificação Interpretação Comentário
+(sistema-minuto)
+condição operativa de baixíssimo risco
+Grau 0 S < 1 favorável
+(azul)
+condição operativa de baixo risco
+Grau 1 1  S < 10 satisfatório
+(amarelo)
+condição operativa de risco médio
+Grau 2 10  S < 100 limítrofe
+(alaranjado)
+Endereço na internet: http://www.ons.org.br 28 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+sério impacto para vários
+agentes/consumidores
+Grau 3 100  S < 1000 grave
+(vermelho)
+grande impacto para muitos
+Grau 4 1000  S muito grave
+agentes/consumidores, colapso do sistema
+5.6.1.10 O sistema de transmissão planejado da Rede Básica deve, em ordem de preferência, situar-se nos
+graus 0 ou 1 de severidade, admitindo-se, porém, riscos de graus 2, inferiores a 21 minutos de severidade.
+5.6.1.11 Este critério é definido em caráter probatório, podendo sofrer ajustes e correções advindas do
+acúmulo de experiência, evolução do sistema e considerações de conveniência técnica-econômica.
+5.6.2.Critério de aderência estatística ao critério N-1 de planejamento
+5.6.2.1 O grau de aderência estatística, representativo do atendimento ao critério N-1 é dado pela
+Equação ():
+()
+5.6.2.2 O patamar mínimo de aderência a ser verificado nas análises de confiabilidade do SIN deve ser igual
+ou superior a 80%. A plena aderência ao critério N-1 fica caracterizada quando o patamar de 100 % é
+alcançado.
+5.6.2.3 Este critério é definido em caráter probatório, podendo sofrer ajustes e correções advindas do
+acúmulo de experiência, evolução do sistema e considerações de conveniência técnica-econômica.
+5.6.3.Critério de confiabilidade operacional
+5.6.3.1 Qualquer degradação topológica de ramos da Rede Básica, da condição de topologia completa para
+a condição de topologia N-1, não deve provocar uma variação de severidade maior do que 1,0 % da
+severidade da Rede Básica na condição normal de operação e topologia completa.
+5.6.3.2 Este critério é definido em caráter probatório, podendo sofrer ajustes e correções advindas do
+acúmulo de experiência, evolução do sistema e considerações de conveniência técnica-econômica.
+6. ESTUDOS DE QUALIDADE DE ENERGIA
+6.1.Aspectos gerais
+6.1.1 O Submódulo 2.9 – Requisitos mínimos de qualidade de energia elétrica para acesso ou integração à
+Rede Básica apresenta os requisitos para acesso ou integração à Rede Básica de instalações com elementos
+não lineares, o Submódulo 7.8 – Avaliação do impacto do acesso ou integração à Rede Básica de instalações
+que contenham elementos não lineares ou especiais descreve as responsabilidades e o processo de acesso
+ou integração à Rede Básica de instalações com elementos não-lineares, o Submódulo 6.15 – Gerenciamento
+da qualidade da energia elétrica da Rede Básica descreve as responsabilidades e detalha as atividades
+relacionadas ao processo de gestão da qualidade da Rede Básica e o Submódulo 9.7 – Indicadores de
+qualidade de energia elétrica da Rede Básica descreve os indicadores de qualidade da energia elétrica da
+Rede Básica.
+Endereço na internet: http://www.ons.org.br 29 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+6.1.2 Nos casos de estudos de eólicas e solares fotovoltaicas, o ONS repassa ao agente dados referentes aos
+estudos de QEE, detalhados no documento [3].
+6.2.Estudos de comportamento harmônico
+6.2.1. Aspectos gerais
+6.2.1.1 O estudo de comportamento harmônico tem o objetivo de determinar os valores de distorção
+harmônica individual no Ponto de Acoplamento Comum (PAC), resultante da operação de uma instalação
+que contenha elemento não linear.
+6.2.1.2 As instalações que contém elementos não lineares podem ser do tipo carga (por exemplo, forno a
+arco), geração (por exemplo, centrais de geração eólica, solar fotovoltaica) ou mesmo componentes da rede
+de transmissão (por exemplo, compensadores estáticos, conversores CCAT, entre outros), além de
+consumidores livres e agentes de distribuição.
+6.2.1.3 As análises de desempenho harmônico devem ser realizadas no domínio da frequência.
+6.2.1.4 A rede elétrica deve ser representada a partir de configurações de referência utilizadas nos estudos
+de fluxo de potência do PAR/PEL e da Empresa de Pesquisa Energética – EPE.
+6.2.2. Metodologia para avaliação de desempenho quanto à distorção harmônica de instalação
+que contenha elemento não linear
+6.2.2.1. Modelo
+6.2.2.1.1 O método recomendado para a avaliação de desempenho da instalação quanto à distorção
+harmônica é o método do lugar geométrico (LG), cujo objetivo é maximizar, para cada harmônica de ordens
+h = 2 até 50, o valor da distorção de tensão no PAC.
+6.2.2.1.2 A Figura 1 ilustra o circuito básico do método, em que a rede interna é representada por meio de
+um equivalente Norton visto do PAC, composto por uma fonte de corrente harmônica (I ), uma admitância
+h
+harmônica (Ỳ ), e uma rede externa representada no plano complexo R versus X por um LG que engloba o
+ih
+conjunto de impedâncias harmônicas (Ż ) equivalentes da rede elétrica vista do PAC.
+bh
+PAC
+Rede interna Rede externa
+← →
+↑ X
+I h Ż ih LG
+Ỳ ih Ż bh
+R
+Figura 1 – Circuito básico para estudo de desempenho harmônico.
+Endereço na internet: http://www.ons.org.br 30 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+6.2.2.1.3 O valor da distorção harmônica máxima (V ) no PAC é determinado pela divisão do valor da
+hmax
+corrente do equivalente Norton (I ) pelo módulo mínimo da soma das admitâncias representativas da rede
+h
+interna (Ỳ ) e rede externa (Ỳ ), conforme Equação (1):
+ih bh
+(1)
+6.2.2.2. Representação da rede interna – fonte de corrente harmônica (I )
+h
+6.2.2.2.1 As correntes harmônicas (I ) são determinadas a partir dos valores de correntes harmônicas
+h
+geradas por cada um dos equipamentos não lineares presentes na instalação.
+6.2.2.2.2 Os valores das correntes harmônicas de cada ordem (h) geradas por equipamento do tipo conversor
+devem corresponder aos máximos valores individuais teoricamente possíveis e independentes do ponto de
+operação, considerando tanto sua faixa de potência como seus modos de operação.
+6.2.2.2.3 O cálculo das correntes harmônicas deve considerar as condições fora do ponto de operação
+teórico, como por exemplo:
+(a) diferenças, entre as fases dos transformadores conversores, dos valores de impedâncias e de
+relação de transformação; e
+(b) faixa de operação normal e erros relacionados aos ângulos de disparo e/ou extinção do
+processo de conversão.
+6.2.2.2.4 A avaliação do desempenho harmônico de elementos não lineares do tipo aerogeradores e
+geradores fotovoltaicos, fornos a arco e dispositivos utilizados em instalações industriais baseados em
+eletrônica de potência pode ser feita a partir de valores de correntes harmônicas informados pelos
+fabricantes, baseados em medição, com as seguintes ressalvas:
+(a) para equipamentos do tipo aerogeradores e geradores fotovoltáicos, os valores devem ter
+sido certificados e obtidos por meio de procedimento estabelecido em norma [1];
+(b) nos demais equipamentos, do tipo fornos a arco e dispositivos utilizados em instalações
+industriais baseados em eletrônica de potência, não é necessária certificação; e
+(c) em todos os casos, o ONS poderá solicitar a confirmação dos valores utilizados por meio de
+medição em campo.
+6.2.2.2.5 De cada fonte de corrente harmônica da instalação resulta uma contribuição à corrente do
+equivalente Norton (I ). A combinação dessas contribuições, quando oriundas de fontes independentemente
+h
+controladas, deve ser obtida por meio da formulação proposta em norma [2].
+6.2.2.3. Representação da rede interna – admitância harmônica do equivalente Norton (Ỳ )
+ih
+6.2.2.3.1 Na determinação de Ỳ , devem ser considerados todos os elementos lineares que compõem a
+ih
+instalação, tais como linhas de transmissão, cabos, transformadores, reatores, bancos de capacitores etc.
+6.2.2.3.2 Para os filtros, deve-se maximizar o efeito de dessintonia, de acordo com a variação de suas
+capacitâncias com a temperatura, falha de elementos internos de unidades capacitivas até o nível de
+“alarme”, desajustes por passo de tapes de reatores para ajuste de sintonia, desvio de frequência, tolerâncias
+de fabricação dos componentes do filtro etc.
+Endereço na internet: http://www.ons.org.br 31 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+6.2.2.4. Representação da rede externa – LG (Ż )
+bh
+6.2.2.4.1 Para determinação do LG representativo da rede elétrica, deve-se calcular, primeiramente, as
+impedâncias harmônicas vistas do PAC para cada harmônica, considerando desconectada a instalação sob
+análise.
+6.2.2.4.2 O conjunto de impedâncias que deve compor o LG é determinado considerando diferentes
+configurações da Rede Básica, incluindo, pelo menos, os cenários do PAR/PEL e da EPE para compensadores
+estáticos e Corrente Contínua de Alta Tensão (CCAT), para diferentes patamares de carga, na rede completa
+e sob contingência (critério N-1) de todos os elementos da rede elétrica, conectados aos barramentos
+localizados pelo menos até a terceira vizinhança do PAC.
+6.2.2.4.3 O cálculo da impedância da rede externa deve considerar o máximo valor do componente de tensão
+de sequência negativa.
+6.2.2.4.4 A rede externa para avaliação do desempenho de cargas não lineares do tipo compensadores
+estáticos e conversores CCAT deve ser representada por um setor anular circular, caracterizado por raio
+máximo, raio mínimo, ângulo máximo e ângulo mínimo para cada ordem harmônica (h) e conjuntos de
+ordens harmônicas vizinhas (no mínimo h-1 e h+1).
+6.2.2.4.5 A rede externa para avaliação do desempenho de cargas não lineares do tipo geração eólica, solar
+fotovoltaica e instalações industriais baseados em eletrônica de potência deve ser representada por um setor
+circular ou polígono de n lados para cada ordem harmônica (h) e conjuntos de ordens harmônicas vizinhas
+(no mínimo h-0,5 e h+0,5h com passo de ± 0,1h ou h ± 6 Hz).
+6.2.2.4.6 Bancos de capacitores e filtros de correntes harmônicas presentes na rede externa, até a 3ª
+vizinhança, devem ser representados pelos seus componentes R, L e C, na frequência fundamental, e
+conforme detalhado em [3].
+6.2.2.4.7 Preferencialmente, o cálculo de Ż para cargas não lineares do tipo compensadores estáticos e
+bh
+conversores CCAT não deve incluir o efeito das cargas. Eventuais casos especiais devem atender ao
+estabelecido no instrumento técnico dos documentos de outorga, particularmente no que se refere ao
+seguinte:
+(a) o agente deve submeter à aprovação do ONS um ou mais modelos para representação da
+carga em seus estudos;
+(b) de maneira geral, a carga deve ser representada onde está concentrada, ou seja,
+principalmente na distribuição primária; e
+(c) os modelos dos ramais de distribuição também devem incluir os bancos de capacitores
+utilizados para correção do fator de potência.
+6.2.2.4.8 Para os cálculos da determinação de Ż de outros tipos de cargas não lineares como geração eólica,
+bh
+fotovoltaica, consumidores livres e distribuidoras, há duas alternativas para considerar o efeito das cargas
+representadas nos casos do PAR, conforme descrito a seguir:
+(a) não representar a carga; ou
+(b) representar a carga, de forma razoavelmente segura com um nível de detalhamento do
+sistema elétrico (linhas de transmissão, transformadores, equipamentos de compensação de
+Endereço na internet: http://www.ons.org.br 32 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+reativos) até a 3ª vizinhança do PAC, representando, pelo menos, até a primeira barra de 13,8
+kV, conforme [3].
+6.2.2.5. Apresentação dos resultados do estudo
+6.2.2.5.1 O agente responsável deve apresentar em relatório as seguintes informações:
+(a) dados da rede interna da instalação, incluindo sua topologia e parâmetros elétricos dos
+cabos, transformadores, filtros, banco de capacitores etc;
+(b) valores das impedâncias/admitâncias harmônicas da rede interna (Z /Y ) consideradas na
+ih ih
+simulação;
+(c) valores das correntes harmônicas consideradas para cada fonte de corrente harmônica da
+instalação, medidos ou calculados;
+(d) valores das correntes harmônicas (I ) consideradas na simulação do circuito equivalente
+h
+Norton;
+(e) valores das impedâncias “vistas” do PAC para cada condição de Rede Básica considerada
+(rede completa e condição n-1), indicando ano de estudo e patamar de carga;
+(f) valores dos parâmetros dos lugares geométricos considerados para cada harmônico ou grupo
+de harmônicos considerados no estudo;
+(1) Ressalta-se que, a informação de valores dos parâmetros do lugar geométrico para
+geração eólica, solar fotovoltaica, consumidores livres e distribuidoras é para cada ordem
+harmônica.
+(g) caso tenha sido identificada a necessidade de instalação de mais de um filtro harmônico, os
+resultados de desempenho quando da perda de cada um deles (critério n-1).
+(1) Para aplicações envolvendo compensadores estáticos e conversores CCAT, deve-se
+analisar a suportabilidade (rating) dos filtros remanescentes.
+6.3.Estudos de flutuação de tensão
+6.3.1. Considerações gerais
+6.3.1.1 Os estudos de flutuação de tenção têm o objetivo de:
+(a) determinar os valores de flutuação de tensão representativos do nível de severidade de
+cintilação (flicker) no PAC; e
+(b) determinar as medidas mitigadoras dos efeitos de flutuação de tensão provocados pela
+instalação, quando necessário.
+6.3.2. Metodologia para avaliação do desempenho da instalação quanto a flutuação de tensão
+Endereço na internet: http://www.ons.org.br 33 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+6.3.2.1 Os estudos de flutuação de tensão devem caracterizar as fontes responsáveis pelo efeito de cintilação
+e avaliar os níveis de severidade de cintilação para o menor nível de curto, correspondente ao critério n-1 da
+Rede Básica, considerando o horizonte de estudo disponível no PAR.
+6.3.2.2 Nas avaliações relacionadas a fornos a arco, deve ser utilizada a metodologia de cálculo baseada no
+fator de severidade.
+6.3.2.3 Nas avaliações relacionadas a parques eólicos, deve ser utilizada a metodologia de cálculo
+estabelecida em norma [1].
+6.3.2.4 Caso necessário, devem ser indicadas medidas mitigadoras necessárias para correção de eventuais
+violações dos limites individuais, estabelecidos no Submódulo 2.9 para os indicadores P e P .
+st lt
+6.3.2.5 Esclarecimentos adicionais sobre a aplicação da metodologia podem ser obtidos por meio de
+consulta ao ONS.
+6.3.3. Apresentação dos resultados do estudo
+6.3.3.1 O agente responsável deve apresentar em relatório as seguintes informações:
+(a) valores de potência de curto-circuito “vista” do PAC, indicando o ano correspondente ao
+horizonte do estudo, patamar de carga (leve ou pesada) e condição n-1 considerada;
+(b) valores dos parâmetros associados à instalação (fornos a arco, centrais de geração eólicas
+etc.) que influenciem o cálculo da flutuação de tensão;
+(c) valores de P /P determinados para cada configuração de sistema considerada no estudo; e
+st lt
+(d) caso necessário, as medidas mitigadoras necessárias para compensar eventuais violações dos
+critérios estabelecidos.
+6.4.Estudos de variações de tensão de curta duração (VTCD)
+6.4.1. Considerações gerais
+6.4.1.1 Os estudos de VTCD permitem subsidiar, no que se refere ao atendimento dos padrões de
+desempenho da Rede Básica, os usuários conectados ou que desejem se conectar às instalações de
+transmissão.
+6.4.1.2 Em conjunto com resultados de medições efetuadas em alguns pontos do sistema, é possível estimar
+os afundamentos experimentados pelos demais barramentos, permitindo o acompanhamento dos impactos
+resultantes na rede de transmissão e nos usuários conectados.
+6.4.2. Metodologia para avaliação do desempenho da instalação quanto a VTCD
+6.4.2.1 Os estudos de VTCD devem determinar as variações de tensão nos barramentos do sistema quando
+da ocorrência de curtos-circuitos.
+6.4.2.2 A ferramenta computacional básica para a realização desses estudos são programas para cálculo de
+curto-circuito e das tensões resultantes.
+6.4.2.3 Na determinação de tais variações devem ser agregados atributos estatísticos, de forma a qualificar
+a probabilidade de ocorrência de determinado nível de afundamento de tensão em um barramento.
+Endereço na internet: http://www.ons.org.br 34 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+6.4.2.4 É necessário incorporar na metodologia de cálculo informações estatísticas relacionadas à taxa de
+ocorrência de curto-circuito nas linhas de transmissão e equipamentos do sistema.
+6.4.2.5 Essas informações estatísticas devem ser fornecidas pelos agentes, de acordo com os procedimentos
+estabelecidos no Submódulo 6.12 – Análise estatística de desligamentos forçados e de desempenho dos
+sistemas de proteção.
+7. ESTUDOS DE SEGURANÇA DE TENSÃO
+7.1 De forma geral, as técnicas estáticas são utilizadas na definição das margens de segurança de tensão
+(MST), na seleção de contingências críticas e na identificação de áreas e controles críticos em termos de
+segurança de tensão. As simulações no domínio do tempo servem para confirmar as margens de segurança
+apontadas pela análise estática e estudar a interação entre os controles.
+7.2 A segurança de tensão é tradicionalmente avaliada por meio de métodos determinísticos. Contudo,
+métodos de avaliação probabilísticos podem ser necessários em função do grau de incertezas.
+7.3 Os dados para os estudos de segurança de tensão são os constantes no banco de dados do ONS.
+7.4 As ferramentas computacionais utilizadas nesses estudos – Modelo para análise de redes em regime
+permanente, Modelo de fluxo de potência ótimo e Modelo para análise de estabilidade eletromecânica –
+estão apresentadas no item 10.
+8. ESTUDOS DE RESERVA DE POTÊNCIA OPERATIVA
+8.1. O cálculo da reserva de potência operativa (RPO) é feito por método probabilístico com o objetivo de
+racionalizar o dimensionamento da reserva girante, admitindo-se um risco aceitável de não atendimento à
+carga.
+8.2. Para o cálculo da reserva de potência operativa por método probabilístico, é necessário o conhecimento
+da carga, do risco considerado aceitável de não atendimento à carga e das taxas de falha das unidades
+geradoras do sistema.
+8.3. A reserva de potência operativa é constituída pelos seguintes tipos:
+(a) Reserva primária (R1): destinada à regulação da frequência do sistema interligado pela atuação dos
+reguladores de velocidade das unidades geradoras;
+(b) Reserva secundária (R2): destinada a recuperação da frequência do sistema para os valores nominais
+por atuação do Controle Automático de Geração (CAG), quando ocorrem variações da carga ou de geração
+eólica. Para garantir a correta atuação do CAG, independentemente do sentido das variações de carga, é
+necessário dispor simultaneamente de:
+(1) reserva secundária para elevação de geração (R2e); e
+(2) reserva secundária para redução de geração (R2r).
+(c) Reserva terciária (R3): destinada a complementar a Reserva de Potência Operativa do Sistema para
+Elevação de Geração (R1 + R2e), sendo calculada probabilisticamente, quando esta ultrapassar o
+valor de 5% da carga do sistema.
+(1) É considerada igual a zero se a reserva calculada probabilisticamente for igual ou inferior a 5% da
+carga do sistema.
+Endereço na internet: http://www.ons.org.br 35 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+8.4. Uma vez calculada, a reserva de potência operativa é repartida entre as áreas de controle do SIN,
+conforme o estabelecido no documento de critérios deste submódulo.
+8.5. A ferramenta computacional utilizada nesses estudos – Modelo para cálculo da reserva de potência
+girante probabilística – está apresentada no item 10.
+9. ESTUDOS DE CONTROLE CARGA-FREQUÊNCIA
+9.1. Os estudos de controle carga-frequência devem analisar os impactos naturais de carga e os impactos de
+perturbação no sistema, conforme as seguintes definições:
+(a) impactos naturais de carga: são aqueles aplicados de modo a retratar os aumentos naturais
+de carga, verificados em função da evolução da curva de carga diária do sistema.
+(1) Embora as variações naturais de carga tenham um comportamento em rampa, devem ser
+consideradas conservadoramente como degraus.
+(2) Para isso, aplica-se em cada área de controle estudada um degrau positivo de variação de carga
+correspondente à sua parcela de ponta instantânea dentro da demanda horária integralizada
+(2,5% da responsabilidade própria de geração da área), coincidentemente com um aumento
+imprevisto de carga (1,5% da carga da área).
+(b) impactos de perturbação no sistema: correspondem à perda de unidades geradoras de
+porte.
+9.2. Nas investigações para a definição das melhores estratégias de controle, deve ser analisado o
+desempenho dinâmico do sistema para diferentes estruturas de áreas de controle e combinações de modos
+de controle, a saber:
+(a) todas as áreas operando em Tie-line bias (TLB);
+(b) áreas operando em TLB com uma das áreas operando em frequência constante, Flat-
+frequency (FF); e
+(c) áreas operando em TLB com áreas operando em intercâmbio constante, Flat tie line (FTL).
+9.3. Após definidas as estratégias de controle mais adequadas, devem ser realizadas as análises de
+sensibilidade, com o objetivo de:
+(a) investigar a influência da reserva de potência girante sob controle no desempenho dinâmico;
+(b) investigar as unidades geradoras mais adequadas à participação no CAG sob o aspecto da
+resposta dinâmica e de fatores de natureza locacional; e
+(c) investigar o desempenho do sistema em condições de contingências no CAG, em que seja
+necessário incorporar áreas de controle.
+9.4. A ferramenta computacional utilizada nestes estudos – Modelo para análise de estabilidade
+eletromecânica – está apresentada no item 10.
+10.FERRAMENTAS COMPUTACIONAIS PARA ESTUDOS ELÉTRICOS
+Endereço na internet: http://www.ons.org.br 36 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+10.1. Os sistemas e modelos computacionais – as ferramentas computacionais – listados a seguir dão suporte
+às atividades descritas no Submódulo 2.3 – Premissas, critérios e metodologia para estudos elétricos e estão
+contidas também no site do ONS e, na íntegra, na documentação referente a cada uma delas.
+(a) ANAREDE:
+(1) Denominação de referência: Modelo para análise de redes em regime permanente.
+(2) Propriedade: CEPEL.
+(b) ANATEM:
+(1) Denominação de referência: Modelo para análise de estabilidade eletromecânica.
+(2) Propriedade: CEPEL.
+(c) PACDYN:
+(1) Denominação de referência: Modelo para análise de estabilidade dinâmica.
+(2) Propriedade: CEPEL.
+(d) ATP:
+(1) Denominação de referência: Modelo para análise de transitórios eletromagnéticos.
+(2) Propriedade: uso livre.
+(e) PSCAD:
+(3) Denominação de referência: Modelo para análise de transitórios eletromagnéticos.
+(4) Propriedade: Manitoba Hydro International Ltd.
+(f) FLUPOT:
+(1) Denominação de referência: Modelo para fluxo de potência ótimo.
+(2) Propriedade: CEPEL.
+(g) HARM:
+(1) Denominação de referência: Modelo para análise de tensões e correntes harmônicas.
+(2) Propriedade: CEPEL.
+(h) ANAFAS:
+(1) Denominação de referência: Modelo para análise de curto-circuito.
+(2) Propriedade: CEPEL.
+(i) SINAPE:
+(1) Denominação de referência: Sistema integrado de apoio à análise de perturbações.
+(2) Propriedade: CEPEL.
+Endereço na internet: http://www.ons.org.br 37 / 38
+Procedimentos de Rede - Módulo 2 – Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Premissas, critérios e metodologia para
+2.3 Metodologia 2025.11 01/12/2025
+estudos elétricos
+(j) SIAP:
+(1) Denominação de referência: Sistema de análise e coleta de dados do desempenho da
+proteção.
+(2) Propriedade: ONS.
+(k) SIPER:
+(1) Denominação de referência: Sistema integrado de cadastramento de perturbações.
+(2) Propriedade: ONS.
+(l) NH2:
+(1) Denominação de referência: Modelo para análise de confiabilidade preditiva de geração
+e transmissão.
+(2) Propriedade: CEPEL.
+(m)NH2/RESPROB:
+(1) Denominação de referência: Modelo para cálculo de reserva de potência girante
+probabilística.
+(2) Propriedade: CEPEL
+(n) ORGANON:
+(1) Denominação de referência: Sistema para análise estática, dinâmica e avaliação de
+segurança de sistemas elétricos de potência.
+(2) Propriedade: HPPA Consultoria e Desenvolvimento em Engenharia LTDA.
+11.REFERÊNCIAS
+[1] Internacional Electrotechnical Commission. IEC 61400-21.
+[2] Internacional Electrotechnical Commission. IEC 61000-3-6.
+[3] ONS, “Instruções para realização de estudos e medições de QEE relacionados aos acessos à Rede Básica
+ou nos barramentos de fronteira com a Rede Básica para parques eólicos, solares fotovoltaicos,
+consumidores livres e distribuidoras”. Nota Técnica ONS nº 009/2016-Rev. 02 de março de 2018 ou
+edições mais recentes.
+Endereço na internet: http://www.ons.org.br 38 / 38

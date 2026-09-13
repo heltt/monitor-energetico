@@ -1,0 +1,40 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 20/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=20/02/2026&jornal=515&pagina=99
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado de Santa Catarina
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 41/2026
+Fase de Autorização de Pesquisa
+Intima para defesa caducidade/nulidade do titulo-Prazo 60 dias(266)
+815.182/2025-MARISA NAGEL-OF. N°2204/2026/COROUT-SC/ANM
+Fase de Concessão de Lavra
+Aprova o relatório de Pesquisa de nova substância(1106)
+815.014/1982-MENDES EXTRAÇÃO LTDA EPP-ARGILA
+Determina cumprimento de exigência - Prazo 60 dias(470)
+815.372/2008-AGUAS DIAMANTE LTDA-OF. N°35607/2025/DIVFIS-SC/ANM
+815.146/1988-MINERACAO NILSON LTDA-OF. N°51662/2025/DIVFIS-SC/ANM
+815.374/1985-SOCIEDADE HOTELEIRA ITATIAIA SA-OF. N°8165/2026/DIVFIS-SC/ANM
+Determina o arquivamento do Auto de Infração(462)
+014.935/1936-Carbonífera Belluno Ltda- AI N° 4006/2020/GER-SC/UAC-SC
+Multa aplicada /Prazo para pagamento ou interposição de recurso: 30 dias(460)
+001.492/1936-CARBONIFERA METROPOLITANA S/A- AI Nº 698/2022
+Fase de Licenciamento
+Determina cumprimento de exigência - Prazo 30 dias(718)
+815.182/2003-EXTRAFER EXTRACAO E COMERCIO DE AREIA LTDA-OF. N°40372/2025/DIVFIS-SC/ANM
+815.521/1984-PEDREIRA TREZE TILIAS LTDA-OF. N°43780/2025/DIVFIS-SC/ANM
+815.518/2013-MANOEL LUIZ MARTINS ME-OF. N°5750/2026/DIVFIS-SC/ANM
+Fase de Requerimento de Lavra Garimpeira
+Determina cumprimento de exigência - Prazo 60 dias(344)
+815.320/2025-YURI LUIZ JUNIOR DE FREITAS SANTOS - Ofício N° 8583/2026/COROUT-SC/ANM
+Fase de Requerimento de Registro de Extração
+Determina cumprimento de exigência - Prazo 60 dias(2964)
+815.099/2023-MUNICIPIO DE SAO PEDRO DE ALCANTARA-OF. N°8585/2026/COROUT-SC/ANM
+JOSE AUGUSTO SIMOES NETO
+Gerente

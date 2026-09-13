@@ -1,0 +1,231 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.16-RS_2026.04
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.16-RS_2026.04.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.16
+Manutenção do Sistema de Medição
+para Faturamento
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2026.04 Despacho STD nº 1.238/2026 09/04/2026
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Manutenção do Sistema de Medição para
+6.16 Responsabilidades 2026.04 01/05/2026
+Faturamento
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Avaliação do Termo de ocorrência de não conformidades...........................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Câmara de Comercialização de Energia Elétrica – CCEE................................................................3
+3.3. Agentes conectados, exceto quando o agente conectante é um consumidor livre ou especial...4
+3.4. Agentes conectados, quando o agente conectante é um consumidor livre ou especial..............4
+3.5. Agentes conectantes, exceto consumidor livre ou especial..........................................................4
+3.6. Consumidores livres ou especiais conectantes a uma instalação de transmissão........................5
+4. PRAZOS............................................................................................................................................6
+5. REFERÊNCIAS...................................................................................................................................7
+Endereço na internet: http://www.ons.org.br 2 / 7
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Manutenção do Sistema de Medição para
+6.16 Responsabilidades 2026.04 01/05/2026
+Faturamento
+1. OBJETIVO
+1.1. Estabelecer os produtos, responsabilidades, prazos e etapas do processo de manutenção do Sistema de
+Medição para Faturamento (SMF) nos casos de:
+(a) conexão de qualquer agente às instalações sob responsabilidade de transmissora, que compreende:
+a Rede Básica, as instalações de transmissão de energia elétrica destinadas a interligações
+internacionais conectadas à Rede Básica, as instalações de interesse exclusivo de centrais de geração
+para conexão compartilhada (ICG) e as Demais Instalações de Transmissão (DIT); e
+(b) conexão de usina classificada na modalidade de operação Tipo I ou Tipo II, conforme estabelecido no
+Submódulo 7.2 – Classificação da modalidade de operação das usinas, às instalações sob
+responsabilidade de agente de distribuição.
+2. PRODUTOS
+2.1. Avaliação do Termo de ocorrência de não conformidades
+2.1.1. Consiste na análise, realizada em conjunto com a Câmara de Comercialização de Energia Elétrica –
+CCEE, do Termo de ocorrência de não conformidades enviado pelos agentes, incluindo o encaminhamento
+de providências cabíveis.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Supervisionar a execução do Plano anual de manutenção preventiva do SMF.
+(b) Coordenar os prazos relativos aos processos de manutenção do SMF em caso de divergências.
+(c) Analisar as notificações de manutenção registradas em sistema computacional da CCEE.
+(d) Atualizar o cadastro do agente responsável pelo SMF com as alterações disponibilizadas pela CCEE.
+(e) Analisar, conjuntamente com a CCEE, o Termo de ocorrência de não conformidades para
+encaminhamento das providências cabíveis.
+(f) Enviar à ANEEL o Termo de ocorrência de não conformidades, informando a eventual necessidade de
+inspeção no SMF sob a responsabilidade de um determinado agente.
+3.2. Câmara de Comercialização de Energia Elétrica – CCEE
+(a) Analisar as notificações de manutenção e as solicitações de alteração do cadastro do agente
+responsável pelo SMF, provenientes das manutenções, e informados pelos agentes.
+(b) Disponibilizar para consulta as notificações de manutenção, registradas em sistema computacional da
+CCEE, para os agentes responsáveis pelo SMF e o ONS.
+(c) Armazenar, por um período de 5 (cinco) anos, as notificações de manutenção.
+(d) Informar ao ONS a necessidade de inspeção no SMF sob a responsabilidade de um determinado
+agente.
+Endereço na internet: http://www.ons.org.br 3 / 7
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Manutenção do Sistema de Medição para
+6.16 Responsabilidades 2026.04 01/05/2026
+Faturamento
+(e) Analisar, conjuntamente com o ONS, o Termo de ocorrência de não conformidades para
+encaminhamento das providências cabíveis.
+3.3. Agentes conectados, exceto quando o agente conectante é um consumidor livre ou especial
+(a) Acordar com os agentes responsáveis pelos SMF instalados em instalações sob sua responsabilidade
+ou sob responsabilidade do agente conectante, conforme o caso, os cronogramas do Plano anual de
+manutenção preventiva do SMF.
+(b) Planejar e fazer as solicitações de intervenção ao ONS, para possibilitar a manutenção dos SMF em
+suas instalações.
+(c) Atender aos pedidos de acesso às suas instalações, feitos pelos agentes responsáveis pelos SMF, para
+manutenção dos SMF.
+(d) Elaborar o Termo de ocorrência de não conformidades, quando forem detectadas não conformidades
+na manutenção do SMF, e enviá-lo ao ONS e à CCEE.
+(e) Acompanhar as manutenções dos SMF nas instalações sob sua responsabilidade ou sob
+responsabilidade do agente conectante, conforme o caso.
+3.4. Agentes conectados, quando o agente conectante é um consumidor livre ou especial
+(a) No caso de conexão à Rede Básica ou às instalações de transmissão destinadas a interligações
+internacionais conectadas à Rede Básica, desenvolver as atividades técnicas relativas à manutenção
+do SMF.
+(b) Elaborar, em acordo com o consumidor livre ou especial, os cronogramas relativos ao Plano anual de
+manutenção preventiva dos SMF.
+(c) Informar ao ONS, com justificativas, as eventuais reprogramações das manutenções preventivas
+constantes no Plano anual de manutenção preventiva do SMF.
+(d) Elaborar o Termo de ocorrência de não conformidades, quando forem detectadas não conformidades
+na manutenção do SMF, e enviá-lo ao ONS e à CCEE.
+(e) Cadastrar em sistema computacional da CCEE as notificações de manutenção e as alterações de
+cadastro, submetê-las à aprovação da CCEE e acompanhar sua aprovação.
+(f) Guardar, por um período de 5 (cinco) anos, as leituras dos medidores, as alterações de cadastro
+decorrentes das manutenções e os relatórios dos serviços realizados na manutenção.
+3.5. Agentes conectantes, exceto consumidor livre ou especial
+(a) Desenvolver as atividades de manutenção e de certificação de padrões de trabalho e arcar com os
+ônus relativos a essas atividades.
+(b) Elaborar o Plano anual de manutenção preventiva dos SMF e submetê-lo aos agentes conectados.
+(c) Acordar com os agentes conectados o cronograma do Plano anual de manutenção preventiva do SMF
+e o do acompanhamento de manutenção corretiva desses sistemas.
+(d) Informar ao ONS, com justificativas, as eventuais reprogramações das manutenções preventivas
+constantes no Plano anual de manutenção preventiva do SMF.
+Endereço na internet: http://www.ons.org.br 4 / 7
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Manutenção do Sistema de Medição para
+6.16 Responsabilidades 2026.04 01/05/2026
+Faturamento
+(e) Planejar e fazer as solicitações de intervenção ao ONS, para possibilitar a manutenção dos SMF em
+suas instalações.
+(f) Cumprir as normas e regulamentos do agente conectado quando do serviço nas instalações desse
+agente.
+(g) Cadastrar em sistema computacional da CCEE as notificações de manutenção e as alterações de
+cadastro, submetê-las à aprovação da CCEE e acompanhar sua aprovação.
+(h) Guardar, por um período de 5 (cinco) anos, as leituras dos medidores, as alterações de cadastro
+decorrentes das manutenções e os relatórios dos serviços realizados na manutenção.
+(i) No caso de consumidor livre ou especial com conexão às ICG ou às DIT, a distribuidora deve
+desenvolver as atividades técnicas relativas à manutenção do SMF, incluindo os custos de eventual
+substituição ou adequação.
+3.6. Consumidores livres ou especiais conectantes a uma instalação de transmissão
+(a) Elaborar, em acordo com o agente conectado, os cronogramas relativos ao Plano anual de
+manutenção preventiva dos SMF.
+(b) Acompanhar as manutenções nos SMF.
+(c) No caso de conexão à Rede Básica ou às instalações de transmissão destinadas a interligações
+internacionais conectadas à Rede Básica, arcar com os custos das manutenções e das eventuais
+adequações no SMF.
+(d) No caso de conexão às ICG ou às DIT, ressarcir a distribuidora pelos custos incorridos com a
+manutenção do sistema de comunicação de dados.
+(e) Cumprir as normas e os regulamentos do agente conectado quando das manutenções do SMF nas
+instalações desse agente.
+(f) Estabelecer, com o agente conectado, acordo para definição das normas de segurança a serem
+seguidas para manutenções do SMF nas suas instalações.
+4. PRAZOS
+Endereço na internet: http://www.ons.org.br 5 / 7
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Manutenção do Sistema de Medição para
+6.16 Responsabilidades 2026.04 01/05/2026
+Faturamento
+Quadro 1 - Prazos para a manutenção preventiva do SMF
+Atividade Responsável Prazo
+Elaboração do Plano anual de
+manutenção preventiva do SMF Agente responsável
+1 Até dia 1º de outubro de cada ano
+relativo ao ano subsequente e envio pelo SMF
+aos agentes envolvidos
+Envio ao ONS e aos agentes
+Agente responsável
+2 envolvidos do seu Plano anual de Até dia 1º de dezembro de cada ano
+pelo SMF
+manutenção preventiva do SMF
+Solicitação de acesso às instalações Até 3 dias de antecedência da data
+Agente responsável
+3 do agente conectado ou conectante, acordada no plano para a realização
+pelo SMF
+conforme o caso do serviço
+Solicitação ao ONS das intervenções Até 3 dias de antecedência da data
+4 necessárias para a realização da Agente conectado acordada no plano para a realização
+manutenção corretiva do serviço
+Elaboração e envio ao ONS e à CCEE Até 3 dias úteis após a data de
+do Termo de ocorrência de não realização da manutenção
+5 Agente conectado
+conformidade, assinado pelos agentes preventiva em que a não
+conectado e conectante conformidade foi identificada
+Alteração de dados dos pontos de
+medição, quando houver, e registro Até 3 dias úteis após a data de
+Agente responsável
+6 das notificações de manutenção em realização da manutenção
+pelo SMF
+sistema computacional da CCEE e preventiva
+submissão à CCEE para aprovação
+Aprovação das solicitações de
+alteração de dados de cadastro,
+Até 3 dias úteis após da data de
+aprovação das notificações de
+7 CCEE realização da manutenção
+manutenção e disponibilização das
+preventiva
+notificações ao ONS e ao agente
+responsável pelo SMF
+Quadro 2 - Prazos para a manutenção corretiva do SMF
+Endereço na internet: http://www.ons.org.br 6 / 7
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Manutenção do Sistema de Medição para
+6.16 Responsabilidades 2026.04 01/05/2026
+Faturamento
+Atividade Responsável Prazo
+Solicitação de acesso às instalações Data da identificação da
+Agente responsável
+1 do agente conectado ou conectante, necessidade de manutenção
+pelo SMF
+conforme o caso corretiva
+Solicitação ao ONS das intervenções Data da identificação da
+2 necessárias para a realização da Agente conectado necessidade de manutenção
+manutenção corretiva corretiva
+Agente responsável Até 3 dias úteis após identificada a
+3 Realização da manutenção corretiva
+pelo SMF necessidade de ajustes no SMF
+Elaboração e envio ao ONS e à CCEE Até 1 dia útil após a data de
+do Termo de ocorrência de não realização da manutenção corretiva
+4 Agente conectado
+conformidade, assinado pelos agentes em que a não conformidade foi
+conectado e conectante identificada
+Alteração de dados dos pontos de
+medição, quando houver, e registro
+Agente responsável Até 1 dia útil após a data de
+5 das notificações de manutenção em
+pelo SMF realização da manutenção corretiva
+sistema computacional da CCEE e
+submissão à CCEE para aprovação
+Aprovação das solicitações de
+alteração de dados de cadastro,
+aprovação das notificações de Até 3 dias úteis após a data de
+6 CCEE
+manutenção e disponibilização das realização da manutenção corretiva
+notificações ao ONS e ao agente
+responsável pelo SMF
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 7 / 7

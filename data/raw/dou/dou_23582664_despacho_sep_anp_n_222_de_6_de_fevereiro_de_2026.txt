@@ -1,0 +1,50 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: DESPACHO SEP-ANP Nº 222, DE 6 DE FEVEREIRO DE 2026
+DATA_PUBLICACAO: 09/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=09/02/2026&jornal=515&pagina=63
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional do Petróleo, Gás Natural e Biocombustíveis/Superintendência de Exploração
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+DESPACHO SEP-ANP Nº 222, DE 6 DE FEVEREIRO DE 2026
+O SUPERINTENDENTE DE EXPLORAÇÃO DA AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS - ANP, considerando o uso de suas atribuições legais e regulamentares, em especial a disposta no art. 109, inciso I, do Regimento Interno da ANP, aprovado pela Portaria ANP nº 265, de 10 de setembro de 2020, o atendimento às exigências do Contrato correspondente; nas análises descritas no Parecer Técnico nº 549/2025/SEP-E -ANP (SEI nº 5546105) acerca do cumprimento do Programa Exploratório Mínimo; resolve:
+A) PARA O BLOCO POT-M-948 <> CONTRATO 48610.005781/2018-12 <> PERÍODO EXPLORATÓRIO ÚNICO
+Atestar a realização de 3,681432 Unidades de Trabalho (UTs) ao Programa Exploratório Mínimo (PEM), considerando a atividade de compra de dados do levantamento não exclusivo R0257_3D_PBP1_FW1,
+Atestar o cumprimento de 100% do Programa Exploratório Mínimo (PEM) compromissado de 74 UTs, com a realização de 74,2144 Uts e considerando as atividades listadas na tabela 2,
+Dar inicio ao processo de devolução das garantias financeiras.
+Tabela 1 - Extrato das unidades de trabalho (UT) totalizadas ao contrato até a presente data
+
+
+PEM compromissado (UTs)
+PEM realizado (UTs)
+PEM Cumprido (%)
+PEM Remanescente (UTs)
+74
+74,2144
+100
+0
+Tabela 2 - Dados utilizados para o abatimento/cumprimento do PEM
+
+
+Programa/Atividade
+Tipo de dado
+Tecnologia
+Laudo de aprovação
+0257_3D_PBP1
+Não Exclusivo
+Sísmica 3D
+SEI Nº 2051048
+0257_PBP2_PSTM
+Não Exclusivo
+Sísmica 2D
+SEI Nº 3851670
+R0257_3D_PBP1_FW1
+Não Exclusivo
+Reprocessamento Sísmico 3D
+SEI Nº 5667085
+
+Registra-se que, como para os todos dados utilizados para abatimento do PEM listados na Tabela 2, há laudos de aprovação de conformidade emitidos pela SDT, este despacho poderá ser utilizado como subsídio para que a Coordenação de Garantia Financeira realize os procedimentos cabíveis no que tange à devolução da garantia financeira.
+LUCIANO LOBO

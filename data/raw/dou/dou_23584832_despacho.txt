@@ -1,0 +1,18 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 10/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=10/02/2026&jornal=515&pagina=59
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado da Bahia
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 25/2026
+Fase de Autorização de Pesquisa
+Autoriza a emissão de Guia de Utilização - prazo 3 anos(2754)
+872.588/2023 - NJE MINERACAO LTDA - PINDOBAÇU/BA - Guia n° 39 - Substância(s): QUARTZITO - Volume(s): 16.000 t/ano
+CARLA FERREIRA VIEIRA MARTINS
+Gerente

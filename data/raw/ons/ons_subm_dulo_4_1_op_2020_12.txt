@@ -1,0 +1,245 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 4.1-OP_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 4.1-OP_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 4.1
+Planejamento da operação elétrica com
+horizonte mensal
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica com
+4.1 Operacional 2020.12 01/01/2021
+horizonte mensal
+ÍNDICE
+1. ENVIO E CONSOLIDAÇÃO DOS DADOS PELOS AGENTES....................................................................3
+2. ELABORAÇÃO DO ESCOPO PARA OS ESTUDOS COM HORIZONTE MENSAL.......................................5
+3. MONTAGEM DOS CASOS DE REFERÊNCIA........................................................................................6
+4. SIMULAÇÕES E ANÁLISES DO SISTEMA.............................................................................................6
+5. ELABORAÇÃO DAS DIRETRIZES PARA A OPERAÇÃO ELÉTRICA COM HORIZONTE MENSAL.................7
+6. DISPONIBILIZAÇÃO DOS ESTUDOS E ACOMPANHAMENTO DAS AÇÕES PROPOSTAS........................7
+7. REFERÊNCIAS...................................................................................................................................8
+8. ANEXOS...........................................................................................................................................8
+Endereço na internet: http://www.ons.org.br 2 / 8
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica com
+4.1 Operacional 2020.12 01/01/2021
+horizonte mensal
+1. ENVIO E CONSOLIDAÇÃO DOS DADOS PELOS AGENTES
+1.1. O agente fornece ao ONS e mantém atualizado para cada horizonte de estudo os dados dos
+equipamentos elétricos descritos no Anexo B do Submódulo 3.1 – Planejamento da operação elétrica de
+médio prazo, os dados de carga descritos no Submódulo 3.5 – Consolidação da previsão de carga para
+planejamento da operação eletroenergética e os dados descritos a seguir:
+(a) Agentes de transmissão:
+(1) parâmetros elétricos de equipamentos e instalações de sua propriedade existentes na Rede de
+Simulação, e em caso de já terem sido fornecidos em estudos anteriores, as atualizações desses
+parâmetros;
+(2) cronograma e parâmetros elétricos das novas instalações previstas para o horizonte de estudo;
+(3) diagramas eletro-geográficos do sistema elétrico de sua propriedade;
+(4) equipamentos de compensação reativa e filtragem de harmônicos – reatores, capacitores,
+compensadores estáticos ou síncronos – conectados à Rede de Simulação, com indicação dos que
+são manobráveis e a especificação da potência de cada módulo que compõe a compensação
+informada;
+(5) limites de carregamento e restrições operativas em seus equipamentos representados na Rede de
+Simulação, em condições normais e de emergência em períodos contínuos e em períodos de curta
+e longa duração, com indicação dos fatores limitantes e dos equipamentos restritivos;
+(6) contingências em DIT que podem provocar impactos na Rede de Operação; e
+(b) Agentes de geração detentor de usinas classificadas como Tipo I:
+(1) parâmetros elétricos de equipamentos e instalações de sua propriedade existentes na Rede de
+Simulação, e em caso de já terem sido fornecidos em estudos anteriores, as atualizações desses
+parâmetros;
+(2) cronogramas e parâmetros elétricos das novas instalações previstas para o horizonte do estudo;
+(3) restrições operativas existentes em unidades geradoras, com indicação das causas;
+(4) informações adicionais sobre as características da usina e seu regime de operação;
+(5) cronograma de manutenção de longa duração das unidades geradoras para o horizonte do estudo;
+e
+(6) usinas com despacho mínimo obrigatório por restrições de uso múltiplo da água.
+(c) Agentes de geração detentor de usinas classificadas como Tipo II-A:
+(1) disponibilidade de geração de potência ativa (MW) individualizada por usina;
+(2) limites de absorção e de geração de potência reativa (MVAr) individualizados por usina;
+(3) informações adicionais sobre as características da usina e do seu regime de operação, quando
+solicitado; e
+(4) restrições operativas existentes nas unidades geradoras, com indicação das causas, quando
+solicitado.
+(d) Agentes de geração detentor de usinas classificadas como Tipo II-B:
+Endereço na internet: http://www.ons.org.br 3 / 8
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica com
+4.1 Operacional 2020.12 01/01/2021
+horizonte mensal
+(1) Previsão de despacho de geração de potência ativa (MW) individualizada por usina;
+(2) limites de absorção e de geração de potência reativa individualizados por usina;
+(3) informações adicionais sobre as características da usina e do seu regime de operação quando
+solicitado; e
+(4) restrições operativas existentes nas unidades geradoras, com indicação das causas, quando
+solicitado.
+(e) Agente de geração detentor de usinas classificadas como Tipo II-C, por meio do respectivo
+representante do conjunto de usinas a que elas pertencem:
+(1) parâmetros elétricos de equipamentos e instalações de sua propriedade, que fazem parte de um
+conjunto de usinas representado na Rede de Simulação;
+(2) cronogramas e parâmetros elétricos das novas instalações previstas para o horizonte do estudo;
+(3) restrições operativas existentes em unidades geradoras que fazem parte do grupo de usinas, com
+indicação das causas;
+(4) informações adicionais sobre as características da usina e seu regime de operação;
+(5) cronograma de manutenções com duração igual ou superior à 10 dias, das unidades geradoras ou
+instalação de transmissão de uso exclusivo do Conjunto, que resultem em indisponibilidades
+superiores a 10% (dez por cento) da capacidade instalada total do mesmo, para o período do
+estudo;
+(6) usinas com despacho mínimo obrigatório por restrições resultantes do uso múltiplo da água,
+quando for o caso.
+(7) disponibilidade de geração de potência ativa (MW) individualizada por usina;
+(8) limites de absorção e de geração de potência reativa individualizados por usina; e
+(9) Para Usinas que não tem supervisão, conforme submódulo 2.12 – Requisitos mínimos de
+supervisão e controle para a operação, individualizada, a geração média diária verificada no mês
+anterior, potência ativa (MW) e reativa (Mvar), individualizada por usina.
+(f) Agente de distribuição:
+(1) parâmetros elétricos de equipamentos e instalações de sua propriedade existentes na Rede de
+Simulação, e em caso de terem sidos fornecidos em estudos anteriores, as atualizações desses
+parâmetros;
+(2) cronograma e parâmetros elétricos das novas instalações, previstas para o horizonte do estudo, a
+serem representados na Rede de Simulação;
+(3) diagrama eletro-geográfico do sistema elétrico de sua propriedade;
+(4) equipamentos de compensação reativa e filtragem de harmônicos – reatores, capacitores,
+compensadores estáticos ou síncronos – conectados à Rede de Simulação, com a indicação dos
+que são manobráveis, a especificação da potência de cada módulo que compõe a compensação
+informada;
+(5) faixas operativas e tensões desejadas nos barramentos de conexão com a Rede Básica, em
+condição normal e sob contingência;
+Endereço na internet: http://www.ons.org.br 4 / 8
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica com
+4.1 Operacional 2020.12 01/01/2021
+horizonte mensal
+(6) limites de carregamento e restrições operativas em seus equipamentos representados na Rede de
+Simulação, em condições normais e de emergência em períodos contínuos e em períodos de curta
+duração e longa duração com indicação dos fatores limitantes e dos equipamentos restritivos;
+(7) contingências na sua rede que possam provocar impactos na Rede de Operação.
+(8) medidas realizadas para controle de carregamento de equipamento da rede de distribuição que
+podem provocar restrições na Rede de Operação.
+(9) possibilidade de manobra de equipamentos da distribuição para controle de carregamentos de
+equipamentos da Rede de Operação; e
+(10)cronograma de manutenção de longa duração dos componentes da Rede de Operação e do
+sistema de distribuição que influenciam o desempenho da Rede de Operação, prevista para o
+horizonte do estudo.
+(g) Consumidores livres:
+(1) ajustes dos equipamentos de proteção como relés de subtensão, de sobretensão, de
+subfrequência, de sobrefrequência etc.;
+(2) faixas operativas e tensões desejadas nos barramentos de conexão com a Rede Básica, em
+condição normal e sob contingência; e
+(3) equipamentos de compensação reativa e de filtragem de harmônicos da instalação, com a
+indicação dos que são manobráveis e adicionalmente, as informações do sistema de controle.
+1.2. O ONS realiza a consolidação dos dados e informações enviadas pelos agentes de operação.
+1.2.1. Caso seja identificada alguma inconsistência nos dados fornecidos pelos agentes, o ONS comunica
+imediatamente ao responsável pela informação para eventual retificação do dado.
+2. Elaboração do Escopo para os Estudos com Horizonte Mensal
+2.1. O ONS estabelece o escopo do estudo com base no cenário mais provável e nas alternativas de
+configuração, no comportamento da carga, na previsão de geração, nos cronogramas de equipamentos e
+instalações de transmissão e geração e manutenção de equipamentos previstos, bem como nos critérios a
+serem observados.
+2.1.1. O ONS considera, nas premissas para os estudos, condições atípicas de operação ditadas por condições
+especiais da carga e que sejam necessárias avaliações com antecedência que as enquadre nos horizontes dos
+estudos do Plano da Operação Elétrica (PEL), e nas Diretrizes para a Operação Elétrica com Horizonte
+Quadrimestral, como por exemplo, eventos de grande repercussão, exceto já tenha sido realizado estudo
+específico.
+2.1.2. O ONS é responsável pela elaboração do escopo para os estudos com horizonte mensal e a
+participação dos agentes de operação é facultativa, antes do início de cada estudo.
+2.1.2.1. Os agentes de operação, respeitando os prazos do definidos neste submódulo, podem solicitar a
+inclusão, no escopo, de análises que considerem pertinentes para o horizonte de estudo.
+2.2. O ONS define o escopo dos estudos realizados para elaboração das Diretrizes para Operação Elétrica de
+Horizonte Mensal que abrangem as seguintes análises:
+(a) reavaliação dos limites de transmissão entre regiões do SIN.
+Endereço na internet: http://www.ons.org.br 5 / 8
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica com
+4.1 Operacional 2020.12 01/01/2021
+horizonte mensal
+(b) avaliação do desempenho das áreas geoelétricas do sistema, com enfoque:
+(1) na operação em condições normais e sob contingências;
+(2) na definição de medidas operativas para controle de carregamento e tensão, a fim de garantir a
+operação nos padrões e critérios definidos nos Procedimentos de Rede; e
+(3) na reavaliação das ações a serem adotadas em função do descompasso entre a necessidade do
+SIN e a entrada em operação de reforços.
+(c) detalhamento dos despachos de geração térmica para atendimento da segurança elétrica.
+(d) reavaliação dos SEP existentes.
+(e) análise do desempenho das interligações internacionais.
+(f) análise do desempenho da operação do SIN considerando o atendimento ao despacho mínimo das
+usinas informado pelos agentes de operação.
+3. MONTAGEM DOS CASOS DE REFERÊNCIA
+3.1. O ONS elabora e disponibiliza os casos de referência aos agentes de operação com base no escopo para
+os estudos e a partir dos casos do mês anterior.
+3.1.1. São exceções os casos de referência para o primeiro mês de cada quadrimestre. Nessas situações o
+ONS utiliza os casos de referência do planejamento da operação elétrica de horizonte quadrimestral.
+3.1.2. Caso necessário, por determinação do ONS ou solicitação de agente, o ONS prepara casos de fluxos
+de potência específicos.
+4. SIMULAÇÕES E ANÁLISES DO SISTEMA
+4.1. O ONS realiza o processamento das simulações e análises do sistema a partir dos casos de referência e
+utiliza programas e modelos computacionais de análise de redes, estabilidade eletromecânica , estabilidade
+dinâmica e fluxo de potência ótimo, conforme Submódulo 2.3 – Premissas, critérios e metodologia para
+estudos elétricos.
+4.2. O ONS realiza simulações e análises com objetivo de avaliar o desempenho do sistema, em condições
+normais de operação e sob contingências, e verificar o atendimento aos padrões definidos nos
+Procedimentos de Rede, consolidadas no Submódulo 2.3.
+4.2.1. O ONS simula e analisa as situações de contingências simples, ou seja, a perda de um único elemento
+do sistema elétrico, seja linha de transmissão, transformador, banco de transformador, unidade geradora,
+elo de corrente contínua (CC) ou equipamento de controle de tensão, tal como reator, capacitor,
+compensador síncrono ou compensador estático.
+Endereço na internet: http://www.ons.org.br 6 / 8
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica com
+4.1 Operacional 2020.12 01/01/2021
+horizonte mensal
+5. ELABORAÇÃO DAS DIRETRIZES PARA A OPERAÇÃO ELÉTRICA COM HORIZONTE MENSAL
+5.1. O ONS elabora as Diretrizes para Operação Elétrica com Horizonte Mensal tendo como base o escopo e
+apresenta os resultados das análises realizadas nos estudos elétricos, que devem contemplar:
+(a) os problemas identificados de não atendimento aos padrões definidos nos Procedimentos de Rede
+ao longo do horizonte de estudo, que não estejam cobertos nas Diretrizes para a Operação Elétrica
+com Horizonte Quadrimestral ou nos estudos anteriores de Diretrizes para a Operação Elétrica com
+Horizonte Mensal do quadrimestre vigente, e as diretrizes para contornar os problemas apresentados,
+em condições normais de operação ou sob contingências e com a indicação dos pontos do sistema,
+das áreas geoelétricas e das interligações regionais e internacionais.
+(b) os reflexos da incorporação dos novos empreendimentos no desempenho e na operação do SIN, de
+acordo com o cronograma de equipamentos e instalações de transmissão e geração considerado.
+(c) o detalhamento dessas diretrizes, quando houver necessidade de revisão, para fins de normatização
+de:
+(1) limites de transmissão nas interligações regionais;
+(2) limites de transmissão para áreas geoelétricas;
+(3) controle de tensão e de carregamento;
+(4) geração térmica mínima para atendimento à carga; e
+(5) restrições de geração térmica e hidráulica nas usinas das diversas bacias e de outras fontes de
+geração.
+(d) as recomendações, decorrentes do não-atendimento aos padrões definidos nos Procedimentos de
+Rede, nas quais são indicadas ações a serem realizadas até que entrem em operação reforços. Essas
+recomendações devem conter:
+(1) revisão e/ou concepção de novas medidas operativas para solução dos problemas identificados ao
+longo do estudo ou indicados em estudos anteriores;
+(2) indicação da necessidade de revisão dos SEP;
+(3) indicação, sob o ponto de vista do atendimento elétrico, do melhor período para manutenções de
+longa duração de componentes do sistema de transmissão e de unidades geradoras, com base na
+análise dos cronogramas informados para o horizonte do estudo; e
+(4) identificação da necessidade de revisão de ajustes dos controladores do SIN.
+6. DISPONIBILIZAÇÃO DOS ESTUDOS E ACOMPANHAMENTO DAS AÇÕES PROPOSTAS
+6.1. O ONS emite e disponibiliza as Diretrizes para a Operação Elétrica com Horizonte Mensal aos agentes
+de operação.
+6.2. O ONS realiza em cada estudo uma avaliação do atendimento às ações propostas no estudo anterior,
+com o objetivo de ratificar ou redefinir a sistemática necessária à solução dos problemas identificados.
+Endereço na internet: http://www.ons.org.br 7 / 8
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica com
+4.1 Operacional 2020.12 01/01/2021
+horizonte mensal
+7. REFERÊNCIAS
+7.1. Não há referências neste documento.
+8. ANEXOS
+8.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 8 / 8

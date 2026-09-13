@@ -1,0 +1,32 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 04/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=04/02/2026&jornal=515&pagina=65
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado de Sergipe
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 7/2026
+Fase de Concessão de Lavra
+Determina cumprimento de exigência - Prazo 60 dias(470)
+605.626/1976-PETRÓLEO BRASILEIRO S/A PETROBRAS-OF. N°6151/2026/COROUT-RN/PB/SE/AL/ANM
+Fase de Licenciamento
+Determina cumprimento de exigência - Prazo 30 dias(718)
+878.076/2019-CERAMICA BARROSO LTDA-OF. N°927/2026/COROUT-RN/PB/SE/AL/ANM
+878.023/2013-HIGINO ALMEIDA SANTOS EXTRACAO DE ARGILAS-OF. N°5156/2026/COROUT-RN/PB/SE/AL/ANM
+878.057/2014-MULTI MINERAÇÃO E COMPOSTAGEM LTDA ME-OF. N°5161/2026/COROUT-RN/PB/SE/AL/ANM
+Indefere pedido de prorrogação do Registro de Licença(744)
+878.095/2013-CERAMICA SANTA MONICA LTDA
+878.095/2013-CERAMICA SANTA MONICA LTDA
+Autoriza averbação da Prorrogação do Registro de Licença(742)
+878.023/2013-HIGINO ALMEIDA SANTOS EXTRACAO DE ARGILAS- Registro de Licença N° 31/2014 - Vencimento em 31/12/2028
+878.014/2020-JOSÉ MENEZES DE ALMEIDA- Registro de Licença N° 193/2020 - Vencimento em 09/05/2028
+Fase de Requerimento de Lavra
+Determina cumprimento de exigência - Prazo 60 dias(361)
+878.069/2011-CERAMICA SERRA AZUL LTDA-OF. N°6184/2026/COROUT-RN/PB/SE/AL/ANM
+RAFAEL CRUZ DEZEN
+Gerente

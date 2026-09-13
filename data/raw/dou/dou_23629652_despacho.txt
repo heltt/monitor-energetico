@@ -1,0 +1,24 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 27/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=27/02/2026&jornal=515&pagina=58
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Superintendência de Outorga de Títulos Minerários
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 64/2026
+Fase de Autorização de Pesquisa
+Nega provimento ao recurso interposto(2848)
+886.073/2016 - GEMAS DO NORTE - EXTRACAO, COMERCIO, IMPORTACAO E EXPORTACAO DE PEDRAS PRECIOSAS E SEMIPRECIOSAS LTDA
+Dá provimento ao recurso interposto.(2643)
+810.582/2024-MINERAÇÃO FLORENSE LTDA
+Fase de Requerimento de Pesquisa
+Nega provimento ao recurso interposto(2847)
+810.368/2020 - BRX MINERACAO LTDA
+870.841/2023 - MINERADORA UBAX LTDA
+ANDRE ELIAS MARQUES
+Superintendente

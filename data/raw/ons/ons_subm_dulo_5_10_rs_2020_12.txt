@@ -1,0 +1,142 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 5.10-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 5.10-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 5.10
+Operação teleassistida das instalações
+da Rede de Operação
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação teleassistida das instalações da Rede
+5.10 Responsabilidades 2020.12 01/01/2021
+de Operação
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Parecer da Declaração de Atendimento dos Requisitos para Teleassistência..............................3
+2.2. Relatório de Desempenho das Instalações Teleassistidas.............................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de geração e transmissão................................................................................................3
+3.3. Agentes responsáveis por instalações estratégicas......................................................................4
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIAS...................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação teleassistida das instalações da Rede
+5.10 Responsabilidades 2020.12 01/01/2021
+de Operação
+1. OBJETIVO
+1.1. Estabelecer as responsabilidades do ONS e dos agentes envolvidos, os produtos, os prazos e as etapas
+referente ao processo de operação teleassistida das instalações da Rede de Operação [1].
+2. PRODUTOS
+2.1. Parecer da Declaração de Atendimento dos Requisitos para Teleassistência
+2.1.1. Consiste no parecer do ONS considerando aceita ou não aceita a declaração do agente proprietário de
+instalações estratégicas teleassistidas para atendimento aos requisitos de teleassistência definidos nos
+Procedimentos de Rede.
+2.2. Relatório de Desempenho das Instalações Teleassistidas
+2.2.1. Compreende a análise de desempenho dos indicadores de assistência das instalações teleassistidas da
+Rede de Operação.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Emitir documento de aceite ou recusa à Declaração de Atendimento dos Requisitos para
+Teleassistência encaminhada pelo agente.
+(b) Disponibilizar à ANEEL o Relatório de Desempenho das Instalações Teleassistidas.
+(c) Revogar ou anular, em conjunto com ANEEL, o aceite à Declaração de Atendimento dos Requisitos
+para Teleassistência quando constatar prestação de teleassistência inadequada.
+(d) Suspender, em conjunto com a ANEEL, o direito de uma instalação ser teleassistida quando constatar
+prestação de teleassistência inadequada.
+(e) Monitorar, avaliar e disponibilizar à ANEEL os indicadores de assistência (ASST, TELEASST e
+FPTELEASST) das instalações da Rede de Operação.
+(f) Apurar os tempos, em minutos, de reestabelecimento ou recomposição, realizados por assistência
+local e por teleassistência.
+(g) Realizar análise de desempenho em relação aos tempos apurados de reestabelecimento ou
+recomposição realizados por assistência local e por teleassistência.
+3.2. Agentes de geração e transmissão
+(a) Informar ao centro de operação do ONS com o qual se relacionam a mudança do regime de assistência
+de operação da instalação.
+(b) Informar ao centro de operação do ONS com o qual se relacionam os períodos de assistência local de
+suas instalações.
+(c) Calcular e disponibilizar ao ONS os indicadores de assistência das instalações e realizar ações
+mitigadoras em caso de baixo desempenho.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação teleassistida das instalações da Rede
+5.10 Responsabilidades 2020.12 01/01/2021
+de Operação
+3.3. Agentes responsáveis por instalações estratégicas1
+(a) Encaminhar ao ONS a Declaração de Atendimento dos Requisitos para Teleassistência.
+4. PRAZOS
+Quadro 1 – Prazos para operação teleassistida das instalações da Rede de Operação
+Periodici-
+Atividade Responsável Prazo Observação
+dade
+Informe ao ONS da Até 30 dias de
+mudança do regime Agente de antecedência em
+Sob
+1 de assistência de geração e relação à data -
+demanda
+operação da transmissão prevista para
+instalação mudança
+Agente de Até 6 dias úteis de
+Envio ao ONS da Tipos de instalações
+geração e antecedência em
+Declaração de estratégicas
+transmissão relação à data Sob
+2 Atendimento dos especificadas no
+proprietário prevista para demanda
+Requisitos para documento
+de instalações mudança do regime
+Teleassistência Operacional
+estratégicas de operação
+Emissão do Parecer da
+Declaração de Até 5 dias úteis após
+Sob
+3 Atendimento dos ONS recebimento da -
+demanda
+Requisitos para Declaração
+Teleassistência
+Adequação das
+instalações aos Até 12 meses após Tipos de instalações
+Agente
+requisitos dos alteração da estratégicas
+proprietário Sob
+4 Submódulos 2.12, 2.15 classificação da especificadas no
+de instalações demanda
+e 2.16 ou alteração instalação documento
+estratégicas
+para operação local estratégica Operacional
+ininterrupta
+1 Os tipos de instalações estratégicas estão especificadas no documento Operacional.
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação teleassistida das instalações da Rede
+5.10 Responsabilidades 2020.12 01/01/2021
+de Operação
+Periodici-
+Atividade Responsável Prazo Observação
+dade
+Envio ao ONS dos
+Agente de
+indicadores das
+5 geração e - Mensal -
+instalações
+transmissão
+teleassistidas
+Disponibilização à
+ANEEL do Relatório de
+6 Desempenho das ONS - Anual -
+Instalações
+Teleassistidas
+5. REFERÊNCIAS
+[1] ANEEL, Resolução Normativa nº 864, de 10 de dezembro de 2019.
+Endereço na internet: http://www.ons.org.br 5 / 5

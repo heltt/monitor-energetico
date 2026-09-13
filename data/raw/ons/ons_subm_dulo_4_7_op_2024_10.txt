@@ -1,0 +1,102 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 4.7-OP_2024.10
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 4.7-OP_2024.10.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 4.7
+Inclusão e atualização de condicionantes
+operativos hidráulicos dos
+aproveitamentos hidroelétricos
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2024.10 Resolução da Reunião de Diretoria 22/10/2024
+do ONS nº 0113/2024
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Inclusão e atualização de
+condicionantes operativos hidráulicos 4.7 Operacional 2024.10 30/10/2024
+dos aproveitamentos hidroelétricos
+ÍNDICE
+1. INCLUSÃO OU ATUALIZAÇÃO DE INFORMAÇÕES SOBRE CONDICIONANTES OPERATIVOS
+HIDRÁULICOS DOS APROVEITAMENTOS HIDROELÉTRICOS...............................................................3
+1.1. Obtenção de dados e informações................................................................................................3
+1.2. Implementação das inclusões e das atualizações e disponibilização do inventário de
+condicionantes operativos hidráulicos dos aproveitamentos hidroelétricos................................3
+1.3. Elaboração do parecer técnico sobre a solicitação de inclusão ou de atualização de
+condicionantes operativos hidráulicos e disponibilização das informações.................................4
+2. REFERÊNCIAS...................................................................................................................................4
+3. ANEXOS...........................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Inclusão e atualização de
+condicionantes operativos hidráulicos 4.7 Operacional 2024.10 30/10/2024
+dos aproveitamentos hidroelétricos
+1. INCLUSÃO OU ATUALIZAÇÃO DE INFORMAÇÕES SOBRE CONDICIONANTES OPERATIVOS HIDRÁULICOS
+DOS APROVEITAMENTOS HIDROELÉTRICOS
+1.1. Obtenção de dados e informações
+1.1.1. O Operador Nacional do Sistema Elétrico – ONS informa aos agentes de geração os formatos, os meios
+e os prazos estabelecidos para o envio de solicitações de inclusão ou de atualização de informações sobre
+condicionantes operativos hidráulicos (COPHIs) dos aproveitamentos hidroelétricos.
+1.1.2. Os agentes de geração encaminham ao ONS, nos formatos, meios e prazos estabelecidos, as
+solicitações de inclusão ou de atualização das informações sobre condicionantes operativos hidráulicos,
+acompanhadas de justificativa técnica e documentação pertinente, dos aproveitamentos hidroelétricos em
+operação, ou com entrada em operação considerando o horizonte de planejamento da operação.
+1.1.2.1. Os condicionantes operativos hidráulicos (COPHIs) são quaisquer limitações impostas a variáveis
+hidráulicas de usinas hidroelétricas que são despachadas de forma centralizada pelo ONS e que compõem o
+Sistema Interligado Nacional (SIN). Os COPHIs devem ser declarados conforme tipo e temporalidade
+definidos no Submódulo 5.13 – Rotinas Operacionais.
+1.1.3. O ONS analisa as solicitações dos agentes de geração de inclusão ou de atualização das informações
+sobre condicionantes operativos hidráulicos, com respectiva justificativa técnica e documentação
+apresentada e, se necessário, solicita esclarecimentos e/ou documentações adicionais aos agentes.
+1.1.4. O ONS obtém da Agência Nacional de Energia Elétrica – ANEEL as informações sobre eventuais
+condicionantes operativos hidráulicos atualizadas relativas aos aproveitamentos hidroelétricos em
+planejamento.
+1.1.5. O ONS obtém da ANEEL e da Agência Nacional de Águas e Saneamento Básico – ANA, eventuais
+solicitações de inclusão ou de atualização de informações sobre condicionantes operativos hidráulicos dos
+aproveitamentos hidroelétricos.
+1.1.6. Em função de seu tipo, a inclusão ou a atualização de um condicionante operativo hidráulico poderá
+ser declarado pelos agentes de geração e/ou pelo ONS, conforme estabelecido no Submódulo 5.13 – Rotinas
+Operacionais.
+1.2. Implementação das inclusões e das atualizações e disponibilização do inventário de condicionantes
+operativos hidráulicos dos aproveitamentos hidroelétricos
+1.2.1. O ONS implementa as inclusões e as atualizações de informações sobre condicionantes operativos
+hidráulicos dos aproveitamentos hidroelétricos que compõem o SIN, nos processos de planejamento,
+programação e operação em tempo real.
+1.2.2. O ONS disponibiliza aos agentes de geração, à ANEEL e à ANA as inclusões ou as atualizações realizadas
+nas informações sobre condicionantes operativos hidráulicos dos aproveitamentos hidroelétricos.
+1.2.3. O ONS disponibiliza o inventário de condicionantes operativos hidráulicos dos aproveitamentos
+hidroelétricos atualizado. Trata-se de um produto dinâmico, cujo extrato poderá ser feito a qualquer tempo
+a partir de sistema do ONS que faz a gestão das informações relacionadas aos condicionantes operativos
+hidráulicos.
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Inclusão e atualização de
+condicionantes operativos hidráulicos 4.7 Operacional 2024.10 30/10/2024
+dos aproveitamentos hidroelétricos
+1.2.4. Em caso de manifestação contrária por parte da ANEEL e/ou da ANA, o ONS cancela as
+implementações de inclusão ou de atualização de condicionantes operativos hidráulicos dos
+aproveitamentos hidroelétricos, comunicando o cancelamento aos respectivos agentes de geração.
+1.3. Elaboração do parecer técnico sobre a solicitação de inclusão ou de atualização de condicionantes
+operativos hidráulicos e disponibilização das informações
+1.3.1. O ONS elabora parecer técnico em que apresenta as consequências e repercussões das inclusões e das
+atualizações de condicionantes operativos hidráulicos, conforme estabelecido no Submódulo 5.13 – Rotinas
+Operacionais.
+1.3.2. O ONS disponibiliza o parecer técnico à ANEEL e/ou à ANA, para fins de avaliação, e para os agentes
+de geração, para conhecimento, no caso de solicitação de inclusão ou de atualização de condicionantes
+operativos hidráulicos, conforme estabelecido no Submódulo 5.13 – Rotinas Operacionais.
+1.3.3. O ONS disponibiliza o parecer técnico relativo à solicitação da ANEEL ou da ANA para ambas as
+agências.
+1.3.4. O ONS disponibiliza à ANEEL e/ou à ANA, em caráter de urgência, os pareceres técnicos que
+apresentem consequências e repercussões significativas.
+1.3.5. O ONS elabora, quando solicitado pela ANEEL e/ou pela ANA, estudo técnico sobre condicionantes
+operativos hidráulicos. Na elaboração desse estudo é facultada a participação dos agentes de geração que
+tenham relação com o condicionante em questão.
+2. REFERÊNCIAS
+2.1. Não há referências neste documento.
+3. ANEXOS
+3.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 4 / 4

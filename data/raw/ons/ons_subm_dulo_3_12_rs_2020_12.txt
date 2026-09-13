@@ -1,0 +1,265 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 3.12-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 3.12-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 3.12
+Estudos de curto-circuito
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos de curto-circuito 3.12 Responsabilidades 2020.12 01/01/2021
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Base de Dados de Operação para Estudos de Curto-Circuito........................................................3
+2.2. Casos de Referência de Planejamento para Estudos de Curto-Circuito........................................3
+2.3. Relatório dos Estudos de Curto-Circuito.......................................................................................3
+2.4. Relatório dos Reatores Equivalentes nas Barras do SIN para Simulação de Curto-Circuito
+Monofásico em Estudos de Transitórios Eletromecânicos............................................................3
+2.5. Diagramas de Impedância.............................................................................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de operação.....................................................................................................................4
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIAS...................................................................................................................................7
+Endereço na internet: http://www.ons.org.br 2 / 7
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos de curto-circuito 3.12 Responsabilidades 2020.12 01/01/2021
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas dos processos relativos a:
+(a) manutenção da base de dados de operação e criação dos casos de referência de curto-circuito;
+(b) elaboração dos estudos de curto-circuito;
+(c) cálculo dos reatores equivalentes para utilização nos estudos de transitórios eletromecânicos e para
+simulação de curto-circuito monofásico; e
+(d) elaboração de diagramas de impedância.
+1.2. Os estudos relacionados a este submódulo são utilizados para cálculo de níveis de curto-circuito
+monofásico, trifásico e bifásico-terra e da relação X/R para as barras da Rede Básica, das instalações de
+transmissão de energia elétrica destinadas a interligações internacionais, das instalações de transmissão de
+interesse exclusivo de centrais de geração para conexão compartilhada (ICG) e das Demais Instalações de
+Transmissão (DIT).
+2. PRODUTOS
+2.1. Base de Dados de Operação para Estudos de Curto-Circuito
+2.1.1. Consiste em uma base de dados evolutiva com os equipamentos que efetivamente estão disponíveis
+para operação e cujos parâmetros são definitivos e fornecidos pelos agentes.
+2.2. Casos de Referência de Planejamento para Estudos de Curto-Circuito
+2.2.1. Consiste em bases de dados com informações dos equipamentos planejados, por horizonte.
+2.3. Relatório dos Estudos de Curto-Circuito
+2.3.1. Consiste na apresentação dos níveis de curto-circuito, em MVA e kA, das variações desses níveis e da
+relação X/R nas barras em análise, bem como na avaliação da capacidade de interrupção simétrica dos
+disjuntores.
+2.4. Relatório dos Reatores Equivalentes nas Barras do SIN para Simulação de Curto-Circuito
+Monofásico em Estudos de Transitórios Eletromecânicos
+2.4.1. Consiste na apresentação dos dados e informações necessários à simulação de curto-circuito
+monofásico nas barras em estudos de transitórios eletromecânicos.
+2.5. Diagramas de Impedância
+2.5.1. Consiste na representação gráfica das instalações conforme consta na base de dados de curto-circuito.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Coordenar a manutenção da base de dados de curto-circuito dos componentes do SIN disponíveis
+para a operação.
+Endereço na internet: http://www.ons.org.br 3 / 7
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos de curto-circuito 3.12 Responsabilidades 2020.12 01/01/2021
+(b) Criar e manter os arquivos de alteração para a atualização da base de dados de operação e dos casos
+de referência para estudos de curto-circuito.
+(c) Elaborar e disponibilizar, por demanda, os diagramas de impedância.
+(d) Consolidar os dados fornecidos pelos agentes para atualização da base de dados de operação e dos
+casos de referência.
+(e) Elaborar o Relatório dos Estudos de Curto-Circuito.
+(f) Elaborar o Relatório dos Reatores Equivalentes nas Barras do SIN para Simulação de Curto-Circuito
+Monofásico em Estudos de Transitórios Eletromecânicos.
+(g) Disponibilizar para os agentes a base de dados de operação, os casos de referência, o Relatório dos
+Estudos de Curto-Circuito e o Relatório dos Reatores Equivalentes nas Barras do SIN para Simulação
+de Curto-Circuito Monofásico em Estudos de Transitórios Eletromecânicos.
+3.2. Agentes de operação
+(a) Fornecer ao ONS os dados referentes às alterações ocorridas em seus sistemas e as capacidades de
+interrupção simétrica dos disjuntores de suas instalações.
+(b) Participar da elaboração e das revisões das bases de dados e relatórios.
+(c) Indicar formalmente um representante técnico e um suplente para a interlocução com o ONS quanto
+aos processos descritos neste submódulo.
+(d) Apresentar ao ONS as ações em andamento relativas aos disjuntores que estão com indicações de
+superação e de alerta.
+(e) Fornecer ao ONS cronograma contendo os estudos detalhados a serem desenvolvidos para os
+equipamentos sob sua responsabilidade
+4. PRAZOS
+Quadro 1 – Prazos das atividades de obtenção, consolidação e manutenção dos dados da base de operação de
+curto-circuito
+Atividade Responsável Prazo Periodicidade Horizonte
+Envio ao ONS das
+alterações ocorridas em Primeiro
+Agente de 31 de março do ano em
+1 seus sistemas para a Anual trimestre do ano
+operação curso
+atualização da base de em curso
+dados de operação
+Envio ao ONS das
+alterações ocorridas em Segundo
+Agente de 30 de junho do ano em
+2 seus sistemas para a Anual trimestre do ano
+operação curso
+atualização da base de em curso
+dados de operação
+Endereço na internet: http://www.ons.org.br 4 / 7
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos de curto-circuito 3.12 Responsabilidades 2020.12 01/01/2021
+Atividade Responsável Prazo Periodicidade Horizonte
+Envio ao ONS das
+alterações ocorridas em
+Agente de 30 de setembro do ano Terceiro trimestre
+3 seus sistemas para a Anual
+operação em curso do ano em curso
+atualização da base de
+dados de operação
+Envio ao ONS das
+alterações ocorridas em
+Agente de 31 de dezembro do ano Quarto trimestre
+4 seus sistemas para a Anual
+operação em curso do ano em curso
+atualização da base de
+dados de operação
+Último dia do mês
+Alterações
+subsequente do prazo de
+Divulgação da base de correspondentes
+envio pelos agentes das
+5 dados de operação e do ONS Trimestral ao respectivo
+alterações ocorridas em
+arquivo de alteração trimestre do ano
+seus sistemas (atividades
+em curso
+1,2, 3 e 4)
+Envio ao ONS de 15 dias úteis após Alterações
+sugestões e comentários divulgação pelo ONS da correspondentes
+Agente de
+6 referentes à base de base de dados de Trimestral ao respectivo
+operação
+dados de operação e ao operação e do arquivo de trimestre do ano
+arquivo de alteração alteração (atividade 5) em curso
+Divulgação da versão final 10 dias úteis após o
+da base de dados de recebimento das
+7 ONS Trimestral Atual
+operação e do arquivo de sugestões e comentários
+alteração dos agentes (atividade 6)
+Quadro 2 – Prazos das atividades relativas aos casos de referência, relatórios e diagramas de impedâncias
+Atividade Responsável Prazo Periodicidade Horizonte
+Divulgação da versão inicial dos
+Até dia 15 de agosto 5 anos à
+1 casos de referência e dos ONS Anual
+do ano em curso frente
+arquivos de alteração
+Endereço na internet: http://www.ons.org.br 5 / 7
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos de curto-circuito 3.12 Responsabilidades 2020.12 01/01/2021
+Atividade Responsável Prazo Periodicidade Horizonte
+10 dias úteis após
+divulgação pelo ONS
+Envio ao ONS de sugestões e
+da versão inicial dos
+comentários referentes aos Agente de 5 anos à
+2 casos de referência e Anual
+casos de referência e aos operação frente
+dos arquivos de
+arquivos de alteração
+alteração
+(atividade 1)
+10 dias úteis após o
+recebimento das
+Divulgação da versão final dos
+sugestões e 5 anos à
+3 casos de referência e dos ONS Anual
+comentários dos frente
+arquivos de alteração
+agentes
+(atividade 2)
+40 dias úteis após
+divulgação pelo ONS
+Divulgação da minuta do
+da versão final dos 5 anos à
+4 Relatório dos Estudos de Curto- ONS Anual
+casos de referência e frente
+Circuito
+dos arquivos de
+alteração (atividade 3)
+10 dias úteis após
+Envio ao ONS de sugestões e divulgação pelo ONS
+comentários referentes à Agente de da minuta do 5 anos à
+5 Anual
+minuta do Relatório dos operação Relatório dos Estudos frente
+Estudos de Curto-Circuito de Curto-Circuito
+(atividade 4)
+10 dias úteis após o
+Divulgação da versão final do recebimento das
+5 anos à
+6 Relatório dos Estudos de Curto- ONS sugestões e Anual
+frente
+Circuito comentários dos
+agentes (atividade 5)
+Apresentação para o ONS das
+ações em andamento relativas A ser definido pelo
+Agente de
+7 aos disjuntores que estão com ONS em conjunto com Anual -
+operação
+indicação de superação e de o agente
+alerta
+Endereço na internet: http://www.ons.org.br 6 / 7
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos de curto-circuito 3.12 Responsabilidades 2020.12 01/01/2021
+Atividade Responsável Prazo Periodicidade Horizonte
+Apresentação para o ONS de
+um cronograma com os estudos
+detalhados a serem
+A ser definido pelo
+desenvolvidos para os Agente de
+8 ONS em conjunto com Anual -
+equipamentos de sua operação
+o agente
+propriedade das instalações
+que apresentaram variação do
+nível de curto-circuito de  10%
+40 dias úteis após
+divulgação pelo ONS
+Divulgação da minuta do
+da versão final dos 1º e 5º ano do
+9 Relatório dos Reatores ONS Anual
+casos de referência e PAR
+Equivalentes
+dos arquivos de
+alteração (atividade 3)
+10 dias úteis após
+Envio ao ONS de sugestões e
+divulgação da minuta
+comentários referentes à Agente de 1º e 5º ano do
+10 do Relatório dos Anual
+minuta do Relatório dos operação PAR
+Reatores Equivalentes
+Reatores Equivalentes
+(atividade 9)
+10 dias úteis após o
+Divulgação da versão final do recebimento das
+1º e 5º ano do
+11 Relatório dos Reatores ONS sugestões e Anual
+PAR
+Equivalentes comentários
+(atividade 10)
+Base de dados
+de operação
+de curto-
+Disponibilização dos diagramas 60 dias após a
+12 ONS Por demanda circuito ou os
+de impedância solicitação do agente
+casos de
+referência
+vigentes
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 7 / 7

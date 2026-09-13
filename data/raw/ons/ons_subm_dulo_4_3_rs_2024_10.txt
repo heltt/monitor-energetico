@@ -1,0 +1,231 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 4.3-RS_2024.10
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 4.3-RS_2024.10.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 4.3
+Programação mensal da operação
+energética
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2024.10 Resolução Normativa ANEEL nº 22/10/2024
+1.104/2024
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação mensal da operação energética 4.3 Responsabilidades 2024.10 30/10/2024
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Programa Mensal da Operação Energética (PMO) e suas revisões semanais...............................3
+2.2. Base de dados do modelo de otimização de médio prazo............................................................3
+2.3. Base de dados do modelo de otimização de curto prazo..............................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de geração ......................................................................................................................4
+3.3. Agente comercializador da Itaipu Binacional................................................................................4
+4. PRAZOS............................................................................................................................................5
+5. REFERÊNCIAS...................................................................................................................................7
+Endereço na internet: http://www.ons.org.br 2 / 7
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação mensal da operação energética 4.3 Responsabilidades 2024.10 30/10/2024
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas de processos relativos à
+programação mensal da operação energética, e de suas revisões semanais, que oferece as diretrizes
+energéticas de curto prazo para a operação do Sistema Interligado Nacional (SIN).
+2. PRODUTOS
+2.1. Programa Mensal da Operação Energética (PMO) e suas revisões semanais
+2.1.1. Apresenta os resultados dos estudos realizados em base mensal, e revistos semanalmente, e fornecem
+metas e diretrizes eletroenergéticas a serem consideradas na programação diária da operação e na operação
+em tempo real.
+2.2. Base de dados do modelo de otimização de médio prazo
+2.2.1. Arquivos de dados do modelo de otimização de médio prazo, utilizado na elaboração do PMO, com
+horizonte de análise de até 60 meses à frente.
+2.3. Base de dados do modelo de otimização de curto prazo
+2.3.1. Arquivos de dados do modelo de otimização de curto prazo, utilizado na elaboração do PMO e suas
+revisões semanais, com horizonte de análise de 2 meses à frente.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Divulgar aos agentes de geração e ao agente comercializador de Itaipu Binacional o cronograma e os
+meios de envio das informações necessárias a elaboração do PMO e suas revisões semanais.
+(b) Analisar e consolidar, em conjunto com os agentes envolvidos, as informações recebidas para a
+realização do PMO e de suas revisões semanais.
+(c) Convidar os agentes envolvidos a participarem da reunião de elaboração do PMO.
+(d) Analisar a evolução das condições operativas dos subsistemas que compõem o SIN, para um período
+de até doze meses à frente.
+(e) Disponibilizar o PMO e suas revisões semanais a todos os agentes envolvidos e elaborar as metas e
+diretrizes eletroenergéticas a serem consideradas na operação do SIN.
+(f) Disponibilizar aos agentes envolvidos e à Câmara de Comercialização de Energia Elétrica – CCEE as
+bases de dados dos modelos de otimização de médio prazo e de curto prazo, utilizadas na elaboração
+do estudo.
+(g) Disponibilizar à Agência Nacional de Energia Elétrica – ANEEL análise prospectiva dos custos marginais
+de operação dos subsistemas que compõem o SIN.
+(h) Formalizar à ANEEL quando da identificação de inconsistência no tratamento de informações para a
+elaboração do PMO ou suas revisões semanais, conforme [1].
+Endereço na internet: http://www.ons.org.br 3 / 7
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação mensal da operação energética 4.3 Responsabilidades 2024.10 30/10/2024
+(i) Disponibilizar à ANEEL e CCEE, na elaboração do PMO, as informações necessárias para a sinalização
+do acionamento do mecanismo das bandeiras tarifárias para o mês de estudo.
+3.2. Agentes de geração 1
+(a) Fornecer ao ONS, nos formatos, meios e prazos estabelecidos, os dados necessários para a realização
+do PMO e suas revisões semanais, referentes as usinas simuladas individualmente nos modelos
+energéticos.
+(b) Analisar os dados identificados pelo ONS como inconsistentes e, caso pertinente, executar as devidas
+alterações e informar ao ONS ou, caso não seja considerado pertinente, informar com as devidas
+justificativas.
+(c) Analisar os dados e resultados disponibilizados pelo ONS e submeter eventuais comentários e as
+necessidades de alterações detectadas.
+(d) Implantar os resultados e determinações dos estudos.
+3.3. Agente comercializador da Itaipu Binacional
+(a) Fornecer ao ONS, nos formatos, meios e prazos estabelecidos, os dados necessários para a realização
+do PMO e suas revisões semanais.
+(b) Analisar os dados identificados pelo ONS como inconsistentes e, caso pertinente, executar as devidas
+alterações e informar ao ONS ou, caso não seja considerado pertinente, informar com as devidas
+justificativas.
+(c) Analisar os dados e resultados disponibilizados pelo ONS e submeter eventuais comentários e as
+necessidades de alterações detectadas.
+(d) Implantar os resultados e determinações dos estudos.
+1Os agentes de geração considerados neste submódulo são aqueles detentores, por concessão ou autorização, de usinas
+e reservatórios simulados individualmente nos modelos energéticos.
+Endereço na internet: http://www.ons.org.br 4 / 7
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação mensal da operação energética 4.3 Responsabilidades 2024.10 30/10/2024
+4. PRAZOS
+Quadro 1 - Prazos para a elaboração do PMO – Modelo de Médio Prazo
+Atividade Responsável Prazo* Periodicidade Horizonte
+Conforme estabelecido no
+Envio das informações Submódulo 3.3 –
+referente ao modelo Planejamento da operação
+de otimização de Agentes energética de médio prazo, Até 60 meses
+1 Quadrimestral
+médio prazo envolvidos referente às atualizações à frente
+necessárias à dos estudos do ciclo anual
+elaboração do PMO de planejamento da
+operação energética
+Até 60 meses
+Disponibilização dos à frente,
+arquivos de dados Segunda-feira da semana de referente ao
+2 ONS Mensal
+preliminares do PMO, elaboração do PMO modelo de
+conforme [1] otimização de
+médio prazo
+Até 60 meses
+Disponibilização à CCEE à frente,
+das bases de dados dos Conforme Acordo Operativo referente ao
+3 ONS Mensal
+modelos de otimização ONS-CCEE modelo de
+de médio prazo otimização de
+médio prazo
+Até 60 meses
+Disponibilização aos
+à frente,
+agentes das bases de Até às 06h00 de sexta-feira
+referente ao
+4 dados dos modelos de ONS da semana de elaboração do Mensal
+modelo de
+otimização de médio PMO
+otimização de
+prazo
+médio prazo
+*Em caso de alterações nos dias da semana indicados na tabela de prazo, em função da ocorrência de feriados, o ONS
+informa de forma antecipada os novos prazos a serem atendidos em cada excepcionalidade.
+Quadro 2 - Prazos para a elaboração do PMO - Modelo de Curto Prazo
+Atividade Responsável Prazo* Periodicidade Horizonte
+Envio das informações
+referentes ao modelo Até às 17h00 de
+Agentes
+1 de otimização curto segunda-feira da semana Mensal 2 meses à frente
+envolvidos
+prazo necessárias à de elaboração do PMO
+elaboração do PMO
+Endereço na internet: http://www.ons.org.br 5 / 7
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação mensal da operação energética 4.3 Responsabilidades 2024.10 30/10/2024
+Atividade Responsável Prazo* Periodicidade Horizonte
+Envio de retificações Até às 12h00 de quinta-
+Agentes
+2 de dados para feira da semana de Mensal 2 meses à frente
+envolvidos
+elaboração do PMO elaboração do PMO
+2 meses à frente,
+Disponibilização dos
+Até 10h00 de sexta-feira referente ao
+arquivos de dados
+3 ONS da semana de Mensal modelo de
+preliminares do PMO,
+elaboração do PMO otimização de
+conforme [1]
+curto prazo
+2 meses à frente,
+Disponibilização à CCEE
+referente ao
+das bases de dados dos Conforme Acordo
+4 ONS Mensal modelo de
+modelos de otimização Operativo ONS-CCEE
+otimização de
+de curto prazo
+curto prazo
+Disponibilização aos 2 meses à frente,
+agentes das bases de Até às 12h00 de sexta- referente ao
+5 dados dos modelos de ONS feira da semana de Mensal modelo de
+otimização de curto elaboração do PMO otimização de
+prazo curto prazo
+*Em caso de alterações nos dias da semana indicados na tabela de prazo, em função da ocorrência de feriados, o ONS
+informa de forma antecipada os novos prazos a serem atendidos em cada excepcionalidade.
+Quadro 3 - Prazos para a elaboração de revisão semanal do PMO
+Responsável Prazo* Periodicidade Horizonte
+Atividade
+Até às 11h00 da
+Envio das informações Até o final do
+Agentes quinta-feira da semana
+1 necessárias às revisões Semanal segundo mês
+envolvidos de elaboração da
+semanais do PMO do estudo
+revisão
+Envio de retificações Até às 14h00 da
+Até o final do
+de dados para as Agentes quinta-feira da semana
+2 Semanal segundo mês
+revisões semanais do envolvidos de elaboração da
+do estudo
+PMO revisão
+2 meses à
+Disponibilização dos
+frente,
+arquivos de dados Até às 10h00 da sexta-
+referente ao
+3 preliminares das ONS feira da semana de Semanal
+modelo de
+revisões semanais, elaboração da revisão
+otimização de
+conforme [1]
+curto prazo
+Endereço na internet: http://www.ons.org.br 6 / 7
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação mensal da operação energética 4.3 Responsabilidades 2024.10 30/10/2024
+Disponibilização da
+Conforme Acordo Até o final do
+base de dados do
+4 ONS Operativo entre as Semanal segundo mês
+modelo de curto prazo
+instituições do estudo
+à CCEE
+Disponibilização da
+Até às 12h00 da sexta- Até o final do
+base de dados do
+5 ONS feira da semana de Semanal segundo mês
+modelo de curto prazo
+elaboração da revisão do estudo
+aos agentes
+*Em caso de alterações nos dias da semana indicados na tabela de prazo, em função da ocorrência de feriados, o ONS
+informa de forma antecipada os novos prazos a serem atendidos em cada excepcionalidade.
+5. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa nº 1.032, de 26 de julho de 2022.
+Endereço na internet: http://www.ons.org.br 7 / 7

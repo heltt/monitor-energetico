@@ -1,0 +1,20 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 19/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/02/2026&jornal=515&pagina=54
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado do Pará
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 49/2026
+Fase de Autorização de Pesquisa
+Aprova o relatório de Pesquisa(317)
+850.124/2013-MINERACAO PARAGOMINAS S.A.-SUBSTÂNCIA: BAUXITA-PARAGOMINAS/PA
+850.462/2023-CORCOVADO GRANITOS LTDA-SUBSTÂNCIA: QUARTZITO-RIO MARIA/PA
+850.915/2021-RESERVA OZ MINERACAO E EXPLORACAO MINERAL LTDA-SUBSTÂNCIA: GRANITO (Brita) e GRANITO (Industrial)-CAPANEMA e TRACUATEUA/PA
+RAIMUNDO QUEIROZ DE ALMEIDA
+Gerente Substituto

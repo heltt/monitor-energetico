@@ -1,0 +1,176 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 4.1-RS_2024.07
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 4.1-RS_2024.07.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 4.1
+Planejamento da operação elétrica com
+horizonte mensal
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2024.07 Despacho ANEEL nº 2080/2024 18/07/2024
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica com
+4.1 Responsabilidades 2024.07 01/08/2024
+horizonte mensal
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTO........................................................................................................................................3
+2.1. Diretrizes para Operação Elétrica com Horizonte Mensal............................................................3
+2.2. Base de Dados para Estudos Elétricos de Fluxo de Potência para o horizonte mensal.................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de transmissão................................................................................................................3
+3.3. Agentes de distribuição.................................................................................................................4
+3.4. Agentes de geração.......................................................................................................................5
+3.5. Consumidores livres......................................................................................................................5
+4. PRAZOS............................................................................................................................................6
+5. REFERÊNCIA.....................................................................................................................................6
+Endereço na internet: http://www.ons.org.br 2 / 6
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica com
+4.1 Responsabilidades 2024.07 01/08/2024
+horizonte mensal
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas dos processos relativos ao
+Planejamento da operação elétrica com horizonte mensal para a configuração da Rede de Operação.
+2. PRODUTO
+2.1. Diretrizes para Operação Elétrica com Horizonte Mensal
+2.1.1. Documento, elaborado mensalmente, que estabelece as diretrizes para operação da Rede de
+Operação com configuração completa, considerando o desempenho do sistema interligado nacional (SIN)
+sob o ponto de vista do atendimento aos critérios e aos padrões estabelecidos nos Procedimentos de Rede,
+definindo também a geração térmica necessária por restrição elétrica e que subsidia a programação e a
+operação em tempo real. A elaboração de diretrizes para a operação elétrica de horizonte mensal tem o
+objetivo de atualizar as diretrizes para a operação elétrica de horizonte quadrimestral.
+2.2. Base de Dados para Estudos Elétricos de Fluxo de Potência para o horizonte mensal
+2.2.1 Casos de referência de fluxo de potência elaborados, atualizados e disponibilizados pelo ONS aos
+agentes de operação com base no escopo e premissas para realização dos estudos de planejamento da
+operação elétrica com horizonte mensal.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Coordenar e executar todo o processo de recebimento de dados e informações; de elaboração do
+estudo e relatórios, com participação dos agentes quando estes demonstrarem interesse; de emissão
+e distribuição das Diretrizes para Operação Elétrica com Horizonte Mensal e relatórios; bem como o
+acompanhamento da implantação das providências recomendadas nestas diretrizes e relatórios.
+(b) Consolidar os dados recebidos, efetuar a montagem dos casos de referência e disponibilizá-los aos
+agentes.
+(c) Estabelecer o escopo do estudo, em consonância com os demais processos de planejamento da
+operação do SIN.
+(d) Realizar os estudos elétricos e análises da Rede de Simulação que forem necessários à avaliação do
+desempenho da Rede de Operação.
+(e) Propor e desenvolver ações junto aos agentes de operação para garantir a segurança operativa do
+SIN e a otimização dos custos da operação.
+(f) Disponibilizar, no Portal de relacionamento do ONS ao Ministério de Minas e Energia – MME e a
+Agência Nacional de Energia Elétrica – ANEEL as conclusões e recomendações dos estudos para
+garantir que o atendimento da operação elétrica do SIN ocorra com segurança.
+(g) Verificar eventuais inconsistências nos dados informados pelos agentes de operação.
+Endereço na internet: http://www.ons.org.br 3 / 6
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica com
+4.1 Responsabilidades 2024.07 01/08/2024
+horizonte mensal
+3.2. Agentes de transmissão
+(a) Fornecer ao ONS e manter atualizado os dados e informações necessárias para realização dos
+estudos do planejamento da operação elétrica com horizonte mensal, no formato e plataforma
+indicados pelo ONS.
+(b) Participar, sempre que convocados ou por interesse próprio, das etapas do processo e acompanhar o
+desenvolvimento dos estudos elétricos.
+(c) Implantar as providências recomendadas nas Diretrizes para Operação Elétrica com Horizonte
+Mensal.
+(d) Informar de imediato ao ONS qualquer revisão ou incorreção identificada nos dados e informações já
+fornecidas.
+(e) Responder às solicitações do ONS de verificação de inconsistência nos dados para os estudos.
+(f) Verificar eventuais inconsistências nos casos de referência disponibilizados pelo ONS e informar de
+imediato ao ONS essas inconsistências.
+3.3. Agentes de distribuição
+(a) Fornecer ao ONS e manter atualizado os dados e informações necessárias para realização dos
+estudos do planejamento da operação elétrica com horizonte mensal, no formato e plataforma
+indicados pelo ONS.
+(b) Participar, sempre que convocados ou por interesse próprio, das diversas etapas de realização do
+processo e acompanhar o desenvolvimento dos estudos elétricos.
+(c) Implantar as providências recomendadas nas Diretrizes para a Operação Elétrica com Horizonte
+Mensal.
+(d) Informar de imediato ao ONS qualquer revisão ou incorreção identificada nos dados e informações já
+fornecidos.
+(e) Responder às solicitações do ONS de verificação de inconsistência nos dados para os estudos.
+(f) Atender às solicitações do ONS quanto ao envio de informações sobre a possibilidade de transferência
+de carga entre subestações em complementação às informações sobre os montantes de
+remanejamento de carga de demanda ativa entre barramentos da Rede de Simulação, solicitadas no
+Submódulo 3.5 - Consolidação da previsão de carga para planejamento da operação eletroenergética.
+(g) Verificar eventuais inconsistências nos casos de referência disponibilizados pelo ONS e informar de
+imediato ao ONS essas inconsistências.
+Endereço na internet: http://www.ons.org.br 4 / 6
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica com
+4.1 Responsabilidades 2024.07 01/08/2024
+horizonte mensal
+3.4. Agentes de geração1
+(a) Fornecer ao ONS e manter atualizado os dados e informações necessárias para realização dos
+estudos do planejamento da operação elétrica com horizonte mensal, no formato e plataforma
+indicados pelo ONS.
+(b) Participar, sempre que convocados ou por interesse próprio, das diversas etapas de realização do
+processo e acompanhar o desenvolvimento dos estudos elétricos.
+(c) Implantar as providências recomendadas nas Diretrizes para a Operação Elétrica com Horizonte
+Mensal.
+(d) Informar de imediato ao ONS qualquer revisão ou incorreção identificada nos dados e informações já
+fornecidos.
+(e) Responder às solicitações do ONS de verificação de inconsistência nos dados para os estudos.
+(f) Verificar eventuais inconsistências nos casos de referência disponibilizados pelo ONS e informar de
+imediato ao ONS essas inconsistências.
+(g) Para usinas Tipo II-B não conectadas a Rede Básica, encaminhar à Distribuidora responsável pela
+concessão da área em que estiver conectada, dados e informações necessários para a realização dos
+estudos elétricos pelo ONS.
+3.5. Consumidores livres
+(a) Fornecer ao ONS e manter atualizado os dados e informações necessárias para a realização dos
+estudos de planejamento da operação elétrica, no formato e plataforma indicados pelo ONS.
+(b) Participar, sempre que convocados ou por interesse próprio, das diversas etapas de realização do
+processo e acompanhar o desenvolvimento dos estudos elétricos.
+(c) Implantar as providências recomendadas nas Diretrizes para a Operação Elétrica com Horizonte
+Mensal.
+(d) Informar de imediato ao ONS qualquer revisão ou incorreção identificada nos dados e informações já
+fornecidos.
+(e) Responder às solicitações do ONS de verificação de inconsistência nos dados para os estudos.
+(f) Verificar eventuais inconsistências nos casos de referência disponibilizados pelo ONS e informar de
+imediato ao ONS essas inconsistências.
+1 Os agentes de geração considerados neste submódulo são aqueles detentores, por concessão ou autorização, de
+usinas classificadas nas modalidades de operação como Tipo I, Tipo II-A, Tipo II-B e Tipo II-C, conforme critérios e
+sistemática estabelecidos no submódulo 7.2 – Classificação da modalidade de operação de usinas.
+Endereço na internet: http://www.ons.org.br 5 / 6
+Procedimentos de Rede - Módulo 4 - Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica com
+4.1 Responsabilidades 2024.07 01/08/2024
+horizonte mensal
+4. PRAZOS
+Quadro 1 - Prazos para o planejamento da operação elétrica com horizonte mensal
+Atividade Responsável Prazo Periodicidade Horizonte
+Envio dos dados ao ONS Agente de 2º Mês
+1 Dia 25 Mensal
+operação subsequente
+Envio de sugestões para o escopo Agente de Mês
+2 Dia 05 Mensal
+dos estudos elétricos operação subsequente
+Disponibilização das Diretrizes para
+Mês
+3 Operação Elétrica com Horizonte ONS Dia 25 Mensal
+subsequente
+Mensal aos agentes
+Solicitação da verificação de
+Sob
+4 inconsistência dos dados enviados ONS - -
+demanda
+pelos agentes
+Até 5 (cinco)
+Verificação de inconsistência dos Agente de dias úteis
+5 - -
+dados fornecidos e informe ao ONS operação após
+atividade 4
+5. REFERÊNCIA
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 6 / 6

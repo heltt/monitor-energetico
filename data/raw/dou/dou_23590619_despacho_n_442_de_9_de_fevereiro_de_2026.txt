@@ -1,0 +1,15 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: DESPACHO Nº 442, DE 9 DE FEVEREIRO DE 2026
+DATA_PUBLICACAO: 11/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=11/02/2026&jornal=515&pagina=87
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Energia Elétrica/Superintendência de Fiscalização Técnica dos Serviços de Energia Elétrica/Gerência de Fiscalização da Geração
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+DESPACHO Nº 442, DE 9 DE FEVEREIRO DE 2026
+O GERENTE DE FISCALIZAÇÃO DA GERAÇÃO DA SUPERINTENDÊNCIA DE FISCALIZAÇÃO TÉCNICA DOS SERVIÇOS DE ENERGIA ELÉTRICA DA AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA - ANEEL, nos termos do art. 3º da Portaria nº 6.836, de 21 de junho de 2023, e considerando o que consta do Processo nº 48500.003142/2026-61, decide:
+liberar a unidade geradora UG22 a UG41 de 318,63 kW cada, totalizando 6.372,60 kW de capacidade instalada, da UFV Sol de Brotas 7, Código Único de Empreendimentos de Geração - CEG UFV.RS.BA.047047-3.01, localizada no município de Uibaí no estado da Bahia, de titularidade da Sol de Brotas 7 S.A., para início da operação em teste a partir de 10 de fevereiro de 2026.
+RAFAEL ERVILHA CAETANO

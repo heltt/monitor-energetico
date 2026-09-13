@@ -1,0 +1,227 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 3.8-PR_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 3.8-PR_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 3.8
+Atualização de dados técnicos dos
+aproveitamentos hidroelétricos
+Procedimental
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Atualização de dados técnicos dos
+3.8 Procedimental 2020.12 01/01/2021
+aproveitamentos hidroelétricos
+ÍNDICE
+1. ATUALIZAÇÃO DE DADOS TÉCNICOS DOS APROVEITAMENTOS HIDROELÉTRICOS............................3
+1.1. Levantamento da relação de dados técnicos de aproveitamentos hidroelétricos.......................3
+1.2. Análise das solicitações dos agentes de geração para a atualização dos dados técnicos de
+aproveitamentos hidroelétricos e emissão de parecer técnico....................................................3
+1.3. Implementação das atualizações e disponibilização do Inventário de Dados Técnicos dos
+Aproveitamentos Hidroelétricos atualizado..................................................................................4
+1.4. Elaboração do Relatório de Atualização de Dados Técnicos de Aproveitamentos Hidroelétricos4
+1.5. Realização de estudo sobre atualização de dados técnicos de aproveitamentos hidroelétricos
+por solicitação da ANEEL...............................................................................................................4
+2. REFERÊNCIAS...................................................................................................................................4
+3. ANEXOS...........................................................................................................................................4
+ANEXO A – Lista de dados técnicos de aproveitamentos hidroelétricos.................................................4
+Endereço na internet: http://www.ons.org.br 2 / 7
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Atualização de dados técnicos dos
+3.8 Procedimental 2020.12 01/01/2021
+aproveitamentos hidroelétricos
+1. ATUALIZAÇÃO DE DADOS TÉCNICOS DOS APROVEITAMENTOS HIDROELÉTRICOS
+1.1. Levantamento da relação de dados técnicos de aproveitamentos hidroelétricos
+1.1.1. O Operador Nacional do Sistema Elétrico – ONS identifica os dados técnicos de aproveitamentos
+hidroelétricos em operação e em planejamento, a partir da relação apresentada no Anexo A, complementa
+a lista de dados técnicos, sempre que necessário, e disponibiliza aos agentes de geração e a Empresa de
+Pesquisa Energética – EPE.
+1.1.2. O ONS obtém da Agência Nacional de Energia Elétrica – ANEEL os dados técnicos de aproveitamentos
+hidroelétricos em planejamento e atualizações de dados técnicos de aproveitamentos hidroelétricos em
+planejamento e em operação.
+1.1.3. O ONS divulga aos agentes de geração os meios, os formatos e os prazos para o envio de solicitação
+de atualização dos dados técnicos dos aproveitamentos hidroelétricos.
+1.1.4. Os agentes de geração encaminham ao ONS as solicitações de atualização dos dados técnicos dos
+aproveitamentos hidroelétricos em operação e em planejamento, sob sua responsabilidade, com as devidas
+justificativas técnicas.
+1.2. Análise das solicitações dos agentes de geração para a atualização dos dados técnicos de
+aproveitamentos hidroelétricos e emissão de parecer técnico
+1.2.1. O ONS analisa as solicitações de atualização dos dados técnicos encaminhadas pelos agentes de
+geração com as respectivas justificativas técnicas.
+1.2.2. Caso necessário, o ONS solicita aos agentes de geração esclarecimentos sobre as solicitações de
+atualização encaminhadas, bem como as metodologias de cálculo utilizadas e os procedimentos de medição
+das grandezas relacionadas aos dados técnicos.
+1.2.3. O ONS elabora Parecer Técnico sobre a Solicitação de Atualização de Dados Técnicos específico para
+cada agente com o resultado das análises quanto às consequências e repercussões das propostas de
+atualizações dos dados técnicos, que deve apresentar uma das seguintes indicações:
+(a) aceitação, sem necessidade de ciência à ANEEL;
+(b) aceitação, com ciência à ANEEL;
+(c) aceitação sujeita à aprovação prévia da ANEEL;
+(d) não-aceitação.
+1.2.4. O ONS encaminha aos agentes de geração envolvidos e à ANEEL Parecer Técnico sobre a Solicitação
+de Atualização de Dados Técnicos de Aproveitamentos Hidroelétricos. Dependendo da indicação do parecer,
+a atualização estará sujeita à aprovação da ANEEL.
+1.2.5. Ao identificar qualquer inconsistência nos dados técnicos de aproveitamentos hidroelétricos, o ONS a
+informa aos agentes de geração envolvidos e à ANEEL.
+1.2.6. Com o objetivo de assegurar a inexistência de informações inconsistentes nos dados técnicos de
+aproveitamentos hidroelétricos, o ONS pode realizar estudos para a verificação desses dados e, mediante
+justificativa técnica, propor à ANEEL a substituição de dados inconsistentes.
+Endereço na internet: http://www.ons.org.br 3 / 7
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Atualização de dados técnicos dos
+3.8 Procedimental 2020.12 01/01/2021
+aproveitamentos hidroelétricos
+1.3. Implementação das atualizações e disponibilização do Inventário de Dados Técnicos dos
+Aproveitamentos Hidroelétricos atualizado
+1.3.1. O ONS implementa as atualizações dos dados técnicos aprovadas ou encaminhadas pela ANEEL e as
+atualizações dos dados técnicos com indicação de aceitação no Parecer Técnico sobre a Solicitação de
+Atualização de Dados Técnicos de Aproveitamentos Hidroelétricos.
+1.3.1.1. A atualização dos dados técnicos de aproveitamentos hidroelétricos encaminhada pelos agentes de
+geração, cuja aceitação é sujeita à aprovação da ANEEL, somente é implementada pelo ONS após a aprovação
+dessa Agência.
+1.3.2. O ONS comunica aos agentes de geração, à ANEEL e à EPE as atualizações dos dados técnicos de
+aproveitamentos hidroelétricos.
+1.3.3. O ONS disponibiliza em seu site o Inventário de Dados Técnicos de Aproveitamentos Hidroelétricos
+atualizado.
+1.4. Elaboração do Relatório de Atualização de Dados Técnicos de Aproveitamentos Hidroelétricos
+1.4.1. Caso seja identificada a necessidade de aplicação de novas metodologias de obtenção dos dados
+técnicos de aproveitamentos hidroelétricos ou de novos insumos às metodologias adotadas, o ONS realiza
+estudo específico, facultando a participação do agente de geração.
+1.4.2. Ao final do estudo, o ONS elabora o Relatório de Atualização de Dados Técnicos de Aproveitamentos
+Hidroelétricos e o encaminha à ANEEL, para aprovação, e aos agentes de geração e à EPE, para fins de
+conhecimento.
+1.4.2.1. A atualização dos dados técnicos em função de evolução metodológica ou de novos insumos descrita
+no Relatório de Atualização de Dados Técnicos de Aproveitamentos Hidroelétricos somente é implementada
+após a aprovação da ANEEL.
+1.5. Realização de estudo sobre atualização de dados técnicos de aproveitamentos hidroelétricos por
+solicitação da ANEEL
+1.5.1. Quando solicitado pela ANEEL, o ONS realiza estudo para atualização de dados técnicos de
+aproveitamentos hidroelétricos ou para avaliação de impactos resultantes da atualização. Na elaboração
+desse estudo é facultada a participação dos agentes de geração que tenham relação com os dados técnicos
+referidos.
+2. REFERÊNCIAS
+2.1. Não há referências neste documento.
+3. ANEXOS
+ANEXO A – Lista de dados técnicos de aproveitamentos hidroelétricos
+Endereço na internet: http://www.ons.org.br 4 / 7
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Atualização de dados técnicos dos
+3.8 Procedimental 2020.12 01/01/2021
+aproveitamentos hidroelétricos
+ANEXO A
+Lista de dados técnicos de aproveitamentos hidroelétricos
+A.1 DADOS TÉCNICOS COM ALTERAÇÃO SEM NECESSIDADE DE CIÊNCIA À ANEEL
+(a) curvas de descarga dos vertedouros
+(b) informação sobre possuir descarregador de fundo (Sim ou Não)
+(c) capacidade máxima do descarregador de fundo (m³/s)
+(d) curva de descarga do descarregador de fundo
+(e) tempo de viagem em condições naturais até a próxima barragem de aproveitamento hidrelétrico a
+jusante, quando houver (h)
+(f) tempo de viagem em condições de reservatório até a próxima barragem de aproveitamento
+hidroelétrico a jusante, quando houver (h)
+(g) cadastro dos postos fluviométricos existentes no reservatório e no trecho incremental a montante
+contendo, código ANA, nome, área de drenagem, latitude, longitude, curvas-chave atuais
+(h) cadastro dos postos pluviométricos e meteorológicos existentes na área incremental a montante do
+reservatório contendo, código ANA, nome, latitude, longitude
+A.2 DADOS TÉCNICOS COM ALTERAÇÃO COM NECESSIDADE DE CIÊNCIA À ANEEL
+(a) codinome ou segundo nome da usina
+(b) nome do curso d´água
+(c) área de drenagem (km²)
+(d) data de início do enchimento do volume morto (dd/mm/aaaa)
+(e) data de fim do enchimento do volume morto (dd/mm/aaaa)
+(f) localização do medidor do nível d’água do reservatório (descrição, com latitude e longitude)
+(g) localização do medidor do nível d'água de jusante (descrição, com latitude e longitude)
+(h) capacidade máxima de descarga do(s) vertedouro(s) (m³/s)
+(i) nível do canal de desvio (m) – nível do reservatório que permite o início do desvio de água pelo
+canal/túnel de desvio
+(j) volume do canal de desvio (hm³) – volume do reservatório correspondente ao nível que permite o
+início do desvio de água pelo canal/túnel de desvio
+(k) vazão máxima do canal de desvio (m³/s)
+(l) vazão mínima da estação de bombeamento (m³/s)
+(m) vazão máxima da estação de bombeamento (m³/s)
+(n) fator de carga máximo e mínimo (%)
+Endereço na internet: http://www.ons.org.br 5 / 7
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Atualização de dados técnicos dos
+3.8 Procedimental 2020.12 01/01/2021
+aproveitamentos hidroelétricos
+A.3DADOS TÉCNICOS COM ALTERAÇÃO SUJEITA À APROVAÇÃO DA ANEEL
+(a) nome do aproveitamento (se usina e reservatório tiverem o mesmo nome)
+(b) nome do reservatório (se usina e reservatório não tiverem o mesmo nome)
+(c) nome da usina (se usina e reservatório não tiverem o mesmo nome)
+(d) subsistema elétrico ao qual encontra-se conectado o aproveitamento
+(e) latitude da barragem na projeção do eixo do rio principal (graus, minutos e segundos)
+(f) longitude da barragem na projeção do eixo do rio principal (graus, minutos e segundos)
+(g) latitude da casa de força (graus, minutos e segundos)
+(h) longitude da casa de força (graus, minutos e segundos)
+(i) nível d’água mínimo operativo normal(m)
+(j) nível d’água máximo operativo normal (m)
+(k) nível d’água máximo maximorum (m)
+(l) volume mínimo operativo normal (hm³)
+(m) volume máximo operativo normal (hm³)
+(n) volume máximo maximorum (hm³)
+(o) volume útil (hm³)
+(p) cota da crista do(s) vertedouro(s) (m)
+(q) cota mínima para vertimento (m) – cota mínima do nível d’água do reservatório para início de
+vertimento (informar somente em caso de existência de restrição de vazão mínima de vertimento)
+(r) volume de vertimento (hm³) - volume do reservatório correspondente à cota da crista do vertedouro
+principal
+(s) volume mínimo para vertimento (hm³) - volume do reservatório correspondente à cota mínima de
+vertimento
+(t) vazão mínima de vertimento (m³/s) – menor vazão possível de vertimento
+(u) pontos originais/notáveis das curvas volume (hm³) x cota (m) x área (km²) que serviram como base
+para o ajuste dos polinômios e tabelas cota x área x volume do reservatório, contendo os pontos
+correspondentes aos níveis d’água máximo e mínimo normais
+(v) polinômio cota x área (coeficientes até 4º grau) – área = f(cota)
+(w) polinômio volume x cota (coeficientes até 4º grau) – cota = f(volume)
+(x) tabelas cota-volume acumulado no reservatório e cota-área inundada no reservatório, com
+discretização de 1cm, abrangendo toda a faixa do volume morto e do volume útil, até o nível d'água
+máximo maximorum
+(y) nível d’água mínimo do canal de fuga (m)
+(z) nível d’água médio do canal de fuga (m)
+(aa) nível d’água máximo do canal de fuga (m)
+Endereço na internet: http://www.ons.org.br 6 / 7
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Atualização de dados técnicos dos
+3.8 Procedimental 2020.12 01/01/2021
+aproveitamentos hidroelétricos
+(bb) pontos da curva-chave de jusante: vazão defluente (m³/s) x nível de jusante (m)
+(cc) número de polinômios de jusante
+(dd) polinômios vazão x nível de jusante (coeficientes até 4º grau) – nível de jusante = f(Vazão defluente).
+No caso de mais de um polinômio de jusante, informar para cada um o correspondente nível d’água
+de referência do reservatório de jusante
+(ee) vazão em eventual trecho de vazão reduzida a jusante da barragem (m³/s)
+(ff) informação sobre o vertimento possuir influência nos níveis d’água do canal de fuga (sim ou não)
+(gg) tipo de regularização do reservatório (mensal, semanal ou diária)
+(hh) taxa de evaporação líquida mensal do reservatório (mm)
+(ii) tipos de turbinas
+(jj) curva colina das turbinas por conjunto gerador
+(kk) número de conjuntos de unidades geradoras
+(ll) número de unidades geradoras por conjunto gerador
+(mm) potência efetiva das unidades geradoras por conjunto gerador (MW)
+(nn) vazão de referência das turbinas por conjunto gerador (m³/s)
+(oo) queda de referência das turbinas por conjunto gerador (m)
+(pp) vazão mínima das turbinas por conjunto gerador (m³/s)
+(qq) vazão máxima das turbinas por conjunto gerador (m³/s)
+(rr) pontos da curva de geração máxima em função da queda bruta
+(ss) polinômio de engolimento máximo em função da queda bruta (coeficientes até 4º grau) – vazão
+turbinada = f(queda bruta)
+(tt) produtibilidade específica da usina (MW/m³/s/m)
+(uu) rendimento médio do conjunto turbina-gerador (%)
+(vv) curva de rendimento do gerador (% x MW) ou rendimento médio do gerador (%)
+(ww) perdas hidráulicas (m) ou (% queda bruta)
+(xx) equação de perda de carga hidráulica da usina (Perda = k x Q uni 2 , em casos de circuito hidráulico
+individual por unidade ou Perda = k1 x Q tot 2 + k2 x Qtot + k3 x Q uni 2), em casos de circuito hidráulico
+compartilhado por mais de uma unidade em algum trecho do circuito
+(yy) data de entrada em operação das unidades geradoras (dd/mm/aaaa)
+(zz) número de unidades de base
+Endereço na internet: http://www.ons.org.br 7 / 7

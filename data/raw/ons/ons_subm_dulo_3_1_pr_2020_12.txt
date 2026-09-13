@@ -1,0 +1,1615 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 3.1-PR_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 3.1-PR_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 3.1
+Planejamento da operação elétrica de
+médio prazo
+Procedimental
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+ÍNDICE
+1. PLANO DE AMPLIAÇÕES E REFORÇOS (PAR).....................................................................................3
+1.1. Obtenção e consolidação dos dados.............................................................................................3
+1.2. Estabelecimento dos condicionantes dos estudos........................................................................5
+1.3. Elaboração do Termo de Referência.............................................................................................6
+1.4. Montagem dos casos de referência..............................................................................................6
+1.5. Elaboração dos estudos.................................................................................................................7
+1.6. Resultados dos estudos...............................................................................................................10
+1.7. Disponibilização do PAR..............................................................................................................12
+1.8. Acompanhamento das obras recomendadas..............................................................................12
+2. PLANO DA OPERAÇÃO ELÉTRICA (PEL)............................................................................................13
+2.1. Obtenção e consolidação dos dados...........................................................................................13
+2.2. Elaboração do Termo de Referência...........................................................................................15
+2.3. Montagem dos casos de referência............................................................................................16
+2.4. Simulações e análises do sistema................................................................................................16
+2.5. Elaboração dos estudos...............................................................................................................16
+2.6. Disponibilização dos estudos e acompanhamento das ações propostas....................................18
+3. REFERÊNCIAS.................................................................................................................................18
+4. ANEXOS.........................................................................................................................................18
+Endereço na internet: http://www.ons.org.br 2 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+1. PLANO DE AMPLIAÇÕES E REFORÇOS (PAR)
+1.1. Obtenção e consolidação dos dados
+1.1.1. O ONS solicita aos agentes os dados e as informações referentes às alterações do sistema existente
+e/ou incorporação de novas instalações.
+1.1.2. O agente fornece ao ONS e mantém atualizados os dados descritos no ANEXO A, os dados de carga
+descritos no Submódulo 3.5 – Consolidação da previsão de carga para planejamento da operação
+eletroenergética e os dados descritos a seguir:
+(a) Agentes de transmissão:
+(1) configuração das instalações de transmissão existentes;
+(2) configuração da expansão das instalações de transmissão sob sua responsabilidade para o
+horizonte de estudos do Plano de Ampliações e Reforços (PAR);
+(3) parâmetros elétricos dos seus equipamentos;
+(4) características dos seus sistemas de controle dos equipamentos de compensação de potência
+reativa variável, dos elos de corrente contínua em alta tensão e dos dispositivos para tornar
+flexíveis os sistemas de transmissão em corrente alternada (Flexible Alternating Current
+Transmission System [FACTS]);
+(5) cronograma e acompanhamento das obras do PAR nas conexões, inclusive das instalações fora da
+Rede Básica, e das obras sob sua responsabilidade a serem integradas à Rede Básica; e
+(6) dados referentes à vida útil dos equipamentos, conforme prazos estabelecidos em
+regulamentação [1]:
+(i) relação dos equipamentos sob sua concessão com vida útil regulatória remanescente de até
+quatro anos ou esgotada, calculada a partir das taxas de depreciação estabelecidas pela
+Agência Nacional de Energia Elétrica – ANEEL;
+(ii) proposta de soluções com a finalidade de manter os equipamentos em operação por tempo
+adicional à sua vida útil regulatória, com a indicação, para cada equipamento, das justificativas
+baseadas em evidências técnicas, as ações necessárias, o investimento estimado e o aumento
+esperado da vida útil física; e
+(iii) relação dos equipamentos sob sua concessão sem possibilidade de continuar operando por
+motivos de obsolescência, vida útil física esgotada, falta de peças de reposição, risco de danos
+às instalações, desgastes prematuros e/ou restrições operativas intrínsecas, e equipamentos
+relacionados, com a indicação, para cada equipamento, das justificativas baseadas em
+evidências técnicas e os respectivos prazos para sua substituição, bem como as características
+básicas dos equipamentos substitutos.
+(b) Agentes de geração detentores de usinas classificadas como Tipo I:
+(1) características técnicas das suas unidades geradoras;
+(2) características dos sistemas de controle das suas unidades geradoras;
+(3) parâmetros elétricos dos equipamentos de conexão;
+(4) restrições operativas existentes em suas unidades geradoras, com indicação das causas;
+Endereço na internet: http://www.ons.org.br 3 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+(5) informações adicionais sobre as características da usina e seu regime de operação; e
+(6) usinas com despacho mínimo obrigatório por restrições resultantes do uso múltiplo da água.
+(c) Agentes de geração detentores de usinas classificadas como Tipo II-A e Tipo II-B, conectadas à Rede
+Básica ou às instalações de transmissão classificadas como de Interesse Exclusivo de Centrais de
+Geração para Conexão Compartilhada (ICG):
+(1) limites de geração de potência ativa (MW) individualizados por usina;
+(2) limites de absorção e de geração de potência reativa (Mvar) individualizados por usina;
+(3) restrições operativas existentes em unidades geradoras, com indicação das causas; e
+(4) informações adicionais sobre as características da usina e seu regime de operação.
+(d) Agentes de geração detentores de usinas classificadas como Tipo II-C, por meio do respectivo
+representante do conjunto de usinas a que pertencem:
+(1) limites de geração de potência ativa (MW) individualizados por usina que faz parte do conjunto;
+(2) limites de absorção e de geração de potência reativa (Mvar) individualizados por usina que faz
+parte do conjunto;
+(3) características dos sistemas de controle das unidades geradoras;
+(4) restrições operativas existentes em unidades geradoras, com indicação das causas; e
+(5) informações adicionais sobre as características da usina e seu regime de operação, quando
+solicitado.
+(e) Agentes de distribuição:
+(1) configuração do sistema de distribuição existente e planejado representado na Rede de Simulação,
+modelada conforme o programa de obras, para o horizonte de estudos do PAR;
+(2) parâmetros elétricos dos equipamentos existentes e planejados do sistema de distribuição
+representado na Rede de Simulação, para o horizonte de estudos do PAR; e
+(3) os seguintes dados das usinas classificadas como Tipo II-A e Tipo II-B, conectadas na sua área de
+concessão e não conectadas à Rede Básica ou às instalações de transmissão classificadas como
+ICG:
+(i) previsão de despacho de geração e limites de geração de potência ativa (MW) individualizados
+por usina;
+(ii) limites de absorção e de geração de potência reativa (Mvar) individualizados por usina;
+(iii) restrições operativas existentes em unidades geradoras, com indicação das causas; e
+(iv) informações adicionais sobre as características da usina e seu regime de operação.
+(f) Consumidores livres ou potencialmente livres:
+(1) Parâmetros elétricos dos equipamentos de conexão.
+1.1.3. O agente envia ao ONS, acompanhadas do cronograma das novas obras, as configurações descritas no
+item 1.1.2. compatíveis com a Rede de Simulação utilizada no fornecimento dos dados de carga, em
+concordância com as configurações anuais representadas nos estudos do PAR.
+1.1.4. O ONS obtém as informações, nos termos previstos no Submódulo 7.1 – Acesso às instalações de
+transmissão, relativas aos agentes de distribuição, consumidores livres, agentes de geração e agentes de
+importação e exportação que tenham solicitado acesso à Rede Básica e Demais Instalações de Transmissão
+(DIT).
+Endereço na internet: http://www.ons.org.br 4 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+1.1.5. No caso de dados de unidades geradoras futuras, o ONS utiliza os informados pelos agentes acessantes
+que já tenham apresentado solicitação de acesso ou recebido autorização ou concessão. Na ausência de
+dados, podem ser utilizados dados típicos, desde que destacados como tais em seus respectivos arquivos.
+1.1.6. O ONS adota os limites de carregamento de cada instalação constantes do Contrato de Prestação de
+Serviços de Transmissão (CPST).
+1.1.7. O ONS adota os limites de carregamento das LT e dos equipamentos das instalações classificadas como
+DIT informados pelos agentes responsáveis. Similarmente, o ONS adota os limites de carregamento
+informados pelos agentes de distribuição responsáveis pela rede de distribuição considerada nas simulações.
+1.1.8. O ONS obtém os dados e modelos das máquinas, dos reguladores de tensão, dos reguladores de
+velocidade e sinais adicionais estabilizantes constantes na sua Base de Dados Técnica e os utiliza nas
+simulações para análise da estabilidade angular.
+1.1.9. O ONS considera os valores de carga ativa e reativa por barramento, em todas as simulações e análises
+para os patamares de carga informados pelos agentes e consolidados pelo ONS, conforme Submódulo 3.5.
+1.1.9.1. Caso seja necessário alterar os valores das previsões de carga já informados ao ONS, as alterações
+devem ser realizadas pelo mesmo processo descrito no Submódulo 3.5, de forma a garantir que a carga
+utilizada esteja sempre consolidada.
+1.1.9.2. A aceitação e a inclusão das alterações dos valores das previsões de carga no processo dependem
+do andamento das simulações e do cronograma de elaboração do PAR pelo ONS, uma vez que as alterações
+nas previsões de carga podem implicar perda de eficácia do processo de consolidação da carga.
+1.1.10. Caso o agente constate eventuais inconsistências em algum dos dados fornecidos, deve informá-las
+imediatamente ao ONS, acompanhadas das respectivas correções e justificativas técnicas.
+1.1.11. O ONS obtém informações referentes ao planejamento da expansão da transmissão consolidado pelo
+Ministério de Minas e Energia – MME, com base nos estudos elaborados pela Empresa de Pesquisa Energética
+– EPE.
+1.2. Estabelecimento dos condicionantes dos estudos
+1.2.1. Os condicionantes que fundamentam os estudos de ampliações e reforços estão em permanente
+evolução, determinados principalmente pela dinâmica socioeconômica do país e pelo desenvolvimento
+tecnológico. Acrescente-se ainda aos fatores que influenciam esses condicionantes o ritmo de implantação
+das novas instalações de transmissão e de geração e a decisão dos empreendedores de se integrarem ao
+Sistema Interligado Nacional (SIN).
+1.2.2. O ONS considera as diretrizes apresentadas no plano de expansão elaborado pela EPE sob a
+coordenação do MME e nos planos de expansão das redes de distribuição elaborados pelos agentes ou
+relacionados aos planos de expansão da EPE.
+1.2.3. O ONS considera o conjunto de geradores constituído pelas usinas existentes, usinas novas com
+contratos de concessão, autorização ou solicitações de acesso formalizadas junto ao ONS, centrais geradoras
+integrantes de programas estabelecidos pelo MME e os intercâmbios contratados em interligações
+internacionais.
+1.2.4. O ONS considera as informações dos instrumentos contratuais de uso e conexão às instalações de
+transmissão.
+1.2.5. O ONS considera, para as unidades geradoras e instalações de transmissão, as datas de entrada em
+operação consolidadas em reuniões periódicas coordenadas pelo MME.
+Endereço na internet: http://www.ons.org.br 5 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+1.2.6. O ONS considera também as expansões previstas para os sistemas de distribuição e para as instalações
+de transmissão não pertencentes à Rede Básica, representadas na Rede de Simulação.
+1.2.7. O ONS considera as informações referentes aos problemas operativos sinalizados nos estudos de
+planejamento e programação da operação, bem como aqueles observados na operação do SIN.
+1.2.8. O ONS considera as melhorias relativas à substituição de equipamentos de grande porte por motivo
+de obsolescência, vida útil esgotada, falta de peças de reposição, risco de dano as instalações, desgastes
+prematuros ou restrições operativas intrínsecas e equipamentos relacionados [1]. Nesse contexto,
+equipamentos de grande porte são transformador, equipamento de compensação de potência reativa ou
+linha de transmissão (LT) e, equipamentos relacionados são aqueles que venham a impor restrições aos de
+grande porte, podendo ser partes integrantes ou equipamentos de conexão que necessitem também ser
+substituídos.
+1.3. Elaboração do Termo de Referência
+1.3.1. O termo de referência apresenta a descrição geral dos estudos, escopo, forma de execução,
+cronograma das atividades, dados, premissas e metodologia, como segue:
+(a) os critérios para definição dos despachos energéticos utilizados para análise das condições regionais
+de atendimento;
+(b) os meses e as condições de carga consideradas nos casos de referência; e
+(c) as condições operativas do sistema consideradas nas simulações e análises dos estudos.
+1.3.2. O termo de referência deve abordar apenas aquilo que não estiver estabelecido nos Procedimentos
+de Rede referente aos critérios, conforme consta no Submódulo 2.3 – Premissas, critérios e metodologia para
+estudos elétricos, além de quaisquer outras informações adicionais que tenham como objetivo principal,
+tornar possível a reprodutibilidade dos resultados das análises realizadas no âmbito do PAR.
+1.3.3. O ONS elabora o termo de referência dos estudos para cada ciclo do PAR e o encaminha aos agentes
+para suas contribuições.
+1.3.3.1. Nos casos excepcionais em que, devido às características particulares da carga, os estudos de fluxo
+de potência não são capazes de retratar a condição crítica de desempenho da instalação, principalmente em
+transformadores de fronteira da Rede Básica com a rede de distribuição, o ONS e o agente diretamente
+afetado acordam uma forma de detectar esse ponto crítico de operação e explicitam esse acordo no termo
+de referência.
+1.4. Montagem dos casos de referência
+1.4.1. O ONS elabora os casos de referência para simulação de todos os anos do horizonte de estudos do
+PAR e abrangência do SIN nas regiões Norte, Nordeste, Centro-Oeste, Sudeste e Sul.
+1.4.2. O ONS avalia inserir na base de dados (casos de referência) as novas obras recomendadas pelos
+estudos de planejamento da expansão.
+1.4.3. Com o objetivo de atualizar a Rede de Simulação, o ONS, com a participação dos agentes, monta os
+casos de referência, considerando as instalações existentes, as novas obras da Rede Básica em andamento,
+as autorizadas ou licitadas, os ajustes de cronograma físico informados pelas empresas e pelos órgãos
+responsáveis pela fiscalização da implantação de empreendimentos, as obras nas conexões e nas DIT, assim
+como as obras de responsabilidade de novos agentes a serem integradas à Rede Básica.
+Endereço na internet: http://www.ons.org.br 6 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+1.4.4. O ONS considera nos casos de referência e nas simulações e análises os valores atualizados de carga
+ativa e reativa por barramento e patamares de carga para os meses e condições de carga que melhor
+evidenciem as particularidades operativas de cada sistema, conforme estabelecido no Submódulo 3.5.
+1.4.5. O ONS ajusta as configurações iniciais para acerto dos casos de referência para cada ano do horizonte
+de estudos do PAR e elabora uma base comum aos estudos de fluxo de potência regionais e estudos de
+definição dos limites das interligações inter-regionais.
+1.5. Elaboração dos estudos
+1.5.1. Simulações e análises do sistema para avaliação das condições de atendimento
+1.5.1.1. O ONS realiza simulações e análises do sistema de forma regionalizada, para avaliar as situações
+específicas de cada região e os cenários alternativos de intercâmbio e despacho, tanto para condição normal
+como para contingências.
+1.5.1.2. O ONS avalia o desempenho elétrico do SIN, conforme as premissas e os critérios estabelecidos no
+Submódulo 2.3, a partir das seguintes grandezas:
+(a) tensão;
+(b) carregamento em LT e equipamentos;
+(c) estabilidade angular; e
+(d) outras que venham a ser estabelecidos no termo de referência.
+1.5.1.3. O ONS simula as condições operativas do SIN em regime permanente e/ou regime dinâmico em
+frequência industrial. Os diversos pontos de operação analisados contemplam as situações de hidrologia
+relevantes, condições de carga e configurações previstas para o horizonte de estudo que norteiam o
+dimensionamento da rede.
+1.5.1.4. A partir dos pontos de operação em análise, o ONS simula a ocorrência de contingências simples e,
+em alguns casos, múltiplas, que devem estar definidas no escopo do estudo, visando identificar os casos em
+que o desempenho elétrico não atende aos critérios estabelecidos e indicar as medidas corretivas
+necessárias.
+1.5.1.5. O ONS realiza as análises considerando a seguinte abrangência:
+(a) atendimento às áreas geoelétricas;
+(b) transformações da Rede Básica de Fronteira das áreas geoelétricas;
+(c) interligações inter-regionais e internacionais;
+(d) DIT e instalações de transmissão de âmbito próprio, de interesse sistêmico dos agentes de
+distribuição; e
+(e) todo o SIN:
+(i) avaliação do dimensionamento da compensação de potência reativa adicional; e
+(ii) análise de superação de equipamentos.
+1.5.1.6. O ONS testa as condições de atendimento das novas obras recomendadas pelos estudos de
+planejamento da expansão, caso a caso, até que seja determinada, para cada ano do horizonte de estudos
+do PAR, uma configuração que atenda aos critérios de desempenho.
+Endereço na internet: http://www.ons.org.br 7 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+1.5.1.7. O ONS, para fins de compatibilização com o MME e a EPE, avalia as soluções propostas pelos agentes
+como alternativa à substituição dos equipamentos existentes, ou verifica a necessidade de adequações nas
+instalações para o aumento da capacidade e/ou confiabilidade do SIN.
+1.5.1.8. Caso seja detectada falta de soluções estruturais de planejamento que resolvam os problemas
+identificados nos estudos do PAR, o ONS encaminha à EPE solicitação para elaboração de estudos para
+definição de solução estrutural que elimine esses problemas.
+1.5.1.8.1. Caso os problemas identificados sejam solucionados por meio da implantação de reforços, o ONS
+indica esses reforços no PAR, com base em análises de custo-benefício que eliminem os problemas
+identificados, e encaminha as soluções propostas ao MME, EPE e à ANEEL, com o conhecimento dos agentes
+envolvidos, para análises com visão de longo prazo.
+1.5.1.9. Caso sejam identificados problemas que possam comprometer a segurança operativa do SIN e a
+otimização dos custos de operação, o ONS propõe e desenvolve ações junto ao MME, à ANEEL e aos agentes
+envolvidos para solucionar tais problemas.
+1.5.1.10. O ONS realiza os estudos do PAR com a participação dos agentes e solicita a participação dos
+responsáveis pelo planejamento da expansão, caso necessário.
+1.5.1.11. O ONS informa os resultados das simulações e análises do sistema aos agentes para suas
+contribuições.
+1.5.2. Estudos para Rede Básica
+1.5.2.1. O ONS dimensiona o conjunto das instalações da Rede Básica de forma que haja capacidade
+suficiente para o escoamento da geração e para o atendimento da carga durante o horizonte de estudos do
+PAR, em condição normal de operação e sob contingência de um elemento da Rede de Simulação.
+1.5.2.2. O ONS inclui no PAR os resultados das avaliações de desempenho e a necessidade de ampliações e
+reforços nas instalações de transmissão.
+1.5.2.3. O ONS avalia o desempenho das novas ampliações e subestações propostas pelos estudos de
+planejamento da expansão e sua adequação quanto à data de necessidade e efetividade na solução de
+problemas diagnosticados.
+1.5.3. Estudos para transformação na fronteira entre Rede Básica e rede de distribuição
+1.5.3.1. O ONS avalia o desempenho e a necessidade de reforços nas subestações existentes.
+1.5.3.2. O ONS inclui na avaliação das condições de desempenho e na proposta de obras do PAR novas
+subestações e novos setores em subestações existentes, quando essas instalações atenderem a mais de uma
+distribuidora (instalações compartilhadas), tiverem sido objeto de licitação (instalações compartilhadas ou
+não) ou, no caso específico de atenderem a uma única distribuidora, tiverem sido objeto de solicitação de
+acesso.
+1.5.3.3. O ONS considera como referência na indicação de soluções para os problemas identificados os
+programas de obras informados pelos agentes de distribuição.
+1.5.4. Estudos das interligações inter-regionais e internacionais
+1.5.4.1. O ONS analisa o desempenho das interligações a partir dos estudos de fluxo de potência e
+estabilidade eletromecânica.
+Endereço na internet: http://www.ons.org.br 8 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+1.5.4.2. O ONS identifica as contingências críticas, suas consequências que não atendam aos critérios e as
+medidas necessárias para eliminá-las.
+1.5.4.3. O ONS realiza as seguintes atividades para os estudos das interligações:
+(a) determinação dos cenários de intercâmbio entre os subsistemas;
+(b) preparação dos casos base de fluxo de potência;
+(c) estudos de estabilidade angular para análise do desempenho dinâmico das interligações, para
+determinação dos limites de intercâmbio e avaliação das restrições locais dos subsistemas como
+exportador ou importador de potência; e
+(d) Outras atividades definidas no termo de referência.
+1.5.4.4. O ONS realiza os estudos das interligações de forma a obter os seguintes resultados principais:
+(a) limites de intercâmbio entre as diversas áreas geoelétricas do SIN;
+(b) fatores restritivos no estabelecimento de limites de intercâmbio entre os subsistemas;
+(c) desempenho elétrico das interligações inter-regionais e internacionais; e
+(d) análise do impacto do atraso ou da antecipação de obras nos intercâmbios inter-regionais.
+1.5.5. Estudos das DIT e das instalações de transmissão de âmbito próprio dos agentes de distribuição
+1.5.5.1. O ONS considera e inclui no PAR o resultado dos estudos referentes às DIT e às instalações de
+transmissão de âmbito próprio dos agentes de distribuição, inclusive LT e subestações, que possuam
+interesse sistêmico, ou seja, cuja implementação seja necessária para minimizar os custos de expansão e de
+operação do SIN, bem como para promover a utilização racional dos sistemas existentes.
+1.5.5.2. O ONS elabora os estudos com a participação dos agentes de transmissão e distribuição, com base
+nas mesmas diretrizes e critérios estabelecidos para análise da Rede Básica.
+1.5.5.3. O ONS avalia o dimensionamento das redes onde as DIT estão inseridas segundo os critérios de
+contingência adotados pela distribuidora envolvida. No caso de DIT compartilhadas entre distribuidoras, o
+ONS considera os critérios que proporcionem maior confiabilidade ao sistema.
+1.5.6. Estudos para dimensionamento da compensação de potência reativa no sistema de transmissão
+1.5.6.1. O ONS realiza as análises em regime permanente e em estudos de transitórios eletromecânicos, em
+condições normal e sob contingência, com o objetivo de:
+(a) fornecer recursos suficientes de controle de tensão em regimes permanente e dinâmico;
+(b) avaliar a compensação de potência reativa das novas LT propostas;
+(c) controlar as sobretensões provenientes das manobras de energização ou de rejeição de carga que
+envolvam as novas LT;
+(d) reduzir a necessidade de desligamentos de circuitos em situações de baixo carregamento nas LT; e
+(e) indicar os geradores que devem prestar serviços ancilares de compensação de potência reativa.
+Endereço na internet: http://www.ons.org.br 9 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+1.5.6.2. O ONS verifica e/ou ajusta o grau de compensação de potência reativa capacitiva série de tal modo
+que o sistema apresente o desempenho adequado em regime permanente e transitório, durante as
+condições normais de operação e sob contingência.
+1.5.6.3. Nos casos em que a abertura da LT é usada de forma sistemática para o controle adequado de tensão
+ou em que tais aberturas de LT possam vir a comprometer a confiabilidade do SIN, o ONS avalia a necessidade
+de compensação de potência reativa em derivação.
+1.5.6.4. O ONS avalia e, eventualmente recomenda no PAR, a necessidade de contratação de serviço ancilar
+de suporte de reativos pelas usinas, respaldada por parecer específico que caracterize os benefícios ao SIN
+da operação dessas unidades geradoras como compensadores síncronos.
+1.5.7. Análise de superação dos equipamentos
+1.5.7.1. Como parte integrante dos processos do PAR, o ONS coordena o processo de análise de superação
+das capacidades operativas de equipamentos, realizado por grupo específico.
+1.5.7.2. O ONS inicia a análise de superação dos equipamentos a partir dos estudos de curto-circuito,
+descritos no Submódulo 3.12 – Estudos de curto-circuito e conforme critérios estabelecidos, que fornecem:
+(a) as informações necessárias para identificação dos casos de superação por corrente simétrica de curto-
+circuito para disjuntores, chaves seccionadoras, transformadores de corrente (TC), bobinas de
+bloqueio e demais equipamentos de subestação; e
+(b) valores X/R calculados para as barras do SIN necessários para as análises de superação por crista da
+corrente de curto-circuito dos equipamentos, e a análise de superação dos disjuntores e TC, devido
+à evolução da constante de tempo da rede.
+1.5.7.3. Os agentes de transmissão realizam as análises de superação dos seus equipamentos, conforme
+critérios estabelecidos em [2], e encaminham ao ONS sua proposição de substituição dos equipamentos
+superados.
+1.5.7.4. O ONS analisa as proposições encaminhadas pelos agentes, considerando os aumentos das
+potências de curto-circuito previstos para os pontos de interligação entre agentes, de modo a minimizar a
+superação de equipamentos e instalações existentes. Caso necessário, pode ser admitida a utilização de
+equipamentos limitadores ou alteração na configuração do sistema, como, por exemplo, a abertura de
+barramentos caso não ocorra redução no nível de confiabilidade do sistema.
+1.5.7.5. O ONS emite o parecer final sobre as necessidades de substituição dos equipamentos e inclui as
+devidas recomendações no PAR.
+1.6. Resultados dos estudos
+1.6.1. O ONS apresenta no PAR os condicionantes dos estudos e a descrição das premissas e dados utilizados
+para elaboração do programa de obras, quais sejam:
+(a) previsão da demanda, com a descrição dos valores de carga adotados;
+(b) previsão da oferta em que devem ser apresentados o parque gerador considerado e as transferências
+contratadas para os intercâmbios internacionais; e
+(c) custos de referência, com base nos dados de custos de instalação de transmissão.
+Endereço na internet: http://www.ons.org.br 10 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+1.6.2. O ONS apresenta o programa de obras em instalações de transmissão e nas redes sob responsabilidade
+das distribuidoras que possam afetar o desempenho da Rede Básica.
+1.6.3. O programa de obras é constituído por indicações de ampliações, reforços e melhorias relacionadas à
+substituição dos equipamentos de grande porte – transformador, equipamento de compensação reativa ou
+LT – e os equipamentos relacionados, por motivo de obsolescência, vida útil esgotada, falta de peças de
+reposição, risco de danos às instalações, desgastes prematuros ou restrições operativas intrínsecas.
+1.6.4. O ONS determina o conjunto de obras proposto e destaca os principais aspectos do desempenho das
+diversas áreas do sistema, as obras necessárias para que o sistema atenda ao desempenho desejado, as ações
+recomendadas para implantação dessas obras, os cronogramas de implantação dessas obras e a projeção
+das estimativas dos investimentos relacionados.
+1.6.5. O ONS indica os locais que não atendem aos critérios estabelecidos nos Procedimentos de Rede e a
+data a partir da qual esse não atendimento passa a ocorrer.
+1.6.6. O ONS explicita as consequências de possível atraso das obras propostas no PAR.
+1.6.7. O ONS explicita no PAR os casos de instalações cujo carregamento sob contingências excede a
+capacidade operativa estabelecida no respectivo CPST.
+1.6.8. O ONS relaciona no PAR todos os elementos terminais que limitam o carregamento de LT ou
+transformadores existentes, para recomendação de ajuste ou substituição. O ONS considera os casos em que
+essa limitação de carregamento implique restrições de geração e explicita o caráter de urgência para a
+solução dos problemas identificados.
+1.6.9. Com base nos resultados fornecidos pelos estudos, o ONS avalia os riscos de não atendimento à carga
+no horizonte de estudos do PAR e apresenta os resultados por regiões geoelétricas.
+1.6.10. O ONS propõe novas instalações a serem integradas à Rede Básica e às DIT e apresenta justificativa
+técnica para cada instalação em consonância com o planejamento da expansão do sistema, no sentido de
+subsidiar o processo de licitação de concessão ou autorização dessas instalações.
+1.6.11. O ONS apresenta a análise do desempenho elétrico dos sistemas regionais em condições normal e
+sob contingência, do desempenho das interligações inter-regionais e internacionais, do dimensionamento de
+compensação de potência reativa, quando necessário, e análise de superação dos equipamentos.
+1.6.12. O ONS explicita as possíveis restrições de transmissão e as justificativas do programa de obras a ser
+implementado e realiza estudos de sensibilidade para avaliar as consequências de possíveis atrasos e/ou
+antecipações na implantação dos novos empreendimentos.
+1.6.13. O ONS apresenta no PAR os pontos onde tenham sido identificados baixos valores de fator de
+potência na transformação de fronteira entre a Rede Básica e a rede de distribuição e inclui recomendações
+aos agentes de transmissão e/ou distribuição envolvidos para eliminação dos problemas identificados.
+1.6.14. O ONS utiliza a Base de Preços da ANEEL [3] para registrar os custos das instalações de transmissão.
+1.6.14.1. Caso o custo de alguma instalação não esteja disponível na Base de Preços, o ONS solicita o acesso
+ao Banco de Preços dos agentes envolvidos com as instalações e/ou consulta os valores licitados
+anteriormente para equipamentos iguais ou semelhantes.
+1.7. Disponibilização do PAR
+1.7.1. O ONS disponibiliza a minuta do PAR e os dados utilizados nesses estudos aos agentes para sua
+avaliação e contribuições.
+Endereço na internet: http://www.ons.org.br 11 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+1.7.2. O ONS disponibiliza, aos agentes e setores interessados, a Base de Dados com as previsões de carga
+consolidadas, os casos de referência de fluxo de potência, os casos correspondentes aos principais despachos
+alternativos de geração analisados, a base de dados dos estudos de curto-circuito e os mapas das
+configurações elétricas do SIN, atualizados de acordo com o programa de obras e após consolidação dessas
+obras pelo MME.
+1.7.3. O ONS disponibiliza aos agentes os resultados obtidos dos estudos do PAR com as configurações, os
+dados, as premissas e as metodologias utilizadas de forma a possibilitar a reprodução das análises realizadas.
+1.8. Acompanhamento das obras recomendadas
+1.8.1. O ONS desenvolve ações de acompanhamento das diversas recomendações encaminhadas ao Poder
+Concedente e aos agentes com o objetivo de garantir a efetividade do PAR e com base nos documentos de
+fiscalização emitidos pelos órgãos responsáveis.
+1.8.2. O ONS acompanha o conjunto de obras contidas no PAR para incorporar mudanças dos condicionantes
+adotados nos estudos e fornecer uma visão do estágio atual das obras planejadas para o SIN, tais como:
+(a) contextos de oferta (geração e importação) e de demanda (mercado e exportação), sinalizados pelos
+agentes;
+(b) novas solicitações de acesso;
+(c) propostas de expansão por parte dos agentes;
+(d) restrições operativas identificadas na operação em tempo real e no planejamento e programação da
+operação elétrica e energética; e
+(e) instrumentos contratuais estabelecidos referentes ao uso e à conexão às instalações de transmissão,
+à autorização e à concessão para produção, à autorização para importação e exportação de energia
+e aos padrões de desempenho.
+1.8.3. Após o envio do PAR ao MME, o ONS acompanha a implantação das obras propostas no sentido de
+propor e desenvolver as ações necessárias junto ao MME, ANEEL e aos agentes.
+1.8.4. O ONS elabora e disponibiliza o Relatório de Autorizações e Licitações de Instalações da Rede Básica,
+que descreve as obras propostas para a Rede Básica com datas de entrada em operação previstas, as
+outorgas com respectivas datas de publicação, os agentes de transmissão envolvidos e os prazos contratuais.
+1.8.5. O ONS elabora e disponibiliza o Relatório de Novas Instalações da Rede Básica que descreve as
+instalações propostas por estado e nível de tensão, a localização de cada instalação, suas características
+básicas operativas, seu tipo de outorga com o número do documento correspondente e data de publicação,
+os agentes de transmissão envolvidos, a data proposta para entrada em operação, os prazos contratuais
+definidos pela ANEEL e a data provável de entrada em operação.
+1.8.6. O ONS elabora e disponibiliza o Relatório de Autorizações de Instalações nas Demais Instalações de
+Transmissão que descreve as obras propostas para as DIT, as outorgas com as respectivas datas de
+publicação, os agentes envolvidos, os prazos contratuais de entrada em operação, a data provável de entrada
+em operação e as datas de entrada em operação das obras já implantadas.
+1.8.7. O ONS insere na Base de Dados Técnica para divulgação as outorgas emitidas pelo Poder Concedente,
+as características principais das instalações, as datas de entrada em operação consolidadas em reuniões
+periódicas coordenadas pelo MME e as datas realizadas de entrada em operação.
+Endereço na internet: http://www.ons.org.br 12 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+1.8.8. O ONS elabora os mapas geoelétricos e, após a finalização do PAR, os disponibiliza aos agentes de
+transmissão, geração e distribuição por meio do sistema de informação geográfica cadastrais no SIN, que
+permite a visualização dinâmica dos dados cadastrados na Base de Dados Técnica sobre esses mapas.
+2. PLANO DA OPERAÇÃO ELÉTRICA (PEL)
+2.1. Obtenção e consolidação dos dados
+2.1.1. O agente fornece ao ONS e mantém atualizado, para cada horizonte de estudo, os dados dos
+equipamentos elétricos descritos no ANEXO B deste submódulo, os dados de carga descritos no
+Submódulo 3.5 e os dados descritos a seguir:
+(a) Agentes de transmissão:
+(1) parâmetros elétricos de equipamentos e instalações de sua propriedade existentes na Rede de
+Simulação;
+(2) cronograma e parâmetros elétricos das novas instalações previstas para o horizonte de estudo;
+(3) diagramas eletro-geográficos do sistema elétrico de sua propriedade;
+(4) equipamentos de compensação reativa e filtragem de harmônicos – reatores, capacitores,
+compensadores estáticos ou síncronos – conectados à Rede de Simulação, com indicação dos que
+são manobráveis e a especificação da potência de cada módulo que compõe a compensação
+informada;
+(5) limites de carregamento e restrições operativas em seus equipamentos representados na Rede de
+Simulação, em condições normais e de emergência em períodos contínuos e em períodos de curta
+e longa duração, de 30 minutos e de 4 horas, com indicação dos fatores limitantes e dos
+equipamentos restritivos; e
+(6) plano anual da manutenção de longa duração dos componentes da Rede de Operação previsto
+para o horizonte de estudo.
+(b) Agentes de geração detentor de usinas classificadas como Tipo I:
+(1) parâmetros elétricos de equipamentos e instalações de sua propriedade existentes na Rede de
+Simulação;
+(2) cronogramas e parâmetros elétricos das novas instalações previstas para o horizonte do estudo;
+(3) restrições operativas existentes em unidades geradoras, com indicação das causas;
+(4) informações adicionais sobre as características da usina e seu regime de operação;
+(5) plano anual da manutenção de longa duração das unidades geradoras previsto para o horizonte
+do estudo; e
+(6) usinas com despacho mínimo obrigatório por restrições de uso múltiplo da água.
+(c) Agentes de geração detentor de usinas classificadas como Tipo II-A e Tipo II-B conectadas à Rede
+Básica ou em instalações de transmissão como de Interesse Exclusivo de Centrais de Geração para
+Conexão Compartilhada (ICG):
+(1) disponibilidade de geração de potência ativa (MW) individualizada por usina;
+Endereço na internet: http://www.ons.org.br 13 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+(2) limites de absorção e de geração de potência reativa individualizados por usina;
+(3) informações adicionais sobre as características da usina e do seu regime de operação quando
+solicitado; e
+(4) restrições operativas existentes nas unidades geradoras, com indicação das causas, quando
+solicitado.
+(d) Agentes de geração detentor de usinas classificadas como Tipo II-B não conectadas à Rede Básica ou
+em ICG:
+(1) informações adicionais sobre as características da usina e seu regime de operação, quando
+solicitado; e
+(2) restrições operativas existentes em unidades geradoras, com indicação das causas, quando
+solicitado.
+(e) Agente de geração detentor de usinas classificadas como Tipo II-C, por meio do respectivo
+representante do conjunto de usinas a que elas pertencem:
+(1) parâmetros elétricos de equipamentos e instalações de sua propriedade, que fazem parte de um
+conjunto de usinas representado na Rede de Simulação;
+(2) cronogramas e parâmetros elétricos das novas instalações previstas para o horizonte do estudo
+conforme acompanhamento da ANEEL;
+(3) restrições operativas existentes em unidades geradoras que fazem parte do conjunto de usinas,
+com indicação das causas;
+(4) informações adicionais sobre as características da usina e seu regime de operação;
+(5) plano anual de manutenção de longa duração das unidades geradoras ou instalação de
+transmissão de uso exclusivo do conjunto, que resultem em indisponibilidades superiores a 10%
+da capacidade instalada total do mesmo, para o período do estudo;
+(6) usinas com despacho mínimo obrigatório por restrições resultantes do uso múltiplo da água,
+quando for o caso.
+(7) disponibilidade de geração de potência ativa (MW) individualizada por usina; e
+(8) limites de absorção e de geração de potência reativa individualizados por usina.
+(f) Agente de distribuição:
+(1) parâmetros elétricos de equipamentos e instalações de sua propriedade existentes na Rede de
+Simulação;
+(2) cronograma e parâmetros elétricos das novas instalações, previstas para o horizonte do estudo, a
+serem representados na Rede de Simulação;
+(3) diagrama eletro-geográfico do sistema elétrico de sua propriedade;
+(4) equipamentos de compensação reativa e filtragem de harmônicos – reatores, capacitores,
+compensadores estáticos ou síncronos – conectados à Rede de Simulação, com a indicação dos
+que são manobráveis, a especificação da potência de cada módulo que compõe a compensação
+informada e adicionalmente, as informações do sistema de controle para os estudos de
+planejamento da operação elétrica de médio prazo;
+Endereço na internet: http://www.ons.org.br 14 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+(5) faixas operativas e tensões desejadas nos barramentos de conexão com a Rede Básica, em
+condição normal e sob contingência;
+(6) limites de carregamento e restrições operativas em seus equipamentos representados na Rede de
+Simulação, em condições normais e de emergência em períodos contínuos e em períodos de curta
+duração e longa duração, de 30 minutos e de 4 horas, com indicação dos fatores limitantes e dos
+equipamentos restritivos; e
+(7) plano anual de manutenção de longa duração dos componentes da Rede de Operação e do sistema
+de distribuição que influenciam o desempenho da Rede de Operação.
+(8) os seguintes dados das usinas classificadas como Tipo II-B e conectadas na sua área de concessão:
+(i) disponibilidade de geração de potência ativa (MW) individualizada por usina; e
+(ii) limites de absorção e de geração de potência reativa individualizada por usina.
+(g) Consumidores livres:
+(1) ajustes dos equipamentos de proteção como relés de subtensão, de sobretensão, de
+subfrequência, de sobrefrequência etc.;
+(2) faixas operativas e tensões desejadas nos barramentos de conexão com a Rede Básica, em
+condição normal e sob contingência; e
+(3) equipamentos de compensação reativa e de filtragem de harmônicos da instalação, com a
+indicação dos que são manobráveis.
+2.1.2. O ONS realiza a consolidação dos dados e informações enviadas pelos agentes de operação.
+2.1.2.1. Caso seja identificada alguma inconsistência nos dados fornecidos pelos agentes, o ONS comunica
+imediatamente ao responsável pela informação para eventual retificação do dado.
+2.2. Elaboração do Termo de Referência
+2.2.1. O ONS é responsável pela elaboração do termo de referência para os estudos de planejamento da
+operação elétrica e a participação dos agentes de operação antes do início de cada estudo é facultativa.
+2.2.2. O ONS elabora o termo de referência para os estudos de planejamento da operação elétrica com o
+escopo, a forma de execução, o cronograma das atividades, a descrição geral do estudo, os critérios gerais e
+a definição das análises a serem realizadas.
+2.2.3. O ONS define o escopo dos estudos de planejamento da operação elétrica, considerando os seguintes
+aspectos:
+(a) as situações operativas de transferências de energia entre regiões ou subsistemas a serem
+analisados;
+(b) as situações de operação de intercâmbios a serem considerados nos casos de referência;
+(c) as configurações a serem analisadas, considerando o cronograma dos equipamentos e as instalações
+de transmissão e geração previstas;
+(d) os perfis de cargas que melhor evidenciam as particularidades operativas de cada sistema;
+(e) o conjunto de simulações que devem ser analisadas para avaliação do desempenho do sistema;
+Endereço na internet: http://www.ons.org.br 15 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+(f) a necessidade de avaliar atributos adicionais aos constantes nos Procedimentos de Rede, quando for
+o caso; e
+(g) o detalhamento dos resultados a serem apresentados, a saber:
+(1) medidas operativas para que a operação atenda aos padrões e critérios estabelecidos nos
+Procedimentos de Rede;
+(2) compatibilização das restrições elétricas com as políticas energéticas que visam a assegurar o
+menor custo da operação;
+(3) limites de transmissão entre regiões do SIN;
+(4) desempenho das áreas geoelétricas do sistema, em condição normal e sob contingência;
+(5) despachos de geração térmica para atendimento à segurança elétrica;
+(6) análise do desempenho das interligações internacionais;
+(7) nos estudos de médio prazo, ações para solucionar os problemas encontrados e/ou indicação da
+necessidade de antecipação de equipamentos e instalações de transmissão e geração; e
+(8) análise do atendimento ao despacho mínimo das usinas informadas pelos agentes de geração.
+2.3. Montagem dos casos de referência
+2.3.1. O ONS elabora e disponibiliza os casos de referência aos agentes de operação com base e nos prazos
+do termo de referência para os estudos de planejamento da operação elétrica.
+2.3.1.1. Caso necessário, por determinação do ONS ou solicitação de agente, o ONS prepara casos de fluxos
+de potência específicos.
+2.4. Simulações e análises do sistema
+2.4.1. O ONS realiza o processamento das simulações e análises do sistema a partir dos casos de referência
+e utiliza programas e modelos computacionais de análise de redes, estabilidade eletromecânica e
+estabilidade dinâmica, conforme Submódulo 2.3.
+2.4.2. O ONS realiza simulações e análises com objetivo de avaliar o desempenho do sistema, em condições
+normais de operação e sob contingências, e verificar o atendimento aos padrões definidos nos
+Procedimentos de Rede, consolidadas no Submódulo 2.3.
+2.4.3. O ONS simula e analisa as situações de contingências simples, ou seja, a perda de um único elemento
+do sistema elétrico, seja linha de transmissão, transformador, banco de transformador, unidade geradora,
+elo de corrente contínua (CC) ou equipamento de controle de tensão, tal como reator, capacitor,
+compensador síncrono ou compensador estático.
+2.5. Elaboração dos estudos
+2.5.1. O ONS elabora o PEL que apresenta os resultados das análises realizadas nos estudos elétricos,
+contendo nas suas principais conclusões:
+(a) o acompanhamento das ações indicadas no estudo do ciclo anterior;
+(b) os problemas identificados nas áreas geoelétricas e/ou nas interligações regionais e internacionais
+referentes ao não atendimento dos padrões definidos nos Procedimentos de Rede ao longo do
+Endereço na internet: http://www.ons.org.br 16 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+horizonte de estudo, bem como as ações para solucionar os problemas apresentados, para as
+condições normais de operação ou sob contingências;
+(c) os reflexos da incorporação dos novos empreendimentos no desempenho e na operação do SIN, de
+acordo com o cronograma de equipamentos e instalações de transmissão e geração;
+(1) análises de sensibilidade são apresentadas para avaliar as consequências e/ou benefícios de
+possíveis atrasos e/ou antecipações na implantação dos novos empreendimentos.
+(d) as estratégias operativas a serem detalhadas nos estudos para a elaboração das Diretrizes Operativas
+para a Operação Elétrica com Horizonte Quadrimestral, a saber:
+(1) limites de transmissão nas interligações regionais;
+(2) limites de transmissão para áreas geoelétricas;
+(3) controle de tensão e carregamento;
+(4) despachos de geração térmica para atendimento à segurança elétrica; e
+(5) restrições de geração térmica, hidráulica ou outras, nas usinas das diversas bacias.
+(e) as recomendações decorrentes do não-atendimento aos padrões definidos nos Procedimentos de
+Rede, nas quais são indicadas ações a serem realizadas até que entrem em operação as ampliações
+e/ou reforços previstos. Essas recomendações contêm:
+(1) proposição de medidas provisórias ou de antecipação dos reforços técnica e economicamente
+viáveis, para que o sistema atenda aos padrões de desempenho e aos critérios definidos nos
+Procedimentos de Rede, até a implantação das ampliações e reforços previstos;
+(2) indicação da necessidade de revisão e/ou concepção de novos Sistemas Especiais de Proteção –
+SEP;
+(3) indicação da necessidade de revisão e/ou concepção de novas medidas operativas para solução
+dos problemas identificados ao longo do estudo;
+(4) indicação da necessidade de criação de grupos de trabalho específicos com o propósito de
+apresentar soluções para os problemas identificados que exijam maior aprofundamento;
+(5) indicação, sob o ponto de vista de atendimento elétrico, do melhor período para manutenções de
+longa duração de componentes do sistema de transmissão e de unidades geradoras, de acordo
+com a análise dos cronogramas informados para o horizonte do estudo; e
+(6) identificação da necessidade de revisão de ajustes dos controladores do SIN.
+2.5.2. Após a emissão do PEL, o ONS realiza estudos específicos por demanda do sistema quando houver
+alteração nas premissas que possam mudar significativamente o resultado do PEL já emitido, ou quando
+houver previsão de entrada em operação de equipamentos e instalação de transmissão que tragam impactos
+à operação do SIN.
+2.6. Disponibilização dos estudos e acompanhamento das ações propostas
+2.6.1. O ONS emite e disponibiliza os produtos do planejamento da operação elétrica de médio prazo aos
+agentes de operação.
+2.6.2. O ONS realiza em cada estudo uma avaliação do atendimento às ações propostas no estudo anterior,
+com o objetivo de ratificar ou redefinir a sistemática necessária à solução dos problemas identificados.
+Endereço na internet: http://www.ons.org.br 17 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+3. REFERÊNCIAS
+[1] Resolução Normativa ANEEL nº 443, de 26 de julho de 2011.
+[2] Nota Técnica ONS nº 0048/2014 e suas revisões – Critérios para Análise de Superação de Equipamentos
+e Instalações de Alta Tensão, Operador Nacional do Sistema Elétrico – ONS.
+[3] Banco de Preços de Referência da Agência Nacional de Energia Elétrica – ANEEL, homologado pela
+Resolução Homologatória nº 758, de 06 de janeiro de 2009.
+4. ANEXOS
+ANEXO A – Dados necessários para realização dos estudos do PAR
+ANEXO B – Dados necessários para realização dos estudos do PEL
+Endereço na internet: http://www.ons.org.br 18 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+ANEXO A – Dados necessários para realização dos estudos do PAR
+A.1 UNIDADE GERADORA
+IDENTIFICAÇÃO
+Subestação elevadora
+Coordenadas geográficas da subestação
+Subestação onde se dá a conexão à rede de transmissão ou distribuição
+No operacional
+Fabricantes da(s) turbina(s) e do(s) gerador(es)
+Norma de especificação
+DADOS GERAIS
+Potência nominal (MVA de placa)
+Potência efetiva (máxima em regime contínuo - MVA)
+N° de unidades geradoras
+Frequência nominal (Hz)
+Faixa operativa contínua de frequência
+Faixa operativa temporizada de frequência
+Faixa operativa de tensão nos terminais da máquina (kV) (máxima / mínima)
+Faixas de operação proibidas de cada conjunto turbina-gerador em virtude de vibrações mecânicas,
+ressonâncias, abertura de válvulas, poluição etc.
+Curva de capabilidade (para tensões mínima, nominal e máxima)
+Curva de saturação
+Diagrama em blocos do sistema de excitação (excitatriz, regulador de tensão), do sinal estabilizador e do
+sistema de regulação de velocidade, com a inclusão dos limitadores existentes, no domínio da frequência,
+representado através das funções de transferência, com a respectiva topologia.
+Devem ser fornecidos os valores dos parâmetros, bem como as suas faixas de ajuste e uma descrição
+sucinta dos seus significados.
+DADOS DA MÁQUINA SÍNCRONA
+Corrente nominal (A)
+Tensão nominal (kV)
+Número de pólos
+Endereço na internet: http://www.ons.org.br 19 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+Constante de inércia – H (MWs / MVA)
+Velocidade síncrona (rpm)
+Constante de tempo transitória em vazio de eixo direto – T’ (s)
+do
+Constante de tempo subtransitória em vazio de eixo direto – T” (s)
+do
+Constante de tempo transitória em vazio de eixo em quadratura – T’ (s)
+qo
+Constante de tempo subtransitória em vazio de eixo quadratura – T'' (s)
+qo
+Reatância síncrona de eixo direto não saturada – X (pu)
+d
+Reatância transitória de eixo direto não saturada – X’ (pu)
+d
+Reatância subtransitória de eixo direto não saturada – X’’ (pu)
+d
+Reatância síncrona de eixo em quadratura não saturada – X (pu)
+q
+Reatância transitória de eixo em quadratura não saturada – X’ (pu)
+q
+Reatância subtransitória de eixo em quadratura não saturada - X’’ (pu)
+q
+Reatância de dispersão não saturada – X (pu)
+L
+Reatância de sequência negativa não saturada – X (pu)
+2
+Reatância de sequência zero não saturada – X (pu)
+0
+Resistência da armadura em corrente alternada – R (pu)
+a
+Resistência da armadura de sequência negativa – R (pu)
+2
+Resistência da armadura de sequência zero – R (pu)
+0
+Resistência de aterramento – R (Ω)
+t
+Reatância de aterramento – X (Ω)
+t
+Relação de curto-circuito – RCC
+SUBESTAÇÃO ELEVADORA
+Parâmetros do transformador elevador
+Reatância (pu)
+Faixa de taps e valor operativo
+LINHAS DE TRANSMISSÃO
+Devem ser informados os dados descritos no item II deste anexo para a(s) linha(s) de transmissão entre
+a subestação elevadora e a subestação de conexão à rede de transmissão ou de distribuição
+Endereço na internet: http://www.ons.org.br 20 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+A.2 LINHA DE TRANSMISSÃO
+IDENTIFICAÇÃO
+Subestação de
+Subestação para
+Coordenadas geográficas da subestação de
+Coordenadas geográficas da subestação para
+Coordenadas geográficas das torres
+Número do circuito
+Normas de projeto
+DADOS GERAIS
+Tensão máxima de operação em regime permanente (kV)
+Extensão da linha (km)
+Vão médio (m)
+Cabos Fase
+Tipo da estrutura predominante, com a indicação das distâncias dos grupamentos das fases ao eixo da
+torre e as distâncias à torre; a altura média dos cabos fase; a altura dos cabos no meio do vão típico, a
+distância ao eixo da torre, as configurações de condutores (tipo do condutor, bitola, espaçamento entre
+subcondutores etc) e cadeias (tipo, n° de isoladores para a cadeia típica etc).
+Capacidade de carregamento - Informar capacidade de curta duração e de longa duração
+Norma técnica de referência
+Capacidade operativa (A) (CPST)
+Condições ambientais de projeto
+Temperatura ambiente média (°C)
+Radiação Solar (W/m2)
+Velocidade do vento (m/s)
+PARÂMETROS ELÉTRICOS
+Impedância série da LT, em 60 Hz
+Resistência de sequência positiva (Ω/km)
+Reatância de sequência positiva (Ω/km)
+Endereço na internet: http://www.ons.org.br 21 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+Capacitância de sequência positiva (nF/km)
+Resistência de sequência zero (Ω/km)
+Reatância de sequência zero (Ω/km)
+Capacitância de sequência zero (nF/km)
+Impedância mútua entre trechos de linhas paralelas
+Reatância de sequência zero (Ω/km)
+Distância(s) entre eixos das torres de circuitos paralelos em uma mesma faixa de passagem (m)
+Comprimento(s) dos trechos de circuitos paralelos (km)
+Resistência, reatância e susceptância equivalentes série da linha, com a inclusão da correção
+hiperbólica para seu comprimento, na base de 100 MVA e na tensão nominal do sistema
+Resistência (%)
+Reatância (%)
+Susceptância (%)
+CONFIABILIDADE PARA DIT
+Intensidade de falha (taxa de falha - ocorrências/ano)
+Tempo médio de reparo (horas)
+A.3 TRANSFORMADOR
+IDENTIFICAÇÃO
+Subestação
+Número operacional
+Fabricante
+Norma de especificação
+DADOS GERAIS
+Tipo do transformador
+Autotransformador, banco monofásico, defasador, conversor etc(1)
+Tensões nominais (kV)
+Alta tensão
+Endereço na internet: http://www.ons.org.br 22 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+Baixa tensão
+Terciário
+Potência nominal (MVA)
+Potências por estágio de resfriamento NBR 5356 (2)
+Alta tensão (MVA)
+Baixa tensão (MVA)
+Terciário (MVA)
+Posição do comutador de derivação em carga e dos taps fixos
+Mínimo, nominal, máximo e intermediários
+Ligação dos enrolamentos (estrela aterrada, estrela isolada, triângulo)
+Alta tensão
+Baixa tensão
+Terciário
+Impedâncias (base e tensão nominal do equipamento)
+Alta tensão - Baixa tensão (%)
+Alta tensão - terciário (%)
+Baixa tensão - terciário (%)
+Limites de carregamento (NBR 5416)
+Normal
+Curta duração
+Classe térmica
+Possui unidade de reserva? sim/não(3)
+CONFIABILIDADE PARA AS DIT
+Intensidade de falha (taxa de falha - ocorrências/ano)
+Tempo médio de reparo (horas)
+(1) Se defasador, informar limites de defasagem.
+(2) Os estágios de resfriamento poderão ser adequados conforme o caso: ON, AN, AF, etc. Quando aplicável,
+os 2° e 3° estágios de resfriamento deverão ser informados.
+(3) Se houver unidade de reserva, informar o tempo estimado de substituição.
+Endereço na internet: http://www.ons.org.br 23 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+A.4 REATOR
+IDENTIFICAÇÃO
+Subestação
+Número operacional
+Fabricante
+Norma de especificação
+DADOS GERAIS
+Tensão nominal do equipamento (kV)
+Potência nominal (Mvar)
+Ligação trifásica do banco (estrela aterrada, estrela com neutro isolado, triângulo etc)
+Tipo de aterramento do neutro (solidamente aterrado, com reatância etc)
+Localização do reator (linha de transmissão, barramento etc)
+Manobrável por disjuntor? sim / não
+Possui unidade de reserva? sim / não
+A.5 CAPACITOR DERIVAÇÃO
+IDENTIFICAÇÃO
+Subestação
+Número operacional
+Fabricante
+Norma de especificação
+DADOS GERAIS
+Tensão nominal do equipamento (kV)
+Potência nominal (Mvar)
+Ligação trifásica do banco (estrela, neutro aterrado ou isolado, triângulo etc)
+A.6 CAPACITOR SÉRIE
+IDENTIFICAÇÃO
+Subestação
+Endereço na internet: http://www.ons.org.br 24 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+Linha de transmissão
+No operacional
+Fabricante
+Norma de especificação
+DADOS GERAIS
+Tensão nominal do equipamento (kV)
+Tensão máxima nominal, entra terminais do equipamento (kV - eficaz)
+Potência nominal (Mvar)
+Corrente nominal (A)
+Reatância nominal (Ω)
+Capacidade de sobrecarga (curva I x t)
+A.7 Thyristor Controlled Series Compensator (TCSC)
+IDENTIFICAÇÃO
+Subestação
+Linha de transmissão
+No operacional
+Fabricante
+Norma de especificação
+DADOS GERAIS
+Tensão nominal do equipamento (kV)
+Tensão máxima nominal, entre terminais do equipamento (kV - eficaz)
+Potência nominal (Mvar)
+Corrente nominal (A - eficaz)
+Reatância nominal (Ω)
+Capacidade de sobrecarga (curva I x t)
+Diagrama de blocos do controle, representado através das funções de transferência, com a respectiva
+topologia. Devem ser fornecidos os valores dos parâmetros, bem como as suas faixas de ajuste e uma
+descrição sucinta dos seus significados.
+A.8 COMPENSADOR ESTÁTICO
+Endereço na internet: http://www.ons.org.br 25 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+IDENTIFICAÇÃO
+Subestação
+No operacional
+Fabricante
+Norma de especificação
+DADOS GERAIS
+Tipo (RCT, CCT, RCT/CCT, Núcleo saturável)
+Tensão nominal do equipamento (kV)
+Faixa operativa de tensão (kV)
+Faixa operativa de potência reativa (Mvar)
+Corrente nominal (A - eficaz)
+Reatância nominal (Ω)
+Capacidade de sobrecarga (curva I x t)
+Estatismo
+Tipo de ligação
+Número de pulsos
+Transformador elevador? sim/não(1)
+Diagrama de blocos do controle, representado através das funções de transferência, com a respectiva
+topologia. Devem ser fornecidos os valores dos parâmetros, bem como as suas faixas de ajuste e uma
+descrição sucinta dos seus significados.
+(1) Caso exista transformador elevador, informar os dados constantes na tabela específica correspondente
+a esse equipamento.
+A.9 COMPENSADOR SÍNCRONO
+IDENTIFICAÇÃO
+Subestação
+No operacional
+Fabricante
+Norma de especificação
+DADOS GERAIS
+Potência nominal (MVA)
+Endereço na internet: http://www.ons.org.br 26 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+Faixa operativa de tensão (kV) (máxima / mínima)
+Faixa operativa de potência reativa (Mvar)
+Corrente máxima de estator (A)
+Corrente de campo nominal (A)
+Corrente de campo máxima (A)
+Diagrama em blocos do sistema de excitação (regulador de tensão e excitatriz), com a inclusão dos
+limitadores existentes, no domínio da frequência, representado através das funções de transferência,
+com a respectiva topologia. Devem ser fornecidos os valores dos parâmetros, bem como as suas faixas
+de ajuste e uma descrição sucinta dos seus significados.
+Curva de saturação
+Inércia da máquina (parte girante) - GD2 (t.m2)
+Constante de inércia – H (MWs / MVA)
+Velocidade síncrona (rpm)
+Número de pólos
+Constante de tempo transitória em vazio de eixo direto – T’ (s)
+do
+Constante de tempo subtransitória em vazio de eixo direto – T” (s)
+do
+Constante de tempo transitória em vazio de eixo em quadratura – T’ (s)
+qo
+Constante de tempo subtransitória em vazio de eixo quadratura – T'' (s)
+qo
+Reatância síncrona de eixo direto não saturada – X (pu)
+d
+Reatância transitória de eixo direto não saturada – X’ (pu)
+d
+Reatância subtransitória de eixo direto não saturada – X’’ (pu)
+d
+Reatância síncrona de eixo em quadratura não saturada – X (pu)
+q
+Reatância transitória de eixo em quadratura não saturada – X’ (pu)
+q
+Reatância subtransitória de eixo em quadratura não saturada - X’’ (pu)
+q
+Reatância de Poitier - X (pu)
+p
+Reatância de dispersão não saturada – X (pu)
+L
+Reatância de sequência negativa não saturada – X (pu)
+2
+Reatância de sequência zero não saturada – X (pu)
+0
+Resistência da armadura em corrente alternada – R (pu)
+a
+Resistência da armadura de sequência negativa – R (pu)
+2
+Endereço na internet: http://www.ons.org.br 27 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+Resistência da armadura de sequência zero – R (pu)
+0
+Resistência de aterramento – R (Ω)
+t
+Reatância de aterramento – X (Ω)
+t
+Relação de curto-circuito – RCC
+A.10 DISJUNTOR
+IDENTIFICAÇÃO
+Subestação
+Número operacional
+Fabricante
+Tipo
+Norma de especificação
+DADOS GERAIS
+Tensão nominal do equipamento (kV)
+Circuito manobrado (linha, transformador, reator, capacitor, vão de transferência etc)
+Corrente nominal (A)
+Capacidade de interrupção nominal de curto-circuito
+Simétrica (kA - eficaz)
+Assimétrica (kA - eficaz)
+Tempos típicos dos contatos principais
+Abertura (ms)
+Fechamento (ms)
+A.11 TRANSFORMADOR DE CORRENTE
+IDENTIFICAÇÃO
+Subestação
+Fabricante
+Tipo
+Endereço na internet: http://www.ons.org.br 28 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+Norma de especificação
+DADOS GERAIS
+Tensão nominal do equipamento (kV)
+Circuito (linha, transformador, reator, capacitor, disjuntor, vão de transferência etc)
+Corrente nominal (A)
+Constante de tempo da componente contínua da corrente de curto-circuito (ms)
+Fator térmico nominal
+Corrente máxima de curto-circuito simétrica (kA - eficaz)
+Valor máximo da corrente de curto-circuito assimétrica (kA - crista)
+A.12 BOBINA DE BLOQUEIO
+IDENTIFICAÇÃO
+Subestação
+Linha de transmissão
+Fabricante
+Tipo
+Normas Técnicas de referência
+DADOS GERAIS
+Tensão nominal do equipamento (kV)
+Corrente nominal (A - eficaz)
+Capacidade de sobrecarga (A - eficaz / Horas)
+Capacidade para correntes de curto-circuito simétricas (kA - eficaz)
+A.13 TRANSFORMADOR DE POTENCIAL
+IDENTIFICAÇÃO
+Subestação
+Localização: linha de transmissão, barramento etc
+Fabricante
+Endereço na internet: http://www.ons.org.br 29 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+Tipo
+Norma de especificação
+DADOS GERAIS
+Tensão nominal do equipamento (kV - fase-fase, eficaz)
+A.14 SECCIONADOR
+IDENTIFICAÇÃO
+Subestação
+Localização (linha, transformador, reator, capacitor, vão de transferência etc)
+Número operacional
+Fabricante
+Tipo
+Norma de especificação
+DADOS GERAIS
+Tensão nominal do equipamento (kV)
+Corrente nominal (A)
+Capacidade para correntes de curto-circuito
+Simétrica (kA - eficaz)
+Assimétrica (kA - crista)
+A.15 DADOS DE ELOS DE CORRENTE CONTÍNUA
+IDENTIFICAÇÃO
+Características básicas de elos de corrente contínua
+Potência nominal (MW)
+Tipo do elo CCAT
+Diagramas elétricos dos sistemas CA (retificador e inversor) e do sistema CC
+Linhas de corrente contínua
+Tensão nominal (kV)
+Comprimento (km)
+Endereço na internet: http://www.ons.org.br 30 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+IDENTIFICAÇÃO
+Resistências CC (Ω na temperatura ºC)
+Corrente nominal (A)
+Sobrecarga máxima (A)
+Conversores
+Número de pulsos
+Número de unidades conversoras
+Dados do transformador (ou banco) do conversor
+Tipos de conexão no primário e secundário do transformador (ou banco)
+Número de enrolamentos por unidade
+Tensões nominais dos enrolamentos (kV)
+Capacidades nominais dos enrolamentos (MVA)
+Derivações (número, passos e enrolamento)
+Reatância de comutação (% - indicar base em MVA)
+Diagrama de conexões
+Reatância dos transformadores (indicar base em MVA)
+Linhas de eletrodo
+Comprimento (km)
+Resistências CC (Ω)
+Eletrodo
+Coordenadas geográficas
+Latitude
+Longitude
+Resistência remota em relação a terra (Ω)
+Filtros CC
+Tipo
+Diagrama esquemático e parâmetros
+Compensação reativa
+Endereço na internet: http://www.ons.org.br 31 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+IDENTIFICAÇÃO
+Filtros CA (Mvar): arranjo físico, diagramas elétricos, características dos elementos C (µF), L (mH) e R
+(Ω) e localização
+Banco de capacitores (Mvar)
+Compensadores síncronos (Mvar – sobrexcitado / subexcitado)
+Outros
+Tipo: Máximo capacitivo (Mvar) Máximo Indutivo (Mvar)
+Reatores de alisamento
+Indutância (mH)
+Sistemas de controle
+Sistemas de controle geral e suplementares (ex: controle suplementar para estabilidade
+eletromecânica e de tensão da rede elétrica etc)
+Sistemas de comunicação
+Sistemas de comunicação entre retificador e inversor
+Sistemas de proteção
+Critérios de sobretensão - Critério de sobretensão em caso de bloqueio – critérios de interação com
+conversores próximos (transmitâncias críticas)
+Endereço na internet: http://www.ons.org.br 32 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+A.16 CENTRAIS EÓLICAS
+DADOS GERAIS
+Subestação coletora
+Coordenadas geográficas da subestação coletora
+Subestação da Rede Básica onde se dá a conexão à rede de transmissão ou de distribuição
+Número de turbina/geradores (por tipo)
+Potência nominal instalada total (MW) (por tipo)
+Montante de uso a contratar - MUST (MW)
+Fator de Capacidade (%)
+Potência máxima injetável na rede pela central Eólica (MW)
+LINHAS DE TRANSMISSÃO
+Devem ser informados os dados descritos no item II deste anexo para a(s) linha(s) de transmissão entre
+a subestação elevadora e a subestação de conexão à rede de transmissão ou de distribuição
+TURBINAS
+Fabricante / tipo
+Potência nominal (MW)
+Controle de potência
+Tipo (stall ou pitch)
+Velocidade de resposta (MW/s)
+Velocidade do vento para entrada em serviço (cut - in) (m/s)
+e potência gerada correspondente (MW)
+Velocidade do vento para saída de serviço (cut - out) (m/s)
+e potência gerada correspondente (MW)
+Momento de inércia da massa girante (MD2/4) kg.m2
+Curva CP x Lambda
+Curva de potência (potência x velocidade do vento)
+ACOPLAMENTO TURBINA/GERADOR - CAIXA DE ENGRENAGEM E/OU EIXO
+Coeficiente de rigidez do eixo (G/T)
+PU de conjugado/ rad. elétrico
+Endereço na internet: http://www.ons.org.br 33 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+GERADORES (no caso de gerador síncrono de velocidade variável com conversor)
+Fabricante / Tipo
+Potência nominal (MW)
+Potência Aparente (MVA)
+Tensão nominal (para estator e rotor)(1) e limites de variação da tensão terminal (V,%)
+Corrente nominal (para estator e rotor) (1) (A)
+Frequência nominal e faixa de frequência (Hz)
+Número de pólos, indicar se tem 2 números de pólos
+Velocidade síncrona, para cada número de pólos (rpm)
+Velocidade de rotação na potência nominal (faixa) (rpm)
+Momento de inércia (MD2/4) (kg.m2)
+Coeficiente de amortecimento PU de conjugado/PU de velocidade
+Corrente em vazio (A)
+Corrente de partida (A)
+Corrente máxima de ligação à rede (A)
+Potência reativa absorvida em vazio (kvar)
+Potência reativa absorvida na potência nominal (kvar)
+Fator de potência
+Carregamento em % da potência ativa nominal (25, 50, 75, 100)
+Fator de potência, sem compensação (cos )
+Fator de potência, com compensação (cos )
+Resistências e reatâncias do esquema equivalente (em pu)
+Rs (pu)
+Rr (pu)
+Xs (pu)
+Xr (pu)
+Xm (pu)
+Esquema de partida
+Endereço na internet: http://www.ons.org.br 34 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+Rotor do gerador
+- Tipo (de gaiola, com enrolamento e anéis para controle da corrente)
+(1) aerogeradores duplamente alimentados.
+Endereço na internet: http://www.ons.org.br 35 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+ANEXO B - Dados necessários para realização dos estudos do PEL
+B.1 DADOS DE GERADORES E COMPENSADORES SÍNCRONOS
+(a) Dados gerais:
+(1) Usina/Subestação.
+(2) Números das barras em que as unidades geradoras da usina estão representadas, nos dados de
+fluxo de potência.
+(3) Localização geográfica: Município e Unidade da Federação.
+(4) Empresa proprietária.
+(5) Data de entrada em operação de cada unidade (data prevista, no caso de novas unidades).
+(6) Tipo de usina (hidráulica, térmica, eólica etc).
+(7) Combustível.
+(8) Número de unidades geradoras da usina.
+(9) Potência nominal e efetiva, por unidade.
+(10) Valor de geração inflexível da usina, no caso de usinas térmicas.
+(11) Tensão nominal em kV.
+(12) Faixa operativa de tensão em kV.
+(13) Faixas operativas de potência ativa por unidade em MW.
+(14) Faixas operativas de potência reativa por unidade em Mvar.
+(15) Curvas de capabilidade (para tensões mínima, 1.0 pu e máxima).
+(16) Possibilidade de operação de cada unidade como compensador síncrono e tempo necessário para
+comutação síncrono/gerador.
+(17) Consumo por unidade na operação como gerador e como compensador síncrono.
+(18) Outras limitações operativas.
+(b) Dados adicionais
+(1) No caso de usinas futuras, devem ser informados os parâmetros de projeto especificados ou,
+quando forem ainda desconhecidos, os parâmetros típicos considerados pela empresa em seus
+estudos.
+Endereço na internet: http://www.ons.org.br 36 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+B.2 MÁQUINAS SÍNCRONAS
+B.2.1 A Tabela 1 do Anexo B apresenta os dados constantes na Planilha de Dados de Geradores.
+Tabela 1 do Anexo B - Dados de Máquinas Síncronas
+Parâmetros Denom. Unidade Valor
+Nome
+Número(s) da(s) unidade(s) U -
+Potência nominal S MVA
+Potência ativa nominal P MW
+Potência ativa máxima PM MW
+Fator de potência nominal cos  -
+Tensão nominal Vn kV
+Tensão máxima Vmax kV
+Tensão mínima Vmin kV
+Limite inferior de operação P MW
+ou faixas de operação não permitidas P1-P2 MW
+B.3 LINHAS DE TRANSMISSÃO
+(a) Denominação;
+(b) Números das barras terminais nos dados de fluxo de potência. No caso de linhas representadas por
+mais de um ramo, números das barras “de” e “para” de cada ramo que compõe a LT;
+(c) Tipo de Linha de Transmissão – LT: (aérea, subterrânea, LPNE etc.);
+(d) Data de entrada em operação (data prevista, no caso de linhas futuras);
+(e) Número do circuito, no caso de LT em paralelo;
+(f) Comprimento em km;
+(g) Tensão nominal em kV;
+(h) Tensão de operação em kV;
+(i) Capacidade nominal de projeto em A;
+(j) Limites térmicos em A, com e sem sol, por estação do ano;
+(k) Limites de regime normal em A e fatores limitantes;
+(l) Limites de emergência em A e fatores limitantes;
+(m) Resistência, reatância e susceptância de sequências positiva, percentual, na base de 100 MVA e
+Endereço na internet: http://www.ons.org.br 37 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+tensão nominal do sistema;
+(n) Tipo de torre típica com sua configuração e dimensões;
+(o) Número de circuitos por torre;
+(p) Se possuem compensação série, impedância ou potência da compensação série, em Mvar; e
+(q) Se têm reatores de linha, descrição dos reatores: tipo (manobrável, fixo etc.), potência (Mvar) e
+localização.
+B.4 SUBESTAÇÕES
+(a) Denominação;
+(b) Números das barras que representam a subestação nos dados de fluxo de potência;
+(c) Localização geográfica: Município e Unidade da Federação;
+(d) Empresa proprietária;
+(e) Data de entrada em operação;
+(f) Configuração dos barramentos: barra dupla, disjuntor e meio etc.;
+(g) Tensões nominais em kV;
+(h) Tensões mínimas operáveis por nível de tensão, em kV e em pu na base do sistema, especificando os
+fatores limitantes;
+(i) Tensões máximas operáveis por nível de tensão, em kV e em pu na base do sistema, especificando
+fatores limitantes;
+(j) Faixas operativas de tensão para cada condição de carga em kV e em pu na base do sistema (mínimo
+e máximo): pesada, média, leve e mínima;
+(k) Reatores e capacitores, fixos e manobráveis, conectados a cada barra da subestação: número da
+unidade e identificação da unidade pelo proprietário, conforme informado nos dados de reatores e
+capacitores; e
+(l) Diagrama unifilar da subestação.
+B.5 TRANSFORMADORES
+(a) Subestação;
+(b) Números das barras terminais e da barra fictícia, se houver, nos dados de fluxo de potência;
+(c) Data de entrada em operação (data prevista, no caso de transformadores futuros);
+(d) Número da unidade;
+(e) Identificação da unidade pelo proprietário;
+(f) Tipo de transformador: autotransformador, trifásico, banco monofásico etc.;
+(g) Tipo de operação: elevador de usina, abaixador, defasador etc.;
+(h) Se defasador, quais as defasagens possíveis;
+(i) Número de enrolamentos;
+(j) Tensões nominais em kV: Primário, Secundário e Terciário;
+Endereço na internet: http://www.ons.org.br 38 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+(k) Potências por estágios de ventilação, em MVA: Primário, Secundário e Terciário;
+(l) Impedâncias de sequência positiva, em porcento, na base de 100 MVA e tensão nominal do sistema;
+(m) Resistência e Reatâncias P, S, T;
+(n) Tipos de derivações por enrolamento (fixa, comutação em carga - LTC etc.);
+(o) Enrolamentos com LTC, operando como manual ou automático;
+(p) Tabela de derivações por enrolamento;
+(q) Posição;
+(r) Tensão em kV;
+(s) Relação dos taps em pu: - Nominal, nas bases do transformador e nas bases do sistema;
+(t) Possíveis limitações;
+(u) Descrição da limitação;
+(v) Se a limitação é temporária ou definitiva;
+(w) Motivo causador da limitação;
+(x) Sobrecarga admissível;
+(y) Regime normal.
+(z) Emergência, curta e longa duração.
+(aa) Número de unidades/fases reservas na subestação.
+(bb) Descrição dessas unidades/fases reservas: descrição total ou idêntica a unidade nº....
+(cc) Curva de suportabilidade a sobretensão.
+B.6 CAPACITORES
+(a) Subestação;
+(b) Identificação da(s) barra(s) nos dados de fluxo de potência;
+(c) Data de entrada em operação (data prevista, em caso de equipamento futuro);
+(d) Número da unidade;
+(e) Identificação da unidade pelo proprietário;
+(f) Formação do banco: trifásico etc.;
+(g) Modo de operação: manobrável, automático, manual-local etc.;
+(h) Localização: terciário do transformador, compensação série da LT etc.;
+(i) Tensão nominal em kV;
+(j) Curva de suportabilidade a sobretensão;
+(k) Potência reativa total em Mvar; e
+(l) Limitações: corrente nominal etc.
+Endereço na internet: http://www.ons.org.br 39 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+B.7 REATORES
+(a) Subestação;
+(b) Número da barra a que o reator está conectado, nos dados de fluxo de potência;
+(c) Data de entrada em operação (data prevista, no caso de equipamento futuro);
+(d) Número da unidade;
+(e) Identificação da unidade pelo proprietário;
+(f) Formação do banco: trifásico etc.;
+(g) Tipo de operação: de linha, de barra etc.;
+(h) Modo de operação: manobrável, automático, manual-local etc.;
+(i) Localização: terciário de transformador, na LT etc.;
+(j) Tensão nominal em kV;
+(k) Potência reativa total em Mvar; e
+(l) Limitações.
+B.8 COMPENSADORES ESTÁTICOS
+(a) Subestação;
+(b) Identificação das barras nos dados de fluxo de potência;
+(c) Tipo do CE;
+(d) Data de entrada em operação;
+(e) Tensão nominal em kV;
+(f) Faixa operativa de tensão em kV;
+(g) Faixa operativa de potência reativa em Mvar;
+(h) Limitações;
+(i) Estatismo (slope) do compensador estático;
+(j) Barra controlada (terminal ou remota);
+(k) Valores máximos e mínimos de susceptância ou potência reativa para o chaveamento pelo controle
+dos elementos externos e seus respectivos tempos de operação;
+(l) Potência nominal dos bancos de capacitores;
+(m) Potência nominal dos filtros;
+(n) Impedância e potência do transformador associado e seu tipo de ligação;
+(o) Diagrama unifilar da instalação; e
+(p) Observações.
+B.9 COMPENSAÇÃO SÉRIE CONTROLADA
+(a) Dados Genéricos
+Endereço na internet: http://www.ons.org.br 40 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+(1) Localização geográfica do Equipamento: Município e Unidade da Federação;
+(2) Tipo de Equipamento FACTS;
+(3) Empresa proprietária;
+(4) Fabricante;
+(5) Potência nominal em MVA;
+(6) Tensão nominal em kV;
+(7) Corrente nominal em A;
+(8) Máxima corrente em função da temperatura ambiente em A;
+(9) Máxima sobrecarga de corrente de curta duração em A;
+(10) Mínima corrente em A;
+(11) Máxima tensão em kV; e
+(12) Mínima tensão em kV.
+B.10 SISTEMAS DE TRANSMISSÃO EM CORRENTE CONTÍNUA E CONVERSORES DE FREQUÊNCIA (BACK-TO-
+BACK)
+(a) Dados Genéricos do Elo de Corrente Contínua
+(1) Localização geográfica das Estações Conversoras: Município, Unidade da federação;
+(2) Empresa proprietária;
+(3) Fabricante;
+(4) Potência nominal total em MW;
+(5) Tensão nominal em kV;
+(6) Frequência da retificadora e da inversora em Hz;
+(7) Número de pólos;
+(8) Polaridade de cada pólo;
+(9) Potência nominal em MW/pólo;
+(10) Máxima potência em função da temperatura ambiente em MW/pólo;
+(11) Corrente contínua nominal em A;
+(12) Máxima corrente contínua em função da temperatura ambiente em A;
+(13) Máxima sobrecarga de corrente contínua de curta duração em A e MW;
+(14) Mínima corrente contínua em A;
+(15) Máxima tensão contínua em kV; e
+(16) Mínima tensão contínua em kV.
+(b) Dados das Pontes Conversoras
+Endereço na internet: http://www.ons.org.br 41 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+(1) Subestação;
+(2) Fabricante;
+(3) Data de entrada em operação;
+(4) Número de pontes conversoras de 6 pulsos por pólo;
+(5) Tensão nominal da ponte de 6 pulsos em kV;
+(6) Ângulo de disparo nominal do retificador  em el.;
+(7) Ângulo mínimo de disparo do retificador  em el.;
+(8) Ângulo máximo de disparo do retificador  em el.;
+(9) Ângulo de extinção nominal do inversor  em el.;
+(10) Ângulo mínimo de extinção do inversor  em el.; e
+(11) Ângulo máximo de extinção do inversor  em el.
+(c) Dados dos Transformadores Conversores da Ponte de 6 Pulsos.
+(1) Subestação;
+(2) Fabricante;
+(3) Data de entrada em operação;
+(4) Número da unidade;
+(5) Identificação da unidade pelo proprietário;
+(6) Tipo de transformador (autotransformador, trifásico, banco monofásico etc.);
+(7) Frequência nominal em Hz;
+(8) Número de enrolamentos;
+(9) Tensões nominais em kV: Primário, Secundário e Terciário;
+(10) Potências por estágios de ventilação em MVA: Primário, Secundário e Terciário;
+(11) Tipos de derivações por enrolamento (fixa, comutação em carga - LTC etc.): Primário, Secundário
+e Terciário;
+(12) Tabela de derivações por enrolamento;
+(13) Posição;
+(14) Tensão em kV;
+(15) Relação dos taps em pu;
+(16) Nominal, nas bases do transformador;
+(17) Utilizada, nas bases do sistema;
+(18) Queda de tensão indutiva no transformador conversor (dXn) ou a reatância de comutação (Xc =
+2 . dXn), em % na base do transformador conversor da ponte de 6 pulsos;
+(19) Possíveis limitações: descrição, temporária ou definitiva, motivo causador;
+(20) Sobrecarga admissível: regime, normal e emergência, curta e longa duração;
+Endereço na internet: http://www.ons.org.br 42 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+(21) Número de unidades/fases reservas na subestação;
+(22) Descrição destas unidades/fases reservas: descrição total ou idêntica à unidade nº; e
+(23) Impedâncias de sequência.
+(d) Dados da linha de corrente contínua e da linha de eletrodo
+(1) Resistência total da linha de cada pólo em função da temperatura, em ohms;
+(2) Indutância total da linha de cada pólo, em mH;
+(3) Capacitância total da linha de cada pólo, em F;
+(4) Tipo de LT: aérea, subterrânea etc.;
+(5) Comprimento em km;
+(6) Tensão nominal em kV;
+(7) Tensão de operação em kV;
+(8) Capacidade nominal de projeto em A;
+(9) Limite térmico em A;
+(10) Limite de regime normal em A;
+(11) Fator limitante;
+(12) Limite de emergência em A;
+(13) Potência característica em MW; e
+(14) Número de circuitos por torre.
+(e) Dados dos filtros CA e CC
+(1) Subestação;
+(2) Número da unidade.;
+(3) Identificação da unidade pelo proprietário.;
+(4) Formação do banco: trifásico etc.;
+(5) Tipo de Filtro Harmônico (3, 5, 11, 13, HP etc.);
+(6) Número de Filtros por Tipo;
+(7) Tensão de isolamento em kV;
+(8) Potência reativa total em Mvar à frequência fundamental;
+(9) Limitações;
+(10) Requisitos mínimos de filtragem em função da potência transmitida e do número de conversores;
+(11) Descrição e ajustes das proteções de sobretensão;
+(12) Descrição e ajustes das proteções de sobrecorrente;
+(13) Filosofia de operação dos filtros;
+(14) Critérios para retirada ou inserção automática;
+Endereço na internet: http://www.ons.org.br 43 / 44
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica de médio
+3.1 Procedimental 2020.12 01/01/2021
+prazo
+(15) Modos possíveis de operação;
+(16) Controle de potência;
+(17) Controle de corrente;
+(18) Operação com tensão plena;
+(19) Operação com tensão reduzida;
+(20) Operação paralela;
+(21) Operação com potência reversa;
+(22) Operação com ângulos de disparo ou extinção mínimos;
+(23) Operação especial com ângulos de disparo ou extinção elevados;
+(24) Operação com conversores desligados;
+(25) Operação monopolar;
+(26) Observações sobre formas especiais de operação;
+(27) Diagramas; e
+(28) Diagrama unifilar do arranjo físico das estações conversoras.
+Endereço na internet: http://www.ons.org.br 44 / 44

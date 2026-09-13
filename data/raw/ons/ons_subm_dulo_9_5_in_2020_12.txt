@@ -1,0 +1,99 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 9.5-IN_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 9.5-IN_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 9.5
+Indicadores de atendimento às
+recomendações
+Indicadores
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de atendimento às recomendações 9.5 Indicadores 2020.12 01/01/2021
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. INDICADORES DE ATENDIMENTO ÀS RECOMENDAÇÕES..................................................................3
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de atendimento às recomendações 9.5 Indicadores 2020.12 01/01/2021
+1. OBJETIVO
+1.1. Estabelecer a sistemática para o cálculo dos indicadores de desempenho relativos ao atendimento das
+recomendações emitidas pelo ONS por meio dos relatórios de análise.
+2. INDICADORES DE ATENDIMENTO ÀS RECOMENDAÇÕES
+2.1. Evolução do Atendimento às Recomendações dos Relatórios de Análise (EARA)
+2.1.1. Objetivo
+2.1.1.1. Avaliar a evolução do atendimento às recomendações dos relatórios de análise do ONS.
+2.1.2. Definição
+2.1.2.1. É o percentual de recomendações atendidas no período em relação ao número de
+recomendações programadas para o período, considerando os prazos vigentes. ( 1 )
+2.1.3. Formulação
+2.1.3.1. O indicador EARA é calculado pela seguinte relação:
+NR
+EARA  Atendidas .100[%]
+NR  NR  NR
+Programadas Atrasadas Antecipadas
+Onde:
+NR = Número total de recomendações atendidas no período, independentemente do prazo estabelecido.
+Atendidas
+NR = Número de recomendações com prazo atual estabelecido para o período, in-dependentemente de
+Programadas
+já terem sido reprogramadas.
+NR = Número de recomendações com prazo vencido em período anterior e não atendidas nem
+Atrasadas
+reprogramadas.
+NR = Número de recomendações com prazo previsto para período futuro, porém já atendidas no
+Antecipadas
+período de avaliação.
+2.1.4. Dados utilizados
+2.1.4.1. Os dados utilizados para o cálculo do indicador EARA são obtidos a partir do sistema de
+acompanhamento de recomendações dos relatórios de análise do ONS, conforme Submódulo 6.2 – Análise
+da operação, ocorrências e perturbações e acompanhamento das providências.
+2.1.5. Agregações
+2.1.5.1. Sistêmica: sistema.
+2.1.5.2. Espacial: gestor e agente de operação.
+2.1.5.3. Temporal: mensal, acumulado nos últimos 12 meses.
+2.1.6. Divulgação
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de atendimento às recomendações 9.5 Indicadores 2020.12 01/01/2021
+2.1.6.1. O ONS calcula o indicador EARA e divulga-o por meio do Relatório Mensal de Estatística das
+Recomendações e Providências (REREC), nos termos e prazos estabelecidos no Submódulo 6.2, e no site do
+ONS para os agentes de operação e demais interessados.
+2.1.6.2. A periodicidade de divulgação desse indicador é mensal.
+2.2. Pontualidade do Atendimento às Recomendações dos Relatórios de Análise (PARA)
+2.2.1. Objetivo
+2.2.1.1. Avaliar a pontualidade do atendimento às recomendações dos relatórios de análise do ONS.
+2.2.2. Definição
+2.2.2.1. É o percentual de recomendações que cumpriram o prazo inicial estabelecido, ou seja, não foram
+reprogramadas, em relação ao total de recomendações atendidas no período.
+2.2.3. Formulação ( 2 )
+2.2.3.1. O indicador PARA é calculado pela seguinte relação:
+NR
+PARA Atendidas_no_prazo_inicial .100[%]
+NR
+Atendidas
+Onde:
+NR = Número total de recomendações atendidas no período que cumpriram o prazo inicial
+Atendidas no prazo inicial
+estabelecido.
+NR = Número total de recomendações atendidas no período, independentemente do prazo
+Atendidas
+estabelecido.
+2.2.4. Dados utilizados
+2.2.4.1. Os dados utilizados para o cálculo do indicador PARA são obtidos a partir do sistema de
+acompanhamento de recomendações dos relatórios de análise do ONS, conforme Submódulo 6.2.
+2.2.5. Agregações
+2.2.5.1. Sistêmica: sistema.
+2.2.5.2. Espacial: gestor e agente de operação.
+2.2.5.3. Temporal: mensal, acumulado nos últimos 12 meses.
+2.2.6. Divulgação
+2.2.6.1. O ONS calcula o indicador PARA e divulga-o por meio do REREC, nos termos e prazos estabelecidos
+no Submódulo 6.2, e no site do ONS para os agentes de operação e demais interessados.
+2.2.6.2. A periodicidade de divulgação desse indicador é mensal.
+Endereço na internet: http://www.ons.org.br 4 / 4

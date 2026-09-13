@@ -1,0 +1,113 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.17-OP_2026.04
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.17-OP_2026.04.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.17
+Coleta de dados de medição para
+faturamento
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2026.04 Resolução da Reunião de 29/04/2026
+Diretoria do ONS nº 0056/2026
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Coleta de dados de medição para faturamento 6.17 Operacional 2026.04 01/05/2026
+ÍNDICE
+1. COLETA DE DADOS DOS MEDIDORES...................................................................................3
+1.1. Coleta direta.....................................................................................................................3
+1.2. Coleta passiva...................................................................................................................3
+1.3. Coleta local.......................................................................................................................4
+2. ARMAZENAMENTO DE DADOS DOS MEDIDORES................................................................4
+3. REFERÊNCIAS......................................................................................................................4
+4. ANEXOS..............................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Coleta de dados de medição para faturamento 6.17 Operacional 2026.04 01/05/2026
+1. COLETA DE DADOS DOS MEDIDORES
+1.1. Coleta direta
+1.1.1. A coleta direta é realizada por meio do acesso direto do sistema computacional da Câmara de
+Comercialização de Energia Elétrica – CCEE aos medidores.
+1.1.1.1. O agente responsável pelo Sistema de Medição para Faturamento (SMF)1 disponibiliza os canais de
+comunicação necessários para que os medidores do SMF possam ser acessados, prioritária e
+automaticamente, pelo sistema computacional da CCEE.
+1.1.1.2. O agente responsável pelo SMF verifica os arquivos de alerta (logs) para solucionar eventuais
+ocorrências sucedidas durante a coleta de dados.
+1.1.2. A CCEE:
+(a) efetua automaticamente e de forma contínua, através de sistema computacional próprio, a
+coleta dos dados da memória de massa dos medidores, conforme a arquitetura básica da
+especificação técnica das medições para faturamento estabelecidos no Submódulo 2.14 –
+Requisitos mínimos para Sistemas de Medição para Faturamento;
+(b) efetua a coleta, diariamente, dos dados registrados pelos medidores, conforme requisitos
+estabelecidos no Submódulo 2.14;
+(c) faz a validação ou rejeição dos dados dos medidores conforme disposto nos Procedimentos
+de Comercialização [1];
+(d) disponibiliza, ao final do recebimento e tratamento dos dados, os relatórios específicos e os
+dados dos medidores para os agentes envolvidos, incluindo os consumidores livres ou
+especiais, por meio de sistema computacional próprio, conforme disposto nos
+Procedimentos de Comercialização [1];
+(e) guarda no banco de dados do seu sistema computacional os dados dos medidores;
+(f) envia os dados coletados ao Operador Nacional do Sistema Elétrico – ONS, conforme disposto
+no Acordo Operacional CCEE/ONS; e
+(g) mantém os dados dos medidores no banco de dados do seu sistema computacional para
+eventuais consultas e auditorias dos agentes envolvidos.
+1.1.3. O ONS recebe os dados do sistema de computacional da CCEE, através de canais de comunicação
+dedicados, conforme disposto no Acordo Operacional CCEE/ONS e atualiza a sua base de dados.
+1 Termos definidos no Submódulo 1.2 – Glossário dos Procedimentos de Rede.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Coleta de dados de medição para faturamento 6.17 Operacional 2026.04 01/05/2026
+1.2. Coleta passiva
+1.2.1. A coleta passiva é realizada por meio de Unidade Central de Coleta de Medição (UCM) do agente
+responsável pelo SMF, que coleta os dados dos medidores, converte-os em arquivo XML (eXtensible Markup
+Language), conforme formato definido pela CCEE, e disponibiliza-os à CCEE.
+1.2.1.1. O agente responsável pelo SMF com coleta por UCM disponibiliza diariamente o arquivo XML para
+cada medidor de sua responsabilidade, de acordo com o intervalo de coleta estabelecido em Procedimentos
+de Comercialização [1], permitindo assim a coleta pelo sistema computacional da CCEE, e conforme os
+requisitos estabelecidos no Submódulo 2.14.
+1.2.1.2. O agente responsável pelo SMF verifica os arquivos de alerta (logs) para solucionar eventuais
+ocorrências sucedidas durante a transmissão dos arquivos XML à CCEE.
+1.2.2. A CCEE:
+(a) recebe e armazena, por meio de sistema computacional próprio, os dados dos medidores
+transmitidos pelo agente responsável pelo SMF;
+(b) faz a validação ou rejeição dos dados dos medidores conforme disposto nos Procedimentos
+de Comercialização [1];
+(c) disponibiliza, ao final do recebimento e tratamento dos dados, os relatórios específicos para
+os agentes envolvidos, incluindo os consumidores livres ou especiais, por meio de sistema
+computacional próprio, conforme disposto nos Procedimentos de Comercialização [1];
+(d) disponibiliza para os agentes envolvidos, incluindo os consumidores livres ou especiais, os
+dados dos medidores, no mesmo dia em que são recebidos;
+(e) envia os dados coletados ao ONS conforme disposto no Acordo Operacional CCEE/ONS; e
+(f) mantém os dados dos medidores no banco de dados do seu sistema computacional para
+eventuais consultas e auditorias dos agentes envolvidos.
+1.2.3. O ONS recebe os dados do sistema computacional da CCEE, através de canais de comunicação
+dedicados, conforme disposto no Acordo Operacional CCEE/ONS e atualiza a sua base de dados.
+1.2.4. A CCEE realiza a coleta de inspeção lógica através de um canal exclusivo de acesso ao medidor,
+disponibilizado pelo agente responsável pelo SMF.
+1.3. Coleta local
+1.3.1. Quando necessário, o agente responsável pelo SMF solicita ao agente conectado1 ou consumidor livre
+ou especial, conforme o caso, o acesso às suas instalações para a coleta local de dados dos medidores.
+1.3.2. O agente conectado ou consumidor livre ou especial, conforme o caso, libera o acesso ao agente
+responsável pelo SMF para a coleta local de dados dos medidores.
+1.3.3. O consumidor livre ou especial, conforme o caso, acompanha a coleta local de dados dos medidores
+nas suas instalações.
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Coleta de dados de medição para faturamento 6.17 Operacional 2026.04 01/05/2026
+1.3.4. Após a coleta local, o agente responsável pelo SMF, juntamente com o agente conectado ou o
+consumidor livre ou especial, conforme o caso, selam todos os pontos cujos lacres foram rompidos e liberam
+o SMF para a coleta de dados.
+2. ARMAZENAMENTO DE DADOS DOS MEDIDORES
+2.1. A CCEE, o ONS e os agentes responsáveis pelo SMF guardam, por um período de 5 (cinco) anos, os dados
+registrados pelos medidores em bancos de dados.
+3. REFERÊNCIAS
+[1] CCEE. Procedimentos de Comercialização, Submódulo 2.1 – Coleta e ajuste de dados de
+medição.
+4. ANEXOS
+4.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 5 / 5

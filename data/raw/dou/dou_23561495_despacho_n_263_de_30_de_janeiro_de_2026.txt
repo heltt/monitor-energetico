@@ -1,0 +1,15 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: DESPACHO Nº 263, DE 30 DE JANEIRO DE 2026
+DATA_PUBLICACAO: 02/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=02/02/2026&jornal=515&pagina=90
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Energia Elétrica/Superintendência de Fiscalização Técnica dos Serviços de Energia Elétrica/Gerência de Fiscalização da Geração
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+DESPACHO Nº 263, DE 30 DE JANEIRO DE 2026
+O GERENTE DE FISCALIZAÇÃO DA GERAÇÃO DA SUPERINTENDÊNCIA DE FISCALIZAÇÃO TÉCNICA DOS SERVIÇOS DE ENERGIA ELÉTRICA DA AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA - ANEEL, nos termos do art. 3º da Portaria nº 6.836, de 21 de junho de 2023, e considerando o que consta do Processo nº 48500.001697/2026-79, decide:
+liberar as unidades geradoras UG1 a UG44, de 1.093,60 kW cada, totalizando 48.118,00 kW de capacidade instalada da UFV Draco Solar 1, Código Único de Empreendimentos de Geração - CEG UFV.RS.MG.049436-4.01, localizada no município de Arinos no estado de Minas Gerais, de titularidade da Draco 1 Energia Spe Ltda., da Prysmian Cabos e Sistemas do Brasil S/A., da Multitecnica Industrial S.A, da Rede Primavera - Assistencia Medica Hospitalar Ltda., da Distribuidora de Carnes Sabara Ltda., da Eletro Mineral Industrial Ltda., Novabrita - Britadora Nova Serrana Ltda., e da Itabrita - Britadora Itatiaiucu Ltda., para início da operação comercial a partir de 31 de janeiro de 2026.
+RAFAEL ERVILHA CAETANO

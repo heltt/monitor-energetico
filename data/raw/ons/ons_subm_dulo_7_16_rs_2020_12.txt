@@ -1,0 +1,119 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.16-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.16-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.16
+Conexão à transmissão e inspeções e
+ensaios nas instalações de conexão
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Conexão à transmissão e inspeções e ensaios
+7.16 Responsabilidades 2020.12 01/01/2021
+nas instalações de conexão
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Relatório com resultado dos ensaios............................................................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Agente de transmissão..................................................................................................................3
+3.2. Agente de distribuição, Agente de geração, de importação/exportação, consumidor e titular de
+registro de centrais geradoras de capacidade reduzida................................................................3
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIAS...................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Conexão à transmissão e inspeções e ensaios
+7.16 Responsabilidades 2020.12 01/01/2021
+nas instalações de conexão
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas do processo de conexão à
+transmissão, e inspeções e ensaios nas instalações de conexão.
+2. PRODUTOS
+2.1. Relatório com resultado dos ensaios
+2.1.1. Relatório elaborado pelo solicitante dos ensaios que avalia a adequação das instalações de conexão
+ao que está estabelecido nas normas técnicas nacionais ou internacionais e nos padrões técnicos constantes
+no CCT.
+3. RESPONSABILIDADES
+3.1. Agente de transmissão
+(a) Fornecer, mediante solicitação, informações básicas sobre as principais características físicas e
+elétricas dos pontos de conexão desejados, e as normas e padrões técnicos de caráter geral a serem
+observados para a conexão às instalações sob sua responsabilidade.
+(b) Emitir, mediante solicitação, informativo a respeito da viabilidade física da conexão de central
+geradora nas instalações sob sua responsabilidade.
+(c) Analisar e aprovar os projetos básico e executivo das instalações do ponto de conexão.
+(d) Acompanhar e inspecionar as obras civis, a montagem eletromecânica e o comissionamento do ponto
+de conexão.
+(e) Aprovar e liberar o ponto de conexão para operação.
+(f) Permitir ensaios nos equipamentos vinculados às instalações de conexão, pelos agentes conectados.
+(g) Encaminhar à ANEEL e aos agentes envolvidos relatório contendo os resultados dos ensaios que
+solicitou; e as adequações necessárias nas instalações de conexão, quando demonstrado o
+desempenho inadequado dessas instalações.
+3.2. Agente de distribuição, Agente de geração, de importação/exportação, consumidor e titular de
+registro de centrais geradoras de capacidade reduzida
+(a) Fornecer os projetos básico e executivo das instalações do ponto de conexão para análise e
+aprovação do agente de transmissão.
+(b) Disponibilizar ao agente de transmissão toda a documentação relativa ao projeto das instalações do
+ponto de conexão, incluindo os desenhos das características das instalações como efetivamente
+implantadas.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Conexão à transmissão e inspeções e ensaios
+7.16 Responsabilidades 2020.12 01/01/2021
+nas instalações de conexão
+(c) Ajustar com o agente de transmissão as condições contratuais e os prazos requeridos para a sua
+conexão e arcar com os encargos de responsabilidade do acessante, conforme o caso, inclusive os
+decorrentes da aprovação dos estudos de conexão, da análise e aprovação do projeto executivo, da
+supervisão das obras civis, da montagem eletromecânica, da implantação, operação e manutenção
+do SMF, do comissionamento e dos ensaios de aceitação do ponto de conexão, observando o disposto
+na regulamentação vigente;
+(d) Solicitar ao agente de transmissão inspeção, ensaio e aprovação do ponto de conexão;
+(e) Permitir inspeções e ensaios nos equipamentos vinculados às instalações de conexão, pelos agentes
+em que estão conectados.
+(f) Encaminhar à ANEEL e aos agentes envolvidos relatório contendo os resultados dos ensaios que
+solicitou e as adequações necessárias nas instalações de conexão, quando demonstrado o
+desempenho inadequado dessas instalações.
+4. PRAZOS
+Quadro 1 – Prazos dos processos de conexão entre acessantes e transmissoras
+Atividade Responsável Prazo
+Solicitar informações básicas à Transmissora
+1 Agente conectante Sob demanda
+responsável pelos pontos de conexão desejados
+Fornecer informações básicas dos pontos de
+30 dias após
+2 conexão desejados e normas e padrões técnicos a Transmissora
+atividade 1
+serem observados
+Agente de geração ou
+Solicitar informativo a respeito da viabilidade física titular de registro de
+3 Sob demanda
+da conexão de central geradora centrais geradoras de
+capacidade reduzida
+Emitir informativo a respeito da viabilidade física 30 dias após
+4 Transmissora
+da conexão de central geradora atividade 3
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Conexão à transmissão e inspeções e ensaios
+7.16 Responsabilidades 2020.12 01/01/2021
+nas instalações de conexão
+Atividade Responsável Prazo
+30 dias após
+Envio à ANEEL e aos agentes envolvidos do Agente solicitante dos
+5 encerramento
+Relatório com resultado dos ensaios ensaios
+dos ensaios
+Envio à ANEEL e aos agentes envolvidos as Agente com equipamentos
+6 adequações necessárias nas instalações de com desempenho Após atividade 5
+conexão inadequado
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 5 / 5

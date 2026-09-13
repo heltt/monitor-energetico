@@ -1,0 +1,22 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 03/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=03/02/2026&jornal=515&pagina=171
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado da Bahia
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 18/2026
+Fase de Autorização de Pesquisa
+Prorroga por 03 (três) anos o prazo de validade da guia de utilização.(2325)
+872.090/2015-DJ GRANITOS LTDA-GUIA DE UTILIZAÇÃO N°122/2021
+Autoriza a emissão de Guia de Utilização - prazo 3 anos(2754)
+870.729/2021 - FORTALEZA MINERADORA LTDA - PARATINGA/BA - Guia n° 31/2026 - Substância(s): QUARTZITO - Volume(s): 16.000 t/ano
+871.445/2024 - TOLEDO EXOTIC LTDA - PINDOBAÇU/BA, SAÚDE/BA - Guia n° 32/2026 - Substância(s): QUARTZITO - Volume(s): 16.000 t/ano
+871.876/2021 - JERIBA MINERACAO DE PEDRAS ORNAMENTAIS, EXTRACAO, IMPORTACAO E EXPORTACAO LTDA - ITAPETINGA/BA - Guia n° 33/2026 - Substância(s): GRANITO - Volume(s): 16.000 t/ano
+CARLA FERREIRA VIEIRA MARTINS
+Gerente

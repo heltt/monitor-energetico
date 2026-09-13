@@ -1,0 +1,104 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 3.2-RS_2021.08.docx_51900fc9-4a24-45b2-bc1e-abd573f48e70
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 3.2-RS_2021.08.docx_51900fc9-4a24-45b2-bc1e-abd573f48e70.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 3.2
+Modernização de instalações
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2022.08 Despacho ANEEL nº 1.772/2022 10/08/2022
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Modernização de instalações 3.2 Responsabilidades 2022.08 16/08/2022
+ÍNDICE
+1. OBJETIVO ..................................................................................................................................... 3
+2. PRODUTO ..................................................................................................................................... 3
+2.1. Plano de Modernização de Instalações ......................................................................................... 3
+3. RESPONSABILIDADES .................................................................................................................... 3
+3.1. Operador Nacional do Sistema Elétrico – ONS .............................................................................. 3
+3.2. Agentes de geração, de transmissão ou de distribuição ............................................................... 3
+4. PRAZOS ........................................................................................................................................ 4
+5. REFERÊNCIAS ................................................................................................................................ 4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Modernização de instalações 3.2 Responsabilidades 2022.08 16/08/2022
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas do processo referente à elaboração
+do Plano de Modernização de Instalações (PMI), que relaciona intervenções classificadas como melhorias a
+serem implementadas em instalações sob responsabilidade de agentes de transmissão, e intervenções
+classificadas como melhorias ou reforços a serem implementadas em instalações sob responsabilidade de
+agentes de distribuição e de geração.
+2. PRODUTO
+2.1. Plano de Modernização de Instalações
+2.1.1. Consiste no conjunto de melhorias necessárias em instalações sob responsabilidade de
+concessionárias de transmissão e de melhorias e reforços necessários em instalações sob responsabilidade
+de concessionárias ou permissionárias de distribuição e concessionárias ou autorizadas de geração,
+acompanhadas das respectivas justificativas técnico-econômicas, dos benefícios oriundos de sua
+implantação, das datas de necessidade e dos prazos para implantação.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Coordenar o processo de elaboração do PMI.
+(b) Convocar os agentes de geração, transmissão e de distribuição para participarem da elaboração do
+PMI.
+(c) Cadastrar no sistema computacional próprio as obras cujas necessidades tenham sido identificadas.
+(d) Analisar, em conjunto com os agentes, a necessidade das obras cadastradas no sistema
+computacional próprio.
+(e) Classificar e estabelecer a data da necessidade sistêmica das modernizações.
+(f) Aprovar as modernizações cadastradas no sistema computacional próprio, quando aderentes ao
+disposto em regulamentação vigente [1][2].
+(g) Elaborar o PMI.
+(h) Encaminhar o PMI à ANEEL e aos agentes de geração, de transmissão e de distribuição.
+(i) Comunicar à ANEEL e incluir na subsequente emissão do PMI modernizações consideradas relevantes
+identificadas após emissão do PMI.
+3.2. Agentes de geração, de transmissão ou de distribuição
+(a) Cadastrar as obras de melhorias e reforços no sistema computacional do ONS, com base nos
+diagnósticos decorrentes dos próprios estudos.
+(b) Fornecer os dados complementares, solicitados pelo ONS, necessários ao cadastramento das obras
+no sistema computacional do ONS.
+(c) Analisar, em conjunto com o ONS, a necessidade das obras cadastradas.
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Modernização de instalações 3.2 Responsabilidades 2022.08 16/08/2022
+(d) Implementar as modernizações relacionadas no PMI, conforme regulamentação vigente [1][2].
+(e) Manter atualizado o estado das obras cadastradas no sistema computacional do ONS.
+4. PRAZOS
+Quadro 1 – Prazos para as atividades do proceso de elaboração do PMI
+Atividade Responsável Prazo Periodicidade Horizonte
+3 anos, compreendendo o
+Agente de De 1º de
+período entre o primeiro
+Cadastramento de obras geração, de janeiro até
+1 Anual e o terceiro anos
+para compor o PMI transmissão ou 15 de
+subsequentes ao ano da
+de distribuição setembro
+elaboração do PMI
+Encaminhamento da 3 anos, compreendendo o
+minuta do PMI aos Até dia 15 período entre o primeiro
+2 agentes de geração, ONS de Anual e o terceiro anos
+transmissão e novembro subsequentes ao ano da
+distribuição elaboração do PMI
+3 anos, compreendendo o
+Agente de
+Encaminhamento ao Até dia 15 período entre o primeiro
+geração, de
+3 ONS das contribuições de Anual e o terceiro anos
+transmissão ou
+para a minuta do PMI dezembro subsequentes ao ano da
+de distribuição
+elaboração do PMI
+Encaminhamento do 3 anos, compreendendo o
+PMI para ANEEL e Até dia 31 período entre o primeiro
+4 agentes de geração, ONS de Anual e o terceiro anos
+transmissão e dezembro subsequentes ao ano da
+distribuição elaboração do PMI
+5. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de Transmissão de
+Energia Elétrica no Sistema Elétrico Nacional. Módulo 3 - Instalações e Equipamentos de Transmissão.
+[2] ANEEL. Resolução Normativa nº 697, de 16 de dezembro de 2015.
+Endereço na internet: http://www.ons.org.br 4 / 4

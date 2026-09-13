@@ -1,0 +1,26 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 26/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=26/02/2026&jornal=515&pagina=65
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 25/2026
+Fica(m) o(s) abaixo relacionado(s) cientes(s) que o recurso administrativo interposto foi julgado procedente, com a consequente anulação das Notificações Fiscais de Lançamento de Débito para Pagamento (NFLDPs), uma vez que não foram lavradas corretamente.
+
+
+Nº DO PROCESSO
+INTERESSADO
+48403.933537/2015-36
+COMPANHIA DE DESENVOLVIMENTO ECONÔMICO DE MINAS GERAIS, COMPANHIA MINERADORA DO PIROCLORO DE ARAXÁ
+48403.933560/2015-21
+COMPANHIA DE DESENVOLVIMENTO ECONÔNICO DE MINAS GERAIS, ARAFERTIL S/A, VALE FOSFATADOS S A
+48403.933562/2015-10
+COMPANHIA DE DESENVOLVIMENTO ECONÔNICO DE MINAS GERAIS, ARAFERTIL S/A, VALE FOSFATADOS S A
+MAURO HENRIQUE MOREIRA SOUSA
+Diretor-Geral

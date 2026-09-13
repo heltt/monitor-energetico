@@ -1,0 +1,74 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 3.9-OP_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 3.9-OP_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 3.9
+Validação de dados e modelos de
+componentes para estudos elétricos
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Validação de dados e modelos de componentes
+3.9 Operacional 2020.12 01/01/2021
+para estudos elétricos
+ÍNDICE
+1. RECEBIMENTO DE DADOS E MODELOS DE COMPONENTES..............................................................3
+2. VALIDAÇÃO DOS DADOS E ATUALIZAÇÃO DA BASE DE DADOS.........................................................3
+3. DISPONIBILIZAÇÃO DA BASE DE DADOS DE MODELOS E COMPONENTES PARA ESTUDOS ELÉTRICOS
+........................................................................................................................................................3
+4. REFERÊNCIAS...................................................................................................................................3
+5. ANEXOS ..........................................................................................................................................3
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Validação de dados e modelos de componentes
+3.9 Operacional 2020.12 01/01/2021
+para estudos elétricos
+1. RECEBIMENTO DE DADOS E MODELOS DE COMPONENTES
+1.1. O ONS realiza o processo de validação de dados e de modelos de componentes para estudos elétricos
+em função da necessidade de revisão de dados e parâmetros e/ou quando da alteração da topologia da rede.
+1.2. O ONS solicita dados e modelos de componentes aos agentes de operação, nos padrões das ferramentas
+computacionais para estudos elétricos, conforme Submódulo 2.3 – Premissas, critérios e metodologia para
+estudos elétricos.
+1.3. Os agentes de operação enviam, nos prazos definidos, os dados e modelos de componentes ao ONS,
+conforme descrito neste submódulo, e na forma especificada nos manuais de cada modelo computacional
+utilizado nos estudos elétricos descritos no site do ONS. Na elaboração dos modelos de componentes devem
+ser consideradas as diretrizes estabelecidas pelo ONS para cada modelo computacional.
+1.3.1. Os agentes devem enviar a comprovação da validade dos modelos de componentes incluindo a
+comparação entre os registros de ensaios de campo e os resultados de simulações processadas com os
+modelos atualizados e com os ajustes implantados em campo.
+1.3.1.1. Para os modelos de elos de corrente contínua, compensadores estáticos de reativos e outros
+equipamentos Flexible AC transmission system (FACTS), a comparação poderá ser feita com registros de
+simulações em escala real de tempo, utilizando os cubículos de controle e proteção do equipamento ou uma
+réplica dos mesmos.
+2. VALIDAÇÃO DOS DADOS E ATUALIZAÇÃO DA BASE DE DADOS
+2.1. O ONS analisa e atesta a validade dos dados e modelos de componentes a serem utilizados nos estudos
+elétricos do Sistema Interligado Nacional (SIN).
+2.1.1. O ONS, para esta análise, utiliza as informações oriundas do processo de validação realizado pelos
+agentes.
+2.1.2. O ONS realiza testes de consistência e conformidade de dados de acordo com as metodologias
+específicas de cada estudo elétrico, descritas no Submódulo 2.3.
+2.1.3. O ONS solicita aos agentes novos dados e modelos de componentes validados, caso os dados iniciais
+não apresentem consistência ou conformidade.
+2.2. O ONS armazena e atualiza os dados e os modelos de componentes validados para estudos elétricos na
+Base de Dados de Modelos e Componentes para Estudos Elétricos.
+3. DISPONIBILIZAÇÃO DA BASE DE DADOS DE MODELOS E COMPONENTES PARA ESTUDOS ELÉTRICOS
+3.1. O ONS disponibiliza os dados aos agentes de operação como arquivos de dados para estudos elétricos
+no padrão de entrada dos modelos computacionais utilizados, nos padrões das ferramentas computacionais
+para estudos elétricos, conforme Submódulo 2.3.
+4. REFERÊNCIAS
+4.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Validação de dados e modelos de componentes
+3.9 Operacional 2020.12 01/01/2021
+para estudos elétricos
+5. ANEXOS
+5.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 4 / 4

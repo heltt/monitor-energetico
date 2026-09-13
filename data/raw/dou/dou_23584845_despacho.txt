@@ -1,0 +1,20 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 10/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=10/02/2026&jornal=515&pagina=61
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado do Rio Grande do Sul
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 22/2026
+Fase de Requerimento de Licenciamento
+O GERENTE REGIONAL DA AGÊNCIA NACIONAL DE MINERAÇÃO, no uso da competência delegada de que trata o Art. 23, inciso IV, alínea "a" da Ordem de Serviço nº 334, de 12 de agosto de 2025, outorga o(s) seguinte(s) Registro(s) de Licença com vigência a partir da data de publicação:(730)
+Registro de Licença n°: 69/2026 - Processo nº: 810.666/2025 - Titular: CERAMICA ARVOREZINHA LTDA - Vencimento: 27/08/2027 - Substância(s): ARGILA - Município(s): ARVOREZINHA/RS
+Registro de Licença n°: 70/2026 - Processo nº: 810.919/2025 - Titular: S. P. SEVERO JÚNIOR - ME - Vencimento: 29/08/2027 - Substância(s): CASCALHO, SAIBRO - Município(s): URUGUAIANA/RS
+Registro de Licença n°: 75/2026 - Processo nº: 810.352/2025 - Titular: HENRIQUE J TOMAZELLI CIA - Vencimento: 27/02/2029 - Substância(s): BASALTO - Município(s): GRAMADO/RS
+FABRICIO SOUZA DE SOUZA
+Interino

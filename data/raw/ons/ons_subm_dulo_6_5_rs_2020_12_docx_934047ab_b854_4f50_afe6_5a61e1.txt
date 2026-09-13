@@ -1,0 +1,186 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.5-RS_2020.12.docx_934047ab-b854-4f50-afe6-5a61e18b41d7
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.5-RS_2020.12.docx_934047ab-b854-4f50-afe6-5a61e18b41d7.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.5
+Apuração da geração e de
+indisponibilidade de empreendimentos
+de geração
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2022.06 Despacho ANEEL nº 1.693/2022 24/06/2022
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração da geração e de
+indisponibilidade de empreendimentos 6.5 Responsabilidades 2022.06 01/07/2022
+de geração
+ÍNDICE
+1. OBJETIVO ..................................................................................................................................... 3
+2. PRODUTOS ................................................................................................................................... 3
+2.1. Montantes de geração e motivos de despachos de energia apurados em base mensal ............. 3
+2.2. Referência de geração de energia das usinas ou conjuntos de usinas eolioelétricas apurados
+em base mensal ............................................................................................................................. 3
+2.3. Montantes de energia ativa de intercâmbios internacionais apurados em base horária ............ 3
+2.4. Períodos apurados de unidades geradoras operando como compensadores síncronos ............. 3
+2.5. Montantes de inflexibilidade de energia ativa bruta de usinas termoelétricas apurados em base
+anual .............................................................................................................................................. 3
+2.6. Taxa Equivalente de Indisponibilidade Forçada Apurada Acumulada (TEIFa) .............................. 3
+2.7. Taxa Equivalente de Indisponibilidade Programada Acumulada (TEIP) ........................................ 3
+2.8. Relatório de Análise Estatística da Indisponibilidade Programada e Não Programada de
+Funções Geração ........................................................................................................................... 4
+3. RESPONSABILIDADES .................................................................................................................... 4
+3.1. Operador Nacional do Sistema Elétrico – ONS .............................................................................. 4
+3.2. Agentes de geração ....................................................................................................................... 5
+4. PRAZOS ........................................................................................................................................ 5
+5. REFERÊNCIAS ................................................................................................................................ 6
+Endereço na internet: http://www.ons.org.br 2 / 6
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração da geração e de
+indisponibilidade de empreendimentos 6.5 Responsabilidades 2022.06 01/07/2022
+de geração
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas de processos relativas à apuração
+dos dados de geração de energia, referentes às usinas despachadas centralizadamente pelo Operador
+Nacional do Sistema Elétrico – ONS e dados de energia de intercâmbio em Interligações Internacionais,
+considerando os motivos de despachos, suas reprogramações e as indisponibilidades.
+2. PRODUTOS
+2.1. Montantes de geração e motivos de despachos de energia apurados em base mensal
+2.1.1. Refere-se aos montantes de geração de energia ativa bruta apurados, em MWh/h, em patamares
+semi-horários, dos empreendimentos de geração termoelétrica e hidroelétrica, bem como os respectivos
+motivos de despachos de usinas termoelétricas.
+2.2. Referência de geração de energia das usinas ou conjuntos de usinas eolioelétricas apurados em base
+mensal
+2.2.1. Refere-se aos montantes de referência de geração de energia decorrente de evento de restrição de
+operação por Constrained-off das usinas ou conjuntos de usinas eolioelétricas, classificado como razão de
+indisponibilidade externa apurados, em MWh/h, em patamares semi-horários.
+2.3. Montantes de energia ativa de intercâmbios internacionais apurados em base horária
+2.3.1. Refere-se aos montantes de energia ativa mensal, em MWh/h, em patamares horários, de
+intercâmbios internacionais.
+2.4. Períodos apurados de unidades geradoras operando como compensadores síncronos
+2.4.1. Refere-se aos períodos apurados em que a unidade geradora hidráulica operou como compensador
+síncrono, por necessidade sistêmica, para controle de tensão.
+2.5. Montantes de inflexibilidade de energia ativa bruta de usinas termoelétricas apurados em base
+anual
+2.5.1. Refere-se à média dos valores de inflexibilidade de energia ativa bruta de usinas termoelétricas
+verificados nos últimos 5 anos.
+2.6. Taxa Equivalente de Indisponibilidade Forçada Apurada Acumulada (TEIFa)
+2.6.1. Resultado da apuração de indisponibilidades, ocasionadas por desligamentos não programados, de
+usinas e de empreendimentos de importação de energia elétrica despachados centralizadamente,
+considerando 60 meses imediatamente anteriores ao mês vigente, conforme [1].
+2.7. Taxa Equivalente de Indisponibilidade Programada Acumulada (TEIP)
+2.7.1. Resultado da apuração de indisponibilidades, ocasionadas por desligamentos programados, de usinas
+e de empreendimentos de importação de energia elétrica despachados centralizadamente, considerando 60
+meses imediatamente anteriores ao mês vigente da operação, conforme [1].
+Endereço na internet: http://www.ons.org.br 3 / 6
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração da geração e de
+indisponibilidade de empreendimentos 6.5 Responsabilidades 2022.06 01/07/2022
+de geração
+2.8. Relatório de Análise Estatística da Indisponibilidade Programada e Não Programada de Funções
+Geração
+2.8.1. Apresenta o resultado da análise quantitativa das indisponibilidades programadas e não programadas
+das Funções Geração e o resultado do cálculo dos indicadores de desempenho previstos no Submódulo 9.2
+– Indicadores de desempenho de equipamentos e linhas de transmissão e das funções transmissão e geração.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Apurar os dados coletados de geração, intercâmbios internacionais e os dados de mudanças dos
+estados operativos, as condições operativas e a disponibilidade de unidades geradoras de usinas
+despachadas centralizadamente.
+(b) Apurar a classificação dos eventos de restrição de operação por Constrained-off das usinas ou
+conjuntos de usinas eolioelétricas, bem como calcular a referência de geração decorrentes dos
+eventos classificados por razão de indisponibilidade externa [4].
+(c) Disponibilizar aos agentes envolvidos, à Agência Nacional de Energia Elétrica – ANEEL e à Câmara de
+Comercialização de Energia Elétrica – CCEE os dados e informações consolidados de geração, bem
+como os resultados da apuração dos estados operativos, condições operativas e a disponibilidade de
+unidades geradoras.
+(d) Apurar as TEIFa e TEIP, conforme [1], e disponibilizá-las aos agentes envolvidos, à CCEE e à ANEEL.
+(e) Apurar os índices de indisponibilidade total verificada de usinas hidroelétricas despachadas
+centralizadamente com concessões renovadas, conforme [2], e disponibilizá-las à ANEEL.
+(f) Consistir a comprovação da disponibilidade de unidades geradoras despachadas centralizadamente
+após a ocorrência de indisponibilidade programada ou forçada que necessite de comprovação.
+(g) Avaliar o histórico dos montantes de geração para comprovação de geração para liberação do início
+da operação comercial de unidades geradoras de usinas despachadas centralizadamente, conforme
+[3].
+(h) Analisar os dados apurados de indisponibilidade programada e não programada para obtenção de
+informações que expressem os resultados da operação realizada, elaborar o Relatório de Análise
+Estatística da Indisponibilidade Programada e Não Programada de Funções Geração e disponibilizá-lo
+publicamente em seu site e à ANEEL.
+(i) Calcular os valores dos indicadores de desempenho dos equipamentos e da Função Geração,
+definidos no Submódulo 9.2 – Indicadores de desempenho de equipamentos e linhas de transmissão
+e das Funções Transmissão e Geração, considerando suas diversas formas de agregação, e armazenar
+os resultados na Base de Dados Técnica (BDT) do ONS.
+(j) Disponibilizar a quantidade de horas da indisponibilidade média móvel apurada das Funções
+Transmissão [4].
+Endereço na internet: http://www.ons.org.br 4 / 6
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração da geração e de
+indisponibilidade de empreendimentos 6.5 Responsabilidades 2022.06 01/07/2022
+de geração
+3.2. Agentes de geração
+(a) Fornecer ao ONS as informações necessárias para a apuração dos dados verificados de geração e
+importação e exportação de energia.
+(b) Dirimir dúvidas e inconsistências nos dados e nas informações, bem como na classificação dos
+eventos.
+(c) Consistir os dados e as informações disponibilizados pelo ONS.
+4. PRAZOS
+Quadro 1 - Prazos para apuração de geração e indisponibilidades dos empreendimentos de geração
+Atividade Responsável Prazo Periodicidade
+Disponibilização aos agentes envolvidos
+Mês subsequente
+1 dos dados apurados de geração e de ONS Mensal
+ao da apuração
+indisponibilidades
+Solicitação ao ONS de alteração de Agentes de Até 90 dias após a
+2 Sob demanda
+eventos que já tenham sido consistidos geração data do evento
+Até 90 dias do
+Solicitação ao ONS de alteração de
+Agentes de início da
+3 mudanças de estados operativos para Sob demanda
+geração ocorrência da
+eventos que já tenham sido consistidos
+indisponibilidade
+Conforme
+Disponibilização à CCEE dos dados estabelecido no
+4 apurados de geração e de ONS Acordo Mensal
+indisponibilidades Operacional
+ONS/CCEE
+Disponibilização à ANEEL dos valores
+apurados de índice de indisponibilidade
+5 total verificada das usinas hidroelétricas ONS Até 30 de abril Anual
+despachadas centralizadamente com
+concessões renovadas
+Disponibilização aos agentes de geração
+envolvidos, à ANEEL e à CCEE, das
+6 indisponibilidades apuradas de usinas ONS Até 31 de agosto Anual
+termoelétricas e de empreendimentos de
+importação de energia [1]
+Endereço na internet: http://www.ons.org.br 5 / 6
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração da geração e de
+indisponibilidade de empreendimentos 6.5 Responsabilidades 2022.06 01/07/2022
+de geração
+Atividade Responsável Prazo Periodicidade
+Elaboração do Relatório de Análise
+Estatística da Indisponibilidade
+7 ONS - Anual
+Programada e Não Programada de
+Funções Geração e disponibilização
+Cálculo e disponibilização do valor da
+quantidade de horas da indisponibilidade 15º dia útil de
+8 ONS Anual
+média móvel apurada das Funções janeiro
+Transmissão [4]
+5. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa nº 614, de 3 de junho de 2014.
+[2] ANEEL. Resolução Normativa nº 541, de 12 de março de 2013.
+[3] ANEEL. Resolução Normativa nº 583, de 22 de outubro de 2013.
+[4] ANEEL. Resolução Normativa nº 927, de 22 de março de 2021.
+Endereço na internet: http://www.ons.org.br 6 / 6

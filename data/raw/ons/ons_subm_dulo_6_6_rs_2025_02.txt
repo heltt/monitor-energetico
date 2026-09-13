@@ -1,0 +1,65 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.6-RS_2025.02
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.6-RS_2025.02.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.6
+Apuração dos serviços ancilares
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2025.02 Resolução Normativa ANEEL nº 1.112/2025 11/02/2025
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração dos serviços ancilares 6.6 Responsabilidades 2025.02 01/03/2025
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTO........................................................................................................................................3
+2.1. Arquivo Mensal de Valores Resultantes da Apuração de Serviços Ancilares................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de geração.......................................................................................................................3
+4. PRAZOS............................................................................................................................................3
+5. REFERÊNCIA.....................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração dos serviços ancilares 6.6 Responsabilidades 2025.02 01/03/2025
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas dos processos relativos à apuração
+de serviço ancilar prestado por agentes de geração com Contrato de Prestação de Serviços Ancilares (CPSA).
+2. PRODUTO
+2.1. Arquivo Mensal de Valores Resultantes da Apuração de Serviços Ancilares
+2.1.1. Arquivo que contém o detalhamento dos valores resultantes da apuração do serviço ancilar de suporte
+de reativos prestado por unidades geradoras que operam como compensadores síncronos e por centrais
+geradoras despachadas centralizadamente ou consideradas na programação na condição de geração de
+potência ativa nula.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Realizar, segundo a regulamentação vigente [1], a apuração dos serviços ancilares.
+(b) Disponibilizar Arquivo Mensal de Valores Resultantes da Apuração de Serviços Ancilares à Câmara de
+Comercialização de Energia Elétrica – CCEE e aos agentes de geração que prestam o serviço ancilar.
+(c) Encaminhar à ANEEL e disponibilizar no site do ONS a avaliação do desempenho da prestação dos
+serviços ancilares [1].
+3.2. Agentes de geração
+(a) Informar ao ONS os dados necessários para a apuração dos serviços ancilares, conforme definido em
+no Submódulo 5.13 - Rotinas Operacionais.
+4. PRAZOS
+Quadro 1 - Prazos da apuração dos serviços ancilares
+Atividade Responsável Prazo Periodicidade Horizonte
+Disponibilização do Arquivo Mensal de
+1 Valores Resultantes da Apuração de ONS 8º dia útil Mensal Mês anterior
+Serviços Ancilares para CCEE
+Disponibilização do Arquivo Mensal de
+Valores Resultantes da Apuração de
+2 Serviços Ancilares com dados do ONS 8º dia útil Mensal Mês anterior
+agente de geração que presta serviço
+ancilar ao respectivo agente
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração dos serviços ancilares 6.6 Responsabilidades 2025.02 01/03/2025
+5. REFERÊNCIA
+[1] ANEEL. Resolução Normativa nº 1.030, de 26 de julho de 2022.
+Endereço na internet: http://www.ons.org.br 4 / 4

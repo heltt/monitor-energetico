@@ -1,0 +1,16 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Retificação
+TITULO: RETIFICAÇÃO
+DATA_PUBLICACAO: 02/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=02/02/2026&jornal=515&pagina=100
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional do Petróleo, Gás Natural e Biocombustíveis
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+RETIFICAÇÃO
+Na Autorização ANP nº 62, de 28 de janeiro de 2026, publicada no DOU de 29 de janeiro de 2026, Seção 1, página 82, no art. 1º, onde se lê:
+"...obtido a partir do processamento de matéria-prima de origem renovável, composta por óleos vegetais e gorduras animais, na Unidade de Craqueamento Catalítico (U-5000)."
+Leia-se:
+"...obtido a partir do processamento de matéria-prima de origem renovável, composta por óleos vegetais, na Unidade de Craqueamento Catalítico (U-5000)."

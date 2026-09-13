@@ -1,0 +1,250 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 3.4-OP_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 3.4-OP_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 3.4
+Planejamento da operação elétrica com
+horizonte quadrimestral
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica com
+3.4 Operacional 2020.12 01/01/2021
+horizonte quadrimestral
+ÍNDICE
+1. OBTENÇÃO E CONSOLIDAÇÃO DOS DADOS......................................................................................3
+2. ELABORAÇÃO DAS PREMISSAS PARA OS ESTUDOS COM HORIZONTE QUADRIMESTRAL..................5
+3. MONTAGEM DOS CASOS DE REFERÊNCIA........................................................................................6
+4. SIMULAÇÕES E ANÁLISES DO SISTEMA.............................................................................................6
+5. ELABORAÇÃO DOS ESTUDOS............................................................................................................7
+5.1. Diretrizes para a Operação Elétrica com Horizonte Quadrimestral..............................................7
+6. DISPONIBILIZAÇÃO DOS ESTUDOS E ACOMPANHAMENTO DAS AÇÕES PROPOSTAS........................8
+7. REFERÊNCIAS...................................................................................................................................8
+Endereço na internet: http://www.ons.org.br 2 / 8
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica com
+3.4 Operacional 2020.12 01/01/2021
+horizonte quadrimestral
+1. OBTENÇÃO E CONSOLIDAÇÃO DOS DADOS
+1.1. O agente fornece ao ONS e mantém atualizado os dados dos equipamentos elétricos descritos no
+ANEXO B do submódulo 3.1 – Planejamento da operação elétrica de médio prazo, os dados de carga
+descritos no Submódulo 3.5 – Consolidação da previsão de carga para planejamento da operação
+eletroenergética e os dados descritos a seguir:
+(a) Agentes de transmissão:
+(1) parâmetros elétricos de equipamentos e instalações de sua propriedade existentes na Rede de
+Simulação;
+(2) cronograma e parâmetros elétricos das novas instalações previstas para o horizonte de estudo;
+(3) diagramas eletro-geográficos do sistema elétrico de sua propriedade;
+(4) equipamentos de compensação reativa e filtragem de harmônicos – reatores, capacitores,
+compensadores estáticos ou síncronos – conectados à Rede de Simulação, com indicação dos que
+são manobráveis e a especificação da potência de cada módulo que compõe a compensação
+informada;
+(5) limites de carregamento e restrições operativas em seus equipamentos representados na Rede de
+Simulação, em condições normais e de emergência em períodos contínuos e em períodos de curta
+e longa duração, com indicação dos fatores limitantes e dos equipamentos restritivos; e
+(6) Cronograma para os estudos com horizonte quadrimestral da manutenção de longa duração dos
+componentes da Rede de Operação previsto para o horizonte de estudo.
+(b) Agentes de geração detentores de usinas classificadas como Tipo I:
+(1) parâmetros elétricos de equipamentos e instalações de sua propriedade existentes na Rede de
+Simulação;
+(2) cronogramas e parâmetros elétricos das novas instalações previstas para o horizonte do estudo;
+(3) restrições operativas existentes em unidades geradoras, com indicação das causas;
+(4) informações adicionais sobre as características da usina e seu regime de operação;
+(5) Cronograma para os estudos com horizonte quadrimestral da manutenção de longa duração das
+unidades geradoras previsto para o horizonte do estudo; e
+(6) usinas com despacho mínimo obrigatório por restrições de uso múltiplo da água.
+(c) Agentes de geração detentores de usinas classificadas como Tipo II-A e Tipo II-B conectadas à Rede
+Básica ou em instalações de transmissão como de Interesse Exclusivo de Centrais de Geração para
+Conexão Compartilhada – ICG::
+(1) Para as usinas Tipo II-A, fornecer a disponibilidade de geração de potência ativa (MW)
+individualizada por usina para o horizonte de estudo e para as usinas do Tipo II-B fornecer a
+previsão de despacho de geração de potência ativa (MW) individualizada por usina para os estudos
+de horizonte quadrimestral;
+(2) limites de absorção e de geração de potência reativa (Mvar) individualizados por usina;
+Endereço na internet: http://www.ons.org.br 3 / 8
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica com
+3.4 Operacional 2020.12 01/01/2021
+horizonte quadrimestral
+(3) informações adicionais sobre as características da usina e do seu regime de operação, quando
+solicitado; e
+(4) restrições operativas existentes nas unidades geradoras, com indicação das causas, quando
+solicitado.
+(d) Agentes de geração detentores de usinas classificadas como Tipo II-B não conectadas à Rede Básica
+ou em ICG:
+(1) encaminhar à Distribuidora responsável pela concessão da área em que estiver conectada, a
+previsão de despacho de geração de potência ativa (MW) individualizada por usina;
+(2) encaminhar à Distribuidora responsável pela concessão da área em que estiver conectada, os
+limites de absorção e de geração de potência reativa individualizados por usina.
+(3) informações adicionais sobre as características da usina e seu regime de operação, quando
+solicitado; e
+(4) restrições operativas existentes em unidades geradoras, com indicação das causas, quando
+solicitado.
+(e) Agentes de geração detentores de usinas classificadas como Tipo II-C, por meio do respectivo
+representante do conjunto de usinas a que elas pertencem:
+(1) parâmetros elétricos de equipamentos e instalações de sua propriedade, que fazem parte de um
+conjunto de usinas representado na Rede de Simulação;
+(2) cronogramas e parâmetros elétricos das novas instalações previstas para o horizonte do estudo
+conforme acompanhamento da ANEEL;
+(3) restrições operativas existentes em unidades geradoras que fazem parte do grupo de usinas, com
+indicação das causas;
+(4) informações adicionais sobre as características da usina e seu regime de operação;
+(5) Cronograma de manutenção de longa duração das unidades geradoras ou instalação de
+transmissão de uso exclusivo do conjunto, que resultem em indisponibilidades superiores a 10%
+da capacidade instalada total do mesmo, para o período do estudo;
+(6) usinas com despacho mínimo obrigatório por restrições resultantes do uso múltiplo da água,
+quando for o caso;
+(7) disponibilidade de geração de potência ativa (MW) individualizada por usina para o horizonte de
+estudo;
+(8) limites de absorção e de geração de potência reativa (Mvar) individualizados por usina.
+(f) Agentes de distribuição:
+(1) parâmetros elétricos de equipamentos e instalações de sua propriedade existentes na Rede de
+Simulação;
+(2) cronograma e parâmetros elétricos das novas instalações, previstas para o horizonte do estudo, a
+serem representados na Rede de Simulação;
+(3) diagrama eletro-geográfico do sistema elétrico de sua propriedade;
+(4) equipamentos de compensação reativa e filtragem de harmônicos – reatores, capacitores,
+compensadores estáticos ou síncronos – conectados à Rede de Simulação, com a indicação dos
+Endereço na internet: http://www.ons.org.br 4 / 8
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica com
+3.4 Operacional 2020.12 01/01/2021
+horizonte quadrimestral
+que são manobráveis, a especificação da potência de cada módulo que compõe a compensação
+informada e adicionalmente, as informações do sistema de controle para os estudos de diretrizes
+para a operação elétrica com horizonte quadrimestral;
+(5) faixas operativas e tensões desejadas nos barramentos de conexão com a Rede Básica, em
+condição normal e sob contingência;
+(6) contingências na sua rede que possam provocar impactos na Rede de Operação;
+(7) medidas realizadas para controle de carregamento de equipamento da rede de distribuição que
+podem provocar restrições na Rede de Operação;
+(8) possibilidade de manobra de equipamentos da distribuição para controle de carregamento da
+Rede de Operação;
+(9) limites de carregamento e restrições operativas em seus equipamentos representados na Rede de
+Simulação, em condições normais e de emergência em períodos contínuos e em períodos de curta
+duração e longa duração com indicação dos fatores limitantes e dos equipamentos restritivos; e
+(10)cronograma para os estudos com horizonte quadrimestral da manutenção de longa duração dos
+componentes da Rede de Operação e do sistema de distribuição que influenciam o desempenho
+da Rede de Operação.
+(11)os seguintes dados das usinas classificadas como Tipo II-B e conectadas na sua área de concessão:
+(i) previsão de despacho de geração de potência ativa (MW) individualizada por usina para os
+estudos com horizonte quadrimestral; e
+(ii) limites de absorção e de geração de potência reativa individualizada por usina.
+(g) Consumidores livres:
+(1) ajustes dos equipamentos de proteção como relés de subtensão, de sobretensão, de
+subfrequência, de sobrefrequência etc.;
+(2) faixas operativas e tensões desejadas nos barramentos de conexão com a Rede Básica, em
+condição normal e sob contingência; e
+(3) equipamentos de compensação reativa e de filtragem de harmônicos da instalação, com a
+indicação dos que são manobráveis e adicionalmente, as informações do sistema de controle para
+os estudos de planejamento da operação elétrica com horizonte quadrimestral.
+1.2. O ONS realiza a consolidação dos dados e informações enviadas pelos agentes de operação.
+1.2.1. Caso seja identificada alguma inconsistência nos dados fornecidos pelos agentes, o ONS comunica
+imediatamente ao responsável pela informação para eventual retificação do dado.
+2. ELABORAÇÃO DAS PREMISSAS PARA OS ESTUDOS DE PLANEJAMENTO DA OPERAÇÃO ELÉTRICA COM
+HORIZONTE QUADRIMESTRAL
+2.1. O ONS é responsável pela elaboração das premissas necessárias para os estudos de planejamento da
+operação elétrica e a participação dos agentes de operação, antes do início de cada estudo, é facultativa.
+2.2. O ONS elabora as premissas para os estudos de planejamento da operação elétrica com o escopo, a
+forma de execução, o cronograma das atividades, a descrição geral do estudo, as premissas e critérios gerais
+e a definição das análises a serem realizadas.
+Endereço na internet: http://www.ons.org.br 5 / 8
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica com
+3.4 Operacional 2020.12 01/01/2021
+horizonte quadrimestral
+2.3. O ONS define o escopo e as premissas dos estudos de planejamento da operação elétrica,
+considerando os seguintes aspectos:
+(a) as situações operativas de transferências de energia entre regiões ou subsistemas a serem analisadas;
+(1) são priorizadas aquelas indicadas pelas avaliações energéticas para o período.
+(b) as situações de operação de intercâmbios e de geração a serem considerados nos casos de referência;
+(c) as configurações a serem analisadas, considerando o cronograma dos equipamentos e as instalações
+de transmissão e geração previstas;
+(d) os perfis de cargas que melhor evidenciam as particularidades operativas de cada sistema;
+(e) o conjunto de simulações que devem ser analisadas para avaliação do desempenho do sistema;
+(f) a necessidade de avaliar atributos adicionais aos constantes nos Procedimentos de Rede, quando for
+o caso; e
+(g) o detalhamento dos resultados a serem apresentados, a saber:
+(1) medidas operativas para que a operação atenda aos padrões e critérios estabelecidos nos
+Procedimentos de Rede;
+(2) compatibilização das restrições elétricas com as políticas energéticas que visam a assegurar o
+menor custo da operação;
+(3) limites de transmissão entre regiões do SIN;
+(4) desempenho das áreas geoelétricas do sistema, em condição normal e sob contingência;
+(5) despachos de geração térmica para atendimento à segurança elétrica;
+(6) análise do desempenho das interligações internacionais;
+(7) análise do atendimento ao despacho mínimo das usinas informadas pelos agentes de geração.
+3. MONTAGEM DOS CASOS DE REFERÊNCIA
+3.1. O ONS elabora e disponibiliza os casos de referência aos agentes de operação com base e nos prazos
+das premissas do estudo de planejamento da operação elétrica.
+3.1.1. Caso necessário, por determinação do ONS ou solicitação de agente, o ONS prepara casos de fluxos
+de potência específicos.
+4. SIMULAÇÕES E ANÁLISES DO SISTEMA
+4.1. O ONS realiza o processamento das simulações e análises do sistema a partir dos casos de referência e
+utiliza programas e modelos computacionais de análise de redes, estabilidade eletromecânica e estabilidade
+dinâmica, conforme Submódulo 2.3 – Premissas, critérios e metodologia para estudos.
+4.2. O ONS realiza simulações e análises com objetivo de avaliar o desempenho do sistema, em condições
+normais de operação e sob contingências, e verificar o atendimento aos padrões definidos nos
+Procedimentos de Rede, consolidadas no Submódulo 2.3.
+Endereço na internet: http://www.ons.org.br 6 / 8
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica com
+3.4 Operacional 2020.12 01/01/2021
+horizonte quadrimestral
+4.3. O ONS simula e analisa as situações de contingências simples, ou seja, a perda de um único elemento
+do sistema elétrico, seja linha de transmissão, transformador, banco de transformador, unidade geradora,
+elo de corrente contínua (CC) ou equipamento de controle de tensão, tal como reator, capacitor,
+compensador síncrono ou compensador estático.
+5. ELABORAÇÃO DOS ESTUDOS
+5.1. Diretrizes para a Operação Elétrica com Horizonte Quadrimestral
+5.1.1. O ONS elabora as Diretrizes para Operação Elétrica com Horizonte Quadrimestral contendo as
+premissas e os resultados das análises realizadas nos estudos elétricos, contendo nas suas principais
+conclusões:
+(a) os problemas identificados nas áreas geoelétricas e/ou nas interligações regionais e internacionais
+referentes ao não atendimento dos padrões definidos nos Procedimentos de Rede ao longo do
+horizonte de estudo, bem como as ações para solucionar os problemas apresentados, para as
+condições normais de operação ou sob contingências;
+(b) os reflexos da incorporação dos novos empreendimentos no desempenho e na operação do SIN, de
+acordo com o cronograma de equipamentos e instalações de transmissão e geração considerado:
+(1) análises de sensibilidade são apresentadas para avaliar as consequências de possíveis atrasos e/ou
+antecipações na implantação dos novos empreendimentos;
+(c) o detalhamento dessas diretrizes para fins de elaboração das instruções de operação, a saber:
+(1) limites de transmissão nas interligações regionais;
+(2) limites de transmissão para áreas geoelétricas;
+(3) controle de tensão e carregamento;
+(4) geração térmica mínima para atendimento à carga com segurança elétrica;
+(5) restrições de geração térmica, hidráulica ou outras, nas usinas das diversas bacias;
+(d) as recomendações, decorrentes do não-atendimento aos padrões definidos nos Procedimentos de
+Rede, nas quais são indicadas ações a serem realizadas até que entrem em operação os reforços. Essas
+recomendações contém:
+(1) revisão e/ou concepção de novas medidas operativas para solução dos problemas identificados ao
+longo do estudo ou indicadas em estudos anteriores;
+(2) indicação da necessidade de revisão e/ou concepção de novos SEP;
+(3) indicação, sob o ponto de vista de atendimento elétrico, do melhor período para manutenções de
+longa duração de componentes do sistema de transmissão e de unidades geradoras, de acordo
+com a análise dos cronogramas informados para o horizonte do estudo; e
+(4) identificação da necessidade de revisão de ajustes dos controladores do SIN.
+6. DISPONIBILIZAÇÃO DOS ESTUDOS E ACOMPANHAMENTO DAS AÇÕES PROPOSTAS
+6.1. O ONS emite e disponibiliza os produtos do planejamento da operação elétrica de médio prazo e com
+horizonte quadrimestral aos agentes de operação.
+Endereço na internet: http://www.ons.org.br 7 / 8
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação elétrica com
+3.4 Operacional 2020.12 01/01/2021
+horizonte quadrimestral
+6.2. O ONS realiza em cada estudo uma avaliação do atendimento às ações propostas no estudo anterior,
+com o objetivo de ratificar ou redefinir a sistemática necessária à solução dos problemas identificados.
+7. REFERÊNCIAS
+7.1. Não há referências neste submódulo.
+Endereço na internet: http://www.ons.org.br 8 / 8

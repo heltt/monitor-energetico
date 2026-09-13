@@ -1,0 +1,15 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: DESPACHO Nº 607, DE 23 DE FEVEREIRO DE 2026
+DATA_PUBLICACAO: 25/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=25/02/2026&jornal=515&pagina=88
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Energia Elétrica/Superintendência de Regulação dos Serviços de Transmissão e Distribuição de Energia Elétrica/Gerência de Regulação do Serviço de Distribuição
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+DESPACHO Nº 607, DE 23 DE FEVEREIRO DE 2026
+O GERENTE DE REGULAÇÃO DO SERVIÇO DE DISTRIBUIÇÃO SUBSTITUTO DA SUPERINTENDÊNCIA DE REGULAÇÃO DOS SERVIÇOS DE TRANSMISSÃO E DISTRIBUIÇÃO DE ENERGIA ELEÉTRICA DA AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA -ANEEL, no uso da atribuição que lhe foi subdelegada por meio dos incisos VIII e IX do Art. 3º da Portaria nº 6.844, de 2023, com fundamento no que consta no processo 48500.904287/2014-46, decide:
+aprovar a Revisão 5 do Manual de Instruções da Base de Dados Geográfica da Distribuidora - BDGD, que passa a vigorar no dia 1° de março de 2026. O Manual de Instruções da BDGD encontra-se disponível no endereço eletrônico https://www.gov.br/aneel/pt-br/centrais-de-conteudos/manuais-modelos-e-instrucoes/distribuicao.
+RENATO EDUARDO FARIAS DE SOUSA

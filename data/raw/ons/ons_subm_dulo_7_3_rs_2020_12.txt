@@ -1,0 +1,185 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.3-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.3-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.3
+Verificação da conformidade das
+instalações de transmissão aos
+requisitos
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações de
+7.3 Responsabilidades 2020.12 01/01/2021
+transmissão aos requisitos
+ÍNDICE
+1. OBJETIVOS.......................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Proposição de Requisitos para os Instrumentos Técnicos dos Processos de Licitação ou
+Autorização...................................................................................................................................3
+2.2. Parecer Técnico de Análise da Conformidade do Projeto Básico..................................................3
+2.3. Certificado de Conformidade do Projeto Básico (CCPB)...............................................................3
+2.4. Parecer Técnico de Análise da Conformidade das Instalações de Transmissão como
+Efetivamente Implantadas............................................................................................................3
+2.5. Dados técnicos e geográficos da Base de Dados das Instalações de Transmissão (BDIT).............3
+3. RESPONSABILIDADES.......................................................................................................................4
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................4
+3.2. Agentes de transmissão................................................................................................................4
+4. PRAZOS............................................................................................................................................5
+5. REFERÊNCIAS...................................................................................................................................6
+Endereço na internet: http://www.ons.org.br 2 / 6
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações de
+7.3 Responsabilidades 2020.12 01/01/2021
+transmissão aos requisitos
+1. OBJETIVOS
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas dos processos relativos à:
+(a) proposição à Agência Nacional de Energia Elétrica – ANEEL de requisitos para inclusão no instrumento
+técnico dos processos de licitação ou autorização para instalações de transmissão a serem integradas
+ao Sistema Interligado Nacional (SIN);
+(b) verificação da conformidade aos requisitos do projeto básico das instalações de transmissão licitadas
+ou autorizadas a serem integradas ao SIN;
+(c) verificação da conformidade aos requisitos das características como efetivamente implantadas das
+instalações de transmissão licitadas ou autorizadas a serem integradas ao SIN; e
+(d) validação qualitativa de consistência e fornecimento contínuo ao Operador Nacional do Sistema
+Elétrico – ONS e à ANEEL dos dados que alimentam a Base de Dados das Instalações de Transmissão
+(BDIT).
+2. PRODUTOS
+2.1. Proposição de Requisitos para os Instrumentos Técnicos dos Processos de Licitação ou Autorização
+2.1.1. Consiste na proposição à ANEEL de requisitos específicos a serem atendidos pelas instalações de
+transmissão a serem integradas ao SIN, incluídos no instrumento técnico dos processos de licitação ou
+autorização, adicionalmente aos requisitos gerais estabelecidos nos Procedimentos de Rede.
+2.2. Parecer Técnico de Análise da Conformidade do Projeto Básico
+2.2.1. Contém a análise do projeto básico das instalações de transmissão a serem integradas ao SIN quanto
+à conformidade aos requisitos estabelecidos no instrumento técnico dos processos de licitação ou
+autorização e nos Procedimentos de Rede.
+2.3. Certificado de Conformidade do Projeto Básico (CCPB)
+2.3.1. Atesta a conformidade do projeto básico das instalações de transmissão a serem integradas ao SIN
+aos requisitos estabelecidos no instrumento técnico dos processos de licitação ou autorização e nos
+Procedimentos de Rede.
+2.4. Parecer Técnico de Análise da Conformidade das Instalações de Transmissão como Efetivamente
+Implantadas
+2.4.1. Contém a análise das características como efetivamente implantadas das instalações de transmissão
+a serem integradas ao SIN quanto à conformidade aos requisitos estabelecidos no instrumento técnico dos
+processos de licitação ou autorização e nos Procedimentos de Rede, documentados no projeto básico.
+2.5. Dados técnicos e geográficos da Base de Dados das Instalações de Transmissão (BDIT)
+2.5.1. Contém os dados técnicos atualizados da BDIT a serem informados para a ANEEL.
+Endereço na internet: http://www.ons.org.br 3 / 6
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações de
+7.3 Responsabilidades 2020.12 01/01/2021
+transmissão aos requisitos
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Propor à ANEEL requisitos técnicos específicos para as instalações de transmissão a serem licitadas
+ou autorizadas.
+(b) Analisar a conformidade das instalações de transmissão a serem integradas ao SIN aos requisitos
+técnicos estabelecidos no instrumento técnico dos processos de licitação ou autorização e nos
+Procedimentos de Rede.
+(c) Emitir o Parecer Técnico de Análise da Conformidade do Projeto Básico.
+(d) Emitir o CCPB.
+(e) Emitir o Parecer Técnico de Análise da Conformidade das Instalações de Transmissão como
+Efetivamente Implantadas.
+(f) Validar e fornecer à ANEEL os dados técnicos atualizados para composição da BDIT por meio de sistema
+específico.
+(g) Fornecer à ANEEL os registros dos casos excepcionais para os requisitos dos serviços auxiliares em
+corrente alternada analisados.
+(h) Fornecer à ANEEL os registros dos casos excepcionais para os requisitos dos serviços auxiliares em
+corrente alternada analisados.
+3.2. Agentes de transmissão
+(a) Obter os dados a serem adotados na elaboração do projeto básico, bem como nas fases de
+construção, manutenção e operação da linha de transmissão, inclusive os descritivos das condições
+ambientais e geomorfológicas de sua região de implantação.
+(b) Fornecer ao ONS o projeto básico das instalações de transmissão licitadas ou autorizadas a serem
+integradas ao SIN e as demais informações solicitadas neste submódulo.
+(c) Fornecer ao ONS as características como efetivamente implantadas das instalações de transmissão
+licitadas ou autorizadas a serem integradas ao SIN.
+(d) Realizar ensaios e testes e/ou estudos adicionais para comprovação do atendimento aos requisitos
+do instrumento técnico e dos Procedimentos de Rede, quando solicitados pelo ONS ou pela ANEEL.
+(e) Fornecer declarações de que os equipamentos estão em conformidade com o instrumento técnico e
+os Procedimentos de Rede, quando solicitados pelo ONS ou pela ANEEL.
+(f) Enviar ao ONS os dados técnicos atualizados para composição da BDIT por meio de sistema específico.
+Endereço na internet: http://www.ons.org.br 4 / 6
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações de
+7.3 Responsabilidades 2020.12 01/01/2021
+transmissão aos requisitos
+4. PRAZOS
+Quadro 1 - Prazos relativos ao processo de verificação da conformidade das instalações de transmissão aos
+requisitos
+Atividade Responsável Prazo
+Elaboração do projeto básico do empreendimento em
+Prazos estabelecidos no
+uma etapa única, para empreendimentos em Agente de
+1 instrumento técnico do
+corrente alternada e nas etapas de concepção e transmissão
+processo de licitação
+detalhamento, para elos de corrente contínua
+Mínimo de 180 (cento e
+Fornecimento ao ONS das informações destinadas
+oitenta) dias antes da
+aos estudos pré-operacionais referentes aos
+Agente de data prevista para a
+2 parâmetros elétricos dos equipamentos integrantes
+transmissão entrada em operação
+de Funções Transmissão Linha de Transmissão (FTLT),
+comercial do
+Transformação (FTTR) e Controle de Reativo (FTCR)
+empreendimento
+Fornecimento ao ONS das informações destinadas
+aos estudos pré-operacionais relativas a reatores Mínimo de 60 (sessenta)
+limitadores de corrente de curto-circuito, aos dias antes da data
+Agente de
+3 equipamentos não previstos na atividade 1 e dos prevista para a entrada
+transmissão
+dados das características dos relés de caráter em operação comercial
+sistêmico, bem como os dados necessários para o do empreendimento
+cálculo dos respectivos ajustes
+Mínimo de 15 (quinze)
+Fornecimento ao ONS das informações destinadas dias antes da data
+Agente de
+4 aos estudos pré-operacionais referentes aos sistemas prevista para a entrada
+transmissão
+de proteção em operação comercial
+do empreendimento
+Informe ao agente do resultado da análise das
+Máximo de 45 (quarenta e
+características como efetivamente implantadas das
+5 ONS cinco) dias contados a
+instalações de transmissão de cada empreendimento
+partir da data de cadastro
+cadastrado no sistema computacional do ONS
+Fornecimento à ANEEL dos registros dos casos
+excepcionais para os requisitos dos serviços auxiliares Até 31 de março de cada
+6 ONS
+em corrente alternada analisados, referentes ao ano ano subsequente
+civil anterior
+Endereço na internet: http://www.ons.org.br 5 / 6
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Verificação da conformidade das instalações de
+7.3 Responsabilidades 2020.12 01/01/2021
+transmissão aos requisitos
+Quadro 2 - Prazos relativos ao processo de fornecimento e atualização dos dados que compõem a BDIT
+Atividade Responsável Prazo
+Até a data de entrada em
+Encaminhamento dos dados técnicos que compõem a Agente de operação das instalações
+1
+BDIT das instalações sob sua concessão transmissão ou equipamentos de
+transmissão
+Atualização dos dados técnicos relativos à condição
+Agente de Até 31 de março do ano
+2 das instalações sob sua concessão em 31 de
+transmissão em curso
+dezembro do ano anterior
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 6 / 6

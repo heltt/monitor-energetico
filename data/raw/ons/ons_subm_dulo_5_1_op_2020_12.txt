@@ -1,0 +1,309 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 5.1-OP_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 5.1-OP_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 5.1
+Operação do Sistema e das instalações
+da Rede de Operação
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação do Sistema e das instalações da Rede
+5.1 Operacional 2020.12 01/01/2021
+de Operação
+ÍNDICE
+1. DEFINIÇÃO DA HIERARQUIA OPERACIONAL.....................................................................................3
+2. DEFINIÇÃO DO RELACIONAMENTO OPERACIONAL...........................................................................4
+3. OPERAÇÃO DAS INSTALAÇÕES DA REDE DE OPERAÇÃO...................................................................6
+3.1. Operação normal das instalações.................................................................................................6
+3.2. Operação da instalação em contingência......................................................................................8
+3.3. Operação da instalação em emergência.......................................................................................8
+3.4. Operação da instalação em regime especial.................................................................................8
+4. REFERÊNCIAS...................................................................................................................................9
+Endereço na internet: http://www.ons.org.br 2 / 9
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação do Sistema e das instalações da Rede
+5.1 Operacional 2020.12 01/01/2021
+de Operação
+1. DEFINIÇÃO DA HIERARQUIA OPERACIONAL
+1.1. As atividades da operação do sistema e da operação de instalações são interdependentes e
+complementares, uma vez que os resultados da operação do sistema são insumos para a operação das
+instalações e vice-versa.
+1.2. O ONS estabelece a hierarquia para seus centros de operação na operação do sistema baseado no
+princípio da delegação de autoridade dos níveis superiores aos níveis inferiores, bem como nos seus diversos
+níveis de atuação na Rede de Operação.
+1.2.1. No âmbito dos centros de operação do ONS, os níveis superiores têm a prerrogativa de atuar, segundo
+sua conveniência, em quaisquer dos níveis inferiores, sempre que isto se caracterize como necessário.
+1.2.2. Os níveis hierárquicos estabelecidos para os centros de operação do ONS, são:
+(a) 1º nível: Centro Nacional de Operação do Sistema – CNOS;
+(b) 2º nível:
+(1) Centro de Operação Sul - COSR – S;
+(2) Centro de Operação Sudeste - COSR – SE;
+(3) Centro de Operação Nordeste - COSR – NE;
+(4) Centro de Operação Norte/ Centro Oeste - COSR – NCO.
+1.2.3. A área de atuação de cada um dos centros de operação do ONS é a seguinte:
+(a) CNOS
+(1) A área de atuação do CNOS é a Rede de Operação em sua totalidade. Entretanto, a atuação do
+CNOS se concentra, sobretudo, na Rede de Operação Sistêmica e nas interligações internacionais
+e supranacionais.
+(2) A atuação do CNOS no que se refere ao gerenciamento da carga abrange todo o Sistema
+Interligado Nacional (SIN).
+(b) COSR
+(1) A área de atuação de cada COSR é a Rede de Operação Regional de cada região (Sul, Sudeste,
+Norte/Centro-Oeste e Nordeste), conforme detalhado no Submódulo 5.13 – Rotinas
+operacionais.
+(2) A atuação de cada COSR no que se refere ao gerenciamento da carga abrange toda a sua área de
+atuação.
+1.3. O CNOS indica o centro de operação do ONS responsável pelo relacionamento com os agentes de
+operação relativos às instalações da Rede de Operação conforme as seguintes definições:
+(a) Para instalações de transmissão licitadas, o centro de operação do ONS que terá relacionamento
+com a instalação consta no seu edital de licitação.
+(b) Para reforços autorizados pela ANEEL em instalações já existentes, o centro de operação do ONS é o
+mesmo que já se relacionava com a instalação.
+Endereço na internet: http://www.ons.org.br 3 / 9
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação do Sistema e das instalações da Rede
+5.1 Operacional 2020.12 01/01/2021
+de Operação
+(c) Para o agente de operação que tem acesso à Rede Básica e às Demais Instalações de Transmissão –
+DIT, o centro de operação do ONS é indicado no Parecer de Acesso.
+(d) Para a usina da Rede de Operação conectada à rede de distribuição, o centro de operação do ONS
+responsável pelo relacionamento operacional é informado no Parecer de Acesso emitido pela
+concessionária de distribuição.
+1.4. Os agentes definem a hierarquia dos centros de operação que atuam na operação de suas instalações.
+1.4.1. A hierarquia de operação dos agentes é composta por suas instalações e por seus centros de operação.
+1.4.2. A hierarquia de operação dos agentes, em seus diversos níveis de atuação, é fundamentada no
+princípio da delegação de autoridade.
+1.4.3. O agente deve respeitar o princípio de que exista no máximo um único interlocutor do agente (órgão
+de operação designado pelo agente) entre os operadores dos centros de operação do ONS e o executor direto
+da operação das instalações da Rede de Operação.
+1.4.4. Todas as funções operacionais descritas neste submódulo, devem ser exercidas única e
+exclusivamente por agentes, entidades ou órgãos localizados fisicamente em território brasileiro,
+reconhecidos pelo ONS para tanto. É vedado a intervenção, direta ou indiretamente, de qualquer agente
+fisicamente situado fora dos locais estabelecidos para execução destas funções, salvo quando expressamente
+autorizado pelo ONS.
+2. DEFINIÇÃO DO RELACIONAMENTO OPERACIONAL
+2.1. Os centros de operação do ONS efetuam as tratativas que envolvem as atividades de coordenação,
+supervisão e controle da Rede de Operação.
+2.2. O agente de operação efetua as tratativas envolvendo as atividades de comando e execução por meio
+de um centro de operação próprio, de um órgão especificamente designado por esse agente ou de suas
+próprias instalações, conforme acordado com o ONS.
+2.3. O ONS e o agente de operação devem padronizar e realizar o fluxo de informações entre seus centros
+de operação, no que se refere à operação das instalações, de acordo com o Submódulo 5.13.
+2.3.1. A comunicação operativa entre os centros de operação do ONS, os centros de operação dos agentes
+de operação, os órgãos designados por esses agentes para o relacionamento e as instalações deve ser
+efetuada de forma clara, objetiva, completa e padronizada de acordo com o Submódulo 5.13 para garantir a
+fidelidade das mensagens, evitando falhas de entendimento ou o não repasse de informações que possam
+colocar em risco pessoas, instalações e a qualidade e segurança do sistema.
+2.4. O ONS registra toda a comunicação operativa em tempo real dos centros de operação do ONS por meio
+de sistemas de gravação de voz.
+2.5. O agente de operação e ONS registram, por meio de sistemas de gravação de voz conforme definido
+pelo Submódulo 2.16 – Requisitos operacionais para centros de operação e instalações da Rede de Operação,
+toda a comunicação operativa em tempo real entre os centros de operação dos agentes, ou órgão designado
+pelo agente com função similar, e as subestações e as usinas da Rede de Operação com os quais se relaciona.
+2.6. O agente de operação implanta os recursos de telecomunicações necessários à execução das atividades
+das equipes de tempo real dos centros de operação atendendo aos requisitos especificados no Submódulo
+2.15 – Requisitos mínimos para telecomunicações.
+2.7. Os centros de operação do ONS organizam e mantém:
+Endereço na internet: http://www.ons.org.br 4 / 9
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação do Sistema e das instalações da Rede
+5.1 Operacional 2020.12 01/01/2021
+de Operação
+(a) sistema de gravação de voz dos contatos operacionais com os agentes de operação e demais
+centros de operação do ONS;
+(b) base de dados históricos do sistema de supervisão e controle;
+(c) registro das determinações operativas, intervenções, reprogramações e ocorrências da Rede de
+Operação.
+2.8. O agente de operação informa seu interlocutor ao centro de operação do ONS com o qual se relaciona
+e o coloca à disposição para efetuar a troca de informações, conforme Submódulo 5.13.
+2.9. O centro de operação do ONS que recebeu a informação divulga, para os demais centros de operação
+do ONS, os interlocutores e contatos informados pelo agente de operação.
+2.10. Os agentes de operação e os centros de operação do ONS trocam todas as informações necessárias à
+operação em tempo real, imediatamente após a constatação de um evento relevante para a operação.
+2.10.1. A comunicação escrita na operação em tempo real não deve prescindir do contato verbal e do
+registro de envio.
+2.11. O relacionamento operacional entre o ONS e os agentes de operação dá-se da forma indicada a seguir.
+2.11.1. Para a normatização
+2.11.1.1. Entre o CNOS e os agentes de operação:
+(a) o CNOS se relaciona com os agentes de operação envolvidos, por meio do órgão específico
+designado pelo próprio agente, para elaboração e revisão das rotinas operacionais e das instruções
+de operação de caráter geral e da Rede de Operação Sistêmica.
+2.11.1.2. Entre os COSR e os agentes de operação:
+(a) o COSR se relaciona com os agentes de operação responsáveis pelas instalações localizadas nas
+suas respectivas áreas de atuação, por meio do órgão específico designado pelo próprio agente,
+para elaboração e revisão das instruções de operação da Rede de Operação Regional e das
+instruções de operação da Rede de Operação Sistêmica, delegadas pelo CNOS.
+2.11.2. Na pré-operação
+(a) Todos os relacionamentos são feitos por meio dos centros de operação do ONS para tratativas que
+envolvem as atividades de compatibilização de intervenções e elaboração do PDO, nas suas
+respectivas áreas de atuação.
+(b) Os centros de operação do ONS se relacionam com os agentes de operação responsáveis por
+equipamentos e linhas de transmissão localizados nas suas respectivas áreas de atuação.
+(c) O interlocutor do agente é o órgão específico designado pelo próprio agente.
+2.11.3. Na pós-operação
+(a) Todos os relacionamentos são feitos por meio dos centros de operação do ONS, para tratativas que
+envolvem as atividades de pós-operação, nas suas respectivas áreas de atuação.
+(b) Os centros do ONS se relacionam com os agentes de operação responsáveis por equipamentos
+localizados nas suas respectivas áreas de atuação, conforme a abrangência do assunto.
+(c) O interlocutor do agente é o órgão específico designado pelo próprio agente.
+2.11.4. Em tempo real
+Endereço na internet: http://www.ons.org.br 5 / 9
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação do Sistema e das instalações da Rede
+5.1 Operacional 2020.12 01/01/2021
+de Operação
+(a) O relacionamento dos centros de operação do ONS com os agentes de operação dá-se por meio de
+centros de operação desses agentes ou dos órgãos por eles designados.
+(b) Os operadores dos centros de operação do ONS podem se relacionar em tempo real diretamente com
+os executores diretos da operação quando estes forem designados pelo agente para relacionamento
+em tempo real.
+(c) O interlocutor do ONS é o COSR em cuja área de atuação a instalação do agente está conectada.
+(d) A natureza das informações, seu conteúdo, formato, frequência e o meio de envio estão definidos em
+instruções de operação, mensagens operativas, ajustamentos operativos, regulamentos
+internacionais e rotinas operacionais (Submódulos 5.11 a 5.15).
+2.12. O agente de operação presta, em tempo real, todas as informações ao centro de operação do ONS com
+o qual se relaciona sobre quaisquer situações operativas nas suas instalações que possam vir a ter influência
+na Rede de Operação do ONS.
+2.13. O relacionamento operacional entre os centros de operação do ONS dá-se da forma indicada a seguir.
+2.13.1. Em tempo real
+(a) O CNOS se relaciona com os COSR.
+(b) Um COSR se relaciona com outros COSR para tratar de questões operativas nas fronteiras das suas
+respectivas áreas de atuação.
+(c) Um COSR se relaciona com os centros de operação de agentes, com o órgão designado pelo agente
+ou com as instalações para realizar ações de coordenação e controle e emitir determinações para a
+operação da Rede de Operação Regional ou Sistêmica.
+2.14. O relacionamento internacional com agentes de operação de outros países ou supranacionais é
+efetivado entre o CNOS e os centros de operação designados pelos países ou empresas supranacionais
+envolvidas. Por delegação do CNOS, um COSR pode fazer parte desse relacionamento.
+2.14.1. O relacionamento é desenvolvido com base em procedimentos técnicos e operacionais constantes
+no(s) regulamento(s) internacional(is) celebrado(s) entre os agentes estrangeiros envolvidos e o ONS
+(Submódulo 5.15).
+3. OPERAÇÃO DAS INSTALAÇÕES DA REDE DE OPERAÇÃO
+3.1. Operação normal das instalações
+3.1.1. Os Centros de Operação do ONS elaboram as instruções de operação do sistema e de operação
+sistêmica das instalações integrantes da Rede de Operação.
+3.1.1.1. Os agentes de operação prestam informações de sua responsabilidade, ao ONS, para elaboração de
+instruções de operação específicas, que definem os procedimentos para operação das instalações, nos
+aspectos de interesse para a Rede de Operação.
+3.1.2. Os centros de operação do ONS fazem a supervisão e o controle da operação, observando os
+carregamentos de equipamentos e linhas de transmissão em relação aos limites operativos previamente
+definidos, de modo a garantir a manutenção dos níveis de segurança e confiabilidade desejados.
+3.1.3. O agente de operação comanda e executa a operação das instalações da Rede de Operação do qual é
+proprietário em conformidade com o Manual de Procedimento da Operação (MPO).
+Endereço na internet: http://www.ons.org.br 6 / 9
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação do Sistema e das instalações da Rede
+5.1 Operacional 2020.12 01/01/2021
+de Operação
+3.1.4. O agente de operação faz a supervisão da operação, observando os carregamentos de equipamentos
+e linhas de transmissão em relação aos limites operativos previamente definidos, de modo a garantir a
+manutenção dos níveis de segurança e confiabilidade desejados.
+3.1.5. O agente de operação assegura que os operadores das instalações da Rede de Operação e daquelas
+com influência nessa rede estejam devidamente habilitados para as atividades de tempo real contidas no
+MPO, mediante processo de Certificação de Competência Técnica e de Saúde Física e Mental, detalhado no
+Submódulo 5.13 do MPO.
+3.1.6. O ONS participa da operação de instalações não integrantes da Rede de Operação nos casos em que
+há ajustamentos operativos firmados entre o ONS e os agentes envolvidos ou quando o processo operativo
+sistêmico assim o demandar.
+3.1.7. Antes da energização de novas instalações ou equipamentos ou linhas de transmissão da Rede de
+Operação, o agente de operação realiza a programação prévia (Submódulo 4.2 – Programação de
+intervenções em instalações da Rede de Operação), participa da elaboração ou atualização de instruções de
+operação (Submódulo 1.1 – Elaboração e manutenção do Manual de Procedimentos da Operação), provê os
+requisitos de supervisão e controle (Submódulo 2.12 – Requisitos mínimos de supervisão e controle para a
+operação), e capacita os operadores da instalação, dos centros de operação que atuam na operação de suas
+instalações.
+3.1.7.1. O ONS capacita os operadores dos centros de operação do ONS para operarem novas instalações ou
+equipamentos ou linhas de transmissão da Rede de Operação.
+3.1.8. O agente de operação disponibiliza, entre outros, os seguintes documentos, cuja elaboração é de sua
+competência, para operação das suas instalações:
+(a) manual de operação próprio, com as normas e instruções de operação, padronização das manobras
+e outros documentos, conforme a estrutura e organização de cada agente, incluindo as instruções
+de operação elaboradas pelo ONS ou pelo próprio agente proprietário da instalação, em
+conformidade com os procedimentos estabelecidos pelo ONS para a Rede de Operação;
+(b) diagramas unifilares operacionais da instalação.
+3.1.9. O agente de operação capacita as equipes envolvidas com a operação de suas instalações de forma
+global, particularmente no que se refere à documentação operacional citada no item 3.1.8. deste submódulo.
+3.1.10. O agente de operação informa aos centros de operação do ONS, em tempo real em caráter
+preliminar, quando ocorrer falha humana na operação ou manutenção da instalação com repercussão na
+Rede de Operação.
+3.1.10.1. O agente de operação apresenta relatório específico sobre os fatos ocorridos, caso seja solicitado
+pelo ONS.
+3.1.11. Os centros de operação do ONS controlam a geração das usinas da Rede de Operação não ligadas a
+um CAG.
+3.1.11.1. O agente proprietário de usina não ligadas a um CAG comanda e executa a operação para elevar
+ou reduzir a geração, de forma direta ou por meio de órgão designado como executor da operação, em
+conformidade com o disposto neste submódulo e no MPO.
+3.1.11.2. Para o agente de geração participante do CAG, conforme Submódulo 3.10 – Estudos para
+segurança operacional elétrica, o comando e a execução das ações para elevar ou reduzir a potência gerada
+pelas unidades ou usinas em regulação secundária são realizados por meio de telecomandos emitidos pelos
+recursos de CAG instalados nos centros de operação do ONS.
+Endereço na internet: http://www.ons.org.br 7 / 9
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação do Sistema e das instalações da Rede
+5.1 Operacional 2020.12 01/01/2021
+de Operação
+3.1.12. O centro de operação do ONS, para manobras em instalações compartilhadas, solicitará ou autorizará
+a energização ou desenergização de equipamentos ou linhas de transmissão ao agente responsável pela
+energização ou desenergização do equipamento ou linha a ser manobrado.
+3.1.13. O agente de operação responsável pela energização de linha de transmissão com terminais de
+agentes operadores diferentes poderá realizar o religamento manual de linhas de transmissão, desde que o
+procedimento conste em Instrução de Operação do MPO e o agente tenha a observabilidade dos dois
+terminais da linha de transmissão nas condições para o envio de tensão (terminal remoto da LT aberto).
+3.1.14. Agentes de operação só podem efetuar o corte manual de carga, decorrente de problemas na Rede
+de Operação, com autorização e controle do ONS, a menos que a instalação esteja em condição de
+emergência.
+3.1.15. O agente de operação solicita autorização do centro de operação do ONS responsável pela área para
+realizar qualquer alteração na configuração operacional das proteções sistêmicas ou proteções que façam
+parte de SEP, bem como para a ativação ou desativação desses sistemas.
+3.1.15.1. Após autorização do centro de operação do ONS, o agente de operação efetua as alterações,
+ativações e desativações.
+3.1.16. O agente de operação submete à aprovação do ONS as alterações nas instalações componentes da
+Rede de Operação, que afetem quaisquer procedimentos constantes nas instruções de operação elaboradas
+pelo ONS.
+3.1.16.1. Após aprovação do ONS, o agente de operação efetua as alterações nas instalações.
+3.2. Operação da instalação em contingência
+3.2.1. A operação em contingência será realizada conforme Submódulo 5.6 – Operação em contingência.
+3.3. Operação da instalação em emergência
+3.3.1. O agente de operação caracteriza a condição de emergência na sua instalação e toma as providências
+imediatas pertinentes.
+3.3.1.1. A condição de emergência na instalação é caracterizada pela existência de risco iminente para a
+integridade do sistema elétrico, para o meio ambiente, para a vida humana ou para a integridade física de
+pessoas ou, ainda, risco de dano aos equipamentos ou ao patrimônio da instalação ou de terceiros.
+3.3.2. O agente de operação da instalação em emergência adota, de imediato, os procedimentos
+estabelecidos em instruções de operação do agente de operação da instalação, com o objetivo de garantir a
+segurança de pessoas e/ou equipamentos e eliminar riscos, sem necessidade de contato prévio com o centro
+de operação do ONS.
+3.3.3. O agente proprietário ou o órgão por ele designado caracteriza a situação de emergência informando
+as condições de segurança da instalação ao centro de operação do ONS com o qual se relaciona tão logo
+essas condições sejam restabelecidas.
+3.4. Operação da instalação em regime especial
+3.4.1. O ONS caracteriza o regime especial de operação.
+3.4.1.1. O regime especial de operação compreenderá o período entre 12 horas antes do início do evento e
+12 horas após o encerramento do evento.
+3.4.2. Os agentes de operação responsáveis por instalações de geradora, transmissora e distribuidora que
+normalmente operam teleassistidas e que são integrantes dos troncos de recomposição e com influência
+Endereço na internet: http://www.ons.org.br 8 / 9
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação do Sistema e das instalações da Rede
+5.1 Operacional 2020.12 01/01/2021
+de Operação
+direta no atendimento de energia elétrica às localidades onde ocorrem eventos que motivaram o regime
+especial de operação, devem também dispor de operação local, em períodos específicos a serem
+determinados pelo ONS em função das características dos eventos que determinaram o regime especial de
+operação.
+4. REFERÊNCIAS
+4.1. Não há referências estabelecidas neste documento.
+Endereço na internet: http://www.ons.org.br 9 / 9

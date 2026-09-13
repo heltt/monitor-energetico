@@ -1,0 +1,21 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 26/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=26/02/2026&jornal=515&pagina=67
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Superintendência de Outorga de Títulos Minerários
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 62/2026
+Fase de Concessão de Lavra
+Aprova o relatório de Pesquisa de nova substância(1106)
+810.994/2015-MINERACAO VERA CRUZ LTDA-ARGILA
+Fase de Requerimento de Pesquisa
+Determina arquivamento definitivo do processo(155)
+858.045/2021-CARLOS ALBERTO FARIAS
+ANDRE ELIAS MARQUES
+Superintendente

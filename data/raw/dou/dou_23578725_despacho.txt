@@ -1,0 +1,25 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 06/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=06/02/2026&jornal=515&pagina=80
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Superintendência de Segurança de Barragens e Pilhas de Mineração/Gerência de Barragens de Mineração/Coordenação de Fiscalização de Barragens - Eixo Leste
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 3/2026
+Defere requerimento - BARRAGENS(2809)
+BARRAGEM DICÃO LESTE; BARRAGEM MOSQUITO - VALE S.A. - 930.150/1983 - Requerimento de: SOLICITAÇÃO DE ALTERAÇÃO CADASTRAL DE CAMPOS NÃO EDITÁVEIS NO SIGBM
+Fase de Concessão de Lavra
+Determina cumprimento de exigência técnica de barragem - Prazos estabelecidos em ofício:(2890)
+BARRAGEM CAMBUCAL I-VALE S.A.-930.641/1989-OF. N°3167/2026/CORBL/ANM
+BARRAGEM MOSQUITO; BARRAGEM DICÃO LESTE-VALE S.A.-930.150/1983-OF. N°OF 2297/2026/CORBL/ANM; OF 4039/2026/CORBL/ANM
+Prorroga prazo para cumprimento de exigência ténica de barragem - Prazos estabelecidos em ofício:(2368)
+BARRAGEM PORTEIRINHA - VALE S.A.-006.498/1961-OF. N°3898/2026/CORBL/ANM
+DIQUE DO BICHENTO III A - CSN MINERACAO S.A.-043.306/1956-OF. N°620/2026/CORBL/ANM
+TIMBOPEBA - VALE S.A.-002.132/1952-OF. N°3890/2026/CORBL/ANM
+PATRICIA D'ALMEIDA DE TOLEDO PIZA
+Gerente Substituta

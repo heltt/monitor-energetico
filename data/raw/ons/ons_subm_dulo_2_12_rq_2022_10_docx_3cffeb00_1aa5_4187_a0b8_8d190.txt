@@ -1,0 +1,1426 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 2.12-RQ_2022.10.docx_3cffeb00-1aa5-4187-a0b8-8d190100a34d
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 2.12-RQ_2022.10.docx_3cffeb00-1aa5-4187-a0b8-8d190100a34d.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 2.12
+Requisitos mínimos de supervisão e
+controle para a operação
+Requisitos
+Revisão Motivo da revisão Data de aprovação
+2022.10 Despacho ANEEL nº 2.852/2022 03/10/2022
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+ÍNDICE
+1. OBJETIVO ..................................................................................................................................... 4
+2. ASPECTOS GERAIS ......................................................................................................................... 4
+3. SISTEMAS DE SUPERVISÃO E CONTROLE DO ONS ........................................................................... 4
+3.1. Infraestrutura de supervisão e controle do ONS ........................................................................... 4
+3.2. Funções de supervisão e controle do ONS .................................................................................... 5
+4. SISTEMAS DE SUPERVISÃO E CONTROLE DOS AGENTES ................................................................. 8
+4.1. Geral ............................................................................................................................................... 8
+4.2. Interligação de dados ..................................................................................................................... 9
+4.3. Recursos de supervisão e controle dos agentes .......................................................................... 11
+4.4. Recursos de supervisão e controle para instalações teleassistidas ............................................. 11
+5. SUPERVISÃO E CONTROLE DE EQUIPAMENTOS PERTENCENTES À REDE DE OPERAÇÃO ................. 12
+5.1. Interligação de dados ................................................................................................................... 12
+5.2. Informações requeridas para a supervisão do sistema elétrico .................................................. 12
+5.3. Informações e telecomandos requeridos para o CAG ................................................................. 15
+5.4. Informações requeridas para o acompanhamento hidrológico .................................................. 16
+5.5. Requisitos de qualidade da informação ....................................................................................... 16
+Exatidão da medição .................................................................................................. 16
+Idade do dado ............................................................................................................ 17
+Banda morta e varredura de integridade .................................................................. 17
+Demais requisitos de qualidade para informações necessárias ao CAG ................... 17
+5.6. Parametrizações ........................................................................................................................... 17
+6. SEQUENCIAMENTO DE EVENTOS DE EQUIPAMENTOS PERTENCENTES À REDE DE OPERAÇÃO ....... 18
+6.1. Informações requeridas para o sequenciamento de eventos ..................................................... 18
+6.2. Qualidade dos eventos ................................................................................................................ 26
+7. SUPERVISÃO DE EQUIPAMENTOS DA REDE DE SUPERVISÃO E NÃO INTEGRANTES DA REDE DE
+OPERAÇÃO ................................................................................................................................. 27
+7.1. Interligação de dados ................................................................................................................... 27
+Endereço na internet: http://www.ons.org.br 2 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+7.2. Informações requeridas para a supervisão do sistema elétrico .................................................. 27
+7.3. Qualidade da informação ............................................................................................................. 29
+Exatidão da medição .................................................................................................. 29
+Idade do dado ............................................................................................................ 29
+Banda morta e varredura de integridade .................................................................. 29
+7.4. Parametrizações ........................................................................................................................... 29
+8. SUPERVISÃO DE CENTRAL GERADORA COMPOSTA POR UNIDADES GERADORAS COM POTÊNCIA
+NOMINAL IGUAL OU INFERIOR A 10 MW ..................................................................................... 29
+8.1. Abrangência ................................................................................................................................. 29
+8.2. Interligação de dados ................................................................................................................... 30
+8.3. Informações requeridas para a supervisão das centrais geradoras ............................................ 30
+8.4. Sequenciamento de eventos ....................................................................................................... 31
+8.5. Qualidade da informação ............................................................................................................. 31
+8.6. Parametrizações ........................................................................................................................... 32
+9. SUPERVISÃO DE INSTALAÇÕES (SUBESTAÇÕES) COMPARTILHADAS DA REDE DE OPERAÇÃO ........ 32
+10. DISPONIBILIDADE E QUALIDADE DOS RECURSOS DE SUPERVISÃO E CONTROLE ............................ 32
+10.1. Geral.......... ................................................................................................................................... 32
+10.2. Conceito de indisponibilidade de recursos de supervisão e controle ......................................... 33
+10.3. Conceito de qualidade dos recursos de supervisão e controle ................................................... 33
+10.4. Avaliação da disponibilidade e da qualidade dos recursos de supervisão e controle ................. 33
+11. ATUALIZAÇÃO DAS BASES DE DADOS DOS SISTEMAS DE SUPERVISÃO E CONTROLE DO ONS ........ 34
+11.1. Cadastramento dos equipamentos .............................................................................................. 34
+11.2. Teste de conectividade e testes ponto a ponto ........................................................................... 34
+12. REFERÊNCIAS .............................................................................................................................. 34
+13. ANEXOS ...................................................................................................................................... 35
+ANEXO A .............................................................................................................................................. 36
+ANEXO B .............................................................................................................................................. 38
+Endereço na internet: http://www.ons.org.br 3 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+1. OBJETIVO
+1.1. Estabelecer os requisitos de:
+(a) recursos de supervisão e controle necessários à operação do Sistema Interligado Nacional (SIN) que
+os agentes responsáveis por equipamentos integrantes da Rede de Supervisão devem disponibilizar
+ao Operador Nacional do Sistema Elétrico – ONS;
+(b) supervisão de instalações compartilhadas; e
+(c) supervisão e controle de instalações teleassistidas.
+2. ASPECTOS GERAIS
+2.1. Os termos gerais, necessários ao entendimento deste submódulo, estão definidos no Submódulo 1.2 –
+Glossário dos Procedimentos de Rede, sendo que, neste submódulo:
+(a) o termo controle é empregado para denotar ações de telecomando sobre dispositivos situados nas
+instalações, emanadas de um centro de operação do ONS, sendo direcionadas, exclusivamente, para
+fins de Controle Automático de Geração (CAG);
+(b) os termos medição analógica e sinalização de estado são empregados para agregar requisitos relativos
+à supervisão tradicional de sistemas elétricos;
+(c) o termo sequenciamento de eventos é utilizado para descrever os requisitos necessários para que o
+ONS possa, em tempo real, melhor avaliar a situação do SIN quando da ocorrência de eventos da
+proteção e da supervisão;
+(d) os termos dado e grandeza são utilizados para se referir indistintamente à medição analógica, à
+sinalização de estado ou ao sequenciamento de eventos;
+(e) o termo informação é utilizado para se referir a um conjunto de dados, podendo o conjunto ser
+constituído de medições analógicas, sinalizações de estado etc.;
+(f) o termo barramento é utilizado para denotar o conjunto de seções de barras de uma subestação, de
+mesma tensão nominal, com seus suportes e acessórios, que permitem a conexão dos equipamentos.
+2.2. Neste submódulo são denominados genericamente de agentes os responsáveis por equipamentos
+integrantes das Redes de Operação e/ou de Supervisão, conforme conceituadas no Submódulo 2.1 –
+Definição das redes do Sistema Interligado Nacional.
+3. SISTEMAS DE SUPERVISÃO E CONTROLE DO ONS
+3.1. Infraestrutura de supervisão e controle do ONS
+3.1.1. A infraestrutura de supervisão e controle do ONS, por estar baseada nos sistemas de supervisão e
+controle dos centros de operação do ONS, tem sua estrutura espelhada na organização estabelecida pelo
+ONS para os seus centros de operação.
+3.1.2. A figura do Anexo A ilustra a organização da infraestrutura de supervisão e controle do ONS.
+3.1.3. Com base no Anexo A, observa-se que:
+Endereço na internet: http://www.ons.org.br 4 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+(a) cada Centro de Operação do Sistema – COSR, pode ser atendido pelo Sistema de Supervisão e controle
+(SSC) localizado nas suas próprias instalações ou pelo centro do ONS configurado como backup;
+(b) cada SSC possui um Sistema de Aquisição de Dados Local (SAL) e um Sistema de Aquisição de Dados
+Remoto (SAR);
+(c) os agentes são responsáveis – com relação aos equipamentos na Rede de Supervisão – por fornecer
+recursos de supervisão e controle para dois sistemas de aquisição de dados designados pelo ONS,
+sendo um local (SAL) e outro remoto (SAR);
+(d) o Concentrador de Dados (CD) consiste de qualquer sistema que concentre informações de mais de
+uma instalação e pode ser um sistema de supervisão e controle de um centro de operação de um
+agente;
+(e) as Unidades Terminais Remotas (UTR) podem ser Sistema de Supervisão e Controle Local (SSCL), no
+nível de instalações;
+(f) as UTR ou os SSCL marcados na cor laranja pertencem a usinas que têm geradores sob CAG,
+denotando a necessidade de interligação de dados direta com um centro de operação do ONS para
+aquisição de dados e comando;
+(g) as UTR ou os SSCL marcados na cor azul estão localizadas em instalações que interligam duas áreas
+elétricas operadas por centros distintos do ONS, denotando a necessidade de interligação de dados
+com pelo menos dois centros de operação do ONS para transmissão de dados de intercâmbio para o
+CAG.
+3.1.4. A transferência das informações ao ONS pode ser através de interligações ONS–CD ou ONS–UTR/SSCL,
+cabendo ao agente a definição da arquitetura das interligações de dados, desde que respeitados os requisitos
+estabelecidos neste submódulo.
+3.1.5. A interligação de dados para fins do CAG deve ser feita via interligações diretas entre a UTR/SSCL e o
+ONS, sendo aceito o compartilhamento destas interligações com as interligações utilizadas para atender aos
+requisitos das funções tradicionais de supervisão e controle, desde que atendidos todos os requisitos do item
+4.2.3. (a) deste submódulo.
+3.1.6. Como decorrência dos requisitos de qualidade e disponibilidade especificados na seção 10 deste
+submódulo, somente pode existir um CD entre o equipamento de supervisão da instalação da Rede de
+Operação (UTR ou SSCL) e o centro de operação do ONS.
+3.2. Funções de supervisão e controle do ONS
+3.2.1. Os recursos de supervisão e controle requeridos aos diversos agentes visam prover informações e
+telecomando aos centros de operação do ONS de forma a viabilizar a execução, nesses centros de operação,
+de uma série de funções, classificadas em funções básicas e funções complementares.
+3.2.1.1. Funções básicas:
+(a) Supervisão, Controle e Aquisição de Dados (SCADA – Supervisory Control and Data Acquisition):
+(1) aquisição de dados, incluindo telemedições e variações de estado;
+(2) tratamento dos dados primários;
+(3) tratamento de atributos de qualidade dos dados;
+Endereço na internet: http://www.ons.org.br 5 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+(4) cálculo de grandezas derivadas de telemedições e/ou variações de estado;
+(5) verificação de limites e geração de alarmes;
+(6) integralização de telemedições e de grandezas derivadas;
+(7) registro de alarmes e eventos;
+(8) sequenciamento de eventos (SOE – Sequence of Events);
+(9) controle remoto de equipamentos para viabilizar o CAG;
+(10)sincronismo de tempo;
+(11)distribuição de dados.
+(b) Monitoração e controle da geração:
+(1) CAG convencional e/ou hierárquico - frequência e intercâmbio;
+(2) monitoração e controle da reserva operativa;
+(3) monitoração do desempenho do CAG;
+(4) controle de erro de tempo.
+(c) Análise de rede:
+(1) Em regime permanente:
+(i) tempo real: configurador de rede, estimador de estado, análise de contingência, fluxo de
+potência e reprogramação corretiva;
+(ii) modo estudo: configurador de rede, modelador de rede, fluxo de potência do operador, análise
+de contingência e fluxo de potência ótimo e aprimoramento da segurança.
+(d) Registro e visualização do histórico:
+(1) Registro:
+(i) estado do sistema elétrico;
+(ii) estado do sistema de telemedição;
+(iii) estado do sistema hidrológico;
+(iv) programação da operação;
+(v) violações, alarmes e desvios da programação.
+(2) Visualização:
+(i) de todas as amostragens de um item por intervalo de tempo;
+(ii) de um conjunto de itens amostrados em um determinado instante.
+(e) Integração com a programação, planejamento, pré-operação e pós-operação:
+(1) alimentação do ambiente de tempo real com a programação;
+(2) alimentação das funções de análise de redes (controle preventivo);
+Endereço na internet: http://www.ons.org.br 6 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+(3) alimentação das funções de análise da qualidade da operação.
+(f) Simulação para treinamento de operadores.
+(g) Difusão de informações em tempo real aos agentes:
+(1) Função que permite transferir informações de áreas elétricas externas a um agente, desde que
+essas informações:
+(i) se restrinjam, apenas, a informações de telemedição analógica e a informações de sinalização
+de estado;
+(ii) sejam obtidas pelos sistemas de supervisão e controle do ONS;
+(iii) se restrinjam a informações relativas ao primeiro barramento após o barramento de fronteira
+do agente com o agente vizinho (barra n+1), considerando que a supervisão da conexão entre
+dois agentes será de responsabilidade dos agentes envolvidos sem a utilização dos recursos do
+ONS;
+(iv) se restrinjam a informações que venham a ser definidas num acordo ou contrato firmado com
+os agentes responsáveis pelos equipamentos envolvidos, acordo este que autorize a difusão
+das informações solicitadas.
+(2) As telemedições são difundidas por varredura com período parametrizável, estabelecido em
+função do carregamento dos sistemas de supervisão do ONS, sendo o período desta varredura
+inicialmente definido com o valor de 30 (trinta) segundos e as sinalizações de estado são difundidas
+por exceção com varredura de integridade mínima de 3 (três) horas.
+(3) O período de varredura para a distribuição de dados poderá ser modificado em função do
+carregamento dos sistemas de supervisão e controle do ONS e desde que as interligações de dados
+providas pelo agente assim o permitam.
+(4) Os períodos acima estipulados são parametrizáveis, devendo ser definidos em comum acordo
+entre o agente e o ONS, devendo os sistemas suportar os valores especificados.
+(5) Os dados disponíveis nos sistemas de supervisão e controle dos centros de operação do ONS são
+distribuídos nas condições de qualidade e coerência em que esses dados são recebidos dos
+agentes.
+(6) O agente deve formalizar junto ao ONS seu interesse no recebimento desse tipo de informações,
+definidas conforme estabelecido nos itens acima. Cabe ao ONS a análise e aprovação da
+solicitação, mediante a avaliação do impacto nos sistemas de supervisão e controle e nos
+procedimentos operacionais dos centros de operação envolvidos.
+(7) Se o ONS aprovar a solicitação do agente, cabe ao agente interessado:
+(i) fornecer e dimensionar as interligações de dados que se façam necessárias, implementá-las e
+obter os acordos ou contratos com os agentes detentores das informações requeridas;
+(ii) arcar com qualquer custo adicional que a difusão venha a impor ao ONS, tais como aumento
+da capacidade computacional dos sistemas de supervisão e controle dos centros de operação
+do ONS, implementação de protocolos de comunicação não padronizados etc.
+Endereço na internet: http://www.ons.org.br 7 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+(8) Difusão de informações históricas aos agentes é a função que permite aos agentes obter dados
+históricos do ONS a partir de informações que venham a ser classificadas como públicas, definidas
+em comum acordo com o agente responsável pela aquisição do dado.
+3.2.1.2. Funções complementares:
+(a) Análise de rede:
+(1) análise dinâmica de tensão;
+(2) análise de transitórios.
+(b) Tratamento de alarmes via sistemas especialistas.
+(c) Recomposição via sistemas especialistas:
+(1) conjunto de funções de aconselhamento ao operador para situações de distúrbios.
+4. SISTEMAS DE SUPERVISÃO E CONTROLE DOS AGENTES
+4.1. Geral
+4.1.1. Todas as informações transferidas pelos agentes para o ONS, exceto quando houver orientações
+explícitas do ONS em contrário, devem corresponder aos dados coletados nas instalações, que não devem
+passar por qualquer processamento prévio, como:
+(a) cálculos a partir de outras informações, exceção feita para os cálculos de conversão para valores de
+engenharia;
+(b) filtragens;
+(c) substituições por resultados do estimador de estado; ou
+(d) entradas manuais feitas pelo agente.
+4.1.2. Todas as telemedições e sinalizações de estado, especificadas nas seções 5, 6, 7, 8 e 9 deste
+submódulo, devem ter indicadores de qualidade do dado relativos à coleta do dado, descrevendo as
+condições de supervisão local (dado fora de varredura, dado inválido etc.).
+4.1.3. É responsabilidade do ONS definir o conjunto de protocolos de comunicação a ser adotado nas
+interligações de dados, dentre os protocolos e seus perfis (opções disponíveis) padronizados e do agente
+escolher um deles para suas interligações com o ONS, conforme rotina operacional referente aos protocolos
+de comunicação com o sistema de supervisão e controle do ONS, no Submódulo 5.13 – Rotinas Operacionais.
+Os protocolos implementados nas interligações existentes devem ser preservados.
+4.1.4. É responsabilidade do ONS definir a abrangência da supervisão para usinas integrantes de um
+conjunto, classificadas na modalidade de operação Tipo II-C conforme definido no Submódulo 7.2 –
+Classificação da modalidade de operação de usinas. A supervisão desse conjunto de usinas não deve,
+necessariamente, observar as usinas de forma individual, podendo se restringir às seguintes informações nos
+pontos de conexão julgados relevantes pelo ONS:
+(a) potência trifásica ativa em MW e reativa em Mvar; e
+(b) sinalização de estado referente aos disjuntores e chaves.
+Endereço na internet: http://www.ons.org.br 8 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+4.1.5. É responsabilidade do ONS definir a abrangência da supervisão para centrais geradoras classificadas
+na modalidade Tipo II-A, que pode se restringir às seguintes informações:
+(a) potência trifásica ativa em MW e reativa em Mvar de cada gerador;
+(b) sinalização de estado referente aos disjuntores e chaves utilizados na conexão das unidades
+geradoras.
+4.1.6. É responsabilidade do ONS definir a abrangência da supervisão para centrais geradoras classificadas
+na modalidade Tipo II-B, que pode se restringir às seguintes informações:
+(a) potência trifásica ativa em MW e reativa em Mvar, no ponto de conexão da central geradora ao SIN;
+(b) sinalização de estado referente aos disjuntores e chaves, no ponto de conexão da central geradora ao
+SIN.
+4.1.7. Os CD, se utilizados, devem ser capazes de identificar o estado operacional de todos os sistemas
+hierárquica e diretamente a ele subordinados e de transferir essas informações para o ONS.
+4.1.8. Os centros de operação do ONS identificam o estado operacional das UTR/SSCL e dos CD diretamente
+a eles conectados a partir das trocas de informações nas correspondentes interligações de dados. Esse estado
+é modelado como sinalização de estado nas bases de dados de seus sistemas de supervisão e controle.
+4.1.9. Os SSCL ou as UTR de cada instalação associados aos equipamentos integrantes da Rede de Operação
+devem:
+(a) ter seus relógios internos ajustados com exatidão melhor ou igual a 1 (um) milissegundo, com
+sincronismo por GPS (Global Positioning System);
+(b) ter tempo máximo de reinicialização de 5 (cinco) minutos;
+(c) ser dimensionados para não perder eventos da SOE. Se ocorrer uma avalanche de eventos, todos os
+eventos devem ser transferidos para o ONS em até 5 (cinco) minutos.
+4.1.10. No caso de centrais geradoras associadas ou de centrais geradoras híbridas que possuam medição
+individualizada por tecnologia de geração, devem ser enviadas ao ONS as medições de potência ativa e
+reativa trifásica por tecnologia de geração e devem ser atendidos os requisitos estabelecidos para centrais
+geradoras das tecnologias envolvidas na composição da usina híbrida ou associada.
+4.1.11. No caso de centrais geradoras híbridas que não possuam medição individualizada por tecnologia de
+geração, devem ser enviadas ao ONS as medições de potência ativa e reativa trifásica e devem ser atendidos
+os requisitos estabelecidos para centrais geradoras das tecnologias envolvidas na composição da usina
+híbrida.
+4.2. Interligação de dados
+4.2.1. Considera-se como interligação de dados o conjunto de equipamentos e sistemas que se interponham
+entre o ponto de captação de dados ou de aplicação de comando no campo e o centro de operação designado
+pelo ONS.
+4.2.1.1. Esse conjunto pode abranger, entre outros, os seguintes equipamentos:
+(a) SSCL ou UTR em usinas ou subestações;
+(b) CD, que podem ser sistemas de supervisão e controle de um agente;
+Endereço na internet: http://www.ons.org.br 9 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+(c) enlaces de dados, ponto a ponto ou via redes tipo WAN (Wide Area Network), entre as interligações
+ONS–CD ou ONS–UTR/SSCL;
+(d) equipamentos de interfaceamento com comunicações (modems, roteadores ou equivalentes) no
+centro de operação designado pelo ONS.
+4.2.2. As interligações de dados entre os centros de operação do ONS e as diversas instalações a serem
+supervisionadas pelo ONS são definidas pelos agentes e apresentadas ao ONS, devendo estar em
+conformidade com os requisitos de supervisão e controle apresentados neste submódulo.
+4.2.3. São exigidos requisitos diferentes para diferentes tipos de recursos de supervisão e controle, o que
+pode levar à necessidade de uso de interligações com características distintas, como descrito a seguir.
+(a) Interligações para atender aos requisitos do CAG:
+(1) Estas interligações apresentam as seguintes peculiaridades:
+(i) estão restritas às instalações necessárias à operação do CAG, normalmente usinas e
+subestações que interligam áreas de controle distintas;
+(ii) cada interligação transporta um conjunto de dados relativamente pequeno, com uma ordem
+de grandeza que varia de uma unidade a algumas dezenas;
+(iii) devem ser configuradas como uma ligação direta entre os centros de operação do ONS e as
+UTR/SSCL das instalações;
+(iv) exigem taxas de transferências de dados relativamente altas, com períodos de aquisição de no
+máximo 2 (dois) segundos;
+(v) em virtude de suas características, podem requerer equipamentos especiais nas instalações
+para a recepção de telecomandos e a aquisição e transferência das informações para o ONS; e
+(vi) podem ser compartilhadas com as interligações utilizadas para atender aos requisitos das
+funções tradicionais de supervisão e controle, desde que atendidos todos os requisitos de CAG.
+(b) Interligações para atender aos requisitos das funções tradicionais de supervisão e controle:
+(1) São as interligações comumente utilizadas para a aquisição de dados eletro-energéticos pelos
+sistemas de supervisão e controle, que se caracterizem por:
+(i) cobrirem todas as instalações (usinas e subestações) sob responsabilidade de um determinado
+centro de operação do ONS;
+(ii) transportarem informações com períodos de aquisição que variam de poucos segundos a vários
+minutos e, em alguns casos, ações de controle;
+(iii) abrangerem um grande volume de dados; e
+(iv) conectarem as UTR/SSCL das instalações, CD ou centros de operação do agente aos centros de
+operação do ONS.
+(c) As interligações para atender à SOE caracterizam-se por transportar as informações de sequência de
+eventos coletadas nas instalações e que devem ser transferidas aos centros de operação do ONS, em
+tempo real, pela mesma interligação de dados utilizada para atender aos requisitos de supervisão e
+controle (conforme item 4.2.3. (b) deste submódulo). Para as informações definidas para trafegarem
+Endereço na internet: http://www.ons.org.br 10 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+nesse tipo de interligação (SOE), é vetada a passagem por qualquer tipo de processamento, como
+filtragem ou cálculos, que não preserve o selo de tempo original.
+(d) Além dessas interligações, existem interligações onde trafegam informações com alta taxa de
+aquisição utilizadas pelo ONS para a detecção de ilhamento. As informações transferidas se
+constituem em medições de frequência, em Hz, em barramentos selecionados da Rede Básica. Para
+essas interligações, o agente se responsabiliza pela disponibilização da medição na instalação. Um
+acordo entre o agente e o ONS, estabelecido caso a caso, define a forma e os recursos que serão
+utilizados para a transferência das informações ao ONS.
+4.3. Recursos de supervisão e controle dos agentes
+4.3.1. Entende-se como recurso de supervisão e controle dos agentes o conjunto formado por:
+(a) ponto de captação de dados ou de aplicação de comando no campo, ou seja, transdutores, relés de
+interposição, reguladores de velocidade/potência, e outros equipamentos;
+(b) interligação de dados, ou seja, o conjunto de equipamentos e sistemas que se interponham entre o
+ponto de captação de dados ou de aplicação de comando no campo e os computadores de
+comunicação do centro de operação do ONS.
+4.3.2. Os agentes responsáveis por equipamentos enquadrados em algum item deste submódulo devem
+fornecer os recursos necessários para atender os requisitos de supervisão e controle exigidos pelo ONS,
+incluindo as interligações de dados.
+4.3.3. Para a entrada em operação de novos empreendimentos, é necessário que sejam atendidos todos os
+requisitos definidos neste submódulo e os recursos devem estar completamente testados e prontos para
+operar junto com os demais equipamentos do empreendimento.
+4.3.4. Os SSCL ou UTR devem atender aos requisitos de supervisão e controle exigidos pelo ONS,
+apresentados neste submódulo.
+4.3.5. Os sistemas de transmissão de dados utilizados nas interligações de dados devem atender aos
+requisitos descritos no Submódulo 2.15 – Requisitos mínimos para telecomunicações.
+4.4. Recursos de supervisão e controle para instalações teleassistidas
+4.4.1. As instalações estratégicas, classificadas de acordo com os critérios definidos no Submódulo 2.2 –
+Definição das instalações estratégicas, pertencentes à Rede de Operação e desprovidas de assistência local
+ininterrupta devem possuir recursos adicionais aos estabelecidos no item 4.3 deste submódulo de forma a
+garantir redundância nos equipamentos e sistemas na interligação das unidades de aquisição de dados de
+supervisão e controle das instalações e o centro de operação remoto responsável pela operação dessas
+instalações.
+4.4.1.1. A redundância adicional requerida não inclui a UTR ou equivalente, restringindo-se aos
+equipamentos e sistemas de interligação que estejam localizados a partir dela até o centro de operação que
+realiza a teleassistência.
+4.4.1.2. A redundância requerida é obtida a partir da utilização de mais de um equipamento operando
+simultaneamente ou da utilização de equipamentos que possuem redundância intrínseca, ou seja, que
+possuem estrutura interna redundante, incluindo duas fontes de alimentação.
+Endereço na internet: http://www.ons.org.br 11 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+5. SUPERVISÃO E CONTROLE DE EQUIPAMENTOS PERTENCENTES À REDE DE OPERAÇÃO
+5.1. Interligação de dados
+5.1.1. Devem ser disponibilizados os recursos necessários para atender às seguintes interligações de dados,
+como conceituado no item 4.2 deste submódulo:
+(a) interligações para atender aos requisitos do CAG;
+(b) interligações para atender aos requisitos das funções tradicionais de supervisão e controle.
+5.2. Informações requeridas para a supervisão do sistema elétrico
+5.2.1. Para cada equipamento da Rede de Operação, as seguintes informações de grandezas analógicas e de
+sinalizações de estado devem ser transferidas para o sistema de supervisão e controle dos centros de
+operação designados pelo ONS:
+5.2.1.1. Medições analógicas
+(a) Todas as medições devem ser feitas de forma individualizada e transferidas periodicamente aos
+centros de operação.
+(b) O período de transferência deve ser parametrizável por centro de operação do ONS, devendo os
+sistemas serem projetados para suportar períodos de aquisição de 4 (quatro) segundos e, em alguns
+casos, de 6 (seis) segundos, períodos esses definidos de comum acordo entre o agente e o ONS.
+(c) As seguintes informações devem ser coletadas e transferidas para os centros de operação do ONS:
+(1) magnitude da tensão fase-fase, que pode ser obtida pela medição fase-fase ou por cálculo a partir
+de medição fase-neutro, em kV, entre quaisquer duas das três fases, de cada secção de barramento
+da subestação que possa formar um nó elétrico, exceto no caso de arranjo de barramento em anel;
+(2) no caso de arranjo de barramento em anel, magnitude da tensão fase-fase, que pode ser obtida
+pela medição fase-fase ou por cálculo a partir de medição fase-neutro, em kV, entre quaisquer
+duas das três fases, nos terminais de cada equipamento conectado ao barramento da subestação
+(linha de transmissão, transformador etc.);
+(3) magnitude da tensão fase-fase, que pode ser obtida pela medição fase-fase ou por cálculo a partir
+de medição fase-neutro, em kV, entre quaisquer duas das três fases, no ponto de conexão à Linha
+de Transmissão (LT) dos equipamentos de compensação série, quando houver esse equipamento;
+(4) magnitude da tensão fase-fase, que pode ser obtida pela medição fase-fase ou por cálculo a partir
+de medição fase-neutro, em kV, entre quaisquer duas das três fases, de cada unidade geradora
+(lado de baixa do transformador elevador);
+(5) potência trifásica ativa, em MW, e reativa, em Mvar, nos terminais de todas as LT;
+(6) corrente em uma das três fases, em A, nos terminais de todas as LT;
+(7) magnitude da tensão fase-fase, que pode ser medida ou ter sido obtida a partir de medição fase-
+neutro, em kV, entre quaisquer duas das três fases, de cada terminal de LT;
+Endereço na internet: http://www.ons.org.br 12 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+(8) no caso de LT curtas (até 3 km de extensão) entre a casa de força da usina e a subestação, potência
+trifásica ativa, em MW, e reativa, em Mvar, e corrente em uma das três fases, em A, nos terminais
+conectados à subestação;
+(9) potência trifásica ativa, em MW, e reativa, em Mvar, e corrente em uma das três fases, em A, de
+todos os enrolamentos dos transformadores;
+(10)no caso de transformadores elevadores de unidades geradoras, potência trifásica ativa, em MW,
+e reativa, em Mvar, e corrente em uma das três fases, em A, do lado de alta tensão do
+transformador;
+(11)potência trifásica ativa, em MW, e reativa, em Mvar, por gerador;
+(12)potência trifásica reativa, em Mvar, de todos equipamentos de compensação reativa dinâmicos,
+tais como compensadores síncronos e compensadores estáticos controláveis;
+(13)potência trifásica ativa, em MW, e reativa, em Mvar, nas derivações eventualmente existentes
+entre o gerador e o transformador elevador que alimente cargas segundo o seguinte critério:
+(i) para geradores com potência nominal ≤ 30 MW: medição necessária se as derivações
+consumirem, no total, mais de 3% da potência nominal do gerador;
+(ii) para geradores com potência nominal entre 30 MW e 200 MW: medição necessária se as
+derivações consumirem, no total, mais de 2% da potência nominal do gerador;
+(iii) para geradores com potência nominal ≥ 200 MW: medição necessária se as derivações
+consumirem, no total, mais de 1% da potência nominal do gerador.
+(14)posição de tape de transformadores equipados com comutadores sob carga;
+(15)magnitude da tensão fase-fase, em kV, entre quaisquer duas das três fases, para os
+transformadores, excetuando-se aqueles na fronteira da Rede de Operação. Esta medição deve
+ser no lado ligado à barra de menor potência de curto-circuito, geralmente o de menor tensão,
+caso o ONS não explicite que seja no outro lado do transformador.
+(d) As seguintes informações analógicas, específicas para sistemas de transmissão de corrente contínua
+(CC), devem ser coletadas e transferidas para os centros de operação do ONS:
+(1) corrente CC por polo, em A;
+(2) tensão CC por conversor e tensão CC por polo (tanto no retificador como no inversor), ambos em
+kV;
+(3) potência CC por polo (tanto no retificador como no inversor), em MW;
+(4) corrente nos eletrodos de terra por bipolo, em A;
+(5) tensão harmônica nos filtros, em mV;
+(6) limites de potência em vigência por conversor (função de temperatura, umidade etc.), em MW.
+(7) ângulo de disparo no lado conversor por polo, em graus;
+(8) tempo restante de operação em sobrecarga por polo, em minutos;
+Endereço na internet: http://www.ons.org.br 13 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+(9) capacidade adicional de transmissão por condições climáticas favoráveis (low ambient) por polo,
+em MW.
+5.2.1.2. Sinalização de estado, referente:
+(a) a todos os disjuntores e chaves utilizados nos barramentos e nas conexões de equipamentos da Rede
+de Operação, exceto a chave de terra. Esse requisito é aplicável tanto a sistemas de geração e
+transmissão em corrente alternada quanto a sistemas de transmissão em corrente contínua (incluindo
+filtros), sendo que, para os disjuntores, é necessário que a sinalização seja acompanhada do selo de
+tempo;
+(b) ao estado operacional de unidades geradoras, incluindo:
+(1) parada ou não-sincronizada;
+(2) sincronizada, operando como gerador;
+(3) sincronizada, operando em vazio;
+(4) sincronizada, operando como síncrono;
+(5) sincronizada, operando através do regulador de velocidade ou de potência (informação necessária
+apenas para unidades geradoras indicadas pelo ONS).
+(c) ao estado operacional e alarmes dos equipamentos utilizados nos Sistemas Especiais de Proteção
+(SEP). Se esses sistemas tiverem atuações em instalações fora da Rede de Operação, devem ser
+buscadas alternativas de monitoração, definidas de comum acordo entre o ONS e o agente;
+(d) ao estado operacional de dispositivos de controle de FACTS (Flexible AC Transmission Systems), tais
+como os power oscillation dampers das compensações série de LT;
+(e) ao estado dos comutadores sob carga (em automático/manual/remoto);
+(f) aos alarmes de temperatura de rotor e estator de compensadores síncronos e geradores, por
+severidade (advertência e/ou urgência) e agrupados por fase;
+(g) aos alarmes de temperatura de enrolamento e óleo de transformadores e reatores, por severidade
+(advertência e/ou urgência) e agrupados por fase;
+(h) ao estado operacional de UTR e SSCL diretamente subordinados a CD (detalhes sobre a identificação
+do estado operacional deste tipo de equipamento são apresentados na sessão 4 deste submódulo);
+(i) às seguintes indicações de estado com selo de tempo, específicas de sistemas de transmissão CC:
+(1) modo de controle da potência por polo: síncrono ou assíncrono (potência ou corrente);
+(2) estados relativos ao controle de sequência: partida e parada dos conversores (conjunto ou
+separado);
+(3) condição dos conversores (bloqueados/disponíveis);
+(4) estado dos sinais adicionais existentes tais como frequência 60, estabilização 50 etc.:
+ligados/desligados;
+(5) estado de operação em HMC (alto consumo de reativo) por polo;
+(6) estado de operação por polo: tensão normal ou tensão reduzida;
+Endereço na internet: http://www.ons.org.br 14 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+(7) estado da operação do elo em paralleling control (paralelismo de polos);
+(8) estação mestre (retificadora ou inversora);
+(9) rampa interrompida.
+(j) aos seguintes alarmes, específicos de sistemas de transmissão de CC:
+(1) alarme de detecção de baixa tensão de corrente alternada (CA);
+(2) sobrecarga harmônica;
+(3) alarme de número de filtros menor que mínimo (função da potência e número de conversores por
+tipo de filtro (ordem harmônico).
+5.2.1.3. Ainda com relação à sinalização de estado, devem-se observar os seguintes requisitos:
+(a) todas as sinalizações devem ser reportadas por exceção;
+(b) o sistema de supervisão e controle da instalação ou a UTR ou o CD, se utilizado, deve estar apto a
+responder a varreduras de integridade feitas pelo ONS, que podem ser periódicas, com período
+parametrizável, tipicamente a cada 1 (uma) hora, sob demanda ou por evento, como, por exemplo,
+uma reinicialização dos recursos de supervisão e controle do ONS;
+(c) os SSCL ou as UTR de cada instalação devem ser capazes de armazenar o selo de tempo das
+sinalizações com exatidão melhor ou igual a 1 (um) milissegundo, utilizando o relógio interno do
+sistema que deve ter a exatidão especificada no item 4.1.9. deste submódulo;
+(d) o selo de tempo de todas as medições e sinalizações deve estar no padrão UTC (Universal Time
+Coordinated).
+5.3. Informações e telecomandos requeridos para o CAG
+5.3.1. As informações de tempo real necessárias ao CAG devem ser enviadas:
+(a) ao centro de operação do ONS que controla o CAG da área a que pertence a instalação, normalmente
+o centro de operação designado pelo ONS para coordenar a operação da instalação;
+(b) aos centros de operação do ONS responsáveis pelo controle do CAG das áreas adjacentes à área do
+centro de operação designado pelo ONS para coordenar a operação da instalação; e
+(c) aos centros de operação do ONS passíveis de assumir o CAG da área sob responsabilidade do centro
+de operação designado pelo ONS para coordenar a operação da instalação.
+5.3.1.1. Em conformidade com o Submódulo 5.3 – Controle da geração, o SIN está dividido em áreas de
+controle de frequência e intercâmbio. Essas áreas são as redes de atuação dos centros de operação do ONS.
+5.3.1.2. A figura do Anexo B apresenta uma representação simplificada do fluxo de informações do CAG para
+os centros de operação do ONS.
+5.3.2. As seguintes informações utilizadas pelo CAG devem ser coletadas e transmitidas para o centro de
+operação do ONS que controla o CAG:
+(a) frequência, em Hz, em barramentos designados pelo ONS [1];
+(b) potência ativa trifásica, em MW, gerada pelas unidades geradoras passíveis de estar sob controle;
+Endereço na internet: http://www.ons.org.br 15 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+(c) potência ativa trifásica, em MW, em todos os pontos de interligação com outras áreas de controle,
+que pode ser totalizada por instalação e por área;
+(d) modo de operação das unidades geradoras passíveis de estar no CAG: (local/telecomandada);
+(e) estado operacional dos controladores, para as usinas com controle conjunto.
+5.3.3. Devem ser coletadas nas instalações de interligação e transmitidas para o centro de operação do ONS
+controlador das áreas adjacentes a potência ativa trifásica, em MW, em todos os pontos de interligação com
+outras áreas de controle, que pode ser totalizada por instalação e por área.
+5.3.4. Para viabilizar as transferências de área de controle do CAG, o ONS identifica, nas áreas de controle
+do CAG [1], instalações em que a potência ativa trifásica, em MW, nos pontos de interligação indicados pelo
+ONS, podendo ser totalizada por instalação e por área, devem ser coletadas e transmitidas para um ou mais
+centros de operação do ONS passíveis de assumir uma determinada área de controle.
+5.3.5. As usinas com unidades geradoras sob controle do CAG devem ser capazes de receber telecomandos
+do centro de operação do ONS responsável pelo CAG da área, de acordo com um padrão combinado entre o
+agente e o ONS, respeitando os protocolos definidos na rotina operacional relativa a protocolos de
+comunicação com o sistema de supervisão e controle do ONS (Submódulo 5.13).
+5.4. Informações requeridas para o acompanhamento hidrológico
+5.4.1. Para cada reservatório da rede supervisionada, com ou sem usina, bem como para cada usina a fio
+d’água ou locais de interesse identificado, devem ser obtidos e transmitidos para o centro de operação do
+ONS controlador da área os seguintes dados:
+(a) nível a montante do local (nível do reservatório), em m;
+(b) nível a jusante (canal de fuga), em m;
+(c) vazão turbinada (dado calculado na origem) em m³/s;
+(d) vazão vertida (dado calculado na origem) em m³/s;
+(e) vazão de outras estruturas (dado calculado na origem): vazão restituída ao rio a jusante do
+aproveitamento através de eclusas, escadas de peixes e descarga de fundo, essa última quando
+utilizada com objetivo diferente de controle de níveis e cheias em m³/s;
+(f) vazão transferida (dado calculado na origem): eventuais transferências de água para outros
+reservatórios, por meio de canal, túnel ou estação de bombeamento, em m³/s;
+(g) vazão afluente (dado calculado na origem), em m³/s.
+5.4.2. Em caso de indisponibilidade ou má qualidade dos dados enviados automaticamente ao Sistema de
+Supervisão do ONS, o agente deve informar imediatamente o ONS e inserir manualmente, de forma
+provisória, o valor do dado em falha, com a taxa de atualização e período de integralização definidos pelo
+ONS. A inserção da informação de modo manual não descaracteriza a indisponibilidade do dado para efeito
+de apuração, conforme previsto item 10.2.1. (e) deste submódulo.
+5.5. Requisitos de qualidade da informação
+Exatidão da medição
+Endereço na internet: http://www.ons.org.br 16 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+5.5.1.1. Todas as medições de tensão devem ser efetuadas por equipamentos cuja classe garanta exatidão
+mínima de 1%. As medições das demais grandezas analógicas devem garantir exatidão mínima de 2%, que
+deve englobar toda a cadeia de equipamentos utilizados, tais como transformadores de corrente, de tensão,
+transdutores, conversores analógico/digital etc.
+Idade do dado
+5.5.2.1. Define-se como idade máxima do dado o tempo máximo decorrido entre o instante de ocorrência
+de seu valor na instalação (processo) e sua recepção nos centros de operação designados pelo ONS.
+5.5.2.2. O tempo necessário para a chegada de um dado aos centros de operação designados pelo ONS inclui
+o tempo de aquisição do dado na instalação, processamento da grandeza e transmissão desse dado através
+dos enlaces de comunicação até os centros.
+5.5.2.3. A idade máxima de um dado analógico coletado para o CAG deve ser inferior à soma do tempo de
+varredura adotado pelo ONS para aquisição de dado adicionado de:
+(a) 2 (dois) segundos em média;
+(b) 5 (cinco) segundos no máximo para algumas varreduras, desde que mantida a média de 2 (dois)
+segundos.
+5.5.2.4. A idade máxima para os demais dados analógicos deve ser inferior à soma do tempo de varredura
+adotado pelo ONS para aquisição de dado adicionado de:
+(a) 4 (quatro) segundos em média;
+(b) 10 (dez) segundos no máximo para algumas varreduras, desde que mantida a média de 4 (quatro)
+segundos.
+5.5.2.5. A idade máxima de um dado coletado por exceção deve ser inferior a 8 (oito) segundos.
+Banda morta e varredura de integridade
+5.5.3.1. Os protocolos que transmitem medições analógicas por exceção devem ter uma banda morta e
+varredura de integridade definidas de comum acordo entre o ONS e o agente. As definições obtidas nestes
+acordos não devem prejudicar a exatidão das medidas, conforme definido no item 5.5.1 deste submódulo.
+5.5.3.2. Enquanto um acordo formal não for firmado entre o ONS e o agente, a UTR e/ou SSCL devem ser
+configurados com um valor inicial de banda morta de 0,1% do fundo de escala ou do último valor lido e
+devem suportar varreduras de integridade com períodos menores ou iguais a 30 (trinta) minutos.
+Demais requisitos de qualidade para informações necessárias ao CAG
+5.5.4.1. O período de aquisição dessas grandezas pelos centros de operação do ONS deve estar de acordo
+com os padrões exigidos pelos sistemas de CAG dos centros de operação designados pelo ONS e deve ser de
+no máximo 2 (dois) segundos.
+5.5.4.2. Todas as medições devem ser obtidas da mesma fonte, de tal forma que se garanta que todos os
+sistemas as recebam exatamente iguais, mesmo que transmitidas para diferentes centros de operação do
+ONS e em diferentes enlaces e protocolos.
+5.6. Parametrizações
+Endereço na internet: http://www.ons.org.br 17 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+5.6.1. Todos os períodos de aquisição acima especificados devem ser parametrizáveis, e os valores
+apresentados se constituem em níveis mínimos.
+6. SEQUENCIAMENTO DE EVENTOS DE EQUIPAMENTOS PERTENCENTES À REDE DE OPERAÇÃO
+6.1. Informações requeridas para o sequenciamento de eventos
+6.1.1. Para o equipamento que dispuser das proteções listadas nos itens 6.1.1.1. a 6.1.1.12. deste
+submódulo, as respectivas informações devem ser coletadas pelo agente responsável pelo equipamento e
+transferidas para o ONS conforme a classificação do evento nos seguintes grupos:
+(a) Tipo “A”: compreende os eventos que devem ser enviados diretamente para o ONS, em tempo real,
+através das mesmas interligações de dados utilizadas para atender aos requisitos de supervisão e
+controle, conforme conceituação feita no item 4.2 deste submódulo;
+(b) Tipo “B”: compreende os eventos que devem ser enviados de forma agrupada para o ONS, em tempo
+real, através das mesmas interligações de dados utilizadas para atender aos requisitos de supervisão
+e controle, conforme conceituação feita no item 4.2 deste submódulo. Os eventos disponíveis na
+instalação do agente na forma individualizada devem ser enviados para o ONS, por meio eletrônico,
+em prazo de 24 (vinte e quatro) horas da solicitação do ONS;
+(c) Tipo “C”: compreende os eventos que devem estar disponíveis na instalação do agente e ser enviados
+para o ONS, por meio eletrônico, em prazo de 24 (vinte e quatro) horas da solicitação do ONS. Esses
+eventos, relacionados a proteções, sejam elas de equipamentos ou sistêmicas (SEP, ERAC etc.), devem
+fazer parte de um conjunto de sinais, selecionado pelos agentes, que permita o entendimento do
+comportamento da proteção frente a perturbações, bem como informe seu estado funcional, tais
+como os listados abaixo. Esses sinais devem ter o detalhamento adequado com a indicação, inclusive,
+das fases relacionadas, do estágio correspondente etc.
+(1) Partida das unidades sensoras (seleção de fases, distância, sobrecorrente, diferencial etc.);
+(2) Função(ões) que comandam disparo;
+(3) Função(ões) ou lógicas que bloqueiam a atuação da proteção (falha fusível, 2° harmônico, disjuntor
+não pronto etc.);
+(4) Partida e bloqueio de religamentos automáticos;
+(5) Comando efetivo de disparo (por fase);
+(6) Falha no relé;
+(7) Lógica ativada (weak infeed, por exemplo);
+(8) Recepção e envio de sinal de teleproteção (POTT, TDD, Block etc.);
+6.1.1.1. Transformadores e autotransformadores:
+(a) Tipo “A”:
+(1) Atuação dos relés de bloqueio associados às proteções elétricas e instrínsecas do transformador e
+de seus componentes:
+(i) atuação de relés de bloqueio – principal;
+Endereço na internet: http://www.ons.org.br 18 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+(ii) atuação de relé de bloqueio – alternada;
+(iii) atuação de relé de bloqueio instrínseca.
+(2) Disparo da proteção tanto do transformador como, eventualmente, de seus componentes, tais
+como o comutador sob carga ou transformador defasador (nesses casos deve ser especificado no
+nome do ponto o equipamento protegido):
+(i) disparo da proteção - principal;
+(ii) disparo da proteção – alternada;
+(iii) disparo da proteção instrínseca.
+(b) Tipo “B”: Para cada sinal abaixo agrupar todos os disparos da função na unidade de proteção (IED),
+sejam eles emitidos por fase ou por combinação delas.
+(1) disparo da proteção de sobrecorrente do comutador sob carga;
+(2) disparo da proteção de sobrecorrente de fase e neutro – principal;
+(3) disparo da proteção de sobrecorrente de fase e neutro – alternada;
+(4) disparo da proteção de sobretemperatura de óleo ou de enrolamento;
+(5) disparo da proteção de gás ou da válvula de alívio de pressão;
+(6) disparo da proteção diferencial – principal;
+(7) disparo da proteção diferencial – alternada.
+6.1.1.2. Reatores:
+(a) Tipo “A”:
+(1) Atuação dos relés de bloqueio associados às proteções elétricas e intrínsecas do reator:
+(i) atuação do relé de bloqueio – principal;
+(ii) atuação do relé de bloqueio – alternada;
+(iii) atuação do relé de bloqueio – intrínseca.
+(2) Disparo da proteção tanto do reator como, eventualmente, de seus componentes, tal como do
+reator de neutro (nestes casos deve ser especificado o equipamento protegido):
+(i) disparo da proteção – principal;
+(ii) disparo da proteção – alternada;
+(iii) disparo da proteção instrínseca.
+(a) Tipo “B”: Para cada sinal abaixo agrupar todos os disparos da função na unidade de proteção (IED),
+sejam eles emitidos por fase ou por combinação delas:
+(1) disparo da proteção de sobretemperatura do óleo ou de enrolamento;
+(2) disparo da proteção de gás ou da válvula de alívio de pressão;
+(3) disparo da proteção diferencial principal ou primária;
+Endereço na internet: http://www.ons.org.br 19 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+(4) disparo da proteção diferencial – alternada ou retaguarda.
+6.1.1.3. Bancos de capacitores:
+(a) Tipo “A”:
+(1) disparo da proteção de sobretensão – principal;
+(2) disparo da proteção de sobretenção – alternada;
+(3) atuação dos relés de bloqueio associados às proteções elétricas do banco de capacitores:
+(i) atuação de relé de bloqueio – principal;
+(ii) atuação de relé de bloqueio – alternada.
+(4) Disparo da proteção elétrica tanto do banco de capacitores como, eventualmente, de seus
+componentes (nesses casos deve ser especificado o equipamento protegido):
+(i) disparo de proteção – principal;
+(ii) disparo da proteção – alternada.
+(b) Tipo “B”: Para cada sinal abaixo agrupar todos os disparos da função na unidade de proteção (IED),
+sejam eles emitidos por fase ou por combinação delas:
+(1) Disparo da proteção de sobretensão temporizada.
+6.1.1.4. Linhas de transmissão:
+(a) Tipo “A”:
+(1) disparo por sobretensão instantânea – principal;
+(2) disparo por sobretensão instantânea – alternada;
+(3) atuação da lógica de bloqueio por oscilação de potência – principal;
+(4) atuação da lógica de bloqueio por oscilação de potência – alternada;
+(5) disparo da proteção para perda de sincronismo – principal;
+(6) disparo da proteção para perda de sincronismo – alternada;
+(7) atuação dos relés de bloqueio associados às proteções da linha ou à recepção permanente de
+transferência de disparo:
+(i) atuação do relé de bloqueio de recepção permanente de transferência de disparo – principal;
+(ii) atuação do relé de bloqueio de recepção permanente de transferência de disparo – alternada;
+(iii) atuação do relé de bloqueio – principal;
+(iv) atuação do de relé de bloqueio – alternada.
+(8) detecção de desligamento monopolar do terminal da linha de transmissão, cuja implementação
+pode ser feita por:
+Endereço na internet: http://www.ons.org.br 20 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+(i) utilização do sinal gerado nos relés de proteção quando emitem a ordem de disparo
+monopolar: detecção de desligamento monopolar – principal e detecção de desligamento
+monopolar – alternada; ou
+(ii) utilização de lógica que identifique o desligamento monopolar do terminal da linha de
+transmissão, através da comparação entre os estados de todos os disjuntores que servem a ela
+nesta instalação: detecção de desligamento monopolar (lógica de disjuntor).
+(9) disparo da proteção – principal;
+(10)disparo da proteção – alternada.
+(b) Tipo “B”: Para cada sinal abaixo agrupar todos os disparos da função na unidade de proteção (IED),
+sejam eles emitidos por fase ou por combinação delas:
+(1) Transmissão de sinal permissivo (POTT), tomado em cada unidade de proteção da linha, associado
+à sensibilização de unidade de medida do esquema de comparação direcional permissivo da linha:
+(i) transmissão de sinal permissivo (POTT) – principal;
+(ii) transmissão de sinal permissivo (POTT) – alternada;
+(2) disparo por sobretensão temporizada – principal;
+(3) disparo por sobretensão temporizada – alternada.
+6.1.1.5. Barramentos:
+(a) Tipo “A”:
+(1) disparo por sobretensão instantânea – principal;
+(2) disparo por sobretensão instantânea – alternada;
+(3) atuação dos relés de bloqueio associados às proteções elétricas do equipamento:
+(i) atuação de relé de bloqueio – principal;
+(ii) atuação de relé de bloqueio – alternada;
+(4) disparo da proteção – principal;
+(5) disparo da proteção – alternada.
+(b) Tipo “B”: Para cada sinal abaixo agrupar todos os disparos da função na unidade de proteção (IED),
+sejam eles emitidos por fase ou por combinação delas:
+(1) disparo por sobretensão temporizada – principal;
+(2) disparo por sobretensão temporizada – alternada;
+(3) disparo da proteção diferencial – principal;
+(4) disparo da proteção diferencial – alternada.
+6.1.1.6. Compensadores síncronos: utilizar os mesmos requisitos definidos para unidades geradoras.
+6.1.1.7. Compensadores estáticos:
+(a) Tipo “A”:
+Endereço na internet: http://www.ons.org.br 21 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+(1) Atuação dos relés de bloqueio associados às proteções elétricas do compensador estático e de
+seus componentes:
+(i) atuação de relés de bloqueio – principal;
+(ii) atuação de relé de bloqueio – alternada.
+(2) Disparo da proteção elétrica tanto do compensador estático como, eventualmente, de seus
+componentes (transformador abaixador, reatores e capacitores). Nestes casos deve ser indicada a
+função/ equipamento protegido:
+(i) disparo da proteção – principal;
+(ii) disparo da proteção – alternada.
+(b) Tipo “B”: Para cada sinal abaixo agrupar todos os disparos da função na unidade de proteção (IED),
+sejam eles emitidos por fase ou por combinação delas:
+(1) disparo das proteções intrínsecas dos equipamentos, conforme especificado para o respectivo
+equipamento;
+(2) disparo das proteções elétricas dos equipamentos, conforme especificado para o respectivo
+equipamento.
+6.1.1.8. Disjuntores
+(a) Tipo “A”:
+(1) mudança de posição;
+(2) disparo da proteção de falha do disjuntor;
+(3) disparo dos relés de bloqueio.
+6.1.1.9. Sistemas Especiais de Proteção – SEP (ECS, ECE e ERAC):
+(a) Tipo “A”: O agente deve disponibilizar para o ONS todos os disparos e alarmes gerados pelos IED sob
+sua responsabilidade, que compõem o sistema. Caso o SEP possua componentes redundantes
+(principal e alternado) estas informações devem ser individualizadas por cada IED.
+(1) No mínimo, para os elementos que contém as lógicas principais e/ou que comandam as ações
+finais, devem ser observados os seguintes sinais:
+(i) SEP em falha: indica que o SEP está fora de operação devido a uma falha, seja ela em seus
+componentes ou na comunicação;
+(ii) estado do SEP (Ligado/desligado);
+(iii) atuação do SEP - Lógica/Estágio (discriminar): comando de ação dada pela Lógica/Estágio
+operado, que deve ser discriminado na descrição, para os equipamentos que pode ser de
+desligamento, de redução de potência etc.
+(iv) recepção de comando do SEP: recebimento de comando na instalação, tal como desligamento,
+alteração na potência etc.;
+(v) falha de medidas analógicas: falha encontrada na consistência feita pelos IED que fazem as
+lógicas principais do SEP.
+Endereço na internet: http://www.ons.org.br 22 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+(2) Para os componentes principais citados acima e para os que participam do SEP com a coleta de
+informações (estado de disjuntores, valor de grandezas etc.) devem ser observados no mínimo os
+seguintes sinais:
+(i) falha de componente do SEP: falha de IED, rede etc. nas instalações;
+(ii) falha de comunicação: No equipamento ou no link, incluindo os meios;
+(iii) falha de estado de equipamentos primários: identificação de inconsistências em estado de
+equipamentos (disjuntor ou seccionadora) nas instalações.
+6.1.1.10. Geradores:
+(a) Tipo “A”:
+(1) disparo por sobretensão instantânea – principal;
+(2) disparo por sobretensão instantânea – alternada;
+(3) disparo da proteção para motorização (potência inversa) – principal;
+(4) disparo da proteção para motorização (potência inversa) – alternada;
+(5) disparo da proteção de sobrefrequência/subfrequência – principal;
+(6) disparo da proteção de sobrefrequência/subfrequência – alternada;
+(7) disparo da proteção de perda de sincronismo - principal;
+(8) disparo da proteção de perda de sincronismo - alternada;
+(9) atuação dos relés de bloqueio associados às proteções elétricas e mecânicas do gerador e de seus
+componentes:
+(i) atuação de relé de bloqueio – principal;
+(ii) atuação de relé de bloqueio – alternada;
+(iii) atuação de relé de bloqueio – mecânica, hidráulica etc.
+(10)disparo da proteção elétrica tanto do gerador como, eventualmente, de seus componentes. Nestes
+casos deve ser indicada a função ou o equipamento protegido:
+(i) disparo da proteção – principal do gerador;
+(ii) disparo da proteção – alternada do gerador;
+(iii) disparo da proteção – principal por injeção de sinal para falha próxima ao neutro;
+(iv) disparo da proteção – alternada por injeção de sinal para falha próxima ao neutro;
+(v) disparo da proteção – principal do transformador elevador;
+(vi) disparo da proteção – alternada do transformador elevador.
+(b) Tipo “B”: Para cada sinal abaixo agrupar todos os disparos da função na unidade de proteção (IED),
+sejam eles emitidos por fase ou por combinação delas:
+(1) disparo da proteção diferencial do gerador – principal;
+Endereço na internet: http://www.ons.org.br 23 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+(2) disparo da proteção diferencial do gerador – alternada;
+(3) disparo da proteção diferencial do transformador elevador – principal;
+(4) disparo da proteção diferencial do transformador elevador – alternada;
+(5) disparo da proteção diferencial geral (diferencial da unidade ou total) – principal;
+(6) disparo da proteção diferencial geral (diferencial da unidade ou total) – alternada;
+(7) disparo da proteção diferencial de fase dividida – principal;
+(8) disparo da proteção diferencial de fase dividida – alternada;
+(9) disparo por sobretensão temporizada – principal;
+(10)disparo por sobretensão temporizada – alternada;
+(11)disparo da proteção de sobretemperatura de enrolamento;
+(12)disparo da proteção de sobretemperatura de óleo;
+(13)disparo da proteção de gás do transformador;
+(14)disparo da válvula de alívio de pressão.
+6.1.1.11. Bancos de capacitores série:
+(a) Tipo “A”:
+(1) atuação dos relés de bloqueio associados às proteções elétricas do banco de capacitores série e
+de seus componentes:
+(i) atuação de relé de bloqueio – principal;
+(ii) atuação de relé de bloqueio – alternada.
+(2) disparo da proteção elétrica tanto do banco de capacitores série como, eventualmente, de seus
+componentes (MOV, reatores e capacitores). Nestes casos deve ser indicada a função ou o
+equipamento protegido:
+(i) disparo da proteção – principal;
+(ii) disparo da proteção – alternada.
+6.1.1.12. Sistemas de transmissão em corrente contínua:
+6.1.1.12.1. Para os equipamentos componentes dos conversores, incluindo os transformadores e reatores,
+utilizar os mesmos requisitos definidos para os respectivos equipamentos.
+6.1.1.12.2. Conversor
+(a) Tipo “A”:
+(1) atuação do relé de bloqueio;
+(2) condição de operação (bloqueado/desbloqueado) – mudança de estado
+(bloqueado/desbloqueado) por comando de proteção (bloqueio ou “forced retard”) ou por
+comando manual.
+(b) Tipo “B”: Agrupamento dos eventos abaixo relacionados para gerar uma única mensagem:
+Endereço na internet: http://www.ons.org.br 24 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+(1) disparo da proteção do conversor: deve englobar todas as proteções projetadas para eliminar
+falhas e problemas ligados exclusivamente ao conversor, tais como:
+(i) disparo da proteção para falta na válvula;
+(ii) disparos por sobrecorrente do conversor;
+(iii) disparos por falha de comutação;
+(iv) disparos por ângulo de retardo excessivo;
+(v) disparo da proteção do disjuntor de by-pass;
+(vi) disparos da supervisão das válvulas;
+(vii) disparo da proteção diferencial CC;
+(viii)disparos da proteção de falha à terra no lado CA;
+(ix) disparos da proteção de sobrecarga do par by-pass;
+(x) disparo da proteção de falha de disparo da válvula.
+6.1.1.12.3. Polo e linha de transmissão:
+(a) Tipo “A”:
+(1) disparos da proteção harmônica – critério por tensão;
+(2) disparos da proteção da linha CC;
+(3) disparo da proteção de sobrecorrente CC;
+(4) disparo da proteção para abertura da linha do eletrodo;
+(5) religamento automático (“restart”) da LT (em tensão normal e em tensão reduzida);
+(6) disparo da proteção duplo monopolar.
+(b) Tipo “B”: Agrupamento dos eventos abaixo relacionados para gerar uma única mensagem:
+(1) disparo da proteção do polo: deve englobar todas as proteções projetadas para eliminar falhas e
+problemas ligados exclusivamente ao polo, tais como:
+(i) disparo da proteção diferencial;
+(ii) disparos da proteção de sobretensão CC;
+(iii) disparos da proteção de mínima tensão CC;
+(iv) disparo da proteção para operação desequilibrada;
+(v) disparos da proteção para falta à terra durante teste com a linha aberta;
+(vi) disparo da proteção da seccionadora da barra neutra;
+(vii) disparo da proteção de sobrecarga do filtro CC;
+(viii)disparo da proteção de abertura da linha do eletrodo;
+(ix) disparo da proteção harmônica CC.
+Endereço na internet: http://www.ons.org.br 25 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+6.1.1.12.4. Proteção do bipolo:
+(a) Tipo “A”:
+(1) disparo da proteção de sobrecorrente na linha do eletrodo.
+(b) Tipo “B”: Agrupamento dos eventos abaixo relacionados para gerar uma única mensagem:
+(1) disparo da proteção do bipolo: deve englobar todas as proteções projetadas para eliminar falhas
+e problemas ligados exclusivamente ao bipolo, tais como:
+(i) disparo da proteção diferencial da barra de neutro;
+(ii) disparo da proteção de falta à terra no retorno metálico.
+6.1.1.12.5. Proteção dos filtros CA:
+(a) Tipo “A”:
+(1) atuação dos relés de bloqueio associados às proteções elétricas do banco de filtros:
+(i) atuação de relé de bloqueio – principal;
+(ii) atuação de relé de bloqueio – alternada.
+(2) disparo da proteção elétrica tanto do banco de filtros como eventualmente de seus componentes.
+Nestes casos deve ser especificado o equipamento protegido:
+(i) disparo da proteção – principal;
+(ii) disparo da proteção – alternada.
+(b) Tipo “B”: para cada sinal abaixo agrupar todos os disparos da função na unidade de proteção (IED),
+sejam eles emitidos por fase ou por combinação delas:
+(1) disparo por sobrecarga harmônica – principal: deve englobar todas as proteções de sobrecarga de
+seus elementos (resistores, reatores e capacitores), sejam elas sensibilizadas por corrente ou por
+tensão;
+(2) disparo por sobrecarga harmônica – alternada: ver observação do item acima;
+(3) disparo da proteção de sobretensão instantânea principal;
+(4) disparo da proteção de sobretensão instantânea alternada;
+(5) disparo da proteção de sobretensão temporizada principal;
+(6) disparo da proteção de sobretensão temporizada alternada;
+(7) disparo da proteção de desbalanço principal;
+(8) disparo da proteção de desbalanço alternada.
+6.2. Qualidade dos eventos
+6.2.1. As UTR ou os SSCL devem ser capazes de armazenar informações para o sequenciamento de eventos
+com uma resolução entre eventos menor ou igual a 5 (cinco) milissegundos. A exatidão do selo de tempo
+associado a cada evento deve ser menor ou igual 1 (um) milissegundo.
+6.2.1.1. Entende-se como resolução a capacidade de discriminar eventos ocorridos em tempos distintos.
+Endereço na internet: http://www.ons.org.br 26 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+6.2.1.2. Entende-se como exatidão o grau de aproximação do selo de tempo ao tempo absoluto de
+ocorrência do evento.
+6.2.2. A base de tempo utilizada para o registro da sequência de eventos deve ser o relógio de tempo da
+UTR/SSCL, cujas características são apresentadas no item 4.1.9. deste submódulo.
+6.2.3. A relação de eventos apresentada no item 6.1 deste submódulo está baseada numa filosofia de
+proteção padrão. Os agentes podem utilizar diferentes filosofias e tecnologias, desde que atendam ao
+disposto no Submódulo 2.11 – Requisitos mínimos para os sistemas de proteção, de registro de perturbações
+e de teleproteção.
+6.2.3.1. É responsabilidade do agente mapear, sempre que aplicável, os eventos aqui apresentados com
+aqueles efetivamente implementados na instalação.
+6.2.3.2. É responsabilidade do agente a implementação de processamentos e/ou combinação de sinais na
+instalação que venham a ser necessários para a disponibilização dos sinais aqui requeridos.
+6.2.4. O selo de tempo de todos os eventos deve estar no padrão UTC.
+7. SUPERVISÃO DE EQUIPAMENTOS DA REDE DE SUPERVISÃO E NÃO INTEGRANTES DA REDE DE
+OPERAÇÃO
+7.1. Interligação de dados
+7.1.1. Devem ser disponibilizados os recursos necessários para as interligações de dados para atender aos
+requisitos das funções tradicionais de supervisão e controle, conforme conceituado no item 4.2 deste
+submódulo.
+7.2. Informações requeridas para a supervisão do sistema elétrico
+7.2.1. Para cada equipamento integrante da Rede de Supervisão e não pertencente à Rede de Operação, as
+seguintes informações de grandezas analógicas e de sinalização de estado devem ser transferidas para o
+sistema de supervisão e controle dos centros de operação designados pelo ONS:
+7.2.1.1. Medições analógicas:
+(a) Todas as medições devem ser feitas de forma individualizada e transferidas periodicamente aos
+centros de operação do ONS;
+(b) O período de transferência deve ser parametrizável por centro de operação do ONS e os sistemas
+devem ser projetados para suportar períodos de aquisição menores ou iguais a 6 (seis) segundos;
+(c) As seguintes informações devem ser coletadas e transferidas para os centros de operação do ONS:
+(1) magnitude da tensão fase-fase, que pode ser obtida pela medição fase-fase ou por cálculo a partir
+de medição fase-neutro, em kV, entre quaisquer duas das três fases, de cada secção de barramento
+da subestação que possa formar um nó elétrico, exceto no caso de arranjo de barramento em anel;
+(2) no caso de arranjo de barramento em anel, magnitude da tensão fase-fase, que pode ser obtida
+pela medição fase-fase ou por cálculo a partir de medição fase-neutro, em kV, entre quaisquer
+duas das três fases, nos terminais de cada equipamento conectado ao barramento da subestação
+(LT, transformadores etc.);
+Endereço na internet: http://www.ons.org.br 27 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+(3) magnitude da tensão fase-fase, que pode ser obtida pela medição fase-fase ou por cálculo a partir
+de medição fase-neutro, em kV, entre quaisquer duas das três fases, de cada unidade geradora
+(lado de baixa do transformador elevador);
+(4) potência trifásica ativa, em MW, e reativa, em Mvar, nos terminais de todas as LT;
+(5) no caso de LT curtas (até 3 km de extensão) existentes entre a casa de força da usina e a
+subestação, potência trifásica ativa, em MW, e reativa, em Mvar, nos terminais conectados à
+subestação;
+(6) potência trifásica ativa, em MW, e reativa, em Mvar, nos enrolamentos dos transformadores.
+Considerar a medição apenas nos enrolamentos que estiverem ligados a barramentos integrantes
+da Rede de Supervisão, mas não integrantes da Rede de Operação;
+(7) no caso de transformadores elevadores de unidades geradoras, potência trifásica ativa, em MW,
+e reativa, em Mvar, do lado de alta tensão do transformador;
+(8) potência trifásica ativa, em MW, e reativa, em Mvar, por gerador;
+(9) potência trifásica reativa, em Mvar, de todos equipamentos de compensação reativa dinâmicos,
+tais como compensadores síncronos e compensadores estáticos controláveis;
+(10)potência trifásica ativa, em MW, e reativa, em Mvar, nas derivações eventualmente existentes
+entre o gerador e o transformador elevador que alimente cargas segundo o seguinte critério:
+(i) para geradores com potência nominal ≤ 30 MW: medição necessária se as derivações
+consumirem, no total, mais de 3% da potência nominal do gerador;
+(ii) para geradores com potência nominal entre 30 MW e 200 MW: medição necessária se as
+derivações consumirem, no total, mais de 2% da potência nominal do gerador;
+(iii) para geradores com potência nominal ≥ 200 MW: medição necessária se as derivações
+consumirem, no total, mais de 1% da potência nominal do gerador;
+(11)posição de tape de transformadores de potência equipados com comutadores sob carga.
+Considerar a medição apenas se o tiver mais de um enrolamento ligado a barramentos integrantes
+da Rede de Supervisão, mas não integrantes da Rede de Operação.
+7.2.1.2. Sinalização de estado:
+(a) de todos os disjuntores e chaves utilizadas nos barramentos e nas conexões de equipamentos da Rede
+de Supervisão, incluídas as chaves de by-pass. Esse requisito é aplicável tanto a sistemas de geração
+e transmissão em corrente alternada quanto a sistemas de transmissão em corrente contínua
+(incluindo filtros);
+(b) do estado operacional de UTR e SSCL diretamente subordinados a CD (detalhes sobre a identificação
+do estado operacional deste tipo de equipamento são apresentados na sessão 4 deste submódulo).
+7.2.1.3. Ainda com relação à sinalização de estado, deve-se observar que:
+(a) todas as sinalizações de estado devem ser transmitidas por exceção;
+(b) o SSCL ou a UTR deve estar apto a responder a varreduras de integridade feitas pelo ONS, que podem
+ser periódicas, com período parametrizável, tipicamente a cada 1 (uma) hora, sob demanda, ou por
+evento como, por exemplo, uma reinicialização dos recursos de supervisão e controle do ONS.
+Endereço na internet: http://www.ons.org.br 28 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+7.2.2. Os terminais de equipamentos não integrantes da Rede de Supervisão e conectados a barramentos
+de fronteira têm sua supervisão definida num acordo entre o ONS e o agente.
+7.3. Qualidade da informação
+Exatidão da medição
+7.3.1.1. Todas as medições devem ser efetuadas por equipamentos cuja classe garanta uma exatidão mínima
+de 2%. Tal exatidão deve englobar toda a cadeia de equipamentos utilizados, tais como transformadores de
+corrente, de tensão, transdutores, conversores analógico/digital etc.
+Idade do dado
+7.3.2.1. Os conceitos relativos à mensuração da idade do dado estão apresentados nos itens 5.5.2. e 5.5.2.2.
+deste submódulo.
+7.3.2.2. A idade máxima para os dados coletados por varredura (periodicamente) deve ser inferior à soma
+do tempo de varredura adotado pelo ONS para aquisição de dado adicionado de:
+(a) 6 (seis) segundos em média;
+(b) 12 (doze) segundos no máximo para algumas varreduras, desde que mantida a média de 6 (seis)
+segundos.
+7.3.2.3. A idade máxima de um dado coletado por exceção deve ser inferior a 10 (dez) segundos.
+Banda morta e varredura de integridade
+7.3.3.1. Os protocolos que transmitem medições analógicas por exceção devem ter uma banda morta e
+varredura de integridade estabelecidas de comum acordo entre o ONS e o agente. As definições obtidas
+nesses acordos não devem prejudicar a exatidão das medidas, conforme definido no item 7.3. deste
+submódulo.
+7.3.3.2. Enquanto um acordo formal não for firmado entre o ONS e o agente, a UTR e/ou SSCL devem ser
+configurados com um valor inicial de banda morta de 0,1% do fundo de escala ou do último valor lido e
+devem suportar varreduras de integridade com períodos menores ou igual a 30 (trinta) minutos.
+7.4. Parametrizações
+7.4.1. Todos os períodos de aquisição acima especificados devem ser parametrizáveis, e os valores
+apresentados se constituem em níveis mínimos.
+8. SUPERVISÃO DE CENTRAL GERADORA COMPOSTA POR UNIDADES GERADORAS COM POTÊNCIA
+NOMINAL IGUAL OU INFERIOR A 10 MW
+8.1. Abrangência
+8.1.1. A partir de uma análise da configuração elétrica da central geradora, o ONS pode permitir o
+agrupamento de um conjunto de unidades geradoras com potência nominal individual igual ou inferior a 10
+MW, compondo uma unidade geradora equivalente.
+Endereço na internet: http://www.ons.org.br 29 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+8.1.2. Os requisitos descritos no item 8 deste submódulo aplicam-se às unidades geradoras equivalentes e
+aos seguintes equipamentos associados à central geradora, na instalação coletora em tensão inferior a 230
+kV:
+(a) barramentos de alta e de baixa tensão;
+(b) transformadores elevadores;
+(c) linhas de conexão ao SIN;
+(d) todas as chaves e disjuntores utilizadas nos barramentos de alta e baixa tensão;
+(e) todas as chaves e disjuntores utilizados para conectar o lado de baixa do transformador elevador ao
+barramento.
+8.1.3. Para instalações coletoras em tensão igual ou superior a 230 kV, aplicam-se os requisitos de supervisão
+e controle definidos para a Rede de Operação.
+8.2. Interligação de dados
+8.2.1. Devem ser disponibilizados os recursos necessários para as interligações de dados para atender aos
+requisitos das funções tradicionais de supervisão e controle, conforme conceituado no item 4.2 deste
+submódulo.
+8.3. Informações requeridas para a supervisão das centrais geradoras
+8.3.1. Os agentes responsáveis por centrais geradoras enquadradas no item 8 deste submódulo devem
+transferir para os centros de operação designados pelo ONS as medições analógicas e as sinalizações de
+estado dos equipamentos relacionados no item 8.1.2. deste submódulo, segundo os seguintes requisitos:
+8.3.1.1. Medições:
+(a) Todas as medições deverão ser feitas de forma individualizada e transferidas periodicamente aos
+centros de operação do ONS.
+(b) O período de transferência deve ser parametrizável por centro de operação do ONS e os sistemas
+devem ser projetados para suportar períodos menores ou iguais a 4 (quatro) segundos.
+(c) As seguintes informações devem ser obtidas e transferidas para os centros de operação do ONS:
+(1) posição dos tapes dos transformadores elevadores, quando equipados com comutadores sob
+carga;
+(2) magnitude da tensão fase-fase, em kV, entre quaisquer duas das três fases, para os
+transformadores elevadores, cuja medição deve ser no lado ligado à barra de menor potência de
+curto-circuito, geralmente o de menor tensão, caso o ONS não explicite que seja no outro lado do
+transformador;
+(3) magnitude da tensão fase-fase, em kV, em todas as seções dos barramentos da subestação
+passíveis de formar um nó elétrico;
+(4) potência ativa trifásica, em MW, e reativa, em Mvar, do lado de baixa tensão dos transformadores
+elevadores;
+Endereço na internet: http://www.ons.org.br 30 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+(5) potência ativa trifásica, em MW, e reativa, em Mvar, nos terminais de todas as LT conectadas à
+Rede de Operação;
+(6) disponibilidade, em MW, de cada grupo de máquinas ou, mediante concordância do ONS, o
+número de máquinas disponíveis e sincronizadas em operação, em cada grupo de máquinas. Essa
+informação pode passar por processamento prévio.
+(d) As seguintes informações, relativas à central geradora eólica, devem ser enviadas ao ONS através do
+sistema de supervisão em tempo real, por usina, conforme definido no item 5.5.2.4. :
+(1) velocidade do vento (anemômetro na altura do eixo das turbinas ou no mínimo 50 metros acima
+do solo), em m/s;
+(2) direção do vento (sensor localizado na altura do eixo das turbinas ou no mínimo 50 metros acima
+do solo), em graus em relação ao norte verdadeiro;
+(3) pressão atmosférica (sensor localizado até 20 metros abaixo do anemômetro), em hPa; e
+(4) temperatura (sensor localizado até 20 metros abaixo do anemômetro), em °C.
+(e) As seguintes informações, relativas à central geradora solar, devem ser obtidas e transferidas para os
+centros de operação do ONS, por parque gerador:
+(1) irradiação solar, em W/m2;
+(2) temperatura, em °C.
+8.3.1.2. Sinalização de estado:
+(a) Todas as sinalizações de estado devem ser transmitidas por exceção.
+(b) O SSCL ou a UTR deve estar apto a responder a varreduras de integridade feitas pelo ONS, que podem
+ser periódicas, com período parametrizável, tipicamente a cada 1 (uma) hora, sob demanda, ou por
+evento como, por exemplo, uma reinicialização dos recursos de supervisão e controle do ONS.
+(c) As posições de todas as chaves e disjuntores de interligação à rede do lado de alta tensão da
+subestação devem ser obtidas e transferidas para os centros de operação do ONS.
+(d) Em relação a central geradora eólica, a indicação de estado ligado ou desligado dos equipamentos de
+compensação reativa instalados no parque eólico, exceto os equipamentos individuais dos geradores,
+devem ser obtidas e transferidas para o centro de operação do ONS:
+8.4. Sequenciamento de eventos
+8.4.1. Aplicam-se aos equipamentos da central geradora os requisitos de sequenciamento de eventos
+especificados para a Rede de Operação, apresentados no item 6 deste submódulo.
+8.5. Qualidade da informação
+8.5.1. Os requisitos de qualidade exigidos para a supervisão de centrais geradoras são os mesmos exigidos
+para a supervisão de equipamentos da Rede de Operação, apresentados no item 5.5 deste submódulo, e
+abrangem:
+(a) exatidão da medição;
+(b) idade do dado;
+Endereço na internet: http://www.ons.org.br 31 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+(c) banda morta e varredura de integridade.
+8.6. Parametrizações
+8.6.1. Todos os períodos de aquisição devem ser parametrizáveis, sendo que os valores apresentados se
+constituem em níveis mínimos.
+9. SUPERVISÃO DE INSTALAÇÕES (SUBESTAÇÕES) COMPARTILHADAS DA REDE DE OPERAÇÃO
+9.1. Qualquer agente que compartilhe uma instalação (subestação) existente deve:
+(a) disponibilizar ao SSCL do agente responsável pela subestação existente a supervisão remota de todos
+os equipamentos a ela conectados, conforme descrito na seção 5 deste submódulo, com exceção dos
+requisitos para CAG;
+(b) garantir supervisão em nível local segundo a filosofia acordada com o agente responsável pela
+subestação;
+(c) garantir a instalação e operacionalização de todos os equipamentos e sistemas necessários para
+viabilizar em nível local as interligações de dados com o agente responsável pela subestação;
+(d) na primeira conexão entre os sistemas de supervisão, adotar o protocolo para comunicação com o
+SSCL conforme determinado pelo agente responsável pela subestação; qualquer alteração no
+protocolo de comunicação após a primeira conexão dos sistemas de supervisão deve ser acordada
+entre as partes; e
+(e) prever testes de conectividade entre o SSCL/UTR e o SSCL do agente responsável pela subestação, de
+forma a garantir a coerência das bases de dados desse sistema e o perfeito funcionamento dos
+protocolos utilizados.
+9.2. Alternativamente à instalação de novos recursos de supervisão e controle, o agente, mediante prévio
+acordo com o agente responsável pela subestação, pode optar pela expansão dos recursos de supervisão e
+controle disponíveis, desde que atendidos todos os requisitos de supervisão e controle estabelecidos nos
+Procedimentos de Rede.
+9.3. O agente responsável pela subestação deve disponibilizar, a todos os agentes que compartilham a
+instalação, o acesso aos dados de supervisão de toda a instalação (inclusive dados de outros agentes)
+disponíveis em seu SSCL, necessários para a execução da operação de qualquer equipamento da instalação,
+seja em operação normal, seja em processo de recomposição simples ou perturbações. É responsabilidade
+de cada agente que compartilha a instalação prover o recebimento dos dados.
+10. DISPONIBILIDADE E QUALIDADE DOS RECURSOS DE SUPERVISÃO E CONTROLE
+10.1. Geral
+10.1.1. Os recursos de supervisão e controle fornecidos pelos agentes ao ONS para atender aos requisitos
+apresentados neste submódulo devem ter sua disponibilidade e qualidade medidas pelo ONS, de acordo com
+os conceitos e critérios estabelecidos a seguir e os indicadores estabelecidos no Submódulo 9.6 – Indicadores
+de desempenho dos sistemas de supervisão e controle e dos serviços de telecomunicações.
+Endereço na internet: http://www.ons.org.br 32 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+10.1.2. Devem ser avaliados os sistemas que se interponham entre os equipamentos de aquisição de dados
+ou de aplicação de comandos nas instalações e o centro de operação do ONS, incluindo os equipamentos de
+interfaceamento com os sistemas de comunicação.
+10.1.3. Não são computados nos índices os tempos de indisponibilidade causados por:
+(a) indisponibilidade de equipamentos nos centros de operação do ONS;
+(b) atividades de aprimoramento constantes do plano de adequação das instalações dos agentes
+apresentado ao ONS, plano este definido conforme estabelecido no Submódulo 7.9 – Implantação
+dos serviços de supervisão e controle para a operação;
+(c) atualizações e instalação de hardware ou software nos SSCL ou nos CD dos agentes, desde que sejam
+programadas e aprovadas com antecedência pelo ONS;
+(d) atualizações ou instalação de hardware e software para melhoria de segurança no enlace de
+comunicação entre SSCL ou CD e os centros de operação designados pelo ONS, desde que sejam
+programadas e aprovadas com antecedência pelo ONS;
+(e) manutenções autorizadas pelo ONS no equipamento associado ao recurso de supervisão e controle.
+10.2. Conceito de indisponibilidade de recursos de supervisão e controle
+10.2.1. Uma informação de qualquer dos tipos especificados neste submódulo é considerada indisponível
+para o ONS sempre que:
+(a) o recurso não estiver instalado ou não estiver liberado para a operação;
+(b) um SSCL estiver fora de serviço ou sem comunicação;
+(c) o CD, quando utilizado, estiver fora de serviço ou sem comunicação;
+(d) o ONS detectar falha de atuação de um ponto de controle;
+(e) o indicador de qualidade sinalizar informação sob entrada manual pelo agente;
+(f) o indicador de qualidade sinalizar informação fora de varredura.
+10.2.2. Todos os pontos subordinados a um SSCL de uma instalação são declarados indisponíveis sempre
+que ocorrer ausência de resposta de tal sistema às solicitações dos centros de operação do ONS ou de um
+CD, se utilizado.
+10.2.3. No caso de utilização de CD, todos os pontos subordinados ao concentrador são declarados
+indisponíveis quando o CD deixar de responder às solicitações do ONS.
+10.3. Conceito de qualidade dos recursos de supervisão e controle
+10.3.1. Considera-se que uma informação de qualquer dos tipos especificados neste submódulo viola
+critérios de qualidade quando:
+(a) tratando-se de informações analógicas, a informação violar um dos seus limites de escala;
+(b) uma informação estiver comprovadamente inconsistente;
+(c) a informação violar os requisitos de idade do dado.
+10.4. Avaliação da disponibilidade e da qualidade dos recursos de supervisão e controle
+Endereço na internet: http://www.ons.org.br 33 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+10.4.1. A avaliação da disponibilidade e da qualidade dos recursos de supervisão e controle baseia-se em
+três indicadores, cuja formulação é apresentada no Submódulo 9.6:
+(a) Disponibilidade dos Recursos de Supervisão e Controle (DRSC ), cujos valores mínimos aceitáveis são:
+ij
+(1) para SSCL de instalações estratégicas: 98,5% em base anual;
+(2) para SSCL das demais instalações: 97,5% em base anual;
+(3) para agentes: 99% em base anual.
+(b) Qualidade dos Recursos de Supervisão e Controle (QRSC ), cujos valores mínimos aceitáveis são:
+ij
+(1) para SSCL de instalações estratégicas: 98,5% em base anual;
+(2) para SSCL das demais instalações: 97,5% em base anual;
+(3) para agentes: 99% em base anual.
+(c) Disponibilidade de SSCL ou de CD (DCD), cujos valores mínimos aceitáveis são:
+i
+(1) para SSCL diretamente ligados ao Centro do ONS: 99,95% em base anual;
+(2) para CD por agentes: 99,95% em base anual;
+(3) para SSCL diretamente ligados a CD: 99,93% em base anual;
+11. ATUALIZAÇÃO DAS BASES DE DADOS DOS SISTEMAS DE SUPERVISÃO E CONTROLE DO ONS
+11.1. Cadastramento dos equipamentos
+11.1.1. Os agentes que disponham de equipamentos na Rede de Supervisão devem fornecer as informações
+cadastrais descritivas para a configuração das bases de dados dos centros de operação do ONS, conforme
+Submódulo 7.9 e detalhado em rotina operacional específica do Submódulo 5.13.
+11.2. Teste de conectividade e testes ponto a ponto
+11.2.1. Todos os agentes devem prever testes de conectividade entre os seus SSCL/UTR e os SSC dos centros
+de operação designados pelo ONS, conforme descrito no Submódulo 7.9.
+11.2.2. Além do teste da conectividade, devem ser previstos testes ponto a ponto entre o SSCL/UTR e o SSC
+dos centros de operação designados pelo ONS, conforme programação a ser previamente acordada com o
+ONS, de forma a garantir a coerência das bases de dados desses sistemas e o perfeito funcionamento dos
+protocolos utilizados.
+11.2.3. Sempre que necessário devem ser realizados testes diretamente no campo ou no SSCL/UTR para
+avaliar o selo de tempo das sinalizações e SOE.
+12. REFERÊNCIAS
+[1] ONS. Áreas do Controle Automático de Geração do Sistema Interligado, Referência Técnica do Manual
+de Procedimentos da Operação.
+Endereço na internet: http://www.ons.org.br 34 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle
+2.12 Requisitos 2022.10 03/10/2022
+para a operação
+13. ANEXOS
+Anexo A – Estrutura de supervisão e controle
+Anexo B – Representação simplificada do fluxo de informações para o CAG dos centros de operação do ONS
+para o caso da área #2
+Endereço na internet: http://www.ons.org.br 35 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle para a operação 2.12 Requisitos 2022.10 03/10/2022
+ANEXO A
+Estrutura de supervisão e controle
+CNOS
+Recursos do COSR-A COSR-B COSR-C ... COSR-Z
+ONS
+Barramento
+SSC-L1 SSC-L2 SSC-L3 ... SSC-Ln Lógico de
+suporte dos
+SSCs aos
+COSs
+Rede de Comunicação Operativa do ONS
+SAL SAR SAL SAR ... SAL SAR
+SAs da Localização 1 SAs da Localização 2 SAs da Localização n
+CAG
+CAG CAG
+CD #1 CD #2 CD #j
+Recursos providos pelos
+Agentes
+UTR/ ... UTR/ UTR/ ... UTR/ ... UTR/ UTR/ ... UTR/
+SSCL SSCL SSCL SSCL SSCL SSCL SSCL
+Endereço na internet: http://www.ons.org.br 36 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle para a operação 2.12 Requisitos 2022.10 03/10/2022
+Legenda: CNOS: Centro Nacional de Operação do Sistema;
+COSR: Centro de Operação do Sistema;
+COSR-i: COSR instalado na localização “i”, nas cidades onde o ONS tem os seus COSR.
+SSC: Sistema de Supervisão e Controle:
+SSC-Li: SSC instalado na localização “i”, normalmente nas cidades onde o ONS tem os seus COSR.
+SA: Sistema de Aquisição de Dados:
+SAL: SA local, instalado nas mesmas dependências de um SSC;
+SAR: SA remoto, instalado em outras dependências que não aquelas do SSC a que pertence.
+CD: Concentrador de Dados;
+UTR: Unidades Terminais Remotas;
+SSCL: Sistema de Supervisão e Controle Local;
+CAG: Denota enlaces de dados para a aquisição de informações e a emissão de ações de comando do CAG.
+Endereço na internet: http://www.ons.org.br 37 / 38
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos de supervisão e controle para a operação 2.12 Requisitos 2022.10 03/10/2022
+ANEXO B
+Representação simplificada do fluxo de informações para o CAG dos centros de operação do ONS para o caso da área #2
+Centro de Operação do ONS Centro de Operação do ONS que
+que controla o CAG da Área
+Centro d e Operação do ONS
+controla a área # i e passível de assumir
+que controla o CAG da Área # 2
+Adjacente # 1 Todas as o CAG da Área # 2
+TTooddaass a ass
+Infos de
+InInffooss e e
+CAG e
+CCoonnttrroolele
+Controles
+Apenas Intercâmbios
+Apenas Intercâmbios
+... ... ...
+Inst 11 Inst 1n Inst 21 Inst 22 Inst 2n Inst i1 Inst in
+Área # 1 Área # 2 Área # i
+Áreas # 2 e # i
+Inst = Instalação
+Endereço na internet: http://www.ons.org.br 38 / 38

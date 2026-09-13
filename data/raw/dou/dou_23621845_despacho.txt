@@ -1,0 +1,18 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 25/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=25/02/2026&jornal=515&pagina=94
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Superintendência de Segurança de Barragens e Pilhas de Mineração/Gerência de Barragens de Mineração
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 13/2026
+Fase de Concessão de Lavra
+Determina o embargo da barragem de mineração.(2515)
+AGUA LIMPA-MINERAÇÃO GERMINAL LTDA-001.773/1936-Auto de embargo nº 3/2026/ANM/GEBM(PAS: 48054.931065/2024-85)
+DAVID DE BARROS GALO
+Gerente

@@ -1,0 +1,49 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Resolução
+TITULO: RESOLUÇÃO Nº 7, de 9 DE FEVEREIRO de 2026
+DATA_PUBLICACAO: 13/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=13/02/2026&jornal=515&pagina=159
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Autoridade Nacional de Segurança Nuclear/Diretoria Colegiada
+
+TEXTO_COMPLETO:
+EMENTA: Institui o Programa de Certificação Interna de Conformidade de Instalações no âmbito da Autoridade Nacional de Segurança Nuclear - ANSN.
+
+RESOLUÇÃO Nº 7, de 9 DE FEVEREIRO de 2026
+Institui o Programa de Certificação Interna de Conformidade de Instalações no âmbito da Autoridade Nacional de Segurança Nuclear - ANSN.
+A DIRETORIA COLEGIADA DA AUTORIDADE NACIONAL DE SEGURANÇA NUCLEAR - ANSN, no exercício das competências que lhe foram outorgadas pela Lei nº 14.222, de 15 de outubro de 2021, e pelo art.14 do Decreto nº 11.142, de 21 de julho de 2022, tendo em vista a deliberação tomada em sua 4ª reunião ordinária, realizada em 09 de fevereiro de 2026, e o que consta do processo n° 48100.000751/2025-91, resolve:
+Art. 1º Fica instituído, no âmbito da Autoridade Nacional de Segurança Nuclear - ANSN, o Programa de Certificação Interna de Conformidade de Instalações (CICI-ANSN), destinado a avaliar, verificar e certificar a conformidade técnica e radiológica das instalações e laboratórios pertencentes à própria Autoridade.
+Art. 2º O CICI-ANSN tem como objetivos:
+I - assegurar que as instalações, laboratórios e fontes sob responsabilidade direta da ANSN operem em conformidade com os requisitos de segurança nuclear, segurança física e segurança radiológica aplicáveis;
+II - promover a rastreabilidade e o controle documental das medições, calibrações, fontes e equipamentos utilizados em atividades internas;
+III - fortalecer a cultura de segurança e a coerência entre as práticas internas e os padrões exigidos aos operadores externos; e
+IV - permitir auditorias e revisões por pares que reforcem a credibilidade e a transparência da Autoridade.
+Art. 3º O CICI-ANSN aplica-se às seguintes unidades e estruturas:
+I - os laboratórios das unidades da ANSN; e
+II - quaisquer outras unidades da ANSN que mantenham fontes, instrumentos de medição ou ambientes controlados sujeitos a requisitos de proteção radiológica.
+Art. 4º O CICI-ANSN deverá incluir como partes relevantes:
+I - Unidades Operadoras Internas, responsáveis pela operação e manutenção das instalações e laboratórios sob sua custódia;
+II - Unidade Técnica Reguladora Interna, encarregada da análise técnica e da execução das inspeções e auditorias de conformidade; e
+III - Corpo Interno de Certificação de Conformidade (CICC), órgão colegiado responsável pela deliberação final sobre a emissão, renovação, suspensão ou cancelamento das certificações internas.
+§ 1º O CICC será composto por servidores da ANSN designados pela Presidência, com mandato de três anos, sendo vedada a participação de integrantes diretamente vinculados às atividades operacionais das unidades avaliadas.
+§ 2º O CICC elaborará atas e relatórios de deliberação, que integrarão o banco de dados do CICI-ANSN e servirão como evidência de rastreabilidade técnica.
+Art. 5º O processo de certificação seguirá, no mínimo, as seguintes etapas:
+I - solicitação formal de certificação pela Unidade Operadora Interna, acompanhada da documentação técnica exigida (inventário de fontes, relatórios de calibração, planos de proteção radiológica e de proteção física, evidências de monitoramento ocupacional, entre outros);
+II - auditoria e inspeção pela Unidade Técnica Reguladora Interna, com base em listas de verificação alinhadas às normas da ANSN;
+III - elaboração de parecer técnico de conformidade e encaminhamento ao CICC; e
+IV - deliberação e emissão do Certificado Interno de Conformidade de Instalação (CICI), conforme modelo a ser estabelecido em ato próprio.
+§ 1º A validade do CICI será de até três anos, podendo ser reduzida de acordo com o risco da atividade ou ampliada mediante reavaliação favorável.
+§ 2º A renovação do certificado dependerá de nova inspeção e da atualização dos registros de monitoramento.
+§ 3º Constatada não conformidade relevante, o CICC poderá suspender ou revogar a certificação até a implementação das ações corretivas.
+Art. 6º A ANSN manterá registro eletrônico centralizado de todas as certificações emitidas, com histórico das inspeções, prazos de validade, planos de ação e relatórios de auditoria.
+§ 1º Os certificados vigentes serão disponibilizados no sítio eletrônico da ANSN.
+§ 2º Informações sigilosas, classificadas ou sensíveis permanecerão restritas, conforme a legislação aplicável.
+Art. 7º O CICI-ANSN será objeto de auditorias internas periódicas e poderá ser submetido a revisões por pares ou auditorias externas independentes, com vistas a aprimorar continuamente seus procedimentos e assegurar sua conformidade com as boas práticas internacionais.
+Art. 8º As disposições complementares, formulários, modelos de relatório e fluxos administrativos referentes ao CICI-ANSN serão definidos por meio de instrução normativa da Presidência.
+Art. 9º Esta Resolução entra em vigor na data de sua publicação.
+Alessandro Facure Neves de Salles Soares
+Diretor-Presidente
+Ailton Fernando Dias
+Membro
+Lorena Pozzo
+Membro

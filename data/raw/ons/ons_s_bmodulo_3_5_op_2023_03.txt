@@ -1,0 +1,500 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Súbmodulo 3.5-OP_2023.03
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Súbmodulo 3.5-OP_2023.03.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 3.5
+Consolidação da previsão de carga para
+planejamento da operação
+eletroenergética
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2023.03 Resolução da 904ª Reunião de 21/03/2023
+Diretoria do ONS nº 0028/2023
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+3.5 Operacional 2023.03 21/03/2023
+planejamento da operação eletroenergética
+ÍNDICE
+1. CONSOLIDAÇÃO DA PREVISÃO DE CARGA PARA OS ESTUDOS DE PLANEJAMENTO DA OPERAÇÃO
+ELÉTRICA ...................................................................................................................................... 3
+1.1. Elaboração do Termo de Referência ............................................................................................. 3
+1.2. Obtenção de dados ........................................................................................................................ 3
+1.3. Análise dos dados .......................................................................................................................... 4
+1.4. Disponibilização da previsão de carga consolidada ...................................................................... 5
+2. CONSOLIDAÇÃO DA PREVISÃO DE CARGA PARA OS ESTUDOS DE PLANEJAMENTO DA OPERAÇÃO
+ENERGÉTICA DE MÉDIO PRAZO ..................................................................................................... 6
+2.1. Obtenção de dados ........................................................................................................................ 6
+2.2. Análise e consistência dos dados .................................................................................................. 6
+2.3. Disponibilização da previsão de carga consolidada ...................................................................... 7
+3. REFERÊNCIAS ................................................................................................................................ 8
+4. ANEXOS........................................................................................................................................ 8
+ANEXO A – COMPOSIÇÃO DA CARGA GLOBAL E CARGA POR BARRAMENTO ............................................ 8
+ANEXO B – DADOS A SEREM ENCAMINHADOS PELOS AGENTES PARA A REALIZAÇÃO DOS ESTUDOS DE
+PLANEJAMENTO DA OPERAÇÃO ELÉTRICA ..................................................................................... 8
+Endereço na internet: http://www.ons.org.br 2 / 13
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+3.5 Operacional 2023.03 21/03/2023
+planejamento da operação eletroenergética
+1. CONSOLIDAÇÃO DA PREVISÃO DE CARGA PARA OS ESTUDOS DE PLANEJAMENTO DA OPERAÇÃO
+ELÉTRICA
+1.1. Elaboração do Termo de Referência
+1.1.1. O ONS elabora o termo de referência para consolidação da previsão de carga para os estudos de
+planejamento da operação elétrica e disponibiliza aos agentes antes da realização dos estudos, contendo os
+seguintes aspectos:
+(a) cronograma de atividades;
+(b) qualificação detalhada dos dados a serem enviados pelos agentes, inclusive simplificações nos dados
+referentes à carga de consumidores livres, potencialmente livres e parcialmente livres, de agentes de
+geração (concessionário de serviço público, autoprodutores e de produtores independentes) e de
+agentes de transmissão;
+(c) horários das condições de carga;
+(d) forma de recebimento, rotinas de atualização e revisão dos dados;
+(e) forma de acompanhamento das atividades;
+(f) considerações sobre previsões de carga baseadas em solicitações e pareceres de acesso à Rede Básica;
+(g) qualificação detalhada das análises a serem efetuadas;
+(h) solicitação de dados complementares, se necessário; e
+(i) definições para situações específicas, se necessário.
+1.2. Obtenção de dados
+1.2.1. O ONS obtém os seguintes dados para a consolidação da previsão de carga:
+(a) dados fornecidos pelos agentes nos formatos, meios e prazos estabelecidos no termo de referência,
+conforme ANEXO B;
+(b) valores dos Montantes de uso do Sistema de Transmissão (MUST) contratados por ponto de conexão
+da Rede Básica, conforme Submódulo 8.1 – Administração dos contratos;
+(c) valores de carga declarados na solicitação e Parecer de Acesso à Rede Básica, conforme
+Submódulo 7.1 – Acesso às instalações de transmissão;
+(d) dados verificados do sistema de medição de supervisão do ONS e dos agentes, conforme
+Submódulo 5.13 – Rotinas Operacionais;
+(e) dados verificados do Sistema de Medição para Faturamento (SMF), obtidos da Câmara de
+Comercialização de Energia Elétrica – CCEE e do ONS;
+(f) dados de carga de outros processos de consolidação da previsão de carga descritos neste submódulo
+ou no Submódulo 4.4 – Consolidação da previsão de carga para programação eletroenergética.
+1.2.2. A composição da carga global e por barramento para cada tipo de agente é apresentada no ANEXO A.
+1.2.3. No caso de agentes de distribuição, cujos mercados sejam inferiores à 500 GWh/ano, a necessidade
+do envio dos dados de forma direta ao ONS será determinada de acordo com a representatividade da carga
+dos agentes nos estudos elétricos. Caso ONS não julgue necessário, esses agentes devem informar seus dados
+Endereço na internet: http://www.ons.org.br 3 / 13
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+3.5 Operacional 2023.03 21/03/2023
+planejamento da operação eletroenergética
+de carga e/ou geração aos agentes de distribuição ao quais estão conectados, os quais, por sua vez, devem
+incluir esses valores em seus dados.
+1.2.4. No caso de agentes de distribuição, o envio dos dados de carga e de geração, referentes à unidade
+consumidora auto-suprida e à central geradora, dos produtores independentes e autoprodutores,
+detentores de central geradora Tipo II-B e Tipo III, deve ser realizado, separadamente e sem incluí-los em sua
+carga global, quando atenderem simultaneamente às seguintes condições:
+(a) estão conectados à Rede de Distribuição ou nas DIT em sua área de concessão;
+(b) a unidade consumidora está localizada no mesmo local que a referida central geradora; e
+(c) a referida central geradora está representada na Rede de Simulação dos estudos elétricos.
+1.2.5. Os consumidores livres, potencialmente livres e parcialmente livres signatários de Contrato de Uso do
+Sistema de Transmissão (CUST) enviam dados diretamente ao ONS. Os dados dos demais consumidores são
+considerados nos dados enviados pelo agente de distribuição com o qual assinaram Contrato de Uso do
+Sistema de Distribuição (CUSD).
+1.2.6. Os autoprodutores e produtores independentes que enviam dados diretamente ao ONS são aqueles
+que possuem usinas classificadas na modalidade de operação:
+(a) Tipo I ou Tipo II-A ou Tipo II-C; e
+(b) Tipo II-B ou Tipo III, se conectadas à Rede Básica ou à instalação de transmissão de Interesse
+Exclusivo de Centrais de Geração para Conexão Compartilhada (ICG).
+1.2.6.1. No caso de autoprodutores e produtores independentes que possuírem usinas classificadas na
+modalidade de operação do Tipo II-B ou do Tipo III conectadas à rede de distribuição ou DIT, seus dados são
+considerados nos dados enviados pelo agente de distribuição com o qual assinaram CUSD.
+1.2.7. No caso de autoprodutores e produtores independentes, o envio dos dados de carga e de geração
+referem-se aos dados da central geradora e da unidade consumidora.
+1.2.8. O ONS incorpora os dados enviados pelos agentes na sua base de dados técnica.
+1.3. Análise dos dados
+1.3.1. O ONS analisa as alterações na topologia da Rede de Simulação.
+1.3.2. O ONS realiza análises gráficas dos dados de carga previstos – por barramento, agrupamentos de
+barramentos, agentes, áreas, subsistemas e SIN – que podem abranger:
+(a) comparação das previsões de carga enviadas pelos agentes com os dados de carga verificados, os
+Montantes de Uso do Sistema de Transmissão (MUST) e as previsões enviadas para os estudos de
+planejamento da operação elétrica realizados nos ciclos anteriores;
+(b) comparação da carga global com o somatório da carga por barramento;
+(c) análise das curvas de carga, da sazonalidade e de fator de potência;
+(d) análise das variações de carga, da relação entre as previsões de cada condição de carga e das
+participações da carga por barramento e de cada agrupamento em relação ao somatório de carga por
+barramentos.
+(e) análise de desvios dos dados previstos em relação aos verificados; e
+Endereço na internet: http://www.ons.org.br 4 / 13
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+3.5 Operacional 2023.03 21/03/2023
+planejamento da operação eletroenergética
+(i) A apuração dos desvios é realizada a partir de metodologia definida pelo ONS, com a
+participação dos agentes. Nessa metodologia são estabelecidos os níveis de qualidade exigidos
+para cada horizonte e para cada tipo de agente. A metodologia está disponibilizada aos agentes,
+no Portal de Relacionamento do ONS.
+(f) cálculo e análise dos fatores de diversidade de carga dos agentes em relação à carga das áreas, dos
+subsistemas e do SIN.
+1.3.3. Caso necessário, o ONS emite um relatório de análise das previsões de carga e interage com o agente
+a fim de dirimir dúvidas, solicitar esclarecimentos ou revisão dos dados analisados.
+1.3.4. Caso permaneça divergência após interação com o agente e durante o processo de análise, os valores
+de previsão de carga do agente são preservados e o ONS registra a divergência no relatório de análise.
+1.3.5. Caso o agente, ciente das implicações de não-conformidade, não disponibilize seus dados, o ONS
+elabora a previsão de carga para este agente com base nas informações disponíveis em seu banco de dados.
+1.3.6. Após análise dos dados, o ONS define a previsão de carga consolidada para os estudos de
+planejamento da operação elétrica.
+1.3.7. O ONS seleciona os dados de carga para montagem dos casos de fluxo de potência utilizados nos
+estudos de planejamento da operação elétrica e pode disponibilizá-los de dois modos: carga simultânea ou
+carga não-simultânea.
+(a) Modo carga não-simultânea: as previsões de carga dos barramentos de cada agente são inseridas
+diretamente nos casos de fluxo de potência, sem ajustes pelo ONS; a simultaneidade das previsões
+de carga dos diversos agentes, em um mesmo dia e/ou hora para uma dada condição de carga, não é
+levada em consideração; ou
+(b) Modo carga simultânea: as previsões de carga dos barramentos de cada agente podem ser ajustadas
+antes de serem disponibilizadas para os casos de fluxo de potência, de forma a torná-las simultâneas
+em um mesmo dia e/ou hora para uma dada condição de carga.
+1.3.8. A metodologia dos ajustes da carga para o modo carga simultânea está incluída no sistema do
+processo de consolidação de previsão de carga e é descrita nos treinamentos periódicos sobre a utilização
+desse sistema e disponibilizada nas apresentações dos treinamentos.
+1.4. Disponibilização da previsão de carga consolidada
+1.4.1. O ONS disponibiliza aos agentes os seguintes dados:
+(a) As previsões de carga e geração no formato DBAR do programa ANAREDE para os casos de fluxos de
+potência;
+(b) As totalizações de previsões de carga global por áreas elétricas, por subsistemas e SIN; e
+(c) As totalizações da carga prevista e verificada por barramentos: por agrupamentos dos barramentos
+por agentes (dado disponibilizado apenas para o próprio agente), por áreas elétricas, por subsistemas
+e do SIN.
+Endereço na internet: http://www.ons.org.br 5 / 13
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+3.5 Operacional 2023.03 21/03/2023
+planejamento da operação eletroenergética
+2. CONSOLIDAÇÃO DA PREVISÃO DE CARGA PARA OS ESTUDOS DE PLANEJAMENTO DA OPERAÇÃO
+ENERGÉTICA DE MÉDIO PRAZO
+2.1. Obtenção de dados
+2.1.1. O ONS obtém, para o processo de consolidação da previsão de carga para os estudos de planejamento
+da operação energética de médio prazo, os seguintes dados:
+(a) valores de carga declarados nas solicitações e pareceres de acesso à Rede Básica, conforme
+Submódulo 7.1; e
+(b) dados de demanda ativa máxima global, em MW, por agentes, se necessários, obtidos no processo
+dos estudos de planejamento da operação elétrica, conforme item 1 deste submódulo.
+2.1.2. O ONS divulga aos agentes de geração, agentes de distribuição, consumidores livres, potencialmente
+livres e parcialmente livres, os formatos, os meios e os prazos estabelecidos para o envio de dados e
+informações de carga global. A composição da carga global para cada tipo de agente é apresentada no Anexo
+A.
+2.1.3. Os agentes envolvidos encaminham ao ONS, nos formatos, meios e prazos estabelecidos os seguintes
+dados:
+(a) carga de energia ativa global prevista, em MW médios, para todo o horizonte do estudo e
+detalhamento em base mensal; e
+(b) análise qualitativa a respeito das previsões de carga, contendo as premissas adotadas, as variações
+mais significativas em relação às previsões enviadas anteriormente, com suas justificativas, bem como
+quaisquer outras informações que o agente julgar necessárias ao processo de consolidação da
+previsão de carga.
+2.1.3.1. No caso de agentes de distribuição, cujos mercados sejam inferiores à 500 GWh/ano, a necessidade
+do envio dos dados de forma direta ao ONS será determinada de acordo com a representatividade da carga
+dos agentes nos estudos energéticos. Caso ONS não julgue necessário, esses agentes devem informar seus
+dados de carga aos agentes de distribuição ao quais estão conectados, os quais, por sua vez, devem incluir
+esses valores em seus dados.
+2.1.3.2. No caso de autoprodutores e produtores independentes que possuírem usinas não simuladas
+individualmente na mesma planta de suas usinas simuladas individualmente, incluem em seus dados de carga
+a parcela de carga suprida por suas usinas não simuladas individualmente.
+2.1.3.3. No caso de agentes que tiverem carga em diferentes subsistemas, estes informam em separado os
+dados de carga previstos e verificados de cada subsistema.
+2.1.3.4. Os consumidores livres, potencialmente livres e parcialmente livres signatários de CUST enviam
+dados de carga diretamente ao ONS. Os dados dos demais consumidores são considerados nos dados de
+carga do agente de distribuição com o qual assinaram CUSD.
+2.1.4. O ONS obtém a potência instalada de todas as instalações de micro e minigeração distribuída (MMGD)
+existente no país com base em dados disponibilizados no site da Agência Nacional de Energia Elétrica –
+ANEEL.
+2.1.5. O ONS obtém os dados de irradiação diária global a partir do Atlas Brasileiro de Energia Solar do
+Instituto Nacional de Pesquisas Espaciais – INPE.
+Endereço na internet: http://www.ons.org.br 6 / 13
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+3.5 Operacional 2023.03 21/03/2023
+planejamento da operação eletroenergética
+2.2. Análise e consistência dos dados
+2.2.1. O ONS realiza a consistência preliminar dos dados e informações de carga encaminhados pelos
+agentes e analisa as variações mais significativas. Em caso de dúvida ou divergência, solicita esclarecimentos
+aos agentes envolvidos.
+2.2.1.1. Caso o agente, ciente das implicações de não-conformidade, não disponibilize seus dados, o ONS
+elabora a previsão de carga para este agente com base nas informações disponíveis em seu banco de dados.
+2.2.2. O ONS compara a previsão de carga do 1º ano com a carga verificada no ano em curso e as previsões
+de carga disponíveis no Programa Mensal da Operação (PMO) e, caso seja verificada descontinuidade
+acentuada da taxa de crescimento prevista da carga de energia ativa global para o horizonte do estudo,
+solicita justificativa técnica aos agentes envolvidos.
+2.2.3. O ONS realiza a análise de desvios dos dados previstos em relação aos verificados. Esta apuração dos
+desvios é realizada a partir de metodologia definida pelo ONS e divulgada em Nota Técnica no Portal de
+Relacionamento do ONS, com a participação dos agentes, onde são estabelecidos os níveis de qualidade
+exigidos para cada horizonte e para cada tipo de agente.
+2.2.4. O ONS considera os cenários macroeconômicos para os 5 anos do horizonte de estudo e desagrega a
+carga de energia ativa global mensal e em patamares de carga, estabelecidos no Submódulo 4.4 –
+Consolidação da previsão de carga para programação eletroenergética.
+2.2.5. Com base nos dados verificados e nos valores previstos para a energia para esse mesmo período, o
+ONS elabora a previsão de carga de demanda ativa global mensal instantânea e em intervalo de
+integralização de 1 hora, para o horizonte de estudo, dos subsistemas e do SIN.
+2.2.6. Considerando os dados informados pelos agentes, os dados verificados disponíveis no banco de dados
+do ONS e as estimativas de perdas na Rede Básica, o ONS elabora previsão de carga global de energia e de
+demanda em intervalo de integralização de 1 hora e instantânea para os subsistemas e SIN.
+2.2.7. O ONS, em conjunto com a Empresa de Pesquisa Energética – EPE e Câmara de Comercialização de
+Energia – CCEE, define a previsão de carga de energia ativa global, de carga de demanda ativa global mensal
+instantânea e em intervalo de integralização de 1 hora, a ser utilizada nos estudos de planejamento da
+operação energética de médio prazo.
+2.2.8. Quando da elaboração de revisão quadrimestral dos estudos de planejamento da operação energética
+de médio prazo, conforme estabelecido no Submódulo 3.3 – Planejamento da operação energética de médio
+prazo, o ONS revisa, em conjunto com a EPE e CCEE, os dados de previsão de carga de energia ativa global,
+de carga de demanda ativa global mensal instantânea e em intervalo de integralização de 1 hora para todo
+o horizonte de estudo.
+2.2.9. O ONS estima a carga mensal a ser atendida pela MMGD fotovoltaica dos subsistemas e SIN com base
+na última informação de potência instalada verificada de dois meses anteriores ao primeiro mês considerado,
+disponibilizada pela ANEEL, na irradiação diária global média de cada mês, e no fator de capacidade calculado
+pelo ONS, de acordo com metodologia divulgada em Nota Técnica no Portal de Relacionamento do ONS.
+2.2.10. Para as demais fontes de MMGD, a carga mensal a ser atendida é estimada com base na potência
+instalada verificada de dois meses anteriores ao primeiro mês considerado e no fator de capacidade
+calculado pelo ONS, de acordo com metodologia divulgada em Nota Técnica no Portal de Relacionamento do
+ONS.
+Endereço na internet: http://www.ons.org.br 7 / 13
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+3.5 Operacional 2023.03 21/03/2023
+planejamento da operação eletroenergética
+2.3. Disponibilização da previsão de carga consolidada
+2.3.1. O ONS, em conjunto com a EPE e a CCEE, elabora e disponibiliza o documento Previsão de Carga
+Consolidada para os Estudos de Planejamento da Operação Energética de Médio Prazo, que contém, para
+todo horizonte do estudo:
+(a) carga de energia ativa global mensal por subsistemas e para o SIN;
+(b) carga de demanda ativa máxima global mensal, integralizada em 1 hora por subsistema e para o SIN;
+(c) carga de demanda ativa máxima global instantânea mensal por subsistemas e SIN;
+(d) carga de energia ativa global mensal, por patamar de carga e por subsistemas e SIN;
+(e) estimativa de carga de energia a ser atendida por MMGD por patamar e por subsistema para o SIN; e
+(f) estimativa de carga de demanda a ser atendida por MMGD, coincidente com a respectiva demanda
+máxima global por subsistema e SIN.
+2.3.2. O ONS elabora e disponibiliza, em conjunto com EPE e CCEE, um informe técnico com os resultados
+de previsões de carga global e as premissas consideradas para sua elaboração, referentes ao horizonte do
+estudo do planejamento da operação energética.
+2.3.3. Quando da revisão quadrimestral dos estudos de planejamento da operação energética de médio
+prazo, o ONS elabora e disponibiliza, em conjunto com a EPE e a CCEE, a revisão do documento Previsão de
+Carga Consolidada para os Estudos de Planejamento da Operação Energética de Médio Prazo e informe
+técnico relativo às atualizações e as premissas consideradas para a elaboração com horizonte do estudo de
+revisão do planejamento da operação energética.
+3. REFERÊNCIAS
+3.1. Não há referências neste documento.
+4. ANEXOS
+Anexo A – Composição da carga global e carga por barramento
+Anexo B – Dados a serem encaminhados pelos agentes para a realização dos estudos de planejamento da
+operação elétrica
+Endereço na internet: http://www.ons.org.br 8 / 13
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+3.5 Operacional 2023.03 21/03/2023
+planejamento da operação eletroenergética
+ANEXO A
+COMPOSIÇÃO DA CARGA GLOBAL E CARGA POR BARRAMENTO DA REDE DE SIMULAÇÃO
+A.1. COMPOSIÇÃO DA CARGA GLOBAL
+A.1.1 A carga global do agente de geração concessionário de serviço público abrange o consumo próprio não
+faturado por outros agentes1, a carga de bombeamento para geração de energia elétrica, as perdas dos
+sistemas de transmissão próprios, as perdas nas DIT de uso exclusivo e as perdas de transformação.
+A.1.2 A carga global do autoprodutor abrange:
+(a) Para as unidades consumidoras:
+(1) carga da unidade consumidora;
+(2) perdas em sistemas próprios de conexão aos sistemas de transmissão; e
+(3) perdas em sistemas próprios de conexão aos sistemas de distribuição.
+(b) Para as centrais geradoras:
+(1) consumo próprio da usina;
+(2) carga da unidade consumidora, se houver;
+(3) perdas em sistemas próprios de conexão aos sistemas de transmissão; e
+(4) perdas em sistemas próprios de conexão aos sistemas de distribuição.
+A.1.3 A carga global do produtor independente abrange o consumo próprio da usina; a carga da unidade
+consumidora, se houver; as perdas em sistemas próprios de conexão aos sistemas de transmissão e aos
+sistemas de distribuição.
+A.1.4 A carga global do agente de distribuição abrange:
+(a) Sob a perspectiva da oferta (geração), a soma algébrica dos intercâmbios do agente de distribuição:
+(1) com a Rede Básica;
+(2) com outros agentes de distribuição – com exceção do atendimento às cargas isoladas e do
+atendimento aos agentes de distribuição com mercado inferior à 500 GWh/ano que não enviam
+dados de carga ao ONS;
+(3) com as usinas que injetam energia na rede de distribuição ou nas DIT de uso excluído na sua área
+de concessão, independentemente da modalidade de operação dessas usinas e provenientes de:
+(i) geração distribuída, inclusive a totalidade da Micro e Minigeração Distribuída (MMGD);
+(ii) geração de pequenas centrais hidroelétricas;
+(iii) geração de usinas do Programa de Incentivo às Fontes Alternativas de Energia Elétrica –
+PROINFA;
+(iv) geração de produtores independentes;
+(v) geração de concessionárias de serviço público;
+1 O consumo próprio faturado por outros agentes deve ser incluído no mercado cativo dos agentes de distribuição.
+Endereço na internet: http://www.ons.org.br 9 / 13
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+3.5 Operacional 2023.03 21/03/2023
+planejamento da operação eletroenergética
+(vi) geração de pequenas centrais térmicas;
+(vii) geração de usinas eólicas;
+(viii)geração de usinas térmicas emergenciais; e
+(ix) geração de autoprodutores.
+(4) com outros países (interligações internacionais).
+(b) Sob a perspectiva do requisito:
+(1) carga do mercado cativo, inclusive o autoconsumo das unidades com MMGD;
+(2) perdas e consumo próprio do sistema de distribuição e nas DIT de uso exclusivo;
+(3) carga de atendimento aos outros agentes de distribuição referentes aos atendimentos localizados
+e isolados da rede do agente atendido;
+(4) carga dos agentes de distribuição com mercado inferior à 500 GWh/ano que não enviam dados de
+carga ao ONS e que não estão conectados à rede de distribuição de outro agente;
+(5) carga global dos consumidores livres, potencialmente livres e parcialmente livres conectados à
+rede de distribuição ou nas DIT na área de concessão do distribuidor;
+(6) carga global dos autoprodutores cujas unidades consumidoras não estejam diretamente
+conectadas em suas unidades geradoras e estejam conectadas à rede de distribuição ou nas DIT
+da área de concessão da distribuidora;
+(7) carga líquida de atendimento aos autoprodutores cujas unidades consumidoras estejam
+conectadas diretamente em suas unidades geradoras; e
+(8) carga líquida de atendimento à unidade consumidora dos produtores independentes.
+A.1.5 A carga global do consumidor livre, potencialmente livre e parcialmente livre abrange a carga total da
+unidade consumidora independentemente da modalidade livre ou regulada da sua contratação de energia,
+as perdas em sistemas próprios de conexão aos sistemas de transmissão e aos sistemas de distribuição.
+A.2. CARGA POR BARRAMENTO
+A.2.1 A carga por barramento corresponde ao somatório das cargas representadas no barramento referentes
+às perdas, ao consumo próprio, ao mercado cativo, aos consumidores livres, potencialmente livres e
+parcialmente livres, às unidades consumidoras dos autoprodutores e produtores independentes, aos
+atendimentos localizados e aos agentes de distribuição com mercado inferior à 500 GWh/ano que não
+enviam dados de carga ao ONS.
+Endereço na internet: http://www.ons.org.br 10 / 13
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+3.5 Operacional 2023.03 21/03/2023
+planejamento da operação eletroenergética
+ANEXO B
+DADOS DE CARGA ENCAMINHADOS PELOS AGENTES PARA REALIZAÇÃO DOS ESTUDOS DE
+PLANEJAMENTO DA OPERAÇÃO ELÉTRICA
+B.1. DEFINIÇÕES GERAIS
+B.1.1 Os dados verificados e previstos de carga de demanda e de geração ativa e reativa devem ser
+informados, respectivamente, em MW e MVar. Não deve ser considerada nesses dados a compensação
+reativa representada na Rede de Simulação. O conjunto de dados a ser enviado pelos agentes em cada estudo
+pode ser um subconjunto dos dados descritos no neste anexo, a ser definido no termo de referência para
+consolidação da carga.
+B.1.2 Para os dados previstos, o horário da previsão de carga dos barramentos deve ser coincidente com o
+horário de maior ou menor carga global do agente, de uma área geoelétrica, de um subsistema ou do SIN.
+Os critérios determinantes dessa coincidência são estabelecidos no termo de referência para consolidação
+da previsão de carga.
+B.1.3 Os dados verificados devem passar por processo de tratamento de dados atípicos ou faltantes,
+executado pelos agentes, conforme orientações de metodologia de apuração de desvios, antes do envio ao
+ONS.
+B.2. DADOS DE CARGA VERIFICADOS
+B.2.1 Agente de distribuição, consumidor livre, potencialmente livre e parcialmente livre, autoprodutor e
+produtor independente como unidades consumidoras de energia:
+(a) curvas de carga de demanda ativa e reativa, por barramentos da Rede de Simulação, de todos os dias
+do mês, com intervalo de integralização de 1 hora ou de 15 minutos, quando a medição permitir, com
+informação sobre transferência de cargas entre barramentos. Esse dado será solicitado apenas
+quando necessário, visando análises específicas de carga de um ou mais barramentos;
+(b) no caso de agentes de distribuição e quando a medição permitir, curva de geração ativa e reativa
+associada – por barramento da Rede de Simulação, com intervalo de integralização de 1 hora ou de
+15 minutos – de usinas classificadas na modalidade de operação Tipo II-B ou Tipo III que injetam
+energia à rede de distribuição desses agentes ou nas DIT. Esse dado será solicitado apenas quando
+necessário, visando análises específicas de geração de um ou mais barramentos;
+(c) carga de demanda total máxima mensal em MVA por barramento da Rede de Simulação, integralizada
+com intervalo de 1 hora, com indicação do dia e hora de ocorrência, quando a medição permitir. Essa
+carga deve ser enviada com as componentes ativa e reativa discretizadas. Os dados são enviados
+apenas para barramentos – a serem selecionados preferencialmente com a participação do agente –
+que viabilizem análise de instalações específicas, de acordo com o escopo do estudo. Para
+barramentos com carga de mais de um agente, podem ser indicados critérios especiais, que devem
+constar no termo de referência do processo de consolidação de previsão de carga;
+(d) carga de demanda ativa e reativa associada, quando a medição permitir, por barramento da Rede de
+Simulação, com intervalo de integralização de 1 hora, para as condições de cargas definidas no termo
+de referência do processo de consolidação de previsão de carga e necessárias ao horizonte mensal de
+estudo.
+Endereço na internet: http://www.ons.org.br 11 / 13
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+3.5 Operacional 2023.03 21/03/2023
+planejamento da operação eletroenergética
+(e) no caso de agentes de distribuição, quando a medição permitir, geração ativa e reativa associada –
+por barramento da Rede de Simulação, com intervalo de integralização de 1 hora – para as condições
+de carga definidas para o estudo mensal, de usinas classificadas na modalidade de operação Tipo II-B
+ou Tipo III, que injetam energia à rede de distribuição desses agentes ou nas DIT; e
+(f) carga de demanda ativa global mensal, com intervalo de integralização de 1 hora, nas condições de
+carga definidas no termo de referência e necessárias para o horizonte mensal de estudo.
+B.2.2 Agente de transmissão, agente de geração, autoprodutor e produtor independente como centrais
+geradoras de energia e detentores de usinas classificadas na modalidade de operação Tipo I, Tipo II ̶A ou
+Tipo II-C:
+(a) quando a medição permitir, carga de demanda máxima mensal ativa e reativa, com intervalo de
+integralização de 1 hora, referente ao consumo próprio de suas instalações nos barramentos da Rede
+de Simulação (superior a 100kW). Esse dado será solicitado apenas quando necessário;
+(b) no caso de agentes de geração que possuírem também usinas classificadas na modalidade de
+operação Tipo II-B ou Tipo III em um mesmo ponto de injeção à rede de distribuição ou DIT de sua
+usina classificada na modalidade de operação Tipo I ou Tipo II-A, geração ativa e reativa associada,
+por barramento da Rede de Simulação, com intervalo de integralização de 1 hora, para as condições
+de carga descritas no item B.2.1(b) deste anexo, de suas usinas Tipo II-B e Tipo III.
+(c) no caso de agente de transmissão que possuir banco(s) de capacitor(es) conectado(s) na barra de
+baixa do barramento da Rede de Simulação, onde um agente de distribuição possui representação de
+carga, o agente deve disponibilizar, de forma confiável, a informação diária/horária dos valores
+verificados de compensação reativa aos agentes de distribuição, de modo a permitir que esses possam
+realizar a previsão de demanda reativa da carga do barramento.
+B.3. DADOS DE CARGA PREVISTOS
+B.3.1 Agente de distribuição, consumidor livre, potencialmente livre e parcialmente livre, autoprodutor e
+produtor independente como unidades consumidoras de energia:
+(a) curvas de carga de demanda ativa global, com intervalo de integralização de 1 hora para dia útil, para
+sábado e para domingo, mês a mês;
+(b) carga de demanda ativa e reativa associada, por barramento da Rede de Simulação, com intervalo de
+integralização de 1 hora, nas seguintes condições de carga: pesada, média, leve de dia útil, pesada e
+média de sábado, pesada e média de domingo e mínima. As faixas dos horários de cada condição de
+carga e os critérios para caracterização da coincidência da previsão de carga de demanda por
+barramento são determinados nos termos de referência para consolidação da previsão de carga. A
+inclusão ou a exclusão de condições de carga podem ser definidas também no termo de referência,
+em função das necessidades apontadas pelos estudos de planejamento da operação elétrica;
+(c) montantes de remanejamento de carga de demanda ativa entre barramentos da Rede de Simulação,
+por condição de carga, com intervalo de integralização de 1 hora. Esses montantes se referem tanto
+a remanejamentos em regime de contingências, quanto a remanejamento por alteração da topologia
+da rede, em caráter definitivo, dentro do horizonte do estudo;
+(d) montantes de previsão de carga de demanda ativa – com intervalo de integralização de 1 hora, por
+barramento da Rede de Simulação – referentes à parcela de carga de consumidores horo-sazonais,
+Endereço na internet: http://www.ons.org.br 12 / 13
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Consolidação da previsão de carga para
+3.5 Operacional 2023.03 21/03/2023
+planejamento da operação eletroenergética
+cativos ou livres, representados no barramento do agente de distribuição. Também deve ser indicado
+o horário de início do período de ponta. Se os estudos de planejamento da operação elétrica
+indicarem necessidade, o ONS pode solicitar também, por meio do termo de referência para
+consolidação de carga, os montantes relativos às parcelas de cargas interruptíveis, as cargas de leilão
+de excedentes de energia, as cargas com contratos temporários, as cargas com contratos de reserva
+de capacidade (back-up) e à quaisquer outras que se mostrarem pertinentes;
+(e) carga de demanda total máxima, em MVA, para cada ano do horizonte de estudo, por barramento da
+Rede de Simulação, com intervalo de integralização de 1 hora, independentemente do horário, dia ou
+mês em que essa carga ocorra; a carga de demanda máxima mensal deve ser enviada com as
+componentes ativa e reativa discretizadas. Esses dados devem ser enviados apenas para barramentos
+a serem selecionados preferencialmente com participação do agente que viabilizem análise de
+instalações específicas, de acordo com o escopo do estudo. Para barramentos com carga de mais de
+um agente podem ser indicados critérios especiais que devem constar no termo de referência para
+consolidação da previsão de carga;
+(f) texto com análise qualitativa das previsões de carga globais e por barramento com as premissas
+adotadas, as variações mais significativas em relação às previsões de outros ciclos, acompanhadas de
+justificativas, bem como com quaisquer outras informações que o agente julgar necessárias ao
+processo de consolidação da previsão de carga;
+(g) caso o agente disponha dessa informação, os montantes de compensação reativa, em MVar, não
+representada na Rede de Simulação, com intervalo de integralização de 1 hora, por barramento da
+Rede de Simulação. Esses montantes correspondem à parcela de demanda reativa deduzida, por
+compensação, das previsões de carga dos barramentos;
+(h) carga de demanda ativa máxima instantânea global para cada ano do horizonte de estudo do
+planejamento da operação elétrica de médio prazo. O agente, caso não disponha de sistema de
+medição de demanda instantânea, pode enviar a previsão de carga de demanda ativa máxima global
+com intervalo de integralização de 5 minutos. Esse dado será solicitado apenas em caso de
+necessidades dos estudos;
+(i) no caso de agentes de distribuição, previsão de geração ativa e reativa associada, por barramento da
+Rede de Simulação, com intervalo de integralização de 1 hora, para as condições de carga descritas
+no item B.3.1(b) deste anexo, relativas a usinas classificadas na modalidade de operação Tipo II-B ou
+Tipo III, que injetam energia à rede de distribuição desses agentes ou nas DIT.
+B.3.2 Agente de transmissão, agente de geração e autoprodutor e produtor independente como centrais
+geradoras de energia e detentoras de usinas classificadas na modalidade de operação Tipo I, Tipo II-A ou Tipo
+II-C:
+(a) carga de demanda máxima mensal ativa e reativa, com intervalo de integralização de 1 hora referente
+ao consumo próprio de suas instalações nos barramentos da Rede de Simulação (superior a 100kW).
+Esse dado será solicitado apenas quando necessário;
+(b) no caso de agentes de geração que possuírem também usinas classificadas na modalidade de
+operação Tipo II-B ou Tipo III em um mesmo ponto de injeção à rede de distribuição ou às DIT de sua
+usina classificada na modalidade de operação Tipo I ou Tipo II A, previsão de geração ativa e reativa
+associada, por barramento da Rede de Simulação, com intervalo de integralização de 1 hora, para as
+condições de carga descritas no item B.3.1(b) deste anexo, de suas usinas Tipo II-B e Tipo III.
+Endereço na internet: http://www.ons.org.br 13 / 13

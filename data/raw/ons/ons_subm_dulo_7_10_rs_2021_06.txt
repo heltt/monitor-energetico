@@ -1,0 +1,156 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.10-RS_2021.06
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.10-RS_2021.06.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.10
+Implantação e análise do sistema de
+registro de perturbações
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2021.06 Despacho ANEEL nº 1.895/2021 29/06/2021
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação e análise do sistema de registro de
+7.10 Responsabilidades 2021.06 02/07/2021
+perturbações
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Relatório de Análise dos Sistemas de Registro para Supervisão de Fenômenos de Curta
+Duração na Rede Básica................................................................................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de operação.....................................................................................................................3
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIAS...................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação e análise do sistema de registro de
+7.10 Responsabilidades 2021.06 02/07/2021
+perturbações
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas do processo relativo à implantação
+e análise do sistema de registro de perturbação, que abrange:
+(a) coleta e entrega dos registros de perturbações, feitas por Registradores Digitais de Perturbação (RDP)
+instalados na Rede Básica e por RDP ou relé de proteção com função de oscilografia integrada
+instalados na Rede Complementar;
+(b) implantação e manutenção do banco de dados dos RDP instalados na Rede de Operação; e
+(c) análise da conformidade e necessidade de adequação, substituição ou implantação dos RDP da Rede
+Básica.
+2. PRODUTOS
+2.1. Relatório de Análise dos Sistemas de Registro para Supervisão de Fenômenos de Curta Duração na
+Rede Básica
+2.1.1. Consiste na análise dos canais analógicos monitorados pelos agentes da Rede Básica em atendimento
+aos requisitos definidos no Submódulo 2.11 – Requisitos para os sistemas de proteção, de registro de
+perturbações e de teleproteção, bem como as providências e plano de ação para implantação, adequação
+ou substituição de RDP.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Identificar a necessidade e definir as diretrizes para a implantação de RDP na Rede de Operação.
+(b) Estabelecer a sistemática para a transferência, dos agentes de operação para o ONS, dos arquivos dos
+registros de perturbações da Rede de Operação.
+(c) Implantar infraestrutura para recebimento e armazenamento dos arquivos dos registros de
+perturbações da Rede de Operação.
+(d) Disponibilizar programa computacional aos agentes de operação para a transferência dos arquivos
+dos registros de perturbações da Rede de Operação.
+(e) Coletar e registrar os dados de perturbações.
+(f) Implantar e manter o banco de dados dos RDP instalados e a serem instalados na Rede de Operação.
+(g) Elaborar e divulgar o Relatório de Análise dos Sistemas de Registro para Supervisão de Fenômenos de
+Curta Duração na Rede Básica.
+(h) Acompanhar o atendimento aos prazos para adequação, substituição ou implantação dos RDP e às
+providências originadas do Relatório de Análise dos Sistemas de Registro para Supervisão de
+Fenômenos de Curta Duração na Rede Básica.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação e análise do sistema de registro de
+7.10 Responsabilidades 2021.06 02/07/2021
+perturbações
+3.2. Agentes de operação
+(a) Propor ao ONS a necessidade de implantação de RDP.
+(b) Implantar infraestrutura e procedimentos para viabilizar o envio automático para o ONS dos arquivos
+dos registros de perturbações coletados por RDP instalados na Rede Básica e por RDP ou relé de
+proteção com função de oscilografia integrada instalados na Rede Complementar.
+(c) Fornecer ao ONS os dados técnicos dos RDP sob sua responsabilidade instalados e a serem instalados
+na Rede de Operação.
+(d) Informar ao ONS inclusões e substituições de RDP ou quaisquer alterações na configuração daqueles
+sob sua responsabilidade.
+(e) Atender às providências do Relatório de Análise dos Sistemas de Registro para Supervisão de
+Fenômenos de Curta Duração na Rede Básica.
+4. PRAZOS
+Quadro 1 – Prazos e periodicidades para envio de informações relativas ao sistema de registro de perturbação
+Atividade Responsável Prazo Periodicidade
+Transferência dos arquivos Sempre que houver a
+Até 1 dia após a
+dos registros de perturbações Agente de ocorrência de perturbação,
+1 ocorrência da
+da Rede de Operação para o operação sem necessidade de
+perturbação
+ONS solicitação pelo ONS
+Fornecimento de dados
+solicitados, na forma
+Até 30 dias a partir da
+especificada no documento Agente de Sempre que solicitado pelo
+2 data de solicitação do
+de solicitação, para operação ONS
+ONS
+implantação do banco de
+dados
+Fornecimento de dados de
+Até 30 dias após a Sempre que houver
+configuração de novos RDP e
+ocorrência da solicitação, ou em casos de
+as modificações nas Agente de
+3 implantação do novo substituição, mudança de
+configurações dos RDP para operação
+RDP ou da modificação configuração ou
+atualização do banco de
+nas configurações implantação de novos RDP
+dados
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação e análise do sistema de registro de
+7.10 Responsabilidades 2021.06 02/07/2021
+perturbações
+Quadro 2 – Prazos e periodicidades das atividades relativas à análise dos RDP
+Atividade Responsável Prazo Periodicidade
+Envio aos agentes da minuta
+do Relatório de Análise dos
+Até o último dia útil de fevereiro de
+1 Sistemas de Registro para ONS Anual
+cada ano
+Supervisão de Fenômenos de
+Curta Duração na Rede Básica
+Envio ao ONS de sugestões e
+Até 30 dias após o recebimento da
+comentários relativos à minuta
+minuta do Relatório de Análise dos
+do Relatório de Análise dos Agente de
+2 Sistemas de Registro para Supervisão Anual
+Sistemas de Registro para operação
+de Fenômenos de Curta Duração na
+Supervisão de Fenômenos de
+Rede Básica (atividade 1)
+Curta Duração na Rede Básica
+Até 30 dias após término do prazo
+Emissão da versão final do para recebimento de sugestões e
+Relatório de Análise dos comentários relativos à minuta do
+3 Sistemas de Registro para ONS Relatório de Análise dos Sistemas de Anual
+Supervisão de Fenômenos de Registro para Supervisão de
+Curta Duração na Rede Básica Fenômenos de Curta Duração na
+Rede Básica (atividade 2)
+Acordado entre ONS e agente,
+consolidado no plano de ação anexo
+Adequação, substituição ou Agente de ao Relatório de Análise dos Sistemas
+4 Por demanda
+implantação de novos RDP operação de Registro para Supervisão de
+Fenômenos de Curta Duração na
+Rede Básica
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 5 / 5

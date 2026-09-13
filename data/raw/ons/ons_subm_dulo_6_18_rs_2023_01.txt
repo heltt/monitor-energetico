@@ -1,0 +1,80 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.18-RS_2023.01
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.18-RS_2023.01.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.18
+Auditagem dos dados de entrada do
+PMO e suas revisões semanais, dos
+dados de entrada para formação do
+CMO em base semi-horária e dos dados
+de geração apurados
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2023.01 Resolução Normativa ANEEL nº 26/09/2023
+1.075/2023
+Procedimentos de Rede – Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Auditagem dos dados de entrada do PMO e
+suas revisões semanais, dos dados de entrada
+6.18 Responsabilidades 2023.01 04/12/2023
+para formação do CMO em base semi-horária e
+dos dados de geração apurados
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Relatórios de auditoria..................................................................................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+4. PRAZOS............................................................................................................................................3
+5. REFERÊNCIAS...................................................................................................................................3
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede – Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Auditagem dos dados de entrada do PMO e
+suas revisões semanais, dos dados de entrada
+6.18 Responsabilidades 2023.01 04/12/2023
+para formação do CMO em base semi-horária e
+dos dados de geração apurados
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas de processos relativos à auditagem
+dos dados de entrada do PMO e suas revisões semanais, dos dados de entrada para formação do CMO em
+base semi-horária e dos dados de geração apurados pelo ONS que impactam no planejamento
+eletroenergético e na contabilização da Câmara de Comercialização de Energia Elétrica – CCEE.
+2. PRODUTOS
+2.1. Relatórios de auditoria
+2.1.1. Apresenta o resultado de cada auditoria realizada pela empresa de auditoria independente, atestando
+a adequação dos dados ao estabelecido nos Procedimentos de Rede e na regulamentação vigente.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Contratar empresa de auditoria independente, devidamente credenciada na Comissão de Valores
+Mobiliários – CVM, para auditagem dos dados de entrada do PMO e suas revisões semanais, dos
+dados de entrada para formação do CMO em base semi-horária e dos dados de geração apurados
+pelo ONS que impactam no planejamento eletroenergético e na contabilização da CCEE.
+(b) Disponibilizar à empresa de auditoria independente os insumos necessários para execução do
+trabalho de auditagem.
+(c) Esclarecer as dúvidas da empresa de auditoria independente para fins de validação dos testes de
+auditagem.
+(d) Disponibilizar à ANEEL e no site do ONS os relatórios de auditoria emitidos pela empresa de auditoria
+independente.
+4. PRAZOS
+Quadro 1 - Prazos para disponibilização dos relatórios referentes aos processos de auditagem
+Atividade Responsável Prazo Periodicidade Horizonte
+Disponibilização dos relatórios até o último dia
+de auditoria emitidos pela útil do mês Mês
+1 ONS Mensal
+empresa de auditoria subsequente ao operativo
+independente mês operativo
+5. REFERÊNCIAS
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede – Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Auditagem dos dados de entrada do PMO e
+suas revisões semanais, dos dados de entrada
+6.18 Responsabilidades 2023.01 04/12/2023
+para formação do CMO em base semi-horária e
+dos dados de geração apurados
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 4 / 4

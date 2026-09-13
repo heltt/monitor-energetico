@@ -1,0 +1,63 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.11-OP_2025.03
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.11-OP_2025.03.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.11
+Manutenção e avaliação dos sistemas de
+supervisão e controle
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2025.03 Resolução da Reunião de Diretoria 22/04/2025
+do ONS nº 0040/2025
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Manutenção e avaliação dos sistemas de
+6.11 Operacional 2025.03 01/05/2025
+supervisão e controle
+ÍNDICE
+1. OPERAÇÃO E MANUTENÇÃO DOS RECURSOS DE SUPERVISÃO E CONTROLE....................................3
+2. AVALIAÇÃO DE DISPONIBILIDADE E DA QUALIDADE DOS RECURSOS DE SUPERVISÃO E CONTROLE.3
+3. REFERÊNCIAS...................................................................................................................................3
+4. ANEXOS...........................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 3
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Manutenção e avaliação dos sistemas de
+6.11 Operacional 2025.03 01/05/2025
+supervisão e controle
+1. MANUTENÇÃO DOS RECURSOS DE SUPERVISÃO E CONTROLE
+1.1. Os agentes adotam políticas e critérios para operação e manutenção preventiva e corretiva dos recursos
+de supervisão e controle disponibilizados ao ONS de forma a garantir o atendimento ao disposto no
+Submódulo 2.12 – Requisitos mínimos de supervisão e controle para a operação.
+1.2. Para que as intervenções preventivas sejam realizadas, é necessário que o agente responsável pelo
+recurso atenda ao disposto nos Submódulo 4.2 – Programação de intervenções em instalações da Rede de
+Operação, Submódulo 4.5 – Programação Diária da Operação e Submódulo 5.2 – Execução de intervenções.
+1.3. O ONS realiza o acompanhamento diário dos sistemas de supervisão a ele conectado, identifica os
+problemas em medições, pontos de controle, Unidades Terminais Remotas (UTR), Sistemas de Supervisão e
+Controle Locais (SSCL), Concentradores de Dados (CD), links de comunicação etc. e comunica aos agentes
+afetados qualquer anomalia identificada.
+1.4. Quando da identificação de anomalias em seus sistemas de supervisão e controle que tenham reflexo
+na Rede de Supervisão, o agente responsável comunica ao ONS a sua ocorrência, assim como o motivo e
+prazo para sua solução.
+2. AVALIAÇÃO DE DISPONIBILIDADE E DA QUALIDADE DOS RECURSOS DE SUPERVISÃO E CONTROLE
+2.1. Os centros de operação do ONS avaliam a disponibilidade e a qualidade dos recursos de supervisão e
+controle fornecidos pelos diversos agentes de acordo com os indicadores de desempenho dos sistemas de
+supervisão e controle, apresentados no Submódulo 9.6 – Indicadores de desempenho dos sistemas de
+supervisão e controle e dos serviços de telecomunicações, e conforme descrito em rotina específica do
+Submódulo 5.13 – Rotinas Operacionais.
+2.2. O ONS emite os Relatórios da Disponibilidade e da Qualidade dos Recursos de Supervisão e Controle,
+resultante da avaliação da disponibilidade e da qualidade dos recursos de supervisão e controle, quando
+qualquer um dos indicadores especificados for inferior aos requisitos definidos no Submódulo 2.12, durante
+a apuração mensal.
+2.3. Nos casos descritos no Submódulo 6.2 – Análise da operação, ocorrência e perturbações e
+acompanhamento das providência, o ONS emite o Relatório de Análise de Ocorrências (RO), no qual são
+avalidas e indicadas as violações associadas à disponibilidade e a qualidade dos recursos de supervisão e
+controle.
+3. REFERÊNCIAS
+3.1. Não há referências nesse documento.
+4. ANEXOS
+4.1. Não há anexos nesse documento.
+Endereço na internet: http://www.ons.org.br 3 / 3

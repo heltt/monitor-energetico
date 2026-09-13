@@ -1,0 +1,92 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 8.2-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 8.2-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 8.2
+Disponibilização de dados para cálculo
+tarifário
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Disponibilização de dados para cálculo tarifário 8.2 Responsabilidades 2020.12 01/01/2021
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Base de dados de entrada para o programa Nodal[1]....................................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de transmissão e usuários do Sistema de Transmissão...................................................3
+4. PRAZOS............................................................................................................................................3
+5. REFERÊNCIAS...................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Disponibilização de dados para cálculo tarifário 8.2 Responsabilidades 2020.12 01/01/2021
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas dos processos relativos à
+disponibilização de dados para o cálculo das Tarifas de Uso do Sistema de Transmissão (TUST), composta
+pela TUST-RB e TUST-FR, que é utilizada para remunerar a prestação do serviço de transmissão na Rede
+Básica e nas Demais Instalações de Transmissão – DIT em caráter compartilhado, conforme a
+regulamentação vigente; e as Tarifas de Uso do Sistema de Distribuição para Geradores Conectados em
+138/88 kV (TUSDg) que é utilizada para remunerar a prestação do serviço de distribuição para centrais
+geradoras, na tensão de 138 kV ou 88 kV, conforme a regulamentação vigente.
+2. PRODUTOS
+2.1. Base de dados de entrada para o programa Nodal[1]
+2.1.1. Base de dados para o programa Nodal, disponibilizado pela Aneel, para cálculo das TUST e TUSDg,
+contendo o caso base de fluxo de potência com a configuração anual do Sistema Interligado Nacional – SIN
+para o horizonte do Plano de Ampliações e reforços (PAR), descrito no submódulo 3.1 - Planejamento da
+operação elétrica de médio prazo, e para o ciclo tarifário subsequente.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Disponibilizar à Aneel a base de dados de entrada no formato definido do programa Nodal para o
+cálculo das TUST e TUSDg para ciclo tarifário subsequente:
+(b) Disponibilizar aos agentes, a base de dados de entrada no formato definido do programa Nodal para
+a estimativa de TUST no horizonte analisado pelo PAR
+(c) Realizar estudos específicos e previsões de TUST e TUSDg, por solicitação da ANEEL.
+3.2. Agentes de transmissão e usuários do Sistema de Transmissão
+(a) Disponibilizar ao ONS as informações necessárias para o cálculo das tarifas de que trata este
+submódulo.
+4. PRAZOS
+Quadro 1 - Prazos para disponibilização de dados para cálculo tarifário
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Disponibilização de dados para cálculo tarifário 8.2 Responsabilidades 2020.12 01/01/2021
+Atividade Responsável Prazo Periodicidade Horizonte
+Após divulgação do Horizonte do
+Atualização da Base de
+Plano de Ampliações Plano de
+1 dados de entrada para o ONS Anual
+e Reforços, conforme Ampliações e
+programa Nodal
+submódulo 3.1 Reforços
+Disponibilização da
+versão preliminar da
+Ciclo tarifário
+2 Base de dados de ONS 31 de março Anual
+subsequente
+entrada para o programa
+Nodal
+Disponibilização da
+versão consolidada da Quatro ciclos
+3 Base de dados de ONS 10 de junho Anual tarifários
+entrada para o programa subsequentes
+Nodal
+5 dias úteis antes da
+Atualização da Base de Reunião da Diretoria
+dados de entrada para o da ANEEL que Ciclo tarifário
+4 ONS Sob demanda
+programa Nodal, para deliberará sobre atual
+leilões de energia nova edital de leilão de
+energia nova
+5. REFERÊNCIAS
+[1]ANEEL. Programa Nodal: site www.aneel.gov.br;
+Endereço na internet: http://www.ons.org.br 4 / 4

@@ -1,0 +1,46 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Autorização
+TITULO: AUTORIZAÇÃO SDL-ANP Nº 86, DE 13 DE FEVEREIRO DE 2026
+DATA_PUBLICACAO: 18/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=18/02/2026&jornal=515&pagina=197
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional do Petróleo, Gás Natural e Biocombustíveis/Superintendência de Distribuição e Logística
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+AUTORIZAÇÃO SDL-ANP Nº 86, DE 13 DE FEVEREIRO DE 2026
+O SUPERINTENDENTE DE DISTRIBUIÇÃO E LOGÍSTICA da AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS - ANP, no uso das atribuições que lhe foram conferidas pela Portaria ANP nº 265, de 10 de setembro de 2020, tendo em vista o disposto na Lei nº 9.478, de 6 de agosto de 1997, considerando as disposições da Resolução ANP nº 960, de 5 de outubro de 2023, e o que consta do processo nº 48610.212339/2025-61, resolve: autorizar a empresa CENTENÁRIO DIESEL LTDA, CNPJ nº 88.345.947/0005-09, a operar a instalação de transportador-revendedor-retalhista (TRR) localizada a Rodovia BR 290 s/nº, Km 482, Distrito Industrial, Rosário do Sul/RS, 97590-000 [Coordenadas Geográficas Aproximadas (Latitude, Longitude): -30:14:27,700; -54:56:37,200 (SIRGAS 2000)]. A capacidade total de armazenamento é de 105,00 m³.
+
+
+TQ
+Ø(m)
+Comp.(m)
+Capacidade(m³)
+Classe
+Tipo
+01
+1,91
+5,40
+15,00
+II ou III
+Horizontal Subterrâneo
+02
+1,91
+5,40
+15,00
+II ou III
+Horizontal Subterrâneo
+03
+1,91
+5,40
+15,00
+II ou III
+Horizontal Subterrâneo
+04
+2,40
+12,00
+60,00
+II ou III
+Horizontal Subterrâneo
+DIOGO VALERIO

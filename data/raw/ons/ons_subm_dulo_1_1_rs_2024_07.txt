@@ -1,0 +1,275 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 1.1-RS_2024.07
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 1.1-RS_2024.07.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 1.1
+Elaboração e manutenção do Manual de
+Procedimentos da Operação
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2024.07 Despacho ANEEL nº 2080/2024 18/07/2024
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Elaboração e manutenção do Manual de
+1.1 Responsabilidades 2024.07 01/08/2024
+Procedimentos da Operação
+ÍNDICE
+1. OBJETIVO............................................................................................................................3
+2. PRODUTOS..........................................................................................................................3
+3. RESPONSABILIDADES..........................................................................................................4
+3.1. Operador Nacional do Sistema Elétrico - ONS..................................................................4
+3.2. Agentes de operação........................................................................................................4
+4. PRAZOS...............................................................................................................................6
+5. REFERÊNCIAS......................................................................................................................7
+Endereço na internet: http://www.ons.org.br 2 / 8
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Elaboração e manutenção do Manual de
+1.1 Responsabilidades 2024.07 01/08/2024
+Procedimentos da Operação
+1. OBJETIVO
+1.1. Estabelecer as responsabilidades do ONS e dos agentes envolvidos, os produtos, os prazos e as etapas
+do processo referentes à criação e revisão dos documentos do Manual de Procedimentos da Operação
+(MPO).
+1.1.1. Os documentos do MPO referidos neste submódulo contém:
+(a) os cadastros de informações operacionais (Submódulo 5.11 – Cadastro de Informações
+Operacionais);
+(b) as instruções de operação, as mensagens operativas (Submódulo 5.12 – Instruções de
+Operação)
+(c) as rotinas operacionais (Submódulo 5.13 – Rotinas Operacionais)
+(d) os ajustamentos operativos (Submódulo 5.14 – Ajustamentos Operativos); e
+(e) os regulamentos internacionais (Submódulo 5.15 – Regulamentos Internacionais).
+1.1.1.1. Ainda que integrantes dos Procedimentos de Rede, os documentos dos submódulos listados acima
+são de caráter estritamente operativo e não são, por isso, submetidos à aprovação ou homologação prévia
+da Agência Nacional de Energia Elétrica – ANEEL.
+2. PRODUTOS
+2.1. Instrução de Operação
+2.1.1. São documentos do MPO nos quais são detalhados os procedimentos a serem seguidos pelas equipes
+dos centros de operação do ONS e dos agentes de operação, para a operação da Rede de Operação.
+2.2. Mensagem Operativa
+2.2.1. São documentos do MPO que alteram ou complementam, em caráter de urgência ou temporário, as
+instruções de operação.
+2.3. Rotina Operacional;
+2.3.1. Constituem-se num detalhamento dos processos e de suas respectivas atividades das áreas de tempo
+real, normatização, programação e pós-operação bem como de alguns processos de caráter geral e de
+infraestrutura.
+2.4. Regulamento Internacional
+2.4.1. São documentos estabelecidos entre o ONS e os agentes de outros países relativos a interligações
+internacionais ou supranacionais. Contêm procedimentos relativos às atividades de programação, tempo real
+e pós-operação.
+2.5. Ajustamento Operativo
+2.5.1. São documentos firmados entre o ONS e outros agentes de operação, referentes a instalações e/ou
+equipamentos localizados fora da Rede de Operação, porém com influência no desempenho operacional
+dessa rede. Nesses documentos podem ser estabelecidos procedimentos operacionais para intervenções,
+Endereço na internet: http://www.ons.org.br 3 / 8
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Elaboração e manutenção do Manual de
+1.1 Responsabilidades 2024.07 01/08/2024
+Procedimentos da Operação
+para as atividades de normatização, de programação, de tempo real e de pós-operação, bem como
+procedimentos, diretrizes e requisitos para a hierarquia operacional, relacionamentos operacionais,
+telessupervisão e comunicação para as instalações, além de outros assuntos de interesse da operação do
+sistema.
+2.6. Cadastro de Informações Operacionais.
+2.6.1. São documentos que contém:
+(a) a relação dos equipamentos e linhas de transmissão que compõem a Rede de Operação e de
+Supervisão;
+(b) na Rede de Operação, os limites operacionais, as restrições operativas dos equipamentos e
+Linhas de Transmissão e a relação das instalações estratégicas;
+(c) os volumes de espera, restrições hidráulicas dos reservatórios e respectivas bacias; e
+(d) outros dados necessários à operação da Rede de Operação.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico - ONS
+(a) Coordenar e controlar o processo de padronização, elaboração ou revisão de instruções de
+operação e mensagens operativas (Submódulo 5.12), rotinas operacionais (Submódulo
+5.13), ajustamentos operativos (Submódulo 5.14) e dos cadastros de informações
+operacionais (Submódulo 5.11).
+(b) Coordenar e controlar o processo de elaboração ou revisão dos regulamentos internacionais
+(Submódulo 5.15) firmados entre o ONS e agentes de outro país.
+(c) Elaborar e revisar as instruções de operação e rotinas operacionais, que devem conter apenas
+os procedimentos válidos para a Rede de Operação.
+(d) Elaborar e revisar os ajustamentos operativos que contenham procedimentos de interesse
+comum à Rede de Operação, não incluídos nas instruções de operação, nas mensagens
+operativas, nas rotinas operacionais e nos regulamentos internacionais.
+(e) Elaborar e revisar os cadastros de informações operacionais.
+(f) Coordenar e controlar a elaboração, criação, cancelamento, emissão e numeração dos
+documentos operativos do Módulo 5 – Operação do Sistema, Submódulos de 5.11 a 5.15,
+bem como suas revisões e datas de vigência.
+(g) Disponibilizar para comentários e sugestões dos agentes de operação que sejam
+proprietários de instalações influenciadas ou envolvidas pelo conteúdo do documento
+Endereço na internet: http://www.ons.org.br 4 / 8
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Elaboração e manutenção do Manual de
+1.1 Responsabilidades 2024.07 01/08/2024
+Procedimentos da Operação
+operacional, as minutas e as revisões das instruções de operação, rotinas operacionais,
+ajustamentos operativos, regulamentos internacionais.
+(h) Emitir mensagens operativas quando da ocorrência de situações temporárias não abordadas
+nos demais documentos do MPO.
+(i) Elaborar, revisar e controlar os diagramas das Redes de Operação Sistêmica e Regional.
+(j) Implantar junto às suas equipes de operação os documentos que compõem o MPO.
+3.2. Agentes de operação
+(a) Incluir os procedimentos do MPO, estabelecidos pelo ONS para serem efetivados pelas
+instalações ou centros de operação dos agentes, no manual de operação dessas instalações
+ou desses centros.
+(b) Manter atualizados os manuais de operação de suas instalações e centros, inclusive quanto
+aos procedimentos de operação estabelecidos pelo ONS para serem efetivados pelas equipes
+de operação envolvidas.
+(c) Implantar os procedimentos operativos definidos pelo ONS junto aos operadores de seus
+centros ou instalações, nos prazos definidos pelo ONS.
+(d) Receber e apreciar as minutas de instruções de operação, rotinas operacionais, ajustamentos
+operativos e regulamentos internacionais encaminhadas pelo ONS e apresentar sugestões e
+comentários, caso existam.
+(e) Informar previamente ao ONS as modificações na configuração de suas instalações, troca de
+equipamentos, alteração em limites operacionais em equipamentos ou linhas de
+transmissão, modificações nos processos operativos ou qualquer outro evento com
+repercussões na Rede de Operação, para que o processo de revisão da instrução de operação
+pertinente seja realizado atendendo aos prazos estabelecidos no Submódulo 5.13.
+(f) Manter atualizadas e encaminhar ao ONS:
+(i) as informações necessárias à elaboração e à revisão dos cadastros de informações
+operacionais referentes às instalações de sua propriedade integrantes da Rede de
+Operação e de Supervisão;
+(ii) todos os diagramas unifilares operacionais das instalações integrantes da Rede de
+Operação e de Supervisão de sua propriedade, bem como as subsequentes revisões
+desses diagramas.
+Endereço na internet: http://www.ons.org.br 5 / 8
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Elaboração e manutenção do Manual de
+1.1 Responsabilidades 2024.07 01/08/2024
+Procedimentos da Operação
+4. PRAZOS
+Quadro 1 – Prazos para elaboração e revisão dos documentos operativos do submódulo 5.12
+Responsáve Periodicid
+Atividade Prazo Observação
+l ade
+Mínimo de
+10 (dez) dias
+Iniciar elaboração ou revisão
+úteis antes Sob Ex: Alterações
+de documentos operativos do
+1 ONS decorrentes de
+Submódulo 5.12, referentes à da data demanda
+estudos rotineiros
+alterações de pequeno porte
+prevista para
+o evento
+Mínimo de
+20 (vinte) Ex: Alteração devido
+Iniciar elaboração ou revisão
+dias úteis Sob a integração de um
+de documentos operativos do
+2 ONS equipamento
+Submódulo 5.12, referentes à antes da data demanda
+importante para o
+alterações de médio porte
+prevista para controle de tensão
+o evento
+Mínimo de
+Ex: Alteração devido
+40 (quarenta)
+Iniciar elaboração ou revisão a integração de uma
+dias antes da Sob
+de documentos operativos do nova instalação à
+3 ONS
+Submódulo 5.12, referentes à data prevista demanda Rede de Operação ou
+alterações de grande porte implantação de nova
+para o
+filosofia operativa
+evento
+Distribuir, para os agentes
+de operação e centros de Mínimo de 2
+operação do ONS, os (dois) dias
+Sob
+4 documentos operativos do ONS úteis antes
+demanda
+Submódulo 5.12, com da data de
+alterações de pequeno vigência
+porte
+Endereço na internet: http://www.ons.org.br 6 / 8
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Elaboração e manutenção do Manual de
+1.1 Responsabilidades 2024.07 01/08/2024
+Procedimentos da Operação
+Responsáve Periodicid
+Atividade Prazo Observação
+l ade
+Distribuir, para os agentes
+Mínimo de 5
+de operação e centros de
+(cinco) dias
+operação do ONS, os Sob
+5 ONS úteis antes
+documentos operativos do demanda
+da data de
+Submódulo 5.12, com
+vigência
+alterações de médio porte
+Distribuir, para os agentes
+Mínimo de
+de operação e centros de
+15 (quinze)
+operação do ONS, os Sob
+6 ONS dias úteis
+documentos operativos do demanda
+antes da data
+Submódulo 5.12, com
+de vigência
+alterações de grande porte
+Quadro 2 – Prazos para envio dos diagramas unifilares operacionais das instalações da Rede de Supervisão
+Responsáve Periodicidad
+Atividade Prazo
+l e
+Mínimo de 60
+Elaborar e encaminhar ao ONS os
+Agente de (sessenta) dias antes
+diagramas unifilares operacionais das
+1 Sob demanda
+instalações da Rede de Supervisão de sua operação da data prevista da
+propriedade para a fase préoperacional
+energização
+Mínimo de 15
+Elaborar e encaminhar ao ONS os
+(quinze) dias úteis
+diagramas unifilares operacionais das Agente de
+2 instalações da Rede de Supervisão de sua antes da data prevista Sob demanda
+operação
+propriedade para a análise de para a realização da
+intervenções
+intervenção
+Elaborar e encaminhar ao ONS os
+Até 2 (dois) dias úteis
+diagramas unifilares operacionais das
+após a
+instalações da Rede de Supervisão de sua Agente de
+3 propriedade quando da disponibilização disponibilização Sob demanda
+operação
+da instalação para operação integrada ao modificação ou
+SIN; ou da ampliação ou modificação da
+ampliação.
+configuração da instalação.
+Endereço na internet: http://www.ons.org.br 7 / 8
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Elaboração e manutenção do Manual de
+1.1 Responsabilidades 2024.07 01/08/2024
+Procedimentos da Operação
+Quadro 3 – Prazo de guarda dos documentos operativos
+Responsáve Periodicidad
+Atividade Prazo
+l e
+3 (três) anos após
+data de fim da
+Arquivar versões anteriores dos
+documentos operativos que forem ONS vigência do Sob demanda
+atualizados ou cancelados no MPO documento, no
+mínimo
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 8 / 8

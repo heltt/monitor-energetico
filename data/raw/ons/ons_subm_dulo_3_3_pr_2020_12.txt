@@ -1,0 +1,339 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 3.3-PR_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 3.3-PR_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 3.3
+Planejamento da operação energética
+de médio prazo
+Procedimental
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação energética de médio
+3.3 Procedimental 2020.12 01/01/2021
+prazo
+ÍNDICE
+1. REALIZAÇÃO DE ESTUDOS DE PLANEJAMENTO DA OPERAÇÃO ENERGÉTICA DE MÉDIO PRAZO PARA
+A ELABORAÇÃO DO PLANO DA OPERAÇÃO ENERGÉTICA ................................................................ 3
+1.1. Obtenção de dados e informações ................................................................................................ 3
+1.2. Estabelecimento de escopo do estudo e definição de cenários ................................................... 5
+1.3. Apresentação das premissas e do escopo do estudo.................................................................... 6
+1.4. Montagem dos casos de estudo e execução das simulações ....................................................... 6
+1.5. Análise e apresentação dos resultados ......................................................................................... 6
+1.6. Elaboração e disponibilização do PEN ........................................................................................... 7
+2. REFERÊNCIAS ................................................................................................................................ 8
+3. ANEXOS........................................................................................................................................ 8
+Anexo A – Informações adicionais necessárias para a realização dos estudos de planejamento da
+operação energética ...................................................................................................................... 8
+Endereço na internet: http://www.ons.org.br 2 / 10
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação energética de médio
+3.3 Procedimental 2020.12 01/01/2021
+prazo
+1. REALIZAÇÃO DE ESTUDOS DE PLANEJAMENTO DA OPERAÇÃO ENERGÉTICA DE MÉDIO PRAZO PARA A
+ELABORAÇÃO DO PLANO DA OPERAÇÃO ENERGÉTICA
+1.1. Obtenção de dados e informações
+1.1.1. Para a realização dos estudos do ciclo anual de planejamento da operação energética de médio prazo
+do Sistema Interligado Nacional (SIN) e elaboração do Plano de Operação Energética (PEN), o Operador
+Nacional do Sistema Elétrico – ONS considera:
+(a) previsão consolidada da carga global de energia, por patamar e por subsistema, e de carga de
+demanda máxima integralizada e instantânea, por subsistema, conforme Submódulo 3.5 –
+Consolidação da previsão de carga para planejamento da operação eletroenergética;
+(b) limites de transmissão entre os subsistemas do SIN e cronograma de obras que impactam esses
+limites, conforme Submódulo 3.1 – Planejamento da operação elétrica de médio prazo e Submódulo
+3.4 – Planejamento da operação elétrica com horizonte quadrimestral;
+(c) geração mínima por razões de confiabilidade elétrica das usinas termoelétricas simuladas
+individualmente nos modelos energéticos, conforme Submódulo 3.1 e Submódulo 3.3;
+(d) volumes de espera por reservatório, conforme Submódulo 3.7 – Planejamento anual de prevenção de
+cheias;
+(e) valores de evaporação, conforme Submódulo 3.8 – Atualização de dados técnicos dos
+aproveitamentos hidroelétricos;
+(f) dados técnicos de aproveitamentos hidroelétricos simulados individualmente nos modelos
+energéticos, conforme Submódulo 3.8;
+(g) armazenamentos previstos por reservatório para o início do mês de estudo, conforme Submódulo 4.3
+– Programação Mensal da Operação Energética;
+(h) séries históricas de vazões naturais médias mensais e energias naturais afluentes e vazões naturais
+verificadas, conforme Submódulo 4.6 – Análise e tratamento dos dados hidroenergéticos e previsão
+e geração de cenários de vazões;
+(i) valores dos usos consuntivos da água, conforme Submódulo 4.6;
+(j) restrições operativas hidráulicas dos aproveitamentos simulados individualmente nos modelos
+energéticos, conforme Submódulo 4.7 – Atualização de informações sobre restrições hidráulicas dos
+aproveitamentos hidroelétricos;
+(k) dados técnicos das usinas termoelétricas existentes simuladas individualmente nos modelos
+energéticos;
+(l) relação dos intercâmbios internacionais existentes e regime de operação destes intercâmbios;
+(m) cronograma de obras de transmissão e testes de comissionamento que ocasionem restrições no
+escoamento de grandes blocos de energia;
+(n) geração média mensal predefinida para as usinas termoelétricas submetidas a mecanismos de
+despacho antecipado e simuladas individualmente nos modelos energéticos;
+Endereço na internet: http://www.ons.org.br 3 / 10
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação energética de médio
+3.3 Procedimental 2020.12 01/01/2021
+prazo
+(o) valores apurados de taxas equivalentes de indisponibilidade forçada e de indisponibilidade
+programada apuradas conforme Submódulo 6.5 – Apuração da geração e de indisponibilidade de
+empreendimentos de geração;
+1.1.1.1. Para os dois primeiros meses do horizonte do estudo, os dados e informações considerados serão
+compatíveis com aquelas consideradas no Programa Mensal da Operação (PMO), estabelecido conforme
+Submódulo 4.3, considerando as especificidades dos modelos computacionais utilizados.
+1.1.2. O ONS solicita aos agentes envolvidos os dados a serem considerados nos estudos de planejamento
+da operação energética, divulgando os formatos, os meios e os prazos estabelecidos para o envio destes
+dados.
+1.1.3. Os agentes envolvidos encaminham ao ONS, nos formatos, meios e prazos estabelecidos, os dados
+sob sua responsabilidade, com um horizonte de até 5 anos e detalhamento em base mensal:
+1.1.3.1. Agentes de geração
+(a) cronograma de manutenção de unidades geradoras das usinas hidroelétricas e termoelétricas
+simuladas individualmente nos modelos energéticos para os meses do primeiro ano civil do estudo, e
+opcional para o segundo ano, compatível com o informado para os dois primeiros meses do estudo
+do PMO, conforme Submódulo 4.3, e em conformidade com o estabelecido no Submódulo 4.2 –
+Programação de intervenções em instalações da Rede de Operação.
+(b) dados de usinas termoelétricas, existentes ou futuras, simuladas individualmente nos modelos
+energéticos, acompanhados de justificativa técnica em caso de modificação em relação a informações
+anteriores, quais sejam:
+(c) geração máxima mensal de energia, em MWmed, sem considerar o efeito de manutenções
+programadas e/ou taxas de indisponibilidade;
+(d) inflexibilidades médias mensais, em MWmed, em conformidade com os procedimentos e critérios
+estabelecidos em [1], sem considerar o efeito de manutenções programadas e/ou taxas de
+indisponibilidade nem geração mínima por razões de confiabilidade elétrica.
+1.1.3.2. Agente comercializador de Itaipu Binacional
+(a) suprimentos previstos de energia e de demanda para a Administración Nacional de Electricidad –
+ANDE;
+(b) consumo interno da Usina Hidroelétrica de Itaipu (UHE Itaipu) associado ao setor de 50Hz;
+(c) cronograma de manutenção de unidades geradoras da UHE Itaipu para os meses do primeiro ano civil
+do estudo, e opcional para o segundo ano, compatível com o informado para os dois primeiros meses
+do estudo do PMO, conforme Submódulo 4.3, e em conformidade com o estabelecido no Submódulo
+4.2; e
+(d) disponibilidade de potência e de energia da UHE Itaipu para o SIN.
+1.1.3.3. Agentes de importação e agentes de exportação
+Endereço na internet: http://www.ons.org.br 4 / 10
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação energética de médio
+3.3 Procedimental 2020.12 01/01/2021
+prazo
+(a) montantes líquidos1 máximos e mínimos mensais de energia, em MWmed, disponíveis para
+importação ou para exportação pelo SIN, acompanhados de justificativa técnica em caso de
+modificação em relação a informações anteriores;
+(b) montantes líquidos máximos e mínimos mensais de potência, em MW, disponíveis para importação
+ou para exportação pelo SIN, acompanhados de justificativa técnica em caso de modificação em
+relação a informações anteriores; e
+(c) Custo Variável Unitário (CVU), em R$/MWh, associados aos suprimentos, acompanhados de
+justificativa técnica em caso de modificação em relação a informações anteriores.
+1.1.4. O ONS analisa os dados encaminhados pelos agentes envolvidos e os consiste preliminarmente.
+1.1.4.1. O ONS informa à ANEEL, com as devidas justificativas técnicas dadas pelo agente, nos casos de
+alterações nas informações de CVU, geração máxima mensal de energia, inflexibilidades de usinas
+termoelétricas e montantes mínimos ou máximos disponíveis para importação ou exportação.
+1.1.5. O ONS avalia a pertinência da utilização de informações enviadas pelos agentes envolvidos fora do
+prazo, sem prejuízo do registro da não-conformidade correspondente.
+1.1.6. O ONS obtém do Poder Concedente, da Agência Nacional de Energia Elétrica - ANEEL e da Câmara de
+Comercialização de Energia Elétrica – CCEE, as informações adicionais necessárias à realização dos estudos
+de planejamento da operação energética, apresentadas no Anexo A.
+1.1.7. O ONS, quadrimestralmente, atualiza os estudos do ciclo anual de planejamento da operação
+energética. Para a atualização quadrimestral dos estudos são obtidas as seguintes informações atualizadas:
+(a) dados e informações encaminhadas pelos agentes de geração, agente comercializador de Itaipu
+Binacional e agentes de importação e de exportação, conforme item 1.1.3. deste submódulo;
+(b) previsão consolidada da carga global de energia, por patamar e por subsistema, e de carga de
+demanda máxima integralizada e instantânea, por subsistema, conforme item 1.1.1. (a) deste
+submódulo;
+(c) limites de transmissão entre os subsistemas do SIN e cronograma de obras de transmissão, conforme
+item 1.1.1. (a) deste submódulo;
+(d) geração mínima por razões de confiabilidade elétrica das UTEs, conforme item 1.1.1. (c) deste
+submódulo; e
+(e) informações apresentadas no Anexo A, quando necessário.
+1.2. Estabelecimento de escopo do estudo e definição de cenários
+1.2.1. O ONS estabelece o escopo dos estudos de planejamento da operação energética para a elaboração
+do PEN com base nos cenários disponíveis de oferta, de carga, de limites de transmissão entre subsistemas
+e de abastecimento de combustíveis, nas características dos modelos disponíveis e nas condições
+conjunturais do SIN.
+1 Os montantes líquidos devem incluir efeitos de manutenções programadas, de sazonalidade de combustível e de
+índices de indisponibilidade. Essa observação vale para todas as referências a montante líquido feitas neste submódulo.
+Endereço na internet: http://www.ons.org.br 5 / 10
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação energética de médio
+3.3 Procedimental 2020.12 01/01/2021
+prazo
+1.2.2. O ONS define o cenário de referência a ser considerado nos estudos para a elaboração do PEN, o qual
+deve refletir as condições mais representativas da evolução do SIN, e deve ter por base o PMO para o mês
+de realização do estudo.
+1.2.3. O ONS pode, a seu critério, considerar outros cenários e/ou casos de sensibilidade para que seja
+possível avaliar outros efeitos sobre as condições de atendimento.
+1.3. Apresentação das premissas e do escopo do estudo
+1.3.1. O ONS apresenta aos agentes envolvidos o escopo do estudo para a elaboração do PEN e as premissas
+do cenário de referência e dos cenários e/ou casos de sensibilidade.
+1.3.2. Os agentes envolvidos encaminham ao ONS, quando julgarem necessário, propostas de alterações no
+escopo do estudo e sugestões de novos cenários e/ou casos de sensibilidade e especificação de eventuais
+inconsistências identificadas.
+1.3.3. O ONS avalia as sugestões recebidas e as incorpora ao estudo quando pertinente, justificando aos
+agentes envolvidos as sugestões não incorporadas.
+1.4. Montagem dos casos de estudo e execução das simulações
+1.4.1. O ONS consolida as informações recebidas dos agentes envolvidos e procede à sua modelagem para
+uma representação adequada do sistema real nas ferramentas computacionais utilizadas nesse processo,
+conforme estabelecido no Submódulo 2.4 – Critérios para estudos energéticos e hidrológicos.
+1.4.2. Caso seja identificada alguma inconsistência nos dados recebidos, o ONS solicita a correção ao agente
+responsável, apresentando justificativa técnica simplificada. O agente retifica ou ratifica seus dados,
+conforme considere pertinente, apresentando suas justificativas.
+1.4.3. Em caso de ausência do envio de informações pelos agentes envolvidos, bem como o fornecimento
+de dados incompletos ou incorretos, o ONS utiliza as informações provenientes de outras fontes, a seu
+critério, sem prejuízo do registro de eventuais não-conformidades.
+1.4.4. O ONS utiliza, para execução das simulações dos estudos para a elaboração do PEN, as seguintes
+modelos computacionais:
+(a) Modelo para Otimização Hidrotérmica para Subsistemas Equivalentes Interligados para a definição
+das estratégias de operação e a simulação da operação do sistema equivalente (modelo de otimização
+de médio prazo);
+(b) Modelo de Simulação a Usinas Individualizadas para Subsistemas Hidrotérmicos Interligados para a
+simulação da operação energética a usinas individualizadas; e
+(c) Modelo de Planejamento da Operação de Sistemas Hidrotérmicos Interligados de Curto Prazo para a
+avaliação prospectiva da operação energética a usinas individualizadas.
+1.4.5. O ONS modela o bloco das usinas não simuladas individualmente nos modelos energéticos, conforme
+metodologia estabelecida em [2] e [3].
+1.4.6. As interligações internacionais são modeladas com base nos custos variáveis e nos montantes de
+oferta/demanda disponíveis para compra/venda pelo SIN, informados pelos agentes de importação e de
+exportação.
+1.5. Análise e apresentação dos resultados
+Endereço na internet: http://www.ons.org.br 6 / 10
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação energética de médio
+3.3 Procedimental 2020.12 01/01/2021
+prazo
+1.5.1. Com base nos resultados fornecidos pelos modelos de otimização e simulação da operação do SIN, o
+ONS efetua análises conjunturais e estruturais, que contemplam:
+(a) evolução dos níveis de armazenamento do sistema;
+(b) estimativas de geração térmica;
+(c) estimativas de evolução dos custos marginais de operação;
+(d) riscos de não atendimento à carga de energia;
+(e) análise das interligações;
+(f) balanços estáticos de energia e demanda;
+(g) impactos nas condições de atendimento observados nos cenários e/ou casos de sensibilidade; e
+1.5.2. outras informações que forem julgadas pertinentes para avaliar as condições de atendimento ao
+mercado. O ONS também avalia as condições de atendimento à carga de demanda do SIN com o objetivo,
+dentre outros fatores, avaliar a eventual necessidade de capacidade instalada adicional para atendimento à
+carga de demanda, bem como, consequências decorrentes do atraso de obras de geração e/ou de
+transmissão.
+1.5.3. Após a avaliação dos resultados dos estudos, o ONS apresenta aos agentes envolvidos, ao Poder
+Concedente, à ANEEL, à EPE e à CCEE as análises a serem publicadas.
+1.5.4. Os agentes envolvidos encaminham ao ONS, quando julgarem necessário, propostas de incorporação
+de novas informações e resultados para a elaboração do PEN.
+1.5.5. O ONS avalia as sugestões recebidas, e as incorpora ao PEN quando pertinente, justificando aos
+agentes envolvidos as sugestões não incorporadas.
+1.6. Elaboração e disponibilização do PEN
+1.6.1. O ONS elabora o PEN, com base nos resultados dos estudos, o disponibiliza em seu sítio eletrônico e
+o encaminha à ANEEL e ao Poder Concedente.
+1.6.2. O PEN apresenta:
+(a) informações básicas consideradas nos estudos:
+(1) dados e informações obtidos conforme item 1.1.1. e Anexo A deste submódulo;
+(2) dados e informações obtidos dos agentes envolvidos2, conforme item 1.1.3.
+(3) escopo do estudo e premissas do cenário de referência e de eventuais cenários e/ou casos de
+sensibilidade, conforme item 1.3.1. deste submódulo; e
+(4) modelagem adotada para as interligações internacionais, conforme item 1.4.6.
+(b) os seguintes resultados, no mínimo:
+(1) análise dos custos marginais de operação;
+(2) análise de congestionamento nas interligações;
+(3) riscos de não atendimento à carga de energia, com análise da profundidade e duração dos déficits
+associados;
+2 O cronograma de manutenção de unidades geradoras hidroelétricas simuladas individualmente será considerado
+como informação básica dos estudos caso o modelo computacional esteja apto a representá-lo.
+Endereço na internet: http://www.ons.org.br 7 / 10
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação energética de médio
+3.3 Procedimental 2020.12 01/01/2021
+prazo
+(4) estimativas dos montantes de intercâmbios internacionais;
+(5) estimativas dos montantes de intercâmbios entre subsistemas;
+(6) estimativas de geração térmica;
+(7) evolução do armazenamento dos subsistemas;
+(8) balanço de energia;
+(9) balanço de demanda;
+(10) recomendações sobre a necessidade de capacidade instalada adicional para atendimento à carga
+de demanda;
+(11) informações sobre a necessidade de oferta adicional de energia, de antecipação ou de reforço nas
+interligações e recomendações de providências a serem tomadas para adequar os resultados aos
+padrões; e
+(12) impactos nas condições de atendimento observados nos cenários e/ou casos de sensibilidade.
+1.6.3. Após sua publicação, o PEN pode ser revisto pelo ONS, em função da realização dos Leilões de Energia,
+e excepcionalmente, a qualquer tempo, na ocorrência de fatos relevantes, tais como mudanças significativas
+na carga a ser atendida, na oferta de geração, na disponibilidade de combustíveis, no cronograma de obras
+de transmissão, nos limites de intercâmbio entre subsistemas, e outros.
+1.6.3.1. A elaboração de uma revisão do PEN tem por base os dados e informações disponíveis e segue as
+mesmas etapas do estudo anual, podendo ter um escopo menos abrangente, e seu horizonte abrange o mês
+de sua elaboração até dezembro do quinto ano.
+2. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa n° 614, de 03 de junho de 2014.
+[2] ANEEL. Resolução Normativa n° 440, de 05 de julho de 2011.
+[3] ANEEL. Resolução Normativa n° 476, de 13 de março de 2012.
+3. ANEXOS
+Anexo A – Informações adicionais necessárias para a realização dos estudos de planejamento da operação
+energética
+Endereço na internet: http://www.ons.org.br 8 / 10
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação energética de médio
+3.3 Procedimental 2020.12 01/01/2021
+prazo
+ANEXO A
+Informações adicionais necessárias para a realização dos estudos de planejamento da operação
+energética
+Informação Fonte da Informação Periodicidade
+Taxa de desconto a ser utilizada nos modelos para Poder Concedente e
+Anual
+cálculo do valor presente dos custos ANEEL
+Poder Concedente e
+Penalidade por violação de uso múltiplo da água Anual
+ANEEL
+Informações sobre a situação dos novos Poder Concedente e
+Mensal
+empreendimentos de geração do SIN ANEEL
+Cronograma de enchimento do volume morto de Poder Concedente e
+Mensal
+novos reservatórios do SIN ANEEL
+Poder Concedente e
+Cronograma de expansão da oferta do SIN Mensal
+ANEEL
+Cronogramas de repotenciação e de desativação de
+Poder Concedente e
+usinas e reservatórios simulados individualmente nos Quando necessário
+ANEEL
+modelos energéticos
+Cronograma de conversão de combustível de usinas
+Poder Concedente e
+termoelétricas simuladas individualmente nos Quando necessário
+ANEEL
+modelos energéticos
+Dados técnicos dos novos empreendimentos de Poder Concedente e
+Quando necessário
+geração do SIN ANEEL
+Dados técnicos dos intercâmbios internacionais Poder Concedente e
+Quando necessário
+futuros ANEEL
+Custo variável unitário de UTEs não vendedoras nos Poder Concedente e
+Quando necessário
+Leilões de Energia ANEEL
+Endereço na internet: http://www.ons.org.br 9 / 10
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento da operação energética de médio
+3.3 Procedimental 2020.12 01/01/2021
+prazo
+Informação Fonte da Informação Periodicidade
+Após ocorrência do
+Relação das usinas termoelétricas futuras e seus Poder Concedente,
+Leilão de Energia ou
+respectivos dados técnicos e operativos ANEEL e CCEE
+quando necessário
+Relação das usinas termoelétricas existentes e seus Poder Concedente e
+Quando necessário
+respectivos dados técnicos ANEEL
+Custo variável unitário de UTEs vendedoras nos
+CCEE Mensal
+Leilões de Energia
+Função de Custo do Déficit CCEE Anual
+Endereço na internet: http://www.ons.org.br 10 / 10

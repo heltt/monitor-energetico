@@ -1,0 +1,28 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 23/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=23/02/2026&jornal=515&pagina=124
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado de Goiás
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 31/2026
+Fase de Requerimento de Lavra Garimpeira
+Indefere Requerimento de PLG(335)
+860.250/2020-COOPERATIVA DE EXTRACAO MINERAL DE NOSSA SENHORA DO LIVRAMENTO
+Fase de Requerimento de Licenciamento
+Indefere requerimento de Licenciamento - área onerada(2095)
+860.485/2022-NILTON JOAQUIM DE OLIVEIRA
+860.578/2022-SALB EMPREENDIMENTOS EIRELI
+860.586/2022-CONSORCIO COMSA LOCTEC ENESCIL
+860.660/2022-ADAO JOSE DE MONTE
+860.685/2022-SAVIO ROBERTO DE RESENDE
+860.186/2024-MOHANA DIAS DAS NEVES PAGOTO
+Indefere requerimento de Licenciamento- área sem oneração(2096)
+861.042/2025-ALYRIO CABRAL VIEIRA JUNIOR
+AILSON MACHADO DE ANDRADE
+Gerente

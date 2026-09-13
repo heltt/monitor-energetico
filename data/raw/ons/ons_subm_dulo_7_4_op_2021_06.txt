@@ -1,0 +1,250 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.4-OP_2021.06
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.4-OP_2021.06.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.4
+Estudos pré-operacionais de integração
+de instalações da Rede de Operação
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2021.06 Despacho ANEEL nº 1.895/2021 29/06/2021
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Estudos pré-operacionais de integração de
+7.4 Operacional 2021.06 02/07/2021
+instalações da Rede de Operação
+ÍNDICE
+1. ELABORAÇÃO DOS ESTUDOS PRÉ-OPERACIONAIS DE INTEGRAÇÃO DE INSTALAÇÕES DA REDE DE
+OPERAÇÃO......................................................................................................................................3
+1.1. Solicitação de estudos pré-operacionais.......................................................................................3
+1.2. Solicitação e consolidação dos dados e modelos..........................................................................3
+1.3. Simulação e análise do sistema.....................................................................................................3
+1.4. Elaboração das diretrizes operativas para incorporação da nova instalação ao sistema.............5
+1.5. Elaboração e disponibilização de relatórios..................................................................................6
+1.6. Acompanhamento das providências a serem implementadas.....................................................7
+2. REFERÊNCIAS...................................................................................................................................7
+3. ANEXOS...........................................................................................................................................8
+Endereço na internet: http://www.ons.org.br 2 / 8
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Estudos pré-operacionais de integração de
+7.4 Operacional 2021.06 02/07/2021
+instalações da Rede de Operação
+1. ELABORAÇÃO DOS ESTUDOS PRÉ-OPERACIONAIS DE INTEGRAÇÃO DE INSTALAÇÕES DA REDE DE
+OPERAÇÃO
+1.1. Solicitação de estudos pré-operacionais
+1.1.1. Os agentes de operação solicitam ao ONS os estudos pré-operacionais para integração da nova
+instalação à Rede de Operação, tendo como referência o cronograma de entrada em operação dos
+empreendimentos sob sua responsabilidade.
+1.2. Solicitação e consolidação dos dados e modelos
+1.2.1. O Operador Nacional do Sistema Elétrico – ONS solicita os dados e modelos da nova instalação aos
+agentes de operação para a realização dos estudos pré-operacionais.
+1.2.2. Os agentes de operação fornecem os dados e modelos solicitados. O fornecimento dos modelos deve
+atender ao padrão das ferramentas computacionais utilizadas pelo ONS, conforme diretrizes estabelecidas e
+disponibilizadas pelo ONS para cada tipo de modelo.
+1.2.3. O ONS consolida os dados e modelos e os disponibiliza aos agentes de operação.
+1.2.3.1. Caso sejam identificadas pendências que motivem a revisão/complementação dos dados e modelos
+fornecidos, o ONS solicita aos agentes de operação os esclarecimentos necessários e informa se as
+pendências são ou não impeditivas para o início dos estudos pré-operacionais.
+1.2.4. O ONS informa aos agentes de operação o cronograma para a execução dos estudos pré-operacionais.
+1.2.5. O ONS disponibiliza para os agentes de operação a relação dos ensaios a serem realizados no período
+de comissionamento.
+1.3. Simulação e análise do sistema
+1.3.1. O ONS realiza os ajustes finais dos cenários para a realização dos processamentos necessários, a partir
+dos casos de referência do ciclo em curso de planejamento da operação elétrica.
+1.3.2. O ONS, com o acompanhamento dos agentes de operação e de acordo com as diretrizes e critérios
+indicados no Submódulo 2.3 – Premissas, critérios e metodologia para estudos elétricos, elabora os estudos
+pré-operacionais, contemplando os seguintes estudos e análises:
+(a) Estudos de regime permanente
+(1) O ONS define as estratégias para controle de tensão e de carregamento e as condições de
+manobras, bem como avalia os limites de transmissão de regime permanente, conforme
+influências da nova instalação.
+(2) Os casos de fluxo de potência resultantes desses estudos servem de base para os demais estudos
+de estabilidade eletromecânica e de transitórios eletromagnéticos.
+(b) Estudos de estabilidade eletromecânica
+(1) O ONS analisa aspectos do desempenho dinâmico do sistema – se foi e em que medida foi afetado
+pelos novos ajustes ou pelos novos controladores – além de examinar os efeitos localizados que
+possam ser limitantes para a plena utilização da rede.
+Endereço na internet: http://www.ons.org.br 3 / 8
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Estudos pré-operacionais de integração de
+7.4 Operacional 2021.06 02/07/2021
+instalações da Rede de Operação
+(2) Esses estudos avaliam os limites de transmissão em regime dinâmico, conforme afetados pela nova
+instalação, bem como os efeitos das manobras de fechamento de paralelo, fechamento de anel e
+religamento automático de linhas de transmissão.
+(c) Estudos de transitórios eletromagnéticos
+(1) O ONS e os agentes de operação envolvidos analisam a suportabilidade dos equipamentos –
+pertencentes à nova instalação e à área de influência dessa instalação – com relação a fenômenos
+transitórios eletromagnéticos decorrentes de manobras, rejeições de carga e religamentos
+automáticos tripolares e monopolares.
+(2) Esses estudos são de responsabilidade dos agentes de operação quando os equipamentos –
+pertencentes à nova instalação e à área de influência dessa instalação – estiverem sujeitos a riscos
+decorrentes de rejeições, religamentos ou manobras intrínsecas à sua própria instalação.
+(3) Esses estudos são complementados pelo ONS nos casos em que rejeições, religamentos, manobras
+ou condições operativas da rede implicarem riscos para os demais equipamentos e instalações da
+Rede Básica.
+(d) Estudos de curto-circuito
+(1) O ONS verifica a evolução dos níveis de curto-circuito nas barras localizadas na área de influência
+da nova instalação. Caso a inclusão dessa instalação implique variação no nível de curto-circuito,
+tanto monofásico quanto trifásico, de 10%, o ONS alerta os agentes de operação envolvidos para
+que, caso necessário, promovam ajustes nos relés de proteção.
+(2) O ONS avalia a capacidade de interrupção simétrica dos disjuntores pertencentes às instalações
+de transmissão sob responsabilidade de concessionárias de transmissão localizados na área de
+influência da nova instalação.
+(3) Os agentes de operação verificam a suportabilidade dos demais equipamentos de sua
+responsabilidade, bem como os aspectos de capacidade de interrupção assimétrica e da Tensão
+de Restabelecimento Transitória (TRT) dos disjuntores de sua responsabilidade, conforme
+estabelecido no documento disponível no site do ONS [1] e no Submódulo 3.12 – Estudos de curto-
+circuito.
+(e) Verificação da conformidade de controles sistêmicos
+(1) O ONS verifica a conformidade dos controles sistêmicos da nova instalação – e de outros controles
+sistêmicos por ela afetados – em relação aos requisitos mínimos e indicadores e padrões de
+desempenho estabelecidos nos Procedimentos de Rede.
+(f) Verificação da conformidade da proteção sistêmica
+(1) O ONS verifica a conformidade da proteção sistêmica da nova instalação – e de outras proteções
+por ela afetadas – em relação aos requisitos mínimos, indicadores e padrões de desempenho
+estabelecidos nos Procedimentos de Rede.
+(g) Concepção de novos Sistemas Especiais de Proteção (SEP) e verificação da conformidade e revisão de
+SEP existentes
+(1) O ONS identifica a necessidade de novos SEP e de revisão de SEP existentes.
+(2) O ONS verifica a conformidade dos SEP existentes em função da implantação da nova instalação.
+Endereço na internet: http://www.ons.org.br 4 / 8
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Estudos pré-operacionais de integração de
+7.4 Operacional 2021.06 02/07/2021
+instalações da Rede de Operação
+(h) Estudos adicionais que podem ser realizados:
+(1) Implementação de SEP (Submódulo 7.5 – Implantação de Sistemas Especiais de Proteção).
+(2) Diagnóstico dos sistemas de proteção e controle local das instalações (Submódulo 6.13 –
+Diagnóstico dos sistemas de proteção e controle).
+(3) Proteções de caráter sistêmico (Submódulo 7.6 – Implantação de proteções de caráter sistêmico).
+(4) Estudos de otimização de controladores (Submódulo 3.10 – Estudos para segurança operacional
+elétrica).
+(5) Estudos de recomposição do sistema (Submódulo 3.10).
+(6) Estudos do controle carga-frequência (Submódulo 3.10).
+(7) Validação de dados e modelos de componentes para estudos elétricos (Submódulo 3.9 – Validação
+de dados e de modelos de componentes para estudos elétricos).
+1.3.3. No caso de conexão fora da Rede de Operação de novas usinas classificadas como Tipo I conforme
+Submódulo 7.2 – Classificação da modalidade de operação de usinas, os agentes de operação elaboram e
+fornecem ao ONS estudos de regime permanente, de transitórios eletromagnéticos, de estabilidade
+eletromecânica e outros estudos necessários, com objetivo de:
+(a) apontar os efeitos da integração da nova usina ao Sistema Interligado Nacional (SIN), no caso do
+agente de geração responsável pelo empreendimento; e
+(b) apontar os efeitos da integração da nova usina no sistema de sua responsabilidade, no caso de
+agentes de transmissão e distribuição.
+1.3.4. O ONS pode realizar, além dos estudos listados, outros estudos específicos – em função das
+características físicas e operacionais da instalação – complementares às análises de regime permanente, de
+estabilidade eletromecânica e de transitórios eletromagnéticos.
+1.3.5. O ONS, a partir dos casos de referência e de acordo com os tipos de ensaio a realizar, elabora estudos
+adicionais, através de simulações que complementem os estudos realizados na fase pré-operacional. Essas
+simulações enfocam as situações de configuração não previstas nos estudos pré-operacionais causadas por:
+(a) operação da nova instalação em configuração provisória por motivo de atraso na energização de
+componentes ou por qualquer outro motivo não esperado;
+(b) desligamento de componentes da Rede de Operação, programados ou não; e
+(c) outras restrições operativas não esperadas.
+1.3.6. Os estudos citados que, em sua maioria, são desenvolvidos antes do comissionamento, podem,
+quando necessário, se estender ao longo do período de comissionamento.
+1.4. Elaboração das diretrizes operativas para incorporação da nova instalação ao sistema
+1.4.1. O ONS estabelece as diretrizes para a operação quando da entrada de nova instalação, em
+conformidade com os resultados dos estudos pré-operacionais desenvolvidos e com os requisitos mínimos e
+indicadores e padrões de desempenho estabelecidos nos Procedimentos de Rede. Essas diretrizes são
+tomadas como base para elaboração das instruções de operação.
+1.4.1.1. As diretrizes operativas consideram o período de comissionamento e de operação inicial da nova
+instalação da Rede de Operação.
+Endereço na internet: http://www.ons.org.br 5 / 8
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Estudos pré-operacionais de integração de
+7.4 Operacional 2021.06 02/07/2021
+instalações da Rede de Operação
+1.5. Elaboração e disponibilização de relatórios
+1.5.1. O ONS elabora e disponibiliza para os agentes de operação o Relatório de Estudo Pré-Operacional, que
+apresenta o seguinte conteúdo:
+(a) análise do desempenho elétrico do sistema com a entrada da nova instalação;
+(b) definição dos novos SEP ou reajuste dos SEP existentes;
+(c) definição de alteração de estrutura ou de reajustes em equipamentos de controle sistêmico;
+(d) definição de novas proteções sistêmicas ou reajuste nas existentes;
+(e) diretrizes para elaboração de instruções de operação;
+(f) definição de restrições operativas, sob a ótica dos estudos pré-operacionais;
+(g) diretrizes para recomposição do sistema;
+(h) diretrizes para fechamento de paralelo, fechamento de anéis e religamento automático de linhas de
+transmissão;
+(i) diretrizes para a energização ou desenergização da nova instalação; e
+(j) providências.
+1.5.1.1. Os resultados, as conclusões e as providências estabelecidas no Relatório de Estudo Pré-Operacional
+abrangem o período inicial de operação de uma nova instalação da Rede de Operação, incluindo o período
+de realização de ensaios de comissionamento dessa nova instalação.
+1.5.2. O agente de operação elabora e envia ao ONS, por meio eletrônico, o Relatório final de
+comissionamento, tendo como referência os modelos de relatório disponibilizados pelo ONS para cada tipo
+de instalação.
+1.5.2.1. O Relatório final de comissionamento contém os seguintes itens básicos:
+(a) Introdução:
+(1) descrição sucinta da instalação e indicação da data de sua entrada em operação comercial.
+(b) Dados e informações sobre ensaios de repercussão sistêmica:
+(1) descrição detalhada de cada ensaio com indicação da data e hora da efetiva realização, do
+método ou da norma adotada;
+(2) registros oscilográficos e análises pertinentes;
+(3) diagnóstico dos resultados dos ensaios; e
+(4) resultados comparativos de simulação utilizando os modelos computacionais atualizados e os
+registros obtidos dos ensaios de comissionamento, considerando os ajustes realizados em campo
+durante o comissionamento, de forma a atestar o desempenho dos modelos.
+(c) Pendências de comissionamento:
+(1) descrição das pendências de comissionamento com reflexo operativo, quando existirem.
+(d) Limitações operativas:
+(1) descrição das limitações operativas resultantes das pendências de comissionamento.
+Endereço na internet: http://www.ons.org.br 6 / 8
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Estudos pré-operacionais de integração de
+7.4 Operacional 2021.06 02/07/2021
+instalações da Rede de Operação
+(e) Plano para eliminação de pendências e limitações operativas:
+(1) plano de ação contendo as medidas para eliminação de pendências de comissionamento e
+limitações operativas, com indicação dos prazos previstos; e
+(2) nome do responsável técnico para contato com o ONS no decorrer da execução do plano.
+(f) Conclusões:
+(1) conjunto de comentários objetivos sobre o resultado final dos ensaios de comissionamento de
+repercussão sistêmica, enfocando as principais pendências, limitações operativas e horizonte
+para sua correção.
+1.5.2.2. O Relatório final de comissionamento contempla os seguintes equipamentos de controle:
+(a) sistema de excitação dos geradores e compensadores síncronos;
+(b) regulação primária de frequência;
+(c) sistema de controle de plantas eólicas;
+(d) sistema de controle de plantas solares fotovoltaicas;
+(e) sistema de controle de conversores de frequência e de elos de corrente contínua;
+(f) controle conjunto de potência ativa e de tensão de usinas;
+(g) sistema de controle de compensadores estáticos;
+(h) sistema de controle de compensadores série controláveis; e
+(i) sistema de controle de outros dispositivos FACTS (Flexible AC Transmission Systems).
+1.5.2.3. Os resultados do Relatório final de comissionamento subsidiam posterior avaliação e validação dos
+modelos e dados dos componentes da instalação, conforme Submódulo 3.9, e comparação com os ajustes
+dos controladores sistêmicos determinados pelo processo de otimização de controladores descrito no
+Submódulo 3.10.
+1.5.3. O ONS avalia o Relatório final de comissionamento e se manifesta em relação à sua aprovação. Caso
+seja identificado algum resultado que indique um desempenho inadequado do equipamento, o ONS solicita
+esclarecimentos e providências necessárias para o devido equacionamento.
+1.6. Acompanhamento das providências a serem implementadas
+1.6.1. Os agentes de operação enviam informações relativas ao cumprimento das providências e das causas
+de eventuais não cumprimentos para acompanhamento do ONS.
+1.6.2. O ONS classifica as providências como realizadas ou não realizadas, com base nas informações
+fornecidas pelos agentes de operação, e analisa as causas de eventuais não realizações. Para tal, o ONS utiliza
+sistema computacional próprio que permite acompanhar o atendimento das providências originadas dos
+estudos pré-operacionais.
+2. REFERÊNCIAS
+[1] ONS. Critérios para Análise de Superação de Equipamentos e Instalações De Alta Tensão. Nota técnica
+ONS nº 0048/2014.
+Endereço na internet: http://www.ons.org.br 7 / 8
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Estudos pré-operacionais de integração de
+7.4 Operacional 2021.06 02/07/2021
+instalações da Rede de Operação
+3. ANEXOS
+3.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 8 / 8

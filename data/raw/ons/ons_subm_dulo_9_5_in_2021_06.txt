@@ -1,0 +1,116 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 9.5-IN_2021.06
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 9.5-IN_2021.06.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 9.5
+Indicadores de cumprimento de
+providências estabelecidas nos
+relatórios de análise
+Indicadores
+Revisão Motivo da revisão Data de aprovação
+2021.06 Despacho ANEEL nº 1.895/2021 29/06/2021
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de cumprimento de providências 9.5 Indicadores 2021.06 02/07/2021
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. INDICADORES DE CUMPRIMENTO DE PROVIDÊNCIAS......................................................................3
+2.1. Evolução do Cumprimento às Providências dos Relatórios de Análise (ECPA).............................3
+2.1.1. Objetivo.......................................................................................................................3
+2.1.2. Definição......................................................................................................................3
+2.1.3. Formulação..................................................................................................................3
+2.1.4. Dados utilizados..........................................................................................................3
+2.1.5. Agregações..................................................................................................................3
+2.1.6. Divulgação...................................................................................................................3
+2.2. Pontualidade Cumprimento às Providências dos Relatórios de Análise (PCPA)..........................4
+2.2.1. Objetivo.......................................................................................................................4
+2.2.2. Definição......................................................................................................................4
+2.2.3. Formulação..................................................................................................................4
+2.2.4. Dados utilizados..........................................................................................................4
+2.2.5. Agregações..................................................................................................................4
+2.2.6. Divulgação...................................................................................................................4
+3. REFERÊNCIAS...................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de cumprimento de providências 9.5 Indicadores 2021.06 02/07/2021
+1. OBJETIVO
+1.1. Estabelecer a sistemática para o cálculo dos indicadores de desempenho relativos ao cumprimento de
+providências estabelecidas pelo ONS por meio dos relatórios de análise.
+2. INDICADORES DE CUMPRIMENTO DE PROVIDÊNCIAS
+2.1. Evolução do Cumprimento às Providências dos Relatórios de Análise (ECPA)
+2.1.1. Objetivo
+2.1.1.1. Avaliar a evolução do cumprimento às providências dos relatórios de análise do ONS.
+2.1.2. Definição
+2.1.2.1. É o percentual de providências cumpridas no período em relação ao número de providências
+programadas para o período, considerando os prazos vigentes. ( 1 )
+2.1.3. Formulação
+2.1.3.1. O indicador ECPA é calculado pela seguinte relação:
+NPR
+ECPA Concluídas .100
+NPR  NPR  NPR [%]
+Programadas Atrasadas Antecipasdas
+Onde:
+NPR = Número total de providências concluídas no período.
+Concluídas
+NPR = Número de providências com prazo atual estabelecido para o período, independentemente de já
+Programadas
+terem sido reprogramadas.
+NPR = Número de providências com prazo vencido em período anterior.
+Atrasadas
+NPR = Número de providências com prazo previsto para período futuro, porém já concluídas no período
+Antecipadas
+de avaliação.
+2.1.4. Dados utilizados
+2.1.4.1. Os dados utilizados para o cálculo do indicador ECPA são obtidos a partir do sistema de
+acompanhamento de providências dos relatórios de análise do ONS, conforme Submódulo 6.2 – Análise da
+operação, ocorrências e perturbações e acompanhamento das providências.
+2.1.5. Agregações
+2.1.5.1. Sistêmica: sistema.
+2.1.5.2. Espacial: gestor, área de atuação e agente de operação.
+2.1.5.3. Temporal: acumulado nos últimos 12 meses.
+2.1.6. Divulgação
+2.1.6.1. O ONS calcula o indicador ECPA e divulga-o por meio do Relatório Mensal de Estatística das
+Providências (REMEP), nos termos e prazos estabelecidos no Submódulo 6.2, e no site do ONS para os agentes
+de operação e demais interessados.
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de cumprimento de providências 9.5 Indicadores 2021.06 02/07/2021
+2.1.6.2. A periodicidade de divulgação desse indicador é mensal.
+2.2. Pontualidade Cumprimento às Providências dos Relatórios de Análise (PCPA)
+2.2.1. Objetivo
+2.2.1.1. Avaliar a pontualidade do cumprimento às providências dos relatórios de análise do ONS.
+2.2.2. Definição
+2.2.2.1. É o percentual de providências concluídas que cumpriram o prazo estabelecido em relação ao total
+de providências concluídas no período.
+2.2.3. Formulação
+2.2.3.1. O indicador PCPA é calculado pela seguinte relação: ( 2 )
+NPR
+PCPA  Concluídas no prazo .100 [%]
+NPR
+Concluídas
+Onde:
+NPR = Número total de providências concluídas no período que cumpriram o prazo
+Concluídas no prazo
+estabelecido.
+NPR = Número total de providências concluídas no período, independentemente de terem
+Concluídas
+cumprido o prazo.
+2.2.4. Dados utilizados
+2.2.4.1. Os dados utilizados para o cálculo do indicador PCPA são obtidos a partir do sistema de
+acompanhamento de providências dos relatórios de análise do ONS, conforme Submódulo 6.2.
+2.2.5. Agregações
+2.2.5.1. Sistêmica: sistema.
+2.2.5.2. Espacial: gestor, área de atuação e agente de operação.
+2.2.5.3. Temporal: acumulado nos últimos 12 meses.
+2.2.6. Divulgação
+2.2.6.1. O ONS calcula o indicador PCPA e divulga-o por meio do Relatório Mensal de Estatística das
+Providências – REMEP, nos termos e prazos estabelecidos no Submódulo 6.2, e no site do ONS.
+2.2.6.2. A periodicidade de divulgação desse indicador é mensal.
+3. REFERÊNCIAS
+3.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 4 / 4

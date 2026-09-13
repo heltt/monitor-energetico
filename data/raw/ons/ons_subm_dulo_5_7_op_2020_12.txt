@@ -1,0 +1,130 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 5.7-OP_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 5.7-OP_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 5.7
+Gerenciamento da carga
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Gerenciamento da carga 5.7 Operacional 2020.12 01/01/2021
+ÍNDICE
+1. DIRETRIZES GERAIS..........................................................................................................................3
+2. GERENCIAMENTO DE CARGA...........................................................................................................4
+3. RESTABELECIMENTO DA CARGA.......................................................................................................5
+4. REFERÊNCIAS...................................................................................................................................5
+5. ANEXOS...........................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Gerenciamento da carga 5.7 Operacional 2020.12 01/01/2021
+1. DIRETRIZES GERAIS
+1.1. Os centros de operação do ONS coordenam as ações em tempo real de gerenciamento de carga no
+Sistema Interligado Nacional (SIN), devido à deficiência de geração, transmissão ou transformação e
+quando a carga a ser atendida é maior que a capacidade de suprimento da área.
+1.1.1. O gerenciamento de carga também inclui os casos em que há corte automático de carga por atuação
+do Esquema Regional de Alívio de Carga (ERAC) ou do Esquema de Controle de Emergência (ECE).
+1.2. As tratativas para as ações de gerenciamento de carga são realizadas entre os centros de operação do
+ONS e os agentes de distribuição, consumidores livres ou potencialmente livres conectados à Rede Básica e
+às DIT.
+1.2.1. Nos casos em que as condições do sistema não permitam as tratativas entre esses agentes, os
+centros de operação do ONS podem realizá-las por intermédio dos agentes de transmissão.
+1.3. Os centros de operação do ONS coordenam, supervisionam e controlam as ações de gerenciamento de
+carga, classificadas como:
+(a) corte direto (manual ou automático) da carga;
+(b) corte indireto, pela redução intencional da tensão aos níveis mínimos permitidos; ou
+(c) remanejamento de carga entre instalações da Rede Básica.
+1.3.1. Os centros de operação do ONS avisam antecipadamente aos agentes de operação envolvidos as
+ações de gerenciamento de carga, exceto nos casos de emergência na Rede de Operação, quando as ações
+podem ser realizadas pelo agente e em seguida comunicadas aos centros de operação do ONS em tempo
+real.
+1.4. O agente de distribuição e o consumidor livre ou potencialmente livre dispõem de instruções de
+operação internas com os procedimentos necessários para realização das ações de gerenciamento de carga
+na maior brevidade possível e conforme as diretrizes estabelecidas neste submódulo.
+1.5. As ações de gerenciamento de carga podem ser realizadas em função:
+(a) dos limites de tensão;
+(b) dos limites de frequência;
+(c) do déficit de geração; ou
+(d) do carregamento dos equipamentos ou linhas de transmissão.
+1.6. As ações de gerenciamento de carga possuem curta ou longa duração em função das contingências na
+Rede de Operação ou em função de déficit energético do SIN.
+1.6.1. No caso de déficit energético, o gerenciamento de carga pode ser caracterizado como racionamento
+de energia e está sujeito a regulamentação superior.
+1.7. No caso de regime especial de operação, as cargas que forem classificadas como prioritárias e estejam
+incluídas no ERAC ou ECE devem ser substituídas em caráter provisório por outras de mesma monta e
+influência.
+1.8. A especificação dos procedimentos e a operacionalização das atividades de coordenação, controle,
+comando e execução das ações de gerenciamento e restabelecimento de carga estão contidas no
+Submódulo 5.12 – Instruções de Operação ou no Submódulo 5.14 – Ajustamentos Operativos.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Gerenciamento da carga 5.7 Operacional 2020.12 01/01/2021
+2. GERENCIAMENTO DE CARGA
+2.1. Os agentes classificam as cargas prioritárias que não devem ser incluídas nas ações de gerenciamento
+de carga, conforme as disposições legais ou particularidades internas.
+2.2. As primeiras cargas passíveis de corte são as classificadas como “interruptíveis”, conforme contratos
+específicos.
+2.3. O agente de distribuição e o consumidor livre ou potencialmente livre elaboram e encaminham ao
+Centro de Operação do Sistema – COSR com o qual se relacionam a síntese dos seus Planos de Corte
+Manual de Carga (PCMC), contendo:
+(a) agente de distribuição: detalhamento por subestação distribuidora e por ponto de conexão do
+consumidor livre ou potencialmente livre conectado à rede de distribuição ou às DIT na sua área de
+concessão, evidenciando o atendimento aos montantes, patamares e tempos definidos pelo ONS e
+considerando sua carga cativa e a carga dos consumidores livres ou potencialmente livres; e
+(b) consumidor livre ou potencialmente livre: detalhamento por ponto de conexão, evidenciando o
+atendimento aos montantes, patamares e tempos definidos pelo ONS.
+2.4. O COSR dispõe das sínteses dos PCMC por prioridade de carga, encaminhados e atualizados pelos
+agentes de distribuição e consumidores livres ou potencialmente livres na sua área de atuação.
+2.5. Os centros de operação do ONS realizam possíveis remanejamentos de carga ou corte indireto por
+meio de redução de tensão para valores mínimos admissíveis, caso tais medidas se mostrem efetivas antes
+de efetuar o corte direto manual de carga, e acorda previamente com os agentes de operação envolvidos.
+2.6. Os centros de operação do ONS utilizam toda a capacidade de geração disponível dos agentes de
+geração antes de ser realizada qualquer ação de gerenciamento de carga por corte direto ou indireto, com
+exceção da reserva girante mínima e da capacidade de geração disponível que não possa ser utilizada por
+causa de restrições do sistema de transmissão.
+2.6.1. No corte indireto, os centros de operação do ONS utilizam os equipamentos de suporte de reativo
+para permitir que as tensões do sistema ou das subestações estejam em valores mínimos estabelecidos nos
+estudos de planejamento elétrico da operação e operacionalizados nas instruções de operação, conforme
+Submódulo 5.12.
+2.7. Os centros de operação do ONS reprogramam os intercâmbios nas interligações internacionais para
+aumentar a importação ou reduzir a exportação de energia, antes de efetuar qualquer ação de
+gerenciamento de carga por corte direto manual, quando há déficit de geração ou para recuperação da
+frequência, conforme Submódulo 5.15 – Regulamentos Internacionais e regulamentação associada.
+2.8. O COSR comunica ao agente de distribuição e consumidor livre ou potencialmente livre na sua área de
+atuação as ações para o corte manual de carga, preferencialmente a partir do agente ou consumidor com
+maior montante de carga e assim sucessivamente.
+2.9. Os centros de operação do ONS dispõem de tabelas que relacionam os valores de frequência com o
+montante de carga a ser interrompido e por área de atuação, conforme Submódulo 5.12.
+2.10. O agente de transmissão realiza o gerenciamento de carga apenas por meio da abertura manual das
+suas conexões com o agente de distribuição e consumidor livre ou potencialmente livre, conforme
+detalhado no Submódulo 5.12 e Submódulo 5.13 – Rotinas Operacionais.
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Gerenciamento da carga 5.7 Operacional 2020.12 01/01/2021
+3. RESTABELECIMENTO DA CARGA
+3.1. O COSR coordena, na sua área de atuação, o restabelecimento das cargas desligadas por corte manual,
+esquemas de corte por subtensão, por atuação do ERAC ou por atuação de outros ECE.
+3.2. O COSR comunica ao agente de distribuição e consumidor livre ou potencialmente livre as ações de
+restabelecimento das cargas cortadas, preferencialmente a partir do agente ou consumidor com maior
+montante de carga e assim sucessivamente.
+3.3. No caso de déficit de geração, o agente de operação restabelece manualmente a carga após
+autorização do COSR, de maneira escalonada e depois de restabelecida a frequência em seu valor nominal
+e a reserva girante suficiente.
+3.4. No caso de esgotamento da capacidade de transmissão, o agente de operação restabelece a carga
+após autorização do COSR e depois de assegurada a operação dentro dos limites operativos.
+3.5. Quando for necessário o corte manual de carga em complementação ao corte de carga por redução de
+tensão aos níveis mínimos estabelecidos, deve ser priorizado o restabelecimento das cargas interrompidas
+manualmente antes da normalização da tensão, respeitando-se os limites operativos dos equipamentos,
+linhas de transmissão e do sistema.
+4. REFERÊNCIAS
+4.1. Não há referências neste documento.
+5. ANEXOS
+5.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 5 / 5

@@ -1,0 +1,178 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 2.13-RQ_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 2.13-RQ_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 2.13
+Requisitos mínimos para Sistemas de
+Medição Sincronizada de Fasores
+Requisitos
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para Sistemas de Medição
+2.13 Requisitos 2020.12 01/01/2021
+Sincronizada de Fasores
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. ARQUITETURA DO SMSF..................................................................................................................3
+3. REQUISITOS GERAIS.........................................................................................................................3
+4. MEDIÇÃO.........................................................................................................................................3
+4.1. Tipos de medição..........................................................................................................................3
+4.2. Exatidão da medição.....................................................................................................................3
+5. COMUNICAÇÃO DOS DADOS............................................................................................................4
+5.1. Latência do dado...........................................................................................................................4
+5.2. Taxa de envio das medições sincrofasoriais..................................................................................4
+5.3. Entrega dos dados.........................................................................................................................4
+5.4. Concentradores de dados fasoriais dos agentes...........................................................................5
+5.5. Protocolo de comunicação............................................................................................................5
+5.6. Recursos de comunicação de dados para a rede de medição sincrofasorial................................5
+6. IED (INTELLIGENT ELECTRONIC DEVICE)............................................................................................5
+7. REFERÊNCIAS...................................................................................................................................6
+Endereço na internet: http://www.ons.org.br 2 / 6
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para Sistemas de Medição
+2.13 Requisitos 2020.12 01/01/2021
+Sincronizada de Fasores
+1. OBJETIVO
+1.1. Estabelecer os requisitos mínimos para a implantação das PMU (Phasor Measurement Units) e para a
+rede de comunicação do agente.
+2. ARQUITETURA DO SMSF
+2.1. A arquitetura do Sistema de Medição Sincronizada de Fasores (SMSF) é constituída por:
+(a) PMU instaladas nas subestações da Rede de Operação;
+(b) concentradores de dados fasoriais (PDC) do agente, instalado por conveniência do próprio agente;
+(c) canais de telecomunicação para o envio dos sincrofasores medidos para os PDC do Operador Nacional
+do Sistema Elétrico – ONS; e
+(d) PDC instalados no ONS.
+3. REQUISITOS GERAIS
+3.1. As PMU indicadas pelo ONS devem ser previamente testadas e estar aptas a operar em conjunto com
+os demais equipamentos do empreendimento.
+4. MEDIÇÃO
+4.1. Tipos de medição
+4.1.1. As PMU devem ser configuradas como PMU de Classe M (medição).
+4.1.2. As PMU devem conter nos pacotes computacionais de sincrofasores as seguintes medições:
+(a) Medição de tensão, módulo e ângulo das 3 (três) fases de todos os terminais de linha de transmissão
+indicados pelo ONS e pertencentes à Rede de Operação. A medição de frequência e taxa de variação
+de frequência deve se dar para apenas uma das fases, devendo ser escolhida a mesma fase que tem
+medição na barra da subestação da saída da linha de transmissão monitorada;
+(b) Medição de módulo e ângulo das 3 (três) fases das correntes de todos os terminais de linha de
+transmissão indicados pelo ONS e pertencentes à Rede de Operação. Para cálculo dos sincrofasores
+de corrente, as PMU devem utilizar os sinais disponibilizados pelos enrolamentos dos
+transformadores de corrente (TC) do sistema de proteção; e
+(c) Medição de módulo, ângulo, frequência e taxa de variação de frequência da fase da tensão das seções
+de barra onde o terminal de linha de transmissão pode se conectar. Para os casos de barramento em
+anel, não é necessária a medição de tensão dos transformadores de potencial (TP) ligados ao
+barramento.
+4.2. Exatidão da medição
+4.2.1. Todas as medições de tensão devem ser efetuadas por equipamentos cuja classe de exatidão garanta
+uma exatidão mínima de 1% e as medições de corrente devem ter uma exatidão mínima de 10%.
+Endereço na internet: http://www.ons.org.br 3 / 6
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para Sistemas de Medição
+2.13 Requisitos 2020.12 01/01/2021
+Sincronizada de Fasores
+4.2.1.1. Tais exatidões devem englobar toda a cadeia de equipamentos utilizados, tais como TP, TC,
+transdutores etc.
+4.2.2. As medições sincrofasoriais devem atender os requisitos de precisão, tanto em regime permanente
+quanto dinâmico, como definido nas normas internacionais que regem os padrões para este tipo de medição
+em sistemas de potência, conforme detalhado na rotina operacional referente a protocolos de comunicação
+com o sistema de supervisão e controle do ONS, no Submódulo 5.13 – Rotinas Operacionais.
+4.2.3. O TVE (Total Vector Error) máximo admissível para estimação de uma medição sincrofasorial é de 1%.
+5. COMUNICAÇÃO DOS DADOS
+5.1. Latência do dado
+5.1.1. A latência máxima de uma medição sincrofasorial é de 500 milissegundos.
+5.1.1.1. Define-se como latência do dado o tempo decorrido entre o instante do registro da ocorrência de
+seu valor na instalação e a sua recepção no PDC do ONS.
+5.2. Taxa de envio das medições sincrofasoriais
+5.2.1. As medições devem ser sincronizadas por Sistemas de Navegação Global por Satélite (Global
+Navigation Satellite System – GNSS), por exemplo o Sistema de Posicionamento Global (Global Positioning
+System –GPS), e transmitidas a uma taxa de 60 frames por segundo, com selo de tempo no padrão UTC
+(Universal Time Coordinate).
+5.3. Entrega dos dados
+5.3.1. As medições devem ser entregues pelos agentes nos PDC indicados pelo ONS, por meio de rede de
+telecomunicações estabelecida especificamente para este fim.
+5.3.1.1. Os PDC indicados pelo ONS localizam-se no Sistema de Aquisição de Dados Local (SAL), no Centro de
+Operação do Sistema Sudeste – COSR-SE, e no SAL de Brasília, no Centro de Operação do Sistema Norte e
+Centro Oeste – COSR-NCO.
+5.3.2. Os agentes podem utilizar os dados fasoriais gerados em suas instalações, desde que o fluxo de dados
+para o ONS continue sendo enviado por uma porta exclusiva.
+5.3.3. Caso o agente já possua circuitos de telecomunicações com o SAL do COSR-SE ou SAL do Centro
+Nacional de Operação do Sistema – CNOS ou do COSR-NCO para serviços como o tráfego de dados/voz dos
+sistemas SCADA/EMS (Supervisory Control and Data Acquisition/Energy Management System), o mesmo
+pode ser utilizado concomitantemente para o tráfego de medidas sincrofasoriais, desde que os seguintes
+critérios sejam atendidos:
+(a) os roteadores presentes nas instalações do ONS possuam uma interface de rede dedicada para serviço
+de transferência de informações sincrofasoriais, independente das demais interfaces;
+(b) os enlaces sejam configurados com classe de serviço de forma a priorizar os diversos serviços de
+comunicação que trafegam nos mesmos circuitos físicos, conforme a prioridade definida na rotina
+operacional referente à integração dos dados fasoriais dos agentes no SMSF do ONS, no Submódulo
+5.13; e
+(c) o agente redimensione a largura de banda do circuito para que este comporte o tráfego adicional.
+Endereço na internet: http://www.ons.org.br 4 / 6
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para Sistemas de Medição
+2.13 Requisitos 2020.12 01/01/2021
+Sincronizada de Fasores
+5.4. Concentradores de dados fasoriais dos agentes
+5.4.1. O enlace agente-ONS pode ser estabelecido, por conveniência do agente, por meio de um PDC em
+suas instalações, desde que sejam atendidos os requisitos de latência para entrega dos pacotes de dados ao
+ONS e os percentuais de disponibilidade do enlace especificados neste submódulo, nos itens 5.1.1. e 5.6.1. ,
+respectivamente.
+5.4.2. Quando usados, os PDC dos agentes não devem executar qualquer tratamento/alteração dos dados.
+5.5. Protocolo de comunicação
+5.5.1. As informações sincrofasoriais disponibilizadas pelas PMU devem ser transportadas por meio dos
+protocolos de comunicação definidos por organizações internacionais (International Electrotechnical
+Commission – IEC, Institute of Electrical and Electronics Engineers – IEEE etc), conforme detalhado na rotina
+operacional referente a protocolos de comunicação com o sistema de supervisão e controle do ONS, no
+Submódulo 5.13.
+5.5.2. Os protocolos envolvidos no estabelecimento de um enlace para envio de medições sincrofasoriais,
+tanto a nível de transporte, como UDP/IP (User Datagram Protocol/Internet Protocol) ou TCP/IP
+(Transmission Control Protocol/Internet Protocol), quanto a nível de aplicação, bem como as opções de
+configuração destes protocolos, devem atender a rotina operacional referente a protocolos de comunicação
+com o sistema de supervisão e controle do ONS, no Submódulo 5.13.
+5.5.3. Devem ser atendidas as regras de identificação das PMU e dos fasores a serem codificados nos fluxos
+sincrofasoriais enviados ao ONS, definidas na rotina operacional referente à identificação de PMU, de fasores
+e de fluxos sincrofasoriais enviados ao ONS, no Submódulo 5.13.
+5.5.4. O envio dos pacotes do protocolo IP deve ser passível de gerenciamento via QoS/ToS (Quality Of
+Service/Type Of Service), carregando no ToS valores acordados com o ONS para utilização do DSCP
+(Differentiated Services Code Point) como recurso para gerenciamento de utilização da banda de
+comunicação nas redes do agente, do ONS, e de provedores de serviços de rede eventualmente contratados.
+5.5.5. A configuração das prioridades dos serviços deve atender a rotina operacional referente à integração
+dos dados fasoriais dos agentes no SMSF do ONS, no Submódulo 5.13.
+5.6. Recursos de comunicação de dados para a rede de medição sincrofasorial
+5.6.1. Os agentes devem fornecer os serviços de dados atendendo às especificações da classe A dos
+requisitos de disponibilidade e aos requisitos de qualidade estabelecidos no Submódulo 2.15 – Requisitos
+mínimos para telecomunicações.
+5.6.2. A aferição da disponibilidade dos enlaces de comunicação dos agentes é realizada pelo conjunto dos
+canais instalados no SAL do COSR-SE e SAL do CNOS/COSR-NCO e não individualmente, atendendo aos
+requisitos de disponibilidade e qualidade estabelecidos no Submódulo 2.15.
+6. IED (INTELLIGENT ELECTRONIC DEVICE)
+6.1. Os IED com função PMU devem ter recursos que possibilitem a intervenção das equipes de manutenção
+sem desligamento de componentes primários.
+6.2. Os materiais e equipamentos a serem utilizados devem ser projetados, fabricados, montados e
+ensaiados em conformidade com as revisões mais recentes das normas da Associação Brasileira de Normas
+Endereço na internet: http://www.ons.org.br 5 / 6
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para Sistemas de Medição
+2.13 Requisitos 2020.12 01/01/2021
+Sincronizada de Fasores
+Técnicas – ABNT, no que for aplicável, e, na falta dessas, com as revisões mais recentes das normas da IEC ou
+da American National Standards Institute – ANSI, nessa ordem de preferência.
+6.3. Todos os equipamentos e sistemas digitais devem atender aos requisitos das normas para
+compatibilidade eletromagnética, aplicáveis nos graus de severidade adequados para instalação em
+subestações de extra-alta-tensão.
+6.4. Os IED com função PMU devem ser passíveis de atualização de firmware para correção de bugs a
+qualquer momento, quando solicitado pelo ONS.
+6.5. Os IED com função PMU devem ser independentes dos IED de proteção.
+6.6. Os IED a serem instalados devem atender às normas definidas na rotina operacional referente à
+integração dos dados fasoriais dos agentes no SMSF do ONS, no Submódulo 5.13.
+7. REFERÊNCIAS
+7.1. Não há referências nesse submódulo.
+Endereço na internet: http://www.ons.org.br 6 / 6

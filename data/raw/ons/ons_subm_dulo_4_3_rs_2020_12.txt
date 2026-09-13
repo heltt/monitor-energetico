@@ -1,0 +1,250 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 4.3-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 4.3-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 4.3
+Programação mensal da operação
+energética
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação mensal da operação energética 4.3 Responsabilidades 2020.12 01/01/2021
+ÍNDICE
+1. OBJETIVO ..................................................................................................................................... 3
+2. PRODUTOS ................................................................................................................................... 3
+2.1. Programa Mensal da Operação Energética (PMO) e suas revisões .............................................. 3
+2.2. Base de dados do modelo de otimização de médio prazo ............................................................ 3
+2.3. Base de dados do modelo de otimização de curto prazo ............................................................. 3
+3. RESPONSABILIDADES .................................................................................................................... 3
+3.1. Operador Nacional do Sistema Elétrico – ONS .............................................................................. 3
+3.2. Agentes de geração ...................................................................................................................... 4
+3.3. Agente comercializador da Itaipu Binacional ................................................................................ 4
+3.4. Agentes de importação e exportação ........................................................................................... 4
+4. PRAZOS ........................................................................................................................................ 5
+5. REFERÊNCIAS ................................................................................................................................ 7
+Endereço na internet: http://www.ons.org.br 2 / 7
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação mensal da operação energética 4.3 Responsabilidades 2020.12 01/01/2021
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas de processos relativos à programação
+mensal da operação energética, e de suas revisões semanais, que oferece as diretrizes energéticas de curto
+prazo para a operação do Sistema Interligado Nacional (SIN).
+2. PRODUTOS
+2.1. Programa Mensal da Operação Energética (PMO) e suas revisões
+2.1.1. Apresenta os resultados dos estudos realizados em base mensal, e revistos semanalmente, e
+fornecem metas e diretrizes eletroenergéticas a serem consideradas na programação diária da operação e
+na operação em tempo real.
+2.2. Base de dados do modelo de otimização de médio prazo
+2.2.1. Arquivo de dados do modelo de otimização de médio prazo, utilizado na elaboração do PMO, com horizonte
+de análise de até 60 meses à frente.
+2.3. Base de dados do modelo de otimização de curto prazo
+2.3.1. Arquivo de dados do modelo de otimização de curto prazo, utilizado na elaboração do PMO e suas revisões,
+com horizonte de análise de 2 meses à frente.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Divulgar aos agentes de geração, aos agentes de importação e de exportação e ao agente
+comercializador de Itaipu Binacional o cronograma e os meios de envio das informações necessárias
+à a elaboração do PMO e suas revisões.
+(b) Analisar e consolidar, em conjunto com os agentes envolvidos, as informações recebidas para a
+realização do PMO e de suas revisões.
+(c) Convidar os agentes envolvidos a participarem da reunião de elaboração do PMO.
+(d) Analisar a evolução das condições operativas dos subsistemas que compõem o SIN, para um período
+de até doze meses à frente, considerando a ocorrência do valor esperado da previsão de afluências.
+(e) Estabelecer as adequações necessárias nos cronogramas de manutenção de unidades geradoras,
+considerando, juntamente com os agentes de geração envolvidos, os riscos de danos em
+equipamentos e as demais restrições operativas, com a antecedência necessária à viabilização de tais
+adequações.
+(f) Definir os montantes de oferta e de demanda disponíveis para compra e venda pelo SIN nas
+interligações internacionais, por meio de protocolos estabelecidos com os operadores dos sistemas
+dos países envolvidos.
+(g) Disponibilizar o PMO e suas revisões a todos os agentes envolvidos e elaborar as metas e diretrizes
+eletroenergéticas a serem consideradas na operação do SIN.
+Endereço na internet: http://www.ons.org.br 3 / 7
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação mensal da operação energética 4.3 Responsabilidades 2020.12 01/01/2021
+(h) Disponibilizar aos agentes envolvidos e à Câmara de Comercialização de Energia Elétrica – CCEE as
+bases de dados dos modelos de otimização de médio prazo e de curto prazo, utilizadas na elaboração
+do estudo.
+(i) Disponibilizar à Agência Nacional de Energia Elétrica – ANEEL análise prospectiva dos custos marginais
+de operação dos subsistemas que compõem o SIN.
+(j) Informar à ANEEL, conforme [1], quando da identificação de inconsistência no tratamento de
+informações para a elaboração do PMO ou suas revisões, cujos resultados já tenham sido
+disponibilizados, e apresentar documento contendo o apontamento da inconsistência encontrada,
+bem como as propostas de ação de melhorias no processo.
+(k) Disponibilizar à ANEEL, na elaboração do PMO, as informações necessárias para a sinalização do
+acionamento do mecanismo das bandeiras tarifárias para o mês de estudo.
+3.2. Agentes de geração 1
+(a) Fornecer ao ONS, nos formatos, meios e prazos estabelecidos, os dados de usinas simuladas
+individualmente nos modelos energéticos necessários para a realização do PMO e suas revisões.
+(b) Analisar os dados identificados pelo ONS como inconsistentes e, caso pertinente, executar as devidas
+alterações e informar ao ONS ou, caso não seja considerado pertinente, informar com as devidas
+justificativas.
+(c) Analisar os dados e resultados disponibilizados pelo ONS e submeter eventuais comentários e as
+necessidades de alterações detectadas.
+(d) Implantar os resultados e determinações dos estudos.
+3.3. Agente comercializador da Itaipu Binacional
+(a) Fornecer ao ONS, nos formatos, meios e prazos estabelecidos, os dados necessários para a realização
+do PMO e suas revisões.
+(b) Analisar os dados identificados pelo ONS como inconsistentes e, caso pertinente, executar as devidas
+alterações e informar ao ONS ou, caso não seja considerado pertinente, informar com as devidas
+justificativas.
+(c) Analisar os dados e resultados disponibilizados pelo ONS e submeter eventuais comentários e as
+necessidades de alterações detectadas.
+(d) Implantar os resultados e determinações dos estudos.
+3.4. Agentes de importação e exportação
+(a) Fornecer ao ONS, nos formatos, meios e prazos estabelecidos, os dados necessários para a realização
+do PMO e suas revisões.
+1 Os agentes de geração considerados neste submódulo são aqueles detentores, por concessão ou
+autorização, de usinas e reservatórios simulados individualmente nos modelos energéticos.
+Endereço na internet: http://www.ons.org.br 4 / 7
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação mensal da operação energética 4.3 Responsabilidades 2020.12 01/01/2021
+(b) Analisar os dados identificados pelo ONS como inconsistentes e, caso pertinente, executar as devidas
+alterações e informar ao ONS ou, caso não seja considerado pertinente, informar com as devidas
+justificativas.
+(c) Analisar os dados e resultados disponibilizados pelo ONS e submeter eventuais comentários e as
+necessidades de alterações detectadas.
+(d) Implantar os resultados e determinações dos estudos.
+4. PRAZOS
+Quadro 1 - Prazos para a elaboração do PMO
+Periodi-
+Atividade Responsável Prazo Horizonte
+cidade
+Até 60 meses à
+frente, referente
+ao modelo de
+Disponibilização otimização de
+Até o 1º dia útil da
+dos arquivos de médio prazo
+semana da Reunião
+1 dados preliminares ONS Mensal
+Plenária do PMO em
+do PMO, conforme 2 meses à frente,
+estudo
+[1] referente ao
+modelo de
+otimização de
+curto prazo
+Envio das
+Agentes de
+informações
+geração,
+referentes ao Até às 17h00min do 3º
+importação e de
+modelo de dia útil que antecede à
+2 exportação e Mensal 2 meses à frente
+otimização curto Reunião Plenária do
+agente
+prazo necessárias à PMO em estudo
+comercializador de
+elaboração do
+Itaipu Binacional
+PMO
+Envio das Conforme estabelecido
+informações Agentes de no Submódulo 3.3 –
+referente ao geração, Planejamento da
+modelo de importação e de operação energética de
+Quadri Até 60 meses à
+3 otimização de exportação e médio prazo, referente
+mestral frente
+médio prazo agente às atualizações dos
+necessárias à comercializador de estudos do ciclo anual
+elaboração do Itaipu Binacional de planejamento da
+PMO operação energética
+Endereço na internet: http://www.ons.org.br 5 / 7
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação mensal da operação energética 4.3 Responsabilidades 2020.12 01/01/2021
+Periodi-
+Atividade Responsável Prazo Horizonte
+cidade
+Agentes de
+Envio de geração,
+Até às 14h00min do dia Quando
+retificações de importação e de
+útil que antecede à neces-
+4 dados para exportação e 2 meses à frente
+Reunião Plenária do sário,
+elaboração do agente
+PMO em estudo mensal
+PMO comercializador de
+Itaipu Binacional
+Até 60 meses à
+frente, referente
+Disponibilização ao modelo de
+aos agentes das Até às 18 horas do dia otimização de
+bases de dados dos útil que antecede a médio prazo
+5 modelos de ONS primeira semana Mensal
+otimização de operativa do mês do 2 meses à frente,
+médio e curto PMO referente ao
+prazo modelo de
+otimização de
+curto prazo
+Até às 18 horas do dia
+Disponibilização do útil que antecede a Até 60 meses à
+6 ONS Mensal
+PMO primeira semana frente
+operativa do mês PMO
+Até 60 meses à
+frente, referente
+ao modelo de
+Disponibilização à
+otimização de
+CCEE das bases de
+médio prazo
+dados dos modelos Conforme Acordo
+7 ONS Mensal
+de otimização de Operativo ONS-CCEE
+2 meses à frente,
+médio e curto
+referente ao
+prazo
+modelo de
+otimização de
+curto prazo
+Endereço na internet: http://www.ons.org.br 6 / 7
+Procedimentos de Rede - Módulo 4 – Programação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Programação mensal da operação energética 4.3 Responsabilidades 2020.12 01/01/2021
+Quadro 2 - Prazos para a elaboração de revisão semanal do PMO
+Atividade Responsável Prazo Periodicidade Horizonte
+Até às 11h00min do
+Envio das informações Até o final do
+Agentes dia útil que antecede
+1 necessárias às revisões Semanal segundo mês
+envolvidos a elaboração da
+semanais do PMO do estudo
+revisão
+Envio de retificações de Até às 10h00min do Quando Até o final do
+Agentes
+2 dados para as revisões dia da elaboração da necessário, segundo mês
+envolvidos
+semanais do PMO revisão semanal do estudo
+Até às 18 horas do
+Disponibilização da base de Até o final do
+dia útil que antecede
+3 dados do modelo de curto ONS Semanal segundo mês
+a primeira semana
+prazo aos agentes do estudo
+operativa do estudo
+Até às 18 horas do
+Até o final do
+Disponibilização da revisão dia útil que antecede
+4 ONS Semanal segundo mês
+semanal do PMO a primeira semana
+do estudo
+operativa do estudo
+Disponibilização da base de Conforme Acordo Até o final do
+5 dados do modelo de curto ONS Operativo entre as Semanal segundo mês
+prazo à CCEE instituições do estudo
+5. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa nº 843, de 2 de abril de 2019.
+Endereço na internet: http://www.ons.org.br 7 / 7

@@ -1,0 +1,73 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Autorização
+TITULO: AUTORIZAÇÃO SDL-ANP Nº 82, DE 10 DE FEVEREIRO DE 2026
+DATA_PUBLICACAO: 11/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=11/02/2026&jornal=515&pagina=90
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional do Petróleo, Gás Natural e Biocombustíveis/Superintendência de Distribuição e Logística
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+AUTORIZAÇÃO SDL-ANP Nº 82, DE 10 DE FEVEREIRO DE 2026
+O SUPERINTENDENTE DE DISTRIBUIÇÃO E LOGÍSTICA da AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS - ANP, no uso das atribuições que lhe foram conferidas pela Portaria ANP nº 265, de 10 de setembro de 2020, tendo em vista o disposto na Lei nº 9.478, de 6 de agosto de 1997, considerando as disposições da Resolução ANP nº 960, de 5 de outubro de 2023, e o que consta do processo nº 48610.224431/2025-74, resolve: autorizar a empresa CENTROESTE DISTRIBUIÇÃO DE DERIVADOS DE PETRÓLEO S/A, CNPJ nº 48.700.586/0001-23, a operar a instalação de distribuição de combustíveis líquidos, exceto combustíveis de aviação, localizada a Rua Brasil 1.150, Loteamento Alto da Gloria, Sinop/MT, 78558-490 [Coordenadas Geográficas Aproximadas (Latitude, Longitude): -11:59:28,800; -55:30:59,600 (SIRGAS 2000)]. A capacidade total de armazenamento é de 2.920,00 m³. Fica revogada a Autorização SDL-ANP nº 881-A, de 20 de novembro de 2023.
+
+
+TQ
+Ø
+(m)
+Altura/
+Comp. (m)
+Capacidade
+(m³)
+Classe
+Tipo
+1
+8,00
+6,00
+300,00
+I, II ou III
+Vertical Aéreo
+2
+6,00
+5,40
+150,00
+I, II ou III
+Vertical Aéreo
+3
+6,00
+5,40
+150,00
+I, II ou III
+Vertical Aéreo
+4
+6,90
+5,40
+200,00
+I, II ou III
+Vertical Aéreo
+5
+12,00
+8,85
+1.000,00
+I, II ou III
+Vertical Aéreo
+6
+12,00
+8,85
+1.000,00
+II ou III
+Vertical Aéreo
+7
+2,54
+12,00
+60,00
+III
+Horizontal Subterrâneo
+8
+2,54
+12,00
+60,00
+III
+Horizontal Subterrâneo
+DIOGO VALERIO

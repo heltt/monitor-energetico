@@ -1,0 +1,28 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 26/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=26/02/2026&jornal=515&pagina=67
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado do Pará
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 52/2026
+Fase de Requerimento de Lavra Garimpeira
+Indefere por Interferencia Total(1339)
+850.449/2024-COOPERATIVA BOM JESUS
+Fase de Requerimento de Pesquisa
+Homologa desistência do requerimento de Autorização de Pesquisa(157)
+850.747/1984-BEST METAIS E SOLDAS S.A.
+Determina arquivamento definitivo do processo(155)
+850.747/1984-BEST METAIS E SOLDAS S.A.
+Indefere requerimento de pesquisa por interferência total(121)
+850.333/2021-ANTÔNIO REGINALDO ROCHA MORAES
+850.896/2020-PATIUM BENEFICIAMENTO DE MINERIO 1 LTDA
+Determina cumprimento de exigência - Prazo 60 dias(131)
+850.526/2025-BRASMIN MINERACAO LTDA-OF. N°9103/2026/COROUT-PA/AP/ANM
+RAIMUNDO QUEIROZ DE ALMEIDA
+Gerente Interino

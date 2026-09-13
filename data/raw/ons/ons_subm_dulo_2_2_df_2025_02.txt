@@ -1,0 +1,86 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 2.2-DF_2025.02
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 2.2-DF_2025.02.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 2.2
+Definição das instalações estratégicas
+Definição
+Revisão Motivo da revisão Data de aprovação
+2025.02 Despacho ANEEL nº 370/2025 27/02/2025
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Definição das instalações estratégicas 2.2 Definição 2025.02 01/05/2025
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. RESPONSABILIDADES.......................................................................................................................3
+2.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+2.2. Agentes de operação.....................................................................................................................3
+3. IDENTIFICAÇÃO DAS INSTALAÇÕES ESTRATÉGICAS...........................................................................3
+4. PRAZOS............................................................................................................................................6
+5. REFERÊNCIAS...................................................................................................................................6
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Definição das instalações estratégicas 2.2 Definição 2025.02 01/05/2025
+1. OBJETIVO
+1.1. Estabelecer os critérios para identificação das instalações estratégicas da Rede do Operação do Sistema
+Interligado Nacional (SIN), com o objetivo de subsidiar:
+(a) os critérios para intervenções definidos no Submódulo 2.3 - Premissas, critérios e metodologia para
+estudos elétricos e Submódulo 2.5 - Critérios para Operação;
+(b) a definição de requisitos no Submódulo 2.12 – Requisitos mínimos de supervisão e controle para a
+operação, Submódulo 2.15 – Requisitos mínimos para telecomunicações e Submódulo 2.16 –
+Requisitos operacionais para centros de operação e instalações da Rede de Operação;
+(c) o processo descrito no Submódulo 5.10 – Operação teleassistida das instalações da Rede de
+Operação; e
+(d) o processo descrito no Submódulo 6.9 – Acompanhamento da manutenção de equipamentos e linhas
+de transmissão.
+2. RESPONSABILIDADES
+2.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Manter atualizada a relação das instalações estratégicas.
+(b) Disponibilizar publicamente a relação das instalações estratégicas.
+2.2. Agentes de operação
+(a) Fornecer as informações necessárias às análises para caracterização das instalações estratégicas.
+(b) Acompanhar a relação de instalação estratégicas publicada pelo ONS.
+(c) Adequar suas instalações e seus processos às exigências decorrentes da classificação como instalação
+estratégica.
+3. IDENTIFICAÇÃO DAS INSTALAÇÕES ESTRATÉGICAS
+3.1. São consideradas instalações estratégicas:
+(a) os barramentos e seus módulos de conexão da Rede de Operação cujo nível de tensão seja igual ou
+superior a 500 kV; e
+(b) as usinas, os barramentos e seus módulos de conexão da Rede de Operação que participam dos
+corredores fluentes de recomposição cuja indisponibilidade inviabiliza a tomada de carga no processo
+de recomposição do corredor associado.
+3.1.1. O ONS classifica as instalações estratégicas que participam dos corredores fluentes de recomposição
+conforme o Submódulo 3.10 – Estudos para a segurança operacional elétrica, com base nos critérios para
+estudos elétricos estabelecidos no Submódulo 2.3 – Premissas, critérios e metodologia para estudos
+elétricos.
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Definição das instalações estratégicas 2.2 Definição 2025.02 01/05/2025
+3.2. O ONS apresenta a relação dos barramentos e usinas classificadas como instalações estratégicas no
+cadastro específico do Submódulo 5.11 – Cadastro de Informações Operacionais.
+3.3. As instalações classificadas como estratégicas conforme item 3.1. (a) devem atender aos critérios,
+requisitos e processos específicos para instalações estratégicas desde sua entrada em operação.
+3.4. As instalações classificadas como estratégicas conforme item 3.1. (b) devem se adequar:
+(a) ao Submódulo 2.15, nos prazos definido neste submódulo;
+(b) no caso de instalações teleassistidas, aos demais requisitos do Submódulo 2.12, Submódulo 2.15
+e Submódulo 2.16, no prazo definido neste submódulo, bem como ao processo descrito
+Submódulo 5.10, ou alterar seu regime para operação local ininterrupta; e
+(c) ao processo descrito no Submódulo 6.9.
+3.4.1. As adequações relativas ao item 3.4. (a) são incluídas no Plano de Outorgas de Transmissão de Energia
+Elétrica (POTEE), conforme o Submódulo 3.1 – Planejamento da operação elétrica de médio prazo.
+4. PRAZOS
+Quadro 1 – Prazo para adequação das instalações estratégicas
+Atividade Responsável Prazo
+Até 18 meses após a publicação do cadastro
+Adequação das instalações Agente de
+1 específico do Submódulo 5.11 com a classificação
+classificadas como estratégicas operação
+da instalação como estratégica.
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 4 / 4

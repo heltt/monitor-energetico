@@ -1,0 +1,209 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 3.12-OP_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 3.12-OP_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 3.12
+Estudos de curto-circuito
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos de curto-circuito 3.12 Operacional 2020.12 01/01/2021
+ÍNDICE
+1. OBTENÇÃO, CONSOLIDAÇÃO E MANUTENÇÃO DOS DADOS DE CURTO-CIRCUITO............................3
+1.1. Obtenção de dados.......................................................................................................................3
+1.2. Consolidação dos dados e interação com os agentes...................................................................3
+1.3. Manutenção da base de dados de operação para estudos de curto-circuito...............................3
+2. ELABORAÇÃO E EMISSÃO DOS CASOS DE REFERÊNCIA, RELATÓRIOS E DIAGRAMAS DE
+IMPEDÂNCIAS..................................................................................................................................3
+2.1. Criação dos casos de referência para estudos de curto-circuito...................................................3
+2.2. Elaboração do Relatório dos Estudos de Curto-Circuito...............................................................4
+2.3. Elaboração do Relatório dos Reatores Equivalentes nas Barras do SIN para Simulação de Curto-
+Circuito Monofásico em Estudos de Transitórios Eletromecânicos..............................................4
+2.4. Divulgação preliminar, consolidação e emissão dos relatórios.....................................................5
+2.5. Elaboração e disponibilização dos diagramas de impedâncias.....................................................5
+3. REFERÊNCIAS...................................................................................................................................5
+4. ANEXOS...........................................................................................................................................5
+ANEXO A...................................................................................................................................................6
+Endereço na internet: http://www.ons.org.br 2 / 7
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos de curto-circuito 3.12 Operacional 2020.12 01/01/2021
+1. OBTENÇÃO, CONSOLIDAÇÃO E MANUTENÇÃO DOS DADOS DE CURTO-CIRCUITO
+1.1. Obtenção de dados
+1.1.1. Os agentes informam os parâmetros dos equipamentos, com seus valores em percentual na potência
+base de 100 MVA e respectivas bases nominais de tensão, em duas etapas:
+(a) na primeira, os agentes fornecem ao Operador Nacional do Sistema Elétrico – ONS os parâmetros
+definidos nos projetos básicos durante a fase de solicitação de acesso. Nos casos em que ainda não
+estiver definido qual é o agente responsável pelo empreendimento, o ONS utiliza parâmetros típicos;
+e
+(b) na segunda, quando da entrada em operação dos equipamentos, os agentes fornecem ao ONS os
+parâmetros definitivos.
+1.2. Consolidação dos dados e interação com os agentes
+1.2.1. O ONS insere os dados enviados pelos agentes na base de dados de operação e nos casos de referência,
+e verifica sua consistência.
+1.2.2. O ONS disponibiliza para comentários de todos os agentes a base de dados de operação, os casos de
+referência e os arquivos de alteração.
+1.2.3. O ONS realiza as eventuais correções informadas pelos agentes e valida a base de dados de operação,
+os casos de referência e os arquivos de alteração.
+1.2.4. O ONS consolida a base de dados de operação e os casos de referência para a realização dos estudos
+definidos neste submódulo.
+1.3. Manutenção da base de dados de operação para estudos de curto-circuito
+1.3.1. Na base de dados de operação, são incluídos apenas os equipamentos que efetivamente estejam
+disponíveis para operação.
+1.3.2. Os agentes encaminham ao ONS os seguintes conjuntos de dados:
+(a) alterações ocorridas em seus sistemas, tais como substituição de equipamentos, alterações de
+configurações e entrada de novos equipamentos, no formato padronizado pelo ONS; e
+(b) capacidade de interrupção simétrica dos disjuntores de suas instalações.
+1.3.2.1. Os arquivos relativos às alterações da base de dados de operação contêm as obras comentadas,
+individualmente, em formato definido pelo ONS e discriminadas por região, conforme padrão apresentado
+no ANEXO A deste submódulo. No arquivo de alteração, a exclusão ou modificação de parâmetros deve
+implicar comentário(s), onde constam os parâmetros retirados ou definidos antes da alteração, como
+exemplificado no ANEXO A.
+1.3.3. O ONS envia aos agentes a base de dados de operação e o arquivo de alteração para comentários e,
+após consolidação, disponibiliza a base de dados no site do ONS.
+2. ELABORAÇÃO E EMISSÃO DOS CASOS DE REFERÊNCIA, RELATÓRIOS E DIAGRAMAS DE IMPEDÂNCIAS
+2.1. Criação dos casos de referência para estudos de curto-circuito
+Endereço na internet: http://www.ons.org.br 3 / 7
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos de curto-circuito 3.12 Operacional 2020.12 01/01/2021
+2.1.1. O ONS elabora o caso de referência do ano em curso, para o qual utiliza como ponto de partida a base
+de dados de operação de curto-circuito vigente.
+2.1.2. A partir da relação de obras constantes no Plano da Operação Elétrica de Médio Prazo (PEL) e dos
+casos de fluxo de potência anual, o ONS gera arquivo de alteração para registro dos parâmetros dos novos
+componentes e atualização dos parâmetros dos componentes existentes.
+2.1.2.1. Os casos de referência correspondentes a até 5 (cinco) anos à frente são elaborados a partir do caso
+de referência do ano em curso, e os arquivos de alteração para cada um dos 5 (cinco) anos do horizonte do
+Plano de Ampliações e Reforços (PAR) são elaborados a partir da relação de obras constantes no PAR e nos
+casos de fluxo de potência.
+2.1.2.2. Os arquivos relativos às alterações da base de dados contêm as obras recomendadas
+individualmente e discriminadas por região.
+2.1.3. O ONS envia aos agentes todos os arquivos de alterações e casos de referência para comentários e,
+após consolidação, disponibiliza-os no site do ONS.
+2.2. Elaboração do Relatório dos Estudos de Curto-Circuito
+2.2.1. Após a consolidação da base de dados de operação e dos casos de referência, o ONS elabora o
+Relatório dos Estudos de Curto-Circuito, que contém:
+(a) dados consolidados para quaisquer estudos de proteção;
+(b) identificação das barras monitoradas cujo nível de curto-circuito (monofásico, trifásico ou bifásico-
+terra) tenha atingido valor mínimo para efetuação de estudo mais detalhado, indicado no Submódulo
+2.3 – Premissas, critérios e metodologia para estudos elétricos, em relação à capacidade de
+interrupção simétrica do disjuntor de menor capacidade daquela barra;
+(c) identificação da principal obra para as instalações que apresentem disjuntores em estado de alerta
+ou superados, e ainda não indicados para substituição;
+(d) identificação das barras monitoradas cuja variação percentual dos níveis de curto-circuito
+(monofásico, trifásico ou bifásico-terra) no horizonte de 1 (um) ano à frente em relação ao ano em
+curso tenha atingido os valores indicados no Submódulo 2.3;
+(e) identificação dos disjuntores superados pela capacidade de interrupção simétrica ou dos disjuntores
+em estado de alerta; e
+(f) relação de barras cujos disjuntores devem ser analisados pelo agente segundo o critério de superação
+por X/R, de acordo com documento disponível no site do ONS [1].
+2.2.1.1. A capacidade de interrupção simétrica dos disjuntores é avaliada pela relação entre os níveis de
+curto-circuito na barra (monofásico, trifásico e bifásico-terra) e o valor da capacidade de interrupção
+simétrica do menor disjuntor do barramento. Quando uma dessas relações atinge o valor mínimo, indicado
+no Submódulo 2.3, o ONS realiza estudo mais detalhado – estudo de corrente passante –, que visa à
+identificação da corrente que efetivamente passa pelo disjuntor e, por conseguinte, sua classificação como
+em estado de alerta ou superado por corrente de curto-circuito simétrica.
+2.3. Elaboração do Relatório dos Reatores Equivalentes nas Barras do SIN para Simulação de Curto-
+Circuito Monofásico em Estudos de Transitórios Eletromecânicos
+2.3.1. O ONS elabora o Relatório dos Reatores Equivalentes nas Barras do Sistema Interligado Nacional (SIN)
+para Simulação de Curto-Circuito Monofásico em Estudos de Transitórios Eletromecânicos, que apresenta os
+valores das impedâncias de barras de sequências positiva e zero, os valores de reatores equivalentes e os
+Endereço na internet: http://www.ons.org.br 4 / 7
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos de curto-circuito 3.12 Operacional 2020.12 01/01/2021
+valores da tensão de sequência positiva para o curto-circuito monofásico nas diversas barras, com tensão
+igual ou superior a 69 kV, existentes na base de dados de curto-circuito.
+2.4. Divulgação preliminar, consolidação e emissão dos relatórios
+2.4.1. O ONS envia os relatórios de estudos de curto-circuito e dos reatores equivalentes nas barras do SIN,
+por meio eletrônico, para os representantes dos agentes, a fim de obter sugestões de aperfeiçoamento.
+2.4.2. Transcorrido o prazo de envio de eventuais contribuições, o ONS consolida, divulga para os agentes e
+disponibiliza os relatórios no site do ONS.
+2.5. Elaboração e disponibilização dos diagramas de impedâncias
+2.5.1. Quando solicitado pelo agente, o ONS elabora e disponibiliza os diagramas de impedância referentes
+à área de interesse nas configurações dos horizontes desejados.
+2.5.1.1. Os diagramas de impedância consistem na representação gráfica da base de dados de curto-circuito
+que é feita a partir dos diagramas unifilares das instalações e incluem o valor das impedâncias de sequências
+positiva e zero.
+3. REFERÊNCIAS
+[1] ONS. Critérios para Análise de Superação de Equipamentos e Instalações de Alta Tensão. Nota Técnica
+ONS nº 0048/2014.
+4. ANEXOS
+Anexo A – Formato padronizado dos cartões DBAR, DCIR, DMUT, DSHL e DEOL do programa ANAFAS
+Endereço na internet: http://www.ons.org.br 5 / 7
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos de curto-circuito 3.12 Operacional 2020.12 01/01/2021
+ANEXO A
+Formato padronizado dos cartões DBAR, DCIR, DMUT, DSHL e DEOL do programa ANAFAS
+(-------------------------------------------------------------------------
+(- EMPREENDIMENTO : (DESCRIÇÃO DO EMPREENDIMENTO) -
+(- EMPREENDEDOR : (AGENTE) -
+(- PREVISÃO : (PREVISÃO DE ENTRADA EM OPERAÇÃO DO COMPONENTE) -
+(- DESCRIÇÃO : (BREVE DESCRIÇÃO DOS EQUIPAMENTOS ASSOCIADOS AO EMPREENDIMENTO) -
+(- OBSERVAÇÕES : (OBSERVAÇÕES DIVERSAS SOBRE OS PARÂMETROS) -
+(-------------------------------------------------------------------------
+DBAR
+(---------------------Dados de Barra---------------------------------------)
+(NB CEM BN VPRE ANG VBAS DISJUN DDMMAAAADDMMAAAA IA SA
+(----=-= ------------ ----==== ---- ------ --------======== ---===
+9104 2 A#BP_RP 230A 230 90
+9105 2 A#BP_RP 230B 230 90
+99999
+DCIR
+(---------------------Dados de Circuitos-------------------------------------------------
+-----------------------------------------------------------------------------------------
+-----------------------------------------)
+(BF CE BT NCT R1 X1 R0 X0 CN S1 S0 TAP TB TCIA DEFE KM
+SA NunNop DJ_BF CicDJ_BT Cic DDMMAAAADDMMAAAA M.V.A TD
+NOME EXTENSO
+(----=-===== --=------======------======------=====-----=====-----==---===-====
+=== ===--- ======---======--- ========-------- ===== ==
+--------------------
+(9100 9140 164 1246 1789 6545AGENTE 90 50
+9100 1 9140
+9140 9104 1L 164 1246 1789 6545AGENTE 90 50
+9100 9104 1S -623 -623AGENTE 90 50
+(
+(9018 9140 376 2068 1641 6881AGENTE 90 50
+(9025 9018 149 1609 1987 6119AGENTE 90 50
+9100 9105 1S -620 -620AGENTE 90 50
+9105 9140 1L 376 2068 1641 6881AGENTE 90 50
+(
+0 9100 1H X X 50000AGENTE 90 50
+99999
+DSHL
+(-------------------Dados de Shunt de Linha-----------------------------------)
+(BF CE BT NCTNG Qpos L Rn Xn E Nome NunNop IA SA
+Nome Estendido
+Endereço na internet: http://www.ons.org.br 6 / 7
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos de curto-circuito 3.12 Operacional 2020.12 01/01/2021
+(----=-===== ==-== ====== =------======-====== ===--- ---===
+====================
+9018 9140 1 100.
+99999
+DMUT
+(---------------------Dados de Mutua---------------------------------------)
+(BF1 CE BT1 N1 BF2 BT2 N2 RM XM %I1 %F1 %I2 %F2 IA SA
+(----=-===== ==----- ===== ==------====== ------======------======---===
+(9025 9018 205 2100 1747 3228 90
+(9018 9140 2100 2140 1457 2692 90
+9321 9331 2100 2330 1747 3228 90
+9140 9104 2140 2105 1457 2692 90
+99999
+DEOL
+(-------------------Dados de Gerador Eolico-----------------------------------)
+(NB CE NG P_inic I_max V_min FP_CCNNNNNN NunNop FP_pre IA SA DisjunCic M.V.A
+DDMMAAAADDMMAAAA Nome Estendido
+(----=- == ======------======------====== ===--- ------ ===--- ======--- =====
+========-------- ====================
+9200 1 0.8 1600 0.15 0.95 6 6 1 80
+99999
+Endereço na internet: http://www.ons.org.br 7 / 7

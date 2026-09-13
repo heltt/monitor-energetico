@@ -1,0 +1,195 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 2.15-RQ_2021.06
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 2.15-RQ_2021.06.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 2.15
+Requisitos mínimos para
+telecomunicações
+Requisitos
+Revisão Motivo da revisão Data de aprovação
+2021.06 Despacho ANEEL nº 1.895/2021 29/06/2021
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para telecomunicações 2.15 Requisitos 2021.06 02/07/2021
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. CLASSES DE SERVIÇO DE VOZ E DE DADOS.......................................................................................3
+2.1. Requisitos gerais............................................................................................................................3
+2.2. Classe A.........................................................................................................................................3
+2.3. Classe B..........................................................................................................................................3
+2.4. Classe C..........................................................................................................................................3
+3. QUALIDADE.....................................................................................................................................4
+4. CONFIGURAÇÃO DE VOZ E DE DADOS..............................................................................................4
+4.1. Hierarquia do sistema de comunicação........................................................................................4
+4.2. Comunicação de voz......................................................................................................................5
+4.3. Comunicação de dados.................................................................................................................6
+5. REFERÊNCIAS...................................................................................................................................7
+Endereço na internet: http://www.ons.org.br 2 / 7
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para telecomunicações 2.15 Requisitos 2021.06 02/07/2021
+1. OBJETIVO
+1.1. Estabelecer os requisitos dos serviços de telecomunicações usados para:
+(a) dar suporte às atribuições do ONS; e
+(b) viabilizar a teleassistência.
+2. CLASSES DE SERVIÇO DE VOZ E DE DADOS
+2.1. Requisitos gerais
+2.1.1. Para atender à operação do Sistema Interligado Nacional (SIN), o serviço de telecomunicações deve
+dispor de serviços de comunicação de voz e de dados, em conformidade com este submódulo e com o
+Submódulo 9.6 – Indicadores de desempenho dos sistemas de supervisão e controle e dos serviços de
+telecomunicações. Esses serviços devem ser oferecidos em três classes: Classe A, Classe B e Classe C.
+2.2. Classe A
+2.2.1. O serviço Classe A deve apresentar disponibilidade total de 99,98%, apurada mensalmente, cujo valor
+de referência é o somatório dos últimos 12 (doze) meses. Isso implica uma indisponibilidade máxima total,
+num período de 12 (doze) meses, de 1 (uma) hora e 45 (quarenta e cinco) minutos.
+2.2.2. Este serviço deve ser prestado com recursos de telecomunicações independentes disponibilizados por
+meio de duas rotas, também independentes, com uma disponibilidade individual de pelo menos 99,00%.
+2.2.3. Para os serviços de Classe A que possuírem uma de suas extremidades em instalações do ONS, um
+circuito deve ser direcionado para a localidade onde se encontra o Sistema Local de Aquisição (SAL) e a outra
+para a localidade onde se encontra o Sistema Remoto de Aquisição de Dados (SAR).
+2.2.4. Os canais com uma das extremidades no ONS devem ser monitorados por este. Os agentes devem
+disponibilizar equipamentos, que permitam a realização desta monitoração, configurados para aceitar
+protocolos ICMP (Internet Control Message Protocol) e consultas SNMP (Simple Network Management
+Protocol).
+2.3. Classe B
+2.3.1. O serviço Classe B deve apresentar disponibilidade total igual ou superior a 99,00%, apurada
+mensalmente, cujo valor de referência é o somatório dos últimos 12 (doze) meses. A indisponibilidade
+máxima total num período de 12 (doze) meses para o serviço Classe B é de 87 (oitenta e sete) horas e 36
+(trinta e seis) minutos.
+2.3.2. Quando se tratar de comunicação com o ONS, o serviço Classe B deve ser disponibilizado pelo agente
+na localidade designada pelo ONS.
+2.3.2.1. Estes canais devem ser monitorados pelo ONS. Os agentes devem disponibilizar equipamentos, que
+permitam a realização desta monitoração, configurados para aceitar protocolos ICMP (Internet Control
+Message Protocol) e consultas SNMP (Simple Network Management Protocol).
+2.3.3. O agente pode ser chamado a instalar um segundo canal de comunicação de dados e/ou voz quando
+um único canal não estiver atendendo a disponibilidade requerida. Neste caso, o segundo canal deve,
+também, ser instalado na localidade indicada pelo ONS.
+Endereço na internet: http://www.ons.org.br 3 / 7
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para telecomunicações 2.15 Requisitos 2021.06 02/07/2021
+2.4. Classe C
+2.4.1. O serviço de Classe C pode ser atendido por canais de telefonia pública comutada, que não serão
+monitorados.
+3. QUALIDADE
+3.1. Todos os serviços de interesse do ONS realizados sobre sistemas de transmissão de dados, puramente
+digitais, devem atender aos requisitos estabelecidos nesta seção.
+3.2. Requisito qualitativo dos circuitos: a taxa de erro de bit, medida durante 15 (quinze) minutos, deve ser
+igual a 0 (zero), para qualquer taxa de transmissão igual ou superior a 64 Kbps em, pelo menos, uma medida
+entre três realizadas.
+3.3. No caso de uso de canais de voz com compressão, são admitidas as subtaxas de 8 Kbps (ITU-T G.729) e
+16 Kbps (ITU-T G.728), desde que não sejam utilizadas mais do que três seções com compressão em cascata.
+3.4. No caso de uso de redes para o provimento dos serviços, deve-se atender:
+(a) latência (round trip):  140 ms;
+(b) variação estatística do retardo:  20 ms; e
+(b) taxa de perda de pacotes:  1%.
+3.5. No caso de uso de redes baseadas em satélites para o provimento dos serviços, deve-se atender:
+(a) latência (round trip):  700 ms;
+(b) variação estatística do retardo:  90 ms;
+(b) taxa de perda de pacotes: < 1%.
+3.5.1. O uso de satélites só é permitido quando for comprovada a impossibilidade técnica ou inviabilidade
+econômica de provimento através de outros meios.
+3.5.2. É vedada a instalação de antena nas instalações do ONS. A antena deve ser instalada nas dependências
+do provedor de telecomunicações e a última milha, até o ONS, deve ser provida por enlace terrestre.
+4. CONFIGURAÇÃO DE VOZ E DE DADOS
+4.1. Hierarquia do sistema de comunicação
+4.1.1. A Figura 1 apresenta a hierarquia do sistema de comunicação e as possíveis configurações dos serviços
+de comunicação de voz e de dados para suporte às atividades da operação, considerando os centros de
+operação do ONS e os centros de operação dos agentes de operação.
+Endereço na internet: http://www.ons.org.br 4 / 7
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para telecomunicações 2.15 Requisitos 2021.06 02/07/2021
+Figura 1 - Configurações possíveis para os serviços de telecomunicações de voz e/ou de dados, considerando os
+centros de operação do ONS
+4.2. Comunicação de voz
+4.2.1. Os serviços de comunicação de voz devem suportar as atividades de normatização, pré-operação,
+operação em tempo real, pós-operação, apoio e coordenação de telecomunicações, planejamento e
+programação da operação.
+4.2.2. O ONS se comunica por voz diretamente com a instalação do agente de operação quando este não
+tem centro de operação concentrando a supervisão de suas instalações.
+4.2.3. Para suporte às atividades de operação em tempo real:
+(a) Devem ser disponibilizados serviços de telefonia direta Classe A entre os:
+(1) centros de operação do ONS (sob responsabilidade do ONS);
+(2) centros de operação do ONS e os centros dos agentes;
+(3) centros de operação do ONS e as instalações da Rede de Operação e Supervisão que se relacionam
+diretamente com algum centro de operação do ONS, exceto:
+(i) as usinas classificadas em modalidade de operação Tipo II-A, conforme o Submódulo 7.2 –
+Classificação da modalidade de operação de usinas; e
+(ii) os conjuntos de usinas classificadas em modalidade de operação Tipo II-C conectados na rede
+de distribuição ou em Demais Instalações de Transmissão (DIT);
+(4) os centros de operação dos agentes e as suas respectivas instalações estratégicas, classificadas
+conforme critérios definidos no Submódulo 2.2 – Definição das instalações estratégicas; e
+(5) os centros de operação dos agentes que compartilham instalações.
+(b) Devem ser disponibilizados, pelo menos, serviços de telefonia direta Classe B entre:
+Endereço na internet: http://www.ons.org.br 5 / 7
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para telecomunicações 2.15 Requisitos 2021.06 02/07/2021
+(1) os centros de operação do ONS e as usinas em modalidade de operação Tipo II-A que se
+comunicam diretamente com algum centro de operação do ONS;
+(2) os centros de operação do ONS e os conjuntos de usinas em modalidade de operação Tipo II-C
+conectados na rede de distribuição ou em DIT, que se comunicam diretamente com algum centro
+de operação do ONS;
+(3) os centros de operação dos agentes e as suas respectivas instalações não estratégicas; e
+(4) entre o centro de operação local do agente e as subestações envolvidas.
+4.2.4. Para suporte às demais atividades, o serviço de comunicação de voz pode ser atendido através de
+telefonia comutada – Classe C.
+4.3. Comunicação de dados
+4.3.1. Os serviços de comunicação de dados devem suportar as atividades de normatização, pré-operação,
+operação em tempo real, pós-operação, planejamento e programação da operação.
+4.3.2. Para suporte às atividades da operação em tempo real:
+(a) Devem ser disponibilizados serviços Classe A:
+(1) entre os centros de operação do ONS (sob responsabilidade do ONS);
+(2) entre os centros de operação do ONS e os centros de operação dos agentes de operação com os
+quais o ONS se relaciona;
+(3) entre os centros de operação do ONS e as instalações de transmissão e de geração, para atender
+aos requisitos de Controle Automático de Geração (CAG);
+(4) entre os centros de operação do ONS e as instalações de transmissão e geração que sejam
+supervisionadas diretamente pelo ONS, exceto:
+(i) as usinas em modalidade de operação Tipo II-A e Tipo II-B; e
+(ii) os conjuntos de usinas classificadas em modalidade de operação Tipo II-C conectados na rede
+de distribuição ou em DIT;
+(5) entre as instalações dos agentes que devem coletar e enviar os dados sincrofasoriais para os
+centros de operação do ONS;
+(i) o primeiro canal de comunicação deve conectar a PMU (Phasor Measurement Unit) com o
+Sistema de Aquisição de Dados Local do Rio de Janeiro (SAL-RIO) e o segundo canal de
+comunicação deve conectar a PMU com o Sistema de Aquisição de Dados Local de Brasília (SAL-
+BSB);
+(6) entre os centros de operação do agente e as suas respectivas instalações teleassistidas,
+desprovidas de assistência local ininterrupta, classificadas como instalações estratégicas
+classificadas conforme critérios definidos no Submódulo 2.2.
+(i) O próprio agente deve monitorar, registrar e apurar a disponibilidade dos serviços de dados
+das instalações teleassistidas que não possuem assistência local, sem a obrigatoriedade de se
+utilizar protocolo TCP/IP (Transmission Control Protocol/Internet Protocol). O resultado dessa
+apuração deve estar disponível para eventual fiscalização da ANEEL, conforme o procedimento
+e a periodicidade estabelecidos no Submódulo 6.10 – Avaliação do desempenho dos serviços
+de telecomunicações que atendem à Operação do SIN.
+Endereço na internet: http://www.ons.org.br 6 / 7
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para telecomunicações 2.15 Requisitos 2021.06 02/07/2021
+(b) Devem ser disponibilizados serviços Classe B:
+(1) entre os centros de operação do ONS e pontos definidos pelo ONS, para detecção de ilhamento
+conforme o estabelecido no Submódulo 2.12 – Requisitos mínimos de supervisão e controle para
+a operação;
+(i) as informações de frequência podem ser roteadas pelo centro de operação do agente, mas
+devem ser enviadas a partir do transdutor de frequência;
+(2) entre os centros de operação do ONS e as usinas em modalidade de operação Tipo II-A e Tipo II-B;
+e
+(3) entre os centros de operação do ONS e os conjuntos de usinas classificadas em modalidade de
+operação Tipo II-C conectados na rede de distribuição ou em DIT;
+(c) Devem ser disponibilizados, pelo menos, serviços Classe B entre os centros de operação dos agentes
+e as suas respectivas instalações não estratégicas ou estratégicas com assistência local ininterrupta.
+4.3.3. Para suporte às atividades de normatização, pré-operação, pós-operação, programação e
+planejamento da operação, e demais sistemas de apoio disponibilizados pelo ONS, os agentes de operação
+devem dispor de meio de acesso à internet, dimensionado de forma a suportar o carregamento imposto pelo
+conjunto dessas atividades.
+4.3.3.1. As redes atualmente utilizadas como suporte para essas atividades só podem ser desativadas com a
+anuência das áreas do ONS por elas responsáveis.
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 7 / 7

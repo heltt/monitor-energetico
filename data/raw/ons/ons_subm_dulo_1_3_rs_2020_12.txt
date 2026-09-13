@@ -1,0 +1,113 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 1.3-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 1.3-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 1.3
+Identificação e tratamento das não
+conformidades
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 1 - Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Identificação e tratamento das não
+1.3 Responsabilidades 2020.12 01/01/2021
+conformidades
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Base de Registro das Não Conformidades dos Tipos I e II.............................................................3
+2.2. Relatório de Identificação das Não Conformidades do Tipo III.....................................................3
+2.3. Base de Registro das Não Conformidades do Tipo III Canceladas.................................................3
+2.4. Relatório Semestral das Não Conformidades dos Tipos I e II e do Tipo III Canceladas.................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de operação.....................................................................................................................3
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIAS...................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 1 - Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Identificação e tratamento das não
+1.3 Responsabilidades 2020.12 01/01/2021
+conformidades
+1. OBJETIVO
+1.1. Estabelecer as responsabilidades, produtos, prazos e as etapas do processo envolvidos na identificação
+e tratamento das não conformidades resultantes do descumprimento dos Procedimentos de Rede pelos
+agentes de operação ou pelo ONS.
+2. PRODUTOS
+2.1. Base de Registro das Não Conformidades dos Tipos I e II
+2.1.1. Armazena registros das não conformidades dos Tipo I e II.
+2.2. Relatório de Identificação das Não Conformidades do Tipo III
+2.2.1. Relata as informações relativas às não conformidades do Tipo III.
+2.3. Base de Registro das Não Conformidades do Tipo III Canceladas
+2.3.1. Armazena registros das não conformidades dos Tipo III canceladas.
+2.4. Relatório Semestral das Não Conformidades dos Tipos I e II e do Tipo III Canceladas.
+2.4.1. Consolida, para cada semestre do ano, todas as não conformidades do Tipo I e II identificadas no
+período e todas as não conformidades do Tipo III canceladas neste mesmo período, contendo
+respectivamente seus tratamentos ou justificativas de cancelamento.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Acompanhar o cumprimento das obrigações dos agentes de operação constantes nos Procedimentos
+de Rede.
+(b) Manter atualizada a Base de Registro das Não Conformidades dos Tipos I e II e garantir acesso da
+ANEEL, a qualquer momento, a todas as não conformidades dos agentes de operação e o acesso dos
+agentes de operação, a qualquer momento, às respectivas não conformidades.
+(c) Notificar o agente de operação acerca da identificação de não conformidade do Tipo III e do início do
+processo de elaboração do respectivo Relatório de Identificação das Não Conformidades do Tipo III.
+(d) Elaborar e disponibilizar para a ANEEL o Relatório de Identificação das Não Conformidades do Tipo III.
+(e) Arquivar os documentos originais emitidos e recebidos.
+3.2. Agentes de operação
+(a) Cumprir com o estabelecido nos Procedimentos de Rede e solucionar as não conformidades
+apontadas pelo ONS.
+(b) Encaminhar para o ONS sua manifestação sobre as não conformidades notificadas.
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 1 - Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Identificação e tratamento das não
+1.3 Responsabilidades 2020.12 01/01/2021
+conformidades
+(c) Encaminhar para o ONS correspondência relatando as não conformidades identificadas e cometidas
+por outro agente de operação.
+(d) Encaminhar para a ANEEL correspondência relatando as não conformidades identificadas e cometidas
+pelo ONS.
+4. PRAZOS
+Quadro 1 – Prazos para Identificação de tratamento de não conformidades
+Atividade Responsável Prazo Periodicidade Observação
+Identificar não
+1 conformidades dos ONS - Por demanda -
+agentes de operação
+Até 2 dias úteis a Estes prazos são
+partir da atividade contados de modo
+Notificar agente de
+2 ONS 1, para não - contínuo, excluindo-se
+operação
+conformidades do o dia do marco para
+Tipo III início da contagem do
+prazo e incluindo-se o
+Até 15 dias do
+Apresentar Agente de dia do vencimento.
+3 recebimento da -
+manifestação ao ONS Operação Se o vencimento cair
+notificação do ONS
+em dia em que não
+houver expediente ou
+Emitir Relatório de este for encerrado
+Identificação das Não Até 45 dias da antes da hora normal,
+4 ONS -
+Conformidades do atividade 2 o prazo será
+Tipo III prorrogado até o 1º dia
+útil seguinte.
+Disponibilizar
+Relatório Semestral
+das Não
+5 ONS - Semestral -
+Conformidades dos
+Tipos I e II e do Tipo
+III Canceladas
+5. REFERÊNCIAS
+5.1. Não há referências neste submódulo.
+Endereço na internet: http://www.ons.org.br 4 / 4

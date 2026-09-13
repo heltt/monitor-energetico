@@ -1,0 +1,15 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: DESPACHO Nº 294, DE 30 DE JANEIRO DE 2026
+DATA_PUBLICACAO: 04/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=04/02/2026&jornal=515&pagina=64
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Energia Elétrica/Superintendência de Regulação dos Serviços de Transmissão e Distribuição de Energia Elétrica
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+DESPACHO Nº 294, DE 30 DE JANEIRO DE 2026
+O SUPERINTENDENTE DE REGULAÇÃO DOS SERVIÇOS DE TRANSMISSÃO E DISTRIBUIÇÃO DE ENERGIA ELÉTRICA DA AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA - ANEEL, no uso das suas atribuições regimentais delegadas pelo inciso I do art. 1º da Portaria nº 6.823, de 4 maio de 2023, tendo em vista o que consta do Processo nº 48500.001843/2025-85, decide:
+(i) indeferir a solicitação da Transmissora Aliança de Energia Elétrica S.A.- TAESA, inscrita no CNPJ/MF sob o nº 07.859.971/0001-30, de enquadramento da indisponibilidade da FT LT 500 KV Serra Da Mesa / Gurupi C2, ocorrida no dia 15 de agosto de 2023, envolvendo by-pass automáticos dos bancos de capacitores série, atribuído pela empresa à perturbação geral do Sistema Interligado Nacional, como contingência em outra instalação, sob responsabilidade de terceiro, à falha sistêmica ou caso fortuito e força maior.
+CARLOS ALBERTO CALIXTO MATTAR

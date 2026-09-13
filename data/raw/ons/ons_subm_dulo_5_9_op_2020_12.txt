@@ -1,0 +1,73 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 5.9-OP_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 5.9-OP_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 5.9
+Manutenção dos serviços de
+telecomunicações que atendem a
+operação do Sistema Interligado
+Nacional
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Manutenção dos serviços de telecomunicações
+que atendem a operação do Sistema Interligado 5.9 Operacional 2020.12 01/01/2021
+Nacional
+ÍNDICE
+1. DETECÇÃO E COMUNICAÇÃO DA FALHA...........................................................................................3
+2. REGISTRO DA OCORRÊNCIA.............................................................................................................3
+3. COMUNICAÇÃO DE TÉRMINO DE MANUTENÇÃO.............................................................................3
+4. VERIFICAÇÃO DA QUALIDADE DOS CIRCUITOS DE TELECOMUNICAÇÕES APÓS MANUTENÇÃO
+CORRETIVA......................................................................................................................................3
+5. REFERÊNCIAS...................................................................................................................................3
+6. ANEXOS...........................................................................................................................................3
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Manutenção dos serviços de telecomunicações
+que atendem a operação do Sistema Interligado 5.9 Operacional 2020.12 01/01/2021
+Nacional
+1. DETECÇÃO E COMUNICAÇÃO DA FALHA
+1.1. O agente de operação informa ao ONS quando da detecção de falha no serviço de telecomunicação:
+(a) a identificação do serviço que se encontra afetado;
+(b) o horário de detecção da falha;
+(c) as providências que estão sendo tomadas; e
+(d) a previsão do prazo para o restabelecimento do serviço.
+1.1.1. Quando a falha for detectada pela monitoração dos serviços de telecomunicações do ONS, o ONS
+aciona o agente de operação responsável pelo serviço de telecomunicações afetado para que este coordene
+o processo de recuperação do serviço que se encontra indisponível e tome as providências cabíveis.
+1.1.2. O ONS, quando solicitado pelos agentes de operação e quando considerar necessário, apoiará os
+agentes na identificação de falhas, na manutenção e na execução de testes para a verificação da qualidade
+dos serviços de telecomunicações disponibilizados nas instalações do ONS, facultando às equipes
+credenciadas pelos agentes o acesso a essas instalações.
+2. REGISTRO DA OCORRÊNCIA
+2.1. O ONS registra a ocorrência.
+2.1.1. O registro será feito pela equipe do centro de operação do ONS que utiliza o serviço que ficou
+indisponível.
+3. COMUNICAÇÃO DE TÉRMINO DE MANUTENÇÃO
+3.1. O agente de operação, ao encerrar o processo de manutenção do serviço de telecomunicação afetado,
+informa o fato ao ONS.
+3.2. O ONS avalia a necessidade de realização de testes de verificação de qualidade.
+4. VERIFICAÇÃO DA QUALIDADE DOS CIRCUITOS DE TELECOMUNICAÇÕES APÓS MANUTENÇÃO
+CORRETIVA
+4.1. O ONS solicitará ao agente de operação, caso sejam necessários, testes de verificação da qualidade e da
+conformidade com os requisitos estabelecidos no Submódulo 2.15 – Requisitos mínimos para
+telecomunicações.
+4.2. O agente de operação disponibiliza ao ONS a cópia dos resultados obtidos e o relato das providências
+tomadas.
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Manutenção dos serviços de telecomunicações
+que atendem a operação do Sistema Interligado 5.9 Operacional 2020.12 01/01/2021
+Nacional
+6. ANEXOS
+6.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 4 / 4

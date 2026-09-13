@@ -1,0 +1,32 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Retificação
+TITULO: RETIFICAÇÃO
+DATA_PUBLICACAO: 25/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=25/02/2026&jornal=515&pagina=84
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Secretaria Nacional de Transição Energética e Planejamento
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+RETIFICAÇÃO
+No ANEXO da Portaria SNTEP/MME n. 3.048, de 3 de fevereiro de 2026, publicada no Diário Oficial da União, de 6 de fevereiro de 2026, edição 26, Seção 1, página 74, onde se lê:
+GARANTIA FÍSICA DE ENERGIA
+
+
+Código Único de Empreendimentos de Geração (CEG) - ANEEL
+Usina
+Garantia Física de Energia (MWmed)
+UFV.RS.SP.046922-0.01
+Água Vermelha II
+9,3
+Leia-se:
+GARANTIA FÍSICA DE ENERGIA
+
+
+Código Único de Empreendimentos de Geração (CEG) - ANEEL
+Usina
+Garantia Física de Energia (MWmed)
+UFV.RS.SP.046922-0.01
+Água Vermelha VII
+9,3

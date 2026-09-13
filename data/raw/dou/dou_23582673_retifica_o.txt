@@ -1,0 +1,68 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Retificação
+TITULO: RETIFICAÇÃO
+DATA_PUBLICACAO: 09/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=09/02/2026&jornal=515&pagina=55
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Secretaria Nacional de Transição Energética e Planejamento
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+RETIFICAÇÃO
+No ANEXO II da Portaria SNTEP/MME n. 3.047, de 3 de fevereiro de 2026, publicada no Diário Oficial da União, de 4 de fevereiro de 2026, edição 24, Seção 1, página 63, onde se lê:
+INFLEXIBILIDADE SAZONAL DA USINA TERMELÉTRICA UTE NOVO TEMPO BARCARENA (MW médio)
+
+
+Jan
+Fev
+Mar
+Abr
+Mai
+Jun
+Jul
+Ago
+Set
+Out
+Nov
+Dez
+0
+0
+0
+0
+0
+580,83
+580,83
+580,83
+580,83
+580,83
+580,83
+580,83
+Leia-se:
+INFLEXIBILIDADE SAZONAL DA USINA TERMELÉTRICA UTE NOVO TEMPO BARCARENA (MW médio)
+
+
+Jan
+Fev
+Mar
+Abr
+Mai
+Jun
+Jul
+Ago
+Set
+Out
+Nov
+Dez
+0
+0
+0
+0
+0
+0
+580,83
+580,83
+580,83
+580,83
+580,83
+580,83

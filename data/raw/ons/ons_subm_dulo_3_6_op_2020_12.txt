@@ -1,0 +1,67 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 3.6-OP_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 3.6-OP_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 3.6
+Estimativa do montante financeiro com
+Encargos de Serviços do Sistema
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estimativa do montante financeiro com
+3.6 Operacional 2020.12 01/01/2021
+Encargos de Serviços do Sistema
+ÍNDICE
+1. CÁLCULO DA ESTIMATIVA DO MONTANTE FINANCEIRO COM ENCARGOS DE SERVIÇOS DO SISTEMA
+........................................................................................................................................................3
+2. REFERÊNCIAS...................................................................................................................................3
+Endereço na internet: http://www.ons.org.br 2 / 3
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estimativa do montante financeiro com
+3.6 Operacional 2020.12 01/01/2021
+Encargos de Serviços do Sistema
+1. CÁLCULO DA ESTIMATIVA DO MONTANTE FINANCEIRO COM ENCARGOS DE SERVIÇOS DO SISTEMA
+1.1. O Operador Nacional do Sistema Elétrico – ONS estima os montantes financeiros de Encargos de Serviços
+do Sistema (ESS) por restrição de operação (razões elétricas) associados à geração térmica necessária e
+devido à prestação de Serviço Ancilar de compensação síncrona, conforme regulamentação [1].
+1.2. As estimativas dos montantes financeiros de ESS associados à geração térmica necessária para atender
+às restrições operativas internas aos submercados (restrições na malha e/ou gerações mínimas obrigatórias
+por segurança elétrica do Sistema Interligado Nacional (SIN) são feitas com base no Programa Mensal da
+Operação (PMO), estabelecido no Submódulo 4.3 – Programação mensal da operação energética.
+1.2.1. O ONS considera os dados e informações utilizados no PMO de outubro de cada ano, enquanto que
+as revisões são feitas com base no PMO de março e julho, respectivamente.
+1.3. A análise do cálculo desta estimativa é realizada pelo ONS com base em simulações a subsistemas
+equivalentes através da execução do Modelo para Otimização Hidrotérmica para Subsistemas Equivalentes
+Interligados.
+1.4. Além disso, o ONS também estima valores de ESS devido à prestação de Serviço Ancilar de compensação
+síncrona, tomando por base o histórico de operação das unidades geradoras como compensador síncrono
+numa janela móvel dos útimos 60 meses.
+1.4.1. A partir dos dados históricos, obtém-se a média anual de geração de potência reativa e aplica-se o
+valor vigente para a Tarifa de Serviços Ancilares.
+1.4.2. Ressalta-se que a necessidade de operação de unidades geradoras como compensador síncrono tem
+por objetivo o atendimento aos critérios de desempenho definidos no Submódulo 2.3 – Premissas, critérios
+e metodologia para estudos elétricos.
+1.5. Após as estimativas de geração térmica adicional, de ESS por restrição de operação e de ESS devido à
+prestação de Serviço Ancilar de compensação síncrona, o ONS encaminha para a Agência Nacional de Energia
+Elétrica – ANEEL nota técnica específica ao produto Estimativa do Montante Financeiro com Encargos de
+Serviços do Sistema, contendo no mínimo:
+(a) descrição das usinas termelétricas com previsão de despacho por restrição de operação;
+(b) descrição das usinas hidrelétricas previstas de operar no modo de compensação síncrona;
+(c) descrição do(s) critérios(s) dos Procedimentos de Rede que só serão atendidos se houver despacho
+das usinas indicadas nas alíneas a e b;
+(d) a referência da base de estudos considerada para o cálculo dos montantes financeiros estimados;
+(e) montante financeiro estimado em função do despacho por Restrição de Operação, considerando o
+Custo Variável Unitário (CVU) das usinas termelétricas e projeção do Custo Marginal de Operação
+(CMO); e
+(f) montante financeiro estimado em função da operação de usinas hidrelétricas no modo de
+compensação síncrona, considerando a Tarifa de Serviços Ancilares (TSA) vigente.
+1.6. A nota técnica é disponibilizada em área de livre acesso do sítio eletrônico do ONS.
+2. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa nº 837, de 18 de dezembro de 2018.
+Endereço na internet: http://www.ons.org.br 3 / 3

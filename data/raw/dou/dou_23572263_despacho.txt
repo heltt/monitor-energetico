@@ -1,0 +1,17 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: despacho
+DATA_PUBLICACAO: 05/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=05/02/2026&jornal=515&pagina=63
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Superintendência de Outorga de Títulos Minerários
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+despacho
+Fase de Requerimento de Pesquisa
+Indefere de plano o Requerimento de Autorização de Pesquisa(101)
+48068.866022/2026-24-DAIANIRE FERREIRA NEGRISOLI ARRUDA (Documento SEI: 19056362)
+André Elias Marques
+Superintendente

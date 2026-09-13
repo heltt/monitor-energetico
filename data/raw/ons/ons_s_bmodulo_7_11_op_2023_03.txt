@@ -1,0 +1,299 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Súbmodulo 7.11-OP_2023.03
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Súbmodulo 7.11-OP_2023.03.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.11
+Implantação do Sistema de Medição
+para Faturamento
+Operacional
+Revisão Motivo da revisão Data de aprovação
+Resolução da 904ª Reunião de
+2023.03 21/03/2023
+Diretoria do ONS nº 0027/2023
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação do Sistema de Medição para
+7.11 Operacional 2023.03 21/03/2023
+Faturamento
+ÍNDICE
+1. IMPLANTAÇÃO DO SISTEMA DE MEDIÇÃO PARA FATURAMENTO (SMF) ......................................... 3
+1.1. Definição da localização do ponto de medição ............................................................................. 3
+1.2. Elaboração do projeto do SMF ...................................................................................................... 3
+1.3. Aprovação do projeto do SMF ....................................................................................................... 4
+1.4. Montagem dos equipamentos do SMF ......................................................................................... 5
+1.5. Comissionamento do SMF ............................................................................................................. 6
+1.6. Aprovação do relatório de comissionamento do SMF .................................................................. 8
+2. REFERÊNCIAS ................................................................................................................................ 8
+3. ANEXOS........................................................................................................................................ 9
+Endereço na internet: http://www.ons.org.br 2 / 9
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação do Sistema de Medição para
+7.11 Operacional 2023.03 21/03/2023
+Faturamento
+1. IMPLANTAÇÃO DO SISTEMA DE MEDIÇÃO PARA FATURAMENTO (SMF)
+1.1. Definição da localização do ponto de medição
+1.1.1. O agente responsável pelo SMF1 solicita à Câmara de Comercialização de Energia Elétrica – CCEE o
+Parecer de localização do ponto de medição conforme estabelecido em Procedimentos de Comercialização
+[1].
+1.1.2. A CCEE, em acordo com o Operador Nacional do Sistema Elétrico – ONS, elabora e emite o Parecer de
+localização do ponto de medição nos seguintes casos:
+(a) conexão às instalações de transmissão, que compreende a Rede Básica, as instalações de transmissão
+de energia elétrica destinadas a interligações internacionais conectadas à Rede Básica, as instalações
+de interesse exclusivo de centrais de geração para conexão compartilhada (ICG) e as Demais
+Instalações de Transmissão (DIT); e
+(b) conexão às instalações de distribuição por usinas classificadas, conforme Submódulo 7.2 –
+Classificação da modalidade de operação de usinas, nas modalidades de operação Tipo I e Tipo II.
+1.1.2.1. Nos casos de conexão de agentes de distribuição, usina classificada na modalidade de operação Tipo
+III ou consumidores livres ou especiais às instalações de distribuição, esse processo é descrito nos
+Procedimentos de Distribuição de Energia Elétrica no Sistema Elétrico Nacional (PRODIST) [2].
+1.1.3. No caso de haver impossibilidade de implantação da configuração de instalação descrita no Parecer
+de localização [1] da CCEE, o agente responsável pelo SMF encaminha ao ONS e CCEE a solicitação de análise
+da exceção de configuração de instalação do SMF.
+1.1.3.1. A solicitação de exceção deve ser feita pelos meios indicados pelas instituições e conter as devidas
+comprovações que justifiquem a necessidade de excepcionalidade.
+1.1.3.2. O ONS e CCEE avaliam o pedido de exceção de configuração de instalação de SMF, podendo aceitá-
+lo, rejeitá-lo ou propor alterações.
+1.1.3.3. O ONS envia anualmente à ANEEL a relação dos casos excepcionais de configuração de instalação
+de SMF analisados referentes ao ano civil anterior.
+1.2. Elaboração do projeto do SMF
+1.2.1. O agente responsável pelo SMF solicita ao agente conectado1 ou ao consumidor livre ou especial,
+conforme o caso, as informações e dados sobre os equipamentos e instalações de sua subestação, bem como
+outras informações relativas à montagem e equipamentos que não constam no Submódulo 2.14 – Requisitos
+para Sistemas de Medição para Faturamento.
+1.2.2. O agente conectado ou o consumidor livre ou especial, conforme o caso, envia as informações e dados
+solicitados ao agente responsável pelo SMF.
+1.2.3. O agente responsável pelo SMF elabora o projeto do SMF com base nos requisitos estabelecidos no
+Submódulo 2.14, e nos dados e informações fornecidas pelo agente conectado ou conectante1, conforme o
+caso.
+1 Termos definidos no Submódulo 1.2 – Glossário dos Procedimentos de Rede.
+Endereço na internet: http://www.ons.org.br 3 / 9
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação do Sistema de Medição para
+7.11 Operacional 2023.03 21/03/2023
+Faturamento
+1.2.3.1. Na elaboração do projeto, o agente responsável pelo SMF estabelece a forma de coleta, o meio de
+comunicação a ser usado para a coleta remota e automática dos dados armazenados nos medidores pelo
+sistema da CCEE, bem como suas respectivas rotas.
+1.2.3.2. Cada projeto do SMF apresenta os seguintes itens:
+(a) esquema unifilar da instalação onde se localizará a medição, mostrando a posição dos
+Transformadores de Instrumento (TI), sua interligação aos instrumentos de medição, bem como suas
+características, tais como classe de exatidão e relação de transformação;
+(b) esquema trifilar dos circuitos de potencial e de corrente, mostrando as interligações dos blocos de
+terminais dos TI e caixas de junção até os painéis ou cubículos de medidores;
+(c) esquemas dos painéis ou cubículos de medidores, mostrando a interligação com os circuitos de
+corrente e de potencial, bem como as ligações aos medidores, dispositivos auxiliares e alimentação
+dos medidores;
+(d) desenhos dos painéis ou cubículos de medidores apresentando as dimensões e localização dos
+instrumentos de medição;
+(e) relatório descritivo do sistema de medição, contendo as informações gerais do empreendimento e do
+acessante, critérios e premissas adotadas no projeto (localização da medição, alimentação do SMF,
+cabos de corrente e potencial utilizados, desenho de placa ou especificações/características dos TI,
+aterramento, detalhes dos dispositivos de lacres, características dos medidores, painel/caixa e
+disposição física).
+(f) memorial de cálculo do dimensionamento do cabeamento secundário de Transformador de Potencial
+(TP) e Transformador de Corrente (TC), contendo as informações do acessante, características dos
+equipamentos, constantes envolvidas, bitola e comprimento dos condutores, carga dos circuitos de
+corrente, queda de tensão nos circuitos de potencial e resumo dos valores calculados;
+(g) Parecer de localização do ponto de medição emitido pela CCEE;
+(h) carta de pré-aprovação do projeto do SMF pelo agente conectado, exceto nos casos de medição da
+geração bruta de agente de geração ou de conexão de consumidor livre ou especial; e
+(i) esquema de alimentação dos medidores e dispositivos de comunicação instalados no painel através
+de alimentação CC da instalação (banco de baterias) ou CA ininterrupta (no-break) com dispositivo de
+transferência automática, no caso de falta, para a tensão secundária do circuito medido ou outra
+alimentação CC/CA da instalação. No caso de utilização de no-break, sua autonomia fica a critério do
+agente.
+1.3. Aprovação do projeto do SMF
+1.3.1. O agente responsável pelo SMF submete o projeto do SMF à pré-aprovação do agente conectado,
+exceto nos casos de conexão de consumidor livre ou especial e de projeto de SMF para geração bruta.
+1.3.1.1. No caso de conexão de consumidor livre ou especial à Rede Básica ou às instalações de transmissão
+destinas a interligações internacionais conectadas à Rede básica, o agente responsável pelo SMF envia o
+projeto do SMF diretamente para aprovação do ONS.
+Endereço na internet: http://www.ons.org.br 4 / 9
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação do Sistema de Medição para
+7.11 Operacional 2023.03 21/03/2023
+Faturamento
+1.3.1.2. No caso de projeto do SMF para medição da geração bruta de usina classificada na modalidade de
+operação Tipo I ou Tipo II-A com conexão às instalações sob responsabilidade de agente de transmissão ou
+de distribuição, o agente de geração envia o projeto do SMF diretamente para aprovação do ONS.
+1.3.1.3. O agente conectado analisa e pré-aprova o projeto do SMF, caso atenda ao estabelecido no item
+1.2.3.2. deste submódulo, no Submódulo 2.14 e às suas especificações próprias, ou solicita as adequações
+necessárias. Quando pré-aprovado, o agente conectado encaminha o projeto para aprovação do ONS.
+1.3.2. O ONS analisa o projeto do SMF e solicita as adequações necessárias ao agente responsável pelo SMF
+caso o projeto não atenda ao estabelecido no item 1.2.3.2. deste submódulo e nos requisitos estabelecidos
+no Submódulo 2.14.
+1.3.2.1. Caso haja adequações a serem realizadas, o agente responsável pelo SMF ajusta o projeto conforme
+solicitação e o reenvia para aprovação do ONS.
+1.3.3. Quando for o caso, o agente responsável pelo SMF encaminha ao ONS e CCEE a solicitação de análise
+da exceção de procedimento de instalação do SMF.
+1.3.3.1. A solicitação de exceção de procedimento de instalação do SMF deve conter a justificativa para o
+não atendimento ao disposto nos Procedimentos de Rede no que concerne à instalação do SMF, bem como
+o prazo para a adequação.
+1.3.3.2. O ONS e CCEE avaliam o pedido de exceção de procedimento de instalação do SMF, podendo aceitá-
+lo, rejeitá-lo ou propor alterações.
+1.3.4. O ONS aprova o projeto do SMF e registra a aprovação no sistema computacional específico da CCEE
+quando não houver pendências.
+1.4. Montagem dos equipamentos do SMF
+1.4.1. No caso de conexão de consumidor livre ou especial à Rede Básica ou às instalações de transmissão
+destinas a interligações internacionais conectadas à Rede básica, o agente de transmissão disponibiliza ao
+consumidor livre ou especial as informações e especificações sobre os equipamentos a serem adquiridos por
+ele para a implantação do SMF.
+1.4.2. Após aprovação do projeto do SMF no sistema computacional da CCEE, o agente responsável pelo
+SMF solicita ao agente conectado ou ao consumidor livre ou especial, conforme o caso, o acesso de seu
+pessoal ou prepostos às suas instalações para execução da montagem dos equipamentos do SMF.
+1.4.2.1. No caso de conexão de consumidor livre ou especial, o consumidor livre ou especial solicita acesso
+de seu pessoal ou prepostos às instalações do agente conectado para acompanhamento dos serviços de
+montagem do SMF.
+1.4.2.2. No caso de SMF para geração bruta, o agente de geração realiza apenas a montagem dos
+equipamentos do SMF e a etapa descrita no item 1.4.7. deste submódulo.
+1.4.3. O agente conectado ou o consumidor livre ou especial, conforme o caso, libera o acesso do pessoal
+ou prepostos do agente responsável pelo SMF para a montagem dos equipamentos e executa os
+procedimentos operacionais próprios necessários para possibilitar o serviço.
+1.4.3.1. O agente conectado planeja o período de execução do serviço de montagem do SMF e faz, quando
+necessário, as solicitações de intervenção ao ONS, conforme estabelecido no Submódulo 4.2 – Programação
+de intervenções em instalações da Rede de Operação.
+Endereço na internet: http://www.ons.org.br 5 / 9
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação do Sistema de Medição para
+7.11 Operacional 2023.03 21/03/2023
+Faturamento
+1.4.4. O agente responsável pelo SMF, ou preposto, realiza a montagem dos equipamentos do SMF,
+cumprindo os regulamentos e normas de segurança do agente conectado ou definidos em acordo com o
+consumidor livre ou especial quando em suas instalações.
+1.4.4.1. A execução da montagem dos equipamentos pode ser feita pelo agente responsável pelo SMF, pelo
+agente conectado ou terceiro, conforme acordo entre as partes.
+1.4.5. O agente conectado fiscaliza a montagem feita pelo agente responsável pelo SMF em suas instalações.
+1.4.5.1. No caso de conexão de consumidor livre ou especial, o consumidor livre ou especial acompanha os
+serviços de montagem executados pelo agente responsável pelo SMF em sua subestação.
+1.4.6. O agente responsável pelo SMF estabelece e disponibiliza aos agentes envolvidos a previsão de
+término da montagem para que seja programado o comissionamento do SMF com antecedência.
+1.4.7. Concluída a montagem do SMF, o agente responsável pelo SMF solicita à CCEE a inclusão do ponto de
+medição em seu sistema, estabelece, em conjunto com a CCEE, a configuração da comunicação para acesso
+aos medidores e cadastra as informações relativas ao ponto de medição, medidores, transformadores para
+instrumentos e meio de comunicação.
+1.4.7.1. A inexistência de conexão do SMF com sistema computacional da CCEE, nos termos dos
+Procedimentos de Comercialização, é um requisito impeditivo à liberação para testes e operação integrada
+ao SIN da instalação à qual o SMF está associado.
+1.5. Comissionamento do SMF
+1.5.1. O agente conectado programa, junto ao agente responsável pelo SMF e o consumidor livre ou
+especial, quando for o caso, a data de realização do comissionamento do SMF.
+1.5.2. O agente responsável pelo SMF solicita ao agente conectado ou ao consumidor livre ou especial,
+conforme o caso, acesso de seu pessoal ou prepostos para realização do comissionamento do SMF.
+1.5.2.1. No caso de conexão de consumidor livre ou especial, o consumidor livre ou especial solicita acesso
+de seu pessoal ou prepostos às instalações do agente conectado para acompanhamento do
+comissionamento do SMF.
+1.5.3. O agente conectado ou o consumidor livre ou especial, conforme o caso, libera o acesso do pessoal
+ou prepostos do agente responsável pelo SMF para o comissionamento do SMF.
+1.5.4. O agente responsável pelo SMF, com base no Submódulo 2.14, realiza o comissionamento do SMF,
+que consiste nas seguintes ações:
+(a) verificação do aterramento dos equipamentos que o exigem;
+(b) verificação das condições de isolamento do cabeamento secundário dos TI e dos medidores;
+(c) verificação da polaridade dos TI;
+(d) verificação da interligação secundária dos TI aos painéis ou aos cubículos de medidores;
+(e) verificação da fiação interna dos painéis ou cubículos de medidores;
+(f) verificação de todas as constantes e parâmetros envolvidos no SMF;
+(g) programação dos códigos de identificação dos medidores fornecidos pela CCEE;
+(h) verificação da programação dos medidores;
+Endereço na internet: http://www.ons.org.br 6 / 9
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação do Sistema de Medição para
+7.11 Operacional 2023.03 21/03/2023
+Faturamento
+(i) verificação da sequência de fases e dos valores das correntes e tensões;
+(j) realização de estudo fasorial das tensões e correntes, com o circuito energizado ou com fonte-padrão,
+e do desenho do diagrama fasorial;
+(1) quando houver o emprego de fonte-padrão para obtenção dos diagramas fasoriais, o agente deve
+enviar ao ONS o estudo fasorial das tensões e correntes do circuito logo após a energização;
+(k) verificação da calibração dos medidores através de ensaio monofásico ou trifásico; realizada em
+campo ou em laboratório com rastreabilidade comprovada pelo INMETRO, no período do
+comissionamento do SMF, conforme as condições e limites para o ensaio de exatidão estabelecidos
+no Regulamento Técnico Metrológico (RTM) [3], ou aquele que vier substituí-lo;
+(l) medição da carga imposta aos TI, feita o mais próximo possível dos TI sob corrente e tensão de
+utilização, através do uso de instrumentos adequados, de classe de exatidão melhor ou igual a 0,5.
+(1) recomenda-se o uso de blocos de terminais nas bases dos equipamentos;
+(2) caso o valor medido seja superior à carga nominal especificada pelo fabricante para cada TI, deve
+ser revisto o dimensionamento e posteriormente realizado novos ensaios;
+(m) execução de leitura inicial dos medidores;
+(n) colocação de lacres pelos agentes envolvidos em todos os pontos previstos;
+(o) elaboração de relatório com todos os resultados do comissionamento; e
+(p) teste do funcionamento do canal de comunicação com a CCEE e acesso aos medidores pelo sistema
+da CCEE.
+1.5.5. O agente conectado, quando não for o agente responsável pelo SMF, supervisiona e fiscaliza o
+comissionamento. Caso existam divergência em relação ao projeto do SMF aprovado pelo ONS ou pelo
+agente conectado, quando for o caso, o agente conectado solicita as correções necessárias ao agente
+responsável pelo SMF.
+1.5.6. O agente responsável pelo SMF executa as ações corretivas necessárias e coloca os lacres em todos
+os pontos previstos, junto com o agente conectado ou o consumidor livre ou especial, quando for o caso,
+sendo opcional a participação deste último.
+1.5.7. O agente responsável pelo SMF elabora o relatório de comissionamento, que contém:
+(a) carta de pré-aprovação do relatório de comissionamento do SMF pelo agente conectado, exceto nos
+casos de medição da geração bruta de agente de geração ou de conexão de consumidor livre ou
+especial;
+(b) declaração indicando quais ações do comissionamento, definidas no item 1.5.4. deste submódulo,
+foram realizadas;
+(c) desenho do diagrama fasorial dos medidores;
+(d) certificado de calibração dos medidores;
+(e) resultados dos ensaios de carga imposta aos TI; e
+(f) os seguintes dados de cadastro:
+Endereço na internet: http://www.ons.org.br 7 / 9
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação do Sistema de Medição para
+7.11 Operacional 2023.03 21/03/2023
+Faturamento
+(1) dados do ponto de medição: identificação, nome da Subestação, agente conectado, agente
+responsável pelo SMF, endereço, bairro, cidade, estado, CEP, capacidade máxima do ponto de
+medição (MW), tensão (kV), número de linhas, demanda contratada (MW) e identificação dos
+lacres da chave de aferição e das portas do painel;
+(2) dados dos TP e TC: fabricante, modelo/tipo, número de série, relações existentes, relação utilizada,
+exatidão do primeiro enrolamento, exatidão do segundo enrolamento, ano de fabricação e
+identificação do lacre. Todas essas informações devem ser fornecidas por fase. Adicionalmente,
+deve-se informar a carga imposta ao secundário, identificação do lacre na caixa de junção, bitola
+do cabo de interligação e comprimento do cabo de interligação;
+(3) dados do medidor principal e medidor de retaguarda: fabricante, modelo/tipo, número de série,
+corrente nominal (A), tensão nominal (V), constante primária, data da última calibração, data da
+instalação, exatidão, identificação do lacre;
+(4) medidas elétricas verificadas no ponto de medição, por fase: tensão secundária (V), corrente
+secundária (A) e outras medidas; e
+(5) executor, acompanhante e data da realização do comissionamento.
+1.6. Aprovação do relatório de comissionamento do SMF
+1.6.1. O agente responsável pelo SMF envia o relatório de comissionamento do SMF para pré-aprovação do
+agente conectado, exceto nos casos de conexão de consumidor livre ou especial e de projeto de SMF para
+geração bruta.
+1.6.1.1. No caso de conexão de consumidor livre ou especial à Rede Básica ou às instalações de transmissão
+destinas a interligações internacionais conectadas à Rede básica, o agente responsável pelo SMF envia o
+relatório de comissionamento do SMF diretamente para aprovação do ONS.
+1.6.1.2. No caso de SMF para medição da geração bruta de usina classificada na modalidade de operação
+Tipo I ou Tipo II-A com conexão às instalações sob responsabilidade de transmissora ou de distribuidora, o
+agente de geração envia o relatório de comissionamento do SMF diretamente para aprovação do ONS.
+1.6.1.3. O agente conectado analisa o relatório de comissionamento do SMF e, caso atenda ao estabelecido
+nos itens 1.5.4. e 1.5.7. deste submódulo, pré-aprova e encaminha o relatório para aprovação do ONS, além
+de emitir e encaminhar ao agente responsável pelo SMF o atestado de recebimento do SMF instalado em
+suas instalações.
+1.6.2. O ONS analisa o relatório de comissionamento e solicita as adequações necessárias ao agente
+responsável pelo SMF caso o relatório não atenda ao estabelecido nos itens 1.5.4. e 1.5.7. deste submódulo.
+1.6.2.1. Caso haja adequações a serem executadas, o agente responsável pelo SMF executa as ações
+corretivas necessárias no relatório de comissionamento do SMF e o reenvia para aprovação do ONS.
+1.6.3. Quando não houver pendências, o ONS aprova o relatório de comissionamento do SMF e registra a
+aprovação no sistema computacional específico da CCEE.
+2. REFERÊNCIAS
+[1] CCEE. Procedimentos de Comercialização, Submódulo 1.2 – Cadastro de Agentes.
+[2] ANEEL. PRODIST, Módulo 5 – Sistemas de medição.
+Endereço na internet: http://www.ons.org.br 8 / 9
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação do Sistema de Medição para
+7.11 Operacional 2023.03 21/03/2023
+Faturamento
+[3] INMETRO. Portaria Inmetro nº 587, de 05 de novembro de 2012.
+3. ANEXOS
+3.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 9 / 9

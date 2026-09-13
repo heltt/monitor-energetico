@@ -1,0 +1,1580 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Portaria
+TITULO: PORTARIA ANP Nº 349, DE 6 DE FEVEREIRO DE 2026
+DATA_PUBLICACAO: 09/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=09/02/2026&jornal=515&pagina=59
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional do Petróleo, Gás Natural e Biocombustíveis
+
+TEXTO_COMPLETO:
+EMENTA: Altera a estrutura de cargos da ANP e a estrutura interna das unidades organizacionais
+
+PORTARIA ANP Nº 349, DE 6 DE FEVEREIRO DE 2026
+Altera a estrutura de cargos da ANP e a estrutura interna das unidades organizacionais
+O DIRETOR-GERAL DA AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS - ANP, no uso de suas atribuições, tendo em vista o disposto no art. 7º, inciso III, da Estrutura Regimental aprovada pelo Decreto nº 2.455, de 14 de janeiro de 1998, e tendo em vista o disposto na Portaria 265, de 10 de setembro de 2020, resolve:
+Art.1º Ficam alterados os quantitativos e a distribuição dos cargos em comissão previstos no Anexo I da Lei nº 9.986, de 18 de julho de 2000, conforme quadro anexo.
+Art.2º Ficam alterados o quadro quantitativo de cargos em comissão e a estrutura interna das unidades organizacionais, previstos nos Anexos II e III da Portaria ANP nº 265, de 10 de setembro de 2020, publicada no Diário Oficial da União de 11 de setembro de 2020, conforme quadros anexos.
+Art.3º Revoga-se a Portaria ANP nº 346, de 15 de janeiro de 2026, publicada no Diário Oficial da União de 16 de janeiro de 2026.
+Art.4º Esta Portaria entra em vigor na data de sua publicação.
+ARTUR WATT NETO
+ANEXO IQUADRO QUANTITATIVO DE CARGOS COMISSIONADOS(a que se refere a Lei nº 9.986, de 18 de julho de 2000)
+
+
+Cargo em Comissão
+Valor Unitário de Remuneração do Cargo (R$)
+Quantitativo
+CD I
+32.111,76
+1
+CD II
+27.309,34
+4
+CGE I
+23.409,45
+22
+CGE II
+20.808,40
+5
+CGE III
+19.507,88
+23
+CGE IV
+12.116,00
+12
+CA I
+20.808,40
+11
+CA II
+19.507,88
+2
+CA III
+4.713,70
+18
+CAS I
+3.565,76
+13
+CAS II
+3.090,32
+18
+CCT V
+4.945,27
+99
+CCT IV
+3.366,72
+75
+CCT III
+1.591,51
+126
+CCT II
+1.403,00
+10
+CCT I
+1.242,31
+3
+ANEXO IIQUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO(a que se refere o §1º do art. 53 da Portaria ANP nº 265. de 10 de setembro de 2020)
+
+
+Função
+Cargo em Comissão
+Valor Atual
+Quantitativo (Lei nº 9.986/2000)
+Valor Despesa Total do Cargo (Lei nº 9.986/2000)
+Quantitativo Atual
+Valor Atual
+Grupo I
+Direção
+CD I
+32.111,76
+1
+32.111,76
+1
+32.111,76
+CD II
+27.309,34
+4
+109.237,36
+4
+109.237,36
+Executiva
+CGE I
+23.409,45
+6
+140.456,70
+22
+515.007,90
+CGE II
+20.808,40
+30
+624.252,00
+5
+104.042,00
+CGE III
+19.507,88
+0
+0
+23
+448.681,24
+CGE IV
+12.116,00
+0
+0
+12
+145.392,00
+Assessoria
+CA I
+20.808,40
+26
+541.018,40
+11
+228.892,40
+CA II
+19.507,88
+39
+760.807,32
+2
+39.015,76
+CA III
+4.713,70
+10
+47.137,00
+18
+84.846,60
+Assistência
+CAS I
+3.565,76
+20
+71.315,20
+13
+46.354,88
+CAS II
+3.090,32
+0
+0
+18
+55.625,76
+Subtotal Grupo I
+136
+2.326.335,74
+129
+1.809.207,66
+Grupo II
+Técnica
+CCT V
+4.945,27
+47
+232.427,69
+99
+489.581,73
+CCT IV
+3.366,72
+39
+131.302,08
+75
+252.504,00
+CCT III
+1.591,51
+34
+54.111,34
+126
+200.530,26
+CCT II
+1.403,00
+26
+36.478,00
+10
+14.030,00
+CCT I
+1.242,31
+20
+24.846,20
+3
+3.726,93
+Subtotal Grupo II
+166
+479.165,31
+313
+960.372,92
+TOTAL
+302
+2.805.501,05
+442
+2.769.580,58
+ANEXO IIIESTRUTURA INTERNA DAS UNIDADES ORGANIZACIONAIS(a que se refere o §2º do art. 53 da Portaria ANP nº 265. de 10 de setembro de 2020)
+
+
+Índice/
+UORG/Cargo
+Sigla
+Qtd
+Enumeração
+
+
+
+1
+DIRETORIA-GERAL (DG)
+
+
+
+Diretor-Geral
+CD I
+1
+
+Assessor de Diretoria
+CA I
+3
+
+Assessor Técnico de Diretoria
+CCT V
+1
+2
+DIRETORIA 1 (DIR-1)
+
+
+
+Diretor
+CD II
+1
+
+Assessor de Diretoria
+CA I
+2
+
+Assessor Técnico de Diretoria
+CCT V
+2
+3
+DIRETORIA 2 (DIR-2)
+
+
+
+Diretor
+CD II
+1
+
+Assessor de Diretoria
+CA I
+2
+
+Assessor Técnico de Diretoria
+CCT V
+2
+4
+DIRETORIA 3 (DIR-3)
+
+
+
+Diretor
+CD II
+1
+
+Assessor de Diretoria
+CA I
+2
+
+Assessor Técnico de Diretoria
+CCT V
+2
+5
+DIRETORIA 4 (DIR-4)
+
+
+
+Diretor
+CD II
+1
+
+Assessor de Diretoria
+CA I
+2
+
+Assessor Técnico de Diretoria
+CCT V
+2
+6
+GABINETE DO DIRETOR-GERAL (GAB)
+
+
+
+Chefe de Gabinete
+CGE I
+1
+
+Assessor do Gabinete do Diretor-Geral
+CA II
+1
+
+Chefe de Gabinete Substituto
+CCT V
+1
+
+Assessor Técnico de Gestão Documental
+CCT IV
+1
+6.A
+ESCRITÓRIO SEDE (EDF)
+
+
+
+Chefe do Escritório de Brasília
+CGE III
+1
+
+Assessor Técnico de Gestão de Processos Judiciais e Investigações
+CCT III
+1
+6.A.1
+COORDENAÇÃO PARLAMENTAR
+
+
+
+Coordenador Parlamentar
+CCT V
+1
+7
+AUDITORIA (AUD)
+
+
+
+Auditor
+CGE II
+1
+7.1
+COORDENAÇÃO DE ATENDIMENTO E MONITORAMENTO
+
+
+
+Coordenador de Atendimento e Monitoramento
+CCT III
+1
+7.2
+COORDENAÇÃO DE AUDITORIA
+
+
+
+Coordenador de Auditoria
+CCT III
+2
+8
+CORREGEDORIA (CRG)
+
+
+
+Corregedor
+CGE II
+1
+8.1
+COORDENAÇÃO DE CORREIÇÃO
+
+
+
+Coordenador de Correição
+CCT V
+1
+
+Assessor Técnico de Correição
+CCT III
+2
+9
+INTELIGÊNCIA (INT)
+
+
+
+Chefe de Inteligência
+CGE II
+1
+
+Assessor Técnico
+CCT IV
+1
+
+Assessor Técnico de Inteligência
+CA III
+1
+
+Assessor Administrativo de Inteligência
+CA III
+1
+10
+NÚCLEO DE FISCALIZAÇÃO DA MEDIÇÃO DA PRODUÇÃO DE PETRÓLEO E GÁS NATURAL (NFP)
+
+
+
+Chefe de Núcleo
+CGE III
+1
+
+Assistente de Regulação da Medição da Produção
+CAS II
+1
+10.1
+COORDENAÇÃO-GERAL ADMINISTRATIVA E DE AUTUAÇÕES DE MEDIÇÃO DA PRODUÇÃO
+
+
+
+Coordenador-Geral Administrativo e de Autuações de Medição da Produção
+CCT V
+1
+10.2
+COORDENAÇÃO-GERAL DE FISCALIZAÇÃO DA MEDIÇÃO DA PRODUÇÃO
+
+
+
+Coordenador-Geral de Fiscalização da Medição da Produção
+CCT V
+1
+10.3
+COORDENAÇÃO-GERAL DE VALIDAÇÃO
+
+
+
+Coordenador-Geral de Validação
+CCT V
+1
+11
+OUVIDORIA (OUV)
+
+
+
+Ouvidor Interino
+CGE II
+1
+11.1
+COORDENAÇÃO INSTITUCIONAL
+
+
+
+Coordenador Institucional
+CCT III
+1
+11.2
+COORDENAÇÃO DE ATENDIMENTOS, SERVIÇOS E PRIVACIDADE
+
+
+
+Coordenador de Atendimentos, Serviços e Privacidade
+CCT V
+1
+
+Assessor Técnico Administrativo e Estatístico
+CCT III
+1
+12
+PROCURADORIA-GERAL (PRG)
+
+
+
+Procurador-Geral
+CGE II
+1
+
+Subprocurador-Geral
+CCT V
+1
+
+Assessor Técnico da Procuradoria-Geral
+CA III
+1
+
+Assistente de Gestão da Procuradoria
+CAS II
+1
+12.1
+COORDENAÇÃO DE MATÉRIA ADMINISTRATIVA
+
+
+
+Coordenador de Matéria Administrativa
+CCT IV
+1
+12.2
+COORDENAÇÃO DE ARBITRAGEM
+
+
+
+Coordenador de Arbitragens
+CCT IV
+1
+
+Assistente Técnico de Arbitragens
+CCT I
+1
+
+Assistente Administrativo de Arbitragens
+CAS II
+1
+12.3
+COORDENAÇÃO DE CONTENCIOSO - RJ
+
+
+
+Assistente Técnico de Contencioso
+CCT II
+1
+12.4
+COORDENAÇÃO-GERAL DA PRG NO DF
+
+
+
+Coordenador da PRG - DF
+CCT IV
+1
+
+Assessor de Dívida Ativa
+CCT III
+1
+12.4.1
+COORDENAÇÃO DE CONSULTORIA JURÍDICA
+
+
+
+Coordenador de Consultoria Jurídica
+CCT IV
+1
+12.4.2
+COORDENAÇÃO DE CONTENCIOSO - DF
+
+
+
+Coordenador de Contencioso - DF
+CCT IV
+1
+13
+SUPERINTENDÊNCIA DE AVALIAÇÃO GEOLÓGICA E ECONÔMICA (SAG)
+
+
+
+Superintendente
+CGE I
+1
+
+Superintendente Adjunto
+CGE III
+1
+
+Assessor Técnico
+CCT V
+1
+
+Assessor Jurídico e Administrativo
+CCT IV
+1
+13.1
+COORDENAÇÃO DE ANÁLISE ECONÔMICA
+
+
+
+Coordenador de Análise Econômica
+CCT IV
+1
+13.2
+COORDENAÇÃO-GERAL DE AVALIAÇÃO GEOLÓGICA E GEOFÍSICA
+
+
+
+Coordenador-Geral de Avaliação Geológica e Geofísica
+CCT IV
+1
+
+Assistente de Estudos Geológicos e Geofísicos
+CAS I
+1
+
+Assistente Técnico de Geologia e Geofísica
+CAS II
+1
+
+Assistente de Superintendência
+CAS II
+2
+
+Assistente Técnico de Avaliação Geológica e Geofísica
+CCT I
+1
+13.3
+COORDENAÇÃO DE MEIO AMBIENTE E GEOPROCESSAMENTO
+
+
+
+Coordenador de Meio Ambiente e Geoprocessamento
+CCT IV
+1
+14
+SUPERINTENDÊNCIA DE BIOCOMBUSTÍVEIS E DE QUALIDADE DE PRODUTOS (SBQ)
+
+
+
+Superintendente
+CGE I
+1
+
+Superintendente Adjunto
+CGE III
+1
+
+Assessor Técnico de Biocombustíveis e de Qualidade de Produtos
+CCT V
+1
+14.1
+COORDENAÇÃO DE CONTRATOS E ASSUNTOS ADMINISTRATIVOS
+
+
+
+Coordenador de Contratos e Assuntos Administrativos
+CCT IV
+1
+
+Assessor Técnico de Contratos e Assuntos Administrativo
+CCT III
+1
+
+Assessor Administrativo de Programas de Monitoramento e Marcação de Combustíveis
+CA III
+1
+
+Assessor Administrativo de Contratos
+CA III
+1
+14.2
+COORDENAÇÃO DE GESTÃO DE INFORMAÇÃO DA QUALIDADE
+
+
+
+Coordenador de Gestão de Informação de Biocombustíveis e Qualidade de Produtos
+CCT IV
+1
+
+Assessor Técnico de Gestão da Informação da Qualidade
+CCT III
+1
+14.3
+COORDENAÇÃO DE REGULAÇÃO DA QUALIDADE DE PRODUTOS
+
+
+
+Coordenador de Regulação de Qualidade de Produtos
+CCT IV
+1
+
+Assessor Técnico de Regulação de Qualidade de Produtos
+CCT III
+1
+14.A
+CENTRO DE PESQUISAS E ANÁLISES TECNOLÓGICAS (CPT)
+
+
+
+Chefe de Núcleo do CPT
+CGE IV
+1
+
+Assessor Técnico de Pesquisas e Análises Tecnológicas
+CCT IV
+1
+14.A.1
+COORDENAÇÃO DE INFRAESTRUTURA E AQUISIÇÕES
+
+
+
+Coordenador de Infraestrutura e Aquisições
+CCT IV
+1
+
+Assessor Técnico de Infraestrutura e Aquisições
+CCT III
+1
+14.A.2
+COORDENAÇÃO DE PETRÓLEO, LUBRIFICANTES E PRODUTOS ESPECIAIS
+
+
+
+Coordenador de Petróleo, Lubrificantes e Produtos Especiais
+CCT IV
+1
+
+Assessor Técnico de Petróleo, Lubrificante e Produtos Especiais
+CCT III
+1
+14.A.3
+COORDENAÇÃO DE QUALIDADE DE COMBUSTÍVEIS
+
+
+
+Coordenador de Qualidade de Combustíveis
+CCT IV
+1
+
+Assessor Técnico de Qualidade de Combustíveis
+CCT III
+1
+15
+SUPERINTENDÊNCIA DE COMUNICAÇÃO E RELAÇÕES INSTITUCIONAIS (SCI)
+
+
+
+Superintendente
+CGE I
+1
+
+Superintendente Adjunto
+CGE III
+1
+
+Assessor Técnico de Comunicação e Inovação
+CCT IV
+1
+15.1
+COORDENAÇÃO-GERAL DE IMPRENSA E REDES SOCIAIS
+
+
+
+Coordenador-Geral de Imprensa e Redes Sociais
+CCT V
+1
+15.2
+COORDENAÇÃO DE EVENTOS
+
+
+
+Coordenador de Eventos
+CCT IV
+1
+
+Assessor de Eventos
+CCT III
+1
+15.3
+COORDENAÇÃO-GERAL DE DESIGN E COMUNICAÇÃO INTERNA
+
+
+
+Coordenador-Geral de Design e Comunicação Interna
+CCT V
+1
+
+Assessor de Comunicação Interna
+CA III
+1
+15.4
+COORDENAÇÃO DE SITES
+
+
+
+Coordenador de Sites
+CCT IV
+1
+15.5
+COORDENAÇÃO-GERAL DE RELAÇÕES INSTITUCIONAIS E GESTÃO
+
+
+
+Coordenador-Geral de Relações Institucionais e Gestão
+CCT V
+1
+16
+SUPERINTENDÊNCIA DE CONTEÚDO LOCAL (SCL)
+
+
+
+Superintendente
+CGE I
+1
+
+Superintendente Adjunto
+CGE III
+1
+
+Assessor Técnico de Conteúdo Local
+CCT V
+1
+16.1
+COORDENAÇÃO DE FISCALIZAÇÃO DE CONTEÚDO LOCAL
+
+
+
+Coordenador de Fiscalização de Conteúdo Local
+CCT V
+1
+
+Assistente Técnico de Fiscalização de Conteúdo Local
+CAS II
+1
+16.2
+COORDENAÇÃO DE CERTIFICAÇÃO E GESTÃO CONTRATUAL
+
+
+
+Coordenador de Certificação e Gestão Contratual
+CCT V
+1
+
+Assessor Técnico de Certificação de Conteúdo Local
+CCT III
+1
+
+Assessor Técnico de Gestão Contratual
+CCT III
+1
+17
+SUPERINTENDÊNCIA DE DEFESA DA CONCORRÊNCIA (SDC)
+
+
+
+Superintendente
+CGE I
+1
+
+Superintendente Adjunto
+CGE III
+1
+
+Assessor Técnico de Dados Estatísticos
+CCT V
+1
+17.1
+COORDENAÇÃO-GERAL DA PROMOÇÃO DA CONCORRÊNCIA NO MERCADO DE GÁS NATURAL
+
+
+
+Coordenador-Geral da Promoção da Concorrência no Mercado de Gás Natural
+CCT V
+1
+
+Assessor Técnico da Promoção da Concorrência no Mercado de Gás Natural
+CCT III
+1
+17.2
+COORDENAÇÃO DE DEFESA DA CONCORRÊNCIA E REGULAÇÃO ECONÔMICA
+
+
+
+Coordenador de Defesa da Concorrência e Regulação Econômica
+CCT IV
+1
+
+Assessor Técnico de Defesa da Concorrência e Regulação Econômica
+CCT III
+1
+17.3
+COORDENAÇÃO DE ESTUDOS ECONÔMICOS
+
+
+
+Coordenador de Estudos Econômicos
+CCT IV
+1
+
+Assessor Técnico de Sistema de Preços
+CCT III
+1
+17.4
+COORDENAÇÃO DE GESTÃO ADMINISTRATIVA, JURÍDICA E PLANEJAMENTO
+
+
+
+Coordenador de Gestão Administrativa, Jurídica e Planejamento
+CCT III
+1
+18
+SUPERINTENDÊNCIA DE DISTRIBUIÇÃO E LOGÍSTICA (SDL)
+
+
+
+Superintendente
+CGE I
+1
+
+Superintendente Adjunto
+CGE III
+1
+
+Assessor Técnico de Distribuição e Logística
+CCT V
+1
+18.1
+COORDENAÇÃO-GERAL DE AUTORIZAÇÕES DE DISTRIBUIÇÃO E LOGÍSTICA
+
+
+
+Coordenador-Geral de Autorizações de Distribuição e Logística
+CCT V
+1
+18.1.1
+COORDENAÇÃO DE ENGENHARIA
+
+
+
+Coordenador de Engenharia
+CCT III
+1
+
+Assessor Administrativo
+CA III
+1
+18.1.2
+COORDENAÇÃO DE REGULARIDADE JURÍDICA E FISCAL E DE PROCESSO DE REVOGAÇÃO
+
+
+
+Coordenador de Regularidade Jurídica e Fiscal e de Processo de Revogação
+CCT III
+1
+
+Assessor de Processos de Revogação
+CA III
+1
+18.2
+COORDENAÇÃO-GERAL DE AUTORIZAÇÕES DE REVENDA
+
+
+
+Coordenador-Geral de Autorizações de Revenda
+CCT IV
+1
+18.2.1
+COORDENAÇÃO DE AUDITORIA DE AUTORIZAÇÃO
+
+
+
+Coordenador de Auditoria de Autorização
+CCT III
+1
+18.3
+COORDENAÇÃO-GERAL DE MOVIMENTAÇÃO DE PRODUTOS
+
+
+
+Coordenador-Geral de Movimentação de Produtos
+CCT V
+1
+
+Assessor Técnico de Movimentação de Produtos
+CCT IV
+1
+
+Assessor de Movimentação de Derivados
+CA III
+1
+
+Assistente Técnico de Movimentação de Derivados
+CAS II
+1
+
+Assessor de Movimentação de Biocombustíveis
+CA III
+1
+18.3.1
+COORDENAÇÃO DE IMPORTAÇÕES E EXPORTAÇÕES
+
+
+
+Coordenador de Importações e Exportações
+CCT III
+1
+18.4
+COORDENAÇÃO-GERAL DE REGULAÇÃO DE DISTRIBUIÇÃO E LOGISTICA
+
+
+
+Coordenador-Geral de Regulação de Distribuição e Logística
+CCT V
+1
+18.4.1
+COORDENAÇÃO DE ANÁLISE DO IMPACTO REGULATÓRIO
+
+
+
+Coordenador de Análise do Impacto Regulatório
+CCT III
+1
+18.4.2
+COORDENAÇÃO DE REGULAÇÃO DE BIOCOMBUSTÍVEIS
+
+
+
+Coordenador de Regulação de Biocombustíveis
+CCT III
+1
+18.5
+COORDENAÇÃO-GERAL DE MONITORAMENTO DO ABASTECIMENTO E ESTOQUES
+
+
+
+Coordenador-Geral de Monitoramento do Abastecimento e Estoques
+CCT V
+1
+19
+SUPERINTENDÊNCIA DE DESENVOLVIMENTO E PRODUÇÃO (SDP)
+
+
+
+Superintendente
+CGE I
+1
+
+Superintendente Adjunto
+CGE III
+1
+
+Assessor Técnico de Desenvolvimento e Produção
+CCT V
+1
+19.1
+COORDENAÇÃO-GERAL DE PROCESSOS, DADOS E DE FISCALIZAÇÃO DINÂMICA
+
+
+
+Coordenador-Geral de Processos. Dados e de Fiscalização Dinâmica
+CCT V
+1
+
+Assessor Técnico Administrativo
+CCT III
+1
+
+Assistente de Dados e de Fiscalização Dinâmica
+CAS I
+1
+19.1.1
+COORDENAÇÃO DE GESTÃO ORGANIZACIONAL
+
+
+
+Coordenador de Gestão Organizacional
+CCT III
+1
+19.2
+COORDENAÇÃO-GERAL DE PRODUÇÃO EM CAMPOS MARÍTIMOS
+
+
+
+Coordenador-Geral de Produção em Campos Marítimos
+CCT V
+1
+19.2.1
+COORDENAÇÃO DE CAMPOS MADUROS E ECONOMICIDADE MARGINAL MARÍTIMOS
+
+
+
+Coordenador de Campos Maduros e Economicidade Marginal Marítimos
+CCT III
+1
+19.2.2
+COORDENAÇÃO DE FISCALIZAÇÃO DE CAMPOS DO PRÉ-SAL
+
+
+
+Coordenador de Fiscalização de Campos do Pré-Sal
+CCT III
+1
+19.2.3
+COORDENAÇÃO DE FISCALIZAÇÃO DE CAMPOS DO PÓS-SAL
+
+
+
+Coordenador de Fiscalização de Campos do Pós-Sal
+CCT III
+1
+19.3
+COORDENAÇÃO-GERAL DE PRODUÇÃO EM CAMPOS TERRESTRES
+
+
+
+Coordenador-Geral de Produção em Campos Terrestres
+CCT V
+1
+19.3.1
+COORDENAÇÃO DE FISCALIZAÇÃO DE CAMPOS TERRESTRES
+
+
+
+Coordenador de Fiscalização de Campos Terrestres
+CCT III
+1
+19.3.2
+COORDENAÇÃO DE CAMPOS MADUROS E ECONOMICIDADE MARGINAL TERRESTRES
+
+
+
+Coordenador de Campos Maduros e Economicidade Marginal Terrestres
+CCT III
+1
+
+Assistente de Desenvolvimento e Produção em Campos Terrestres
+CAS II
+1
+
+Assistente de Superintendência
+CAS II
+1
+19.4
+COORDENAÇÃO-GERAL DE REGULAÇÃO, CONTRATOS E PROCESSOS SANCIONADORES
+
+
+
+Coordenador-Geral de Regulação, Contratos e Processos Sancionadores
+CCT V
+1
+
+Assessor de Garantias Financeiras
+CCT IV
+1
+
+Assessor de Apoio Jurídico e Processos Sancionadores
+CA III
+1
+19.4.1
+COORDENAÇÃO ECONÔMICA E DE GARANTIAS
+
+
+
+Coordenador Econômico e de Garantias
+CCT III
+1
+19.4.2
+COORDENAÇÃO ADMINISTRATIVA DE GARANTIAS
+
+
+
+Coordenador Administrativo de Garantias
+CCT II
+1
+19.4.3
+COORDENAÇÃO DE REGULAÇÃO
+
+
+
+Coordenador de Regulação
+CCT III
+1
+20
+SUPERINTENDÊNCIA DE DADOS TÉCNICOS (SDT)
+
+
+
+Superintendente
+CGE I
+1
+
+Superintendente Adjunto
+CGE III
+1
+
+Assessor Técnico da SDT
+CCT V
+1
+20.1
+COORDENAÇÃO-GERAL DE CONTRATOS TÉCNICO-OPERACIONAIS E ADMINISTRATIVO
+
+
+
+Coordenador-Geral de Contratos Técnico-Operacionais e Administrativo
+CCT V
+1
+
+Assistente Técnico Administrativo
+CCT II
+1
+20.1.1
+COORDENAÇÃO ADMINISTRATIVO E REGULATÓRIO
+
+
+
+Coordenador Administrativo e Regulatório
+CCT III
+1
+20.2
+COORDENAÇÃO-GERAL DE RECEBIMENTO, ARMAZENAMENTO E DISPONIBILIZAÇÃO DE DADOS
+
+
+
+Coordenador-Geral de Recebimento, Armazenamento e Disponibilização de Dados
+CCT V
+1
+20.2.1
+COORDENAÇÃO DE RECEBIMENTO, ARMAZENAMENTO E DISPONIBILIZAÇÃO DE DADOS
+
+
+
+Coordenador de Recebimento, Armazenamento e Disponibilização de Dados
+CCT III
+1
+20.3
+COORDENAÇÃO-GERAL DE DADOS GEOFÍSICOS E ESTUDOS
+
+
+
+Coordenador-Geral de Dados Geofísicos e Estudos
+CCT V
+1
+20.4
+COORDENAÇÃO-GERAL DE GEOPROCESSAMENTO
+
+
+
+Coordenador-Geral de Geoprocessamento
+CCT V
+1
+20.5
+COORDENAÇÃO-GERAL DE DADOS DE POÇOS E GEOLOGIA
+
+
+
+Coordenador-Geral de Dados de Poços e Geologia
+CCT V
+1
+20.5.1
+COORDENAÇÃO DE DADOS DIGITAIS DE POÇOS
+
+
+
+Coordenador de Dados Digitais de Poços
+CCT III
+1
+21
+SUPERINTENDÊNCIA DE EXPLORAÇÃO (SEP)
+
+
+
+Superintendente
+CGE I
+1
+
+Superintendente Adjunto
+CGE III
+1
+
+Assessor Técnico da SEP
+CCT V
+1
+
+Assessor Técnico de Sistemas
+CCT IV
+1
+21.1
+COORDENAÇÃO-GERAL DE REGULAÇÃO E DESEMPENHO EXPLORATÓRIO
+
+
+
+Coordenador-Geral de Regulação e Desempenho Exploratório
+CCT V
+1
+
+Assessor Técnico de Desempenho Exploratório
+CCT III
+1
+
+Assessor Técnico de Instrumentos Regulatórios
+CCT III
+1
+21.2
+COORDENAÇÃO DE PROCESSOS E INFRAÇÕES
+
+
+
+Coordenador de Processos e Infrações
+CCT IV
+1
+21.3
+COORDENAÇÃO ECONÔMICO-FINANCEIRA
+
+
+
+Coordenador Econômico-Financeiro
+CCT IV
+1
+21.3.1
+COORDENAÇÃO DE GARANTIAS FINANCEIRAS
+
+
+
+Coordenador de Garantias Financeiras
+CGE IV
+1
+21.4
+COORDENAÇÃO-GERAL DE GESTÃO DE CONTRATOS DE E&P
+
+
+
+Coordenador-Geral de Gestão de Contratos de E&P
+CCT V
+1
+
+Assessor Técnico de Contratos de E&P
+CCT III
+1
+21.5
+COORDENAÇÃO DO PROGRAMA EXPLORATÓRIO MÍNIMO
+
+
+
+Coordenador do Programa Exploratório Mínimo
+CCT IV
+1
+21.6
+COORDENAÇÃO DE DEVOLUÇÃO DE ÁREAS
+
+
+
+Coordenador de Devolução de Áreas
+CCT IV
+1
+21.7
+COORDENAÇÃO DE AVALIAÇÃO DE DESCOBERTAS
+
+
+
+Coordenador de Avaliação de Descobertas
+CCT IV
+1
+22
+SUPERINTENDÊNCIA DE FISCALIZAÇÃO DO ABASTECIMENTO (SFI)
+
+
+
+Superintendente
+CGE I
+1
+
+Superintendente Adjunto
+CGE III
+1
+
+Assessor de Superintendência
+CA II
+1
+
+Assessor de Resultados e Operações Nacionais
+CCT III
+1
+
+Assessor Técnico de Dados
+CCT III
+1
+
+Assessor de Convênios e Parcerias Institucionais
+CCT III
+1
+22.1
+COORDENAÇÃO-GERAL ADMINISTRATIVA DA SFI
+
+
+
+Coordenador-Geral Administrativo
+CCT V
+1
+
+Assistente Técnico Administrativo Nacional
+CAS I
+1
+
+Assistente Técnico Administrativo
+CAS I
+1
+22.1.1
+COORDENAÇÃO DE CONTRATOS
+
+
+
+Coordenador de Contratos
+CCT III
+1
+22.1.2
+COORDENAÇÃO DE APOIO ADMINISTRATIVO
+
+
+
+Coordenador de Apoio Administrativo
+CCT III
+1
+22.2
+COORDENAÇÃO-GERAL DE COMUNICAÇÃO, DEMANDAS EXTERNAS, MEDIDAS CAUTELARES
+
+
+
+Coordenador-Geral de Comunicação, Demandas Externas, Medidas Cautelares
+CCT V
+1
+22.2.1
+COORDENAÇÃO DE MEDIDAS CAUTELARES
+
+
+
+Coordenador de Medidas Cautelares
+CCT III
+1
+22.2.2
+COORDENAÇÃO DE DEMANDAS EXTERNAS
+
+
+
+Coordenador de Demandas Externas
+CCT III
+1
+
+Assessor Técnico de Medidas Cautelares
+CA III
+1
+22.3
+COORDENAÇÃO DE PLANEJAMENTO E ESTUDOS REGULATÓRIOS
+
+
+
+Coordenador de Planejamento e Estudos Regulatórios
+CCT V
+1
+
+Assessor de Planejamento e Estudos Regulatórios
+CCT III
+1
+22.4
+COORDENAÇÃO NACIONAL DE PROCESSOS SANCIONADORES
+
+
+
+Coordenador Nacional de Processos Sancionadores
+CCT V
+1
+
+Assessor Nacional de Processos Sancionadores
+CCT III
+1
+22.4.1
+COORDENAÇÃO REGIONAL DE JULGAMENTO DE PROCESSOS (CJP-RJ)
+
+
+
+Coordenador Regional de Julgamento de Processos (CJP-RJ)
+CCT III
+1
+22.4.2
+COORDENAÇÃO REGIONAL DE JULGAMENTO DE PROCESSOS (CJP-SP)
+
+
+
+Coordenador Regional de Julgamento de Processos (CJP-SP)
+CCT III
+1
+22.4.3
+COORDENAÇÃO REGIONAL DE JULGAMENTO DE PROCESSOS (CJP-DF)
+
+
+
+Coordenador Regional de Julgamento de Processos (CJP-DF)
+CCT III
+1
+22.4.4
+COORDENAÇÃO REGIONAL DE JULGAMENTO DE PROCESSOS (CJP-BA)
+
+
+
+Coordenador Regional de Julgamento de Processos (CJP-BA)
+CCT III
+1
+22.4.5
+COORDENAÇÃO DE REVISÃO DE PROCESSOS SANCIONADORES
+
+
+
+Coordenador de Revisão de Processos Sancionadores
+CCT III
+1
+22.A
+NÚCLEO REGIONAL DE FISCALIZAÇÃO DO ABASTECIMENTO EM BELO HORIZONTE (NBH)
+
+
+
+Chefe do Núcleo Regional de Fiscalização em Belo Horizonte
+CGE IV
+1
+22.A.1
+COORDENAÇÃO DE PLANEJAMENTO, EXECUÇÃO E RESULTADO
+
+
+
+Coordenador de Planejamento, Execução e Resultado
+CCT III
+1
+22.A.2
+COORDENAÇÃO OPERACIONAL DE CAMPO
+
+
+
+Coordenador Operacional de Campo
+CCT III
+1
+22.B
+NÚCLEO REGIONAL DE FISCALIZAÇÃO DO ABASTECIMENTO NO DISTRITO FEDERAL (NDF)
+
+
+
+Chefe do Núcleo Regional de Fiscalização no Distrito Federal
+CGE IV
+1
+22.B.1
+COORDENAÇÃO OPERACIONAL DE CAMPO
+
+
+
+Coordenador Operacional de Campo
+CCT III
+1
+22.B.2
+COORDENAÇÃO OPERACIONAL DE CAMPO
+
+
+
+Coordenador Operacional de Campo
+CCT III
+1
+22.B.3
+COORDENAÇÃO DE PLANEJAMENTO, EXECUÇÃO E RESULTADO DF
+
+
+
+Coordenador-Geral de Planejamento, Execução e Resultado - NDF
+CCT IV
+1
+22.C
+NÚCLEO REGIONAL DE FISCALIZAÇÃO DO ABASTECIMENTO EM MANAUS (NMA)
+
+
+
+Chefe do Núcleo Regional de Fiscalização em Manaus
+CGE IV
+1
+22.C.1
+COORDENAÇÃO OPERACIONAL DE CAMPO
+
+
+
+Coordenador Operacional de Campo
+CCT III
+1
+
+Assistente de Superintendência
+CAS II
+1
+22.C.2
+COORDENAÇÃO DE PLANEJAMENTO INTEGRADO, EXECUÇÃO E RESULTADO DE FISCALIZAÇÕES
+
+
+
+Coordenador de Planejamento Integrado, Execução e Resultado de Fiscalizações
+CCT IV
+1
+22.D
+NÚCLEO REGIONAL DE FISCALIZAÇÃO DO ABASTECIMENTO EM PORTO ALEGRE (NPA)
+
+
+
+Chefe do Núcleo Regional de Fiscalização em Porto Alegre
+CGE IV
+1
+22.D.1
+COORDENAÇÃO OPERACIONAL DE CAMPO
+
+
+
+Coordenador Operacional de Campo
+CCT III
+1

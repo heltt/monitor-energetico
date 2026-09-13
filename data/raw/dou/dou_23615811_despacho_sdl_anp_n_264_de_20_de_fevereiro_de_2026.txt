@@ -1,0 +1,74 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: DESPACHO SDL-ANP Nº 264, DE 20 DE FEVEREIRO DE 2026
+DATA_PUBLICACAO: 23/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=23/02/2026&jornal=515&pagina=127
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional do Petróleo, Gás Natural e Biocombustíveis/Superintendência de Distribuição e Logística
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+DESPACHO SDL-ANP Nº 264, DE 20 DE FEVEREIRO DE 2026
+O SUPERINTENDENTE ADJUNTO DE DISTRIBUIÇÃO E LOGÍSTICA DA AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS - ANP, no uso das atribuições que lhe foram conferidas pela Portaria ANP nº 265, de 10 de setembro de 2020, com base na Resolução ANP nº 51, de 30 de novembro de 2016, torna pública a outorga das seguintes autorizações para o exercício da atividade de revenda de gás liquefeito de petróleo - GLP, observado:
+I) as instalações dos revendedores ora autorizados foram vistoriadas por instituições de bombeiros, atendendo os requisitos de segurança, e se encontram limitadas às quantidades máximas de armazenamento de GLP, conforme certificado expedido pelo corpo de bombeiros competente; e
+II) a manutenção da presente Autorização fica condicionada ao atendimento dos requisitos constantes no Certificado que trata o item anterior e à Norma NBR 15514:2020 Versão Corrigida: 2021, da Associação Brasileira de Normas Técnicas - ABNT.
+
+
+Nº de Registro
+Razão Social
+CNPJ
+Processo
+GLPSP0465733
+ALVES DISTRIBUIDORA DE GAS LTDA
+63.226.774/0001-55
+48610.203690/2026-42
+GLPMT0465735
+D. F. ROCHA
+48.988.420/0001-54
+48610.227714/2025-78
+GLPMG0465701
+IMPERIAL DISTRIBUIDORA DE AGUA E GAS LTDA
+61.042.077/0001-19
+48610.203352/2026-19
+GLPPA0465697
+J MORAES RIBEIRO COMERCIO DE GAS LTDA
+64.689.929/0001-52
+48610.203485/2026-87
+GLPAM0465695
+MARTINS E MARTINS LTDA
+63.418.029/0001-08
+48610.234195/2025-02
+GLPSC0465687
+MERCADO E AGROPECUARIA TESTA LTDA
+02.271.494/0001-74
+48610.202052/2026-12
+GLPPR0465710
+PAMPA GAS LTDA
+58.395.620/0001-57
+48610.203590/2026-16
+GLPPB0465706
+REI DO GAS PB LTDA
+11.684.331/0003-76
+48610.203420/2026-31
+GLPBA0465708
+REMILSON BARBOSA DOS SANTOS
+62.780.011/0001-99
+48610.203444/2026-91
+GLPTO0465699
+RONALDO PEREIRA DA SILVA LTDA
+19.095.855/0001-71
+48610.202376/2026-42
+GLPMA0465690
+S DA CONCEICAO SOUZA LTDA
+48.926.981/0001-29
+48610.203466/2026-51
+GLPGO0465692
+SUPERMERCADO IMPERIO LTDA
+33.713.130/0001-20
+48610.203126/2026-20
+GLPPA0465703
+TEDESCO PAIM COMERCIO DE GAS LTDA
+25.276.121/0003-53
+48610.202588/2026-20
+BRUNO VALLE DE MOURA

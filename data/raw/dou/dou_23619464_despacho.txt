@@ -1,0 +1,23 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 24/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=24/02/2026&jornal=515&pagina=52
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Superintendência de Segurança de Barragens e Pilhas de Mineração/Gerência de Barragens de Mineração/Coordenação de Fiscalização de Barragens - Eixo Leste
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 6/2026
+Defere parcialmente requerimento - BARRAGENS(2811)
+BARRAGEM ITAMARATI DE MINAS (ID SIGBM Nº 9270) - COMPANHIA BRASILEIRA DE ALUMINIO - 936.013/2014 - Requerimento de: SOLICITAÇÃO DE ATUALIZAÇÃO CADASTRAL N°2152
+Indefere requerimento - BARRAGENS(2810)
+BARRAGEM ALTO JACUTINGA (ID SIGBM Nº 8276) - VALE S.A. - 930.925/2005 - Requerimento de: SOLICITAÇÃO DE ATUALIZAÇÃO CADASTRAL N°2159
+Fase de Concessão de Lavra
+Determina cumprimento de exigência técnica de barragem - Prazos estabelecidos em ofício:(2890)
+BARRAGEM MERCÊS-BAUMINAS MINERACAO LTDA-830.707/1982-OF. N°9553/2026/CORBL/ANM
+BARRAGEM ITAMARATI DE MINAS (ID SIGBM Nº 9270)-COMPANHIA BRASILEIRA DE ALUMINIO-936.013/2014-OF. N°9130/2026/GEBM/ANM
+PEDRO DIONELO LACERDA
+Coordenador Substituto

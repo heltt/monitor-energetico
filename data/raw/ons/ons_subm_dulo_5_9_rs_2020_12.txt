@@ -1,0 +1,81 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 5.9-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 5.9-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 5.9
+Manutenção dos serviços de
+telecomunicações que atendem a
+Operação do Sistema Interligado
+Nacional
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Manutenção dos serviços de telecomunicações
+que atendem a operação do Sistema Interligado 5.9 Responsabilidades 2020.12 01/01/2021
+Nacional
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTO........................................................................................................................................3
+2.1. Cadastro de Ocorrências dos Serviços de Telecomunicações.......................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de operação.....................................................................................................................3
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIA.....................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Manutenção dos serviços de telecomunicações
+que atendem a operação do Sistema Interligado 5.9 Responsabilidades 2020.12 01/01/2021
+Nacional
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas dos processos relativos à
+manutenção dos serviços de telecomunicações que atendem a Operação.
+2. PRODUTO
+2.1. Cadastro de Ocorrências dos Serviços de Telecomunicações.
+2.1.1. Banco de dados que armazena os registros dos períodos de inoperância dos serviços de
+telecomunicações.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Monitorar a qualidade e a disponibilidade dos serviços de telecomunicações.
+(b) Acionar os agentes de operação responsáveis quando observadas degradações ou interrupções nos
+serviços por eles prestados.
+3.2. Agentes de operação
+(a) Coordenar, supervisionar e executar a manutenção dos serviços e dos equipamentos sob sua
+responsabilidade.
+(b) Manter o ONS informado de todas as etapas do processo de manutenção.
+(c) Coordenar as atividades de localização de falhas e/ou defeitos nos serviços de telecomunicações sob
+sua responsabilidade.
+(d) Informar ao ONS, logo que definido, o prazo para retorno à operação de um serviço de
+telecomunicações em processo de restabelecimento.
+(e) Informar ao ONS os dados necessários ao correto registro da ocorrência.
+(f) Executar testes operacionais em serviços de telecomunicações para a verificação da qualidade desses
+serviços e de sua conformidade com os requisitos estabelecidos no Submódulo 2.15 – Requisitos
+mínimos para telecomunicações, nos casos em que esses serviços tenham retornado da manutenção
+ou apresentem comportamento instável ou irregular.
+(g) Interagir com todas as empresas envolvidas no atendimento aos serviços de telecomunicações sob
+sua responsabilidade para garantir que as atividades de manutenção sejam realizadas.
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 5 – Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Manutenção dos serviços de telecomunicações
+que atendem a operação do Sistema Interligado 5.9 Responsabilidades 2020.12 01/01/2021
+Nacional
+4. PRAZOS
+Quadro 1 - Prazos para manutenção os serviços de telecomunicações
+Atividade Responsável Prazo Observação
+Compatível com O índice de
+Solução de falhas e
+Agente de o índice de disponibilidade de
+1 reestabelecimento dos serviços
+operação disponibilidade serviço é definido no
+de telecomunicações
+do serviço Submódulo 2.15
+5. REFERÊNCIA
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 4 / 4

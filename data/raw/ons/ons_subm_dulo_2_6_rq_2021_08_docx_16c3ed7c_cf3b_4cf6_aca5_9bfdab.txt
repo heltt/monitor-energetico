@@ -1,0 +1,971 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 2.6-RQ_2021.08.docx_16c3ed7c-cf3b-4cf6-aca5-9bfdabe244af
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 2.6-RQ_2021.08.docx_16c3ed7c-cf3b-4cf6-aca5-9bfdabe244af.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 2.6
+Requisitos mínimos para subestações e
+seus equipamentos
+Requisitos
+Revisão Motivo da revisão Data de aprovação
+2021.08 Despacho ANEEL nº 2.596/2021 31/08/2021
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para subestações e seus
+2.6 Requisitos 2021.08 17/09/2021
+equipamentos
+ÍNDICE
+1. OBJETIVO ..................................................................................................................................... 4
+2. REQUISITOS GERAIS ...................................................................................................................... 4
+3. SUBESTAÇÃO ................................................................................................................................ 4
+3.1. Arranjo de barramento .................................................................................................................. 4
+3.2. Corrente em regime permanente ................................................................................................. 5
+3.3. Aterramento .................................................................................................................................. 5
+3.4. Capacidade de curto-circuito......................................................................................................... 5
+3.5. Coordenação de isolamento .......................................................................................................... 6
+Tensão em regime permanente .................................................................................. 6
+Equipamentos localizados nos terminais da LT ........................................................... 6
+Isolamento sob poluição.............................................................................................. 7
+Desempenho sob descargas atmosféricas .................................................................. 7
+3.6. Emissão eletromagnética .............................................................................................................. 7
+Rádio interferência ...................................................................................................... 7
+Efeito corona................................................................................................................ 7
+Campos elétrico e magnético ...................................................................................... 8
+4. EQUIPAMENTOS DA SUBESTAÇÃO ................................................................................................ 8
+4.1. Unidade transformadora de potência ........................................................................................... 8
+Energização de unidade transformadora de potência ................................................ 8
+Enrolamentos terciários .............................................................................................. 8
+Comutação de derivação em carga ............................................................................. 8
+Condições operativas ................................................................................................... 9
+Impedância ................................................................................................................ 11
+Perdas ........................................................................................................................ 11
+Nível de ruído............................................................................................................. 12
+4.2. Equipamento de compensação reativa convencional ................................................................. 12
+Banco de capacitores em derivação .......................................................................... 12
+Reator em derivação.................................................................................................. 13
+Endereço na internet: http://www.ons.org.br 2 / 25
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para subestações e seus
+2.6 Requisitos 2021.08 17/09/2021
+equipamentos
+Banco de capacitores em série fixos ......................................................................... 15
+4.3. Compensador estático de potência reativa................................................................................. 16
+Condições gerais ........................................................................................................ 16
+Controle do CER ......................................................................................................... 17
+Ajuste do sistema de controle ................................................................................... 17
+Tempos de eliminação de defeito ............................................................................. 17
+Frequência ................................................................................................................. 18
+Ciclo de sobrecarga .................................................................................................... 18
+Desempenho do CER ................................................................................................. 19
+Perdas ........................................................................................................................ 19
+Desempenho harmônico ........................................................................................... 20
+4.4. Unidade FACTS ............................................................................................................................. 20
+Aplicações .................................................................................................................. 20
+Comportamento ........................................................................................................ 20
+Eficiência .................................................................................................................... 21
+4.5. Disjuntores ................................................................................................................................... 21
+4.6. Seccionadoras, lâminas de terra e chaves de aterramento ........................................................ 23
+4.7. Para-raios ..................................................................................................................................... 23
+4.8. Transformador de potencial ........................................................................................................ 23
+4.9. Transformador de corrente ......................................................................................................... 23
+4.10. Serviços auxiliares das subestações ............................................................................................ 24
+Alimentação em corrente contínua para os sistemas de proteção, supervisão e
+controle ...................................................................................................................... 24
+Alimentação em corrente contínua para sistemas de telecomunicação .................. 24
+Alimentação em corrente alternada ......................................................................... 24
+Testes de manutenção............................................................................................... 25
+5. REFERÊNCIAS .............................................................................................................................. 25
+Endereço na internet: http://www.ons.org.br 3 / 25
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para subestações e seus
+2.6 Requisitos 2021.08 17/09/2021
+equipamentos
+1. OBJETIVO
+1.1. Estabelecer os requisitos mínimos para as subestações, para os equipamentos integrantes das Funções
+Transmissão Transformação (FTTR), Controle de Reativo (FTCR) e Módulo Geral (FTMG) e para os
+equipamentos terminais da Função Transmissão Linha de Transmissão (FTLT).
+1.1.1. Os requisitos descritos neste submódulo aplicam-se às instalações de transmissão integrantes ou que
+venham a integrar a Rede Básica ou as instalações de transmissão de energia elétrica destinadas a
+interligações internacionais conectadas à Rede Básica e aos agentes de geração, de distribuição, de
+importação/exportação e consumidores responsáveis por subestações com conexão às instalações sob
+responsabilidade de concessionária de transmissão.
+2. REQUISITOS GERAIS
+2.1. As instalações referidas no item 1 deste submódulo devem atender às prescrições para projeto,
+fabricação, manutenção e operação das Normas Técnicas da Associação Brasileira de Normas Técnicas –
+ABNT e, no caso de essas não serem aplicáveis parcial ou integralmente, às da International Electrotechnical
+Commission – IEC, American National Standards Institute – ANSI, American Society for Testing and Materials
+– ASTM ou National Electrical Safety Code – NESC, nessa ordem de preferência, a não ser que se indique
+expressamente de outra forma.
+2.2. Os equipamentos e instalações não devem comprometer o desempenho sistêmico da Rede Básica,
+limitar a operação da Rede Básica ou das instalações de transmissão de energia elétrica destinadas a
+interligações internacionais conectadas à Rede Básica, tampouco impor restrições às instalações a elas
+conectadas.
+2.3. Deve haver coordenação e compatibilização entre as capacidades nominais e de sobrecargas de todos
+os equipamentos de uma mesma FT.
+3. SUBESTAÇÃO
+3.1. Arranjo de barramento
+3.1.1. Subestações com isolamento a ar devem adotar uma das seguintes configurações para os arranjos de
+barramento, em função de sua classe de tensão:
+(a) barramentos de tensão igual a 230 kV: arranjo barra dupla com disjuntor simples a quatro chaves; ou
+(b) barramentos de tensão igual ou superior a 345 kV: arranjo barra dupla com disjuntor e meio.
+3.1.2. Arranjos de barramento alternativos podem ser utilizados, inclusive os de tecnologia com isolamento
+em SF6, desde que os estudos de confiabilidade, flexibilidade operativa e disponibilidade (saída forçada e
+programada) apresentados pelo agente de transmissão comprovem desempenho igual ou superior ao dos
+arranjos estabelecidos no item 3.1.1. deste submódulo. Além disso, esses arranjos devem atender ao que
+estabelece o item 2.2. deste submódulo.
+3.1.3. Os arranjos de barramento alternativos referidos no item 3.1.2. deste submódulo devem ser
+submetidos à aprovação do Operador Nacional do Sistema Elétrico – ONS, que fará análise e encaminhará
+proposta de tratamento à Agência Nacional de Energia Elétrica – ANEEL.
+3.1.4. Os requisitos de arranjo de barramento para subestações são estabelecidos para a etapa final da
+instalação. Para a etapa inicial, podem ser aceitas variantes que permitam evoluir para os arranjos
+Endereço na internet: http://www.ons.org.br 4 / 25
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para subestações e seus
+2.6 Requisitos 2021.08 17/09/2021
+equipamentos
+estabelecidos no item 3.1.1. deste submódulo, desde que essas variantes atendam aos requisitos
+estabelecidos no Submódulo 2.11 – Requisitos mínimos para os sistemas de proteção, de registro de
+perturbações e de teleproteção. O ONS, considerando os aspectos de segurança e de flexibilidade operativa,
+bem como de desempenho da Rede Básica estabelece o estágio da subestação a partir do qual deve ocorrer
+a evolução para os arranjos estabelecidos no item 3.1.1. deste submódulo.
+3.1.5. Para os barramentos com tensão igual ou superior a 345 kV, é permitida a adoção inicial de arranjo
+de barramento em anel simples, desde que o arranjo físico dos barramentos da subestação seja projetado
+conforme estabelecido no item 3.1.1. deste submódulo.
+3.1.6. Para os barramentos de 230 kV, cujas subestações constituam sistemas radiais simples, é permitida a
+adoção de arranjo de barramento em barra principal e transferência, desde que o arranjo físico desse
+barramento seja projetado de forma a permitir a evolução para o arranjo estabelecido no item 3.1.1 deste
+submódulo.
+3.2. Corrente em regime permanente
+3.2.1. Os barramentos devem suportar tanto os valores de corrente em regime permanente definidos pelos
+estudos com horizonte de operação – Plano da Operação Elétrica de Médio Prazo do SIN (PAR/PEL), quanto
+pelos de longo prazo, elaborados pela Empresa de Pesquisa Energética – EPE, nos quais devem ser
+consideradas as possíveis futuras expansões das subestações para o período de concessão da instalação.
+3.2.2. Os equipamentos das conexões de unidade transformadora de potência e interligação de barras
+devem suportar tanto os valores de corrente em regime permanente estimados pelos estudos com horizonte
+de operação (PAR/PEL), quanto pelos estudos de longo prazo elaborados pela EPE, nos quais devem ser
+consideradas as possíveis expansões durante o período de concessão da instalação. Ao valor de corrente,
+devem ser acrescentadas margens de segurança em função da circulação de correntes harmônicas e de
+sobrecargas definidas nas normas aplicáveis.
+3.2.3. Os equipamentos de conexão em série com LT devem atender aos requisitos de capacidade de
+corrente estabelecidos no Submódulo 2.7 – Requisitos mínimos para linhas de transmissão, para o período
+de concessão da instalação.
+3.2.4. Os barramentos e demais equipamentos referidos nos itens 3.2.2. e 3.2.3. deste submódulo devem
+ser dimensionados considerando a indisponibilidade de elementos na subestação.
+3.3. Aterramento
+3.3.1. As instalações de transmissão devem ser solidamente aterradas, atendendo às relações:
+(a) X0/X1  3; e
+(b) R0/X1  1.
+3.3.1.1. Esse requisito deve contemplar a etapa final de evolução da instalação, conforme previsto pelos
+estudos de planejamento da expansão da transmissão.
+3.4. Capacidade de curto-circuito
+3.4.1. Os barramentos, a malha de terra e os equipamentos devem suportar as máximas correntes de curto-
+circuito, simétricas e assimétricas, definidas tanto pelos estudos de operação (PAR/PEL) quanto pelos de
+longo prazo elaborados pela EPE, considerando os tempos máximos de eliminação de defeito adotados no
+Submódulo 2.11, para o período de concessão da instalação. Para fins de padronização, a capacidade de
+Endereço na internet: http://www.ons.org.br 5 / 25
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para subestações e seus
+2.6 Requisitos 2021.08 17/09/2021
+equipamentos
+curto-circuito nominal para os equipamentos (excetuando-se os transformadores de corrente) e instalações
+deve ser, no mínimo:
+(a) Igual ou superior a 345 kV: 50 kA; ou
+(b) 230 kV: 40 kA.
+3.4.2. Para o cálculo das tensões de passo, toque e gradiente de potencial, deve-se observar o disposto no
+item 3.4. deste submódulo.
+3.5. Coordenação de isolamento
+Tensão em regime permanente
+3.5.1.1. Os barramentos e os equipamentos devem suportar, para a condição de operação em regime
+permanente nas barras com carga, o valor máximo de tensão estabelecido na Tabela 1.
+Tabela 1 – Tensão máxima em regime permanente
+Tensão nominal do Tensão máxima
+sistema (kV) (kV fase-fase, eficaz)
+13,8 14,5
+34,5 36,2
+69 72,5
+88 92,4
+138 145
+230 242
+345 362
+440 460
+500 ou 525 550
+765 800
+Equipamentos localizados nos terminais da LT
+3.5.2.1. Equipamentos localizados nos terminais de uma LT que possam ficar energizados após a manobra
+da LT, tais como reatores de linha, disjuntores, secionadores, transformadores de potencial, devem suportar,
+no terminal em vazio, por uma hora, as sobretensões à frequência industrial estabelecidas na Tabela 2.
+Endereço na internet: http://www.ons.org.br 6 / 25
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para subestações e seus
+2.6 Requisitos 2021.08 17/09/2021
+equipamentos
+Tabela 2 – Sobretensões sustentadas admissíveis a 60 Hz por 1 hora em terminais de LT em vazio
+Máxima tensão sustentada fase-
+fase, eficaz, por 1 hora, em
+Tensão nominal de
+terminais de LT a vazio
+operação (kV)
+(kV fase-fase,
+(pu) (1)
+eficaz)
+138 152 1,10
+230 253 1,10
+345 398 1,15
+440 506 1,15
+500 600 1,20
+525 600 1,15
+765 800 1,046
+(1) Valores em pu tendo como base a tensão nominal de operação.
+Isolamento sob poluição
+3.5.3.1. As instalações devem ser isoladas de forma a atender, sob tensão operativa máxima, as
+características de poluição da região, conforme classificação contida em norma [1].
+Desempenho sob descargas atmosféricas
+3.5.4.1. O sistema de proteção contra descargas atmosféricas da subestação deve ser dimensionado de
+forma a assegurar um risco de falha menor ou igual a uma descarga por 50 (cinquenta) anos.
+3.5.4.2. Além disso, deve-se assegurar que não haja falha de blindagem nas instalações para correntes
+superiores a 2 kA.
+3.6. Emissão eletromagnética
+Rádio interferência
+3.6.1.1. O valor da tensão de rádio interferência externa à subestação não deve exceder 2.500 V/m a 1.000
+kHz, com 110% da tensão nominal do sistema (115% nos sistemas 500 kV).
+Efeito corona
+3.6.2.1. As instalações das subestações, especialmente condutores e ferragens, não devem apresentar efeito
+corona visual em 90% do tempo para as condições atmosféricas predominantes na região da subestação. As
+tensões mínimas fase-terra eficaz para início e extinção de corona visual a serem consideradas no projeto
+são apresentadas na Tabela 3.
+Endereço na internet: http://www.ons.org.br 7 / 25
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para subestações e seus
+2.6 Requisitos 2021.08 17/09/2021
+equipamentos
+Tabela 3 – Tensão mínima para início e extinção de corona visual
+Tensão nominal Tensão mínima
+(kV) (kV fase-terra, eficaz)
+765 536
+500 ou 525 350
+440 308
+345 242
+230 161
+138 97
+Campos elétrico e magnético
+3.6.3.1. Devem ser atendidas as determinações da regulação [2].
+4. EQUIPAMENTOS DA SUBESTAÇÃO
+4.1. Unidade transformadora de potência
+Energização de unidade transformadora de potência
+4.1.1.1. Uma unidade transformadora de potência deve ser dimensionada de forma a permitir sua
+energização tanto pelo enrolamento primário quanto pelo secundário, para toda a faixa de tensão operativa,
+sem ocasionar restrições de operação.
+4.1.1.2. As características básicas de uma unidade transformadora de potência, particularmente os valores
+da reatância de núcleo de ar (Xac) e o nível do joelho da curva de saturação, devem ser especificadas com
+base na avaliação do impacto sobre o Sistema Interligado Nacional (SIN) das sobretensões de manobra e
+correntes inrush advindas de sua energização.
+4.1.1.3. Os disjuntores de uma unidade transformadora de potência devem atender ao disposto no item
+4.5.4. deste submódulo.
+Enrolamentos terciários
+4.1.2.1. A eventual necessidade de enrolamentos terciários deve, mediante estudos, ser determinada pelos
+seguintes condicionamentos sistêmicos:
+(a) instalação de suporte de reativo;
+(b) atenuação de fatores de sobretensão; e
+(c) absorção de harmônicos de tensão de terceira ordem.
+Comutação de derivação em carga
+4.1.3.1. O comutador de derivação em carga deve estar de acordo com [3], observado o disposto no item
+2.1. deste submódulo.
+Endereço na internet: http://www.ons.org.br 8 / 25
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para subestações e seus
+2.6 Requisitos 2021.08 17/09/2021
+equipamentos
+4.1.3.2. O quantitativo e a faixa de derivações, assim como o enrolamento onde deve ser instalado o
+comutador em carga, são definidos com base em estudos sistêmicos, exceto quando a unidade
+transformadora de potência for instalada em paralelo a outra existente, situação na qual o comutador em
+carga deve ter as mesmas características de derivações e de localização da unidade transformadora de
+potência existente.
+Condições operativas
+4.1.4.1. Uma unidade transformadora de potência deve ser capaz de operar com as suas potências nominais,
+em regime permanente, para toda a faixa operativa de tensão entre fases admissível a 60 Hz definida no
+Submódulo 2.3 – Premissas, critérios e metodologia para estudos elétricos, tanto no primário quanto no
+secundário. Caso possuam comutadores de derivação, sejam eles em carga ou não, a referida faixa operativa
+deve ser atendida para todas as posições desses comutadores.
+4.1.4.2. Uma unidade transformadora de potência deve ser especificada e dimensionada para vida útil
+estabelecida em regulamento da ANEEL.
+4.1.4.3. Uma unidade transformadora de potência deve ser dimensionada para três situações distintas:
+(a) carregamento em condição normal de operação;
+(b) carregamento em condição de emergência de curta duração; e
+(c) carregamento em condição de emergência de longa duração.
+4.1.4.4. O agente de transmissão deve garantir que, em condição normal de operação, a unidade
+transformadora possa operar continuamente desde sua entrada em operação e ao longo de toda a vida útil
+com carregamento de 100% da potência nominal.
+4.1.4.5. O agente de transmissão deve garantir que, em condição de emergência de curta duração e de longa
+duração, a unidade transformadora possa operar sempre que solicitada pelo ONS desde sua entrada em
+operação e ao longo de toda a vida útil nas condições operativas descritas a seguir:
+(a) Carregamento de 120% da potência nominal por período de 4 (quatro) horas do seu ciclo diário de
+carga para a expectativa de perda de vida útil normal estabelecida nas normas técnicas de
+carregamento de transformadores. A referida sobrecarga de 20% deve poder ser alcançada para
+qualquer condição prévia de carregamento do transformador no seu ciclo diário de carga;
+(b) Carregamento de 140% da potência nominal por período de 30 (trinta) minutos do seu ciclo diário de
+carga para a expectativa de perda de vida útil normal estabelecida nas normas técnicas de
+carregamento de transformadores. A referida sobrecarga de 40% deve poder ser alcançada para
+qualquer condição prévia de carregamento do transformador no seu ciclo diário de carga, inclusive
+para a condição ilustrada na Figura 1; e
+(c) Os carregamentos de 120% e 140% podem ocorrer dentro do mesmo ciclo diário.
+Endereço na internet: http://www.ons.org.br 9 / 25
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para subestações e seus
+2.6 Requisitos 2021.08 17/09/2021
+equipamentos
+Endereço na internet: http://www.ons.org.br 10 / 25
+C
+1
+1
+1
+a
+4
+2
+0
+r
+0
+0
+0
+r e g a m e n t o ( % )
+4 h 0 ,5 h
+T e m
+2p 4o
+( h o r a )
+Figura 1 – Ciclo de carga diário
+4.1.4.6. É atribuição do agente de transmissão a especificação para fabricação de uma unidade
+transformadora, de forma que sejam atendidos os requisitos funcionais constantes no item 4.1.4 deste
+submódulo. A especificação para fabricação deve levar em conta, entre outros, os seguintes aspectos:
+(a) temperatura do local de implantação da unidade transformadora, observado o disposto no item 2.1
+deste submódulo; e
+(b) a quantidade total de unidades transformadoras em paralelo no mesmo barramento para o horizonte
+de planejamento da subestação.
+4.1.4.7. É responsabilidade do agente de transmissão a gestão da unidade transformadora, do ponto de vista
+de rotinas de manutenção, de forma a possibilitar o atendimento aos requisitos funcionais constantes no
+item 4.1.4 deste submódulo.
+4.1.4.8. Uma unidade transformadora de potência deve ser adequada para operação em paralelo nos
+respectivos terminais a serem conectadas.
+4.1.4.8.1. Caso seja detectada alguma situação sistêmica em que uma unidade transformadora limite a
+operação da capacidade de transformação do conjunto em paralelo, quer seja sob o ponto de vista da
+confiabilidade ou da flexibilidade operativa, o ONS, por iniciativa própria ou motivado por solicitação de um
+agente de transmissão, deve avaliar e submeter à apreciação da ANEEL a possibilidade de seu
+recondicionamento ou recapacitação.
+4.1.4.9. Os procedimentos para aplicação de cargas nas unidades transformadoras de potência devem
+atender ao disposto no item 2.1 deste submódulo, além dos requisitos funcionais constantes no item 4.1.4
+deste submódulo.
+4.1.4.10. Uma unidade transformadora de potência deve ser capaz de suportar o perfil de sobreexcitação
+em vazio a 60 Hz apresentado na Tabela 4.
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para subestações e seus
+2.6 Requisitos 2021.08 17/09/2021
+equipamentos
+Tabela 4 – Sobreexcitação em vazio a 60 Hz, em qualquer derivação de operação
+Período Tensão (pu da tensão da derivação)
+10 (dez) segundos 1,35
+20 (vinte) segundos 1,25
+1 (um) minuto 1,20
+8 (oito) minutos 1,15
+Impedância
+4.1.5.1. O valor da impedância entre o enrolamento primário e o secundário de uma unidade
+transformadora de potência deve ser no máximo 14%, referenciado a 75ºC, na base nominal da unidade
+transformadora de potência, com todo o sistema de refrigeração em operação. Impedâncias superiores
+podem ser aceitas apenas em caso de unidade transformadora defasadora ou em situações especiais, como,
+por exemplo, em caso de necessidade de limitação de correntes de curto-circuito.
+4.1.5.2. No caso de unidade transformadora defasadora, a impedância deve ser dimensionada de acordo
+com as necessidades do conjunto impedância-defasagem angular, de forma a prover o desempenho previsto
+nos estudos de sistema.
+4.1.5.3. Na definição do valor mínimo da impedância, deve-se considerar os máximos valores admissíveis de
+corrente de curto-circuito explicitados no item 3.4. deste submódulo.
+4.1.5.4. Os valores máximo e mínimo de impedância devem atender às condições de paralelismo, se uma
+unidade transformadora de potência for instalada em paralelo a outra existente.
+Perdas
+4.1.6.1. O valor das perdas máximas para autotransformadores monofásicos ou trifásicos de qualquer
+potência, com tensão nominal do enrolamento de alta tensão igual ou superior a 230 kV, deve ser inferior ou
+igual a 0,3% da potência nominal, para operação primário-secundário nas condições nominais de potência,
+frequência, tensões e derivações.
+4.1.6.2. No caso de transformadores trifásicos ou monofásicos de potência trifásica nominal superior a
+5 MVA, com tensão nominal do enrolamento de alta tensão igual ou superior a 230 kV, as perdas máximas
+entre o primário e o secundário devem atender aos limites listados na Tabela 5, para operação nas condições
+nominais de potência, frequência, tensões e derivações.
+Endereço na internet: http://www.ons.org.br 11 / 25
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para subestações e seus
+2.6 Requisitos 2021.08 17/09/2021
+equipamentos
+Tabela 5 – Perdas máximas para transformadores, em percentagem de sua potência trifásica nominal à tensão e
+frequência nominais
+Potência trifásica nominal Pn
+no último estágio de Perda máxima (% de Pn)
+refrigeração (MVA)
+5 ≤ Pn < 30 0,70 %
+30  Pn < 50 0,60 %
+50  Pn < 100 0,50 %
+100  Pn < 200 0,40 %
+200  Pn 0,30 %
+4.1.6.3. Os valores de perdas definidos no item 4.1.6 deste submódulo não são aplicáveis a unidades
+transformadoras de potência utilizadas em compensadores estáticos.
+Nível de ruído
+4.1.7.1. O nível máximo de ruído audível emitido por uma unidade transformadora de potência deve estar
+em conformidade com o disposto em norma da ABNT [5].
+4.2. Equipamento de compensação reativa convencional
+Banco de capacitores em derivação
+4.2.1.1. Conexão
+4.2.1.1.1. É permitida a ligação de mais de um banco de capacitores em derivação ao barramento através de
+uma única conexão, desde que cada banco de capacitores seja protegido e manobrado de modo
+independente e que tal configuração não comprometa o desempenho do SIN.
+4.2.1.2. Tolerâncias
+4.2.1.2.1. O valor da capacitância deve ter exatidão de 2,0% por fase em relação ao valor especificado e
+precisão tal que nenhum valor medido de qualquer das três fases se afaste mais de 1% do valor médio medido
+das três fases.
+4.2.1.3. Perdas dielétricas
+4.2.1.3.1. O valor médio das perdas dielétricas de cada unidade capacitiva à tensão e frequência nominais e
+à temperatura de 20 ºC, com resistor de descargas, deve ser de, no máximo, 0,12 W/kvar, para capacitores
+sem fusíveis internos, e 0,16 W/kvar, para capacitores com fusíveis internos.
+4.2.1.4. Capacidade de curto-circuito
+4.2.1.4.1. A máxima corrente de descarga dos capacitores provocada por curtos-circuitos internos na
+subestação, acrescida da contribuição de curto-circuito proveniente da rede, não deve exceder a
+suportabilidade dos equipamentos da subestação.
+Endereço na internet: http://www.ons.org.br 12 / 25
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para subestações e seus
+2.6 Requisitos 2021.08 17/09/2021
+equipamentos
+4.2.1.5. Energização
+4.2.1.5.1. As correntes e tensões transitórias provenientes da energização do banco, isoladamente ou na
+condição back-to-back, não devem submeter os equipamentos e dispositivos das instalações de transmissão
+a solicitações acima de sua suportabilidade.
+4.2.1.5.2. Na condição de back-to-back, devem ser tomadas precauções que evitem elevação transitória de
+potencial de terra que possa infringir os critérios de segurança pessoal ou causar interferências
+eletromagnéticas que causem o funcionamento indevido dos circuitos de comando, controle e proteção.
+Reator em derivação
+4.2.2.1. Tensão nominal
+4.2.2.1.1. Um reator em derivação deve ser especificado com uma tensão nominal que atenda aos seguintes
+requisitos:
+(a) Ser no mínimo igual ao valor mediano da faixa operativa de valores de tensões entre fases admissíveis
+a 60 Hz, definida no Submódulo 2.3, para a condição operativa normal; e
+(b) Nas situações em que o reator está instalado nas proximidades de um banco de capacitores série, ser
+no mínimo igual ao valor das solicitações determinadas pelos estudos de fluxo de potência, que
+podem levar, no ponto de instalação do reator, a valores de tensão superiores à tensão máxima
+operativa do sistema.
+4.2.2.1.2. O dimensionamento do reator, do ponto de vista das temperaturas máximas possíveis de serem
+atingidas, deve ser feito para a tensão máxima operativa a 60 Hz, estabelecida no Submódulo 2.3, ou para a
+tensão determinada pelos estudos de fluxo de potência, nas situações em que a tensão nominal seja superior
+à máxima tensão operativa do sistema.
+4.2.2.1.3. Deve atender às características de temperatura conforme as Normas Técnicas ABNT.
+4.2.2.1.4. A operação na tensão nominal deve ser possível por toda a vida útil do reator.
+4.2.2.2. Tolerâncias
+4.2.2.2.1. O valor da reatância deve ter exatidão de  2,0% por fase em relação ao valor especificado e
+precisão tal que nenhum valor medido de qualquer das três fases se afaste mais de 1% do valor médio medido
+das três fases.
+4.2.2.3. Esquemas de aterramento
+4.2.2.3.1. Os reatores podem considerar os seguintes esquemas de aterramento:
+(a) estrela solidamente aterrada; ou
+(b) estrela aterrada através de impedância.
+4.2.2.3.2. Caso os estudos de religamento monopolar, com a frequência da rede entre 56 Hz e 66 Hz,
+identifiquem a necessidade de adoção de reator de neutro, o isolamento do neutro do reator deve ser
+dimensionado considerando esse equipamento.
+4.2.2.4. Especificações e dimensionamento
+Endereço na internet: http://www.ons.org.br 13 / 25
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para subestações e seus
+2.6 Requisitos 2021.08 17/09/2021
+equipamentos
+4.2.2.4.1. Um reator em derivação deve ser especificado para operar continuamente na tensão nominal
+definida no item 4.2.2.1 deste submódulo durante toda a sua vida útil.
+4.2.2.4.2. Um reator em derivação manobrável deve ser especificado para suportar os transitórios devido às
+manobras diárias de abertura e fechamento de seus disjuntores durante toda a sua vida útil.
+4.2.2.4.3. As manobras de abertura e fechamento de um reator em derivação manobrável não devem
+provocar sobretensões inadmissíveis ou transitórios de frequência elevada que possam colocar em risco os
+demais equipamentos da subestação, nem o próprio reator manobrável. Deve ser também observado o
+disposto no item 4.5.3. (b) deste submódulo.
+4.2.2.4.4. Um reator em derivação deve ser capaz de suportar os níveis de sobretensões transitória e
+temporária definidos pelos estudos de sistema.
+4.2.2.4.5. O dimensionamento de um reator em derivação deve considerar a possibilidade de sobretensões
+em regime normal de operação, de forma a não ser limitador da capacidade de transmissão da LT.
+4.2.2.4.6. O dimensionamento e especificação de um reator em derivação deve ser feito considerando a
+temperatura máxima do ponto de instalação, conforme norma técnica, atendendo ao disposto no item 2.1
+deste submódulo.
+4.2.2.4.7. O reator de linha conectado a terminais de banco de capacitores em série deve observar o disposto
+no item 4.2.3.5.5. deste submódulo.
+4.2.2.5. Vida útil
+4.2.2.5.1. Um reator em derivação submetido ao regime de operação definido no item 4.2.2.4.1. 4.2.2.4.
+deste submódulo deve ser especificado para a expectativa de vida útil regulamentada pela ANEEL.
+4.2.2.5.2. A exposição de um reator de linha às tensões estabelecidas na Tabela 2 durante a operação em
+vazio por uma hora da LT onde estão instalados não deve alterar a expectativa sua vida útil.
+4.2.2.6. Perdas
+4.2.2.6.1. As perdas totais máximas à tensão e frequência nominais de um reator em derivação trifásico ou
+monofásico de potência nominal igual ou superior a 5 Mvar e de tensão nominal do enrolamento de alta
+tensão igual ou superior a 230 kV devem atender aos limites listados na Tabela 6.
+Tabela 6 – Perdas totais máximas à tensão e frequência nominais para um reator em derivação trifásico ou
+monofásico com tensão nominal igual ou superior a 230 kV, em percentagem da potência nominal
+Potência Nominal Pn
+Perda total máxima (% de Pn)
+(Mvar)
+5 ≤ Pn < 10 0,70 %
+10  Pn < 15 0,60 %
+15  Pn < 20 0,50 %
+20  Pn < 30 0,40 %
+30  Pn 0,30 %
+Endereço na internet: http://www.ons.org.br 14 / 25
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para subestações e seus
+2.6 Requisitos 2021.08 17/09/2021
+equipamentos
+Banco de capacitores em série fixos
+4.2.3.1. Tolerâncias
+4.2.3.1.1. O valor da capacitância deve ter exatidão de 2,0% por fase em relação ao valor especificado e
+precisão tal que nenhum valor medido de qualquer das três fases se afaste mais de 1% do valor médio medido
+das três fases.
+4.2.3.2. Perdas dielétricas
+4.2.3.2.1. O valor médio das perdas dielétricas de cada unidade capacitiva à tensão e frequência nominais,
+com resistor de descargas e à temperatura de 20ºC, deve ser de, no máximo, 0,12 W/kvar, para capacitores
+sem fusíveis internos, e 0,16 W/kvar, para capacitores com fusíveis internos.
+4.2.3.3. Capacidade de sobrecarga
+4.2.3.3.1. A capacidade de sobrecarga deve atender aos valores de sobrecarga discriminados na Tabela 7 ou
+superiores, caso os estudos de planejamento da expansão indiquem essa necessidade.
+Tabela 7 – Capacidade de sobrecarga de bancos de capacitores série fixos
+Em um
+Corrente (pu) Duração
+período de
+1,10 8 horas 12 horas
+1,35 30 minutos 6 horas
+1,50 10 minutos 2 horas
+4.2.3.4. By-pass do banco de capacitores série
+4.2.3.4.1. Os dispositivos de proteção dos varistores do banco de capacitores série não devem atuar para
+faltas externas à LT na qual o banco está instalado, à exceção dos seguintes casos específicos:
+(a) Faltas externas que sejam eliminadas em tempo superior ao tempo máximo de eliminação de
+defeito t (100 ms para V  345 kV e 150 ms para V < 345 kV). Nesse caso, o dispositivo de proteção
+m N N
+dos varistores só pode atuar t milissegundos após a detecção da falta. O banco de capacitores série
+m
+deve ser reinserido em até 300 ms após a eliminação da falta.
+(b) Faltas externas trifásicas eliminadas em até t milissegundos, com religamento mal sucedido após
+m
+500 ms de tempo morto. Nesse caso, o dispositivo de proteção dos varistores só pode atuar após t
+m
+milissegundos da tentativa mal sucedida de religamento.
+4.2.3.5. Especificações e dimensionamento
+4.2.3.5.1. Dispositivos de proteção dos equipamentos de compensação série que utilizem varistores devem
+ser dimensionados considerando varistores à base de óxido metálico.
+4.2.3.5.2. O dimensionamento do requisito de energia dos varistores deve levar em conta a condição de falta
+externa mais crítica, inclusive para a possibilidade de linha paralela fora de serviço, bem como todos os
+Endereço na internet: http://www.ons.org.br 15 / 25
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para subestações e seus
+2.6 Requisitos 2021.08 17/09/2021
+equipamentos
+cenários e intercâmbios previstos no sistema de transmissão, abrangendo desde a configuração inicial até à
+do ano horizonte de planejamento.
+4.2.3.5.3. O dimensionamento do banco de capacitores série deve levar em consideração a máxima corrente
+de swing identificada pelos estudos de sistema.
+4.2.3.5.4. O banco de capacitores série deve ser dotado de mecanismos que possibilitem a identificação e a
+adoção de medidas mitigadoras para as configurações operativas que possam propiciar o surgimento de
+ressonâncias subsíncronas.
+4.2.3.5.5. Os equipamentos adjacentes ao banco de capacitores série e conectados à linha de transmissão,
+tais como reatores em derivação, transformadores de corrente, transformadores de potencial e para-raios,
+devem ser especificados para a máxima tensão em regime permanente associada à elevação de tensão
+causada pelo fluxo da máxima corrente especificada através do banco de capacitores série.
+4.3. Compensador estático de potência reativa
+Condições gerais
+4.3.1.1. O sistema de controle do compensador estático de potência reativa (CER) não pode comprometer
+o desempenho do SIN, tanto em operação normal como sob contingências, emergências e operação
+degradada, em regimes permanente e transitório.
+4.3.1.2. O CER não deve propiciar o surgimento de condições de ferroressonância nem de saturação
+assimétrica do núcleo de unidades transformadoras de potência.
+4.3.1.3. Para qualquer cálculo de harmônicos e filtros, devem ser consideradas as tolerâncias de fabricação
+das impedâncias da unidade transformadora de potência elevadora do CER, incluindo diferenças entre fases,
+bem como os valores especificados de tensão de sequência negativa da rede e da faixa de variação da
+frequência fundamental.
+4.3.1.4. A medição de tensão associada à estratégia de subtensão do CER deve ser de acordo com definição
+do ONS em função das necessidades de operação da rede associada. O ONS pode optar pela medição baseada
+na:
+(a) tensão mínima instantânea (fase-fase e fase-terra); ou
+(b) tensão de sequência positiva.
+4.3.1.5. Deve ser demonstrado o desempenho do CER para a operação em condições nominais e degradadas,
+por meio de estudos com programas de transitórios eletromagnéticos e de estabilidade transitória e
+dinâmica, a serem elaborados pelo agente de transmissão.
+4.3.1.6. Todos os equipamentos integrantes do CER devem ser dimensionados para suportar as solicitações
+de curto-circuito na barra de conexão à Rede Básica onde estão instalados.
+4.3.1.7. Deve ser fornecida ao ONS a memória de cálculo com o dimensionamento do circuito principal do
+CER.
+4.3.1.8. Deve ser disponibilizado ao ONS os modelos computacionais para simulações de regime
+permanente, transitórios eletromecânicos (estudos dinâmicos) e de transitórios eletromagnéticos. Esses
+modelos devem ser entregues devidamente aferidos e documentados.
+Endereço na internet: http://www.ons.org.br 16 / 25
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para subestações e seus
+2.6 Requisitos 2021.08 17/09/2021
+equipamentos
+Controle do CER
+4.3.2.1. O controle do CER deve ser concebido de forma a evitar oscilações intermitentes (hunting) com
+controles de outros CER eletricamente próximos. A operação dos sistemas de controle de elementos
+manobráveis e/ou comutadores automáticos de unidades transformadoras de potência (do CER ou externos)
+não deve dar origem a oscilações intermitentes entre esses elementos, nem entre nenhum deles e o controle
+do CER.
+4.3.2.2. O controle do CER deve ser concebido de forma a contribuir para minimizar as perturbações no
+sistema elétrico durante uma falta. O controle deve ser dimensionado considerando a necessidade de
+atuação do esquema de religamento monopolar.
+4.3.2.3. O controle do CER deve dispor de uma estratégia de subtensão que permita o bloqueio do CER em
+potência zero, em caso de faltas na sua vizinhança, com a finalidade de evitar que, durante a eliminação das
+mesmas, o CER fique totalmente capacitivo, agravando as sobretensões no SIN. Essa estratégia deve possuir
+temporização para o bloqueio e o desbloqueio do CER, bem como dispor de uma histerese associada para
+evitar instabilidade. Tanto os níveis de bloqueio/desbloqueio quanto as temporizações associadas devem ser
+ajustáveis.
+4.3.2.4. O controle do CER deve permitir a entrada de sinais de grandezas elétricas adicionais (fluxo de
+potência ativa, frequência etc.) com o objetivo de modular, se necessário, a potência reativa do CER para
+amortecer oscilações de tensão, oscilações de potência na rede elétrica e ressonâncias subsíncronas.
+4.3.2.5. O controle do CER deve ser projetado de tal forma a não comprometer a estabilidade de tensão da
+rede elétrica. Para tanto, deve identificar a sensibilidade da tensão da rede elétrica à variação da susceptância
+do CER e adotar medidas corretivas para evitar condições de instabilidade.
+4.3.2.6. Deve ser possível ajustar a inclinação da rampa do controle do CER de forma contínua dentro da
+faixa de tensão operativa em regime permanente, no ponto de conexão do CER.
+Ajuste do sistema de controle
+4.3.3.1. O ajuste inicial adequado do sistema de controle do CER deve ser feito levando-se em conta a
+potência de curto-circuito trifásica máxima e a potência de curto-circuito mínima em condição de rede
+degradada no ano de entrada em operação e no barramento de conexão do CER.
+4.3.3.2. Os valores de pré-ajustes devem ser informados ao ONS, antes dos estudos pré-operacionais, de
+forma a fornecer elementos para a otimização do desempenho dinâmico do equipamento durante o
+desenvolvimento desses estudos.
+4.3.3.3. Os valores destes pré-ajustes devem estar baseados em estudos de Real Time Digital Simulator
+(RTDS), no qual o sistema de transmissão associado esteja representado. Os equivalentes de curto-circuito
+devem estar localizados pelo menos a duas barras (segunda vizinhança) do ponto de acoplamento comum
+do CER.
+Tempos de eliminação de defeito
+4.3.4.1. O projeto do CER deve considerar os tempos de eliminação de faltas apresentados na Tabela 8.
+Endereço na internet: http://www.ons.org.br 17 / 25
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para subestações e seus
+2.6 Requisitos 2021.08 17/09/2021
+equipamentos
+Tabela 8 – Tempo de eliminação de faltas
+Tempo de eliminação de faltas (ms)
+Tensão (kV)
+Sem falha de Com falha de
+disjuntor disjuntor
+765 80 200
+525 e 500 100 250
+440 100 250
+345 100 400
+230 150 500
+138 150 500
+138(1) 450 750
+88(1) 450 750
+69(1) 800 1000
+(1) sem teleproteção
+Frequência
+4.3.5.1. O CER deve ser dimensionado para operar nas seguintes condições de frequência:
+(a) Faixa de frequência em regime permanente: 60 ± 0,2 Hz.
+(b) Faixa de variação transitória de frequência:
+(1) 56 a 59,8 Hz por 20 segundos; e
+(2) 60,2 a 66 Hz por 20 segundos.
+4.3.5.2. A faixa de operação em regime permanente deve ser utilizada para cálculos de desempenho de
+equipamentos e as faixas de operação transitória para o cálculo dos valores de capacidade (rating).
+Ciclo de sobrecarga
+4.3.6.1. O CER deve ser capaz de suportar as condições de operação em sobrecarga de acordo com a
+envoltória de sobretensões definida pelos estudos de planejamento. Essa envoltória deve contemplar as
+sobretensões de manobra de elementos da rede, sejam unidades transformadoras de potência, LT ou outros,
+situados eletricamente próximos e que possam submeter o ponto onde o CER está conectado a sobretensões
+transitórias significativas. Essas manobras devem considerar também topologias degradadas da rede.
+4.3.6.2. Na indisponibilidade da envoltória de sobretensões definida pelos estudos de planejamento, o CER
+deve ser capaz de suportar, no mínimo, as condições de operação em sobrecarga apresentadas na Tabela 9.
+Endereço na internet: http://www.ons.org.br 18 / 25
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para subestações e seus
+2.6 Requisitos 2021.08 17/09/2021
+equipamentos
+Tabela 9 – Envoltória de sobretensões para operação em sobrecarga
+Tensão (pu) Duração mínima da sobrecarga
+1,80 50 ms
+1,40 200 ms
+1,30 1 s
+1,20 10 s
+1,05(1) Continuamente
+(1) Para as tensões de operação de 500 ou 525 kV, o ciclo deve prever a
+operação contínua para 550 kV (1,10 pu de 500 kV)
+4.3.6.3. O CER deve suportar o ciclo de sobretensão/sobrecarga indutiva, a partir do regime permanente,
+totalmente indutivo, observando ainda as seguintes condições:
+(a) sem que haja disparo protetivo da válvula de tiristores produzido pelas sobretensões de bloqueio
+dos tiristores (turn-off overshoot);
+(b) sem que a temperatura de junção dos tiristores supere a máxima temperatura de junção admitida no
+projeto; e
+(c) sem que haja limitação no ângulo de disparo dos reatores controlados a tiristores – Thyristor
+Controlled Reactor (TCR).
+Desempenho do CER
+4.3.7.1. O CER deve apresentar, no mínimo, o desempenho estabelecido no instrumento técnico do
+documento de outorga.
+4.3.7.2. O CER deve apresentar padrão de resposta conforme os parâmetros indicados na Tabela 10.
+Tabela 10 – Padrão de resposta do CER
+Parâmetro Valor
+Response time (rise time): 90% do valor final ≤ 33 ms
+Settling time: ±5% do valor final ≤ 100 ms
+Overshoot ≥ 30%
+4.3.7.2.1. Esse padrão de resposta, constituído pelos três parâmetros definidos na Tabela 10, deve ser
+atingido para qualquer tensão dentro da faixa operativa e para qualquer condição da rede externa. A resposta
+do controle do CER é avaliada considerando a variação da tensão medida do ponto de conexão do CER, após
+as filtragens, com o estatismo do controle ajustado em zero.
+Perdas
+4.3.8.1. As perdas elétricas do CER devem ser inferiores à perda máxima estabelecida no instrumento
+técnico do documento de outorga.
+Endereço na internet: http://www.ons.org.br 19 / 25
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para subestações e seus
+2.6 Requisitos 2021.08 17/09/2021
+equipamentos
+4.3.8.2. Deve ser fornecida ao ONS a memória de cálculo preliminar das perdas do CER bem como a execução
+de ensaios que comprovem o atendimento ao requisito estabelecido.
+Desempenho harmônico
+4.3.9.1. A avaliação do desempenho harmônico deve atender ao estabelecido no Submódulo 2.9 –
+Requisitos mínimos de qualidade de energia elétrica para acesso ou integração à Rede Básica.
+4.3.9.2. A avaliação do rating dos filtros deve atender ao estabelecido no Submódulo 2.9.
+4.4. Unidade FACTS
+Aplicações
+4.4.1.1. A necessidade de utilização de dispositivo FACTS deve ser determinada mediante estudos de
+planejamento e determinada sobretudo pelos condicionamentos sistêmicos listados a seguir:
+(a) controle de tensão (potência reativa) local ou de uma rede elétrica;
+(b) controle do fluxo de potência ou ângulo de fase em um trecho da rede;
+(c) ajuste da impedância série em linhas de transmissão (compensação série); e
+(d) aumento do grau de amortecimento dinâmico dos sistemas e/ou aumento das margens de
+estabilidade, tanto transitórias quanto dinâmicas.
+Comportamento
+4.4.2.1. A unidade FACTS não deve provocar interferências na operação de defasadores, comutadores em
+derivação, manobras em reatores, bancos de capacitores, saturação de núcleos de unidades transformadoras
+de potência, ou na operação de qualquer outro tipo de equipamento, nem propiciar o surgimento de
+condições de ferrorressonância.
+4.4.2.2. Devem ser respeitados os limites de distorções harmônicas estabelecidos no Submódulo 2.9.
+4.4.2.3. A operação do sistema de controle de elementos manobráveis e/ou comutadores automáticos de
+transformadores não deve dar origem a oscilações intermitentes (huntings), na potência ou frequência.
+4.4.2.4. Durante uma falta, a potência ativa transmitida pelo dispositivo FACTS deve ser a maior possível,
+relativamente à potência antes da falta, de forma a minimizar as perturbações por redução de potência no
+sistema elétrico. A mesma condição se aplica durante a atuação do esquema de religamento monopolar.
+4.4.2.5. O comportamento da unidade FACTS, em regime dinâmico e transitório, deve atender aos seguintes
+pontos:
+(a) Estabilidade transitória e dinâmica: a unidade FACTS não deve reduzir as margens de estabilidade
+e/ou o amortecimento do sistema, contribuindo de forma positiva para:
+(1) limites de estabilidade transitória, relativos à manutenção do sincronismo sob perturbações em
+condições de carregamento crítico e em condições de contingências;
+(2) manutenção das margens de estabilidade e amortecimento do SIN; e
+(3) amortecimento dos modos de ressonância subsíncrona preexistentes.
+Endereço na internet: http://www.ons.org.br 20 / 25
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para subestações e seus
+2.6 Requisitos 2021.08 17/09/2021
+equipamentos
+(b) Ressonâncias subsíncronas: a unidade FACTS não deve provocar o surgimento de fenômeno de
+ressonância subsíncrona na região onde está instalado.
+(c) Transitórios eletromagnéticos: a unidade FACTS não deve submeter os equipamentos da Rede Básica
+ou das instalações de transmissão de energia elétrica destinadas a interligações internacionais
+conectadas à Rede Básica a valores de tensão e corrente acima de sua suportabilidade.
+(d) Controle: o sistema de controle da unidade FACTS não pode comprometer o desempenho do SIN,
+tanto em operação normal como sob contingências, emergências e operação degradada.
+4.4.2.6. O agente de transmissão deve demonstrar ao ONS, por meio de estudos, o desempenho do
+dispositivo FACTS para a operação em condições nominais e degradadas.
+4.4.2.7. O dispositivo FACTS não pode ser considerado como desempenhando a sua função integral para o
+SIN se não tiver plena capacidade de regulação das grandezas especificadas no instrumento técnico de
+outorga de concessão ou de autorização.
+Eficiência
+4.4.3.1. A eficiência da unidade FACTS deve ser maior ou igual à considerada nos estudos de planejamento
+para definição da alternativa de menor custo global, que corresponde à soma dos custos de investimento e
+perdas.
+4.5. Disjuntores
+4.5.1. Os disjuntores devem ter tempos máximos de interrupção em 60 Hz de 2 ciclos para as classes de
+tensão de 800, 550, 460 e 362 kV e 3 ciclos para as classes de tensão de 242, 145 e 72,5 kV.
+4.5.2. O ciclo de operação com religamento rápido deve atender aos requisitos de norma técnica, observado
+o disposto no item 2.1. deste submódulo.
+4.5.3. Os disjuntores devem ser capazes de efetuar, em função das características específicas de cada
+aplicação e dos requisitos sistêmicos, as seguintes operações:
+(a) Abertura de linhas em vazio com sobretensão de pré-manobra à frequência de 60 Hz, de acordo com
+os valores indicativos de sobretensões de manobra admissíveis para transformadores e
+autotransformadores estabelecidos no Submódulo 2.3;
+(b) Abertura de pequenas correntes indutivas, tal como na manobra de reator em derivação, sem
+provocar reignições, reacendimentos, sobretensões inadmissíveis ou transitórios de frequência
+elevada que possam colocar em risco os equipamentos da subestação;
+(c) Abertura em oposição de fases;
+(d) Abertura de defeito trifásico não envolvendo terra, no barramento ou na saída de linha;
+(e) Abertura de defeito quilométrico; e
+(f) Abertura da corrente de curto-circuito com a relação X/R do ponto do sistema onde será aplicado.
+4.5.4. Os disjuntores das unidades transformadoras de potência e dos bancos de capacitores em derivação
+devem, caso os estudos apontem a necessidade, ser dotados de elementos ou sistemas que limitem os
+transitórios de energização desses equipamentos, com o intuito de não causar sobretensões, subtensões ou
+sobrecorrentes que afetem o desempenho da rede ou causem o funcionamento indevido dos sistemas de
+proteção e controle.
+Endereço na internet: http://www.ons.org.br 21 / 25
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para subestações e seus
+2.6 Requisitos 2021.08 17/09/2021
+equipamentos
+4.5.5. Os disjuntores dos bancos de capacitores em derivação e os disjuntores que manobrarem linhas de
+transmissão a vazio devem ser do tipo de “baixíssima probabilidade de reacendimento de arco”, classe C2,
+conforme norma técnica, observado o disposto no item 2.1 deste submódulo.
+4.5.6. Os disjuntores dos bancos de reatores em derivação devem ser monopolares e dotados de dispositivo
+de manobra controlada.
+4.5.7. O dimensionamento dos disjuntores deve considerar qualquer falha ou indisponibilidade de disjuntor
+pertencente a:
+(a) subestação que redunde em manobra de outro equipamento ou de LT; e
+(b) subestações adjacentes que redunde em manobra em conjunto com os equipamentos e/ou LT a elas
+conectadas.
+4.5.8. Os disjuntores das conexões dos enrolamentos secundários das unidades transformadoras de
+potência devem ser adequados para abertura de defeito trifásico no barramento que não envolva terra.
+4.5.9. A corrente nominal de disjuntores deve ser, no mínimo, em função de sua classe de tensão:
+(a) igual ou superior a 345 kV: 4.000 A; ou
+(b) 230 kV: 3.150 A.
+4.5.10. Os disjuntores devem ter dois circuitos de disparo independentes, lógicas de detecção de
+discrepância de polos e acionamento monopolar. Para disjuntores em níveis de tensão superiores a 138 kV,
+o ciclo de operação nominal deve ser compatível com a utilização de esquemas de acionamento e
+religamento automático tripolar e monopolar. Para disjuntores em níveis de tensão iguais ou inferiores a
+138 kV, o ciclo de operação nominal deve ser compatível com a utilização de esquemas de acionamento e
+religamento automático tripolar.
+4.5.11. Para determinação da tensão de restabelecimento transitória (TRT) para disjuntor na manobra de LT
+a vazio, deve-se levar em conta o valor eficaz da tensão fase-fase nas fases sãs, frente a faltas monofásicas,
+apresentado na Tabela 11, à frequência de 60 Hz. Valores superiores aos da Tabela 11 podem ser necessários,
+caso os estudos assim o determinem.
+Tabela 11 – Valor eficaz da tensão fase-fase nas fases sãs, frente a faltas monofásicas, para determinação do TRT de
+disjuntor na manobra de LT a vazio
+Valor eficaz a 60 Hz da
+Tensão nominal do
+tensão fase-fase nas fases
+disjuntor (kV)
+sãs (kV)
+69 102
+138 203
+230 339
+345 507
+440 647
+500 770
+525 770
+Endereço na internet: http://www.ons.org.br 22 / 25
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para subestações e seus
+2.6 Requisitos 2021.08 17/09/2021
+equipamentos
+4.5.12. Os disjuntores devem ter capacidade de manobrar outros equipamentos e/ou linhas de transmissão
+existentes na subestação onde estão instalados, em caso de faltas nesses equipamentos seguidas de falha
+do referido disjuntor, considerando inclusive disjuntor em manutenção.
+4.5.13. Os disjuntores devem ter capacidade de manobrar a linha de transmissão em conjunto com os
+equipamentos / linhas de transmissão a elas conectadas em subestações adjacentes, em caso de falta no
+equipamento / linha de transmissão da subestação adjacente, seguido de falha do respectivo disjuntor.
+4.5.14. Nos casos em que forem utilizados mecanismos de fechamento ou abertura controlados, deve ser
+especificada a dispersão máxima dos tempos médios de fechamento ou de abertura compatível com as
+necessidades de precisão da manobra controlada. O disjuntor deve ser especificado em consonância com o
+procedimento estabelecido em norma [4].
+4.6. Seccionadoras, lâminas de terra e chaves de aterramento
+4.6.1. As lâminas de terra e chaves de aterramento das LT devem ser dimensionadas para suportar, na
+abertura, os valores máximos de tensão e de corrente induzidas pelos acoplamentos eletrostático e
+eletromagnético, valores esses determinados nos estudos de manobra de chaves.
+4.6.2. Esses equipamentos devem ser dimensionados considerando a relação X/R do ponto do sistema onde
+estão instalados.
+4.6.3. Esses equipamentos devem permitir manobras de fechamento e abertura nas condições mais severas
+de tensões induzidas de LT em paralelo, incluídas situações de ressonância e de carregamento máximo.
+4.6.4. As LT devem ter lâminas de terra ou chaves de aterramento com intertravamento mecânico.
+4.7. Para-raios
+4.7.1. Devem ser instalados para-raios nas entradas de LT e nas conexões de unidades transformadoras de
+potência, de reatores em derivação e de bancos de capacitores não autoprotegidos.
+4.7.2. Os para-raios devem ser do tipo estação, a óxido metálico, sem centelhador.
+4.8. Transformador de potencial
+4.8.1. As características do transformador de potencial devem satisfazer às necessidades de diversos
+sistemas: de proteção (Submódulo 2.11), de medição para faturamento (Submódulo 2.14 – Requisitos
+mínimos para Sistemas de Medição para Faturamento) e de supervisão e controle para a operação
+(Submódulo 2.12 – Requisitos mínimos de supervisão e controle para operação).
+4.9. Transformador de corrente
+4.9.1. As características do transformador de corrente devem satisfazer às necessidades de diversos
+sistemas: de proteção (Submódulo 2.11), de medição para faturamento (Submódulo 2.14) e de supervisão e
+controle para a operação (Submódulo 2.12).
+4.9.2. A especificação dos núcleos de proteção dos transformadores de corrente com tensão nominal igual
+ou superior a 242 kV deve:
+(a) assegurar que o núcleo não sature durante curtos-circuitos e religamentos rápidos, atendendo à
+relação X/R do ponto de instalação (resposta transitória);
+(b) considerar o ciclo de religamento previsto, levando em conta o critério de fluxo remanescente; e
+Endereço na internet: http://www.ons.org.br 23 / 25
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para subestações e seus
+2.6 Requisitos 2021.08 17/09/2021
+equipamentos
+(c) considerar a real carga secundária do transformador de corrente, de forma que o erro instantâneo
+de medição até o instante de atuação da proteção não ultrapasse 10%.
+4.10. Serviços auxiliares das subestações
+Alimentação em corrente contínua para os sistemas de proteção, supervisão e controle
+4.10.1.1. Os serviços auxiliares de corrente contínua (CC) para alimentação dos sistemas de proteção,
+supervisão e controle devem ter dois conjuntos independentes de bancos de baterias com retificadores,
+alimentando cargas independentes, e cada conjunto deve ser dimensionado para suprir toda a carga prevista
+em regime contínuo.
+4.10.1.2. É permitido o paralelismo entre os bancos de baterias apenas em tempo suficiente para não
+necessitar reinicializar os sistemas digitais ou computadorizados dos sistemas de proteção, supervisão e
+controle.
+4.10.1.3. Em caso de falta de alimentação em CA, os bancos de baterias devem ter autonomia para realizar
+as manobras de recomposição da subestação. Cada conjunto bateria-retificador deve atender toda a carga
+prevista para regime contínuo pelo período mínimo de 5 (cinco) horas.
+4.10.1.4. Além disso, os serviços auxiliares de CC devem atender aos critérios para alimentação dos sistemas
+de proteção estabelecidos no Submódulo 2.11 e suprir os circuitos de iluminação de emergência das
+subestações.
+Alimentação em corrente contínua para sistemas de telecomunicação
+4.10.2.1. Os serviços auxiliares de CC para alimentação de sistemas de telecomunicação devem ter dois
+conjuntos independentes de bancos de baterias com retificadores, alimentando cargas independentes, e
+cada conjunto deve ser dimensionado para suprir a carga total imposta pelos equipamentos de
+telecomunicação da subestação.
+4.10.2.2. Em caso de falta de alimentação CA, cada banco de bateria deve ter autonomia de no mínimo 10
+(dez) horas, para atender à carga total dos equipamentos de telecomunicação da subestação.
+4.10.2.3. Os equipamentos de telecomunicação devem ser alimentados por circuitos independentes de cada
+um dos bancos de baterias, para que, na falta de tensão em um dos circuitos, a alimentação seja transferida
+automaticamente para o outro circuito, sem manter o paralelismo dos bancos de baterias. É permitido o
+paralelismo entre os bancos de bateria apenas em tempo suficiente para não necessitar reinicializar os
+sistemas digitais ou computadorizados dos sistemas de telecomunicação.
+4.10.2.4. Os conjuntos de baterias/retificadores mencionados no item 4.10.1 deste submódulo devem ser
+independentes dos conjuntos mencionados no item 4.10.2 deste submódulo.
+Alimentação em corrente alternada
+4.10.3.1. Os serviços auxiliares em CA devem ter, no mínimo, duas fontes de alimentação, nas seguintes
+configurações:
+(a) uma fonte externa proveniente da distribuidora local e outra interna da própria subestação; ou
+(b) duas fontes internas da própria subestação.
+4.10.3.1.1. As fontes internas da subestação devem ser providas por meio de terciário de transformador
+existente ou por meio de transformador convencional dedicado para esse fim a ser instalado pelo agente.
+Endereço na internet: http://www.ons.org.br 24 / 25
+Procedimentos de Rede - Módulo 2 - Critérios e Requisitos
+Nome Submódulo Tipo Revisão Vigência
+Requisitos mínimos para subestações e seus
+2.6 Requisitos 2021.08 17/09/2021
+equipamentos
+4.10.3.1.2. Caso a subestação não tenha unidade transformadora de potência ou terciário disponível, ou a
+localização da subestação não seja acessível por fonte externa de distribuidora local, o agente responsável
+pelo empreendimento deve submeter proposta alternativa ao ONS para avaliação, visando a sua aprovação,
+contendo pelo menos duas fontes de alimentação CA independentes, conforme descrito no Submódulo 7.3
+- Verificação da conformidade das instalações de transmissão aos requisitos.
+4.10.3.2. Deve ser previsto um sistema para, em caso de falta de tensão em uma fonte de alimentação,
+realizar a transferência automática das cargas para a outra fonte de alimentação.
+4.10.3.3. Os serviços auxiliares CA devem ter, para casos de falta de tensão nas duas fontes de alimentação
+CA, grupo motor-gerador com partida automática e capacidade para alimentação das cargas essenciais da
+subestação. Cargas essenciais são aquelas necessárias para iniciar o processo de recomposição da
+subestação, em caso de seu desligamento total ou parcial.
+Testes de manutenção
+4.10.4.1. Os agentes devem prever a realização de testes, conforme estabelecido no Submódulo 2.16 –
+Requisitos operacionais para centros de operação e instalações da Rede de Operação.
+5. REFERÊNCIAS
+[1] IEC. Selection and dimensioning of high-voltage insulators intended for use in polluted conditions. IEC
+60.815.
+[2] ANEEL. Resolução Normativa ANEEL nº 398, de 23 de março de 2010.
+[3] IEC. On Load Tap Changers, IEC-214.
+[4] IEC. High voltage switchgear and control gear – Part 302: Alternating current circuit-breakers with
+intentionally non-simultaneous pole operation. Technical Report – IEC/TR 62271-302.
+[5] ABNT. Transformadores de potência. Norma Técnica ABNT NBR 5356.
+Endereço na internet: http://www.ons.org.br 25 / 25

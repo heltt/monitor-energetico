@@ -1,0 +1,2269 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.1-PR_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.1-PR_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.1
+Acesso às instalações de transmissão
+Procedimental
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+ÍNDICE
+1. SOLICITAÇÃO DE CONSULTA DE ACESSO..........................................................................................4
+2. SOLICITAÇÃO DE INFORMAÇÃO DE ACESSO.....................................................................................4
+3. SOLICITAÇÃO DE DOCUMENTO EQUIVALENTE DE ACESSO...............................................................5
+4. SOLICITAÇÃO DE PARECER TÉCNICO PARA DISTRIBUIDORA..............................................................5
+5. SOLICITAÇÃO DE PARECER DE ACESSO.............................................................................................5
+5.1. Informações necessárias para a protocolização da solicitação de acesso....................................5
+5.2. Protocolização da solicitação de acesso........................................................................................7
+5.3. Verificação e recebimento da solicitação de acesso.....................................................................7
+5.4. Elaboração do Parecer de Acesso..................................................................................................9
+5.5. Emissão do Parecer de Acesso......................................................................................................9
+6. DESATIVAÇÃO DE CONEXÃO ÀS INSTALAÇÕES DE TRANSMISSÃO OU RECONEXÃO SOLICITADA
+PELO ACESSANTE...........................................................................................................................10
+7. REFERÊNCIAS.................................................................................................................................11
+8. ANEXOS.........................................................................................................................................11
+ANEXO A - INSTRUÇÕES PARA REQUERIMENTO AO ONS DE INFORMAÇÃO DE ACESSO...........................12
+ANEXO B - INFORMAÇÕES PARA SOLICITAÇÃO DE PARECER TÉCNICO DOS IMPACTOS DO ACESSO À
+DISTRIBUIÇÃO SOBRE O SISTEMA DE TRANSMISSÃO......................................................................17
+ANEXO C - ROTEIRO PARA ELABORAÇÃO DE PARECER DE ACESSO POR PARTE DOS AGENTES DE
+DISTRIBUIÇÃO PARA A CONEXÃO DE CENTRAIS GERADORAS DESPACHADAS CENTRALIZADAMENTE
+PELO ONS ÀS INSTALAÇÕES SOB SUA RESPONSABILIDADE.............................................................18
+ANEXO D - INFORMAÇÕES FORNECIDAS POR TIPO DE INSTALAÇÃO ACESSANTE......................................23
+ANEXO E -INFORMAÇÕES SOBRE O ACESSANTE E O EMPREENDIMENTO.................................................29
+ANEXO F - DADOS DE TRANSFORMADORES.............................................................................................30
+ANEXO G - DADOS DE MOTORES DE INDUÇÃO.........................................................................................31
+ANEXO H - DADOS DE UNIDADES GERADORAS TERMELÉTRICAS..............................................................33
+ANEXO I -DADOS DE UNIDADES GERADORAS HIDRELÉTRICAS..................................................................42
+ANEXO J - DADOS DO PONTO DE CONEXÃO.............................................................................................46
+Endereço na internet: http://www.ons.org.br 2 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+ANEXO K - DADOS DE ELOS DE CORRENTE CONTÍNUA..............................................................................47
+ANEXO L - DADOS DAS CENTRAIS GERADORAS EÓLICAS..........................................................................50
+ANEXO M - DADOS DE MÁQUINAS SÍNCRONAS.......................................................................................55
+ANEXO N - DADOS DE FORNOS................................................................................................................57
+ANEXO O - DADOS DE CONVERSORES (RETIFICADORES/INVERSORES) E DISPOSITIVOS AUTOMÁTICOS
+PARA CONTROLE DE VELOCIDADE DE MOTORES (“DRIVER”)..........................................................60
+ANEXO P - DADOS DE CICLOCONVERSORES..............................................................................................64
+ANEXO Q - DADOS DA CENTRAIS GERADORAS FOTOVOLTAICAS..............................................................66
+ANEXO R - FORMULÁRIOS E DADOS PARA SOLICITAÇÃO DE ACESSO........................................................68
+Endereço na internet: http://www.ons.org.br 3 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+1. SOLICITAÇÃO DE CONSULTA DE ACESSO
+1.1. A solicitação de Consulta de Acesso descrita nesse item é feita em sistema computacional do ONS, onde
+são registradas todas as tratativas e trocas de informações com os acessantes e demais agentes envolvidos.
+1.2. O acessante protocola no Operador Nacional do Sistema Elétrico – ONS sua solicitação de Consulta de
+Acesso, que é registrada pelo ONS.
+1.2.1. A Consulta de Acesso visa esclarecer ao acessante quanto aos processos e requisitos para o acesso e
+conexão às instalações sob responsabilidade das transmissoras e não gera documento formal entre as partes,
+sendo toda comunicação feita e registrada em sistema computacional do ONS.
+1.3. O acessante fornece ao ONS na sua solicitação de Consulta de Acesso as informações básicas sobre seu
+empreendimento e o sistema elétrico de interesse para sua conexão.
+1.4. O ONS esclarece ao acessante o processo de acesso ou de obtenção ou alteração de outorga de
+autorização para exploração de central geradora, conforme o caso.
+1.5. O ONS fornece, mediante a solicitação do acessante, informações básicas sobre o sistema elétrico de
+interesse e indica os casos de referência do Plano de Ampliações e Reforços (PAR) para a realização dos
+estudos de integração do seu empreendimento ao sistema elétrico.
+1.6. Quando for o caso, o ONS fornece ao acessante as instruções necessárias para a realização de estudos
+específicos de qualidade de energia elétrica, a serem apresentados na etapa de solicitação de acesso.
+2. SOLICITAÇÃO DE INFORMAÇÃO DE ACESSO
+2.1. A solicitação de Informação de Acesso descrita nesse item é feita em sistema computacional do ONS,
+incluindo suas etapas, prazos e produtos, assim como as tratativas e troca de informações com os acessantes
+e demais agentes envolvidos.
+2.2. O acessante solicita à Agência Nacional de Energia Elétrica – ANEEL outorga de autorização para a
+exploração de central geradora ou alteração da outorga de autorização para exploração de central geradora,
+conforme o caso.
+2.3. O acessante protocola no ONS sua solicitação de Informação de Acesso com os dados e estudos
+necessários à avaliação sistêmica da conexão pelo ONS, conforme o Anexo A. Para essa solicitação, o
+acessante deve possuir:
+(a) no caso de obtenção de outorga de autorização:
+(1) Despacho de Recebimento de Requerimento de Outorga (DRO) emitido pela ANEEL; ou
+(2) Despacho de aprovação do projeto básico emitido pela ANEEL; ou
+(3) Despacho de Requerimento de Registro de Intenção à Outorga de Autorização (DRI) emitido pela
+ANEEL; ou
+(4) Despacho de Registro da Adequação do Sumário Executivo (DRS) emitido pela ANEEL.
+(b) no caso de alteração da outorga de autorização:
+(1) outorga de autorização emitida pelo Poder Concedente.
+2.4. O ONS emite a Informação de Acesso, condicionado ao fornecimento das informações, dados e estudos
+requeridos no Anexo A para esse tipo de solicitação.
+Endereço na internet: http://www.ons.org.br 4 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+2.4.1. No caso de ser identificada a falta de alguma informação, dado ou estudo necessário à elaboração da
+Informação de Acesso, o ONS informa ao acessante e interrompe o processo, o qual será retomado somente
+a partir do fornecimento pelo acessante e validação pelo ONS das informações, dados e/ou estudos faltantes.
+3. SOLICITAÇÃO DE DOCUMENTO EQUIVALENTE DE ACESSO
+3.1. A solicitação de Documento Equivalente de Acesso descrita nesse item é feita em sistema computacional
+do ONS, incluindo suas etapas, prazos e produtos, assim como as tratativas e troca de informações com os
+acessantes e demais agentes envolvidos.
+3.2. O agente gerador protocola no ONS sua solicitação de Documento Equivalente de Acesso com as
+informações e os dados necessários à avaliação sistêmica da conexão pelo ONS, conforme o Anexo A.
+3.3. O ONS emite e disponibiliza o Documento Equivalente de Acesso, condicionado ao fornecimento das
+informações e dos dados requeridos no Anexo A para esse tipo de solicitação, sendo dispensada a
+apresentação de DRO, DRI, DRS ou de despacho de aprovação do projeto básico, conforme o caso.
+3.4. Os prazos e demais informações associadas à solicitação e emissão do Documento Equivalente de Acesso
+são os estabelecidos em regulamentação específica [1], na Portaria que vier a estabelecer o leilão de compra
+de energia elétrica e nas instruções a serem disponibilizadas no site do ONS na ocasião.
+4. SOLICITAÇÃO DE PARECER TÉCNICO PARA DISTRIBUIDORA
+4.1. A solicitação de Parecer Técnico descrita nesse item é feita em sistema computacional do ONS, incluindo
+suas etapas, prazos e produtos, assim como as tratativas e troca de informações com os acessantes e demais
+agentes envolvidos.
+4.2. O agente de distribuição protocola no ONS a sua solicitação de Parecer Técnico dos Impactos do Acesso
+à Distribuição sobre o Sistema de Transmissão, preenchendo as informações, dados e estudos necessários à
+avaliação sistêmica da conexão pelo ONS.
+4.3. O ONS, mediante solicitação da distribuidora, emite o Parecer Técnico dos Impactos do Acesso à
+Distribuição sobre o Sistema de Transmissão, condicionado ao fornecimento das informações, dados e
+estudos relacionados para esse tipo de solicitação.
+4.3.1. No caso de ser identificada a falta de alguma informação, dado ou estudo necessário à elaboração do
+Parecer Técnico, o ONS informa ao agente de distribuição e interrompe o processo, o qual será retomado
+somente a partir do fornecimento pelo agente e validação pelo ONS das informações, dados e/ou estudos
+faltantes.
+4.4. No caso de conexão de usinas despachadas centralizadamente pelo ONS às instalações da distribuidora,
+o agente de distribuição elabora o Parecer de Acesso de acordo com o roteiro apresentado no Anexo C e
+envia cópia do parecer ao ONS.
+5. SOLICITAÇÃO DE PARECER DE ACESSO
+5.1. Informações necessárias para a protocolização da solicitação de acesso
+5.1.1. A solicitação de parecer de Acesso descrita neste item é feita em sistema computacional do ONS,
+incluindo suas etapas, prazos e produtos, assim como as tratativas e troca de informações com os acessantes
+e demais agentes envolvidos.
+Endereço na internet: http://www.ons.org.br 5 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+5.1.2. O acessante protocola no ONS a sua solicitação de acesso, preenchendo as informações, dados e
+estudos necessários.
+5.1.2.1. A solicitação de acesso gera direitos e obrigações para o acessante, de acordo com a ordem
+cronológica do protocolo de sua entrada no ONS.
+5.1.2.2. Somente será considerada a solicitação de acesso feita por concessionária, permissionária ou
+autorizado de serviço elétrico ou consumidor, na forma da legislação vigente, ou por titular de registro de
+central geradora de capacidade reduzida na ANEEL [2][3][4][5].
+5.1.2.3. O titular de registro de central geradora, embora esteja dispensado de concessão, permissão ou
+autorização, deve protocolar solicitação de acesso ao ONS, no caso de conexão às instalações sob
+responsabilidade de transmissora, obter parecer de acesso e celebrar os contratos pertinentes de uso e de
+conexão às instalações de transmissão.
+5.1.2.4. A emissão de Parecer de Acesso é condicionada ao fornecimento das informações, dados e estudos
+relacionados para esse tipo de solicitação.
+5.1.2.5. O acessante fornece as informações, conforme o Anexo D.
+5.1.2.6. Dependendo do porte e do ponto solicitado para a conexão, o ONS solicitará informações adicionais
+ao acessante, caso necessárias à análise da viabilidade técnica da conexão.
+5.1.3. O acessante realiza e apresenta ao ONS os estudos de integração compreendendo, no mínimo, a
+análise de curto-circuito, análise de fluxo de carga e análise da estabilidade eletromecânica, essa última
+realizada para os casos em que há geração própria ou motores acima de 5 MW, atendendo aos requisitos do
+Submódulo 2.3 – Premissas, critérios e metodologia para estudos elétricos.
+5.1.3.1. O acessante que tiver geradores com a possibilidade de operação em paralelo com o Sistema
+Interligado Nacional (SIN) deve apresentar resultados de ensaios e/ou simulações que demonstrem que os
+sistemas de controle e regulação de velocidade e tensão, bem como o sinal adicional estabilizador proposto,
+atendem aos requisitos técnicos mínimos estabelecidos no Submódulo 2.10 - Requisitos técnicos mínimos
+para a conexão às instalações de transmissão. Os ensaios ou simulações a serem efetuados incluem as
+seguintes análises:
+(a) degraus na referência do regulador de tensão e de velocidade, bem como variações com tomadas de
+carga em rampa, para as condições com e sem presença do sinal adicional estabilizador (SAE);
+(b) estudo de comportamento de tensão (baixa e alta tensão) e da potência reativa gerada pela central
+geradora, para a faixa de tapes definida para os transformadores elevadores da central geradora; e
+(c) estudo de estabilidade eletromecânica para impactos na central geradora e na rede elétrica à qual
+será conectada.
+5.1.3.2. O acessante que tiver instalações com características elétricas não lineares no seu empreendimento
+deve realizar e apresentar ao ONS estudos para avaliar o impacto do seu empreendimento na Qualidade da
+Energia Elétrica (QEE) – fenômenos de distorção harmônica, desequilíbrio e flutuação de tensão – e da
+operação, considerando indicadores de desempenho, no seu ponto de conexão às instalações sob
+responsabilidade de transmissora, observando o disposto nos Submódulo 2.10 e Submódulo 7.8 – Avaliação
+do impacto do acesso ou integração à Rede Básica de instalações que contenham elementos não lineares ou
+especiais.
+5.1.4. O acessante encaminha ao ONS os estudos por ele realizados com os casos base compatíveis com a
+data de entrada em operação do empreendimento, contemplando a representação do seu empreendimento,
+assim como os modelos dos equipamentos, das máquinas e de seus controles no formato dos programas
+computacionais utilizados pelo ONS.
+Endereço na internet: http://www.ons.org.br 6 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+5.2. Protocolização da solicitação de acesso
+5.2.1. O acessante protocola ao ONS a sua solicitação de acesso, a qual pode ser de caráter permanente,
+temporário, flexível, de reserva de capacidade ou para uso do sistema de transmissão por importadores e
+exportadores de energia elétrica, conforme estabelecido em regulação[6][7][8][9][10][11], preenchendo
+e/ou anexando os dados e estudos necessários à avaliação regulatória e sistêmica da conexão.
+5.2.2. O acesso para o uso do sistema de transmissão em caráter permanente pode ser solicitado ao ONS
+por agente de geração, agente de distribuição, consumidor e importador ou exportador de energia elétrica.
+5.2.2.1. Caso o acesso exija a implantação de ampliação e/ou reforço, a concretização do acesso depende
+da conclusão das obras recomendadas no Parecer de Acesso.
+5.2.2.2. Caso o acessante solicite o acesso em prazos inferiores aos estabelecidos neste submódulo, ele fica
+sujeito a restrições de atendimento sistêmico a serem indicadas no Parecer de Acesso.
+5.2.3. O acesso para o uso do sistema de transmissão em caráter temporário pode ser solicitado ao ONS por
+agente de geração, inclusive produtores independentes ou autoprodutores, quando a geração for maior que
+a carga própria, após declaração do ONS da importância sistêmica da permanência da central de geração no
+SIN e enquanto inexistirem contratos de venda de energia elétrica em execução junto à Câmara de
+Comercialização de Energia Elétrica – CCEE.
+5.2.4. O acesso para o uso do sistema de transmissão em caráter flexível pode ser solicitado ao ONS por:
+(a) unidade consumidora conectada à Rede Básica;
+(b) autoprodutores e produtores independentes quando a máxima carga própria for maior que a geração;
+ou
+(c) agente de distribuição, a fim de refletir os contratos em caráter temporário e/ou de reserva de
+capacidade celebrados entre a distribuidora e seus usuários, desde que esses usuários estejam
+conectados de forma individual às Demais Instalações de Transmissão (DIT) ou à Rede Básica, mesmo
+que por meio de instalações sob responsabilidade do próprio usuário ou da distribuidora e com
+medição que permita ao ONS identificar o uso da capacidade utilizada em caráter flexível pela
+distribuidora associado ao uso em caráter temporário e/ou de reserva de capacidade pelo usuário.
+5.2.5. O acesso para uso do sistema de transmissão em caráter de reserva de capacidade pode ser solicitado
+ao ONS por agente de geração, cuja unidade produtora atenda, total ou parcialmente, consumidor
+diretamente conectado às suas instalações de uso exclusivo.
+5.2.6. Para o agente de geração solicitar o acesso de central geradora em desacordo com a outorga vigente,
+deve anexar cópia do pedido de alteração de outorga protocolado na ANEEL, com as mesmas características
+técnicas descritas na solicitação de acesso ao ONS, e declarar que está ciente dos riscos associados conforme
+estabelecido na regulamentação [12].
+5.3. Verificação e recebimento da solicitação de acesso
+5.3.1. O ONS verifica o cumprimento das exigências legais definidas pela ANEEL para a solicitação de acesso
+e analisa a capacidade disponível do sistema de transmissão para atender o acessante e manter o
+atendimento aos demais agentes dentro dos requisitos de segurança, qualidade e confiabilidade, definidos
+nos Procedimentos de Rede.
+5.3.2. O ONS realiza a avaliação da solicitação de acesso protocolada para uso da rede em caráter
+permanente, temporário, flexível ou de reserva de capacidade, que abrange:
+Endereço na internet: http://www.ons.org.br 7 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+(a) verificar o atendimento aos dados, informações, documentos e estudos necessários à solicitação de
+acesso;
+(b) identificar a necessidade de realização de estudos específicos;
+(c) quando for o caso, fornecer ao acessante das orientações para realização dos estudos específicos de
+QEE, conforme as diretrizes do Submódulo 7.8;
+(d) informar ao acessante acerca dos dados, informações, documentos e estudos fornecidos na
+solicitação de acesso e, no caso de identificação de pendência(s), solicita esclarecimento(s), e indica
+se impeditiva(s) ou não para a emissão do Parecer de Acesso;
+(e) informar ao acessante as condições contratuais e os prazos envolvidos no processo de acesso;
+(f) informar ao agente de transmissão a ser acessado e, nos casos de conexão às DIT ou às ICG, também
+à concessionária ou permissionária de distribuição responsável pela área onde se localiza o ponto de
+conexão pretendido; e
+(g) comunicar a solicitação de acesso requerida aos agentes afetados pelo acesso.
+5.3.2.1. Caso seja identificada a falta de qualquer dado, informação, documento ou estudo necessários para
+elaboração do Parecer de Acesso, o não cumprimento dos prazos estabelecidos neste submódulo para
+solução das pendências pode resultar, a critério do ONS, na interrupção do processo e até mesmo no
+cancelamento da solicitação de acesso. O reinício do processo de solicitação de acesso ficará condicionado
+ao novo protocolo de solicitação no ONS.
+5.3.3. Caso seja identificada a necessidade de realização de estudos específicos pelo acessante, este deve
+observar o disposto no Submódulo 2.10 e Submódulo 7.8. Os estudos específicos podem ser de:
+(a) qualidade de energia elétrica, que tem por objetivo:
+(1) avaliar o impacto da instalação do acessante na QEE (fenômenos de distorção harmônica,
+desequilíbrio e flutuação de tensão), verificada no ponto de conexão às instalações sob
+responsabilidade de transmissora; e
+(2) avaliar o impacto da operação do acessante considerando os indicadores de desempenho das
+instalações sob responsabilidade de transmissora.
+(b) transitórios eletromagnéticos, que tem por objetivo:
+(1) verificar o atendimento aos requisitos técnicos mínimos estabelecidos nos Procedimentos de
+Rede; e
+(2) definir as características básicas dos equipamentos.
+5.3.4. A partir do recebimento da solicitação de acesso para uso da rede em caráter temporário, flexível ou
+de reserva de capacidade, o ONS avalia se há capacidade remanescente no sistema de transmissão para
+atender à solicitação no período de contratação pretendido, considerando-se os mesmos critérios e
+condições aplicáveis à contratação em caráter permanente.
+5.4. Elaboração do Parecer de Acesso
+5.4.1. Para a elaboração do Parecer de Acesso, a partir do recebimento da solicitação de acesso para uso da
+rede em caráter permanente, o ONS:
+Endereço na internet: http://www.ons.org.br 8 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+(a) avalia a solicitação de acesso, sob o ponto de vista regulatório e técnico, fornecendo ao interessado
+as informações pertinentes;
+(b) identifica a necessidade de ampliações, reforços e melhorias para a viabilização técnica do acesso;
+(c) identifica a necessidade de realização de estudos específicos;
+(d) quando for o caso, fornece ao acessante as orientações para realização dos estudos específicos de
+QEE, conforme as diretrizes do Submódulo 7.8; e
+(e) informa ao acessante as condições sistêmicas e contratuais para a conexão.
+5.4.2. Caso se verifique nos estudos específicos de QEE, realizados pelo acessante, que há violação de limites
+estabelecidos no Submódulo 7.8, o Parecer de Acesso indica a necessidade de instalação de equipamentos
+de correção, que deve ser feita pelo acessante conforme diretrizes também estabelecidas no Submódulo 7.8.
+5.4.3. Caso a solicitação de acesso de agente de geração tenha sido feita em desacordo com a outorga
+vigente da central geradora, o Parecer de Acesso indica a necessidade de alteração da outorga, conforme
+estabelecido em regulamentação [12], sendo o agente gerador responsável pela alteração, sem a qual o
+empreendimento não entrará em operação em teste, nem em operação comercial.
+5.5. Emissão do Parecer de Acesso
+5.5.1. O ONS emite o Parecer de Acesso para uso da rede em caráter permanente, para uso da rede em
+caráter temporário, flexível ou de reserva de capacidade e para uso do sistema de transmissão por
+importadores e exportadores de energia elétrica, com validade de 90 (noventa) dias.
+5.5.2. O ONS encaminha e disponibiliza o Parecer de Acesso ao acessante, com cópia para o agente de
+transmissão responsável pelas instalações no ponto de conexão pretendido, para o agente de distribuição
+responsável pela área onde se localiza o ponto de conexão e para os demais agentes afetados pelo acesso.
+5.5.3. Caso seja identificada a necessidade de realização de estudo específico de transitórios
+eletromagnéticos no Parecer de Acesso, o acessante elabora relatório referente a esse estudo e o ONS,
+durante os estudos pré-operacionais, aprecia o relatório e emite comentários a respeito deste.
+5.5.4. O Parecer de Acesso pode ser revisado nos seguintes casos:
+(a) por iniciativa do ONS, em decorrência do fornecimento de informações incorretas por parte do
+acessante que implicam no comprometimento do parecer. Nesse caso, o acessante fica sujeito a
+novas condições de acesso, sem direito a ressarcimentos em função de eventuais restrições de
+transmissão;
+(b) por iniciativa do ONS ou por solicitação do acessante ao ONS em decorrência de alteração de dados
+fornecidos pelo acessante durante o processo de acesso. Nesse caso, o acessante fica sujeito a novas
+condições de acesso, sem direito a ressarcimentos em função de eventuais restrições de transmissão;
+(c) por iniciativa do ONS ou por solicitação do agente de transmissão acessado, em caso de constatação
+de motivo técnico não previsto quando da elaboração do Parecer de Acesso;
+(d) por solicitação do acessante ao ONS, para contemplar alteração de Montante de Uso do Sistema de
+(MUST), conforme condições estabelecidas em regulamentação [10];
+(e) por solicitação do acessante ao ONS, para contemplar antecipação da entrada em operação do seu
+empreendimento. Nesse caso, o acessante pode ficar sujeito a novas condições de acesso; e
+Endereço na internet: http://www.ons.org.br 9 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+(f) por solicitação do acessante ao ONS, com cópia à ANEEL, para contemplar postergação da entrada
+em operação do seu empreendimento, conforme estabelecido em regulamentação [10].
+5.5.5. O acessante pode solicitar ao ONS revisão do Parecer de Acesso em caráter permanente com prazo
+de validade expirado em até 30 (trinta) dias, desde que alguma das condições de acesso registradas no
+Parecer de Acesso tenha sido alterada e conforme ordem cronológica das solicitações de acesso.
+5.5.6. O acessante pode solicitar ao ONS revalidação, por até 90 (noventa) dias, do Parecer de Acesso em
+caráter permanente com prazo de validade expirado em até 30 (trinta) dias, uma única vez, desde que as
+condições de acesso registradas no Parecer de Acesso não tenham sido alteradas e conforme ordem
+cronológica das solicitações de acesso e de revalidação.
+5.5.7. Se o acessante não celebrar o CUST e/ou o CUSD, conforme o caso, no prazo de validade do Parecer
+de Acesso e se esse deixar de ser aplicável em virtude de outras solicitações de acesso posteriores, o
+acessante fica sujeito a novas condições de acesso e, consequentemente, a novos prazos de atendimento.
+6. DESATIVAÇÃO DE CONEXÃO ÀS INSTALAÇÕES DE TRANSMISSÃO OU RECONEXÃO SOLICITADA PELO
+ACESSANTE
+6.1. O acessante pode requerer a desconexão permanente de seus equipamentos conectados às instalações
+sob responsabilidade de transmissora, solicitando ao ONS e ao agente de transmissão acessado a desativação
+da conexão.
+6.1.1. Caso o acessante preste serviço ancilar, a interrupção desse serviço só ocorre após o ONS ter
+providenciado outro fornecedor para o serviço, de acordo com o Contrato de Prestação de Serviços Ancilares
+(CPSA), mediante prazo acordado entre as partes.
+6.1.2. A desconexão fica condicionada à implantação de ampliações, reforços e/ou melhorias, quando
+necessárias, no sistema elétrico para preservar os seus padrões de qualidade e desempenho.
+6.1.3. O acessante arca com todos os custos e penalidades relacionados às atividades necessárias à
+desconexão.
+6.1.4. Outros custos, multas ou penalidades devem ser previstos em cláusulas contratuais.
+6.2. O ONS define, em comum acordo com o acessante e o agente de transmissão acessado, o cronograma
+de desconexão.
+6.3. Em caso de reconexão, o acessante deve apresentar nova solicitação de acesso.
+7. REFERÊNCIAS
+[1] MME. Portaria n° 21, de 18 de janeiro de 2008.
+[2] ANEEL. Resoluções Normativas n° 390, de 15 de dezembro de 2009.
+[3] ANEEL. Resoluções Normativas n° 391, de 15 de dezembro de 2009.
+[4] ANEEL. Resoluções Normativas nº 673, de 4 de agosto de 2015.
+[5] ANEEL. Resoluções Normativas nº 676, de 25 de agosto de 2015.
+[6] ANEEL. Resolução nº 281, de 1º de outubro de 1999.
+[7] ANEEL. Resolução Normativa nº 320, de 10 de junho de 2008.
+[8] ANEEL. Resolução Normativa nº 442, de 26 de julho de 2011.
+[9] ANEEL. Resolução Normativa nº 506, de 4 de setembro de 2012.
+Endereço na internet: http://www.ons.org.br 10 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+[10] ANEEL. Resolução Normativa nº 666, de 23 de junho de 2015.
+[11] ANEEL. Resolução Normativa nº 722, de 31 de maio de 2016.
+[12] ANEEL. Despacho nº 4.309, de 4 de novembro de 2014.
+[13] Presidência da República, Casa Civil. Decreto nº 5.597, de 28 de novembro de 2005.
+[14] ANEEL. Resolução Normativa nº 67, de 8 de junho de 2004.
+[15] ANEEL. Resolução Normativa nº 68, de 8 de junho de 2004.
+8. ANEXOS
+Anexo A – Instruções para requerimento ao ONS de Informação de Acesso
+Anexo B – Informações para solicitação de Parecer Técnico dos Impactos do Acesso à Distribuição sobre o
+Sistema de Transmissão
+Anexo C – Roteiro para elaboração de Parecer de Acesso por parte dos agentes de distribuição para a
+conexão de centrais geradoras despachadas centralizadamente pelo ONS às instalações sob sua
+responsabilidade
+Anexo D – Informações fornecidas por tipo de instalação acessante
+Anexo E – Informações sobre o acessante e o empreendimento
+Anexo F – Dados de transformadores
+Anexo G – Dados de motores de indução
+Anexo H – Dados de unidades geradoras termelétricas
+Anexo I – Dados de unidades geradoras hidrelétricas
+Anexo J – Dados de ponto de conexão
+Anexo K – Dados de elos de corrente contínua
+Anexo L – Dados das centrais geradoras eólicas
+Anexo M – Dados de máquinas síncronas
+Anexo N – Dados de fornos
+Anexo O – Dados de conversores (retificadores/inversores) e dispositivos automáticos para controle de
+velocidade de motores (“driver”)
+Anexo P – Dados de cicloconversores
+Anexo Q – Dados de centrais geradoras fotovoltaicas
+Anexo Q – Formulários e dados para solicitação de acesso
+Endereço na internet: http://www.ons.org.br 11 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+ANEXO A - INSTRUÇÕES PARA REQUERIMENTO AO ONS DE INFORMAÇÃO DE ACESSO
+A.1 Objetivo
+A.1.1 O objetivo deste anexo é apresentar as informações e os dados que devem ser fornecidos pelo
+interessado para a solicitação ao ONS da Informação de Acesso, para fins de obtenção ou alteração de
+outorga de autorização para exploração de central geradora com conexão às instalações sob
+responsabilidade de transmissora e aplica-se também para a solicitação de Documento Equivalente de
+Acesso para fins de cadastramento de empreendimento de geração, com vistas à habilitação técnica pela EPE
+para participação nos leilões de compra de energia elétrica.
+A.2 Instruções para a Escolha do Ponto de Conexão da Central Geradora
+A.2.1 O interessado deve consultar/considerar os casos do Plano de Ampliações e Reforços – PAR
+disponibilizados no site do ONS, onde são apresentadas, dentre outras, a topologia e a configuração do
+sistema elétrico previstas para o Sistema Interligado Nacional – SIN, as centrais geradoras e seus despachos,
+e as principais características técnicas dos elementos do sistema elétrico.
+A.3 Dados de outorga
+A.3.1 O interessado deve apresentar junto com a solicitação da Informação de Acesso:
+a) No caso de PCH ou de aproveitamento de potencial de energia hidráulica de 5.000 até 50.000 kW
+sem características de PCH, o Despacho de aprovação do projeto básico ou o Despacho de Registro
+de Adequabilidade do sumário executivo;
+b) No caso de centrais geradoras termoelétricas, eólicas, fotovoltaicas ou de outras fontes alternativas,
+o Despacho de recebimento do requerimento de outorga emitido pela Superintendência de
+Concessões e Autorizações de Geração – SCG da ANEEL;
+c) No caso de alteração de outorga, a outorga de autorização vigente da central geradora.
+A.4 Documentação para a solicitação da Informação de Acesso
+A.4.1 O requerimento da Informação de Acesso para empreendimentos de geração de energia elétrica
+deverá atender às seguintes condições gerais relativas à documentação a ser apresentada:
+a) Documentos em português, em todas as suas partes e componentes, inclusive desenhos;
+b) Utilização do Sistema Internacional de Unidades; e
+c) Documentação e sequência da apresentação conforme mostrada a seguir:
+1 – Informações sobre o interessado e o empreendimento
+A) Informações gerais
+1 - Nome do empreendimento
+Endereço na internet: http://www.ons.org.br 12 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+2 - Razão social
+3 - Ramo de atividade
+4 - CNPJ
+5 - Inscrição estadual
+6 - Endereço
+7 - Município
+8 - UF
+9 - CEP
+10 - Telefone
+12 - E-mail
+B) Dados do representante perante o ONS
+1 - Empresa
+2 - Cargo
+3 - Setor
+4 - Nome
+5 - Endereço
+6 - Município
+7 - UF
+8 - CEP
+9 - Telefone
+11 - E-mail
+C) Localização do empreendimento
+1 - Município
+2 - UF
+Endereço na internet: http://www.ons.org.br 13 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+3 - Latitude sul (graus, minutos e segundos)
+4 - Longitude oeste (graus, minutos e segundos)
+D) Dados do ponto de conexão
+D.1 No caso de conexão em subestação
+1 - Nome da subestação
+2 - Nível de tensão da subestação (kV)
+3 - Agente de transmissão responsável pela subestação
+4 - Observações adicionais
+D.2 No caso de conexão por meio de seccionamento de linha de transmissão
+1 - Nome da linha de transmissão – LT
+2 - Distância do ponto de seccionamento a cada um dos terminais da LT
+3 - Nível de tensão da LT (kV)
+4 - Agente de transmissão responsável pela LT
+5 - Observações adicionais
+E) Informações e dados da central geradora
+E.1 No caso de central geradora termelétrica
+DADOS DA CENTRAL GERADORA TERMELÉTRICA
+Potência nominal (MVA)
+Potência máxima em regime contínuo (MW)
+Número de unidades
+Combustível
+Endereço na internet: http://www.ons.org.br 14 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+Data da conexão às instalações sob responsabilidade de
+transmissora
+Potência máxima a ser injetada no sistema elétrico (MW)
+E.2 No caso de central geradora hidrelétrica ou PCH
+DADOS DA CENTRAL GERADORA HIDRELÉTRICA OU PCH
+Potência nominal (MVA)
+Potência máxima em regime contínuo (MW)
+Número de unidades
+Data da conexão às instalações sob responsabilidade de
+transmissora
+Potência máxima a ser injetada no sistema elétrico (MW)
+E.3 No caso de central geradora eólica
+DADOS DA CENTRAL GERADORA EÓLICA
+Número de turbinas/geradores (por tipo):
+Potência nominal instalada total (MW) (por tipo):
+Potência máxima a ser injetada no sistema elétrico (MW):
+Data da conexão às instalações sob responsabilidade de
+transmissora
+E.4 No caso de central /geradora fotovoltaica
+DADOS DA CENTRAL GERADORA FOTOVOLTAICA
+Número de inversores:
+Potência nominal instalada total (MW) (por tipo):
+Endereço na internet: http://www.ons.org.br 15 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+Potência máxima a ser injetada no sistema elétrico (MW):
+Data da conexão às instalações sob responsabilidade de
+transmissora
+E.5 Descrição do sistema de transmissão de interesse restrito da central geradora e, se for o
+caso, do compartilhamento dessas instalações com outras centrais geradoras
+a) Quantidade e dados dos transformadores de potência da subestação elevadora;
+b) Quantidade e dados dos circuitos por central geradora;
+c) Arranjo de barramentos da subestação elevadora;
+d) Diagrama unifilar simplificado das instalações de interesse restrito; e
+e) Informações adicionais.
+2 – Declaração do agente de transmissão a ser acessado
+Para o caso de obtenção de outorga de autorização ou de alteração de ponto de conexão,
+deverá ser anexada declaração do agente responsável pela subestação a ser acessada, ou
+linha de transmissão a ser seccionada, pela central geradora, atestando a viabilidade física da
+conexão.
+3 – Estudos sistêmicos
+Deverá ser enviado ao ONS os resultados dos estudos de fluxo de potência e de curto-
+circuito realizados pelo empreendedor, assim como os casos utilizados, contendo resultados
+desses estudos para o ano de entrada em operação do empreendimento e para os anos
+subsequentes dentro do horizonte de estudos do ONS.
+Endereço na internet: http://www.ons.org.br 16 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+ANEXO B - INFORMAÇÕES PARA SOLICITAÇÃO DE PARECER TÉCNICO DOS IMPACTOS DO ACESSO À
+DISTRIBUIÇÃO SOBRE O SISTEMA DE TRANSMISSÃO
+2.1 Segue o conjunto de informações que deve ser apresentada ao ONS, acerca do acesso requerido no
+sistema de distribuição:
+(a) o ponto conexão no sistema de distribuição;
+(b) os pontos de contratação do uso do sistema de transmissão pela distribuidora que podem ser
+influenciados pelo acesso no sistema de distribuição;
+(c) os valores de carga nos horários de ponta e fora de ponta e/ou injeção de potência máxima no ponto
+de conexão ao sistema de distribuição, para o ano de entrada em operação do empreendimento e
+para os anos subsequentes até o horizonte de análise do ONS;
+(d) data prevista para a conexão pretendida (cronograma);
+(e) o diagrama simplificado da rede elétrica na região do acesso; e
+(f) estudos de fluxo de potência e curto-circuito para o ano de entrada em operação do empreendimento
+e para os anos subsequentes até o horizonte de análise do ONS.
+Endereço na internet: http://www.ons.org.br 17 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+ANEXO C - ROTEIRO PARA ELABORAÇÃO DE PARECER DE ACESSO POR PARTE DOS AGENTES DE
+DISTRIBUIÇÃO PARA A CONEXÃO DE CENTRAIS GERADORAS DESPACHADAS CENTRALIZADAMENTE
+PELO ONS ÀS INSTALAÇÕES SOB SUA RESPONSABILIDADE
+3.1 Objetivo
+3.1.1 O objetivo deste anexo é apresentar os requisitos para a emissão de Parecer de Acesso por
+concessionária ou permissionária de distribuição para a conexão de central geradora despachada
+centralizadamente pelo ONS em instalações sob sua responsabilidade. Os itens que não se aplicarem a um
+determinado acesso devem ser rotulados pela expressão “não se aplica”.
+3.2 Roteiro
+1 Introdução
+Apresentar, sucintamente, o acesso solicitado pela central geradora.
+O Parecer de Acesso consolida as avaliações de viabilidade técnica dos acessos solicitados às instalações
+de distribuição e é parte do CUST a ser celebrado pelo agente de geração com o ONS.
+Sua principal finalidade é analisar a capacidade instalada do sistema para atender ao agente de geração
+e manter o atendimento aos demais agentes dentro dos requisitos de segurança, qualidade e confiabilidade,
+definidos nos Procedimentos de Rede e PRODIST. Tem como função secundária antecipar questões
+relevantes de natureza regulatória, operativa ou de aspectos que afetam a qualidade do serviço oferecido
+pelo agente de distribuição, quando o caso assim o exigir.
+2 Histórico
+Descrever os principais eventos, marcos e trocas de correspondências referentes ao processo de acesso.
+2.1 Motivo da revisão
+Descrever sucintamente as razões que motivaram a revisão do Parecer.
+3 Caracterização do acesso
+3.1 Descrição do empreendimento
+3.2 Caracterização do agente
+Caracterizar o acessante, conforme a outorga de concessão ou autorização de seu empreendimento, e
+indicar os documentos regulatórios associados.
+3.3 Cronograma de entrada em operação
+Apresentar o cronograma de entrada em operação da central geradora, conforme declarado pelo
+empreendedor na solicitação de acesso ao agente de distribuição, que deverá ser incorporado ao CUST da
+central geradora.
+Endereço na internet: http://www.ons.org.br 18 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+Tabela 1 – Cronograma de entrada em operação da central geradora
+Potência Potência Primeira Início da Montante de uso a
+Unidade contratar (MW)
+nominal efetiva (*) sincronização operação
+(MVA) (MW) à rede de comercial
+distribuição
+1
+2
+3
+(*) Potência máxima em regime contínuo.
+4 Dados do solicitante
+4.1 Informações sobre o empreendedor
+4.2 Representante para contato
+5 Ponto de conexão e agente de distribuição acessado
+5.1 Descrição da conexão
+5.2 Obras
+5.3 Diagrama eletrogeográfico
+Apresentar o mapa eletrogeográfico da área de influência do acesso (Figura 1), o diagrama unifilar
+simplificado indicando a conexão da central geradora (Figura 2) e o diagrama unifilar simplificado da
+subestação da central geradora e da sua conexão ao sistema de distribuição (Figura 3).
+Figura 1 – Mapa eletrogeográfico da área de influência do acesso
+Figura 2 – Diagrama unifilar da área de influência da central geradora
+Figura 3 – Diagrama unifilar simplificado da subestação da central geradora e da sua conexão
+6 Questões legais
+Endereço na internet: http://www.ons.org.br 19 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+Citar aspectos legais relevantes associados ao acesso da central geradora.
+7 Impactos na rede elétrica
+7.1 Aspectos gerais
+Apresentar os aspectos gerais relativos aos estudos para identificação dos impactos nas instalações de
+distribuição e de transmissão associados ao acesso da central geradora.
+7.2 Impactos nas instalações de distribuição (sob sua responsabilidade e sob responsabilidade de
+outras empresas)
+7.2.1 Comportamento em regime permanente
+7.2.2 Solicitações de curto-circuito
+7.2.3 Comportamento em regime dinâmico
+7.2.4 Qualidade de tensão no ponto de conexão
+7.3 Impactos nas instalações de transmissão
+Apresentar o diagnóstico dos impactos que o acesso pode causar na Rede Básica, nas DIT, nas ICG ou nas
+instalações de transmissão de energia elétrica destinadas a interligações internacionais conectadas à Rede
+Básica.
+Descrever ampliações, reforços e melhorias nas instalações de transmissão necessários à viabilização
+técnica do acesso, definidos em conjunto com o ONS.
+Para permitir essa análise, o agente de distribuição deve consultar o ONS sobre:
+ as instalações da Rede Básica a serem avaliadas;
+ as DIT a serem avaliadas;
+ as ICG a serem avaliadas;
+ as instalações de transmissão de energia elétrica destinadas a interligações internacionais conectadas à
+Rede Básica a serem avaliadas;
+ as premissas de intercâmbio e despacho;
+ os casos base a serem considerados para a avaliação de fluxo de potência, curto-circuito e estabilidade
+eletromecânica.
+8 Requisitos de proteção e controle
+Apresentar os requisitos de proteção e controle da central geradora, observando a possibilidade de a
+central geradora vir a participar do controle automático de geração – CAG e do esquema de corte de geração
+– ECG, atendendo aos requisitos de proteção e controle estabelecidos nos Procedimentos de Rede.
+9 Requisitos de medição para faturamento
+Apresentar os requisitos de medição para faturamento da central geradora, observando os
+procedimentos e requisitos estabelecidos no Módulo 2.
+O projeto executivo do sistema de medição para faturamento, devidamente aprovado pela distribuidora
+acessada, deve ser enviado ao ONS para homologação.
+Endereço na internet: http://www.ons.org.br 20 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+10 Requisitos de supervisão e de telecomunicação
+Descrever o projeto do sistema de supervisão e controle das unidades geradoras e das instalações de
+interesse restrito da central geradora.
+Indicar o centro de operação do ONS com a qual a central geradora deve se comunicar e o protocolo a ser
+utilizado. Essas informações devem ser obtidas pelo agente de distribuição no ONS.
+Os requisitos de supervisão e telecomunicação a serem atendidos pelo agente de geração estão definidos
+no Módulo 2.
+As tratativas para implantação e testes dos sistemas de telessupervisão e de telecomunicação devem ser
+feitas com o ONS.
+Indicar a classificação da modalidade de operação da central geradora, em conformidade com o Módulo
+26 dos Procedimentos de Rede.
+11 Relacionamento operacional
+Indicar o centro de controle do ONS que exercerá a coordenação operacional da central geradora, os
+protocolos de comunicação a serem utilizados e se a central geradora participará ou não do Controle
+Automático de Geração – CAG. Essas informações devem ser obtidas pelo agente de distribuição no ONS.
+12 Conformidade com o planejamento de longo prazo
+Indicar se houve inclusão ou não do empreendimento no Plano Decenal da Expansão do Sistema Elétrico.
+13 Pendências
+Avaliar e relatar as pendências por parte da central geradora relativas ao acesso, se for o caso.
+Devem ser informados, no Quadro 1, os dados e informações solicitadas no anexo D que não foram
+apresentados pelo acessante. Esse registro é um insumo importante para os estudos pré-operacionais a
+serem desenvolvidos pelo ONS.
+Quadro 1 – Dados e informações pendentes
+Item (*) Descrição do Item Observação
+(*) Itens referentes ao anexo D.
+14 Ressalvas
+Relatar, quando for o caso, o não atendimento aos requisitos técnicos, ressaltando que o agente
+permanece obrigado ao cumprimento do disposto nos Procedimentos de Rede, nos PRODIST e nos demais
+documentos regulatórios que regem o acesso, independentemente de outros requisitos técnicos terem sido
+ou não citados.
+Endereço na internet: http://www.ons.org.br 21 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+15 Informações complementares
+Solicitar informações complementares, quando for o caso, e/ou informações adicionais não previstas no
+anexo D e nos formulários para a solicitação de acesso ao sistema de distribuição estabelecidos nos PRODIST.
+16 Conclusões
+Apresentar as conclusões relativas ao acesso da central geradora.
+17 Providências necessárias e recomendações
+Apresentar providências necessárias e recomendações relativas ao acesso da central geradora.
+18 Assinatura de contratos
+Indicar o prazo de 90 (noventa) dias contados da data de emissão do Parecer de Acesso para celebração
+do CUST com o ONS.
+Também devem ser assinaladas as condições relativas à assinatura do CUSD e do CCD (se a conexão for
+nas instalações do agente de distribuição) ou do CCT (se a conexão for em Demais Instalações de Transmissão
+– DIT citadas no Decreto n º 2.655/1998).
+19 Documentação, dados e estudos apresentados
+Listar os documentos apresentados pelo acessante no processo de solicitação de acesso.
+20 Referências
+Listar legislação, regulamentação, documentos e correspondências referenciadas no Parecer de Acesso.
+21 Anexos
+Listar os anexos do Parecer de Acesso, quando for o caso.
+Endereço na internet: http://www.ons.org.br 22 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+ANEXO D - INFORMAÇÕES FORNECIDAS POR TIPO DE INSTALAÇÃO ACESSANTE
+4.1 Central geradora termelétrica: o acessante deve preencher online e enviar em sistema
+computacional do ONS:
+(a) o cadastro do empreendimento (Anexo E);
+(b) os dados dos documentos comprobatórios do ato de outorga ou certificado de registro (Anexo R -
+Formulário 8);
+(c) os dados da central geradora (Anexo H);
+(d) quando a geração da central geradora termelétrica superar a carga própria, informar:
+(1) o montante de uso do sistema de transmissão (MUST) associado a central geradora termelétrica,
+determinado pela máxima potência elétrica injetável no sistema, a qual deverá ter valor no mínimo
+igual à potência instalada subtraída da mínima carga própria, (Anexo R - Formulário 1); e
+(2) o valor da carga própria da central geradora termelétrica, a qual é composta por suas demandas
+internas, por perdas elétricas em instalações de interesse restrito e por demandas de
+autoprodutores e produtores independentes no mesmo local da produção, quando sob
+responsabilidade da mesma pessoa jurídica da termelétrica outorgada (Anexo R - Formulário 12);
+(e) quando a geração da central geradora termelétrica, sob responsabilidade de produtor independente
+de energia ou de autoprodutor, for inferior a máxima carga própria, informar os MUST nos horários
+de ponta e fora de ponta para o ano de entrada em operação e para os 4 (quatro) anos civis
+subsequentes (Anexo R - Formulário 10);
+(f) os MUST a serem informados por autoprodutor com geração inferior à máxima carga própria,
+detentor de Portaria do MME, devem ser no mínimo aqueles que constam no correspondente estudo
+de mínimo custo global que respaldou a emissão da sua portaria;
+(g) os dados do Anexo F, para cada grupo de transformadores elevadores com características idênticas;
+(h) os casos-base utilizados e os modelos dos equipamentos, das máquinas e de seus controles no
+formato adotado pelos programas computacionais utilizados pelo ONS (conforme Módulo 18), no
+caso de estudos de regime permanente e regime dinâmico, e no formato adotado pelo programa ATP,
+no caso de estudos de transitórios eletromagnéticos;
+(i) diagrama unifilar da central geradora termelétrica incluindo a subestação elevadora e vãos de saída
+das linhas de conexão às instalações sob responsabilidade de transmissora;
+(j) para instalações de conexão, preencher o Anexo R - Formulário 3 e preencher os dados do Anexo F
+para cada grupo de transformadores que possuam características idênticas;
+(k) os dados do ponto de conexão (Anexo J); e
+(l) os dados de motores de indução (Anexo G), quando existente na instalação.
+4.2 Central geradora hidrelétrica: o acessante deve preencher online e enviar em sistema computacional
+do ONS:
+Endereço na internet: http://www.ons.org.br 23 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+(a) o cadastro do empreendimento (Anexo E);
+(b) os dados dos documentos comprobatórios do ato de outorga ou certificado de registro (Anexo P -
+Formulário 8);
+(c) os dados da central geradora (Anexo I);
+(d) quando a geração da central geradora hidrelétrica superar a carga própria, informar:
+(1) o MUST associado a central geradora hidrelétrica, determinado pela máxima potência elétrica
+injetável no sistema, a qual deverá ter valor no mínimo igual à potência instalada subtraída da
+mínima carga própria (Anexo R - Formulário 2); e
+(2) o valor da carga própria da central geradora hidrelétrica, a qual é composta por suas demandas
+internas, por perdas elétricas em instalações de interesse restrito e por demandas de
+autoprodutores e produtores independentes no mesmo local da produção, quando sob
+responsabilidade da mesma pessoa jurídica da hidrelétrica outorgada (Anexo R - Formulário 12);
+(e) quando a geração da central geradora hidrelétrica, sob responsabilidade de produtor independente
+de energia ou de autoprodutor, for inferior a máxima carga própria, informar os MUST nos horários
+de ponta e fora de ponta para o ano de entrada em operação e para os 4 (quatro) anos civis
+subsequentes (Anexo R - Formulário 10);
+(1) os MUST a serem informados por autoprodutor com geração inferior à máxima carga própria,
+detentor de Portaria do MME, devem ser no mínimo aqueles que constam no correspondente
+estudo de mínimo custo global que respaldou a emissão da sua portaria.
+(f) os dados do Anexo F para cada grupo de transformadores elevadores com características idênticas;
+(g) os casos-base utilizados e os modelos dos equipamentos, das máquinas e de seus controles no
+formato adotado pelos programas computacionais utilizados pelo ONS, no caso de estudos de regime
+permanente e regime dinâmico, e no formato adotado pelo programa ATP, no caso de estudos de
+transitórios eletromagnéticos;
+(h) o diagrama unifilar da central geradora hidrelétrica incluindo a subestação elevadora e vãos de saída
+das linhas de conexão às instalações sob responsabilidade de transmissora;
+(i) para instalações de conexão, preencher o Anexo R - Formulário F3 e preencher os dados do Anexo
+para cada grupo de transformadores que possuam características idênticas;
+(j) os dados do ponto de conexão (Anexo F);
+(k) os dados de motores de indução (Anexo G), quando existente na instalação.
+4.3 Central geradora eólica: o acessante deve preencher online e enviar em sistema computacional do
+ONS:
+(a) o cadastro do empreendimento (Anexo E);
+(b) os dados dos documentos comprobatórios do ato de outorga ou certificado de registro (Anexo P -
+Formulário 8);
+(c) quando a geração da central geradora eólica superar a carga própria, informar:
+Endereço na internet: http://www.ons.org.br 24 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+(1) o MUST associado à central geradora eólica, determinado pela máxima potência elétrica injetável
+no sistema, a qual deverá ter valor no mínimo igual à potência instalada subtraída da mínima carga
+própria (Anexo R - Formulário 11); e
+(2) o valor da carga própria da central geradora eólica, a qual é composta por suas demandas internas,
+por perdas elétricas em instalações de interesse restrito e por demandas de autoprodutores e
+produtores independentes no mesmo local da produção, quando sob responsabilidade da mesma
+pessoa jurídica da central geradora eólica outorgada (Anexo R - Formulário 12).
+(d) quando a geração da central geradora eólica, sob responsabilidade de produtor independente de
+energia ou autoprodutor, for inferior a máxima carga própria, informar os MUST nos horários de
+ponta e fora de ponta para o ano de entrada em operação e para os 4 (quatro) anos civis subsequentes
+(Anexo R - Formulário 10);
+(e) os MUST a serem informados por autoprodutor com geração inferior à máxima carga própria,
+detentor de Portaria do MME, devem ser no mínimo aqueles que constam no correspondente estudo
+de mínimo custo global que respaldou a emissão da sua portaria;
+(f) os dados das centrais geradoras eólicas (Anexo L) e fornecer os dados históricos de vento;
+(g) no caso de gerador síncrono de velocidade variável com conversor, preencher os dados de máquinas
+síncronas (Anexo M) e os dados de conversores (Anexo O);
+(h) instalações de conexão (de uso restrito ou compartilhado):
+(1) para instalações em corrente alternada, sem conversor, preencher Anexo R - Formulário F3;
+(2) para instalações em corrente alternada, com conversor, preencher Anexo R - Formulário F3 e os
+dados do Anexo O.
+(i) diagrama unifilar da central geradora eólica, incluindo a subestação elevadora e os vãos de saída das
+linhas de conexão às instalações sob responsabilidade de transmissora e indicando os sistemas de
+proteção e proposta de sistema de medição;
+(j) os dados do ponto de conexão (Anexo J);
+(k) as informações, os detalhes e os modelos de toda a rede interna da central geradora eólica, dos
+transformadores elevadores, filtros, aerogeradores e controles associados, incluindo detalhamento
+da rede interna, no formato adotado pelos programas computacionais utilizados pelo ONS, no caso
+de estudos de regime permanente e regime dinâmico, e no formato adotado pelo programa ATP, no
+caso de estudos de transitórios eletromagnéticos.
+4.4 Central geradora fotovoltaica: o acessante deve preencher online e enviar em sistema
+computacional do ONS:
+(a) o cadastro do empreendimento (Anexo E);
+(b) os dados dos documentos comprobatórios do ato de outorga ou certificado de registro (Anexo R -
+Formulário 8);
+(c) quando a geração da central geradora fotovoltaica superar a carga própria, informar:
+Endereço na internet: http://www.ons.org.br 25 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+(1) o MUST associado à central geradora fotovoltaica, determinado pela máxima potência elétrica
+injetável no sistema, a qual deverá ter valor no mínimo igual à potência instalada subtraída da
+mínima carga própria (Anexo R - Formulário 14); e
+(2) o valor da carga própria da central geradora fotovoltaica, a qual é composta por demandas
+internas da central de geração, por perdas elétricas em instalações de interesse restrito e por
+demandas de autoprodutores e produtores independentes no mesmo local da produção, quando
+pertencentes à mesma pessoa jurídica da central geradora fotovoltaica outorgada (Anexo R -
+Formulário 12).
+(d) quando a geração da central geradora fotovoltaica for inferior a máxima carga própria, informar os
+MUST nos horários de ponta e fora de ponta para o ano de entrada em operação e para os 4 (quatro)
+anos civis subsequentes (Anexo R - Formulário 10);
+(e) os MUST a serem informados por autoprodutor com geração inferior à máxima carga própria,
+detentor de Portaria do MME, devem ser no mínimo aqueles que constam no correspondente estudo
+de mínimo custo global que respaldou a emissão da sua portaria.
+(f) os dados e informações da central geradora fotovoltaica (Anexo Q) e fornecer os dados solarimétricos
+em um CD identificado com os nomes do empreendedor e do empreendimento;
+(g) instalações de conexão (de uso restrito ou compartilhado):
+(1) para instalações em corrente alternada, sem conversor, preencher Anexo R - Formulário 3;
+(2) para instalações em corrente alternada, com conversor, preencher Anexo R - Formulário 3 e os
+dados do Anexo O.
+(h) o diagrama unifilar da central geradora fotovoltaica, incluindo a subestação elevadora e os vãos de
+saída das linhas de conexão às instalações sob responsabilidade de transmissora e indicando os
+sistemas de proteção e proposta de sistema de medição;
+(i) os dados do ponto de conexão (Anexo J);
+(j) as informações, manual de utilização e os modelos de toda a rede interna da central geradora
+fotovoltaica, dos transformadores elevadores, filtros, painéis fotovoltaicos e controles associados no
+formato adotado pelos programas computacionais utilizados pelo ONS (conforme Módulo 18), no
+caso de estudos de regime permanente e regime dinâmico, e no formato adotado pelo programa ATP,
+no caso de estudos de transitórios eletromagnéticos.
+4.5 Agente de importação: a partir de uma central geradora hidrelétrica ou termelétrica, o acessante
+deve preencher online e enviar em sistema computacional do ONS:
+(a) o cadastro do empreendimento (Anexo E);
+(b) os dados dos documentos comprobatórios dos atos de autorização ou de concessão (Anexo R -
+Formulário F8);
+(c) dados da central geradora:
+(1) para termelétrica, preencher Anexo R - Formulário 1;
+(2) para hidrelétrica, preencher Anexo R - Formulário 2.
+Endereço na internet: http://www.ons.org.br 26 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+(d) informar o MUST a contratar, o qual é determinado pela máxima potência elétrica injetável na Rede
+Básica (Anexo R - Formulário 13);
+(e) instalações de conexão:
+(1) para instalações em corrente alternada, preencher Anexo R - Formulário 3;
+(2) para instalações em corrente contínua, preencher os dados do Anexo K.
+(f) os dados do ponto de conexão (Anexo J); e
+(g) os dados dos motores de indução (Anexo G), quando existente na instalação.
+4.6 Agente de importação: a partir de um sistema, o acessante deve preencher online e enviar em
+sistema computacional do ONS:
+(a) o cadastro do empreendimento (Anexo E);
+(b) os dados dos documentos comprobatórios dos atos de autorização ou de concessão (Anexo R -
+Formulário F8);
+(c) os dados do ponto de conexão (Anexo J);
+(d) informar o MUST a contratar, o qual é determinado pela máxima potência elétrica injetável na Rede
+Básica (Anexo R - Formulário 13);
+(e) instalações de conexão:
+(1) o diagrama unifilar e informações gerais do sistema de transmissão do país vizinho;
+(2) para instalações em corrente alternada, preencher Anexo R - Formulário 3; e
+(3) para instalações em corrente contínua, preencher os dados do Anexo I.
+4.7 Consumidores: o acessante deve preencher online e enviar em sistema computacional do ONS:
+(a) o cadastro do empreendimento (Anexo E);
+(b) os dados dos documentos comprobatórios (Anexo R - Formulário 8);
+(c) os dados do ponto de conexão (Anexo J);
+(d) instalações de conexão: preencher o Anexo R - Formulário 3 e preencher os dados do Anexo E para
+cada grupo de transformadores que possuam características idênticas;
+(e) informações técnicas do acesso, preencher Anexo R - Formulário 4;
+(f) os MUST a contratar por ponto de conexão: deverão ser informados os máximos montantes anuais
+de demanda de potência elétrica nos horários de ponta e fora de ponta para o ano de entrada em
+operação até os 4 (quatro) anos civis subsequentes de acordo com o ciclo de contratação (Anexo R -
+Formulário 10);
+(g) os MUST a serem informados por unidade consumidora, detentora de Portaria do MME, devem ser
+no mínimo aqueles que constam no correspondente estudo de mínimo custo global que respaldou a
+emissão da sua portaria;
+Endereço na internet: http://www.ons.org.br 27 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+(h) caso a instalação tenha motores com potência maior ou igual a 5MW, preencher os dados do Anexo
+M para motores síncronos e/ou do Anexo G para motores de indução;
+(i) caso a instalação tenha fornos, preencher Anexo R - Formulário 5 e os dados do Anexo N;
+(j) caso a instalação tenha conversores e/ou retificadores, preencher o Anexo R - Formulário 6 com dados
+gerais e os dados do Anexo O para cada grupo de conversores com características idênticas e/ou os
+dados do Anexo P para cada grupo de ciclo conversores com características idênticas; e
+(k) caso a instalação tenha geração própria, preencher os dados do Anexo M para cada grupo de
+geradores síncronos com características idênticas.
+4.8 Agente de distribuição: o acessante deve preencher online e enviar em sistema computacional do
+ONS:
+(a) o cadastro do empreendimento (Anexo E);
+(b) os dados do ponto de conexão (Anexo J);
+(c) para a subestação, preencher Anexo F;
+(d) informações técnicas do acesso, preencher Anexo R - Formulário 7;
+(e) os MUST a contratar por ponto de conexão: deverão ser informados os máximos montantes anuais
+de demanda de potência elétrica nos horários de ponta e fora de ponta para o ano de entrada em
+operação até os 4 (quatro) anos civis subsequentes de acordo com o ciclo de contratação (Anexo R -
+Formulário 9).
+(f) Para os seus demais pontos de conexão afetados pelo novo acesso, preencher o Anexo R - Formulário
+9.
+4.9 Agente de exportação: o acessante deve preencher online e enviar em sistema computacional do
+ONS:
+(a) o cadastro do empreendimento (Anexo E);
+(b) os dados dos documentos comprobatórios dos atos de autorização ou de concessão (Anexo R -
+Formulário 8);
+(c) os dados do ponto de conexão (Anexo J);
+(d) informar o MUST a contratar, o qual é determinado pela máxima potência elétrica a ser demandada
+na Rede Básica (Anexo R - Formulário 13);
+(e) instalações de conexão:
+(1) fornecer diagrama unifilar e informações gerais do sistema de transmissão do país vizinho;
+(2) para instalações em corrente alternada, preencher Anexo R - Formulário 3;
+(3) para instalações em corrente contínua, preencher os dados do Anexo I.
+Endereço na internet: http://www.ons.org.br 28 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+ANEXO E - INFORMAÇÕES SOBRE O ACESSANTE E O EMPREENDIMENTO
+A) Informações gerais
+1 - Nome do empreendimento
+2 - Razão social
+3 - Caracterização (agente de distribuição, agente de geração, consumidor, etc)
+4 - Ramo de atividade
+5 - CNPJ
+6 - Inscrição estadual
+7 - Endereço
+8 - Município
+9 - UF
+10 - CEP
+11 - Telefone
+12 - E-mail
+B) Dados do representante perante o ONS
+1 - Empresa
+2 - Cargo
+3 - Setor
+4 - Nome
+5 - Endereço
+6 - Município
+7 - UF
+8 - CEP
+9 - Telefone
+10 - E-mail
+C) Localização do empreendimento
+1 - Município
+2 - UF
+3 - Latitude (graus, minutos e segundos)
+4 - Longitude (graus, minutos e segundos)
+Endereço na internet: http://www.ons.org.br 29 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+ANEXO F - DADOS DE TRANSFORMADORES
+1 - Preencher a tabela para cada grupo de transformadores com os mesmos parâmetros.
+Potência Impedâncias de
+nominal Números de sequência Em caso de 3
+Tensão trifásica para Sobrecargas enrolamentos positiva e zero enrolamentos
+Identificação
+nominal dos os estágios de admissíveis e tipo de em pu especificar X ,
+do ps
+enrolamento ventilação ligação (especificar base X , X
+transformador st pt
+s (kV) (MVA) (% e duração) em MVA)
+2 - Fornecer as curvas de saturação.
+3 - Relação das tensões disponíveis, considerando:
+a) Derivações de tapes sob carga (indicar o enrolamento)
+b) Derivações de tapes em vazio (indicar o enrolamento)
+Endereço na internet: http://www.ons.org.br 30 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+ANEXO G - DADOS DE MOTORES DE INDUÇÃO
+A) Dados do motor de indução - Preencher a tabela abaixo:
+Motor 1 Motor 2 Motor 3 Motor 4 Motor 5
+1 - Designação (nome)
+2 – Tipo (marcar Gaiola de Esquilo – GE ou
+Rotor Bobinado – RB (*)
+3 - Potência nominal (KVA)
+4 - Corrente nominal (A)
+5 - Tensão nominal (kV)
+6 - N° de pólos
+7 - Velocidade nominal (rpm)
+8 - Fator de potência (%)
+9 - Rendimento nominal (%)
+10 – Escorregamento do motor
+11 - Dados de impedância
+Estator
+Rs (ohm)
+Xs (ohm)
+Rotor
+Rr (ohm)
+Xr (ohm)
+Magnetização
+Xm (ohm)
+12 - Corrente de partida (A)
+13 - Fator de potência na partida (%)
+14 - Partida em vazio
+Endereço na internet: http://www.ons.org.br 31 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+sob carga
+15 - Frequência de partidas
+16 - Descrição da aplicação
+17 - Esquema de partida
+Direta
+Motor auxiliar
+Reator série Tapes (%)
+Resistor série Tapes (%)
+Autotransformador Tapes (%)
+Outros (Especificar)
+18 - Momento de Inércia motor-carga (kg.m2
+)
+19 - Controle de velocidade (informar qual controle o motor possui)
+- Inversores - Preencher Anexo 11
+- Cicloconversores – Preencher Anexo 12
+- Outros (Chopper, cascata subsíncrona etc) - Enviar diagramas e características.
+(*) Caso seja duplamente alimentado, fornecer os dados do conversor Anexo 12
+Endereço na internet: http://www.ons.org.br 32 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+ANEXO H - DADOS DE UNIDADES GERADORAS TERMELÉTRICAS
+A) Dados Gerais
+1 - Preencher a tabela abaixo para unidades com mesmo parâmetro:
+Unidades
+1 – Identificação da unidade
+2 – Fabricante da turbina
+3 – Tipo da turbina (gás, vapor, outros)
+4 – Fabricante do gerador(es)
+5 – Potência nominal de placa (MVA)
+6 – Potência máxima de regime contínuo
+(MW)
+7 – Corrente nominal (A)
+8 – Tensão nominal (kV)
+9 – Frequência nominal (Hz)
+10 – Velocidade nominal (rpm)
+11 – Número de fases
+12 – Tipos de ligação
+13 – Número de pólos
+14 – Fator de potência nominal
+(sobreexcitado e subexcitado)
+B) Dados complementares
+1 - Curvas para tomada de carga (cold, warm e hot start)
+2 - Curvas para parada da(s) unidade(s)
+3 - Condições ambientais para as quais as curvas estão referidas
+Endereço na internet: http://www.ons.org.br 33 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+C) Curvas de capabilidade e de saturação
+1 - Curvas de capabilidade para as tensões de operação mínima, máxima e nominal.
+(fornecer as referidas curvas para as condições ambientais locais – altitude e temperatura média anual)
+2 - Curvas de saturação em pu na base da máquina
+D) Faixas operativas:
+1 - Faixa operativa contínua de tensão nos terminais da máquina em regime permanente
+2 - Faixa operativa temporizada de tensão
+3 - Ajustes propostos da proteção de sobretensão e de subtensão
+4 - Faixa operativa contínua de frequência
+5 - Ajustes propostos da proteção de sobrefrequência e de subfrequência
+6 - Faixas de operação proibidas por conjunto turbina-gerador
+7 - Limite máximo da turbina acoplada ao gerador (MW)
+E) Gerador - Sistema de excitação - Preencher a tabela abaixo
+Sinal adicional (PSS) de potência acelerante: Sim/Não
+Tensão de teto positivo Valor (pu)
+Tempo de resposta Valor (s)
+Tensão de teto negativo Valor (pu)
+Tipo de excitação (brushless/PMG, estática etc)
+E.1) Diagrama de blocos do regulador de tensão
+- Malha principal
+- Sinal adicional
+- Limitador de sobre-excitação
+- Limitador de subexcitação
+- Demais limitadores, se aplicável
+Endereço na internet: http://www.ons.org.br 34 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+E.2) Documentação
+- Ajustes propostos de regulador de tensão/sinal adicional/limitadores
+- Faixas de parâmetros para os ajustes
+- Resultados de simulações e/ou ajustes
+F) Turbina - Sistemas de regulação de velocidade
+F.1) Diagrama de blocos do regulador de velocidade
+F.2) Documentação
+- Ajustes propostos de regulador de velocidade
+- Faixas de parâmetros para os ajustes
+- Resultados de simulações e/ou ajustes
+G) Geradores síncronos - Informações a serem fornecidas para cada grupo de geradores com parâmetros
+idênticos – Preencher a tabela
+Reatâncias em % na base em MVA da máquina Saturada Não-saturada
+X – Reatância síncrona de eixo direto
+d
+X – Reatância síncrona de eixo em quadratura
+q
+X´ – Reatância transitória de eixo direto
+d
+X´ – Reatância transitória de eixo em quadratura
+q
+X´´ – Reatância sub-transitória de eixo direto
+d
+X´´ – Reatância sub-transitória de eixo em quadratura
+q
+X – Reatância de dispersão
+l
+Endereço na internet: http://www.ons.org.br 35 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+T´ – Constantes de tempo transitória de eixo direto,
+d0
+em circuito aberto
+T´ – Constantes de tempo transitória de eixo em
+q0
+quadratura, em circuito aberto
+T´´ – Constantes de tempo sub-transitória de eixo
+d0
+direto, em circuito aberto
+T´´ – Constantes de tempo sub-transitória de eixo
+q0
+em quadratura, em circuito aberto
+D – Constante de amortecimento em pu/pu
+Momento de inércia do conjunto turbina-gerador em
+MW.s/MVA
+H) Turbinas a Gás – Preencher a tabela
+Fabricante
+Modelo
+Tipo  Aeroderivativa  Heavy Duty
+Se o tipo selecionado foi aeroderivativa, informar:
+No de spools
+Presença de turbina livre  Sim  Não
+Informar tipo de combustível
+Potência nominal (MW)
+Máxima sobrecarga admissível Duração (min)
+Fator limitante
+Se a turbina operar em ciclo aberto, informar:
+Potência mínima despachável (MW) ----------------- Fator limitante :
+Potência máxima despachável (MW) ---------------- Fator limitante :
+No de estágios compressores
+No de estágios de pressão
+Nº de eixos (caso seja de eixos múltiplos, anexar diagrama de sua configuração )
+Endereço na internet: http://www.ons.org.br 36 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+Forma de conexão entre os estágios compressores e os estágios da turbina
+Tipo de regulador de velocidade:  mecânico-hidráulico
+ eletro-hidráulico
+ eletro-hidráulico digital
+Fornecer dados e modelo matemático do regulador de velocidade
+Há controle de aceleração?  Sim  Não
+Descrever as características do controle de aceleração
+Fornecer dados e modelo matemático do controle de aceleração
+Há controle de temperatura?  Sim  Não
+Descrever as características do controle de temperatura
+Fornecer dados e modelo matemático do controle de temperatura
+Descrever as características do controle de IGV – Inlet Guide Vane
+Fornecer dados e modelo matemático do controle de IGV
+Outros elementos:  regenerador
+ intercooler
+ câmara de combustão adicional
+ outros:
+Fornecer dados e modelo matemático para os elementos selecionados
+Constante de tempo de inércia (H) associada à
+turbina à gás
+Constantes de tempo de inércia individuais das
+massas girantes da turbina a gás (estágios de
+compressão e de pressão da turbina)
+Coeficientes de acoplamento entre as massas
+girantes da turbina a gás
+Coeficientes de amortecimento das massas girantes
+da turbina a gás
+Endereço na internet: http://www.ons.org.br 37 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+Se a turbina operar em ciclo aberto, informar:
+Frequência mínima admissível (Hz)
+Frequência máxima admissível (Hz)
+Frequência(s) de trip / temporização (Hz e s)
+Limite de sobrevelocidade (rpm )
+I) Turbinas a vapor – Preencher a tabela
+Potência nominal (MW)
+Máxima sobrecarga admissível Duração (min)
+Fator limitante
+No de estágios de pressão da turbina a vapor
+Fornecer diagramas esquemáticos e modelos matemáticos associados, valores das constantes de tempo e dos
+fatores de participação.
+Informar as limitações dos diversos estágios de pressão das turbinas a vapor
+Taxa de aquecimento da turbina em geral oC/hora
+Diferença de temperatura externa e interna da carcaça oC
+MW/min (turbina fria)
+Taxa de variação de potência recomendada
+MW/min (turbina quente)
+Redução de carga recomendada MW/min
+Rotação mínima rpm
+Rotação máxima rpm
+Excentricidade mm
+Deslocamento axial mm
+Níveis de alarme
+Expansão diferencial mm
+Temperatura dos mancais oC
+Amplitude de vibração
+mm
+vertical/horizontal
+Endereço na internet: http://www.ons.org.br 38 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+Outras limitações
+Bypass de vapor?  sim  não
+Descrever as características do by-pass de vapor
+Fornecer as características operacionais dos controles de pressão de vapor e de abertura da válvula de
+admissão de vapor (Fornecer diagramas e modelos matemáticos)
+Informar restrições (limitações) operacionais dos controles de pressão e de abertura da válvula de admissão
+de vapor (pressão, temperatura, rampa de potência)
+A turbina a vapor dispõe de regulador de velocidade?  sim  não
+Informar as características da regulação de velocidade e sua interação com o controle de velocidade das
+turbinas a gás (quando em ciclo combinado) - Fornecer diagramas, modelos matemáticos e parâmetros do
+regulador de velocidade.
+Existe fast valving (intercept value) na turbina a vapor?  sim  não
+Em caso afirmativo, fornecer as características básicas do fast valving, diagramas, modelos matemáticos e
+parâmetros
+Constante de tempo de inércia associada à turbina a
+vapor (total do eixo, exceto gerador e sistema de
+excitação)
+Constantes de tempo de inércia individuais dos estágios de pressão da turbina a vapor:
+Alta pressão
+Pressão intermediária
+Baixa pressão
+Coeficientes de acoplamento entre as massas
+girantes da turbina a vapor:
+Coeficientes de amortecimento das massas girantes
+da turbina a vapor
+J) Quando de operação em ciclo combinado– Preencher a tabela
+Tipo
+ Ciclo combinado em série
+ Ciclo combinado em paralelo
+Endereço na internet: http://www.ons.org.br 39 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+ Ciclo combinado série-paralelo
+Nº de Eixos (caso seja de eixos múltiplos, anexar diagrama de sua configuração)
+ Single-Shaft_(1 turbina a gás e 1 turbina térmica a vapor acopladas ao mesmo eixo)
+ Single-Shaft com Clutch
+ ___turbina(s) a gás e ___ turbina(s) térmica(s) a vapor
+ ___turbina(s) a gás e uma turbina térmica a vapor com ___ estágio(s) de pressão
+A turbina a vapor é  tandem-compound  cross-compound
+Cogeração (vapor) ?  sim  não
+No de caldeiras de recuperação (caso haja) que compõem o
+ciclo combinado
+Se a operação da turbina for em ciclo combinado, informar para a turbina a gás:
+Potência mínima despachável (MW) Fator limitante :
+Potência máxima despachável (MW) Fator limitante :
+Variações de frequência admissíveis na operação em ciclo combinado:
+Frequência mínima (Hz)
+Frequência máxima (Hz)
+Frequência(s) de trip / temporização (Hz e s)
+Limite de sobrevelocidade (rpm)
+Caso existam duas ou mais turbinas a gás nesse ciclo, é possível a operação do ciclo combinado mesmo com a
+saída, súbita ou programada, de uma turbina a gás?  Sim  Não
+As turbinas a gás podem operar com a saída súbita de uma turbina a vapor?  sim  não
+Existe uma caldeira de recuperação para cada turbina a gás?  sim  não
+K) Caldeiras
+No de estágios de pressão das caldeiras de recuperação (Fornecer diagrama esquemático):
+de
+Existe bypass de gás nas caldeiras de recuperação? :  sim  não recuperação
+– HRSG -
+Em caso afirmativo, informar:
+Preencher a
+Tempo de fechamento para a caldeira tabela
+Tempo de abertura para a caldeira
+Modulação  sim  não
+Informar os tempos referentes à produção de vapor nas HRSG e enviar os modelos matemáticos incluindo
+Endereço na internet: http://www.ons.org.br 40 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+ganhos e constantes de tempo
+Nome Submódulo Tipo Revisão Vigência
+InformAacre ossso d iàssp oinsisttivaolas çdõee cso ndter otlrea enxsimsteisnstãeos nas caldeiras 7d.e1 recuperaçPãoro ec eednivmiaer nditaaglramas, m20o2de0l.o1s2 01/01/2021
+matemáticos e parâmetros.
+Há queima suplementar?  sim  não
+Em caso afirmativo, informar as características da queima e enviar diagramas, modelos matemáticos
+incluindo ganhos e constantes de tempo
+Informar como são as conexões existentes entre as turbinas a gás, as turbinas a vapor e a caldeira de
+recuperação e enviar diagramas esquemáticos.
+Informar os limites operativos das caldeiras de recuperação (pressão e temperatura) para o vapor principal e
+o reaquecido quente
+Informar outras restrições operacionais referentes às caldeiras de recuperação
+Endereço na internet: http://www.ons.org.br 41 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+ANEXO I -DADOS DE UNIDADES GERADORAS HIDRELÉTRICAS
+A) Dados gerais
+1 - Preencher a tabela abaixo para unidades com mesmo parâmetro:
+Unidades
+1 - Identificação da unidade
+2 - Fabricante(s) da(s) turbina(s)
+3 - Fabricante(s) do(s) gerador(es)
+4 - Potência nominal de placa (MVA)
+5 - Potência máxima de regime contínuo
+(MW)
+6 - Corrente nominal (A)
+7 - Tensão nominal (kV)
+8 - Frequência nominal (Hz)
+9 - Velocidade nominal (rpm)
+10 - Número de fases
+11 - Tipo de ligação
+12 - Número de pólos
+13 - Fator de potência nominal (sobre-
+excitado e subexcitado)
+B) Dados complementares
+1 - Rendimento do conjunto turbina-gerador (%):
+2 - Tipo de turbina:
+3 - Rampeamento (curvas de carga) em MW/s nas diversas situações operativas.
+Endereço na internet: http://www.ons.org.br 42 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+C) Curvas de capabilidade e de saturação
+1 - Curvas de capabilidade para as tensões de operação mínima, máxima e nominal.
+2 - Curvas de saturação em pu na base da máquina.
+D) Faixas operativas
+1 - Faixa operativa contínua de tensão nos terminais da máquina em regime permanente
+2 - Faixa operativa temporizada de tensão
+3 - Ajustes propostos da proteção de sobretensão e de subtensão
+4 - Faixa operativa contínua de frequência
+5 - Faixa operativa temporizada de frequência
+6 - Ajustes propostos da proteção de sobrefrequência
+7 - Faixas de operação proibidas por conjunto turbina-gerador
+8 - Limite máximo da turbina acoplada ao gerador (MW)
+E) Gerador - Sistema de excitação – Preencher a tabela abaixo
+Sinal adicional (PSS) de potência acelerante: Sim/Não
+Tensão de teto positivo Valor (pu)
+Tempo de resposta Valor (s)
+Tensão de teto negativo Valor (pu)
+E.1) Diagrama de blocos do regulador de tensão
+- Malha principal
+- Sinal adicional
+- Limitador de sobre excitação
+- Limitador de subexcitação
+- Demais limitadores, se aplicável
+E.2) Documentação
+Endereço na internet: http://www.ons.org.br 43 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+- Ajustes propostos de regulador de tensão/sinal adicional/limitadores
+- Faixas de parâmetros para os ajustes
+- Resultados de simulações e/ou ajustes
+F) Turbina - Sistemas de regulação de velocidade
+F.1) Diagrama de blocos do regulador de velocidade
+- Malha principal, servoposicionador e turbina
+F.2) Documentação
+- Ajustes propostos de regulador de velocidade
+- Faixas de parâmetros para os ajustes
+- Resultados de simulações e/ou ajustes
+G) Geradores síncronos – Informações a serem fornecidas para cada grupo de geradores com parâmetros
+idênticos – Preencher a tabela
+Reatâncias em % na base em MVA da máquina Saturada Não-saturada
+X – Reatância síncrona de eixo direto
+d
+X – Reatância síncrona de eixo em quadratura
+q
+X´ – Reatância transitória de eixo direto
+d
+X´´ – Reatância sub transitória de eixo direto
+d
+X – Reatância de dispersão
+l
+T´ – Constantes de tempo transitória de eixo direto,
+d0
+em circuito aberto
+Endereço na internet: http://www.ons.org.br 44 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+T´´ – Constantes de tempo sub transitória de eixo
+d0
+direto, em circuito aberto
+T´´ – Constantes de tempo sub transitória de eixo
+q0
+em quadratura, em circuito aberto
+D – Constante de amortecimento em pu/pu
+Momento de inércia do conjunto turbina-gerador em
+MW.s/MVA
+Endereço na internet: http://www.ons.org.br 45 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+ANEXO J - DADOS DO PONTO DE CONEXÃO
+A) Ponto de conexão
+A.1) Tipo – Em subestação existente
+1 - Nome da subestação
+2 - Nível de tensão (kV)
+3 - Arranjo de barramentos
+4 - Localização da subestação integrante das instalações de uso exclusivo do acessante:
+a) Município:
+b) UF:
+c) Latitude (graus, minutos e segundos):
+d) Longitude (graus, minutos e segundos):
+5 - Observações adicionais
+A.2) Tipo – Seccionando linha de transmissão ou, conforme o caso, em derivação (Tape)
+1 - Nome da subestação de origem
+2 - Distância da subestação de origem (km)
+3 - Nome da subestação de destino
+4 - Distância da subestação de destino (km)
+5 - Nível de tensão (kV)
+6 - Localização da subestação seccionadora, ou da derivação (Tape):
+a) Município:
+b) UF:
+c) Latitude (graus, minutos e segundos):
+d) Longitude (graus, minutos e segundos):
+7 - Localização da subestação integrante das instalações de uso exclusivo do acessante:
+a) Município:
+b) UF:
+c) Latitude (graus, minutos e segundos):
+d) Longitude (graus, minutos e segundos):
+8 - Observações adicionais
+Endereço na internet: http://www.ons.org.br 46 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+ANEXO K - DADOS DE ELOS DE CORRENTE CONTÍNUA
+A) Características básicas de elos de corrente contínua
+1 - Potência nominal (MW)
+2 - Tipo do elo CCAT
+3 - Diagramas elétricos dos sistemas CA (retificador e inversor) e do sistema CC
+B) Linhas de corrente contínua
+1 - Tensão nominal (kV)
+2 - Comprimento (km):
+Resistências CC (ohm) Na temperatura oC
+3 - Corrente nominal (A)
+4 - Sobrecarga máxima (A)
+C) Conversores:
+1 - Número de pulsos
+2 - Número de unidades conversoras
+3 - Dados do transformador (ou banco) do conversor
+a) Tipos de conexão no primário e secundário do transformador (ou banco)
+b) Número de enrolamentos por unidade
+c) Tensões nominais dos enrolamentos (kV)
+d) Capacidades nominais dos enrolamentos (MVA)
+e) Derivações (número e passos, indicando o enrolamento)
+f) Reatância de comutação (% - indicar base em MVA)
+g) Diagrama de conexões
+Endereço na internet: http://www.ons.org.br 47 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+h) Reatância dos transformadores (indicar base em MVA)
+D) Linhas de eletrodo:
+1 - Comprimento (km)
+2 - Resistências CC (ohm)
+E) Eletrodo:
+1 - Coordenadas geográficas:
+Latitude:Longitude:
+2 - Resistência remota em relação a terra (ohm)
+F) Filtros CC:
+1 - Tipo:
+2 - Diagrama esquemático e parâmetros:
+G) Compensação reativa:
+1 - Filtros CA (Mvar): arranjo físico, diagramas elétricos, características dos elementos C (F), L (mH) e R (ohm)
+e localização.
+2 - Banco de capacitores (Mvar)
+3 - Compensadores síncronos (Mvar – sobrexcitado / subexcitado)
+4 - Outros
+Tipo:Máximo capacitivo (Mvar)Máximo Indutivo (Mvar):
+Endereço na internet: http://www.ons.org.br 48 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+H) Reatores de alisamento:
+1 - Indutância (mH)
+I) Sistemas de controle:
+1 - Sistemas de controle geral e suplementares (ex: controle suplementar para estabilidade eletromecânica
+e de tensão da rede elétrica etc.)
+J) Sistemas de comunicação:
+1 - Sistemas de comunicação entre retificador e inversor
+K) Sistemas de proteção:
+1 - Critérios de sobretensão - Critério de sobretensão em caso de bloqueio – critérios de interação com
+conversores próximos (transmitâncias críticas):
+L) Observações:
+Endereço na internet: http://www.ons.org.br 49 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+ANEXO L - DADOS DAS CENTRAIS GERADORAS EÓLICAS
+A) Central geradora eólica:
+Número de turbina/geradores (por tipo): Potência nominal instalada total (MW) (por tipo):
+A1. Dados históricos de vento
+Dados históricos dos principais parâmetros eólicos utilizados no estudo de viabilidade e autorização da central na
+ANEEL: velocidade média, direção, parâmetros k e c de Weibull, massa específica e altura das torres de medição.
+Dados históricos de vento dos últimos 3 anos, pelo menos, em intervalos de 10-10 minutos, no formato apresentado a
+seguir:
+Obs.:
+- Para referência da medida de direção do vento fornecida pelo Agente, informar se é norte magnético ou norte
+geográfico. Se for norte magnético, informar data de instalação do sensor e declinação magnética.
+A2. Dados de funcionamento
+Gráficos de potência prevista para ser injetada na rede em cada mês, indicando valores máximos, médios e mínimos
+para cada hora do dia.
+Controle integrado (controle de tensão, de fator de potência etc.)
+Potência máxima injetável na rede pela central eólica (MW).
+Taxas de tomada de carga (ramping) por intervalo de um minuto e 10 minutos.
+Taxa máxima de tomada de carga (MW/min).
+B) Turbinas eólicas:
+B1. Dados da turbina
+Endereço na internet: http://www.ons.org.br 50 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+Fabricante
+Modelo
+Diâmetro do rotor (m)
+Potência nominal (MW)
+Controle de potência
+Tipo (stall ou pitch)
+Velocidade de resposta (MW/s)
+Velocidade nominal (rpm)
+Sobrevelocidade máxima (rpm)
+Velocidade do vento para entrada em serviço (cut – in) (m/s)
+e potência gerada correspondente (MW)
+Velocidade do vento para atingir a potência nominal (m/s)
+Velocidade do vento para saída de serviço (cut – out) (m/s)
+e potência gerada correspondente (MW)
+Momento de inércia da massa girante (MD2/4 (kg.m2)
+Coeficiente de amortecimento (pu de conjugado/pu de velocidade)
+Curva CP x Lambda
+Curva de potência (potência x velocidade do vento)
+B2. Certificação da turbina (Cópia do certificado conforme Norma IEC 61400-21)
+Deverá ser fornecido pelo empreendedor documento original de certificação de que o conjunto turbina/gerador atende
+os requisitos de operação à frequência e tensão não nominais, bem como o desempenho frente à sobretensões e
+subtensões, constantes do Submódulo 2.10 - Requisitos técnicos mínimos para a conexão às instalações de transmissão.
+Este certificado deverá ser emitido por instituto de certificação reconhecido internacionalmente.
+C) Acoplamento turbina/ gerador – caixa de engrenagem e/ou eixo (quando for o caso):
+1º estágio
+Razão de multiplicação de cada estágio
+2º estágio
+Endereço na internet: http://www.ons.org.br 51 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+3º estágio
+Coeficiente de rigidez do eixo (G/T) (pu de conjugado / rad. elétrico)
+D) Geradores:
+D1. Dados do gerador
+Fabricante
+Tipo construtivo (assíncrono etc).
+Potência nominal (MW)
+Potência aparente (MVA)
+Tensão nominal (para estator e rotor) * e limites de variação da tensão terminal (V, %)
+Corrente nominal (para estator e rotor) * (A)
+Frequência nominal e faixa de frequência (Hz)
+Número de pólos , indicar se tem 2 números de pólos.
+Velocidade síncrona , para cada número de pólos. (rpm)
+Velocidade de rotação na potência nominal (faixa) (rpm)
+Momento de inércia (MD2/4) (kg.m2)
+Coeficiente de amortecimento (pu de conjugado / pu de velocidade)
+Corrente em vazio (A)
+Corrente de partida (A)
+Corrente máxima de ligação à rede (A)
+Potência reativa absorvida em vazio (kvar)
+Potência reativa absorvida na potência nominal (kvar)
+Curvas de potência reativa em função da potência ativa (diagrama PQ de quatro quadrantes)
+D2. Fator de Potência
+Carregamento em % da potência ativa nominal 25 50 75 100
+Fator de potência, sem compensação
+Endereço na internet: http://www.ons.org.br 52 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+Fator de potência, com compensação
+* para aerogeradores duplamente alimentados
+D3. Resistências e Reatâncias do Esquema Equivalente
+Rs – resistência do estator (pu)
+Rr - resistência do rotor (pu)
+Xs - reatância do estator (pu)
+Xr - reatância do rotor (pu)
+Xm – reatância de magnetização (pu)
+Esquema de partida
+Rotor do gerador
+- Tipo (quando o rotor for de gaiola, com enrolamento e anéis para controle da corrente -
+preencher tabela do Anexo 11 para o conversor de controle)
+E) Sistema de proteção:
+Ajustes
+E1. Tipos de proteção Faixas de ajustes
+(incluindo a
+temporização)
+Sobretensão
+Subtensão
+Sobrefrequência
+Subfrequência
+Sobretensão residual (3V0)
+Sobrecorrente (de fase e neutro)
+Outras (df/dt, deslocamento de fase etc.)
+F) Sistema de controle:
+Endereço na internet: http://www.ons.org.br 53 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+Sistema de controle, diagrama de blocos, parâmetros, faixa de ajustes e ajustes propostos
+G) Filtros:
+Arranjo físico, diagramas elétricos, características dos elementos C (F), L (mH) e R (ohm) e localização.
+Endereço na internet: http://www.ons.org.br 54 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+ANEXO M - DADOS DE MÁQUINAS SÍNCRONAS
+1 - Número de máquinas com os parâmetros na tabela abaixo:
+Unidades
+1 - Designação (nome ou código)
+2 - Potência nominal (MVA)
+3 - Corrente nominal (A)
+4 - Tensão nominal (kV)
+5 - Frequência nominal (Hz)
+6 - Velocidade nominal (rpm)
+7 - Número de fases
+8 - Tipos de ligação
+9 - Tipo de pólos (lisos – L ou Salientes – S)
+10 - Número de pólos
+11 - Fator de potência
+12 - Momento de inércia (H) (MW.s/MVA) –
+referente ao conjunto turbina-gerador ou
+motor-carga:
+13 - Constante de amortecimento (D) (pu/pu)
+14 - Corrente de partida (A)
+15 - Fator de potência na partida
+16 - Partida em vazio ou sob carga
+17 - Frequência de partidas
+18 - Esquema de partida
+Direta
+Motor auxiliar
+Reator série Tapes (%)
+Endereço na internet: http://www.ons.org.br 55 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+Resistor série Tapes (%)
+Autotransformador Tapes (%)
+Outros (especificar)
+19 - Controle de velocidade (informar qual controle possui)
+- Inversores (conversores) Preencher Anexo 11
+- Cicloconversores Preencher Anexo 12
+- Outros (Chopper, cascata subsíncrona etc) - Enviar diagramas e características
+Reatâncias em % na base em MVA da máquina Saturada Não-saturada
+X – Reatância síncrona de eixo direto
+d
+X – Reatância síncrona de eixo em quadratura
+q
+X´ – Reatância transitória de eixo direto
+d
+X´ – Reatância transitória de eixo em quadratura
+q
+X´´ – Reatância sub transitória de eixo direto
+d
+X´´ – Reatância sub transitória de eixo em quadratura
+q
+X – Reatância de dispersão
+l
+T´ – Constantes de tempo transitória de eixo direto,
+d0
+em circuito aberto
+T´ – Constantes de tempo transitória de eixo em
+q0
+quadratura, em circuito aberto.
+T´´ – Constantes de tempo sub transitória de eixo
+d0
+direto, em circuito aberto.
+T´´ – Constantes de tempo sub transitória de eixo em
+q0
+quadratura, em circuito aberto.
+Endereço na internet: http://www.ons.org.br 56 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+ANEXO N - DADOS DE FORNOS
+1 - Preencher tabela abaixo para fornos a arco:
+1 - Tipo do forno
+2 - Aplicação do forno
+A) Dados Físicos
+1 - Número de fornos iguais
+2 - Capacidade dos fornos (ton)
+B) Dados sobre o funcionamento dos fornos
+1 - Fornos operando simultaneamente
+2 - Tempo médio por corrida (min.)
+3 - Número de carregamentos durante a corrida
+4 - Tempos médios para as fases de ignição, de
+fusão, refino e carga/descarga (min.)
+C) Características elétricas
+1 - Potência nominal do forno (MVA)
+2 - Fator de potência sob potência nominal
+3 - Tensão nominal (V)
+4 - Corrente nominal (kA)
+5 - Potência de curto-circuito do forno (MVA)
+6 - Potência máxima (MVA)
+7 - Fator de potência sob potência máxima
+8 - Comprimento médio do arco elétrico (cm)
+9 - Tensão média de arco elétrico (V)
+10 - Potências ativas médias para as fases de
+ignição, fusão e refino (MW)
+Endereço na internet: http://www.ons.org.br 57 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+11 - Fatores de potência médios para as fases
+de ignição, fusão e refino.
+12 - Comprimentos médios de arco para as
+fases de ignição, fusão e refino.
+13 - Dados dos transformadores dos fornos
+a) potência nominal (MVA)
+b) impedância de curto-circuito (base
+100 MVA)
+c) ligações dos enrolamentos
+d) relação dos tapes disponíveis
+e) tape fixo
+f) mudança de tape sob carga
+g) mudança de tape em vazio
+14 - Resistência do circuito de alimentação do
+eletrodo, incluindo o eletrodo.
+15 - Reatância do circuito de alimentação do
+eletrodo, incluindo o eletrodo.
+Para fornos a arco em corrente contínua, além dos dados acima, fornecer os dados para o retificador do forno via
+preenchimento do Anexo 11.
+D) Sistema de controle de eletrodos
+1 - Tipo de controle: (automático ou manual)
+a) corrente constante ou impedância
+constante
+b) acionamento hidráulico ou
+acionamento elétrico
+E) Dados sobre equipamentos para controle da tensão e atenuação das perturbações
+1 - Compensadores estáticos
+a) tipo: (RCT, CCT, RCT/CCT, Núcleo saturável)
+b) potência mínima (Mvar)
+c) potência máxima (Mvar)
+d) Características V x I reativa – Anexar curva
+Endereço na internet: http://www.ons.org.br 58 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+e) diagrama elétrico – Anexar diagrama
+2 - Filtros - Diagramas elétricos com valores das impedâncias (R,X,C), tensões nominais e locais de ligação
+3 - Bancos de capacitores - Anexar diagrama elétrico com capacidade, tensão nominal e local de ligação.
+4 - Reator série – Informar a impedância e os tapes
+5 - Outros tipos de compensação de flicker (compensador série de indutância variável, compensador síncrono etc.) -
+Incluir descrição e diagramas. Para compensadores síncronos preencher os dados de máquinas síncronas do Anexo 9
+2 - Ciclo diário de operação dos fornos a arco: enviar diagrama de potência (MW) diária total e individual dos
+fornos (indicar fases: ignição, fusão, refino, carga e descarga).
+3 - Sistema de controle dos eletrodos: fornecer o diagrama de blocos indicando parâmetros das funções de
+transferência e tempo mínimo de resposta em segundos.
+4 - Forno de Indução:
+a) Fornecer as características e dados dos fornos.
+5 - Forno a arco ou fornos de indução:
+a) Fornecer o diagrama unifilar do sistema de alimentação do forno, com as impedâncias dos
+elementos do circuito elétrico.
+b) Fornecer as curvas características de operação do forno (potência ativa, potência reativa e fator de
+potência em função da corrente).
+6 - No caso de utilização de gradadores para fornos ou outras atividades industriais, enviar informação desses
+dispositivos, incluindo tipo de válvulas, diagramas de conexão das válvulas, transformadores etc e do sistema
+de filtragem.
+Endereço na internet: http://www.ons.org.br 59 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+ANEXO O - DADOS DE CONVERSORES (RETIFICADORES/INVERSORES) E DISPOSITIVOS
+AUTOMÁTICOS PARA CONTROLE DE VELOCIDADE DE MOTORES (“DRIVER”)
+1 - Preencher tabela abaixo:
+1 - No de unidades com os parâmetros a seguir
+2 - Identificação (nome ou designação)
+3 - Aplicação (identificação do processo
+produtivo ao qual estão associados os
+conversores de potência)
+4 - Tipo de conversor de potência (retificador
+exclusivo, retificador – inversor,
+cicloconversor, Outro tipo de conversor –
+especificar)
+A) Dados específicos - Lado Retificador (Retificador exclusivo ou Retificador-Inversor)
+1 - Tensão CA de entrada (kV)
+Nominal
+Mínima
+Máxima
+2 - Potência (MW)
+Nominal
+Mínima
+Máxima
+3 - Fator de potência – entrada (referido à potência do item 2)
+Nominal
+Mínimo
+Máximo
+4 - No fases - entrada
+5 - Frequência Nominal (Hz)
+6 - Tensão contínua CC (kV)
+Nominal
+Endereço na internet: http://www.ons.org.br 60 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+Mínima
+Máxima
+7 - Corrente contínua CC (A)
+Nominal
+Mínima
+Máxima
+8 - Indutância do reator CC de alisamento
+(mH), se houver
+9 - Capacitância do capacitor CC (mF), se
+houver
+10 - Número de pontes (Anexar diagrama de
+conexões e transformadores).
+11 - Número total de pulsos
+12 - Alfa total (Graus)
+Nominal
+Mínimo
+Máximo
+13 - Tipo de comutação (definir se natural ou
+forçada)
+14 - Tipo de tiristor ou transistor
+15 - Modulação de pulsos (PWM ou outros)
+16 - Frequência do trem de pulsos (Hz)
+17 - Máquina controlada (Se houver máquina
+rotativa controlada pelo retificador, definir o
+tipo e enviar diagramas de conexão e
+características básicas)
+B) Dados específicos - Lado Inversor (Inversor exclusivo ou Retificador-Inversor)
+1 - Tensão CA - saída (kV)
+Nominal
+Mínima
+Endereço na internet: http://www.ons.org.br 61 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+Máxima
+2 - Potência – saída (MW)
+Nominal
+Mínima
+Máxima
+3 - Fator de potência – saída (referido à potência do item 2)
+Nominal
+Mínima
+Máxima
+4 - No fases - saída
+5 - Frequência - saída
+Nominal
+Mínima (caso a frequência seja variável)
+Máxima (caso a frequência seja variável)
+6 - Tensão contínua CC (kV)
+Nominal
+Mínima
+Máxima
+7 - Corrente contínua CC (A)
+Nominal
+Mínima
+Máxima
+8 - Indutância do reator de alisamento (mH), se
+houver
+9 - Número de pontes (Anexar diagrama de
+conexões e transformadores)
+10 - Número de pulsos
+11 - Gama (Graus)
+Endereço na internet: http://www.ons.org.br 62 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+Nominal
+Mínimo
+Máximo
+12 - Tipo de comutação (definir se natural ou
+forçada)
+13 - Tipo de tiristor ou transistor
+14 - Modulação de pulsos (PWM ou outros)
+15 - Frequência do trem de pulsos
+16 - Máquina controlada (síncrona, assíncrona,
+se houver máquina controlada pelo inversor) e
+enviar diagramas e características
+2 – Fornecer os valores de correntes harmônicas e inter-harmônicas máximas em regime (h  50) e diagramas
+e valores do sistema de filtragem.
+3 – Fornecer diagrama do sistema de controle com os parâmetros das funções de transferência.
+4 – Fornecer diagramas de conexão do conversor (ponte, transformadores e o circuito de corrente
+contínua).
+Endereço na internet: http://www.ons.org.br 63 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+ANEXO P - DADOS DE CICLOCONVERSORES
+1 – Preencher tabela abaixo:
+1 - Item (designação)
+2 - Tipo (meia onda, onda completa, matriz
+(PWM) ou outro. No caso da opção ser outro
+favor descrevê-lo separadamente)
+3 - No de unidades iguais
+4 - Aplicação
+5 - Tensão Nominal (kV)
+6 - Corrente nominal (A)
+7 - Frequência (Hz)
+Frequência de entrada
+Frequência de saída
+Fixa
+Variável:
+Mínima
+Máxima
+8 - Potência - entrada (kW)
+Nominal
+Máxima
+9 - Fator de potência (referido à potência do item 8)
+Nominal
+Máxima
+10 -Pulsos
+11 - No de fases na entrada
+12 - No de fases na saída
+Endereço na internet: http://www.ons.org.br 64 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+13 - Modo de operação (bloqueado, não
+bloqueado, híbrido)
+14 - Indutância do reator (somente para modo
+de operação não bloqueado ou híbrido)
+15 - Máquina controlada (síncrona, assíncrona,
+se houver máquina controlada pelo
+cicloconversor)
+16 - Faixa de ângulo de disparo
+17 - Transformadores dos cicloconversores – Dados de placa (%)
+No de enrolamentos
+Potência nominal (kVA)
+Tensões nominais (kV)
+Impedâncias (% base própria)
+Tapes variáveis
+No de tapes
+% de variação
+Tapes fixos
+No de tapes
+% de variação
+2 – Anexar diagramas com os esquemas de ligação dos cicloconversores e dos transformadores de
+alimentação correspondentes.
+3 – Fornecer os valores de correntes harmônicas e inter-harmônicas máximas em regime (h  50) e
+diagramas e valores do sistema de filtragem.
+Endereço na internet: http://www.ons.org.br 65 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+ANEXO Q - DADOS DA CENTRAIS GERADORAS FOTOVOLTAICAS
+1 – Preencher tabelas abaixo:
+a) Central Geradora Fotovoltaica:
+Potência instalada total (MW): Área Total da Central Geradora (m2): Número de Arranjos (Unidades
+Geradoras1):
+Módulos da central geradora fotovoltaica2:
+Fabricante / Modelo: Tipo de Célula:
+□ (c-Si) mono □ Multijunção (especificar):______
+□ (c-Si) Poli □ Outra (especificar):___________
+□ (a-Si) □ Geração Híbrida (especificar):___
+□ CdTe
+□ CIGS e CIS
+Potência Máxima (W): Tensão de máxima potência - Corrente de máxima Tolerância de potência de
+V (V): potência - I (A): saída (%):
+mp mp
+Tensão de circuito Corrente de curto - circuito - I Coef. de temperatura Coef. de temperatura do
+sc
+aberto - V (V): (A): do V (V/°C) I (A/°C)
+oc oc sc
+Dispositivo condicionador de potência3:
+Potência CC máx. (kW): Tensão CC máx. (V): Corrente máx. de entrada Amplitude de tensão
+(A): MPPT (V):
+Potência nominal CA (kW): Potência máx. CA (kW): Corrente máx. de saída (A): Tensão nominal CA (V):
+Frequência da rede CA Ligação: □ monofásica; □ trifásica Rendimento (%):
+(Hz):
+Painel:
+Inclinação: □ fixo; □ rastreado (1 eixo); □ rastreado (2 eixos) Concentração solar: □ não; □ sim (especificar)
+Nota:
+(1) Unidade Geradora é definida por arranjo de módulos fotovoltaicos associados/conectados a um inversor de frequência, de
+modo que, o número de unidades geradoras da central geradora é igual ao número de inversores que nela operarão.
+(2) Preencher os campos referentes aos módulos da central geradora fotovoltaica para cada tipo de módulo a ser utilizado na
+central geradora.
+(3) Preencher os campos referentes aos dispositivos condicionadores de potência para cada tipo a ser utilizado na central
+geradora.
+Endereço na internet: http://www.ons.org.br 66 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+b) Potencial solar:
+Irradiação global Irradiação Total Irradiação direta normal
+(kWh/m2/ano): (kWh/m2/ano): (kWh/m2/ano):
+Temperatura ambiente média Temperatura ambiente Temperatura ambiente
+anual (°C): máxima (°C): mínima (°C):
+Altitude (m): Umidade relativa média Horas de brilho de sol – méd.
+anual (%): anual (hh:mm):
+UG/Arranjos Nº de Placas Área do Potência de Potência ativa nominal
+por Arranjo Arranjo (m2) pico (MW) CA do inversor
+associado (kW) Data de Entrada em
+Operação
+01
+02
+xx
+c) Unidades Geradoras
+2 – Fornecer certificação de medições solarimétricas e de estimativa da produção anual de energia elétrica
+associada ao empreendimento, emitida por certificador independente, com base em série de dados de pelo
+menos 1 (um) ano, referentes às leituras de irradiância global, difusa e direta do local do empreendimento.
+No caso de adoção de sistemas de concentração solar, serão necessários dados de pelo menos 2 (dois) anos
+de medição.
+Endereço na internet: http://www.ons.org.br 67 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+ANEXO R - FORMULÁRIOS E DADOS PARA SOLICITAÇÃO DE ACESSO
+Dados
+Identificação da Data(1)(2) de
+Potência máxima Data(1)(2) da 1a
+unidade Potência entrada em MUST a
+em regime sincronização ao
+nominal (MVA) operação contratar (MW)
+contínuo (MW) SIN
+comercial
+Unidade 1
+Unidade 2
+Unidade n
+Formulário 1 – Informações e dados de centrais geradoras termelétricas
+(a) Número total de unidades.
+(b) Preencher tabela abaixo:
+Nota:
+(1) As datas para contratação do Contrato de Uso do Sistema de Transmissão – CUST deverão compreender o período de testes do
+usuário e não podendo ser posteriores àquelas estabelecidas no ato de sua outorga, conforme estabelecido na Resolução
+Normativa ANEEL nº 666/2015. (2) No caso de acesso de central geradora em desacordo com a outorga vigente, em consonância
+com o disposto no Despacho ANEEL nº 4.309/2014, as datas para contratação do Contrato de Uso do Sistema de Transmissão –
+CUST deverão ser as declaradas pelo acessante na sua solicitação de acesso e constantes no correspondente parecer de acesso
+emitido pelo ONS.
+(c) Fonte de energia.
+(d) Ciclo de operação (simples ou combinado).
+(e) Dados utilizados no cálculo da potência máxima em regime contínuo:
+(1) temperatura (oC);
+(2) altitude (metros em relação ao nível médio do mar); e
+(3) umidade relativa do ar (%).
+(f) Regime de operação (permanente, temporário, sazonal).
+(g) Diagrama unifilar elétrico da subestação da central geradora, incluindo os vãos de entrada e saída da
+subestação elevadora e indicando os sistemas de proteção e de medição.
+(h) Descrição do sistema de partida da central geradora, com suas características básicas.
+Endereço na internet: http://www.ons.org.br 68 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+Formulário 2 – Informações e dados de centrais geradoras hidrelétricas
+Dados
+Identificação da Data(1) de
+Potência máxima Data(1) da 1a
+unidade Potência entrada em MUST a
+em regime sincronização ao
+nominal (MVA) operação contratar (MW)
+contínuo (MW) SIN
+comercial
+Unidade 1
+Unidade 2
+Unidade n
+(a) Número total de unidades.
+(b) Preencher tabela abaixo:
+Nota:
+(1) As datas são aquelas estabelecidas no ato de outorga vigente para a assinatura do Contrato de Uso do Sistema de Transmissão –
+CUST.
+(c) Regime de operação (particularidades).
+(d) Diagrama unifilar elétrico da subestação da central geradora, incluindo os vãos de entrada e saída
+da subestação elevadora e indicando os sistemas de proteção e de medição.
+(e) Descrição do sistema de partida da central geradora, apresentando suas características básicas.
+Formulário 3 – Dados das instalações de conexão
+(a) Diagrama unifilar simplificado das instalações de conexão, indicando o ponto de conexão nas
+instalações sob responsabilidade de transmissora, os vãos de linhas na subestação do acessante e na
+subestação sob responsabilidade de transmissora e o sistema de proteção e proposta de sistema de
+medição e faturamento.
+(b) Número de circuitos para conexão às instalações sob responsabilidade de transmissora.
+(c) Preencher tabela abaixo:
+Endereço na internet: http://www.ons.org.br 69 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+Identificação do circuito:
+Dados
+Comprimento do circuito (km)
+Tensão nominal do circuito (kV)
+Capacidade nominal do circuito (MVA)
+Impedância própria de sequência positiva (ohm/km)
+Impedância própria de sequência zero (ohm/km)
+Impedância mútua de sequência positiva (ohm/km)
+Impedância mútua de sequência zero (ohm/km)
+Susceptância_(S)
+Formulário 4 – Informações técnicas do consumidor
+(a) Data de entrada em operação.
+(b) Preencher a tabela abaixo com os valores de carga totais, ano a ano, até o horizonte do ciclo do PAR
+em vigor:
+Carga Total do Consumidor
+Ponta Fora de Ponta
+Mês/Ano
+Horário de ponta (1)
+(MW) (MW)
+Nota:
+(1) O horário de ponta a ser considerado é aquele estabelecido pela distribuidora da área de concessão ou permissão de
+distribuição onde se localiza a conexão da unidade consumidora, conforme Resolução Normativa nº 666/2015.
+Endereço na internet: http://www.ons.org.br 70 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+(c) Equipamentos:
+Capacidade Instalada Total
+Tipo Quantidade
+(MW)
+Motores de indução
+Motores síncronos
+Fornos
+Retificadores
+(d) Características da geração própria (atual e prevista):
+Atual Prevista
+Capacidade nominal instalada (MW)
+Fator de potência (cos )
+Tensão nominal (kV)
+(e) Regime de operação da geração própria. Dependendo da localização do acessante no sistema de
+transmissão e do porte da sua geração própria, o ONS poderá solicitar as informações relacionadas
+nos subitens 4.1 (c), (f) e (g) e/ou 4.2 (c), (e)(1), (g) e (h) do Anexo D.
+Formulário 5 – Dados gerais de fornos
+(a) Número de fornos existentes:
+(1) tipos;
+(2) potência total (kW).
+(b) Número de fornos previstos:
+(1) tipos;
+(2) potência total (kW);
+(3) data de entrada em operação.
+(c) Ciclo diário de operação dos fornos.
+(d) Fornos operando simultaneamente.
+Endereço na internet: http://www.ons.org.br 71 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+Formulário 6 – Dados gerais de retificadores de corrente, de conversores (retificadores/inversores) e
+dispositivos automáticos para controle de velocidade de motores (“driver”)
+(a) Identificação do equipamento.
+(b) Número de tipos diferentes.
+(c) Preencher tabela abaixo:
+Tensão Nominal
+Potência Corrente
+Tipo de Fator de (kV)
+Nome Aplicação No de pulsos Nominal Nominal CC
+conversor potência
+(kW) (A) CA CC
+Formulário 7 – Informações técnicas do agente de distribuição
+(d) Informar a(s) data(s) de entrada em operação nos casos de expansão de subestação existente ou de
+implantação de nova subestação.
+(e) Enviar diagrama unifilar simplificado das instalações de conexão, indicando o ponto de conexão nas
+instalações sob responsabilidade de transmissora, os vãos de linha(s) na subestação do acessante e
+na subestação sob responsabilidade de transmissora e os sistemas de proteção e de medição.
+Formulário 8 – Documentos Comprobatórios dos Atos de Autorização ou de Concessão
+Contratos de Concessão / Autorizações Número/Data/Resolução ANEEL
+Formulário 9 – MUST a Contratar e Fator de Potência para 4 (quatro) anos civis subsequentes
+Endereço na internet: http://www.ons.org.br 72 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+MUST (MW) Fator de Potência
+Ano
+Ponta(1) Fora de Ponta Ponta(1) Fora de Ponta
+1º ano(2)
+2º ano
+3º ano
+4º ano
+5º ano(3)
+Nota:
+(1) O horário de ponta a ser considerado é aquele estabelecido pela distribuidora, conforme Resolução Normativa nº 666/2015.
+(2) Ano da entrada em operação.
+(3) Opcional.
+Formulário 10 – MUST a Contratar, Fator de Potência e Fator de Carga para 4 (quatro) anos civis
+subsequentes
+MUST (MW) Fator de Potência
+Fator de Carga
+Ano Ponta (1) Fora de Ponta Ponta (1) Fora de Ponta
+1º ano (2)
+2º ano
+3º ano
+4º ano
+5º ano(3)
+Nota:
+(1) O horário de ponta a ser considerado é aquele estabelecido pela distribuidora em cuja área de concessão ou permissão de
+distribuição se localiza a conexão da unidade consumidora ou central geradora, conforme Resolução Normativa nº 666/2015.
+(2) Ano da entrada em operação.
+(3) Opcional.
+Endereço na internet: http://www.ons.org.br 73 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+Formulário 11 – MUST a Contratar por central geradora eólica
+Dados
+Identificação da Data(1)(2) de
+Potência máxima Data(1)(2) da 1a
+unidade Potência entrada em MUST a
+em regime sincronização ao
+nominal (MVA) operação contratar (MW)
+contínuo (MW) SIN
+comercial
+Unidade 1
+Unidade 2
+Unidade n
+(a) Número total de unidades.
+(b) Preencher tabela abaixo:
+Nota:
+(1) As datas para contratação do Contrato de Uso do Sistema de Transmissão – CUST deverão compreender o período de testes do
+usuário e não podendo ser posteriores àquelas estabelecidas no ato de sua outorga, conforme estabelecido na Resolução
+Normativa ANEEL nº 666/2015.
+(2) No caso de acesso de central geradora em desacordo com a outorga vigente, em consonância com o disposto no Despacho
+ANEEL nº 4.309/2014, as datas para contratação do Contrato de Uso do Sistema de Transmissão – CUST deverão ser as declaradas
+pelo acessante na sua solicitação de acesso e constantes no correspondente parecer de acesso emitido pelo ONS.
+Formulário 12 – Carga Própria da Central Geradora
+Carga Própria da Central Geradora
+Máxima Mínima
+Mês/Ano
+Ponta(1) Fora de Ponta Ponta(1) Fora de Ponta
+(MW) (MW) (MW) (MW)
+Nota:
+(1) O horário de ponta a ser considerado é aquele estabelecido pela distribuidora em cuja área de concessão ou permissão
+de distribuição se localiza a conexão da central geradora, conforme Resolução Normativa nº 666/2015.
+Endereço na internet: http://www.ons.org.br 74 / 75
+Procedimentos de Rede - Módulo 7 – Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Acesso às instalações de transmissão 7.1 Procedimental 2020.12 01/01/2021
+Formulário 13 – MUST a Contratar por agente de importação/exportação de energia
+MUST (MW) (1)
+Exportação de Energia
+Importação de
+Mês/Ano
+Energia
+Ponta (2) Fora de Ponta
+Nota:
+(1) Os Contratos de Uso do Sistema de Transmissão – CUST de importação/exportação contemplarão os MUST de importação
+e exportação, para o período da outorga, conforme Resolução Normativa nº 666/2015.
+(2) O horário de ponta a ser considerado é aquele estabelecido pela distribuidora em cuja área de concessão ou permissão de
+distribuição se localiza a conexão do agente de importação/exportação, conforme Resolução Normativa nº 666/2015.
+Formulário 14 – MUST a Contratar por central geradora fotovoltaica
+Dados
+Identificação da Data(1) de
+Potência máxima Data(1) da 1a
+unidade Potência entrada em MUST a
+em regime sincronização ao
+nominal (MVA) operação contratar (MW)
+contínuo (MW) SIN
+comercial
+Unidade 1
+Unidade 2
+Unidade n
+(a) Número total de unidades.
+(b) Preencher tabela abaixo:
+Nota:
+1) As datas para contratação do Contrato de Uso do Sistema de Transmissão – CUST deverão compreender o período de testes do
+usuário e não podendo ser posteriores àquelas estabelecidas no ato de sua outorga, conforme estabelecido na Resolução
+Normativa ANEEL nº 666/2015.
+(2) No caso de acesso de central geradora em desacordo com a outorga vigente, em consonância com o disposto no Despacho
+ANEEL nº 4.309/2014, as datas para contratação do Contrato de Uso do Sistema de Transmissão – CUST deverão ser as declaradas
+pelo acessante na sua solicitação de acesso e constantes no correspondente parecer de acesso emitido pelo ONS.
+Endereço na internet: http://www.ons.org.br 75 / 75

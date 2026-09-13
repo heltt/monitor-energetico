@@ -1,0 +1,18 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 13/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=13/02/2026&jornal=515&pagina=156
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 18/2026
+Fase de Concessão de Lavra
+Despacho publicado(508)
+803.625/1971-IVIL INDUSTRIA VALE DO ITAPEMIRIM LTDA-"RECONHEÇO a prescrição intercorrente da ação punitiva relativa ao Auto de Infração nº 361/2016/ANM-ES e DETERMINO o arquivamento da imposição de multa publicada no DOU em 23/03/2017."
+FABIO FERNANDO BORGES
+Diretor

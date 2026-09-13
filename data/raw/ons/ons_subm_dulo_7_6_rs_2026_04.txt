@@ -1,0 +1,132 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.6-RS_2026.04
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.6-RS_2026.04.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.6
+Implantação das proteções de caráter
+sistêmico
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2026.04 Despacho STD nº 1.238/2026 09/04/2026
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação das proteções de caráter sistêmico 7.6 Responsabilidades 2026.04 01/05/2026
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Parecer Técnico para a Parametrização e Ajustes das Proteções de Caráter Sistêmico...............3
+2.2. Banco de Dados de Proteções de Caráter Sistêmico.....................................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes de operação.....................................................................................................................3
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIAS...................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação das proteções de caráter sistêmico 7.6 Responsabilidades 2026.04 01/05/2026
+1. OBJETIVO
+1.1. Estabelecer os produtos, as responsabilidades, os prazos e as etapas do processo relativo à implantação
+e adequação das proteções de caráter sistêmico (subtensão, sobretensão, sobre frequência, subfrequência,
+bloqueio por oscilação de potência e proteção de perda de sincronismo) e ações de controle de caráter
+sistêmico (verificação de sincronismo, esquema de transferência de disparo direto para aplicações sistêmicas
+e religamento automático) das instalações que compõem a Rede de Operação do Sistema Interligado
+Nacional (SIN).
+2. PRODUTOS
+2.1. Parecer Técnico para a Parametrização e Ajustes das Proteções de Caráter Sistêmico
+2.1.1. Apresenta providências a serem cumpridas para a implantação e adequação de proteções de caráter
+sistêmico, a serem consideradas pelos agentes de operação na fase de implantação no campo.
+2.1.2. As providências podem ser apresentadas como um produto independente, como aqui descrito, ou
+incluídas nos produtos dos processos descritos no Submódulo 7.4 – Estudos pré-operacionais de integração
+de instalações da Rede de Operação.
+2.2. Banco de Dados de Proteções de Caráter Sistêmico
+2.2.1. Apresenta informações sobre as proteções de caráter sistêmico instaladas na rede de operação,
+utilizando como insumo os dados fornecidos pelos agentes de operação.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Definir e especificar, em conjunto com os agentes de operação, as proteções de caráter sistêmico a
+serem implementadas e a adequação das existentes.
+(b) Definir as diretrizes e coordenar as ações para a implantação de proteções de caráter sistêmico e para
+a adequação das existentes.
+(c) Determinar, em conjunto com os agentes de operação, os ajustes das proteções de caráter sistêmico.
+(d) Elaborar, em conjunto com os agentes de operação, o Parecer Técnico para a Parametrização e
+Ajustes das Proteções de Caráter Sistêmico.
+(e) Acompanhar a execução, pelos agentes de operação, das atividades para implantação das proteções
+de caráter sistêmico e para adequação das proteções existentes.
+(f) Implantar e manter atualizado o Banco de Dados de Proteções de Caráter Sistêmico.
+3.2. Agentes de operação
+(a) Participar, em conjunto com o ONS, dos estudos para determinar e especificar as proteções de caráter
+sistêmico a serem implementadas e para adequação das existentes.
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação das proteções de caráter sistêmico 7.6 Responsabilidades 2026.04 01/05/2026
+(b) Fornecer os dados de equipamentos e ajustes das funções de proteção existentes que forem
+necessárias para a elaboração dos estudos do ONS, quando solicitado.
+(c) Elaborar o projeto executivo e adquirir os equipamentos necessários à implantação das proteções de
+caráter sistêmico ou à adequação das existentes.
+(d) Participar, em conjunto com o ONS, da determinação dos ajustes das proteções de caráter sistêmico.
+(e) Executar o projeto, a instalação, e a parametrização das proteções de caráter sistêmico e da
+adequação das existentes.
+(f) Realizar, quando solicitado pelo ONS, testes das proteções de caráter sistêmico e apresentar o
+relatório dos testes atestando a sua correta implantação.
+(g) Informar ao ONS a conclusão das atividades de implantação das proteções de caráter sistêmico e
+adequação das proteções existentes, justificando os eventuais desvios.
+(h) Participar, em conjunto com o ONS, da elaboração do Parecer Técnico para a Parametrização e Ajustes
+das Proteções de Caráter Sistêmico.
+(i) Fornecer os dados para a manutenção do Banco de Dados de Proteções de Caráter Sistêmico.
+4. PRAZOS
+Quadro 1 - Prazos das atividades relacionadas à implantação dos sistemas de proteção de caráter sistêmico
+Atividade Responsável Prazo
+Fornecimento dos dados solicitados
+pelo ONS para a realização dos Agente de Até 14 dias contados a partir da data de
+1
+estudos para a parametrização das operação solicitação
+proteções de caráter sistêmico
+Envio ao ONS de comentários e
+sugestões relativos às minutas do
+Agente de Até 14 dias após o recebimento das
+2 Parecer Técnico para a
+operação minutas pelos agentes de operação
+Parametrização e Ajustes das
+Proteções de Caráter Sistêmico
+Consolidação e envio aos agentes de
+Até 14 dias após o recebimento dos
+operação do Parecer Técnico para a
+3 ONS comentários dos agentes de operação
+Parametrização e Ajustes das
+(atividade 2)
+Proteções de Caráter Sistêmico
+Disponibilizar o relatório de testes Antes do prazo estabelecido para a
+das funções de proteção de caráter Agente de implantação em campo (atividade 6) e
+4
+sistêmico, quando solicitado pelo operação considerando o prazo de avaliação pelo
+ONS ONS (atividade 5)
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação das proteções de caráter sistêmico 7.6 Responsabilidades 2026.04 01/05/2026
+Atividade Responsável Prazo
+Avaliar o relatório de testes das
+Até 21 dias contados a partir da data de
+5 funções de proteção de caráter ONS
+recebimento (atividade 4)
+sistêmico
+Implantação, adequação e Definido pelo ONS em conjunto com os
+Agente de
+6 parametrização das proteções de agentes de operação e consolidado no
+operação
+caráter sistêmico em campo documento contendo as providências
+Comunicação ao ONS dos dados das
+novas proteções, das adequações
+nas existentes e de parametrização e Agente de Na ocasião da comprovação do
+7
+ajustes das proteções de caráter operação atendimento às providências
+sistêmico, para a atualização do
+banco de dados
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 5 / 5

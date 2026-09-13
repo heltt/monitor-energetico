@@ -1,0 +1,214 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: DESPACHO SIM-ANP Nº 259, DE 18 DE FEVEREIRO DE 2026
+DATA_PUBLICACAO: 19/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/02/2026&jornal=515&pagina=56
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional do Petróleo, Gás Natural e Biocombustíveis/Superintendência de Infraestrutura e Movimentação
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+DESPACHO SIM-ANP Nº 259, DE 18 DE FEVEREIRO DE 2026
+O SUPERINTENDENTE DE INFRAESTRUTURA E MOVIMENTAÇÃO da AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS - ANP, no uso das atribuições que lhe foram conferidas pela Portaria ANP nº 265, de 10 de setembro de 2020, tendo em vista os documentos que constam dos processos ANP nº 48610.224874/2025-65 e 48610.220954/2025-41, e considerando o atendimento às exigências da Resolução ANP nº 52, de 02 de dezembro de 2015, torna público o seguinte ato: Art. 1º Fica a Empresa TCP - Terminal de Combustíveis de Paulínia S/A, cujo registro no Cadastro Nacional de Pessoa Jurídica (CNPJ) é o de nº 28.978.543/0001-05, autorizada a operar um Terminal Terrestre para movimentação e armazenamento de produtos inflamáveis e combustíveis Classe I a III (Norma ABNT NBR 17.505), no município de Paulínia, Estado de São Paulo, composto pelas seguintes instalações e instalações complementares:
+a) 12 (doze) tanques verticais:
+
+
+Bacia
+Número do Tanque
+Tipo de Tanque
+Tipo de Teto
+Material
+Diâmetro (m)
+Altura (m)
+Volume Nominal (m3)
+Classe de Produtos
+1
+TQ-01
+Vertical
+Teto fixo cônico / Selo flutuante
+Aço carbono
+41,935
+16,690
+20.486,810
+Classes I, II e III
+1
+TQ-02
+Vertical
+Teto fixo cônico / Selo flutuante
+Aço carbono
+41,968
+14,770
+20.783,022
+Classes I, II e III
+2
+TQ-03
+Vertical
+Teto fixo cônico / Selo flutuante
+Aço carbono
+41,949
+14,770
+20.703,667
+Classes I, II e III
+2
+TQ-04
+Vertical
+Teto fixo cônico / Selo flutuante
+Aço carbono
+41,948
+14,660
+20.541,323
+Classes I, II e III
+3
+TQ-05
+Vertical
+Teto fixo cônico / Selo flutuante
+Aço carbono
+20,976
+14,460
+5.052,860
+Classes I, II e III
+3
+TQ-06
+Vertical
+Teto fixo cônico / Selo flutuante
+Aço carbono
+20,960
+14,570
+5.105,412
+Classes I, II e III e combustível de aviação
+3
+TQ-07
+Vertical
+Teto fixo cônico / Selo flutuante
+Aço carbono
+20,961
+14,730
+5.155,954
+Classes I, II e III
+3
+TQ-08
+Vertical
+Teto fixo cônico / Selo flutuante
+Aço carbono
+20,954
+14,650
+5.127,180
+Classes I, II e III
+3
+TQ-09
+Vertical
+Teto fixo geodésico/ Selo flutuante
+Aço carbono
+41,953
+14,620
+20.318,025
+Classes I, II e III
+4
+TQ-10
+Vertical
+Teto fixo cônico / Selo flutuante
+Aço carbono
+61,007
+14,710
+43.527,670
+Classes I, II e III
+5
+TQ-11
+Vertical
+Teto fixo cônico / Selo flutuante
+Aço carbono
+61,018
+14,720
+43.841,384
+Classes I, II e III
+6
+TQ-18
+Vertical
+Teto fixo cônico / Selo flutuante
+Aço carbono
+15,256
+14,730
+2.710,449
+Classes I, II e III
+b) 7 (sete) Dutos de transferência
+
+
+Identificação ("Tag")
+Origem
+Destino
+Material
+Diâmetro (polegadas)
+Extensão (km)
+Produtos
+Pressão Máxima (kgf/cm2)
+Vazão Máxima (m³/h)
+14" - EA
+Ponto "A" na Replan
+Ponto "B" na entrada do Terminal
+Aço carbono - API 5L - Gr. B - SCH 20
+14
+1.819
+Etanol Anidro e Hidratado
+15
+692
+14" - EH
+Ponto "A" na Replan
+Ponto "B" na entrada do Terminal
+Aço carbono - API 5L - Gr. B - SCH 20
+14
+1.819
+Etanol Anidro e Hidratado
+15
+692
+10" - EA
+Ponto C TERCOM / Ponto D TCP
+Ponto D TCP / Ponto C TERCOM
+Aço carbono - API 5L - Gr. B - SCH 20
+10
+0,39348
+Etanol Anidro
+19
+250
+10" - EH
+Ponto C TERCOM / Ponto D TCP
+Ponto D TCP / Ponto C TERCOM
+Aço carbono - API 5L - Gr. B - SCH 20
+10
+0,39348
+Etanol Hidratado
+19
+250
+OD-14"
+REPLAN - Ponto "A"
+TCP - Ponto "B"
+Aço carbono - API 5L - Gr. B - SCH 20
+14
+1,895
+Derivados claros
+19
+692
+JET-10"
+REPLAN - Ponto "A"
+TCP - Ponto "B"
+Aço carbono - API 5L - Gr. B - SCH 20
+10
+1,908
+Combustível de aviação
+19
+250
+GA-12"
+REPLAN - Ponto "A"
+TCP - Ponto "B"
+Aço carbono - API 5L - Gr. B - SCH 20
+12
+1,895
+Derivados claros
+15
+550
+c) 2 (duas) plataformas rodoviárias para carregamento e descarregamento de caminhões tanque, sendo 1(uma) plataforma composta por 5(cinco) ilhas e 10(dez) baias, destinadas a operações de carregamento e descarregamento de caminhões tanque, dispondo, cada ilha, de 4 (quatro) braços de carregamento e 1 (uma) plataforma rodoviária composta por 01 (uma) ilha dupla e 02 (duas) baias, destinadas a operações de carregamento e descarregamento de caminhões tanque, dispondo de 6 (seis) braços de carregamento.
+d) 07 (sete) Plataformas Ferroviárias, com 07 (sete) ilhas duplas para operações de carregamento e descarregamento de vagões tanque e 07 (sete) Plataformas Ferroviárias com 07 (sete) ilhas duplas, para operações de descarregamento de vagões tanque.
+Art. 2º Esta Autorização será cancelada no caso de não serem mantidas as condições técnicas previstas e comprovadas para a presente outorga.
+Art. 3º Fica revogada a Autorização SIM-ANP Nº 261, de 13 de maio de 2025, publicada no Diário Oficial da União o dia 14 de maio de 2025.
+Art. 4º Esta Autorização entra em vigor na data de sua publicação.
+THIAGO NEVES DE CAMPOS

@@ -1,0 +1,21 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 26/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=26/02/2026&jornal=515&pagina=64
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 23/2026
+Fase de Disponibilidade
+Despacho publicado(316)
+896.920/2006-FIRME ROCHA MATERIAL DE CONSTRUÇÃO LTDA-"MANTÉM a decisão da Gerência Regional do ES publicada em 28/11/2018, que declarou prioritária a proposta de CALYPIO ROCHA FIRME"
+Fase de Requerimento de Pesquisa
+Despacho publicado(156)
+833.257/2015-ZEUS MINERACAO LTDA-"MANTÉM a Decisão proferida pelo Diretor-Geral do DNPM, publicada no DOU de 14/06/2018, que indeferiu o pedido de reconsideração interposto por Zeus Mineracão Ltda."
+MAURO HENRIQUE MOREIRA SOUSA
+Diretor-Geral

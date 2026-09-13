@@ -1,0 +1,33 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 26/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=26/02/2026&jornal=515&pagina=65
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado de Pernambuco
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 42/2026
+Fase de Autorização de Pesquisa
+Determina cumprimento de exigência - Prazo 60 dias(250)
+840.132/2022-MAP MINERAÇÃO LTDA-OF. N°9464/2026/GER-PE/ANM
+840.312/2021-ARIANDNE RAMOS GOMES-OF. N°9448/2026/GER-PE/ANM
+840.110/2021-MIBRA MINERIOS LTDA-OF. N°9445/2026/GER-PE/ANM
+840.080/2021-CPM CAVALCANTI PETRIBU MINÉRIOS LTDA-OF. N°9467/2026/GER-PE/ANM
+840.074/2021-CPM CAVALCANTI PETRIBU MINÉRIOS LTDA-OF. N°9468/2026/GER-PE/ANM
+840.264/2018-SPK MINERACAO LTDA-OF. N°9472/2026/GER-PE/ANM
+Fase de Concessão de Lavra
+Determina cumprimento de exigência - Prazo 60 dias(470)
+840.266/2018-MINERACAO ALMEIDA LTDA-OF. N°10288/2026/GER-PE/ANM
+840.111/2016-UNIMIN DO BRASIL LTDA-OF. N°9451/2026/GER-PE/ANM
+Fase de Licenciamento
+Determina cumprimento de exigência - Prazo 30 dias(718)
+840.257/2023-ABÍLIO RODRIGUES LARANJEIRA NETO-OF. N°6895/2026/GER-PE/ANM
+Fase de Requerimento de Lavra
+Determina cumprimento de exigência - Prazo 60 dias(361)
+840.242/2011-USINA PETRIBU SA-OF. N°10034/2026/GER-PE/ANM
+WERTHER LARRAZABAL DA SILVA JÚNIOR
+Gerente

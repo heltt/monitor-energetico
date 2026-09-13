@@ -1,0 +1,15 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: DESPACHO Nº 567, DE 18 DE FEVEREIRO DE 2026
+DATA_PUBLICACAO: 19/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/02/2026&jornal=515&pagina=51
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Energia Elétrica/Superintendência de Fiscalização Técnica dos Serviços de Energia Elétrica/Gerência de Fiscalização da Geração
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+DESPACHO Nº 567, DE 18 DE FEVEREIRO DE 2026
+O GERENTE DE FISCALIZAÇÃO DA GERAÇÃO DA SUPERINTENDÊNCIA DE FISCALIZAÇÃO TÉCNICA DOS SERVIÇOS DE ENERGIA ELÉTRICA DA AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA - ANEEL, nos termos do art. 3º da Portaria nº 6.836, de 21 de junho de 2023, e considerando o que consta do Processo nº 48500.003845/2026-90, decide:
+liberar as unidades geradoras UG02, de 3.000,00 kW, e UG03, de 840,00 kW, totalizando 3.840,00 kW de capacidade instalada, da UTE Terranova I, Código Único de Empreendimentos de Geração - CEG UTE.FL.SC.028961-2.01, localizada no município de Rio Negrinho no estado de Santa Catarina, de titularidade da Solida Brasil Madeiras LTDA., para início da operação comercial a partir de 19 de fevereiro de 2026, para fins de contabilização de sua energia, nos termos do §2º do art. 3º da Resolução Normativa nº 1.029, de 25 de julho de 2022.
+RAFAEL ERVILHA CAETANO

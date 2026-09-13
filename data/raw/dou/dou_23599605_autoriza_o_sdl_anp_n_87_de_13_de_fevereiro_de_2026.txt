@@ -1,0 +1,34 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Autorização
+TITULO: AUTORIZAÇÃO SDL-ANP Nº 87, DE 13 DE FEVEREIRO DE 2026
+DATA_PUBLICACAO: 18/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=18/02/2026&jornal=515&pagina=198
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional do Petróleo, Gás Natural e Biocombustíveis/Superintendência de Distribuição e Logística
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+AUTORIZAÇÃO SDL-ANP Nº 87, DE 13 DE FEVEREIRO DE 2026
+O SUPERINTENDENTE DE DISTRIBUIÇÃO E LOGÍSTICA da AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS - ANP, no uso das atribuições que lhe foram conferidas pela Portaria ANP nº 265, de 10 de setembro de 2020, tendo em vista o disposto na Lei nº 9.478, de 6 de agosto de 1997, considerando as disposições da Resolução ANP nº 960, de 5 de outubro de 2023, e o que consta do processo nº 48610.214873/2025-11, resolve: autorizar a empresa SANPETRO SOLUÇÕES LTDA, CNPJ nº 08.405.781/0002-97, a operar a instalação de transportador-revendedor-retalhista (TRR) localizada a Alameda Augusto Balbino Mendes 660, Centro, São Sebastião da Bela Vista/MG, CEP 37567-000 [Coordenadas Geográficas Aproximadas (Latitude, Longitude): -22:09:10,870; -45:45:06,080 (SIRGAS 2000)]. A capacidade total de armazenamento é de 150,00 m³. Fica revogada a Autorização SDL-ANP nº 58, de 2 de março de 2005.
+
+
+TQ
+Ø (m)
+Altura (m)
+Capacidade (m³)
+Classe
+Tipo
+1
+4,00
+6,00
+75,00
+II ou III
+Vertical aéreo
+2
+4,00
+6,00
+75,00
+II ou III
+Vertical aéreo
+DIOGO VALERIO

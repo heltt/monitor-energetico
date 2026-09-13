@@ -1,0 +1,40 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: DESPACHO SDL-ANP Nº 269, DE 20 DE FEVEREIRO DE 2026
+DATA_PUBLICACAO: 23/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=23/02/2026&jornal=515&pagina=128
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional do Petróleo, Gás Natural e Biocombustíveis/Superintendência de Distribuição e Logística
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+DESPACHO SDL-ANP Nº 269, DE 20 DE FEVEREIRO DE 2026
+O SUPERINTENDENTE ADJUNTO DE DISTRIBUIÇÃO E LOGÍSTICA DA AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS - ANP, no uso das atribuições que lhe foram conferidas pela Portaria ANP nº 265, de 10 de setembro de 2020, com base no art. 26, inciso I, alínea c, da Resolução ANP nº 51 de 30 de novembro de 2016, torna público o cancelamento, por requerimento do agente econômico, das seguintes autorizações para o exercício da atividade de revenda varejista de GLP.
+
+
+Nº de Registro
+Razão Social
+CNPJ
+Processo
+GLPAC0415357
+DISTRIBUIDORA DE GAS JL LTDA
+46.744.233/0001-08
+48610.219384/2023-85
+GLPPA0412561
+H. L. PANTOJA JUNIOR COM DE GAS
+07.569.587/0002-84
+48610.213666/2023-79
+GLP/ES0241620
+JM SANTOS COMERCIO DE GAS E AGUA LTDA
+27.923.737/0001-32
+48610.009546/2017-21
+GLP/SC0210702
+MAICON JOSE JUNKES
+11.221.311/0001-05
+48610.012469/2011-09
+GLPAM0364539
+T PEDROSA E CIA LTDA
+29.379.714/0001-34
+48610.005686/2020-25
+BRUNO VALLE DE MOURA

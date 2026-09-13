@@ -1,0 +1,75 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.11-RS_2025.02
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.11-RS_2025.02.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.11
+Manutenção e avaliação dos sistemas de
+supervisão e controle
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2025.02 Despacho ANEEL nº 370/2025 27/02/2025
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Manutenção e avaliação dos sistemas de
+6.11 Responsabilidades 2025.02 01/05/2025
+supervisão e controle
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Relatório de Disponibilidade dos Recursos de Supervisão e Controle (DRSC)..............................3
+2.2. Relatório de Qualidade dos Recursos de Supervisão e Controle (QRSC)......................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes responsáveis por equipamentos integrantes das Redes de Operação e/ou Supervisão.3
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIAS...................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Manutenção e avaliação dos sistemas de
+6.11 Responsabilidades 2025.02 01/05/2025
+supervisão e controle
+1. OBJETIVO
+1.1. Estabelecer os produtos, responsabilidades, prazos e etapas dos processos de manutenção e avaliação
+dos sistemas de supervisão e controle nas Redes de Operação e/ou Supervisão, definidas no Submódulo 2.1
+– Definição das redes do Sistema Interligado Nacional.
+2. PRODUTOS
+2.1. Relatório de Disponibilidade dos Recursos de Supervisão e Controle (DRSC)
+2.1.1. Indica as não conformidades identificadas em relação à disponibilidade dos recursos de supervisão e
+controle.
+2.2. Relatório de Qualidade dos Recursos de Supervisão e Controle (QRSC)
+2.2.1. Indica as não conformidades identificadas em relação à qualidade dos recursos de supervisão e
+controle.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Avaliar a qualidade e a disponibilidade dos recursos de supervisão e controle fornecidos pelos agentes
+de modo a garantir um conjunto de informações que descrevam o estado preciso do sistema elétrico.
+(b) Acompanhar diariamente os sistemas de supervisão conectados ao ONS, identificar a ocorrência de
+problemas e comunicar aos agentes, solicitando sua solução.
+3.2. Agentes responsáveis por equipamentos integrantes das Redes de Operação e/ou Supervisão
+(a) Realizar a operação e a manutenção preventiva e corretiva dos recursos de supervisão e controle
+disponibilizados ao ONS.
+(b) Garantir a qualidade e a disponibilidade dos recursos de supervisão e controle fornecidos ao ONS
+desde sua origem até a disponibilização nos centros de operação designados pelo ONS.
+(c) Informar imediatamente ao ONS as anomalias identificadas em seus sistemas de supervisão e controle
+que tenham reflexo na Rede de Supervisão.
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Manutenção e avaliação dos sistemas de
+6.11 Responsabilidades 2025.02 01/05/2025
+supervisão e controle
+4. PRAZOS
+Quadro 1 – Prazos para a informação de anomalías nos sistemas de supervisão e controle
+Atividade Responsável Prazos
+Informação ao ONS do motivo e prazo
+para solução das anomalias identificadas Até 2 dias úteis da ocorrência da
+1 Agente
+nos seus sistemas de supervisão e anomalia
+controle
+5. REFERÊNCIAS
+5.1. Não há referências nesse documento.
+Endereço na internet: http://www.ons.org.br 4 / 4

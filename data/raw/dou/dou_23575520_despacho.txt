@@ -1,0 +1,29 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 06/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=06/02/2026&jornal=515&pagina=79
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado de Goiás
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 14/2026
+Fase de Autorização de Pesquisa
+Determina cumprimento de exigência - Prazo 60 dias(250)
+860.562/2019-SAVANA MINERIOS E MINERAIS LTDA-OF. N°989/2026
+Fase de Requerimento de Lavra
+Determina cumprimento de exigência - Prazo 60 dias(361)
+861.088/2021-EXTRACAO DE AREIA MODELO LTDA-OF. N°49234/2025
+Fase de Requerimento de Licenciamento
+Determina o cumprimento de exigência - Prazo 30 dias(1155)
+Processo nº: 860.946/2025
+Titular: JOSE TIAGO ESTEVAN DE ALMEIDA
+Ofício nº: 1356/2026
+Fase de Requerimento de Registro de Extração
+Determina cumprimento de exigência - Prazo 60 dias(2964)
+860.729/2025-MUNICIPIO DE IVOLANDIA-OF. N°985/2026
+WALTUDES COSTA MEDEIROS
+Gerente Substituto

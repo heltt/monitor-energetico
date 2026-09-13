@@ -1,0 +1,50 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: DESPACHO SEP-ANP Nº 211, DE 5 DE FEVEREIRO DE 2026
+DATA_PUBLICACAO: 06/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=06/02/2026&jornal=515&pagina=81
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional do Petróleo, Gás Natural e Biocombustíveis/Superintendência de Exploração
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+DESPACHO SEP-ANP Nº 211, DE 5 DE FEVEREIRO DE 2026
+O SUPERINTENDENTE DE EXPLORAÇÃO DA AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS, considerando o atendimento das exigências dos contratos de concessão e da Resolução ANP nº 876/2022, no exercício das atribuições conferidas pelo art. 109, inciso II, alínea "h", da Portaria nº 265, de 10 de setembro de 2020, e a análise da remessa enviada via sistema Do Poço ao Posto (DPP), resolve:
+I-Aprovar o Plano de Trabalho Exploratório (PTE) referente aos seguintes contratos operados pela ATEM PARTICIPAÇÕES S.A.
+
+
+BLOCO
+REVISÃO
+TIPO PTE
+ETAPA
+ANO DE REFERÊNCIA
+OPERADOR
+NOME FANTASIA CONTRATO
+NÚMERO CONTRATO
+AM-T-107
+1
+PREVISTO
+PEM
+2026
+ATEM Participações
+AM-T-107_OP4
+48610205863202403
+AM-T-63
+1
+PREVISTO
+PEM
+2026
+ATEM Participações
+AM-T-63_OP4
+48610205861202414
+AM-T-64
+1
+PREVISTO
+PEM
+2026
+ATEM Participações
+AM-T-64_OP4
+48610205862202451
+II-A aprovação do referido PTE não se reflete na aprovação pela ANP das atividades propostas para fins de cumprimento do Programa Exploratório Mínimo (PEM), do Plano de Avaliação de Descobertas de Petróleo ou Gás Natural (PAD) e/ou do Programa de Descomissionamento de Instalações (PDI). A avaliação do cumprimento do PEM, do PAD e do PDI configuram-se em processos distintos, devendo respeitar os regramentos dispostos nos contratos, resoluções específicas e legislação aplicável.
+LUCIANO LOBO

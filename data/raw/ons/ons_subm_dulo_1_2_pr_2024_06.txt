@@ -1,0 +1,2544 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 1.2-PR_2024.06
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 1.2-PR_2024.06.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 1.2
+Glossário dos Procedimentos de Rede
+Procedimental
+Revisão Motivo da revisão Data de aprovação
+2024.06 Despacho ANEEL nº 1.788/2024 17/06/2024
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. SIGLAS.............................................................................................................................................3
+3. GLOSSÁRIO......................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+1. OBJETIVO
+1.1. Apresentar os termos e expressões relevantes para o entendimento dos processos, requisitos e critérios
+que constam nos Procedimentos de Rede, com as respectivas definições.
+2. SIGLAS
+Quadro 1 – Lista das siglas utilizadas no glossário
+Sigla Nome
+ANA Agência Nacional de Águas
+ANDE Administración Nacional de Electricidad
+ANEEL Agência Nacional de Energia Elétrica
+CAG Controle Automático de Geração
+CCC Conta de Consumo de Combustíveis Fósseis
+CCD Contrato de Conexão às Instalações de Distribuição
+CCEE Câmara de Comercialização de Energia Elétrica
+CCG Contrato de Constituição de Garantia
+CCI Contrato de Compartilhamento de Instalações de Transmissão
+CCEAR Contrato de Comercialização de Energia no Ambiente Regulado
+CCVE Contrato de Compra e Venda de Energia
+CCT Contrato de Conexão às Instalações de Transmissão
+CDC Common Data Classes
+CDE Conta de Desenvolvimento Energético
+CMO Custo Marginal de Operação
+CMSE Comitê de Monitoramento do Setor Elétrico
+CNOS Centro Nacional de Operação do Sistema
+CNPE Conselho Nacional de Política Energética
+COL Centro de Operação Local
+COS Centro de Operação de Sistema
+COSR Centro de Operação do Sistema
+CPSA Contrato de Prestação de Serviços Ancilares
+CPST Contrato de Prestação de Serviços de Transmissão
+CUSD Contrato de Uso do Sistema de Distribuição
+CUST Contrato de Uso do Sistema de Transmissão
+CVU Custo Variável Unitário
+DIPC Duração da Interrupção do Ponto de Controle
+DIT Demais Instalações de Transmissão
+Endereço na internet: http://www.ons.org.br 3 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Sigla Nome
+DMIPC Duração Máxima da Interrupção do Ponto de Controle
+EAR Energia Armazenada
+ECA Erro de Controle de Área
+ECE Esquema de Controle de Emergência
+ECS Esquema de Controle de Segurança
+ENA Energia Natural Afluente
+EPE Empresa de Pesquisa Energética
+ERAC Esquema Regional de Alívio de Carga
+ESS Encargos de Serviços do Sistema
+FACTS Flexible AC Transmission Systems
+FG Função Geração
+FT Função Transmissão
+FTCR Função Transmissão Controle de Reativo
+FTLT Função Transmissão Linha de Transmissão
+FTMG Função Transmissão Módulo Geral
+FTTR Função Transmissão Transformação
+GOOSE Generic Object Oriented Substation Event
+Instalação de Transmissão de interesse exclusivo de Centrais de Geração para
+ICG
+Conexão Compartilhada
+IED Intelligent Electronic Devices
+IEG Instalações de Interesse Exclusivo e Caráter Individual das Centrais de Geração
+INMETRO Instituto Nacional de Metrologia, Qualidade e Tecnologia
+LEN Leilão de Energia Nova
+LER Leilão de Energia de Reserva
+LFA Leilão de Fontes Alternativas
+LPIT Low Power Instruments Transformers
+MME Ministério de Minas e Energia
+MMS Manufacturing Message Specification
+MPO Manual de Procedimentos da Operação
+MRE Mecanismo de Realocação de Energia
+MU Merging Units
+MUSD Montantes de Uso do Sistema de Distribuição
+MUST Montantes de Uso do Sistema de Transmissão
+ONS Operador Nacional do Sistema Elétrico
+Endereço na internet: http://www.ons.org.br 4 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Sigla Nome
+PB Pagamento Base
+PCI Programa de Comparação Interlaboratorial de Energia Elétrica
+PDO Programa Diário da Operação
+PEN Plano Anual da Operação Energética
+PMO Programa Mensal de Operação
+PROINFA Programa de Incentivo às Fontes Alternativas de Energia Elétrica
+PVI Parcela Variável por Indisponibilidade
+PVRO Parcela Variável por Restrição Operativa
+QEE Qualidade de Energia Elétrica
+RDP Registrador Digital de Perturbações
+SCDE Sistema de Coleta de Dados de Energia
+SEP Sistema Especial de Proteção
+SIN Sistema Interligado Nacional
+SIR Relação entre a impedância de fonte e a impedância da linha
+SMF Sistema de Medição para Faturamento
+SSC Sistema de Supervisão e Controle
+SV Sampled Values
+TSA Tarifa de Serviços Ancilares
+3. GLOSSÁRIO
+Item Termo Definição
+Concessionária ou permissionária de distribuição, concessionária ou
+autorizada de geração, autorizada de importação e/ou exportação de
+1. acessante
+energia elétrica, bem como o consumidor livre, que acessam
+instalações de transmissão.
+Uso de capacidade remanescente do sistema de transmissão por
+acesso temporário ou
+2. tempo determinado, conforme regras e condições estabelecidas pela
+flexível
+ANEEL.
+Endereço na internet: http://www.ons.org.br 5 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Acordo firmado entre Brasil, Argentina e Paraguai, em 19 de outubro
+de 1979, com objetivo de ser um acordo técnico-operativo para
+acordo tripartite entre coordenação das Usinas Hidroelétricas de Itaipu e Corpus. Esse
+3. Brasil, Paraguai e acordo, estabelece que na área de medição do posto R11 não pode
+Argentina haver variação horária superior a 50cm e diária superior a 2,0m,
+sendo possíveis flexibilizações de até 20% nesses valores em
+situações especiais.
+Valor a ser adicionado à Receita Anual Permitida (RAP) estabelecido
+4. adicional à RAP pela ANEEL como incentivo à melhoria da disponibilidade das
+instalações de transmissão.
+Administración Nacional Empresa de energia elétrica paraguaia responsável pela aquisição da
+5.
+de Electricidad (ANDE) energia de Itaipu Binacional disponibilizada para o Paraguai.
+equipamento para produção de energia elétrica a partir da energia
+6. aerogerador
+cinética do vento.
+Autarquia sob regime especial com autonomia administrativa e
+Agência Nacional de financeira, vinculada ao Ministério do Meio Ambiente. Foi criada pela
+7.
+Águas (ANA) Lei nº 9.984, de 17 de julho de 2000, e é responsável pela
+implementação da política nacional de recursos hídricos.
+Autarquia sob regime especial, vinculada ao MME, que tem a
+Agência Nacional de finalidade de regular e fiscalizar a produção, transmissão, distribuição
+8.
+Energia Elétrica (ANEEL) e comercialização de energia elétrica criada pela Lei nº 9.427, de 26
+de dezembro de 1996.
+Transmissora ou distribuidora responsável pelo ativo onde ocorre a
+9. agente conectado
+conexão.
+Agente de geração, transmissão, distribuição,
+10. agente conectante importação/exportação ou consumidor livre ou especial que se
+conecta aos ativos do agente conectado.
+Agente titular de autorização outorgada pelo Poder Concedente para
+agente de
+11. exercer a atividade de comercialização de energia elétrica no âmbito
+comercialização
+da CCEE. Diz-se, também, comercializador ou agente comercializador.
+Endereço na internet: http://www.ons.org.br 6 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Agente titular de concessão ou permissão com delegação do Poder
+Concedente para a prestação do serviço público de distribuição de
+12. agente de distribuição
+energia elétrica. Diz-se, também, concessionária, permissionária de
+distribuição ou distribuidora.
+agente de
+13. Agente autorizado a exportar/importar energia elétrica.
+exportação/importação
+Agente titular de concessão, permissão ou autorização outorgada
+14. agente de geração pelo Poder Concedente para fins de geração de energia elétrica. Diz-
+se, também, agente de produção ou gerador.
+Todo agente de geração, agente de transmissão, agente de
+distribuição, agente de importação, agente de exportação assim
+considerados os titulares de concessão, permissão ou autorização
+15. agente de operação
+para exploração dos serviços de energia elétrica, e consumidor livre,
+responsáveis por instalações integrantes da Rede de Operação e
+sujeitos aos Procedimentos de Rede.
+Agente titular de concessão ou equiparado com delegação do Poder
+Concedente para a prestação do serviço público de transmissão de
+16. agente de transmissão
+energia elétrica. Diz-se, também, concessionária de transmissão ou
+transmissora.
+Agente conectante, exceto quando esse for o consumidor livre ou
+especial.
+No caso de consumidor livre ou especial com conexão à Rede Básica
+agente responsável pelo ou às instalações de transmissão de energia elétrica destinadas a
+17. Sistema de Medição interligações internacionais conectadas à Rede Básica, o agente
+para Faturamento (SMF) conectado é o agente responsável pelo SMF.
+No caso de consumidor livre ou especial com conexão às DIT ou às
+ICG, a distribuidora é o agente conectante e portanto é o agente
+responsável pelo SMF.
+Intervalo de tempo acumulado de janeiro até o mês em análise. Para
+18. agregação anual os indicadores com periodicidade de divulgação anual considera-se o
+intervalo de tempo acumulado de janeiro até dezembro.
+Intervalo de tempo que compreende os 12 meses anteriores
+19. agregação de 12 meses
+consecutivos e termina sempre no mês em análise.
+Endereço na internet: http://www.ons.org.br 7 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Intervalo de tempo compreendido do primeiro ao último dia do mês,
+20. agregação mensal
+em análise.
+Intervalo de tempo que compreende os 60 meses anteriores
+21. agregação quinquenal
+consecutivos e termina sempre no mês em análise.
+Os Ajustamentos Operativos são documentos firmados entre o ONS e
+outros agentes de operação, referentes a instalações e/ou
+equipamentos localizados fora da Rede de Operação, porém com
+influência no desempenho operacional dessa rede. Nesses
+documentos podem ser estabelecidos procedimentos operacionais
+Ajustamento Operativo
+22. para intervenções, para as atividades de normatização, de pré-
+(AO)
+operação, de tempo real e de pós-operação, bem como
+procedimentos, diretrizes e requisitos para a hierarquia operacional,
+relacionamentos operacionais, telessupervisão e comunicação para
+as instalações, além de outros assuntos de interesse da operação do
+sistema.
+Implantação de instalação de transmissão resultante de processo
+23. ampliação
+licitatório para outorga de nova concessão.
+Avaliação dos dados e informações referentes à operação verificada,
+24. análise da operação
+à adequação dos processos e aos documentos operativos.
+Processo de avaliação do desempenho do SIN quando de uma
+25. análise de contingência
+contingência para que sejam adotadas as medidas necessárias.
+Investigação da origem de anormalidades e dificuldades encontradas
+durante a execução da operação do SIN, com a finalidade de definir
+26. análise de ocorrência
+medidas corretivas e preventivas a serem adotadas pelo ONS e pelos
+demais agentes.
+Processo que corresponde à investigação das causas e dos
+responsáveis pelos distúrbios ocorridos nos sistemas de geração, de
+transmissão, de distribuição e nas instalações dos consumidores.
+27. análise de perturbação Engloba as etapas de detecção do defeito, interrupção e
+recomposição do sistema, envolvendo a ação coordenada das
+equipes de operação em tempo real, estudos elétricos, e proteção e
+controle do ONS e dos agentes envolvidos.
+Intervenção em uma Função Transmissão desenergizada em
+aproveitamento de
+28. consequência do desligamento para intervenção em outra Função
+desligamento
+Transmissão.
+Endereço na internet: http://www.ons.org.br 8 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Área do SIN sobre a qual um centro de operação, por meio do CAG,
+29. área de controle tem a responsabilidade pelo controle da frequência e do intercâmbio
+de energia elétrica.
+Conjunto de ações mínimas de manutenção que deve ser executado
+pelo agente responsável pelo equipamento e linha de transmissão,
+atividades mínimas de segundo critérios e periodicidades por ele definidos, e que tem o
+30.
+manutenção objetivo de garantir que as características de projeto, no que se refere
+a confiabilidade, funcionalidade, operacionalidade e segurança,
+sejam preservadas.
+Ativo dedicado ao atendimento de um único usuário, com a finalidade
+31. ativo de conexão de interligar seus ativos à Rede Básica, diretamente ou através de
+outros ativos de transmissão.
+Pessoa física ou jurídica ou empresas reunidas em consórcio que
+recebam concessão ou autorização para produzir energia elétrica
+32. autoprodutor
+destinada ao seu uso exclusivo, podendo, mediante autorização da
+ANEEL, comercializar seus excedentes de energia.
+Capacidade de uma unidade geradora ou usina geradora de alimentar
+seus serviços auxiliares a partir da tensão terminal de seus próprios
+geradores. Pelo menos uma das unidades, após a ocorrência de uma
+autorrestabelecimento
+33. perturbação ou distúrbio no sistema elétrico, deve permanecer
+parcial
+girando mecanicamente e excitada. Para esse entendimento, não se
+considera a condição de parada dos geradores por atuação de
+proteção própria.
+Capacidade de uma unidade geradora ou usina geradora de sair de
+uma condição de parada total para uma condição que permita a
+autorrestabelecimento
+34. operação, independentemente de fonte externa na alimentação de
+integral
+seus serviços auxiliares para colocar em operação suas unidades
+geradoras. Diz-se, também, black start.
+Documento disponibilizado na página do ONS na internet informando
+a cada concessionária de transmissão e ao ONS os montantes que
+deverão ser faturados a cada usuário, respectivamente, pela
+35. aviso de crédito prestação dos serviços de transmissão e pela prestação dos serviços
+de coordenação e controle da operação do SIN e de administração
+dos serviços de transmissão prestados pelas concessionárias de
+transmissão.
+Endereço na internet: http://www.ons.org.br 9 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Documento disponibilizado na página do ONS na internet informando
+a cada usuário os montantes que esse deverá pagar a cada
+concessionária de transmissão e ao ONS, respectivamente, pela
+36. aviso de débito prestação dos serviços de transmissão e pela prestação dos serviços
+de coordenação e controle da operação do SIN e de administração
+dos serviços de transmissão prestados pelas concessionárias de
+transmissão.
+Área definida topograficamente, drenada por um curso de água ou
+37. bacia hidrográfica sistema conectado de cursos de água, tal que toda vazão seja
+descarregada através de uma simples saída.
+Parte da bacia hidrográfica situada entre um aproveitamento
+38. bacia incremental (tomado como ponto de controle) e outro(s) localizado(s)
+imediatamente a montante.
+Resultado da diferença entre os recursos e os requisitos energéticos
+39. balanço energético
+de um sistema.
+balanço hídrico do Balanço das entradas e saídas de água no interior de um reservatório,
+40.
+reservatório consideradas as variações efetivas de acumulação.
+barramento de Barramento conectado ao secundário de transformador de potência
+41. transformador de integrante da Rede Básica com tensão primária igual ou superior a
+fronteira 230 kV e tensões secundária e terciária inferiores a 230 kV.
+barramento de fronteira Barramento da Rede de Operação que tenha conectado a ele pelo
+42.
+da Rede de Operação menos um circuito que não seja da Rede de Operação.
+barramento de fronteira Barramento da Rede de Supervisão que tenha conectado a ele pelo
+43.
+da Rede de Supervisão menos um circuito que não seja da Rede de Supervisão.
+44. black start Ver autorrestabelecimento integral.
+Documento operativo onde são cadastrados os equipamentos da
+Rede de Operação e da Rede de Supervisão e que contém os limites
+cadastro de operacionais de equipamentos, os volumes de espera dos
+45. informações reservatórios, as restrições operativas, a organização hierárquica das
+operacionais instalações da Rede de Operação, a área de atuação de cada centro
+de operação do ONS e outros dados necessários à operação da Rede
+de Operação.
+Endereço na internet: http://www.ons.org.br 10 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Pessoa jurídica de direito privado, sem fins lucrativos, que atua com
+a autorização do Poder Concedente, sob regulação e fiscalização da
+Câmara de
+ANEEL e cuja finalidade é viabilizar as operações de compra e venda
+46. Comercialização de
+de energia elétrica no âmbito do SIN. A criação da CCEE foi autorizada
+Energia Elétrica (CCEE)
+nos termos do art. 4º, da Lei nº 10.848, de 15 de março de 2004, e do
+Decreto nº 5.177, de 12 de agosto de 2004.
+47. canal de fuga Canal de saída de água das turbinas.
+Somatório das potências efetivas das centrais geradoras e das
+instalações de importação de energia de cada um dos sistemas
+capacidade instalada do
+48. interligados das regiões Norte/Nordeste e Sul/Sudeste/Centro-Oeste.
+SIN
+Não é considerada a potência efetiva relativa à parte paraguaia da
+Itaipu Binacional.
+Menor capacidade nominal dos equipamentos pertencentes aos
+49. capacidade operativa
+diversos vãos de uma instalação.
+Informações, dados e características técnicas de equipamentos e
+características “como
+instalações implantadas pelo agente de transmissão para o seu
+50. efetivamente
+empreendimento, com base nos requisitos estabelecidos no
+implantadas”
+instrumento técnico, no projeto básico e nos Procedimentos de Rede.
+Correlação entre a variação da carga e/ou da potência dos geradores
+característica natural de
+51. e a variação concomitante da frequência, sem qualquer ação manual
+uma área
+ou automática do controle suplementar.
+Potência elétrica média solicitada por um equipamento, barramento,
+subestação, agentes da operação, subsistema ou sistema elétrico,
+52. carga de demanda
+durante um determinado intervalo de tempo. Diz-se, também,
+demanda.
+carga de demanda Potência elétrica média ocorrida no menor intervalo de tempo
+53.
+instantânea preestabelecido do medidor.
+carga de demanda Potência elétrica média integrada em um intervalo de 5, 10, 15, 30 ou
+54.
+integralizada 60 min.
+Endereço na internet: http://www.ons.org.br 11 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Carga equivalente à integral das cargas de demanda em um
+determinado período de tempo, expressa em MWh. Quando expressa
+em MW-médio, em uma determinada base de tempo, como, por
+exemplo, MW-médio em base anual, refere-se a uma unidade de
+55. carga de energia ativa
+energia convencionada, expressa pelo valor médio da potência ativa
+que, multiplicada pelo intervalo de tempo considerado, define a
+energia ativa consumida nesse mesmo intervalo. É frequentemente
+utilizada a expressão reduzida carga de energia.
+Composta por demandas internas da central de geração, por perdas
+elétricas em instalações de interesse restrito e por demandas de
+carga própria de central
+56. autoprodutores e produtores independentes no mesmo local da
+de geração
+produção, quando pertencentes à mesma pessoa jurídica da central
+de geração outorgada.
+Representação computacional de uma situação de topologia, de
+57. caso de referência carga ou de geração do SIN, utilizada para a realização de simulações
+das condições de desempenho desse sistema.
+Conjuntos de ocorrências futuras de afluências naturais, consideradas
+como variáveis aleatórias, usualmente empregadas para representar
+as incertezas hidrológicas. Essas ocorrências futuras devem preservar
+58. cenários de afluências
+as características principais das séries históricas de afluências de um
+determinado local, como, por exemplo, o valor médio e o desvio
+padrão dessas afluências.
+Instalação de produção de energia elétrica a partir do
+central geradora
+59. aproveitamento da radiação solar sob a aplicação do efeito
+fotovoltaica
+fotovoltaico. Diz-se também usina fotovoltaica.
+Ou Centro de Aquisição de Segunda Rota (CASR), é Instalação
+designada pelo ONS (CASR) responsável pela recepção da segunda
+60. centro de aquisição
+rota de serviços de comunicação de voz e de dados, dos agentes de
+operação, que utilizam serviços classe A, ao qual este se relaciona.
+Centro de operação de mais alto nível hierárquico do ONS, que atua
+diretamente sobre os demais centros de operação do ONS e é
+Centro Nacional de responsável pela coordenação, supervisão e controle da Rede de
+61. Operação do Sistema – Operação, das interligações internacionais e do despacho de geração
+CNOS das usinas submetidas ao despacho centralizado, bem como pelo
+comando e execução do despacho das usinas sob CAG, dos CAT e dos
+ECS.
+Endereço na internet: http://www.ons.org.br 12 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Centros de operação de propriedade do ONS, responsáveis pela
+coordenação, supervisão e controle da Rede de Operação Regional,
+pela supervisão e controle do despacho de geração das usinas
+Centro de Operação do
+62. submetidas ao despacho centralizado e Rede de Operação Sistêmica,
+Sistema – COSR
+bem como pelo comando e execução do despacho das usinas sob
+CAG, dos CAT e dos ECS, nas instalações de sua área de atuação,
+definidas pelo ONS.
+Fenômeno resultante de sequência de vazões superiores a um valor
+63. cheia normal considerado para determinada seção do rio ou superiores a
+uma restrição de vazão máxima estabelecida para essa seção.
+Sequência de vazões utilizada para dimensionar os vertedouros de
+64. cheia de projeto
+um reservatório.
+Período anual, de 1º de julho de um ano até 30 de junho do ano
+65. ciclo tarifário subsequente, para o qual a ANEEL estabelece as RAP das
+concessionárias de transmissão e as TUST dos usuários.
+Impressão visual resultante das variações do fluxo luminoso nas
+lâmpadas, principalmente nas lâmpadas incandescentes, quando a
+66. cintilação
+rede elétrica é submetida a flutuações de tensão. Diz-se, também,
+flicker.
+Expressão do erro máximo ou incerteza apresentado na medição de
+67. classe de exatidão
+uma dada grandeza através de um instrumento de medição.
+Processo operado numa instalação específica para fins da produção
+combinada das utilidades calor e energia mecânica, esta geralmente
+68. co-geração
+convertida total ou parcialmente em energia elétrica, a partir de uma
+fonte primária.
+Atributo concedido a cogeradores que atendem os requisitos
+definidos na Resolução Normativa ANEEL nº 235, de 14 de novembro
+69. co-geração qualificada
+de 2006, segundo aspectos de racionalidade energética, para fins de
+participação nas políticas de incentivo à cogeração.
+Fenômeno resultante de uma instabilidade de tensão, num sistema
+de potência, que consiste em o ponto de equilíbrio pós-perturbação
+70. colapso de tensão
+apresentar níveis de tensão abaixo dos limites aceitáveis. Um colapso
+de tensão pode ser total ou parcial.
+Endereço na internet: http://www.ons.org.br 13 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Ordens emanadas para a realização de acionamentos locais,
+71. comando da operação acionamentos remotos ou acionamentos por telecomando nos
+equipamentos de manobra ou nos dispositivos de controle.
+Modo pelo qual uma instalação ou um equipamento são avaliados por
+comissão formada por seus proprietários, projetistas, fabricantes e
+72. comissionamento
+montadores, através de ensaios e testes, de forma a liberá-los para
+operação comercial em condições seguras e eficientes.
+Órgão colegiado constituído no âmbito do Poder Executivo, sob a
+coordenação direta do Ministério de Minas e Energia, responsável
+Comitê de
+pelo acompanhamento e avaliação permanentes da continuidade e
+73. Monitoramento do
+da segurança de suprimento eletroenergético em todo território
+Setor Elétrico – CMSE
+nacional. A constituição do CMSE foi autorizada pela Lei nº 10.848, de
+15 de março de 2004.
+Tipos predefinidos de estrutura de dados em que se baseia todo o
+Common Data classes conjunto de atributos de dados definidos para um objeto de dados,
+74.
+(CDC) tais como informações de status, configurações analógicas, e
+informações de descrição.
+Equipamento composto por reatores lineares e não lineares,
+capacitores e filtros ligados em derivação e/ou em série, os quais,
+justamente com os transformadores, dispositivo de chaveamento e
+75. compensador estático
+dispositivo de controle, formam um sistema de compensação
+gerando ou absorvendo potência reativa e possível de ser controlada
+dentro de uma certa faixa.
+Unidade geradora (síncrona) cuja rotação é determinada pela
+frequência da rede elétrica à qual se encontra sincronizada que pode
+76. compensador síncrono
+ter pequena carga acoplada ao seu eixo (fruto de eventual dispositivo
+de partida), que opera fornecendo ou absorvendo potência reativa.
+comportamento Comportamento do sistema relativo a oscilações eletromecânicas e
+77.
+dinâmico de tensão após ocorrência de perturbação.
+É determinado em função da relação entre a impedância de fonte e a
+comprimento relativo
+78. impedância da linha (SIR) e utilizado para selecionar o tipo de
+de uma LT
+proteção mais indicado.
+Endereço na internet: http://www.ons.org.br 14 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Delegação da prestação de um serviço, feita pelo Poder Concedente,
+mediante licitação na modalidade de concorrência ou de leilão, à
+79. concessão pessoa jurídica ou consórcio que demonstre capacidade de
+desempenho nessa prestação de serviço, por sua conta e risco e por
+prazo determinado – Lei nº 8987/1995.
+Situação operativa anormal, de instalação de transmissão
+caracterizada pela elevação do nível de atenção para eventuais riscos
+para pessoas, equipamentos e/ou instalações, que pode ou não exigir
+80. condição de advertência
+providências no sentido de evitar evolução para a condição de
+urgência, o qual deve ser informado pelo Agente responsável ao
+centro de operação do ONS com o qual ele se relaciona.
+concessionária de Pessoa jurídica com delegação do Poder Concedente para a prestação
+81.
+distribuição do serviço público de distribuição de energia elétrica.
+concessionária de Pessoa jurídica com delegação do Poder Concedente para a prestação
+82.
+transmissão do serviço público de transmissão de energia elétrica.
+Circunstância que caracteriza a operação de um sistema ou
+condição normal de
+83. equipamento na faixa de variação permitida para seus valores
+operação
+nominais.
+Condição que caracteriza o estado do sistema e de sua(s) faixa(s) de
+84. condição operativa
+operação.
+Requisitos necessários para a efetivação do acesso, que abrangem
+não só a identificação da necessidade de ampliações, reforços e
+85. condições de acesso melhorias na rede elétrica, com os respectivos prazos de implantação,
+como também o atendimento aos requisitos técnicos estabelecidos
+nos Procedimentos de Rede.
+Comportamento da curva de carga de demanda de subsistemas e do
+86. condições de carga
+SIN que apresenta características típicas em dado intervalo de tempo.
+Requisitos a que o acessante deve atender para efetivar sua conexão
+87. condições de conexão
+ao sistema elétrico.
+Endereço na internet: http://www.ons.org.br 15 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Situação operativa anormal, de instalação de transmissão, geração ou
+distribuição caracterizada pela elevação do nível de risco para
+pessoas, equipamentos e/ou instalações, que exige ação imediata do
+88. condição de emergência Agente responsável no sentido de restabelecer a condição normal de
+operação, não havendo tempo hábil para comunicação ou
+coordenação prévia com o centro de operação do ONS com o qual ele
+se relaciona.
+Situação operativa anormal, de instalação de transmissão, geração ou
+distribuição caracterizada pela elevação do nível de risco para
+pessoas, equipamentos e/ou instalações, que exige providências no
+89. condição de urgência
+menor prazo possível, o qual deve ser informado pelo Agente
+responsável ao centro de operação do ONS com o qual ele se
+relaciona.
+Probabilidade de um sistema ou componente realizar suas funções
+90. confiabilidade previstas de forma contínua, adequada e segura, por um período de
+tempo preestabelecido, sob condições operativas predefinidas.
+Configuração de um sistema na qual todos os elementos
+configuração normal de
+91. programados para operar estão em serviço ou em disponibilidade
+operação
+para entrada em serviço tão logo seja necessário.
+Conjunto formado pela unidade geradora (hidráulica ou térmica),
+92. conjunto gerador transformador elevador, disjuntor e demais equipamentos
+associados até o terminal de saída do disjuntor do lado de alta tensão.
+Órgão colegiado, vinculado à Presidência da República, cuja
+Conselho Nacional de
+responsabilidade é promover o aproveitamento racional de energia e
+93. Política Energética –
+propor medidas necessárias para garantir o atendimento da demanda
+CNPE
+nacional de energia elétrica.
+Conjunto de atividades executadas pelo ONS que consistem, de forma
+resumida, em receber as previsões de carga dos agentes, analisar e
+criticar os dados recebidos, interagir com os agentes a fim de elucidar
+consolidação da questionamentos advindos da análise ou solicitar revisão do dado
+94.
+previsão de carga enviado, interagir com a EPE, definir previsões de carga para
+subsistemas e áreas, disponibilizar as previsões para os estudos
+elétricos e energéticos do ONS e acompanhar a qualidade das
+previsões.
+Endereço na internet: http://www.ons.org.br 16 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Processo de consulta por meio do qual os agentes obtêm as
+95. consulta de acesso informações necessárias para os estudos de viabilidade de seu acesso
+e para a definição do ponto de conexão.
+Pessoa física ou jurídica, de direito público ou privado, legalmente
+representada, que solicite o fornecimento de energia ou o uso do
+96. consumidor sistema elétrico, assumindo as obrigações decorrentes deste
+atendimento à(s) sua(s) unidade(s) consumidora(s), segundo disposto
+nas normas e nos contratos pertinentes.
+Agente da Câmara de Comercialização de Energia Elétrica – CCEE, da
+categoria de comercialização, que adquire energia elétrica
+proveniente de empreendimentos de geração enquadrados no § 5o
+do art. 26 da Lei no 9.427, de 26 de dezembro de 1996, para unidade
+97. consumidor especial
+consumidora ou unidades consumidoras reunidas por comunhão de
+interesses de fato ou de direito cuja carga seja maior ou igual a 500
+kW e que não satisfaçam, individualmente, os requisitos dispostos
+nos arts. 15 e 16 da Lei no 9.074, de 7 de julho de 1995.
+consumidor final de Aquele que utiliza energia elétrica unicamente para consumo próprio,
+98.
+energia elétrica e não para a produção de outros bens e serviços.
+Agente que adquire energia elétrica no ambiente de contratação livre
+99. consumidor livre para unidades consumidoras que satisfaçam, individualmente, os
+requisitos dispostos nos arts. 15 e 16 da Lei nº 9.074, de 1995.
+Pessoa jurídica cujas unidades consumidoras satisfazem,
+consumidor individualmente, os requisitos dispostos nos arts. 15 e 16 da Lei nº
+100.
+potencialmente livre 9.074, de 1995, porém não adquirem energia elétrica no ambiente de
+contratação livre.
+Conta que objetiva o rateio, entre todas as empresas e usuários, dos
+Conta de Consumo de
+ônus e vantagens decorrentes do consumo dos combustíveis fósseis,
+101. Combustíveis fósseis
+para atender às necessidades dos sistemas interligados ou isolados,
+(CCC)
+ou por imposição de interesse nacional.
+Conta criada pelo Poder Concedente, que visa ao desenvolvimento
+energético dos estados e à competitividade da energia produzida a
+Conta de
+partir de fontes eólica, pequenas centrais hidroelétricas, biomassa,
+102. Desenvolvimento
+gás natural e carvão mineral nacional, nas áreas atendidas pelos
+Energético
+sistemas interligados, bem como a promoção da universalização do
+serviço de energia elétrica em todo o território nacional.
+Endereço na internet: http://www.ons.org.br 17 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Perda de equipamentos ou instalações que provoca ou não violação
+103. contingência
+dos limites operativos ou corte de carga.
+Instrumento jurídico que formaliza a compra e venda de energia
+contrato bilateral de
+elétrica entre agentes da CCEE e tem por objeto estabelecer preços,
+104. comercialização de
+prazos e montantes de suprimento em intervalos temporais
+energia elétrica
+determinados.
+São os contratos bilaterais estabelecidos no ambiente de contratação
+Contrato de regulada (ACR), celebrados entre cada agente vendedor, vencedor de
+Comercialização de um determinado leilão de energia, e todos os agentes de distribuição
+105.
+Energia no Ambiente compradores, bem como os contratos celebrados com os
+Regulado (CCEAR) consumidores potencialmente livres, atendidos em condições
+reguladas estabelecidas em regulamentação específica.
+Contrato de
+Contrato celebrado entre concessionárias de transmissão
+Compartilhamento de
+106. estabelecendo os procedimentos, direitos e responsabilidades para o
+Instalações de
+uso compartilhado de instalações de transmissão.
+Transmissão (CCI)
+São os contratos bilaterais estabelecidos no ambiente de contratação
+Contrato de Compra e
+livre (ACL), pactuando a compra e venda de energia entre os agentes
+107. Venda de Energia
+da CCEE: geradores, comercializadores, importadores e exportadores
+(CCVE)
+de energia elétrica e consumidores livres.
+Contrato de Conexão às Contrato celebrado entre uma distribuidora e o usuário,
+108. Instalações de estabelecendo os termos e condições para a conexão do usuário às
+Distribuição (CCD) instalações sob responsabilidade da distribuidora.
+Contrato de Conexão às Contrato celebrado entre uma transmissora e o usuário,
+109. Instalações de estabelecendo os termos e condições para a conexão do usuário às
+Transmissão (CCT) instalações sob responsabilidade da transmissora.
+Contrato celebrado entre um usuário, o ONS e as concessionárias de
+Contrato de transmissão, essas representadas pelo ONS, para garantir o
+110. Constituição de recebimento dos valores devidos pelo usuário às concessionárias de
+Garantia (CCG) transmissão e ao ONS pelos serviços prestados e discriminados no
+CUST.
+Contrato de Prestação Contrato celebrado entre o ONS e uma concessionária de transmissão
+111. de Serviços de estabelecendo os termos e condições para prestação de serviços de
+Transmissão (CPST) transmissão de energia elétrica.
+Endereço na internet: http://www.ons.org.br 18 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Contrato celebrado entre uma concessionária de distribuição e seus
+Contrato de Uso do usuários, no qual são estabelecidos os termos e condições para uso
+112. Sistema de Distribuição das instalações de distribuição e das DIT, bem como os
+(CUSD) correspondentes direitos, obrigações e exigências operacionais das
+partes.
+Contrato celebrado entre um usuário, o ONS e as concessionárias de
+transmissão, essas representadas pelo ONS, estabelecendo os termos
+e condições para o uso do sistema de transmissão, que inclui a
+Contrato de Uso do prestação dos serviços de transmissão pelas concessionárias,
+113. Sistema de Transmissão mediante controle e supervisão do ONS e a prestação pelo ONS dos
+(CUST) serviços de coordenação e controle da operação dos sistemas
+elétricos interligados e para a administração pelo ONS da cobrança e
+da liquidação dos encargos de uso do sistema de transmissão e a
+execução do sistema de garantias.
+Contrato de Prestação Contrato celebrado entre o ONS e os agentes de geração no qual são
+114. de Serviços Ancilares estabelecidos os termos e condições para prestação dos serviços
+(CPSA) ancilares necessários à operação do SIN.
+Processo sistêmico que viabiliza a manutenção da frequência e/ou do
+intercâmbio entre áreas do sistema elétrico, através de recursos de
+Controle Automático de
+115. controle que atuam em usinas ou unidades geradoras. Esse termo
+Geração (CAG)
+também é aplicado para se referir ao conjunto de equipamentos e/ou
+dispositivos responsáveis por essa ação.
+Sistema de regulação automático que, monitorando grandezas
+elétricas sistêmicas, atua sobre determinados equipamentos de
+Controle Automático de
+116. controle de tensão, com a finalidade de viabilizar a manutenção dos
+Tensão (CAT)
+valores de tensão de barras controladas dentro de faixas
+preestabelecidas.
+Consiste na monitoração de grandezas ou do estado de
+equipamentos e linhas de transmissão e na adoção de medidas para
+117. controle da operação
+obtenção de valores ou estados desejados, através da determinação
+de ações de comando.
+Conjunto de ações aplicadas na operação de reservatórios para evitar
+118. controle de cheias
+ou reduzir os efeitos indesejáveis produzidos pelas cheias.
+Endereço na internet: http://www.ons.org.br 19 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Conjunto de ações para execução do programa de geração e das
+reprogramações para o atendimento à carga, à manutenção da
+119. controle de geração
+frequência e ao controle do intercâmbio entre áreas da Rede de
+Operação.
+Conjunto de ações para manutenção dos níveis de tensão dentro de
+120. controle de tensão parâmetros que atendam aos requisitos de qualidade e confiabilidade
+operativa do sistema e também aos requisitos legais.
+Ação realizada por reguladores automáticos de velocidade das
+controle primário de
+121. unidades geradoras com o objetivo de limitar a variação da frequência
+frequência
+quando ocorre desequilíbrio entre a carga e a geração.
+Ação realizada pelas unidades geradoras participantes do CAG, com o
+objetivo de restabelecer a frequência do sistema em relação ao valor
+controle secundário de
+122. programado e manter os valores de potência ativa dos intercâmbios
+frequência
+nos valores programados e/ou restabelecê-los. Diz-se, também,
+controle suplementar.
+123. controle suplementar Ver controle secundário de frequência.
+coordenação da Organização e estabelecimento das ações de supervisão e controle da
+124.
+operação operação.
+Interrupção de suprimento de energia elétrica através do
+125. corte de carga desligamento automático ou manual de linhas de transmissão ou de
+circuitos de distribuição.
+Norma de confronto, avaliação e escolha; aquilo que serve de base
+126. critério
+para comparação, julgamento ou apreciação
+Critério determinístico pelo qual o sistema deve ser capaz de suportar
+127. critério "n-1" qualquer contingência simples, ou seja, a perda de qualquer um de
+seus elementos sem corte de carga.
+Conexão especial das blindagens metálicas dos cabos isolados na qual
+as blindagens são transpostas nas emendas de cada lance da linha de
+transmissão subterrânea, consecutivamente em três lances, de tal
+128. cross bonding
+forma que o circuito contínuo de cada blindagem envolva os
+condutores das três fases, minimizando as perdas e resultando na
+seção ótima do condutor do cabo isolado.
+Endereço na internet: http://www.ons.org.br 20 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Curva que representa a variação da potência, em função do tempo,
+129. curva de carga
+requerida por um sistema ou equipamento elétrico.
+Custo Marginal de Custo por unidade de energia produzida no qual se incorre para
+130.
+Operação (CMO) atender a um acréscimo de carga no sistema.
+Custo Variável Unitário
+131. Custo por unidade de energia produzida por uma usina termoelétrica.
+(CVU)
+Qualquer anormalidade detectada em uma instalação que não a
+impossibilite de permanecer em funcionamento ou disponível para a
+132. defeito
+operação, mas afete o grau de confiabilidade e/ou desempenho
+especificado ou esperado.
+133. defluência Ver vazão defluente.
+Instalações integrantes de concessões de transmissão, não
+Demais Instalações de
+134. pertencentes à Rede Básica, classificadas segundo regras e condições
+Transmissão (DIT)
+estabelecidas pela ANEEL.
+Demais Instalações de
+DIT quando de uso compartilhado segundo regras e condições
+135. Transmissão
+estabelecidas pela ANEEL.
+Compartilhadas (DITC)
+136. demanda Ver carga de demanda.
+Rebaixamento do nível de água de um reservatório ou diminuição do
+137. deplecionamento
+volume de água armazenado em um reservatório.
+desligamento Retirada de operação de equipamento ou instalação por atuação de
+138.
+automático sistema de proteção ou de controle.
+desligamento de Desligamento intempestivo, automático ou manual, ocasionado por
+139.
+emergência uma falha no equipamento ou instalação.
+Desligamento de um componente de serviço, em condições não
+140. desligamento forçado
+programadas.
+Indisponibilidade de uma função transmissão ou parte dela,
+desligamento
+141. programada antecipadamente em conformidade com o estabelecido
+programado
+nos Procedimentos de Rede.
+Endereço na internet: http://www.ons.org.br 21 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Desligamento solicitado com antecedência inferior a 24 (vinte e
+quatro) horas, com relação ao horário do desligamento, ou com
+desligamento de
+antecedência entre 24 (vinte e quatro) horas e 48 (quarenta e oito)
+urgência
+142.
+horas, com relação ao horário do desligamento e sem que seja
+possível ao Operador Nacional do Sistema Elétrico – ONS programar
+as condições operativas do Sistema Interligado Nacional (SIN).
+Condição em que uma usina tem o despacho de geração coordenado,
+estabelecido, programado, supervisionado e controlado pelo ONS nos
+143. despacho centralizado processos de planejamento e programação, operação em tempo real
+e pós operação. São despachadas centralizadamente as usinas do
+Tipo I e Tipo II-A.
+Valor de despacho declarado pelo agente proprietário como
+144. despacho na base
+correspondente à plena disponibilidade de uma usina térmica.
+Desvio, do seu curso normal (rio ou reservatório), da água destinada
+145. desvio de água a um outro curso ou a usos como abastecimento doméstico, irrigação,
+uso industrial.
+Tabela utilizada na operação de reservatório em situação classificada
+diagrama de operação
+como de Emergência, no período de controle de cheias, que indica o
+146. de reservatório em
+valor da defluência mínima a ser implementada e em que é
+situação de emergência
+considerada a vazão afluente e o nível do reservatório verificado.
+Tabela utilizada na operação de reservatório em situação classificada
+diagrama de operação como Normal, que indica a defluência a ser implementada, com base
+147. de reservatório em na vazão afluente e no nível do reservatório verificado, para
+situação normal proporcionar aumento gradual na defluência da usina até o valor da
+restrição estabelecida.
+Representação gráfica do sistema elétrico em que se utilizam linhas e
+148. diagrama unifilar
+símbolos associados aos equipamentos e instalações da rede elétrica.
+Documento resultante de um estudo de planejamento ou
+programação da operação eletroenergética em que se estabelecem
+149. diretriz operativa
+sistemáticas operativas que servirão de subsídio para a elaboração de
+instruções de operação.
+Norma de procedimento, conduta; instrução ou conjunto de
+150. diretriz ou diretiva instruções para a execução de um plano, uma ação, um
+empreendimento.
+Endereço na internet: http://www.ons.org.br 22 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Sistemáticas e orientações de natureza elétrica, energética ou
+diretrizes elétricas e
+151. eletroenergética a serem observados nas etapas de planejamento,
+energéticas
+programação e operação de um sistema elétrico.
+Sinal que identifica o momento em que a unidade de proteção
+comanda o desligamento do equipamento após atuação de uma ou
+152. disparo de proteção mais de suas funções ou lógicas. Normalmente, nos relés digitais
+(Dispositivos Eletrônicos Inteligentes (IED), do inglês Intelligent
+Electronic Devices) este momento é registrado como "trip” geral.
+Porção ou porcentagem do tempo em que os equipamentos
+disponibilidade da
+153. componentes da função estiveram em operação ou aptos a operar
+função
+durante o período de observação, com ou sem restrições.
+Valor máximo que a usina pode gerar efetivamente. Devem ser
+154. disponibilidade líquida levadas em consideração todas as restrições operativas e todas as
+manutenções previstas para o período.
+Duração da Interrupção
+Somatório das durações das interrupções do ponto de controle com
+155. do Ponto de Controle
+duração maior ou igual a 1 minuto no período de apuração.
+(DIPC)
+Duração Máxima da
+Maior duração de interrupção do ponto de controle entre aquelas
+156. Interrupção do Ponto de
+utilizadas no cálculo do indicador DIPC no período de apuração.
+Controle (DMIPC)
+Avaliação da contratação do uso do sistema de transmissão a que
+eficiência da
+estão sujeitos os usuários do sistema de transmissão, apurada pelas
+157. contratação de uso do
+diferenças entre o MUST contratado e a demanda máxima medida
+sistema de transmissão
+por horário e ponto de conexão.
+Nos estudos elétricos: contingência que provoca violação dos limites
+operativos ou corte de carga ou de geração, mesmo após adoção de
+medidas operativas, ou que exige atuação de Sistemas Especiais de
+Proteção (SEP).
+158. emergência
+Na operação em tempo real: situação crítica que pode causar danos
+a pessoas, equipamentos ou instalações, exigindo, portanto,
+providências imediatas, sem comunicação prévia com os centros de
+operação do ONS.
+Endereço na internet: http://www.ons.org.br 23 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Empresa pública vinculada ao MME, cuja finalidade é prestar serviços
+na área de estudos e pesquisas relativos à energia elétrica, petróleo,
+Empresa de Pesquisa gás natural e seus derivados, carvão mineral, fontes energéticas
+159.
+Energética – EPE renováveis e eficiência energética, entre outras, para subsidiar o
+planejamento do setor energético. Foi criada pela Lei 10.847, de 15
+de março de 2004.
+Montantes financeiros relativos ao uso das instalações de conexão
+160. encargos de conexão e/ou pontos de conexão, devidos pelo acessante ao agente conectado
+conforme regulamentação definida pela ANEEL.
+Valor em R$/MWh correspondente à média dos custos referentes à
+manutenção da confiabilidade e da estabilidade do sistema para o
+atendimento do consumo em cada submercado. Esse valor, não
+incluído no preço de liquidação das diferenças, é pago por todos os
+Encargos de Serviços do
+161. agentes, com base em medição de consumo, registrada na CCEE, e na
+Sistema (ESS)
+proporção do consumo, contratado ou não, sujeito ao pagamento
+desse encargo. Os ESS abrangem o ressarcimento aos agentes de
+geração dos custos das restrições de operação bem como do custo da
+prestação de serviços ancilares.
+Valores mensais devidos pelos usuários às concessionárias de
+transmissão, pela prestação dos serviços de transmissão, e ao ONS
+Encargos de Uso do
+pelo pagamento dos serviços prestados, calculados em função das
+162. Sistema de Transmissão
+tarifas e dos montantes de uso do sistema de transmissão
+(EUST)
+contratados, em conformidade com a regulamentação definida pela
+ANEEL.
+Energia disponível em um sistema de reservatórios, calculada a partir
+Energia Armazenada
+163. da energia produzível pelo volume armazenado nos reservatórios em
+(EAR)
+seus respectivos níveis operativos.
+Energia afluente a um sistema de aproveitamentos hidrelétricos,
+Energia Natural calculada a partir da energia produzível pelas vazões naturais
+164.
+Afluente (ENA) afluentes a estes aproveitamentos, em seus níveis a 65% dos volumes
+úteis operativos.
+equipamento Equipamento que associado a um principal compõe uma Função
+165.
+complementar Transmissão.
+equipamento
+166. Equipamentos que compõem as instalações estratégicas.
+estratégico
+Endereço na internet: http://www.ons.org.br 24 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Unidade funcional, completa e distinta de uma instalação, que exerce
+167. equipamento principal função básica na geração, conversão, transmissão ou transformação
+de energia elétrica.
+Grandeza expressa em MW, que define excesso ou deficiência de
+Erro de Controle de geração de uma determinada área de controle num sistema
+168.
+Área (ECA) interligado. Quando positivo significa excesso de geração, enquanto
+que negativo significa deficiência.
+Sistema especial de proteção que objetiva, a partir da detecção de
+Esquema de Controle de uma condição anormal de operação, realizar ação automática com a
+169.
+Emergência (ECE) finalidade de preservar a integridade de equipamentos e linhas de
+transmissão.
+Sistema especial de proteção que objetiva, a partir da detecção de
+Esquema de Controle de
+170. contingências múltiplas nos sistemas, realizar uma ação automática
+Segurança (ECS)
+para evitar a propagação de distúrbios.
+Sistema de proteção que, por meio do desligamento automático e
+Esquema Regional de escalonado de blocos de carga, utilizando relés de frequência,
+171.
+Alívio de Carga (ERAC) minimiza os efeitos de subfrequência decorrentes de perda de
+grandes blocos de geração.
+estabilidade de um Capacidade de um sistema elétrico de potência, em dada condição
+172. sistema de potência ou operativa, retornar a um estado de equilíbrio após ser submetido a
+estabilidade um distúrbio.
+Capacidade de um sistema elétrico de potência, em dada condição
+173. estabilidade transitória operativa, retornar a um estado de equilíbrio quando submetido a
+grandes distúrbios.
+Período do ano hidrológico caracterizado pela maior concentração de
+174. estação chuvosa precipitações, definido para cada região geográfica em função das
+séries históricas de observações.
+Coleta, compilação, tratamento de dados e cálculos de indicadores da
+operação verificada, do desempenho dos sistemas de suporte a
+175. estatística da operação
+operação, das equipes de operação em tempo real, da adequação das
+normas, instruções e programas de operação.
+Endereço na internet: http://www.ons.org.br 25 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Análise e descrição do comportamento do sistema elétrico visando a
+identificar seu desempenho diante de quaisquer tipos de condições
+176. estudos elétricos
+operativas e propor soluções para garantir a qualidade do suprimento
+aos consumidores.
+Diferença entre a evaporação real do lago do reservatório e a
+177. evaporação líquida evapotranspiração real estimada para essa área em condições
+naturais.
+Realização de acionamentos locais, remotos ou por telecomando, nos
+178. execução da operação
+equipamentos de manobra ou nos dispositivos de controle.
+Efeito ou consequência de ocorrência em equipamento ou LT, que
+acarrete sua indisponibilidade operativa em condições não
+179. falha
+programadas e que, por isso, impede o equipamento ou a LT de
+desempenhar suas funções em caráter permanente ou temporário.
+Razão entre a carga de demanda média e a carga de demanda máxima
+180. fator de carga
+ocorridas no mesmo intervalo de tempo especificado.
+Interligação de dois pontos de um ou mais sistemas de potência, já
+181. fechamento de anel
+interligados, obedecendo a determinadas condições.
+Fechamento de disjuntor que interliga circuitos energizados,
+fechamento de
+182. observando-se as condições de sincronismo (frequência, tensão e
+paralelos
+defasagem angular).
+Instalações de transmissão em corrente alternada com elementos de
+Flexible AC Transmission eletrônica de potência e controladores estáticos empregados para
+183.
+Systems (FACTS) melhorar o controle e aumentar a capacidade da transmissão de
+potência dos sistemas.
+184. flicker Ver cintilação.
+185. flutuação de tensão Série de variações de tensão, regulares ou irregulares.
+Grandeza derivada do fluxo radiante emitido por uma fonte luminosa
+186. fluxo luminoso
+e que é percebida pelo olho humano.
+Frequência da
+Número de vezes em que ocorreu interrupção do ponto de controle
+187. Interrupção do Ponto de
+com duração maior ou igual a 1 minuto, no período de apuração.
+Controle (FIPC)
+Endereço na internet: http://www.ons.org.br 26 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+188. frequência de falha Número de vezes em que ocorreram falhas no período de apuração.
+Soma da função unidade geradora e da função transmissão
+Função Conjunto
+189. (transformador elevador da unidade geradora) que vai até a bucha de
+Gerador (FGCG)
+alta tensão do transformador.
+Função de Custo do Função matemática que representa o custo unitário da energia não
+190.
+Déficit (CDEF) suprida, expresso em R$/MWh.
+Soma da Função Conjunto Gerador e dos ativos de conexão dessa
+191. Função Geração (FG)
+função ao sistema de transmissão.
+Conjunto de instalações funcionalmente dependentes, considerado
+Função Transmissão de forma solidária para fins de apuração da prestação de serviços de
+192.
+(FT) transmissão, compreendendo o equipamento principal e os
+complementares.
+É a função transmissão constituída pelo equipamento principal
+transformador de potência ou conversor de frequência e pelos
+Função Transmissão
+193. equipamentos complementares de conexão, limitadores de corrente
+Transformação (FTTR)
+e de aterramento de neutro, reguladores de tensão e defasadores, e
+demais equipamentos associados ao equipamento principal.
+É a função transmissão constituída pelos seguintes equipamentos
+principais: Reator em derivação e compensador série manobráveis
+Função Transmissão
+sob tensão, banco de capacitor em derivação, compensador síncrono
+194. Controle de Reativo
+e compensador estático e pelos seguintes equipamentos
+(FTCR)
+complementares: equipamentos de conexão e transformador de
+potência e aqueles associados ao equipamento principal.
+É a função transmissão constituída pelos seguintes equipamentos
+principais: Malha de aterramento, terreno, sistemas de
+telecomunicações, supervisão e controle comuns ao
+empreendimento, cerca, terraplenagem, drenagem, grama,
+embritamento, arruamento, iluminação do pátio, proteção contra
+Função Transmissão incêndio, sistema de abastecimento de água, esgoto, canaletas,
+195.
+Módulo Geral (FTMG) acessos, edificações, serviços auxiliares, área industrial, sistema de ar
+comprimido comum às funções, transformador de aterramento e de
+potencial e reator de barra não manobrável sob tensão, e
+equipamentos de interligação de barra e barramentos. Tem os
+seguintes equipamentos complementares: equipamentos de conexão
+e aquele associado ao equipamento principal.
+Endereço na internet: http://www.ons.org.br 27 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+É a função transmissão constituída pelo equipamento principal, Linha
+Função Transmissão de Transmissão, e pelos equipamentos complementares:
+196. Linha de Transmissão equipamentos das entradas de LT, reator em derivação, equipamento
+(FTLT) de compensação série não manobrável sob tensão conectado à LT e
+demais equipamentos associados ao equipamento principal.
+Função que se compõe da máquina motriz e do gerador elétrico com
+Função Unidade seus equipamentos complementares, bem como da conexão do
+197.
+Geradora (FGUG) gerador até a bucha de baixa tensão do transformador elevador da
+unidade geradora.
+Generic Object Oriented São mensagens do tipo multicast que carregam informações entre os
+198. Substation Event IED. São responsáveis apenas pelo tráfego de mensagens que
+(GOOSE) informam sobre a atuação de qualquer proteção ou sinal digital.
+geração de energia
+199. Conversão de uma forma qualquer de energia em energia elétrica.
+elétrica
+Ações voltadas para cobrir qualquer deficiência de geração,
+transmissão ou transformação em que a carga a ser atendida supere
+200. gerenciamento da carga a capacidade de suprimento/atendimento da área afetada,
+resultando, portanto, em remanejamentos ou cortes de carga
+previamente estabelecidos para garantia da integridade do sistema.
+Gráfico representativo da variação, no tempo, de diversas
+201. hidrograma
+observações hidrológicas como descargas etc.
+Para a operação dos Agentes de Distribuição, corresponde ao período
+composto pelas 3 horas diárias consecutivas em que ocorre a máxima
+demanda do dia, exceção feita aos sábados, domingos, terça-feira de
+202. horário de ponta
+carnaval, sexta-feira da Paixão, Corpus Christi, dia de finados e os
+demais feriados definidos por lei federal, considerando-se as
+características do seu sistema elétrico.
+horário de ponta para Corresponde ao período compreendido entre às 17h e 22h
+203.
+operação do SIN referenciado ao horário de Brasília
+Período composto pelo conjunto das horas diárias consecutivas e
+204. horário fora de ponta
+complementares àquelas definidas no horário de ponta.
+Endereço na internet: http://www.ons.org.br 28 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Número de horas em que o equipamento, a LT ou a função esteve
+indisponível para realização de manutenção forçada, permanecendo
+efetivamente sob manutenção. Considera-se o início da manutenção
+o momento em que se abre o disjuntor – retirando-se, assim, o
+equipamento ou a LT de operação – e seu término o momento em
+205. horas de reparo
+que é fechado o disjuntor, com a volta da função, do equipamento ou
+da LT à operação. O término das horas de reparo também será
+marcado pelo momento em que o agente informa que terminou a
+intervenção e o centro de operação comunica que não colocará o
+equipamento ou LT em operação.
+Número de horas em que o equipamento, ou a LT ou a função opera
+com capacidade total ou limitada. Para equipamentos não rotativos
+206. horas de serviço
+consideram-se as horas disponíveis para operação como horas de
+serviço.
+Número de horas em que o equipamento, ou a LT ou a função está
+207. horas disponíveis
+apto a operar com capacidade total ou limitada.
+Número total de horas do período considerado. Para cálculo de
+208. horas do período indicadores em bases anuais, o período estatístico é de 8.760 horas
+para anos normais e 8.784 horas para anos bissextos.
+209. ilhamento Separação elétrica de uma parte do sistema.
+Separação automática de uma parte do sistema para que se possa
+210. ilhamento programado
+obter e manter o equilíbrio entre as cargas e a geração.
+nova intervenção em uma mesma Função Transmissão já
+211. inclusão de serviço
+desenergizada para uma determinada intervenção.
+relação quantitativa que permite avaliar o desempenho de um
+indicador de
+212. processo por meio da comparação com valores de referência
+desempenho
+definidos.
+Estado de uma instalação ou equipamento que não está apto para
+indisponibilidade
+213. entrar em serviço, por falha ou interrupção de emergência em
+forçada
+condições não programadas.
+Porção ou porcentagem do tempo em que um equipamento, LT ou
+indisponibilidade para função ficou fora de operação por falha ou interrupção de emergência
+214.
+manutenção forçada com posterior intervenção no equipamento, LT ou função em
+condições não programadas
+Endereço na internet: http://www.ons.org.br 29 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Porção ou porcentagem de tempo em que um equipamento, LT ou
+indisponibilidade para
+função ficou fora de operação, resultante da execução de intervenção
+215. manutenção
+programada, conforme prazos de solicitação constantes nos
+programada
+Procedimentos de Rede.
+Situação na qual uma ou mais unidades geradoras de uma usina não
+Inexistência de
+têm nenhum tipo de relacionamento com o ONS, sendo essa situação
+216. relacionamento com o
+atestada por meio de documento denominado Declaração de
+ONS
+Inexistência de Relacionamento (DIR) com o ONS.
+inflexibilidade de
+Valor de despacho obrigatório pelo ONS de uma usina termoelétrica,
+217. geração de usinas
+declarado pelo agente proprietário para atender requisitos deste.
+termoelétricas
+Situação em que o sistema elétrico de potência não é capaz de manter
+218. instabilidade de tensão em equilíbrio as tensões em todas as suas barras depois de distúrbio
+causado por alguma condição operativa.
+Instalações e equipamentos para o atendimento de um ou mais
+219. instalações de conexão
+usuários com a finalidade de acesso ao sistema.
+instalações de interesse
+exclusivo e caráter Instalações de uso individual de cada usina destinadas à interligação
+220.
+individual das centrais do empreendimento às instalações de conexão compartilhadas (ICG).
+de geração (IEG)
+instalações de interesse Instalações definidas na outorga do empreendimento, em caráter
+221.
+restrito de gerador exclusivo ou compartilhado.
+instalações da Rede Instalações de transmissão classificadas segundo regras e condições
+222.
+Básica estabelecidas pela ANEEL.
+Instalações que se destinam à formação da Rede Básica, as de âmbito
+instalações de próprio do concessionário ou permissionário de distribuição, as de
+223.
+transmissão interesse exclusivo das centrais de geração e as destinadas a
+interligações internacionais.
+instalações de Instalações de transmissão integrantes de concessão do serviço de
+224.
+transmissora transmissão de energia elétrica.
+Endereço na internet: http://www.ons.org.br 30 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+instalação de
+Instalações de transmissão, não integrantes da Rede Básica,
+transmissão de
+destinadas ao acesso de centrais de geração em caráter
+Interesse Exclusivo de
+225. compartilhado à Rede Básica, definidas por chamada pública a ser
+Centrais de Geração
+realizada pela ANEEL e licitadas em conjunto com as instalações de
+para Conexão
+Rede Básica para duas ou mais centrais de geração.
+Compartilhada (ICG)
+Instalações que se forem desligadas por problemas elétricos ou
+destruídas/avariadas por outros motivos, a interrupção de seus
+226. instalações estratégicas serviços pode levar à ocorrência de perda de grandes blocos de carga
+e até mesmo blecautes, cujo impacto social, econômico, político afeta
+a segurança do Estado e da sociedade.
+Autarquia federal, vinculada ao Ministério do Desenvolvimento,
+Indústria e Comércio Exterior, responsável pela execução das políticas
+Instituto Nacional de nacionais de metrologia e de qualidade, cujo objetivo é fortalecer as
+227. Metrologia, Qualidade e empresas nacionais e aumentar sua produtividade por meio da
+Tecnologia – INMETRO adoção de mecanismos destinados à melhoria da qualidade de
+produtos e serviços. O INMETRO foi criado pela Lei 5.966, de 11 de
+dezembro de 1973.
+Documentos em que se estabelecem os procedimentos detalhados
+instruções de operação
+228. para a coordenação, supervisão, controle, comando e execução da
+(IO)
+operação.
+Documento que estabelece as características e os requisitos técnicos
+229. instrumento técnico básicos das instalações a serem licitadas (Anexo Técnico) ou os
+requisitos necessários para autorização da ANEEL.
+integração Complementação energética obtida com a interligação elétrica de
+230.
+eletroenergética sistemas.
+São dispositivos multifuncionais baseados em microprocessadores
+Intelligent Electronic utilizados para proteção, controle, automação,
+231.
+Devices (IED) medição e monitoramento dos sistemas elétricos, permitindo a
+concepção de lógicas de atuação, de intertravamento e bloqueio.
+intercâmbio de energia Fluxo de energia elétrica entre os sistemas elétricos de duas ou mais
+232.
+elétrica concessionárias.
+Soma algébrica dos fluxos de potência nas interligações, sendo
+intercâmbio líquido de
+233. considerado como positivo o intercâmbio no qual o fluxo de potência
+uma área de controle
+está saindo da área.
+Endereço na internet: http://www.ons.org.br 31 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Todo e qualquer conjunto de linhas de transmissão que interliga duas
+234. interligação elétrica
+ou mais áreas do SIN que possuam blocos de geração instalada.
+interligação Instalação de transmissão de energia elétrica destinada à interligação
+235.
+internacional internacional.
+Intervenções nas quais, pela natureza dos serviços, mesmo após
+intervenção com risco adotadas todas as sistemáticas de segurança da manutenção, existe
+236. de desligamento um risco de desligamento acidental provocado pela ação da
+acidental manutenção, que justifica preparar o sistema para o possível
+desligamento intempestivo do equipamento.
+Intervenção, programada ou não, em equipamento ou linha de
+transmissão para correção de falhas ou defeitos a fim de restabelecer
+237. intervenção corretiva
+a condição satisfatória de operação desse equipamento ou linha de
+transmissão.
+Intervenção para controle, conservação ou restauração de um
+intervenção preventiva
+238. equipamento ou linha de transmissão, a fim de mantê-lo(a) em
+(MOP)
+condições satisfatórias de operação.
+Entidade binacional criada a partir da assinatura do Tratado de Itaipu,
+239. Itaipu Binacional em 1973, para gerenciar a Usina de Itaipu, empreendimento
+desenvolvido pelo Brasil e pelo Paraguai, no Rio Paraná.
+Localização inferior, ou seja, em cotas mais baixas. No caso de águas
+240. jusante correntes (rios, córregos e arroios) são os pontos situados no sentido
+de sua foz, ou seja, no sentido da corrente, rio abaixo.
+Complemento de carga liberado pelos centros de operação do ONS
+liberação de carga
+241. para ser religada na fase coordenada de recomposição da Rede de
+adicional
+Operação depois de perturbação.
+Processo administrativo realizado pelo órgão ambiental competente
+– federal, estadual ou municipal – para licenciar a operação da
+licença ambiental de
+242. instalação, da ampliação ou da modificação que utilize recursos
+operação
+naturais, seja potencialmente poluidora ou possa causar degradação
+ambiental.
+Máximo fluxo de potência entre fontes ou áreas de geração, ou
+243. limite de estabilidade máxima potência consumida em determinada região, para que o
+sistema possa manter a estabilidade.
+Endereço na internet: http://www.ons.org.br 32 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Valor numérico, supervisionado e controlado, relacionado a
+parâmetro de sistema e de instalações, que estabelece nível de
+244. limite operativo confiabilidade ou suportabilidade operativa do sistema
+eletroenergético, do sistema hidráulico, das linhas de transmissão,
+equipamentos ou máquinas.
+Valores máximos que podem ser atingidos no sistema, durante a
+245. limites globais
+operação, com todas as fontes de perturbação ativadas.
+Valores máximos que podem ser introduzidos no sistema por um
+246. limites individuais
+único acessante.
+Trecho compreendido entre a primeira e a última torre (ou pórtico)
+Linha de Transmissão
+247. entre duas instalações, excluindo-se os barramentos de entrada das
+(LT)
+subestações.
+São transformadores para instrumentos que possuem saída
+Low Power Instruments secundária de baixa potência nominal para aplicações de medição e
+Transformers (LPIT) - proteção, com características lineares de desempenho (por não
+248. transformadores de possuírem núcleo de ferro não estão sujeitos à saturação ou
+instrumentos de baixa fenômenos de ferrorressonância). Nos LPIT o processamento de
+potência sinais é realizado por componentes eletrônicos ativos, e o sinal de
+saída pode ser de natureza analógica ou digital.
+249. LT-CA Linha de transmissão aérea em corrente alternada.
+250. LT-CC Linha de transmissão aérea em corrente contínua.
+251. LTS-CA Linha de transmissão subterrânea em corrente alternada.
+Linha de transmissão composta por partes aérea e subterrânea em
+252. LTAS-CA
+corrente alternada.
+Protocolo de endereçamento Unicast, de supervisão e aquisição de
+Manufacturing Message
+253. dados, pertencente às camadas de Sessão, Apresentação e Aplicação
+Specification – MMS
+do Modelo de Referência OSI (Open System Interconnection).
+Serviço, programado ou não, executado em equipamento ou linha de
+254. manutenção corretiva transmissão com a finalidade de corrigir falhas ou defeitos para
+restabelecer sua condição satisfatória de operação.
+Endereço na internet: http://www.ons.org.br 33 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Serviço não programado, para a correção de falha, executado em
+equipamento ou linha de transmissão para restabelecer condições
+satisfatórias de operação. A manutenção de emergência é realizada
+quando houver necessidade de intervenção imediata, sem tempo
+manutenção de
+255. hábil para comunicação com o centro de operação do ONS com o qual
+emergência
+o agente se relaciona. Com a manutenção de emergência, evitam-se
+riscos para a integridade física de pessoas, para a instalação, para o
+SIN ou para o meio ambiente, bem como danos em equipamentos ou
+linhas de transmissão.
+Serviço executado em equipamento ou linha de transmissão, para a
+correção de defeito, fora dos prazos estabelecidos para os
+desligamentos programados, mas no menor tempo possível em
+relação à próxima manutenção preventiva. A manutenção de
+manutenção de
+256. urgência é realizada quando não há necessidade de intervenção
+urgência
+imediata. Com sua execução, previamente comunicada aos centros
+de operação do ONS, evitam-se riscos para a integridade física de
+pessoas, para a instalação, para o SIN ou para o meio ambiente, bem
+como danos em equipamentos ou linhas de transmissão.
+Serviço decorrente de desligamento forçado, executado em
+257. manutenção forçada equipamento ou linha de transmissão para restabelecer sua condição
+satisfatória de operação.
+Serviço programado executado em equipamento ou linha de
+transmissão para manter sua condição satisfatória de operação e
+258. manutenção preventiva
+prevenir contra possíveis ocorrências que acarretem a sua
+indisponibilidade.
+Serviço executado em equipamento ou linha de transmissão para
+manutenção
+259. cumprir programa de manutenção preditiva, preventiva ou corretiva
+programada
+ou para atender a uma situação de urgência.
+Distância mínima em MVA para um ponto de operação do sistema
+margem de segurança
+260. onde há risco para a estabilidade de tensão. Diz-se também margem
+de tensão
+de estabilidade de tensão.
+Mecanismo de Processo de compartilhamento dos riscos hidrológicos associados à
+261. Realocação de Energia otimização eletroenergética do SIN, no que concerne ao despacho
+(MRE) centralizado das unidades de geração de energia elétrica.
+Endereço na internet: http://www.ons.org.br 34 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Instalação, substituição ou reforma de equipamentos em instalações
+melhoria (em
+de transmissão existentes, ou a adequação destas instalações,
+instalações sob
+262. visando manter a prestação de serviço adequado de transmissão de
+responsabilidade de
+energia elétrica, conforme disposto na Lei n° 8.987, de 13 de fevereiro
+transmissora)
+de 1995.
+Instalação, substituição ou reforma de equipamentos em instalações
+pertencentes a central geradora, para manter a regularidade,
+melhoria (em
+continuidade, segurança e atualidade do serviço de geração de
+263. instalações de
+energia elétrica, compreendendo a modernidade das técnicas e a
+geradores)
+conservação das instalações em conformidade com o ato de outorga,
+os Procedimentos de Rede e demais atos normativos.
+Agentes de geração com usinas com despacho centralizado, agentes
+de transmissão, agentes de importação ou de exportação com uso do
+membros associados do
+264. sistema de transmissão, agentes de distribuição integrantes do SIN e
+ONS
+consumidores enquadrados nos artigos 15 e 16 da Lei nº 9074, de 7
+de julho de 1995, que acessam a Rede Básica.
+Documento emitido em caráter de urgência, em decorrência de
+configurações provisórias, imprevistas ou de ocorrências na Rede de
+265. mensagem operativa
+Operação, para complementar, incluir ou retificar temporariamente
+instruções de operação vigentes.
+Equipamento preconizado pela norma IEC61850-9-2 para prover
+dados em uma rede de IED (Intelligent Electronic Devices) fornecendo
+sinais contínuos (sinais analógicos) e sinais discretos (estados ou
+sinais digitais), através de uma rede Ethernet em fibra óptica ou
+convencional, dependendo das características e do ambiente
+266. Merging Units (MU)
+aplicado, conhecida como barramento de processo. É constituída,
+basicamente, por um circuito elétrico que recebe valores analógicos
+de tensão e corrente, um conversor analógico-digital que realiza a
+amostragem dos sinais e um processador que padroniza o sinal digital
+para trabalhar em conformidade com a norma IEC 61850.
+Órgão do Poder Executivo responsável por assegurar o cumprimento
+Ministério de Minas e
+267. das diretrizes e políticas governamentais para o setor de energia
+Energia – MME
+elétrica. Foi criado pela Lei n° 8.422, de 13 de maio de 1992.
+Endereço na internet: http://www.ons.org.br 35 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Classificação das usinas em função das necessidades de
+relacionamento com o Operador para que este receba as informações
+modalidade de
+268. que efetivamente necessita para atuar e executar de suas atribuições.
+operação de usinas
+As modalidades de operação de usinas são classificadas em: Tipo I,
+Tipo II e Tipo III, conforme Procedimentos de Rede.
+Modelo matemático de simulação de processos que busca
+representar as incertezas inerentes a esses processos, utilizando, para
+269. modelo estocástico
+isso, conceitos de probabilidade e estatística, bem como a
+dependência temporal de suas variáveis.
+Contextos típicos em que se enquadram os defeitos ou não-
+conformidades do sistema, os quais, para efeito de análise de
+270. modos de falha
+confiabilidade, são os seguintes: continuidade, adequação e
+segurança.
+Localização superior, ou seja, em cotas mais elevadas. No caso de
+271. montante águas correntes (rios, córregos, arroios), são os pontos situados no
+sentido da nascente, ou seja, no sentido oposto à corrente, rio acima.
+Montantes de Uso do Montantes, em MW, contratados por usuários do sistema de
+272. Sistema de Distribuição distribuição, por ponto de conexão e horário de contratação,
+(MUSD) estabelecidos de acordo com regulamentação da ANEEL.
+Montantes, em MW, de potência média integralizada em intervalos
+Montantes de Uso do
+de 15 minutos contratados por usuários do sistema de transmissão,
+273. Sistema de Transmissão
+por ponto de conexão e horário de contratação, estabelecidos de
+(MUST)
+acordo com regulamentação da ANEEL.
+Ação ou omissão dos agentes de operação ou do ONS em desacordo,
+274. não-conformidade
+total ou parcial, com o estabelecido nos Procedimentos de Rede.
+Nível de água imediatamente a jusante de um aproveitamento
+275. nível de jusante
+hidroelétrico, em geral medido no canal de fuga da usina.
+Nível de água imediatamente a montante de um aproveitamento
+276. nível de montante
+hidroelétrico, em geral medido nas proximidades da barragem.
+Nível a partir do qual é possível iniciar o desvio de água pelo canal de
+277. nível do canal de desvio
+desvio.
+Endereço na internet: http://www.ons.org.br 36 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Nível de água mais elevado para o qual a barragem foi projetada. É
+nível máximo
+278. geralmente fixado como o nível correspondente à elevação máxima,
+maximorum
+quando da ocorrência de cheia de projeto.
+nível máximo operativo Nível máximo de água de um reservatório, para fins de operação
+279.
+normal normal de uma usina hidroelétrica.
+Nível mínimo de água de um reservatório para a operação normal de
+280. nível mínimo operativo
+uma usina hidroelétrica.
+Conjunto de ações voltadas para a elaboração, atualização,
+distribuição e implantação dos documentos de caráter técnico ou
+281. normatização
+processual, utilizados pelos centros de operação para execução da
+operação em tempo real.
+Evento ou ação que leve o SIN a operar fora de suas condições
+282. ocorrência (no SIN)
+normais.
+Operação Comercial Operação de uma FT ou Grupo de FT integrado ao SIN sem pendências
+283.
+com Pendências impeditivas e com Pendências Não Impeditivas Próprias.
+Operação Comercial Operação de uma FT ou Grupo de FT integrado ao SIN sem
+284.
+Definitiva pendências.
+Período no qual uma FT ou Grupo de FT é energizado para que o ONS
+285. Operação em Teste e a transmissora verifiquem o seu comportamento para operação
+integrada ao SIN.
+Situação operacional em que a energia produzida pela unidade
+operação comercial de
+286. geradora está disponibilizada ao sistema, podendo atender aos
+unidade geradora
+compromissos mercantis do agente ou para o seu uso exclusivo.
+Supervisão, comando, execução, análise e estatística da operação das
+instalações integrantes do SIN, bem como na normatização das
+287. operação de instalações
+atividades e procedimentos inerentes à operação dessas instalações,
+os quais devem estar compatíveis com o MPO.
+Programação, normatização, coordenação, supervisão, controle,
+análise e estatística da operação integrada do SIN, com a finalidade
+288. operação do sistema
+de garantir seu funcionamento de forma otimizada, confiável, segura
+e com qualidade.
+Endereço na internet: http://www.ons.org.br 37 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Condição do sistema elétrico na qual existe indisponibilidade de
+operação em equipamentos principais ou linhas de transmissão que provoque, ou
+289.
+contingência possa provocar, violação de limites operativos ou corte de carga. Diz-
+se, também, regime de contingências.
+Ações de coordenação, supervisão e controle de todo o processo
+operacional dos sistemas hidráulicos, energéticos e elétricos,
+operação em tempo realizado em tempo real pelos centros de operação do ONS. Dessas
+290.
+real ações resultam determinações para que os agentes de operação
+efetuem os comandos de supervisão e execução na operação das
+instalações.
+Situação operacional em que as instalações de um usuário ou de uma
+concessionária de transmissão, após concluída a fase de ensaios de
+operação integrada ao
+291. comissionamento sem observação de restrições, obteve a aceitação
+SIN
+técnica por parte do ONS por ter atendido aos requisitos
+estabelecidos nos Procedimentos de Rede.
+Condição do sistema elétrico na qual não existem alterações de
+292. operação normal estado nem violações de faixas e de restrições operativas
+estabelecidas.
+Regime de operação de um equipamento ou instalação de geração
+operação provisória de
+293. que se caracteriza pela existência de pendências na sua implantação,
+uma unidade geradora
+não impeditivas à sua operação integrada ao SIN.
+Profissional que trabalha na operação em tempo real nos centros de
+294. operador do sistema
+operação dos sistemas de potência.
+Pessoa jurídica de direito privado, sem fins lucrativos, mediante
+autorização do Poder Concedente, fiscalizado e regulado pela ANEEL,
+Operador Nacional do a ser integrado por titulares de concessão, permissão ou autorização
+295.
+Sistema Elétrico – ONS e consumidores que tenham exercido a opção prevista nos arts. 15 e
+16 da Lei no 9.074, de 7 de julho de 1995, e que sejam conectados à
+Rede Básica.
+Atendimento aos requisitos do SIN para garantir o menor custo total
+296. otimização energética
+da operação e preservar a segurança da operação elétrica.
+Qualquer indisponibilidade de uma função transmissão não
+297. outros desligamentos
+considerada como desligamento programado.
+Endereço na internet: http://www.ons.org.br 38 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Padrão obtido a partir da quantificação e avaliação de um conjunto
+298. padrão de desempenho de quesitos que traduzem a qualidade do desempenho sistêmico da
+Rede Básica.
+Tipos de eventos climáticos que ocorrem em determinadas áreas do
+299. padrões climáticos globo, durante um longo tempo (na escala de semana a meses), sem
+alterações significativas.
+Parcela equivalente ao duodécimo da Receita Anual Permitida – RAP
+300. Pagamento Base (PB) associada à plena disponibilização das instalações de transmissão que
+compõem uma Função Transmissão (FT).
+Parcela Variável por
+Parcela a ser deduzida do Pagamento Base para compensação por
+301. Atraso na Entrada em
+atraso na entrada em operação de Funções Transmissão (FT).
+Operação (PVA)
+Parcela a ser deduzida do Pagamento Base por desligamentos
+Parcela Variável por
+302. programados ou outros desligamentos para compensação por
+Indisponibilidade (PVI)
+ausência de prestação do serviço.
+Parcela Variável por Parcela a ser deduzida do Pagamento Base de uma Função
+303. Restrição Operativa Transmissão (FT) devido à redução da capacidade operativa da FT
+(PVRO) para compensação por restrição na prestação do serviço.
+Documento emitido pelo ONS no âmbito do processo de solicitação
+de acesso. Contém informações e condições para a realização do
+acesso. O Parecer de Acesso consolida as avaliações técnicas dos
+304. Parecer de Acesso acessos solicitados à Rede Básica, de forma a atender o acessante e
+manter o atendimento aos demais agentes dentro dos requisitos de
+segurança, qualidade e confiabilidade, definidos nos Procedimentos
+de Rede.
+Denominação de um período de tempo determinado em função do
+305. patamar de carga comportamento da carga de energia ativa do SIN, característico para
+dias típicos (dias úteis, sábados, domingos, etc).
+Sanção estabelecida na forma de advertência ou multa, aplicável ao
+306. penalidade agente de operação, em função de não-conformidade por ele
+praticada.
+Endereço na internet: http://www.ons.org.br 39 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Intervalo de tempo correspondente à sequência de vazões do registro
+histórico, no qual o sistema, considerada constante a configuração de
+seu parque gerador, de suas interligações e de seu conjunto de
+307. período crítico reservatórios de armazenamento, passa de seu armazenamento
+máximo (todos os reservatórios cheios) a seu armazenamento
+mínimo (todos os reservatórios vazios), sem reenchimentos totais
+intermediários, atendendo à sua energia firme.
+período de controle de Período em que são alocados volumes de espera nos reservatórios
+308.
+cheia dos aproveitamentos hidroelétricos para controle de cheias.
+Delegação da prestação de um serviço, a título precário, feita pelo
+Poder Concedente, mediante licitação, à pessoa física ou jurídica que
+309. permissão
+demonstre capacidade de desempenho nessa prestação de serviço,
+por sua conta e risco.
+Ocorrência no SIN caracterizada pelo desligamento forçado de um ou
+mais de seus componentes, que acarreta quaisquer das seguintes
+310. perturbação consequências: corte de carga, desligamento de outros componentes
+do sistema, danos em equipamentos ou violação de limites
+operativos.
+Processo cujo objeto é a análise das condições futuras de
+atendimento ao mercado consumidor, com base no conhecimento
+específico requerido e na natureza das variáveis analisadas. Para tal
+planejamento da processo, elaboram-se estudos especiais, analisa-se a proteção e o
+311.
+operação controle do SIN, bem como o desenvolvimento das atividades de
+hidrologia operacional. O planejamento da operação compreende a
+análise energética, elétrica e hidrológica da operação futura em
+diferentes horizontes – plurianual, anual, mensal, semanal e diário.
+Documento elaborado pelos agentes de distribuição bem como pelos
+consumidores livres e potencialmente livres cujas instalações estejam
+conectados à Rede Básica e que deve conter:
+plano de corte manual (i) Prioridade e montantes de carga sujeitos a corte de carga, por
+312.
+de carga (PCMC) subestação do Agente de Distribuição ou Consumidor Livre ou
+Potencialmente livre conectado a Rede Básica; e
+(ii) Prioridade e montantes de carga, sujeitos ao corte de carga, para
+cada ponto de conexão e/ou suprimento à Rede de Operação.
+Endereço na internet: http://www.ons.org.br 40 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Definição das prioridades de alocação de recursos para fazer frente
+política de operação
+313. aos desvios de carga e/ou às diferenças de recursos nos subsistemas
+energética
+do SIN.
+Local da conexão de determinado usuário para efeito do acesso, onde
+314. ponto de conexão devem ser contratados e verificados os MUST para o segmento
+geração ou para o segmento consumo.
+Instalação ou conjunto de instalações na fronteira entre as
+instalações sob responsabilidade de transmissora e os ativos de
+315. ponto de controle
+conexão com os agentes de geração, distribuição e com os
+consumidores livres.
+Ponto onde se localiza o sistema de medição para faturamento (SMF)
+ponto de observação da dos agentes de distribuição, de geração, de importação/exportação e
+316.
+tensão consumidores, conforme designados nos respectivos Contratos de
+Uso do Sistema de Transmissão (CUST).
+Apuração e triagem dos dados da operação; acompanhamento,
+análise e divulgação de informações e de resultados; tratamento
+estatístico dos resultados da operação do sistema, com o objetivo de
+317. pós-operação
+realimentar todos os processos da operação. A pós-operação abrange
+também o armazenamento dos dados resultantes dos processos da
+operação, bem como dos documentos que os registram.
+Valor hipotético de disponibilidade de potência associado à sua
+potência assegurada de
+318. energia assegurada e calculado em conformidade com critérios
+uma usina
+aprovados pela ANEEL.
+Potência máxima obtida em regime contínuo, em determinado
+período, informada pelo agente legalmente responsável pelo
+319. potência disponível equipamento perante a ANEEL. No seu cálculo, são consideradas
+todas as restrições que imponham limitações à potência nominal da
+função.
+Potência máxima obtida em regime contínuo, possível de ser obtida
+nos terminais do gerador elétrico, em que são consideradas todas as
+limitações existentes e respeitados os limites nominais do fator de
+320. potência efetiva
+potência, determinada a partir dos ensaios de comissionamento e ou
+verificação (medições ou ensaios) e nas condições operativas atuais
+do equipamento. Diz-se também potência elétrica ativa nominal.
+Endereço na internet: http://www.ons.org.br 41 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+potência elétrica
+321. nominal ou potência Ver potência efetiva.
+elétrica ativa nominal
+potência que consta no ato de outorga de centrais de geração,
+corresponde à capacidade bruta (kW) que determina o porte da
+potência instalada de
+322. central geradora para fins de outorga, regulação e fiscalização,
+central de geração
+definida pelo somatório das potências elétricas ativas nominais das
+unidades geradoras principais da central.
+potência instalada da potência nominal elétrica, em kW, na saída do inversor, respeitadas
+323. unidade geradora limitações de potência decorrentes dos módulos, do controle de
+fotovoltaica potência do inversor ou de outras restrições técnicas.
+Valor da potência determinada pelo fabricante e constante na placa
+324. potência nominal
+de dados de um equipamento.
+Consiste na consolidação das condições elétricas, energéticas e
+hidráulicas da programação diária da operação, com detalhamento
+325. pré-operação
+dos procedimentos operacionais e das ações a serem desenvolvidas
+na operação em tempo real, no Programa Diário de Operação.
+Documento elaborado pelo ONS com a participação dos agentes que,
+aprovado pela ANEEL, estabelece os procedimentos e os requisitos
+326. Procedimentos de Rede técnicos necessários para o planejamento, para a implantação, para
+o uso e para a operação do SIN, bem como as responsabilidades do
+ONS e dos agentes.
+procedimentos
+327. Ver procedimentos operativos.
+operacionais
+Descrição dos modos de execução e das atividades concernentes aos
+procedimentos
+328. processos de operação do SIN. Diz-se, também, procedimentos
+operativos
+operacionais.
+Pessoa jurídica ou empresas reunidas em consórcio que recebam
+concessão ou autorização do Poder Concedente, para produzir
+329. produtor independente
+energia elétrica destinada ao comércio de toda ou parte da energia
+produzida, por sua conta e risco.
+Endereço na internet: http://www.ons.org.br 42 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Programa de Programa pelo qual se avaliam os resultados obtidos na grandeza
+Comparação energia elétrica – ativa e reativa – dos equipamentos dos
+330.
+Interlaboratorial de participantes desse programa em relação a uma referência rastreada
+Energia Elétrica (PCI) pelo INMETRO.
+Programa que estabelece os valores de potência ativa que cada
+331. programa de geração unidade geradora ou usina deve gerar durante um período
+determinado.
+Programa instituído pelo Poder Concedente, com o objetivo de
+aumentar a participação, no SIN, da energia elétrica produzida por
+Programa de Incentivo
+empreendimentos de produtores independentes autônomos que se
+às Fontes Alternativas
+332. utilizam de fontes alternativas renováveis, tais como a biomassa e as
+de Energia Elétrica –
+fontes eólicas, como também de pequenas centrais hidroelétricas. O
+PROINFA
+PROINFA foi instituído pela Medida Provisória n° 14, de 21 de
+dezembro de 2001.
+Condição em que uma usina, embora não tendo o despacho
+programação centralizado, tem o programa de geração estabelecido de forma
+333.
+centralizada coordenada e centralizada pelo ONS, em bases mensais, semanais e
+diárias.
+Processo que tem como objetivo estabelecer, para os agentes, os
+programas de geração hidráulica e térmica, os intercâmbios de
+energia e demanda, bem como as diretrizes para a operação
+eletroenergética do período a ser programado; deve ser efetuado por
+programação da meio da análise das condições hidroenergéticas e
+334.
+operação hidrometeorológicas, das condições de atendimento ao mercado de
+energia e demanda, considerando-se as condições operativas
+atualizadas dos aproveitamentos hidroelétricos, das usinas
+termoelétricas e do sistema de transmissão, que se constituíram em
+objetos dos estudos de validação elétrica.
+Conjunto de estudos, projetos e especificações de equipamentos ou
+335. projeto básico linhas de transmissão (LT), elaborado pelo agente de transmissão,
+para uma nova instalação.
+Esquema de proteção funcionalmente idêntico à proteção principal e
+336. proteção alternada
+completamente independente desta.
+Endereço na internet: http://www.ons.org.br 43 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Sistema de proteção destinado a atuar quando ocorre falha eventual
+de um outro sistema de proteção. É denominado retaguarda local
+quando está instalado no mesmo local do sistema de proteção a que
+337. proteção de retaguarda
+se destina cobrir. É denominado retaguarda remota quando está
+instalado em local diferente daquele onde está o sistema de proteção
+a que se destina cobrir.
+É o conjunto de dispositivos de proteção integrados aos
+338. proteção intrínseca equipamentos, tais como relés de gás, válvulas de alívio de pressão,
+sensores de temperatura, sensores de nível etc.
+Sistema de proteção destinado a detectar e eliminar falhas que
+ocorram no componente protegido e fornecer proteção adicional
+339. proteção principal para os componentes adjacentes. Sua atuação deve ser coordenada
+com a atuação das proteções dos equipamentos adjacentes por meio
+de retardo de tempo intencional.
+Desempenho do sistema em termos de continuidade do serviço,
+Qualidade de Energia frequência em regime permanente e sob distúrbio, tensão de
+340.
+Elétrica (QEE) atendimento em regime permanente, flutuação, desequilíbrio e
+distorção harmônica de tensão e variação de tensão de curta duração.
+Queda líquida mínima para que a potência efetiva do gerador seja
+341. queda de referência
+atingida com o engolimento máximo da turbina.
+Característica dos resultados de medição ou dos valores de padrão
+342. rastreabilidade que podem ser relacionados a referências constantes em padrões
+nacionais ou internacionais.
+Receita anual que a concessionária de transmissão tem direito pela
+Receita Anual Permitida
+343. prestação de serviço público de transmissão vinculado às instalações
+(RAP)
+de transmissão componentes de seu contrato de concessão.
+Segunda fase da recomposição do sistema interligado em que são
+efetuados, com a coordenação dos centros de operação, o
+recomposição
+344. fechamento de paralelos e anéis entre áreas e regiões, a liberação de
+coordenada
+restabelecimento de carga adicional e a intervenção na recomposição
+fluente, quando de impedimento no processo preferencial.
+Conjunto de ações que objetivam restabelecer a topologia do sistema
+recomposição do ou a entrega da energia elétrica que tenha sido interrompida por
+345.
+sistema desligamentos imprevistos de equipamentos ou linhas de
+transmissão.
+Endereço na internet: http://www.ons.org.br 44 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Primeira fase da recomposição do sistema interligado, em que os
+procedimentos operacionais, previamente estabelecidos, permitem a
+346. recomposição fluente recomposição de áreas de autorrestabelecimento, de forma
+descentralizada, com o mínimo de comunicação das usinas e/ou
+subestações com os centros de operação.
+Equipamentos elétricos do sistema utilizados para o controle de
+tensão, tais como capacitores, reatores, compensadores síncronos,
+compensadores estáticos, reguladores de tensão das unidades
+recursos de controle de
+347. geradoras e tapes dos transformadores com comutador sob carga.
+tensão
+Também são recursos de controle de tensão o remanejamento de
+geração e o redespacho de geração, o gerenciamento da carga e o
+desligamento de linhas de transmissão.
+Instalações de transmissão integrantes do SIN, classificadas segundo
+348. Rede Básica
+regras e condições estabelecidas pela ANEEL.
+Rede fora dos limites da Rede Básica, cuja operação afeta a
+otimização energética do SIN ou os parâmetros de avaliação do
+349. Rede Complementar desempenho elétrico em instalações e equipamentos da Rede Básica,
+que levem a condições operativas fora dos critérios estabelecidos nos
+Procedimentos de Rede.
+União da Rede Básica, da Rede Complementar, das usinas
+despachadas centralizadamente (usinas classificadas na modalidade
+de operação como Tipo I ou Tipo II-A, conforme critérios e sistemática
+350. Rede de Operação
+estabelecidos nos Procedimentos de Rede) e das instalações de
+transmissão de energia elétrica destinadas a interligações
+internacionais conectadas à Rede Básica.
+Parte da Rede de Operação, constituída dos sistemas tronco de
+transmissão aos centros de carga e das redes de transmissão que
+interligam os sistemas tronco de transmissão às instalações da Rede
+Rede de Operação
+351. Básica onde se conectam a maioria das instalações dos agentes de
+Regional
+distribuição ou consumidores ligados diretamente à Rede Básica e a
+outras instalações da Rede de Operação cujos fenômenos repercutem
+predominantemente de forma regional/local.
+Parte da Rede de Operação, constituída das usinas submetidas ao
+Rede de Operação despacho centralizado e parte do sistema de transmissão, utilizada
+352.
+Sistêmica para a integração eletroenergética, cujos fenômenos são
+predominantemente de repercussão sistêmica.
+Endereço na internet: http://www.ons.org.br 45 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Rede de Supervisão e outras instalações que necessitam ser
+representadas nos programas de simulação para garantir que os
+353. Rede de Simulação estudos elétricos desenvolvidos pelo ONS apresentem resultados que
+reproduzam, com grau de precisão adequado, os fenômenos que
+ocorrem no SIN.
+Rede de Operação e outras instalações cuja monitoração via sistema
+354. Rede de Supervisão de supervisão é necessária para que o ONS cumpra suas
+responsabilidades de coordenação e controle do SIN.
+Rede com, pelo menos, um elemento fundamental para o
+355. Rede Incompleta
+desempenho do SIN fora de operação.
+Conjunto de instalações de transmissão e distribuição, na tensão de
+138 kV ou 88 kV, que possua pelo menos uma central geradora
+conectada, incluindo transformadores de potência classificados como
+Rede Básica com tensão secundária de 138 kV ou 88 kV, DIT
+356. Rede Unificada
+compartilhadas ou de uso exclusivo de concessionárias ou
+permissionárias de distribuição e instalações de propriedade das
+concessionárias ou permissionárias de distribuição, separadas entre
+si segundo critérios técnicos.
+Alteração deliberada do valor gerado por uma ou mais usinas do
+357. redespacho de geração
+sistema.
+Instalação, substituição ou reforma de equipamentos em instalações
+reforço (em instalações
+de transmissão existentes, ou a adequação destas instalações, para
+358. sob responsabilidade de
+aumento de capacidade de transmissão, de confiabilidade do Sistema
+transmissora)
+Interligado Nacional – SIN, de vida útil ou para conexão de usuários.
+Substituição de equipamentos ou adequação de instalações
+Reforço (em instalações pertencentes a central geradora, recomendada pelo ONS e motivada
+359.
+de geradores) por alteração da configuração do sistema elétrico ao qual a usina está
+conectada, não passível de previsão por parte do agente de geração.
+Situação em que os parâmetros de controle das condições operativas
+360. regime contínuo do equipamento estão dentro das faixas normais de operação e
+durante a qual a função pode operar de forma permanente.
+361. regime de contingência Ver operação em contingência.
+regime normal de
+362. Ver operação normal.
+operação
+Endereço na internet: http://www.ons.org.br 46 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Condição em que se encontra um sistema quando não há variações
+363. regime permanente
+transitórias nas grandezas elétricas que o caracterizam.
+Documento que regulamenta o relacionamento operacional
+referente a interligações internacionais do Brasil, firmado entre o
+ONS e agentes de outros países, ou supranacionais, definindo regras
+regulamento
+364. e procedimentos a serem adotados pelas partes, na coordenação da
+internacional (RI)
+operação das citadas interligações internacionais. Esse regulamento
+deve atender às diretrizes, premissas e critérios do MPO no que se
+refere à Rede de Operação.
+Relatório emitido por responsáveis pelo Planejamento setorial
+Relatório de Viabilidade
+365. (MME/EPE) que demonstra a competitividade das alternativas com as
+Técnico-Econômica (R1)
+características básicas da instalação e expectativa de seu custo.
+Relatório de
+Relatório emitido por responsáveis pelo Planejamento setorial
+Detalhamento da
+366. (MME/EPE) que estuda e detalha as características técnicas do
+Alternativa de
+empreendimento.
+Referência (R2)
+Relatório de
+Relatório que provê as informações da viabilidade de execução da
+367. Caracterização e Análise
+obra avaliando as possíveis dificuldades sócio-ambientais.
+Sócio-Ambiental (R3)
+Relatório de
+368. Caracterização da Rede Relatório que fornece as características dos equipamentos instalados.
+Existente (R4)
+Dispositivo de controle automático associado aos sistemas de
+proteção das linhas de transmissão, destinado a promover o
+fechamento automático de um ou mais pólos do disjuntor, após sua
+abertura automática decorrente de ação do sistema de proteção, em
+resposta a falha ou defeito na linha de transmissão. O religamento
+automático pode ser tripolar ou monopolar. No religamento tripolar
+369. religamento automático
+as ações de abertura e fechamento do disjuntor são realizadas
+simultaneamente nos três pólos do disjuntor, independente do tipo
+de falta ocorrida na linha de transmissão. No religamento monopolar
+as ações de abertura e fechamento do disjuntor são realizadas apenas
+no pólo da fase em falta para as faltas monofásicas e são tripolares
+para todos os demais tipos de faltas.
+remanejamento de
+370. Transferência de carga entre instalações de um sistema elétrico.
+carga
+Endereço na internet: http://www.ons.org.br 47 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Características mínimas de natureza sistêmica, elétrica ou mecânica
+que os equipamentos devem ter, para assegurar o desempenho dos
+371. requisitos mínimos
+elementos funcionais das instalações, bem como as informações para
+a operação.
+É o montante de uso, em MW, requerido dos sistemas elétricos de
+transmissão ou de distribuição para suprimento a uma ou mais
+unidades consumidoras diretamente conectadas à usina de
+autoprodutor ou de produtor independente de energia, quando da
+372. reserva de capacidade ocorrência de interrupções ou reduções temporárias na geração de
+energia elétrica da referida usina, adicionalmente ao montante de
+uso já contratado de forma permanente para atendimento às
+referidas unidades consumidoras, atendendo a regulamentação
+específica.
+Provisão de reserva de potência ativa efetuada pelas unidades
+373. reserva de potência
+geradoras para realizar o controle de frequência.
+reserva de potência Provisão de reserva de potência ativa efetuada pelas unidades
+374.
+para controle primário geradoras para realizar o controle primário de frequência.
+Provisão de reserva de potência ativa efetuada pelas unidades
+reserva de potência
+geradoras participantes do CAG para realizar o controle secundário
+375. para controle
+de frequência e/ou de intercâmbios líquidos programados de
+secundário
+potência ativa entre áreas de controle.
+Disponibilidade de unidades geradoras para recompor as reservas de
+potência para controles primário e secundário, em caso de
+376. reserva de prontidão
+indisponibilidade ou de redeclaração de geração, se atingido o limite
+de provisão de reserva de potência ativa do sistema.
+Diferença entre a potência total efetiva das unidades geradoras que
+377. reserva girante já se encontram sincronizadas no sistema e a demanda total do
+sistema, num dado momento.
+Limitação operativa em equipamentos, instalações ou sistemas que
+378. restrição operativa
+deve ser considerada num determinado período.
+Limitação temporária de uma instalação disponível para operação,
+restrição operativa
+379. cujo fator limitante temporário exige que a capacidade operativa seja
+temporária
+inferior àquela constante em Anexos do CPST.
+Endereço na internet: http://www.ons.org.br 48 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Conjunto de limitações da operação hidráulica dos aproveitamentos
+hidroelétricos que devem ser respeitadas para que não resultem em
+380. restrições hidráulicas
+danos para a instalação, para a sociedade, para o meio ambiente e
+que não interfiram em outras atividades relacionadas ao uso da água.
+Sinalização enviada pelo terminal de telecomunicações de destino ao
+381. retorno de sinalização terminal de telecomunicações de origem para confirmar o
+recebimento da sinalização.
+Constituem-se por documentos que detalham os processos e de suas
+respectivas atividades das áreas de tempo real, normatização, pré-
+382. rotina operacional (RO)
+operação e pós-operação bem como de alguns processos de caráter
+geral e de infraestrutura.
+A mensagem SV são sinais digitais provenientes de sinais analógicos
+383. Sampled Values (SV) obtidos dos TCs e TPs tradicionais, convertidos e disponibilizados na
+rede pelas Merging Units.
+Período que inicia à 0h de sábado e termina às 24h da sexta-feira
+384. semana operativa
+subsequente.
+Conjunto de valores de dados ordenados cronologicamente em
+385. série histórica intervalos constantes, representativos de um parâmetro ou grandeza
+física.
+Conjunto de valores de dados obtidos por processos matemáticos,
+386. série sintética ordenados cronologicamente em intervalos constantes,
+representativos de um parâmetro ou grandeza física.
+Serviços suplementares aos prestados pelos agentes de geração e de
+distribuição, conforme regulamentação pertinente, que
+compreendem os controles primário e secundário de frequência das
+387. serviços ancilares unidades geradoras, e suas respectivas reservas de potência; a
+reserva de prontidão; o suporte de reativos, o sistema especial de
+proteção (SEP) e o autorrestabelecimento (black start) de unidades
+geradoras.
+Sistemas projetados para atender, em regime normal de operação ou
+em regime de emergência, as necessidades funcionais de instalações
+388. serviços auxiliares
+de geração, instalações de transmissão ou instalações de distribuição,
+para garantir a continuidade operativa dessas instalações.
+Endereço na internet: http://www.ons.org.br 49 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Serviços prestados pela transmissora, através de seus centros de
+operação, com a finalidade de supervisão e controle da operação na
+389. serviços de operação
+Rede de Operação, em sua área de atuação, sob coordenação e
+instrução do ONS, em conformidade com os Procedimentos de Rede.
+Serviço que se utiliza de um conjunto de recursos para transmissão
+de informações disponibilizado para os usuários por meio de sistema
+serviços de de telecomunicações. A geração da informação é de responsabilidade
+390.
+telecomunicações do usuário, e a transmissão e entrega dessas informações ao destino,
+dentro dos padrões definidos pelo usuário, fica a cargo do provedor
+desses serviços.
+serviço de telefonia Serviço de telecomunicação que deve possibilitar comunicação de voz
+391.
+comutada seletiva com utilização exclusivamente operacional.
+Serviço de telecomunicação que implica a existência de comunicação
+serviço de telefonia
+392. de voz dedicada e restrita entre as duas instalações de ponta e deve
+direta
+dispor de sinalização auditiva, com retorno de sinalização.
+Serviços prestados pela transmissora aos usuários relacionados às
+instalações de transmissão sob sua responsabilidade mediante
+393. serviços de transmissão
+administração e coordenação do ONS em conformidade com os
+Procedimentos de Rede e as instruções do ONS, nos termos do CPST.
+Compreende a construção, operação e manutenção de instalações de
+transmissão, incluindo os serviços de apoio e administrativos,
+serviço público de provisão de equipamentos e materiais de reserva, programações,
+394.
+transmissão medições e demais serviços complementares necessários à
+Transmissão de Energia Elétrica, segundo os padrões estabelecidos na
+legislação e regulamentos.
+Indicador da gravidade de uma interrupção de energia representado
+pela divisão do valor da energia interrompida pela demanda máxima
+395. severidade instantânea. O valor numérico obtido é multiplicado por 60 para a
+conversão em minutos. O grau de severidade é então expresso em
+sistema-minuto.
+Conexão especial das blindagens metálicas dos cabos isolados na qual
+as blindagens das três fases são conectadas entre si e solidamente
+aterradas em apenas uma das extremidades em um lance da linha de
+396. single point bonding
+transmissão subterrânea, com o objetivo de eliminar as perdas na
+blindagem metálica resultando na seção ótima do condutor do cabo
+isolado.
+Endereço na internet: http://www.ons.org.br 50 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+relação entre a
+impedância de fonte e a É definida por meio da divisão da impedância da fonte atrás do ponto
+397.
+impedância da linha de aplicação da proteção pela impedância total da LT protegida.
+(SIR)
+Sistema de Coleta de Sistema de coleta de dados de energia da CCEE que faz a varredura
+398. Dados de Energia automática dos valores de medição e de qualidade de energia elétrica
+(SCDE) dos agentes da CCEE.
+Instalações e equipamentos pertencentes a uma concessionária ou
+399. sistema de distribuição
+permissionária de distribuição.
+Sistema composto por medidores principal e de retaguarda, por
+Sistema de Medição transformadores para instrumentos (transformadores de potencial e
+400.
+para Faturamento (SMF) de corrente), por canais de comunicação entre os agentes e a CCEE, e
+por sistemas de coleta de dados de medição para faturamento.
+Conjunto de equipamentos e acessórios destinados a realizar a
+proteção em caso de falhas elétricas, tais como curtos-circuitos, e de
+outras condições anormais de operação dos componentes de um
+401. sistema de proteção sistema elétrico. São componentes dos sistemas de proteção os
+transformadores de instrumentação, os dispositivos eletrônicos
+inteligentes (IED), contatos auxiliares e os canais de comunicação
+(meios físicos e equipamentos) utilizados pelos IED de proteção.
+Destina-se a atuar quando de eventual falha de outro sistema de
+proteção. Quando esse sistema está instalado no mesmo local do
+sistema de proteção de
+402. sistema de proteção a ser coberto, trata-se de retaguarda local;
+retaguarda
+quando está instalado em local diferente daquele onde está o sistema
+de proteção a ser coberto, trata-se de retaguarda remota.
+Conjunto de reservatórios de uma mesma bacia hidrográfica,
+formado por um ou mais reservatórios de usinas Tipo I e reservatórios
+de usinas hidroelétricas Tipo II-B e Tipo III, cuja operação hidráulica
+sistema de reservatórios afete ou seja afetada pela operação de usinas simuladas nos modelos
+403.
+para controle de cheias energéticos pelo ONS, que apresenta uma das seguintes
+características: restrição de vazão máxima a jusante do conjunto, com
+correspondente alocação de volumes de espera; e restrição de nível
+máximo devido a remanso.
+Endereço na internet: http://www.ons.org.br 51 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Conjunto de equipamentos que, mediante aquisição automática e
+sistema de supervisão e processamento de dados, fornece informações constantemente
+404.
+controle atualizadas a serem utilizadas pelo operador do sistema na supervisão
+e controle da operação.
+Instalações e equipamentos de transmissão integrantes da Rede
+405. sistema de transmissão
+Básica e das Demais Instalações de Transmissão (DIT).
+Sistema de proteção automático projetado para detectar condições
+anormais pré-determinadas do sistema e tomar ações corretivas,
+Sistema Especial de
+406. após o isolamento de componentes em falha, para manter a
+Proteção (SEP)
+confiabilidade do sistema. Portanto estes sistemas de proteção são
+preventivos e atuam em função da contingência planejada.
+Sistema Interligado Instalações responsáveis pelo suprimento de energia elétrica a todas
+407.
+Nacional (SIN) as regiões do país, interligadas eletricamente.
+408. sistema supervisionado Ver Rede de Supervisão.
+Indicador de severidade para o desempenho de um sistema. Exprime
+409. sistema-minuto a duração equivalente de uma interrupção fictícia que ocorreria em
+um sistema sob análise, em condições de ponta de carga.
+Operação de um equipamento com carregamento acima de sua
+410. sobrecarga
+capacidade nominal.
+Elevação do nível do reservatório acima de seu nível máximo
+operativo normal, por meio da abertura parcial de todas as comportas
+411. sobrecarga induzida do vertedouro de superfície, permitida em alguns aproveitamentos
+que possibilitam volume adicional para controle de cheias sem
+comprometer a segurança do aproveitamento.
+Requerimento acompanhado de dados e informações necessários
+para avaliação técnica do acesso, a partir da qual são definidas as
+412. solicitação de acesso
+condições de acesso. Em caso de acesso à Rede Básica, a solicitação
+de acesso é enviada ao ONS ou à concessionária de transmissão.
+solicitante de Agente de operação, responsável pela emissão dos pedidos de
+413.
+intervenção intervenção na Rede de Operação.
+Endereço na internet: http://www.ons.org.br 52 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Parte de um sistema de potência que compreende as extremidades
+de linha de transmissão e/ou de distribuição, com os respectivos
+dispositivos de manobra, controle e proteção e que abrange as obras
+414. subestação
+civis e estruturas de montagem. Pode também incluir
+transformadores, equipamentos conversores e/ou outros
+equipamentos.
+subestação de uso compartilhado que recebe energia proveniente de
+415. subestação coletora duas ou mais centrais de geração, definida nas outorgas dos
+empreendimentos.
+Subdivisão do sistema interligado que, por razões energéticas, é
+definida em função da homogeneidade hidrológica, considerando
+que a representação agregada ou individualizada de seus
+reservatórios e de suas afluências não apresente distorções
+416. subsistemas
+significativas para fins de simulação da operação eletroenergética,
+e/ou em função de ter sua fronteira limitada em relação a outras
+subdivisões pela existência de limites de intercâmbio restritivos em
+relação às mesmas.
+Subdivisões do sistema interligado, correspondentes a áreas de
+mercado, para as quais são estabelecidos preços diferenciados e cujas
+417. submercados de energia
+fronteiras são definidas em função da presença e duração de
+restrições relevantes de transmissão.
+Observação do estado atual do sistema e da tendência de mudança
+418. supervisão da operação desse estado bem como no acompanhamento das ações de controle,
+comando e execução da operação.
+Tarifa de remuneração, estabelecida pela ANEEL, para o pagamento
+Tarifa de Serviços do serviço de suporte de reativos, provido por unidade geradora
+419.
+Ancilares (TSA) quanto operando na situação de compensador síncrono, de acordo
+com as ordens de despacho do ONS.
+Índice utilizado em modelos matemáticos para atualização
+420. taxa de desconto econômica de custos futuros para uma data de referência (valor
+presente).
+Expressão da incidência de falhas e desligamentos de emergência nas
+taxa de desligamento
+421. horas de serviço de uma função, de um equipamento ou de uma LT,
+forçado
+no período considerado, referida para um ano padrão de 8.760 horas.
+Endereço na internet: http://www.ons.org.br 53 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Expressão da incidência de falhas nas horas de serviço de uma LT, de
+taxa de falha (na
+um equipamento ou de unidades pertencentes a um mesmo
+422. perspectiva da
+conjunto, no período considerado, referida para um ano padrão de
+manutenção)
+8.760 horas.
+Período de tempo durante o qual o equipamento, função ou sistema
+423. tempo de exposição
+está em operação e, portanto, exposto a um evento de falha.
+Tempo máximo necessário para que o agente responsável por um
+equipamento ou linha de transmissão possa interromper uma
+intervenção para manutenção e retornar para a operação em
+tempo de retorno à
+424. condições previamente comunicadas ao centro de operação. Nesse
+operação
+tempo devem estar incluídas as atividades operativas (retirada de
+aterramentos, bloqueios e manobras para energização ou
+sincronização).
+tempo de viagem da Tempo de passagem de uma partícula de água ou de uma onda, de
+425.
+água um ponto dado a outro a jusante, num canal aberto.
+Tempo médio para reparo ou substituição utilizado pela equipe de
+manutenção do agente para que o equipamento ou linha de
+426. tempo médio de reparo
+transmissão volte a desempenhar as funções para as quais foi
+projetado.
+Ações de coordenação, supervisão, controle, comando e execução da
+427. tempo real operação adotadas pelas equipes de operação, no sistema
+eletroenergético, durante a realização da operação.
+Termo de Liberação documento que autoriza, a partir da data especificada, a Operação
+428.
+Definitiva (TLD) Comercial Definitiva das FT ou Grupo de FT discriminados.
+Termo de Liberação documento que autoriza, a partir da data especificada, a Operação
+429.
+com Pendências (TLP) Comercial com Pendências das FT ou Grupo de FT discriminados
+documento que, a partir da data especificada, dá o direito ao
+recebimento de parcela de Receita Anual Permitida (RAP) das FT ou
+Termo de Liberação de
+430. Grupo de FT discriminados, quando houver Pendências Impeditivas
+Receita (TLR)
+de Terceiros ou Pendências Impeditivas de Caráter Sistêmico e não
+houver Pendências Impeditivas Próprias.
+documento que autoriza a transmissora a executar a Operação em
+Termo de Liberação
+431. Teste sem direito a recebimento de receita das FT ou Grupo de FT
+para Teste (TLT)
+discriminados.
+Endereço na internet: http://www.ons.org.br 54 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Valor eficaz de tensão para o qual o sistema é projetado, expresso em
+432. Tensão Nominal (TN)
+volts ou quilovolts.
+Tensão Nominal de Valor eficaz de tensão pelo qual o sistema é designado, expresso em
+433.
+Operação (TNO) volts ou quilovolts.
+Estrutura que controla a captação de água para as turbinas em usina
+434. tomada de água
+hidroelétrica.
+Conduto de escoamento de água que vai da saída da turbina ao canal
+435. tubo de sucção
+de fuga.
+Unidade geradora Módulos fotovoltaicos associados a um inversor, de modo que o
+436. fotovoltaica número de unidades geradoras da central seja igual ao número de
+(equivalente) inversores que nela operarão.
+Equipamento instalado entre a tomada de água, o tubo de sucção e a
+unidade geradora
+437. bucha de baixa tensão do transformador elevador. Considera-se a
+hidráulica
+bucha de baixa tensão pertencente ao transformador elevador.
+Equipamento instalado entre o sistema de suprimento de
+unidade geradora combustível e a bucha de baixa tensão do transformador elevador.
+438.
+térmica Considera-se a bucha de baixa tensão pertencente ao transformador
+elevador.
+unidade geradora sob Unidade geradora ou usina que participa do processo de CAG
+439.
+CAG recebendo sinais de telecontrole de um centro de operação do ONS.
+Determinação da produção de energia de forma individualizada por
+440. Unit commitment
+unidade geradora, atendendo a restrições operativas.
+Situação anormal que pode causar danos a pessoas, a equipamentos
+ou a instalações ou desligamentos indesejados e que exige, portanto,
+441. urgência
+providências, o mais breve possível, niveladas previamente com os
+centros de operação do ONS.
+Usina hidroelétrica que possui reservatório com volume útil suficiente
+apenas para prover regularização diária ou semanal, ou que utiliza
+442. usina a fio de água
+diretamente a vazão afluente do aproveitamento. Também chamada
+de usina com reservatório de compensação.
+Empreendimento para produção de energia elétrica a partir da
+443. usina eólica
+energia cinética do vento. Diz-se também Central Geradora Eólica
+Endereço na internet: http://www.ons.org.br 55 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+Usina na qual a energia elétrica é obtida por conversão da energia
+444. usina hidroelétrica
+potencial e cinética da água.
+Usina hidroelétrica que dispõe de um reservatório a montante e um
+reservatório a jusante e é equipada com unidades geradoras
+445. usina reversível
+reversíveis para operar em ciclos de geração de energia elétrica ou de
+bombeamento da água turbinada.
+Usina elétrica na qual a energia elétrica é obtida por conversão de
+446. usina termoelétrica
+energia térmica.
+Uso da água - para irrigação, criação animal e abastecimentos urbano,
+447. uso consuntivo da água rural e industrial - que provoca diminuição dos recursos hídricos
+disponíveis.
+Utilização de recursos hídricos por usuários outros que não os do
+448. uso múltiplo da água
+setor elétrico.
+Aquele que celebra contrato de uso, conforme regulamentação da
+449. usuário
+ANEEL.
+Vazão que chega a um aproveitamento hidroelétrico ou a uma
+450. vazão afluente
+estrutura hidráulica.
+451. vazão de restrição Vazão correspondente a uma restrição hidráulica.
+Vazão de água destinada ao conjunto de atividades em que o seu uso
+452. vazão de uso consuntivo provoca uma diminuição dos recursos hídricos disponíveis, como
+irrigação, criação animal e abastecimentos urbano, rural e industrial.
+Vazão que sai de um aproveitamento hidroelétrico ou de uma
+453. vazão defluente
+estrutura hidráulica. Diz-se, também, defluência.
+Vazão desviada do seu curso normal (rio ou reservatório) destinada a
+454. vazão derivada um outro curso ou a usos como a irrigação, o abastecimento
+doméstico ou industrial.
+Vazão que ocorreria em uma seção do rio se não houvesse, a
+montante, ações antrópicas na bacia, como a regularização de
+reservatórios, as transposições de vazão e as captações para diversos
+455. vazão natural
+fins. A vazão natural proveniente de toda a bacia a montante é
+denominada vazão natural total. Se proveniente de bacia
+incremental, é chamada de vazão natural incremental.
+Endereço na internet: http://www.ons.org.br 56 / 57
+Procedimentos de Rede - Módulo 1 – Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Glossário dos Procedimentos de Rede 1.2 Procedimental 2024.06 17/06/2024
+Item Termo Definição
+456. vazão turbinada Vazão que passa através das turbinas de uma usina hidroelétrica.
+Vazão liberada por um reservatório através de vertedouros de
+457. vazão vertida
+superfície e/ou de descarregadores de fundo.
+Estrutura hidráulica destinada a escoar água de um canal ou
+reservatório. É denominado vertedouro livre quando o escoamento
+458. vertedouro
+não é afetado por submergência ou pelas águas de jusante. Diz-se,
+também vertedor.
+Parte do volume útil de um reservatório, abaixo do nível máximo
+operativo normal, mantido vazio para ser utilizado no controle de
+459. volume de espera
+cheias. Esse volume é determinado no planejamento anual do
+controle de cheias.
+volume do canal de Valor de volume do reservatório, correspondente ao nível a partir do
+460.
+desvio qual é possível iniciar o desvio de água pelo canal de desvio.
+volume máximo
+461. Volume do reservatório que fica abaixo do nível máximo maximorum.
+maximorum
+Volume do reservatório que fica abaixo do nível mínimo operativo
+462. volume morto
+normal.
+Volume do reservatório compreendido entre o nível máximo
+463. volume útil
+operativo normal e o nível mínimo operativo normal.
+Endereço na internet: http://www.ons.org.br 57 / 57

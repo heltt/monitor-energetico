@@ -1,0 +1,70 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 5.6-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 5.6-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 5.6
+Operação em contingência
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação em contingência 5.6 Responsabilidades 2020.12 01/01/2021
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Centro Nacional de Operação do Sistema – CNOS........................................................................3
+3.2. Centros de Operação do Sistema – COSR......................................................................................3
+3.3. Agentes de operação.....................................................................................................................3
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIAS...................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação em contingência 5.6 Responsabilidades 2020.12 01/01/2021
+1. OBJETIVO
+1.1. Estabelecer as responsabilidades, produtos e as etapas do processo para operação do sistema em
+regime de contingências na Rede de Operação.
+2. PRODUTOS
+2.1. Não há produtos estabelecidos neste documento.
+3. RESPONSABILIDADES
+3.1. Centro Nacional de Operação do Sistema – CNOS
+(a) Coordenar, supervisionar e controlar as ações necessárias para manutenção da segurança operativa
+da Rede de Operação Sistêmica, quando ocorrer contingências na Rede de Operação.
+(b) Coordenar, supervisionar e controlar as ações necessárias para o retorno da Rede de Operação
+Sistêmica à condição normal de operação.
+(c) Informar aos Centros de Operação do Sistema – COSR sobre as contingências na Rede de Operação
+Sistêmica.
+3.2. Centros de Operação do Sistema – COSR
+(a) Coordenar, supervisionar e controlar as ações necessárias para manutenção da segurança operativa
+da Rede de Operação Regional, quando ocorrer contingências na Rede de Operação.
+(b) Supervisionar e controlar as ações necessárias para o retorno da Rede de Operação Sistêmica à
+condição normal de operação.
+(c) Coordenar, supervisionar e controlar as ações necessárias para o retorno da Rede de Operação
+Regional à condição normal de operação.
+(d) Informar aos agentes de operação sobre as restrições da Rede de Operação em função das
+contingências.
+3.3. Agentes de operação
+(a) Supervisionar, comandar e executar as ações operativas, determinadas pelo COSR com o qual se
+relacionam, necessárias para o restabelecimento das condições normais de operação do sistema.
+(b) Informar ao COSR com o qual se relacionam se o equipamento está liberado para retornar à
+operação ou se é necessário inspecioná-lo.
+(c) Informar ao COSR com o qual se relacionam as alterações na configuração da Rede de Operação
+com risco potencial para seus equipamentos.
+(d) Informar imediatamente ao COSR com o qual se relacionam as restrições operativas e as alterações
+nos limites operativos de seus equipamentos em função dos eventos relacionados à contingência.
+(e) Informar ao COSR com o qual se relacionam as informações preliminares relativas às proteções
+atuadas que levaram ao desligamento dos seus equipamentos.
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 5 - Operação do Sistema
+Nome Submódulo Tipo Revisão Vigência
+Operação em contingência 5.6 Responsabilidades 2020.12 01/01/2021
+4. PRAZOS
+4.1. Não há prazos neste documento.
+5. REFERÊNCIAS
+5.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 4 / 4

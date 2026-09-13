@@ -1,0 +1,97 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Resolução
+TITULO: RESOLUÇÃO NORMATIVA ANEEL Nº 1.148, DE 27 DE JANEIRO DE 2026
+DATA_PUBLICACAO: 20/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=20/02/2026&jornal=515&pagina=84
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Energia Elétrica/Diretoria Colegiada
+
+TEXTO_COMPLETO:
+EMENTA: Altera a Resolução Normativa nº 1.000, de 7 de dezembro de 2021, os Anexos VI e VIII da Resolução Normativa nº 956, de 7 de dezembro de 2021 - Módulos 6 e 8 do PRODIST, a Resolução Normativa nº 1.003/2022 - Submódulos 2.5 e 2.5-A do PRORET e a Resolução nº 846, de 11 de junho de 2019, dispondo sobre ações para aumentar a satisfação do consumidor e demais usuários com a prestação dos serviços de distribuição de energia elétrica.
+
+RESOLUÇÃO NORMATIVA ANEEL Nº 1.148, DE 27 DE JANEIRO DE 2026
+Altera a Resolução Normativa nº 1.000, de 7 de dezembro de 2021, os Anexos VI e VIII da Resolução Normativa nº 956, de 7 de dezembro de 2021 - Módulos 6 e 8 do PRODIST, a Resolução Normativa nº 1.003/2022 - Submódulos 2.5 e 2.5-A do PRORET e a Resolução nº 846, de 11 de junho de 2019, dispondo sobre ações para aumentar a satisfação do consumidor e demais usuários com a prestação dos serviços de distribuição de energia elétrica.
+A DIRETORA-GERAL SUBSTITUTA DA AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA - ANEEL, conforme a Portaria nº 160, de 23 de maio de 2025, no uso de suas atribuições regimentais, de acordo com a deliberação da Diretoria tendo em vista o disposto na Lei nº 9.427, de 26 de dezembro de 1996, no Decreto nº 2.335, de 6 de outubro de 1997 e o no que consta do Processo SEI nº 48500.900385/2022-14, resolve:
+Art. 1º Estabelecer ações para aumentar a satisfação do consumidor e demais usuários com a prestação dos serviços de distribuição de energia elétrica, alterando a Resolução Normativa nº 1.000, de 7 de dezembro de 2021, os Anexos VI e VIII da Resolução Normativa nº 956, de 7 de dezembro de 2021 - Módulos 6 e 8 do PRODIST, a Resolução Normativa nº 1.003, de 2022 - Submódulos 2.5 e 2.5-A do PRORET e a Resolução nº 846, de 11 de junho de 2019.
+Art. 2º As disposições previstas nesta resolução aplicam-se a todas as concessionárias do serviço público de distribuição de energia elétrica.
+Art. 3º A Resolução Normativa nº 1.000, de 7 de dezembro de 2021, passa a vigorar com as seguintes alterações:
+".............................................................................
+Art. 439. A qualidade do serviço comercial prestado pela distribuidora é avaliada, entre outros critérios, pela verificação do cumprimento dos prazos relacionados no Anexo IV. (NR)
+Art. 439-A. Os indicadores relacionados ao cumprimento dos prazos comerciais pela distribuidora estão estabelecidos no Módulo 8 do PRODIST.
+..............................................................................
+Art. 448-A. O desempenho da distribuidora quanto ao atendimento das demandas recebidas no Sistema de Gestão de Ouvidoria da ANEEL - SGO/ANEEL será utilizado pela ANEEL como parâmetro para avaliar a qualidade do atendimento comercial da empresa.
+Parágrafo único. A distribuidora deve responder de forma conclusiva aos questionamentos relacionados ao SGO/ANEEL, no prazo definido pela ANEEL em cada demanda, sendo que o descumprimento deste prazo poderá sujeitá-la às penalidades previstas em norma específica.
+..............................................................................
+Seção VII
+Da Satisfação do Consumidor e demais Usuários
+Art. 449-A. A ANEEL medirá a satisfação do consumidor residencial com os serviços prestados pelas distribuidoras de energia elétrica por meio do Índice ANEEL de Satisfação do Consumidor (IASC), que será calculado, anualmente, a partir de pesquisa amostral realizada entre os consumidores daquela classe de consumo em cada área de concessão.
+Art. 449-B. A ANEEL poderá ainda utilizar outros indicadores para medir a satisfação do consumidor e demais usuários.
+..........................................................................."
+Art. 4º O Anexo VI da Resolução Normativa nº 956, de 7 de dezembro de 2021, passa a vigorar com as seguintes alterações:
+"............................................................................
+j) Seção 6.10 - Das informações referentes à fatura de energia: define e detalha os fluxos de informação relacionados à fatura de energia, conforme definido no Módulo 11 do PRODIST e nas Regras de Prestação do Serviço Público de Distribuição de Energia Elétrica; (NR)
+k) Seção 6.11 - Informações referentes ao atendimento, serviços e demais dados da prestação do serviço; e (NR)
+l) Seção 6.12 - Informações referentes ao atendimento dos prazos comerciais, conforme definido no módulo 8 do PRODIST e nas Regras de Prestação do Serviço Público de Distribuição de Energia Elétrica.
+..........................................................................
+Seção 6.12
+Informações referentes ao atendimento dos prazos comerciais
+Fluxo de informações da distribuidora para a ANEEL
+51. A distribuidora deve encaminhar mensalmente à ANEEL até o último dia do mês subsequente ao mês de referência dos dados, as informações relacionadas ao atendimento dos prazos comerciais, conforme tabela a seguir:
+
+
+Informação
+Especificação
+Unidade
+Quantidade de serviços realizados
+Conforme Regras de Prestação do Serviço Público de Distribuição de Energia Elétrica, Módulos do PRODIST e Manuais da ANEEL
+Quantidade
+Prazo médio dos serviços realizados
+Conforme Regras de Prestação do Serviço Público de Distribuição de Energia Elétrica, Módulos do PRODIST e Manuais da ANEEL
+Prazo em dias
+Quantidade de serviços realizados com descumprimento do prazo
+Conforme Regras de Prestação do Serviço Público de Distribuição de Energia Elétrica, Módulos do PRODIST e Manuais da ANEEL
+Quantidade
+Prazo médio dos serviços realizados com descumprimento do prazo
+Conforme Regras de Prestação do Serviço Público de Distribuição de Energia Elétrica, Módulos do PRODIST e Manuais da ANEEL
+Prazo em dias
+Quantidade de serviços solicitados
+Conforme Regras de Prestação do Serviço Público de Distribuição de Energia Elétrica, Módulos do PRODIST e Manuais da ANEEL
+Quantidade
+Quantidade de serviços ainda não realizados
+Conforme Regras de Prestação do Serviço Público de Distribuição de Energia Elétrica, Módulos do PRODIST e Manuais da ANEEL
+Quantidade
+Quantidade de serviços suspensos
+Conforme Regras de Prestação do Serviço Público de Distribuição de Energia Elétrica, Módulos do PRODIST e Manuais da ANEEL
+Quantidade
+Quantidade de serviços pendentes de atendimento e com descumprimento do prazo
+Conforme Regras de Prestação do Serviço Público de Distribuição de Energia Elétrica, Módulos do PRODIST e Manuais da ANEEL
+Quantidade
+Prazo médio dos serviços pendentes de atendimento com descumprimento do prazo
+Conforme Regras de Prestação do Serviço Público de Distribuição de Energia Elétrica, Módulos do PRODIST e Manuais da ANEEL
+Prazo em dias
+Valor total pago em compensações pelo descumprimento de prazos no atendimento ao serviços
+Conforme Regras de Prestação do Serviço Público de Distribuição de Energia Elétrica, Módulos do PRODIST e Manuais da ANEEL
+Monetária
+Art. 5º O Anexo VIII da Resolução Normativa nº 956, de 7 de dezembro de 2021, passa a vigorar com a seguinte alteração:
+" ..............................................................
+b) Seção 8.2 - Qualidade técnica do serviço: define os conjuntos de unidades consumidoras, estabelece as definições, os limites e os procedimentos relativos aos indicadores de continuidade e de atendimento às ocorrências emergenciais, definindo padrões e responsabilidades; (NR)
+c) Seção 8.3 - Qualidade comercial do serviço: define os procedimentos para a apuração dos indicadores de reclamações, de atendimento nos diversos canais e de cumprimentos dos prazos, e estabelece a metodologia para estabelecimento dos limites do indicador FER; (NR)
+d) Seção 8.4 - Segurança do trabalho e instalações: estabelece as condições de acompanhamento da segurança do trabalho e das instalações; (NR)
+e) Seção 8.5 - Satisfação do consumidor e demais usuários: define os indicadores e procedimentos para a apuração da satisfação do consumidor e demais usuários com os serviços prestados pelas distribuidoras de energia elétrica; e
+f) Anexos.
+Objetivos
+..................................................................
+4. Definir fenômenos relacionados à qualidade técnica do serviço, aqui entendidos como aqueles relativos à continuidade do fornecimento de energia elétrica, estabelecendo a metodologia para apuração dos indicadores de continuidade e de atendimento a ocorrências emergenciais, definindo padrões e responsabilidades. (NR)
+5. Estabelecer os procedimentos relacionados à apuração da qualidade comercial do serviço, aqui entendida como sendo a qualidade do atendimento nos diversos canais, do tratamento das reclamações e outras demandas, e do cumprimento dos prazos comerciais;
+..................................................................
+Seção 8.2
+Qualidade Técnica do Serviço (NR)
+..................................................................
+Seção 8.3
+Qualidade Comercial do Serviço (NR)
+..................................................................
+268. A distribuidora deve enviar mensalmente à ANEEL, até o último dia útil do mês subsequente ao mês de apuração, o relatório da apuração do cumprimento dos prazos de prestação dos serviços e das suspensões indevidas, por município, conforme definido no Módulo 6 do PRODIST e em instruções da ANEEL e apresentando, no mínimo, as seguintes informações: (NR)
+..............................................................................
+270-A. Os dados referentes ao cumprimento dos prazos comerciais devem ser mantidos pela distribuidora por um período mínimo de 10 anos.
+Indicadores de cumprimento dos prazos comerciais
+270-B. A ANEEL monitorará o cumprimento dos prazos comerciais por meio dos indicadores PSFP (percentual de serviços executados fora do prazo regulatório); ISFP (indicador de serviços executados fora do prazo regulatório), sem prejuízo da utilização de outros indicadores que se façam necessários para avaliar a qualidade do serviço prestado.

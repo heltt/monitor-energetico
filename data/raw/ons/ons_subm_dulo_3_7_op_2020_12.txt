@@ -1,0 +1,262 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 3.7-OP_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 3.7-OP_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 3.7
+Planejamento anual de prevenção de
+cheias
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento anual de prevenção de cheias 3.7 Operacional 2020.12 01/01/2021
+ÍNDICE
+1. ELABORAÇÃO DO PLANO ANUAL DE PREVENÇÃO DE CHEIAS...........................................................3
+1.1. Configuração e classificação dos sistemas de reservatórios para controle de cheias...................3
+1.2. Identificação das informações básicas para o estudo de prevenção de cheias............................3
+1.3. Determinação das séries sintéticas de vazões naturais incrementais médias diárias...................4
+1.4. Cálculo dos volumes de espera e avaliação dos impactos energéticos decorrentes da alocação
+dos volumes de espera..................................................................................................................4
+1.5. Análise e consolidação dos resultados dos cálculos de volumes de espera..................................4
+1.6. Elaboração e disponibilização da minuta do Plano Anual de Prevenção de Cheias (PAPC)..........4
+1.7. Encaminhamento do PAPC............................................................................................................5
+1.8. Implementação do PAPC...............................................................................................................5
+2. ELABORAÇÃO DAS REGRAS PARA OPERAÇÃO DE CONTROLE DE CHEIAS..........................................5
+2.1. Definição das Regras para Operação de Controle de Cheias........................................................5
+2.2. Elaboração e disponibilização das minutas dos relatórios relativos às Regras para Operação de
+Controle de Cheias........................................................................................................................7
+2.3. Disponibilização dos relatórios relativos às Regras para Operação de Controle de Cheias..........7
+2.4. Implementação das diretrizes que constam nos Relatórios de Regras para Operação de
+Controle de Cheias........................................................................................................................7
+3. REFERÊNCIAS...................................................................................................................................8
+4. ANEXOS...........................................................................................................................................8
+Endereço na internet: http://www.ons.org.br 2 / 8
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento anual de prevenção de cheias 3.7 Operacional 2020.12 01/01/2021
+1. ELABORAÇÃO DO PLANO ANUAL DE PREVENÇÃO DE CHEIAS
+1.1. Configuração e classificação dos sistemas de reservatórios para controle de cheias
+1.1.1. O Operador Nacional do Sistema Elétrico – ONS estabelece, em conjunto com os agentes de geração,
+os sistemas de reservatórios a serem considerados para controle de cheias a partir das informações de
+restrições operativas hidráulicas, conforme Submódulo 4.7 – Atualização de informações sobre restrições
+hidráulicas dos aproveitamentos hidroelétricos, de vazão ou de nível de água, nos pontos de controle
+existentes na bacia hidrográfica, e nas características dos reservatórios relativas a condições de
+controlabilidade na bacia.
+1.1.2. O ONS, em conjunto com os agentes de geração, classifica os sistemas de reservatórios para controle
+de cheias em interdependentes ou independentes, quais sejam:
+(a) sistemas de reservatórios interdependentes: são constituídos por dois ou mais reservatórios,
+operados por diferentes agentes de geração, que tenham capacidade de influenciar na proteção de
+locais situados a jusante de todos estes reservatórios, sujeitos à restrição de vazão máxima; ou
+possam ser influenciados por reservatórios situados a montante e operados por outros agentes de
+geração, na proteção de locais situados imediatamente a jusante deste reservatório.
+(b) sistemas de reservatórios independentes: não apresentam as características especificadas para os
+sistemas de reservatórios interdependentes.
+1.1.3. O ONS considera, para a elaboração dos estudos de prevenção de cheias, todos os sistemas de
+reservatórios interdependentes. No caso de sistemas de reservatórios independentes, apenas aqueles que o
+ONS julgue serem de especial interesse para a otimização eletroenergética e para a segurança sistêmica do
+Sistema Interligado Nacional (SIN) têm seus estudos de prevenção de cheias elaborados.
+1.2. Identificação das informações básicas para o estudo de prevenção de cheias
+1.2.1. Os agentes de geração encaminham ao ONS as propostas iniciais dos tempos de recorrência a serem
+utilizados na determinação dos recursos físicos, denominados volumes de espera, que são parte dos volumes
+úteis dos reservatórios que devem ser deixados vazios para a prevenção de cheias.
+1.2.2. O ONS, em conjunto com os agentes de geração, estabelece:
+(a) o período de controle de cheias para cada sistema de reservatórios, a partir da análise da sazonalidade
+apresentada pelas séries históricas de vazões naturais incrementais médias diárias, estabelecidas
+conforme Submódulo 4.6 – Análise e tratamento dos dados hidroenergéticos e previsão e geração de
+cenários de vazões;
+(b) os cenários hidrológicos, a partir da identificação dos padrões climáticos, conforme Submódulo 4.8 –
+Acompanhamento e previsão meteorológica e climática, que influenciam o regime de cheias dos
+sistemas de reservatórios para controle de cheias; e
+(c) a forma de distribuição dos volumes de espera entre os reservatórios que compõem os sistemas de
+reservatórios para controle de cheias, com base no potencial de cheia em cada local do sistema e na
+capacidade física dos reservatórios.
+1.2.2.1. Com base nos cenários hidrológicos estabelecidos, as séries históricas de vazões naturais
+incrementais médias diárias são desagregadas em séries constituídas apenas de vazões de períodos de igual
+cenário hidrológico. No estudo em que se considera somente um cenário hidrológico, independente dos
+indicadores de padrões climáticos, as séries históricas de vazões naturais não são desagregadas.
+Endereço na internet: http://www.ons.org.br 3 / 8
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento anual de prevenção de cheias 3.7 Operacional 2020.12 01/01/2021
+1.3. Determinação das séries sintéticas de vazões naturais incrementais médias diárias
+1.3.1. O ONS gera as séries sintéticas de vazões naturais incrementais médias diárias correspondentes aos
+cenários hidrológicos estabelecidos com base nas séries históricas de vazões naturais incrementais médias
+diárias.
+1.3.2. O ONS analisa as séries sintéticas de vazões naturais incrementais médias diárias, sob o ponto de vista
+de sua consistência em relação às séries históricas, de acordo com os critérios estabelecidos no Submódulo
+2.4 – Critérios para estudos energéticos e hidrológicos.
+1.4. Cálculo dos volumes de espera e avaliação dos impactos energéticos decorrentes da alocação dos
+volumes de espera
+1.4.1. O ONS calcula os volumes de espera dos sistemas de reservatórios para controle de cheias para os
+cenários hidrológicos estabelecidos e para os tempos de recorrência propostos pelos agentes de geração.
+1.4.1.1. Para fins de avaliação energética, podem ser também calculados volumes de espera para outros
+tempos de recorrência, selecionados pelo ONS em conjunto com os agentes de geração.
+1.4.1.2. No cálculo dos volumes de espera, o ONS utiliza as séries sintéticas de vazões naturais incrementais
+médias diárias consideradas consistentes, conforme estabelecido no item 1.3.2. deste submódulo. Em caso
+contrário, são utilizadas as séries históricas de vazões naturais incrementais médias diárias.
+1.4.1.3. Os volumes de espera calculados são distribuídos entre os reservatórios que compõem os sistemas
+de reservatórios para controle de cheias.
+1.4.2. O ONS avalia os impactos energéticos decorrentes da alocação de volumes de espera nos reservatórios
+dos aproveitamentos hidrelétricos do SIN por meio de simulações com modelos equivalentes e/ou com
+modelos de usinas individualizadas e com base nas alternativas de volumes de espera resultantes do estudo
+de prevenção de cheias para os cenários hidrológicos estabelecidos e para os tempos de recorrência
+considerados.
+1.4.2.1. A avaliação energética compreende, no mínimo, a alternativa dos volumes de espera
+correspondentes aos tempos de recorrência propostos pelos agentes de geração e a alternativa de volumes
+de espera nulos.
+1.4.2.2. Para fins de análise de sensibilidade, a avaliação pode ser complementada com alternativas de
+volumes de espera correspondentes a outros tempos de recorrência, estabelecidas pelo ONS em conjunto
+com os agentes de geração.
+1.5. Análise e consolidação dos resultados dos cálculos de volumes de espera
+1.5.1. O ONS disponibiliza aos agentes de geração os resultados de volumes de espera, as avaliações dos
+impactos energéticos e as informações básicas utilizadas para esses cálculos.
+1.5.2. Os agentes de geração analisam os resultados e informações disponibilizadas pelo ONS e, caso
+julgarem necessário, propõem novos tempos de recorrência. Nesse caso, o ONS calcula volumes de espera
+com os novos dados e, se necessário, realiza nova avaliação dos impactos energéticos.
+1.6. Elaboração e disponibilização da minuta do Plano Anual de Prevenção de Cheias (PAPC)
+1.6.1. O ONS elabora a minuta do PAPC e a disponibiliza aos agentes de geração, bem como os dados
+utilizados para sua elaboração.
+1.6.2. Os agentes de geração analisam a minuta do PAPC e comunicam ao ONS quaisquer incorreções que
+detectarem na minuta.
+Endereço na internet: http://www.ons.org.br 4 / 8
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento anual de prevenção de cheias 3.7 Operacional 2020.12 01/01/2021
+1.6.3. O ONS analisa as contribuições dos agentes de geração para minuta do PAPC, efetua os ajustes
+necessários e justifica as contribuições que não forem implementadas.
+1.7. Encaminhamento do PAPC
+1.7.1. O ONS emite o PAPC e o encaminha à ANEEL e à ANA, para avaliação dessas agências, e o disponibiliza
+aos agentes de geração.
+1.7.2. O PAPC contém, no mínimo:
+(a) configurações dos sistemas de reservatórios para controle de cheias;
+(b) volumes de espera por reservatório e cenário hidrológico, para cada bacia hidrográfica e sistema de
+reservatórios para controle de cheias, correspondentes às propostas finais dos agentes de geração
+para os tempos de recorrência, para a proteção de cada ponto de controle.
+(c) avaliação dos impactos energéticos para o SIN, decorrentes da aplicação das alternativas de volumes
+de espera e, no caso de o tempo de recorrência proposto pelo agente de geração ser diferente do
+adotado no ciclo de planejamento anterior, a justificativa deste agente para essa alteração.
+1.8. Implementação do PAPC
+1.8.1. Caso não haja manifestação contrária pela ANEEL ou ANA, os volumes de espera são implementados
+nos processos de planejamento e programação da operação do SIN.
+1.8.2. No caso de manifestação contrária da ANEEL e/ou ANA, o PAPC é revisto de forma a atender aos
+requisitos especificados por essa(s) agência(s), com a consequente adequação nos prazos.
+2. ELABORAÇÃO DAS REGRAS PARA OPERAÇÃO DE CONTROLE DE CHEIAS
+2.1. Definição das Regras para Operação de Controle de Cheias
+2.1.1. O ONS, em conjunto com os agentes de geração, estabelece as regras para operação de controle de
+cheias dos sistemas de reservatórios incluídos no PAPC, a serem consideradas na programação da operação
+dos aproveitamentos hidroelétricos integrantes do SIN.
+2.1.1.1. No que se refere aos sistemas de reservatórios não incluídos no PAPC, as informações
+disponibilizadas pelos agentes de geração são tratadas como restrições operativas hidráulicas, e, por isso,
+consideradas no processo estabelecido no Submódulo 4.7 – Atualização de informações sobre restrições
+hidráulicas dos aproveitamentos hidroelétricos.
+2.1.1.2. As regras para operação de controle de cheias determinam as condições e os critérios para que,
+durante o período de controle de cheias, sejam revisados os volumes de espera estabelecidos no PAPC, com
+a premissa de não violar os tempos de recorrência adotados, quando as operações hidráulicas indicadas para
+o atendimento dos volumes de espera adotados resultarem em operações energéticas indesejáveis.
+2.1.1.3. As regras para operação de controle de cheias são estabelecidas para cada sistema de reservatórios,
+considerando:
+(a) características das situações para operação de controle de cheias nos pontos de controle classificadas
+em Normal, Atenção, Alerta ou Emergência, conforme estabelecido no Submódulo 2.4;
+(1) No início do período de controle de cheias de um sistema de reservatórios, considera-se a situação
+de operação Normal para os reservatórios, até a emissão de uma declaração que altere essa
+situação.
+Endereço na internet: http://www.ons.org.br 5 / 8
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento anual de prevenção de cheias 3.7 Operacional 2020.12 01/01/2021
+(b) tipos de sistemas de reservatórios, conforme item 1.1.2.
+(c) responsabilidades na operação de controle de cheias.
+2.1.1.4. As responsabilidades do ONS e dos agentes de geração na operação hidráulica de controle de cheias,
+para cada situação de operação do reservatório, são estabelecidas a partir do tipo de sistema de reservatórios
+para controle de cheias.
+2.1.1.4.1. Para os sistemas de reservatórios interdependentes e independentes para operação de controle
+de cheias incluídos no PAPC:
+(a) na situação de operação Normal, os agentes de geração disponibilizam ao ONS os insumos necessários
+à definição, pelo ONS, das defluências médias semanais, conforme estabelecido no Programa Mensal
+de Operação Energética (PMO) e suas revisões semanais, Submódulo 4.3 – Programação Mensal da
+Operação Energética, e diárias, conforme estabelecido no Programa Diário de Defluências (PDF),
+Submódulo 4.5 – Programação Diária da Operação;
+(b) na situação de operação Atenção, os agentes de geração propõem as defluências médias semanais e
+diárias dos reservatórios integrantes desses sistemas, e as disponibilizam ao ONS, bem como
+acompanham a compatibilização realizada pelo ONS do PMO e suas revisões e do PDF.
+(1) o ONS comunica aos agentes de geração as justificativas para as proposições de defluências que
+não foram implementadas.
+(c) nas situações de operação Alerta e Emergência, os agentes de geração definem as defluências médias
+semanais e diárias dos reservatórios integrantes desses sistemas, e as disponibilizam ao ONS, bem
+como acompanham a compatibilização realizada pelo ONS do PMO e suas revisões e do PDF, com as
+defluências definidas pelos agentes de geração.
+2.1.1.4.2. Para os sistemas de reservatórios interdependentes e independentes para operação de controle
+de cheias não incluídos no PAPC:
+(a) Quando não há caracterização de cheia no ponto de controle, em função da ocorrência de vazões
+naturais inferiores às restrições de vazões máximas:
+(1) os agentes de geração disponibilizam ao ONS os insumos necessários à definição, pelo ONS, das
+defluências médias semanais, conforme estabelecido no PMO e suas revisões semanais, e diárias,
+conforme estabelecido no PDF;
+(b) Quando há caracterização de cheia no ponto de controle, em função da ocorrência ou previsão de
+ocorrência de vazões naturais iguais ou superiores às restrições de vazões máximas:
+(1) os agentes de geração definem as defluências médias semanais e diárias dos reservatórios
+integrantes desses sistemas, e as disponibilizam ao ONS, bem como acompanham a
+compatibilização realizada pelo ONS do PMO e suas revisões e do PDF, com as defluências
+definidas pelos agentes de geração.
+2.1.1.5. Com base nas características de cada reservatório e da bacia hidrográfica associada, os critérios de
+operação nos pontos de controle são estabelecidos e esclarecidos, de forma objetiva, nas regras de operação
+dos sistemas de reservatórios.
+2.1.2. Os agentes de geração encaminham ao ONS formulário com a situação de operação do reservatório
+sob sua responsabilidade no período de controle de cheias acompanhado de justificativa para essa
+caracterização.
+Endereço na internet: http://www.ons.org.br 6 / 8
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento anual de prevenção de cheias 3.7 Operacional 2020.12 01/01/2021
+2.1.2.1. A situação de operação do reservatório poderá ser alterada pelo ONS ou pelo agente de geração, a
+qualquer momento. Caso coexistam declarações distintas de situação de operação de reservatório pelo
+agente de geração responsável pelo reservatório e pelo ONS, prevalece a situação de maior severidade.
+2.1.3. O ONS comunica aos agentes de geração envolvidos as situações de operação de reservatório, bem
+como as justificativas para o não atendimento às solicitações de alteração de situação.
+2.1.3.1. Para a caracterização das situações de operação Alerta e Emergência nos pontos de controle, os
+agentes de geração encaminham ao ONS procedimentos próprios, a partir da consideração de outras
+informações sob sua responsabilidade.
+2.1.4. O ONS avalia os procedimentos recebidos e solicita, se necessário, esclarecimentos adicionais.
+2.2. Elaboração e disponibilização das minutas dos relatórios relativos às Regras para Operação de
+Controle de Cheias
+2.2.1. O ONS elabora as minutas de relatórios relativos às Regras para Operação de Controle de Cheias para
+cada sistema de reservatórios incluído no PAPC, a serem consideradas na programação dos aproveitamentos
+hidroelétricos integrantes do SIN e disponibiliza aos agentes de geração, bem como os dados utilizados e os
+resultados obtidos.
+2.2.2. Os agentes de geração analisam as minutas dos relatórios relativos às Regras para Operação de
+Controle de Cheias e, quando julgarem necessário, encaminham ao ONS suas contribuições.
+2.2.3. O ONS analisa as contribuições dos agentes de geração, efetua os ajustes necessários nos relatórios
+específicos e comunica a esses agentes as justificativas para as sugestões que não foram implementadas.
+2.3. Disponibilização dos relatórios relativos às Regras para Operação de Controle de Cheias
+2.3.1. Após o fechamento das minutas de relatórios, o ONS emite os relatórios relativos às Regras de
+Operação para Controle de Cheias para cada um dos sistemas de reservatórios incluídos no PAPC, e os
+disponibiliza aos agentes de geração e à ANEEL e ANA, para avaliação.
+2.3.2. Os relatórios relativos às Regras para Operação de Controle de Cheias contém, no mínimo:
+(a) cálculo da vazão defluente a ser programada em situação de cheia, utilização dos diagramas de
+operação normal e em emergência;
+(b) regras de revisão de volume de espera;
+(c) regras para rebaixamento dos reservatórios;
+(d) critérios de utilização de taxas de variação de defluências e utilização de ferramentas computacionais
+específicas para estas programações; e
+(e) volumes de espera por reservatório e cenários hidrológicos correspondentes estabelecidos no PAPC.
+2.4. Implementação das diretrizes que constam nos Relatórios de Regras para Operação de Controle de
+Cheias
+2.4.1. Não havendo manifestação contrária pela ANEEL e/ou pela ANA, as Regras para Operação de Controle
+de Cheias são implementadas para os sistemas de reservatórios incluídos nos relatórios nos processos de
+programação da operação do SIN.
+2.4.2. No caso de manifestação contrária da ANEEL e/ou ANA, os relatórios são revistos de forma a atender
+aos requisitos especificados por essa(s) agência(s), com a consequente adequação nos prazos para a
+implementação.
+Endereço na internet: http://www.ons.org.br 7 / 8
+Procedimentos de Rede - Módulo 3 – Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Planejamento anual de prevenção de cheias 3.7 Operacional 2020.12 01/01/2021
+3. REFERÊNCIAS
+3.1. Não há referências neste documento.
+4. ANEXOS
+4.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 8 / 8

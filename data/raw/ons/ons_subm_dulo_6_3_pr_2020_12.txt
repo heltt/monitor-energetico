@@ -1,0 +1,354 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.3-PR_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.3-PR_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.3
+Elaboração do Relatório de Análise de
+Perturbação
+Procedimental
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Elaboração do Relatório de Análise de
+6.3 Procedimental 2020.12 01/01/2021
+Perturbação
+ÍNDICE
+1. ELABORAÇÃO DO RELATÓRIO DE ANÁLISE DE PERTURBAÇÃO..........................................................3
+1.1. Seleção da perturbação para elaboração do Relatório de Análise de Perturbação (RAP)............3
+1.2. Tópico fechado on-line da perturbação........................................................................................3
+1.3. Coleta de dados das perturbações selecionadas para emissão do RAP detalhada.......................3
+1.4. Análise conjunta da perturbação..................................................................................................4
+1.5. Consolidação da análise, conclusões e recomendações...............................................................6
+1.6. Emissão e divulgação do relatório.................................................................................................7
+2. REFERÊNCIAS...................................................................................................................................7
+3. ANEXOS...........................................................................................................................................7
+ANEXO A- Descrição do conteúdo dos itens do RAP...............................................................................8
+Endereço na internet: http://www.ons.org.br 2 / 11
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Elaboração do Relatório de Análise de
+6.3 Procedimental 2020.12 01/01/2021
+Perturbação
+1. ELABORAÇÃO DO RELATÓRIO DE ANÁLISE DE PERTURBAÇÃO
+1.1. Seleção da perturbação para elaboração do Relatório de Análise de Perturbação (RAP)
+1.1.1. O ONS inicia a elaboração do Relatório de Análise de Perturbação (RAP) quando indicado no processo
+de Triagem das Ocorrências e Perturbações, conforme Submódulo 6.2 – Análise da operação, ocorrências e
+perturbações e acompanhamento das providências.
+1.2. Tópico fechado on-line da perturbação
+1.2.1. O ONS cria e mantém, em sistema computacional, um tópico fechado on-line relacionado a cada
+perturbação selecionada para elaboração de RAP.
+1.2.1.1. O tópico fechado on-line deve:
+(a) conter a identificação e descrição da perturbação em análise;
+(b) conter a identificação de todos agentes de operação envolvidos na perturbação;
+(c) ser disponibilizado on-line para consulta, colaboração e participação exclusiva do ONS, ANEEL, MME
+e agentes de operação envolvidos;
+(d) conter espaço para a inclusão identificada de dados e informações necessários à execução da análise
+da perturbação;
+(e) conter espaço para a inclusão identificada das recomendações e das providências em andamento
+relacionadas à perturbação;
+(f) ser o ambiente oficial e centralizador, no qual todas as discussões e informações relacionadas à
+perturbação devem ser incluídas pela ANEEL, MME, agentes de operação envolvidos e pelo ONS,
+quando originada por ele ou pelos demais agentes de operação envolvidos na perturbação e que não
+participam do tópico fechado; e
+(g) o tópico fechado on-line da perturbação deve ser mantido disponibilizado para consulta exclusiva do
+ONS, ANEEL, MME e concessionárias de transmissão inclusive após a conclusão do RAP.
+1.3. Coleta de dados das perturbações selecionadas para emissão do RAP detalhada
+1.3.1. O ONS envia convocação formal para participação na reunião de análise da perturbação aos agentes
+de operação envolvidos, à ANEEL e ao MME, contendo as seguintes informações:
+(a) sumário da perturbação;
+(b) lista de dados necessários às análises conjuntas das perturbações, a serem fornecidos pelos agentes
+de operação envolvidos:
+(1) componentes desligados: horário, disjuntores acionados, causa provável e tipo de acionamento
+(tri- ou monopolar);
+(2) proteções atuadas: fabricante, tipo, sinalizações, ajustes e/ou parametrização vigentes, dados
+dos transformadores para instrumentos, catálogos e diagramas;
+Endereço na internet: http://www.ons.org.br 3 / 11
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Elaboração do Relatório de Análise de
+6.3 Procedimental 2020.12 01/01/2021
+Perturbação
+(3) religamento automático de linhas de transmissão: ajustes e/ou parametrização vigentes e tipo de
+acionamento (tri- ou monopolar);
+(4) SEP: sinalizações, ajustes e/ou parametrização vigentes, desempenho dos canais de comunicação
+e informações sobre sua ação de controle;
+(5) registros de perturbações: eventos e grandezas registradas, escalas, sensores de partida –
+sinalizações e ajustes vigentes –, conforme estabelecido no Submódulo 7.10 – Implantação do
+sistema de registro de perturbações;
+(6) outros registros de tensão, potência, frequência e eventos provenientes de registradores
+instalados em subestações e usinas;
+(7) montantes de geração e de cargas de demanda interrompidas automática e/ou manualmente e
+duração da interrupção;
+(8) dados do processo de recomposição: sequência de restabelecimento, com data e horário,
+equipamentos acionados e anormalidades observadas;
+(9) informações sobre providências tomadas e em andamento;
+(10)dados adicionais necessários para a realização da análise de perturbação;
+(c) endereço do tópico fechado on-line da perturbação;
+(d) destinatário e prazo para envio dos dados e registros.
+1.3.2. O ONS disponibiliza no tópico fechado on-line da perturbação os dados e as informações necessárias
+à execução da análise da perturbação, que podem ser encontrados em bases de dados e documentos do ONS
+relacionados como:
+(1) o Relatório Diário da Operação (RDO);
+(2) o histórico das telemedições e das telessinalizações;
+(3) a Base de Dados Técnica do ONS (BDT);
+(4) os documentos normativos da operação;
+(5) os sistemas de gravação da comunicação verbal na operação;
+(6) o Programa Mensal da Operação (PMO) (Submódulo 4.3 – Programação Mensal da Operação
+Energética);
+(7) as Diretrizes para a Operação Elétrica Mensal (Submódulo 4.1 – Planejamento da operação
+elétrica com horizonte mensal);
+(8) o Programa Diário de Operação (PDO) (Submódulo 4.5 – Programação Diária da Operação);
+(9) os registros das perturbações (Submódulo 7.10 – Implantação do sistema de registro de
+perturbações);
+(10)a base de dados dos Sistemas Especiais de Proteção (SEP); e
+(11)os dados do Sistema Nacional de Observabilidade e Controlabilidade (SINOCON);
+Endereço na internet: http://www.ons.org.br 4 / 11
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Elaboração do Relatório de Análise de
+6.3 Procedimental 2020.12 01/01/2021
+Perturbação
+1.4. Análise conjunta da perturbação
+1.4.1. O ONS coordena a análise conjunta da perturbação, com a participação dos agentes de operação
+envolvidos, da ANEEL e do MME, e leva em conta aspectos relativos a:
+(a) proteção e controle:
+(1) causa e origem do início da perturbação;
+(2) sequência cronológica dos eventos registrados;
+(3) interpretação qualitativa e quantitativa dos registros gráficos obtidos;
+(4) avaliação do desempenho das proteções, Esquema Regional de Alívio de Carga (ERAC), esquemas
+de religamento automático, SEP e dispositivos de controle, com identificação de causas para os
+desempenhos não satisfatórios;
+(5) avaliação dos danos eventualmente impostos aos componentes do sistema e de suas
+consequências. Caso haja necessidade de maiores esclarecimentos sobre falhas e equipamentos,
+recomenda-se a elaboração do Relatório de Análise de Falhas em Instalações e Equipamentos
+(RAF), conforme detalhado no Submódulo 6.4 – Análise de falha em equipamentos e linhas de
+transmissão;
+(6) necessidades de testes, ensaios, simulações ou estudos adicionais;
+(7) avaliação das providências já tomadas ou em andamento;
+(8) análise de sobrecargas em equipamentos;
+(9) análise de oscilações eletromecânicas;
+(10)análise de instabilidades eletromecânicas e de tensão;
+(11)análise de transitórios eletromecânicos.
+(b) operação em tempo real:
+(1) condições operativas antes da perturbação;
+(2) manobras realizadas no SIN;
+(3) avaliação do processo de recomposição do SIN;
+(4) adequação das normas, programas e instruções de operação;
+(5) desempenho dos processos e das equipes dos agentes de operação e do ONS;
+(6) desempenho dos sistemas de comunicação, supervisão e controle dos centros de operação
+envolvidos;
+(7) desempenho do Controle Automático de Geração (CAG);
+(8) constatação de necessidade de treinamento;
+(9) avaliação das providências já tomadas ou em andamento.
+(c) segurança elétrica:
+Endereço na internet: http://www.ons.org.br 5 / 11
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Elaboração do Relatório de Análise de
+6.3 Procedimental 2020.12 01/01/2021
+Perturbação
+(1) análise das condições elétricas pré-distúrbio;
+(2) desempenho global do SIN;
+(3) desempenho da frequência;
+(4) desempenho transitório da tensão;
+(5) desempenho dos controles sistêmicos;
+(6) avaliação dos aspectos de segurança elétrica no desempenho do CAG e da reserva de potência
+operativa;
+(7) análise transitória do carregamento de equipamentos;
+(8) avaliação dos aspectos de segurança elétrica no processo de recomposição;
+(9) análise de transitórios eletromagnéticos.
+1.4.1.1. A análise conjunta da perturbação selecionada deve ser centralizada no tópico fechado on-line da
+perturbação e na reunião de análise da perturbação.
+1.4.1.2. A realização de reuniões paralelas à reunião de análise da perturbação é permitida mediante
+comunicação e convite prévio para participação dos demais envolvidos na análise da perturbação e inclusão
+da ata da reunião no tópico fechado on-line da perturbação.
+1.4.1.3. Quando a atuação de uma proteção ou SEP não puder ser esclarecida a partir dos dados disponíveis,
+simulações digitais podem ser realizadas para ajudar na compreensão do desempenho dessa proteção.
+1.4.1.4. Na disponibilidade de registros digitais das grandezas elétricas efetivamente injetadas na proteção
+ou no SEP, testes podem ser realizados com a utilização de softwares ou equipamentos de testes específicos.
+1.4.1.5. Na indisponibilidade de registros digitais das grandezas elétricas efetivamente injetadas na proteção
+ou no SEP, simuladores de sistemas elétricos equipados com um sistema de teste de proteção podem ser
+utilizados.
+1.5. Consolidação da análise, conclusões e recomendações
+1.5.1. O ONS, agentes de operação envolvidos, ANEEL e/ou MME consolidam a análise conjunta da
+perturbação selecionada no RAP e contendo:
+(a) Introdução.
+(b) Situação do sistema antes da perturbação.
+(c) Descrição da perturbação.
+(d) Sequência de eventos:
+(1) desligamentos automáticos e manuais;
+(2) recomposição do sistema.
+(e) Avaliação de desempenhos:
+(1) proteção e esquemas de religamento automático;
+(2) SEP;
+Endereço na internet: http://www.ons.org.br 6 / 11
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Elaboração do Relatório de Análise de
+6.3 Procedimental 2020.12 01/01/2021
+Perturbação
+(3) ERAC;
+(4) registradores de perturbação;
+(5) comportamento dinâmico do SIN;
+(6) operação em tempo real e processo de recomposição do SIN.
+(f) Interrupção de carga de demanda no SIN.
+(g) Conclusões.
+(h) Providências tomadas e em andamento.
+(i) Recomendações.
+1.5.1.1. Em função da abrangência e das características da perturbação em análise, alguns dos itens acima
+citados e respectivas alíneas, podem não ser aplicáveis. Na introdução do RAP, deve haver menção a tais
+itens e alíneas, com a justificativa da sua não-aplicação.
+1.6. Emissão e divulgação do relatório
+1.6.1. A elaboração do RAP é realizada com a coordenação do ONS e participação dos agentes de operação
+envolvidos.
+1.6.2. A minuta do RAP deve ser redigida na reunião de análise de perturbação, disponibilizada no tópico
+fechado on-line da perturbação e enviada pelo ONS aos agentes de operação envolvidos, à ANEEL e ao MME
+para comentários e consolidação.
+1.6.3. Quando um agente de operação envolvido na perturbação, o ONS, a ANEEL ou o MME discordar da
+versão consolidada, suas discordâncias devem ser incluídas no tópico fechado on-line da perturbação e
+registradas em documento anexo ao relatório, cuja existência deve ser informada como determinado no item
+A.7. 0deste submódulo.
+1.6.4. A versão final do relatório deve ser emitida e disponibilizada no tópico fechado on-line da perturbação
+pelo ONS e enviada pelo ONS aos agentes de operação envolvidos, à ANEEL e ao MME.
+1.6.5. O ONS acompanha as recomendações e providências em andamento constantes do RAP conforme
+estabelecido no Submódulo 6.2 – Análise da operação, ocorrências e perturbações e acompanhamento das
+providências.
+2. REFERÊNCIAS
+2.1. Não há referências neste documento.
+3. ANEXOS
+ANEXO A – Descrição do conteúdo dos itens do RAP
+Endereço na internet: http://www.ons.org.br 7 / 11
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Elaboração do Relatório de Análise de
+6.3 Procedimental 2020.12 01/01/2021
+Perturbação
+ANEXO A – Descrição do conteúdo dos itens do RAP
+A.1. Introdução: descrição sucinta da perturbação, com informações referentes à data, horário, local,
+origem, causa, região afetada e a carga de demanda interrompida.
+A.2. Situação do sistema antes de cada perturbação: informações e dados da área afetada, fornecidos pelos
+centros de operação, referentes a:
+(a) fluxos e tensões das principais interligações e barramentos do SIN;
+(b) geração horária, programada e verificada, e geração instantânea das principais usinas e a
+configuração das usinas envolvidas quanto ao número de máquinas operando como gerador e como
+compensador síncrono;
+(c) carga global dos agentes de operação envolvidos;
+(d) saldo de reserva de potência instantânea e integralizada no instante ou no período anterior à
+perturbação;
+(e) equipamentos da Rede de Operação – unidades geradoras, linhas de transmissão, equipamentos de
+controle de tensão etc. – impedidos por estarem em manutenção; e
+(f) outras informações pertinentes à situação do SIN.
+A.3. Descrição da perturbação: descrição detalhada da perturbação com menção à existência de diagramas
+anexos, com a configuração do sistema e das áreas envolvidas antes e após a perturbação, com a
+configuração da instalação que porventura tenha originado a perturbação, com os desarmes verificados e
+os componentes que foram manobrados antes e após a perturbação. Nesses diagramas, é importante
+detalhar aspectos de proteção, do sistema elétrico e de operação.
+A.4. Sequência de eventos: apresentação cronológica dos desligamentos automáticos e manuais e da
+recomposição do sistema.
+(a) Sequência de desligamentos automáticos e manuais: sequência cronológica dos acionamentos e
+desligamentos ocorridos durante a perturbação em função das análises dos registros dos
+sequenciadores de eventos e de perturbações, apresentada conforme modelo a seguir (Quadro 1).
+Quadro 1 - Modelo do quadro da sequência de desligamentos e proteções atuadas
+Sequência de desligamentos e proteções atuadas
+Instante Instalação Circuito Proteção atuada e observações
+(b) Recomposição do sistema: sequência cronológica das manobras de restabelecimento efetuadas
+durante o processo de recomposição do sistema, com descrição da sequência de normalização dos
+equipamentos ou linhas de transmissão desligadas, apresentada conforme modelo a seguir (Quadro
+2).
+Endereço na internet: http://www.ons.org.br 8 / 11
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Elaboração do Relatório de Análise de
+6.3 Procedimental 2020.12 01/01/2021
+Perturbação
+Quadro 2 - Modelo do quadro da sequência de normalização
+Sequência de normalização
+Data Horário Local Descrição do evento e observações
+(1) as condições de pré-energização, do processo de comunicação operacional no decorrer do
+evento, bem como os desligamentos forçados e as tentativas de religamento sem sucesso
+ocorridos durante a recomposição fazem parte do processo de recomposição e devem ser
+listados no Quadro 2;
+(2) a coluna “Descrição do evento e observações” deve facilitar o entendimento da normalização do
+sistema e, para tanto, deve ser preenchida com informações sobre envio de tensão, verificações
+das condições de fechamento de anel/paralelo, dificuldades ou irregularidades, falhas
+encontradas, além de informações sobre as providências tomadas para a recomposição do
+sistema.
+A.5. Avaliação de desempenho: análise e comentários sobre o desempenho dos dispositivos de proteção,
+o comportamento dinâmico do SIN, a operação em tempo real e o processo de recomposição do SIN
+durante a perturbação.
+(a) Proteção e esquemas de religamento automático:
+(1) classificação de todas as atuações de proteção – corretas, incorretas, acidentais, recusadas ou
+sem dados – com explicitação de suas causas;
+(2) avaliação do desempenho dos esquemas de religamento automático das linhas envolvidas.
+(b) Sistemas Especiais de Proteção (SEP):
+(1) classificação de todas as atuações de ECE e ECS – corretas, incorretas, acidentais, recusadas ou
+sem dados – com explicitação de suas causas e avaliação da efetividade das ações desses
+esquemas.
+(c) Esquemas Regionais de Alívio de Carga (ERAC):
+(1) análise do desempenho do ERAC, principalmente quanto à avaliação dos estágios atuados e do
+montante do corte de carga de demanda correspondente.
+(d) Registradores de perturbação:
+(1) análise do desempenho dos registradores de perturbação de curta e longa duração.
+(e) Comportamento dinâmico do SIN:
+(1) análise do comportamento do sistema elétrico diante das previsões contidas nos estudos
+elétricos, com duas finalidades:
+(i) avaliação do desempenho do sistema elétrico diante da perturbação; e
+(ii) avaliação dos estudos elétricos diante da realidade operativa.
+(f) Operação em tempo real e processo de recomposição do SIN:
+Endereço na internet: http://www.ons.org.br 9 / 11
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Elaboração do Relatório de Análise de
+6.3 Procedimental 2020.12 01/01/2021
+Perturbação
+(1) relato detalhado de todas as irregularidades, falhas e anormalidades que influenciam a
+perturbação e dificultam tanto a operação quanto a recomposição do sistema, desde o início da
+perturbação até a normalização do sistema afetado. Para tanto, deve-se efetuar análise
+detalhada dos seguintes pontos:
+(i) adequação dos programas de operação e documentos normativos utilizados pelo ONS para
+operação do SIN;
+(ii) verificação do cumprimento dos procedimentos estabelecidos;
+(iii) avaliação do desempenho das equipes de operação dos agentes de operação e do ONS em suas
+ações vinculadas à operação interligada, especialmente quanto ao restabelecimento do
+sistema;
+(iv) verificação dos tempos decorridos no restabelecimento do SIN;
+(v) avaliação da reserva de potência;
+(vi) avaliação do desempenho do CAG;
+(vii)avaliação dos controles de tensão, frequência e carregamento;
+(viii)avaliação do desempenho dos sistemas de comunicação, supervisão e controle dos centros de
+operação envolvidos, com enfoque na operacionalidade, na eficiência e nos problemas
+ocorridos, principalmente em relação àqueles que afetam de forma significativa a operação do
+SIN.
+A.6. Interrupção de carga no SIN: levantamento da carga de demanda interrompida e da carga de energia
+não suprida, estimada por empresa, bem como da duração da interrupção, com inserção dos dados numa
+tabela, conforme modelo a seguir (Tabela 1).
+Tabela 1 – Modelo para a tabela de interrupções no SIN
+Interrupções no SIN
+Carga de Energia não
+Carga de demanda Duração média da
+Empresa suprida estimada
+interrompida (MW) interrupção (h:min)
+(MWh)
+A.7. Conclusões: sumário dos fatos relevantes procedentes da análise da perturbação com menção à
+existência de documento anexo com as eventuais divergências de agentes de operação envolvidos.
+A.8. Providências tomadas e em andamento: relação de providências, sob a responsabilidade dos agentes
+de operação e do ONS, tanto das já tomadas, quanto em andamento, com os prazos de conclusão previstos.
+A.9. Recomendações: recomendação de medidas para solucionar os problemas encontrados e evitar
+reincidência:
+(a) explicitação do conjunto de providências a serem tomadas pelo ONS ou pelos agentes de operação
+envolvidos;
+(b) identificação do responsável pelas providências e estabelecimento do prazo de execução;
+Endereço na internet: http://www.ons.org.br 10 / 11
+Procedimentos de Rede - Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Elaboração do Relatório de Análise de
+6.3 Procedimental 2020.12 01/01/2021
+Perturbação
+(c) recomendação de elaboração do RAF, no caso de se constatar a necessidade de maiores
+esclarecimentos sobre falhas ou danos em equipamentos (Submódulo 6.4 – Análise de falha em
+equipamentos e linhas de transmissão).
+Endereço na internet: http://www.ons.org.br 11 / 11

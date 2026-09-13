@@ -1,0 +1,644 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 9.3-IN_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 9.3-IN_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 9.3
+Indicadores de desempenho dos
+sistemas de proteção
+Indicadores
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho dos sistemas de
+9.3 Indicadores 2020.12 01/01/2021
+proteção
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. INDICADORES DE DESEMPENHO DOS SISTEMAS DE PROTEÇÃO.......................................................3
+3. INDICADORES DE DESEMPENHO DOS RELÉS DE PROTEÇÃO..............................................................5
+4. INDICADORES DE DESEMPENHO DOS SISTEMAS ESPECIAIS DE PROTEÇÃO.......................................8
+5. INDICADORES DE DESEMPENHO DOS ESQUEMAS DE RELIGAMENTO AUTOMÁTICO DE LINHAS DE
+TRANSMISSÃO...............................................................................................................................13
+6. REFERÊNCIAS.................................................................................................................................17
+Endereço na internet: http://www.ons.org.br 2 / 17
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho dos sistemas de
+9.3 Indicadores 2020.12 01/01/2021
+proteção
+1. OBJETIVO
+1.1. Estabelecer a sistemática para o cálculo e a divulgação dos indicadores de desempenho dos sistemas de
+proteção, os quais estão relacionados aos sistemas de proteção das funções transmissão e geração, aos relés
+de proteção, aos Sistemas Especiais de Proteção (SEP) – com destaque ao Esquema Regional de Alívio de
+Carga (ERAC) – e aos Esquemas de Religamento Automático de Linhas de Transmissão (ERA).
+2. INDICADORES DE DESEMPENHO DOS SISTEMAS DE PROTEÇÃO
+2.1. Sistemas de Proteção – Atuações Corretas (SPAC)
+2.1.1. Objetivo
+2.1.1.1. Avaliar a confiabilidade e a segurança das funções transmissão e geração do Sistema Interligado
+Nacional (SIN).
+2.1.2. Definição
+2.1.2.1. É a relação percentual entre o número de atuações corretas do sistema de proteção analisado e o
+número total de solicitações desse sistema, para um período de tempo considerado.
+2.1.2.2. Um sistema de proteção compreende o conjunto de relés de proteção, equipamentos de
+teleproteção, circuitos de corrente alternada e corrente contínua, disjuntores e outros dispositivos que,
+associados, têm por finalidade proteger o componente do sistema elétrico para defeitos, falhas em
+( 1 )
+equipamentos e outras condições anormais de operação.
+2.1.3. Formulação
+2.1.3.1. O indicador SPAC é calculado pela seguinte relação:
+AC
+SPAC  .100 [%]
+AC  AI  RA
+Onde:
+AC = Número de atuações corretas do sistema de proteção.
+AI = Número de atuações incorretas do sistema de proteção.
+RA = Número de recusas de atuações do sistema de proteção.
+AC+AI+RA = Número total de solicitações do sistema de proteção.
+2.2. Sistemas de Proteção – Atuações Incorretas (SPAI)
+2.2.1. Objetivo
+2.2.1.1. Avaliar a confiabilidade e a segurança das funções transmissão e geração do SIN.
+2.2.2. Definição
+2.2.2.1. É a relação percentual entre o número de atuações incorretas do sistema de proteção analisado e o
+número total de solicitações desse sistema, para um período de tempo considerado.
+Endereço na internet: http://www.ons.org.br 3 / 17
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho dos sistemas de
+9.3 Indicadores 2020.12 01/01/2021
+proteção
+2.2.2.2. Um sistema de proteção compreende o conjunto de relés de proteção, equipamentos de
+teleproteção, circuitos de corrente alternada e corrente contínua, disjuntores e outros dispositivos que,
+associados, têm por finalidade proteger o componente do sistema elétrico para defeitos, falhas em
+equipamentos e outras condições anormais de operação.
+( 2 )
+2.2.3. Formulação
+2.2.3.1. O indicador SPAI é calculado pela seguinte relação:
+AI
+SPAI  .100 [%]
+AC  AI  RA
+Onde:
+AC = Número de atuações corretas do sistema de proteção.
+AI = Número de atuações incorretas do sistema de proteção.
+RA = Número de recusas de atuações do sistema de proteção.
+AC+AI+RA = Número total de solicitações do sistema de proteção.
+2.3. Sistemas de Proteção – Recusas de Atuação (SPRA)
+2.3.1. Objetivo
+2.3.1.1. Avaliar a confiabilidade e a segurança das funções transmissão e geração do SIN.
+2.3.2. Definição
+2.3.2.1. É a relação percentual entre o número de recusas de atuação do sistema de proteção analisado e o
+número total de solicitações desse sistema, para um período de tempo considerado.
+2.3.2.2. Um sistema de proteção compreende o conjunto de relés de proteção, equipamentos de
+teleproteção, circuitos de corrente alternada e corrente contínua, disjuntores e outros dispositivos que,
+associados, têm por finalidade proteger o componente do sistema elétrico para defeitos, falhas em
+equipamentos e outras condições anormais de operação.
+( 3 )
+2.3.3. Formulação
+2.3.3.1. O indicador SPRA é calculado pela seguinte relação:
+RA
+SPRA  .100 [%]
+AC  AI  RA
+Onde:
+AC = Número de atuações corretas do sistema de proteção.
+AI = Número de atuações incorretas do sistema de proteção.
+RA = Número de recusas de atuações do sistema de proteção.
+AC+AI+RA = Número total de solicitações do sistema de proteção.
+2.4. Sistemas de Proteção – Atuações Acidentais (SPAA)
+2.4.1. Objetivo
+2.4.1.1. Avaliar a confiabilidade e a segurança das funções transmissão e geração do SIN.
+2.4.2. Definição
+Endereço na internet: http://www.ons.org.br 4 / 17
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho dos sistemas de
+9.3 Indicadores 2020.12 01/01/2021
+proteção
+2.4.2.1. É a relação entre o número de atuações acidentais dos sistemas de proteção e o número total dos
+sistemas de proteção da agregação em análise, para um período de tempo considerado.
+2.4.2.2. Um sistema de proteção compreende o conjunto de relés de proteção, equipamentos de
+teleproteção, circuitos de corrente alternada e corrente contínua, disjuntores e outros dispositivos que,
+associados, têm por finalidade proteger o componente do sistema elétrico para defeitos, falhas em
+equipamentos e outras condições anormais de operação.
+2.4.2.3. As atuações acidentais são caracterizadas por atuações não decorrentes de grandeza elétrica, sem
+que tenha havido perturbação no sistema de potência, ou quando a atuação resulta de fatores externos que
+interfiram no desempenho normal do dispositivo.
+( 4 )
+2.4.3. Formulação
+2.4.3.1. O indicador SPAA é calculado pela seguinte relação:
+AA
+SPAA
+N
+SP
+Onde:
+AA = Número de atuações acidentais de sistemas de proteção.
+N = Número total dos sistemas de proteção sob análise.
+SP
+2.5. Dados utilizados
+2.5.1. As sistemáticas para coleta, consistência e classificação dos dados utilizados para o cálculo dos
+indicadores de desempenho dos sistemas de proteção estão descritas no Submódulo 6.12 – Análise
+estatística de desligamentos forçados e de desempenho dos sistemas de proteção e rotina operacional
+específica no Submódulo 5.13 – Rotinas Operacionais.
+2.6. Agregações
+2.6.1. Sistêmica: sistema.
+2.6.2. Espacial: nível de tensão, agente de operação e função.
+2.6.3. Temporal: anual.
+2.7. Divulgação
+2.7.1. O ONS calcula e divulga os indicadores de desempenho dos sistemas de proteção por meio de
+relatório, estabelecido no Submódulo 6.12, para os agentes de operação e para a ANEEL e no site do ONS.
+2.7.2. A periodicidade de atualização dos indicadores no site do ONS é anual.
+3. INDICADORES DE DESEMPENHO DOS RELÉS DE PROTEÇÃO
+3.1. Relés de Proteção – Atuações Corretas (RPAC)
+3.1.1. Objetivo
+3.1.1.1. Avaliar a confiabilidade e a segurança de cada relé de proteção.
+3.1.2. Definição
+Endereço na internet: http://www.ons.org.br 5 / 17
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho dos sistemas de
+9.3 Indicadores 2020.12 01/01/2021
+proteção
+3.1.2.1. É a relação percentual entre o número de atuações corretas registradas para o relé de proteção
+analisado em relação ao número total de solicitações desse relé, para um período de tempo considerado.
+3.1.2.2. Um relé de proteção pode compreender uma ou mais funções de proteção. Esse indicador de
+desempenho é computado para o conjunto de funções existentes no relé analisado.
+( 5 )
+3.1.3. Formulação
+3.1.3.1. O indicador RPAC é calculado pela seguinte relação:
+AC
+RPAC  .100 [%]
+AC  AI  RA
+Onde:
+AC = Número de atuações corretas do relé de proteção.
+AI = Número de atuações incorretas do relé de proteção.
+RA = Número de recusas de atuações do relé de proteção.
+AC+AI+RA = Número total de solicitações do relé de proteção.
+3.2. Relés de Proteção – Atuações Incorretas (RPAI)
+3.2.1. Objetivo
+3.2.1.1. Avaliar a confiabilidade e a segurança de cada relé de proteção.
+3.2.2. Definição
+3.2.2.1. É a relação percentual entre o número de atuações incorretas registradas para o relé de proteção
+analisado em relação ao número total de solicitações desse relé, para um período de tempo considerado.
+3.2.2.2. Um relé de proteção pode compreender uma ou mais funções de proteção. Esse indicador de
+desempenho é computado para o conjunto de funções existentes no relé analisado.
+( 6 )
+3.2.3. Formulação
+3.2.3.1. O indicador RPAI é calculado pela seguinte relação:
+AI
+RPAI  .100[%]
+AC  AI RA
+Onde:
+AC = Número de atuações corretas do relé de proteção.
+AI = Número de atuações incorretas do relé de proteção.
+RA = Número de recusas de atuações do relé de proteção.
+AC+AI+RA = Número total de solicitações do relé de proteção.
+3.3. Relés de Proteção – Recusas de Atuação (RPRA)
+3.3.1. Objetivo
+3.3.1.1. Avaliar a confiabilidade e a segurança de cada relé de proteção.
+3.3.2. Definição
+Endereço na internet: http://www.ons.org.br 6 / 17
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho dos sistemas de
+9.3 Indicadores 2020.12 01/01/2021
+proteção
+3.3.2.1. É a relação percentual entre o número de recusas de atuação registradas para o relé de proteção
+analisado em relação ao número total de solicitações desse relé, para um período de tempo considerado.
+3.3.2.2. Um relé de proteção pode compreender uma ou mais funções de proteção. Esse indicador de
+desempenho é computado para o conjunto de funções existentes no relé analisado.
+( 7 )
+3.3.3. Formulação
+3.3.3.1. O indicador RPRA é calculado pela seguinte relação:
+RA
+RPRA  .100 [%]
+AC  AI  RA
+Onde:
+AC = Número de atuações corretas do relé de proteção.
+AI = Número de atuações incorretas do relé de proteção.
+RA = Número de recusas de atuações do relé de proteção.
+AC+AI+RA = Número total de solicitações do relé de proteção.
+3.4. Relés de Proteção – Atuações Acidentais (RPAA)
+3.4.1. Objetivo
+3.4.1.1. Avaliar a confiabilidade e a segurança de cada relé de proteção.
+3.4.2. Definição
+3.4.2.1. É a relação entre o número de atuações acidentais registradas para o relé de proteção analisado em
+relação ao número total de relés de mesmo modelo na agregação em análise, para um período de tempo
+considerado.
+3.4.2.2. As atuações acidentais são caracterizadas por atuações não decorrentes de grandeza elétrica, sem
+que tenha havido perturbação no sistema de potência, ou quando a atuação resulta de fatores externos que
+interfiram no desempenho normal do dispositivo.
+( 8 )
+3.4.3. Formulação
+3.4.3.1. O indicador RPAA é calculado pela seguinte relação:
+AA
+RPAA
+N
+RP
+Onde:
+AA = Número de atuações acidentais do relé de proteção.
+N = Número total de relés de proteção do modelo sob análise.
+RP
+3.5. Dados utilizados
+3.5.1. As sistemáticas para coleta, consistência e classificação dos dados utilizados para o cálculo dos
+indicadores de desempenho dos relés de proteção estão descritas no Submódulo 6.12 e rotina operacional
+específica no Submódulo 5.13.
+3.6. Agregações
+Endereço na internet: http://www.ons.org.br 7 / 17
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho dos sistemas de
+9.3 Indicadores 2020.12 01/01/2021
+proteção
+3.6.1. Sistêmica: modelo e tecnologia.
+3.6.2. Temporal: anual.
+3.7. Divulgação
+3.7.1. O ONS calcula e divulga os indicadores de desempenho dos relés de proteção por meio de relatório,
+estabelecido no Submódulo 6.12, para os agentes de operação e para a ANEEL e pelo site do ONS.
+3.7.2. A periodicidade de atualização dos indicadores no site do ONS é anual.
+4. INDICADORES DE DESEMPENHO DOS SISTEMAS ESPECIAIS DE PROTEÇÃO
+4.1. SEP – Atuações Corretas (SEPAC)
+4.1.1. Objetivo
+4.1.1.1. Avaliar a confiabilidade e a segurança de cada SEP, visando sua adequação aos estudos elétricos que
+definiram sua filosofia.
+4.1.2. Definição
+4.1.2.1. É a relação percentual entre o número de atuações corretas registradas para o SEP analisado em
+relação ao número total de solicitações desse SEP, para um período de tempo considerado.
+( 9 )
+4.1.3. Formulação
+4.1.3.1. O indicador SEPAC é calculado pela seguinte relação:
+AC
+SEPAC  .100 [%]
+AC  AI  RA
+Onde:
+AC = Número de atuações corretas do SEP
+AI = Número de atuações incorretas do SEP.
+RA = Número de recusas de atuações do SEP.
+AC+AI+RA = Número total de solicitações do SEP.
+4.1.4. Dados utilizados
+4.1.4.1. As sistemáticas para coleta, consistência e classificação dos dados utilizados para o cálculo do SEPAC
+estão descritas no Submódulo 6.12 e rotina operacional específica no Submódulo 5.13.
+4.1.5. Agregações
+4.1.5.1. Sistêmica: região e sistema.
+4.1.5.2. Espacial: tipo de SEP e SEP.
+4.1.5.3. Temporal: anual.
+4.1.6. Divulgação
+4.1.6.1. O ONS calcula e divulga o SEPAC por meio de relatório, estabelecido no Submódulo 6.12, para os
+agentes de operação e para a ANEEL e pelo site do ONS.
+Endereço na internet: http://www.ons.org.br 8 / 17
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho dos sistemas de
+9.3 Indicadores 2020.12 01/01/2021
+proteção
+4.1.6.2. A periodicidade de atualização do indicador no site do ONS é anual.
+4.2. SEP – Atuações Incorretas (SEPAI)
+4.2.1. Objetivo
+4.2.1.1. Avaliar a confiabilidade e a segurança de cada SEP, visando sua adequação aos estudos elétricos que
+definiram sua filosofia.
+4.2.2. Definição
+4.2.2.1. É a relação percentual entre o número de atuações incorretas registradas para o SEP analisado em
+relação ao número total de solicitações desse SEP, para um período de tempo considerado.
+( 10 )
+4.2.3. Formulação
+4.2.3.1. O indicador SEPAI é calculado pela seguinte relação:
+AI
+SEPAI  .100[%]
+AC  AI RA
+Onde:
+AC = Número de atuações corretas do SEP.
+AI = Número de atuações incorretas do SEP.
+RA = Número de recusas de atuações do SEP.
+AC+AI+RA = Número total de solicitações do SEP.
+4.2.4. Dados utilizados
+4.2.4.1. As sistemáticas para coleta, consistência e classificação dos dados utilizados para o cálculo do SEPAI
+estão descritas no Submódulo 6.12 e rotina operacional específica no Submódulo 5.13.
+4.2.5. Agregações
+4.2.5.1. Sistêmica: região e sistema.
+4.2.5.2. Espacial: tipo de SEP e SEP.
+4.2.5.3. Temporal: anual.
+4.2.6. Divulgação
+4.2.6.1. O ONS calcula e divulga o SEPAI por meio de relatório, estabelecido no Submódulo 6.12, para os
+agentes de operação e para a ANEEL e pelo site do ONS.
+4.2.6.2. A periodicidade de atualização do indicador no site do ONS é anual.
+4.3. SEP – Recusas de Atuação (SEPRA)
+4.3.1. Objetivo
+4.3.1.1. Avaliar a confiabilidade e a segurança de cada SEP, visando sua adequação aos estudos elétricos que
+definiram sua filosofia.
+4.3.2. Definição
+Endereço na internet: http://www.ons.org.br 9 / 17
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho dos sistemas de
+9.3 Indicadores 2020.12 01/01/2021
+proteção
+4.3.2.1. É a relação percentual entre o número de recusas de atuação registradas para o SEP analisado em
+relação ao número total de solicitações desse SEP, para um período de tempo considerado.
+( 11 )
+4.3.3. Formulação
+4.3.3.1. O indicador SEPRA é calculado pela seguinte relação:
+RA
+SEPRA  .100 [%]
+AC  AI  RA
+Onde:
+AC = Número de atuações corretas do SEP.
+AI = Número de atuações incorretas do SEP.
+RA = Número de recusas de atuações do SEP.
+AC+AI+RA = Número total de solicitações do SEP.
+4.3.4. Dados utilizados
+4.3.4.1. As sistemáticas para coleta, consistência e classificação dos dados utilizados para o cálculo do SEPRA
+estão descritas no Submódulo 6.12 e rotina operacional específica no Submódulo 5.13.
+4.3.5. Agregações
+4.3.5.1. Sistêmica: região e sistema.
+4.3.5.2. Espacial: tipo de SEP e SEP.
+4.3.5.3. Temporal: anual.
+4.3.6. Divulgação
+4.3.6.1. O ONS calcula e divulga o SEPRA por meio de relatório, estabelecido no Submódulo 6.12, para os
+agentes de operação e para a ANEEL e pelo site do ONS.
+4.3.6.2. A periodicidade de atualização do indicador no site do ONS é anual.
+4.4. SEP – Atuações Acidentais (SEPAA)
+4.4.1. Objetivo
+4.4.1.1. Avaliar a confiabilidade e a segurança de cada SEP, visando sua adequação aos estudos elétricos que
+definiram sua filosofia.
+4.4.2. Definição
+4.4.2.1. É a relação entre o número de atuações acidentais registradas para o SEP analisado em relação ao
+número total de SEP de mesmo tipo na agregação em análise, para um período de tempo considerado.
+4.4.2.2. As atuações acidentais são caracterizadas por atuações não decorrentes de grandeza elétrica, sem
+que tenha havido perturbação no sistema de potência, ou quando a atuação resulta de fatores externos que
+interfiram no desempenho normal do dispositivo.
+4.4.3. Formulação
+4.4.3.1. O indicador SEPAA é calculado pela seguinte relação:
+Endereço na internet: http://www.ons.org.br 10 / 17
+Procedimentos de Rede - Módulo 9 - Indicadores
+( 12 )
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho dos sistemas de
+9.3 Indicadores 2020.12 01/01/2021
+proteção
+AA
+SEPAA
+N
+SEP
+Onde:
+AA = Número de atuações acidentais do SEP.
+N = Número total de SEP do tipo sob análise.
+SEP
+4.4.4. Dados utilizados
+4.4.4.1. As sistemáticas para coleta, consistência e classificação dos dados utilizados para o cálculo do SEPAA
+estão descritas no Submódulo 6.12 e rotina operacional específica no Submódulo 5.13.
+4.4.5. Agregações
+4.4.5.1. Sistêmica: região e sistema.
+4.4.5.2. Espacial: tipo de SEP e SEP.
+4.4.5.3. Temporal: anual.
+4.4.6. Divulgação
+4.4.6.1. O ONS calcula e divulga o SEPAA por meio de relatório, estabelecido no Submódulo 6.12, para os
+agentes de operação e para a ANEEL e pelo site do ONS.
+4.4.6.2. A periodicidade de atualização do indicador no site do ONS é anual.
+4.5. SEP – Atendimento Diário aos Limites de Tolerância do ERAC (SEPERACD)
+4.5.1. Objetivo
+4.5.1.1. Apurar o atendimento diário de cada estágio do ERAC aos limites de tolerância dos valores teóricos
+estabelecidos pelo ONS para os montantes acumulados de corte de carga.
+4.5.2. Definição
+4.5.2.1. É a relação entre o número de horas diárias em que os limites de tolerância de cada estágio do ERAC
+não foram violados e o total de horas do dia.
+( 13 )
+4.5.3. Formulação
+4.5.3.1. O indicador SEPERACD é calculado pela seguinte relação:
+HC
+SEPERACD  nºestágio
+nºestágio 24
+Onde:
+SEPERACD = Indicador de Atendimento Diário aos Limites de Tolerância do ERAC do enésimo estágio.
+nºestágio
+HC = Horas diárias em que o enésimo estágio do ERAC não violou os limites de tolerância definidos
+nºestágio
+pelo ONS (horas em conformidade).
+4.5.4. Dados utilizados
+Endereço na internet: http://www.ons.org.br 11 / 17
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho dos sistemas de
+9.3 Indicadores 2020.12 01/01/2021
+proteção
+4.5.4.1. As sistemáticas para coleta, apuração e consistência dos dados utilizados para o cálculo SEPERACD
+estão descritas no Submódulo 6.14 – Monitoramento dos Esquemas Regionais de Alívio de Carga.
+4.5.5. Agregações
+4.5.5.1. Espacial: agente de distribuição.
+4.5.5.2. Temporal: diária.
+4.5.6. Divulgação
+4.5.6.1. O ONS calcula e divulga o SEPERACD mensalmente para os agentes de operação e para a ANEEL,
+conforme estabelecido no Submódulo 6.14, e pelo site do ONS.
+4.5.6.2. A periodicidade de atualização do indicador no site do ONS é mensal.
+4.6. SEP – Atendimento Mensal aos Limites de Tolerância do ERAC (SEPERACM)
+4.6.1. Objetivo
+4.6.1.1. Apurar o atendimento mensal de cada estágio do ERAC aos limites de tolerância dos valores teóricos
+estabelecidos pelo ONS para os montantes acumulados de corte de carga.
+4.6.2. Definição
+4.6.2.1. É a média mensal dos indicadores SEPERACD de cada estágio do ERAC.
+( 14 )
+4.6.3. Formulação
+4.6.3.1. O indicador SEPERACM é calculado pela seguinte relação:
+DM
+SEPERACD (d)
+nºestágio
+SEPERACM  d1
+nºestágio DM
+Onde:
+SEPERACM = Indicador de Atendimento Mensal aos Limites de Tolerância do ERAC do enésimo estágio.
+nºestágio
+DM = Total de dias do mês de apuração.
+4.6.4. Dados utilizados
+4.6.4.1. As sistemáticas para coleta, apuração e consistência dos dados utilizados para o cálculo do
+SEPERACM estão descritas no Submódulo 6.14.
+4.6.5. Agregações
+4.6.5.1. Espacial: agente de distribuição.
+4.6.5.2. Temporal: mensal.
+4.6.6. Avaliação de desempenho
+4.6.6.1. O patamar mensal mínimo de aceitabilidade para o indicador SEPERACM é:
+Endereço na internet: http://www.ons.org.br 12 / 17
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho dos sistemas de
+9.3 Indicadores 2020.12 01/01/2021
+proteção
+(a) para os 1º, 2º e 3º estágios: 90% (0,90); e
+(b) para os 4º e 5º estágios: 85% (0,85).
+4.6.7. Divulgação
+4.6.7.1. O ONS calcula e divulga o SEPERACM mensalmente para os agentes de operação e para a ANEEL,
+conforme estabelecido no Submódulo 6.14, e pelo site do ONS.
+4.6.7.2. A periodicidade de atualização do indicador no site do ONS é mensal.
+5. INDICADORES DE DESEMPENHO DOS ESQUEMAS DE RELIGAMENTO AUTOMÁTICO DE LINHAS DE
+TRANSMISSÃO
+5.1. ERA – Atuações Corretas (ERAAC)
+5.1.1. Objetivo
+5.1.1.1. Avaliar o desempenho dos ERA do SIN e a adequação da filosofia, projeto e ajustes destes esquemas.
+5.1.2. Definição
+5.1.2.1. É definido pela relação percentual entre o número total de atuações corretas do esquema de
+religamento automático analisado e a soma das atuações corretas, atuações incorretas e recusas de atuação
+desse esquema, para um período de tempo considerado.
+5.1.2.2. A soma do número de atuações corretas, atuações incorretas e recusas de atuação é igual ao
+universo estatístico para religamentos automáticos, ou seja, o número de desligamentos forçados de linhas
+de transmissão (LT) originados por causa interna e com natureza fugitiva, estando o esquema de religamento
+automático em operação.
+( 15 )
+5.1.3. Formulação
+5.1.3.1. O indicador ERAAC é calculado pela seguinte relação:
+AC
+ERAAC  .100 [%]
+AC  AI  RA
+Onde:
+AC = Número de atuações corretas do esquema de religamento automático.
+AI = Número de atuações incorretas do esquema de religamento automático.
+RA = Número de recusas de atuação do esquema de religamento automático.
+5.2. ERA – Atuações Incorretas (ERAAI)
+5.2.1. Objetivo
+5.2.1.1. Avaliar o desempenho dos esquemas de religamento automático das LT do SIN e a adequação da
+filosofia, projeto e ajustes destes esquemas.
+5.2.2. Definição
+Endereço na internet: http://www.ons.org.br 13 / 17
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho dos sistemas de
+9.3 Indicadores 2020.12 01/01/2021
+proteção
+5.2.2.1. É definido pela relação percentual entre o número total de atuações incorretas do esquema de
+religamento automático analisado e a soma das atuações corretas, atuações incorretas e recusas de atuação
+desse esquema, para um período de tempo considerado.
+5.2.2.2. A soma do número de atuações corretas, atuações incorretas e recusas de atuação é igual ao
+universo estatístico para religamentos automáticos, ou seja, o número de desligamentos forçados da LT
+originados por causa interna e com natureza fugitiva, estando o esquema de religamento automático em
+operação.
+( 16 )
+5.2.3. Formulação
+5.2.3.1. O indicador ERAAI é calculado pela seguinte relação:
+AI
+ERAAI  .100 [%]
+AC  AI  RA
+Onde:
+AC = Número de atuações corretas do esquema de religamento automático.
+AI = Número de atuações incorretas do esquema de religamento automático.
+RA = Número de recusas de atuação do esquema de religamento automático.
+5.3. ERA – Recusas de Atuação (ERARA)
+5.3.1. Objetivo
+5.3.1.1. Avaliar o desempenho dos esquemas de religamento automático das LT do SIN e a adequação da
+filosofia, projeto e ajustes destes esquemas.
+5.3.2. Definição
+5.3.2.1. É definido pela relação percentual entre o número total de recusas de atuação do esquema de
+religamento automático analisado e a soma das atuações corretas, atuações incorretas e recusas de atuação
+desse esquema, para um período de tempo considerado.
+5.3.2.2. A soma do número de atuações corretas, atuações incorretas e recusas de atuação é igual ao
+universo estatístico para religamentos automáticos, ou seja, o número de desligamentos forçados da LT
+originados por causa interna e com natureza fugitiva, estando o esquema de religamento automático em
+operação.
+( 17 )
+5.3.3. Formulação
+5.3.3.1. O indicador ERARA é calculado pela seguinte relação:
+RA
+ERARA  .100 [%]
+AC  AI  RA
+Onde:
+AC = Número de atuações corretas do esquema de religamento automático.
+AI = Número de atuações incorretas do esquema de religamento automático.
+RA = Número de recusas de atuação do esquema de religamento automático.
+5.4. ERA – Religamentos Satisfatórios (ERARS)
+5.4.1. Objetivo
+Endereço na internet: http://www.ons.org.br 14 / 17
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho dos sistemas de
+9.3 Indicadores 2020.12 01/01/2021
+proteção
+5.4.1.1. Avaliar o desempenho dos esquemas de religamento automático de LT do ponto de vista de sua
+eficácia para o SIN.
+5.4.2. Definição
+5.4.2.1. É definido pela relação percentual entre o número total de religamentos automáticos satisfatórios
+da LT analisada e a soma do número de religamentos automáticos satisfatórios, religamentos automáticos
+insatisfatórios e falhas de religamento dessa LT, para um período de tempo considerado.
+5.4.2.2. O religamento automático de uma LT é considerado satisfatório se ocorrer o restabelecimento
+automático de todos os terminais dessa LT após uma perturbação.
+5.4.2.3. A soma do número de religamentos satisfatórios, religamentos insatisfatórios e falhas de
+religamento é igual ao universo estatístico para religamentos automáticos, ou seja, o número de
+desligamentos forçados da LT originados por causa interna e com natureza fugitiva, estando o esquema de
+religamento automático em operação.
+( 18 )
+5.4.3. Formulação
+5.4.3.1. O indicador ERARS é calculado pela seguinte relação:
+RS
+ERARS  .100 [%]
+RS  RI  FR
+Onde:
+RS = Número de religamentos automáticos satisfatórios.
+RI = Número de religamentos automáticos insatisfatórios.
+FR = Número de falhas de religamento.
+5.5. ERA – Religamentos Insatisfatórios (ERARI)
+5.5.1. Objetivo
+5.5.1.1. Avaliar o desempenho dos esquemas de religamento automático de LT do ponto de vista de sua
+eficácia para o SIN.
+5.5.2. Definição
+5.5.2.1. É definido pela relação percentual entre o número total de religamentos automáticos não
+satisfatórios da LT analisada e a soma do número de religamentos automáticos satisfatórios, religamentos
+automáticos insatisfatórios e falhas de religamento dessa LT, para um período de tempo considerado.
+5.5.2.2. A soma do número de religamentos satisfatórios, religamentos insatisfatórios e falhas de
+religamento é igual ao universo estatístico para religamentos automáticos, ou seja, o número de
+desligamentos forçados da LT originados por causa interna e com natureza fugitiva, estando o esquema de
+religamento automático em operação.
+( 19 )
+5.5.3. Formulação
+5.5.3.1. O indicador ERARI é calculado pela seguinte relação:
+RI
+ERARI  .100[%]
+RS  RI  FR
+Onde:
+Endereço na internet: http://www.ons.org.br 15 / 17
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho dos sistemas de
+9.3 Indicadores 2020.12 01/01/2021
+proteção
+RS = Número de religamentos automáticos satisfatórios.
+RI = Número de religamentos automáticos insatisfatórios.
+FR = Número de falhas de religamento.
+5.6. ERA – Falhas de Religamento (ERAFR)
+5.6.1. Objetivo
+5.6.1.1. Avaliar o desempenho dos esquemas de religamento automático de LT do ponto de vista de sua
+eficácia para o SIN.
+5.6.2. Definição
+5.6.2.1. É definido pela relação percentual entre o número total de falhas de religamento da LT analisada e
+a soma do número de religamentos automáticos satisfatórios, religamentos automáticos insatisfatórios e
+falhas de religamento dessa LT, para um período de tempo considerado.
+5.6.2.2. A soma do número de religamentos satisfatórios, religamentos insatisfatórios e falhas de
+religamento é igual ao universo estatístico para religamentos automáticos, ou seja, o número de
+desligamentos forçados da LT originados por causa interna e com natureza fugitiva, estando o esquema de
+religamento automático em operação.
+( 20 )
+5.6.3. Formulação
+O indicador ERAFR é calculado pela seguinte relação:
+FR
+ERAFR  .100 [%]
+RS  RI  FR
+Onde:
+RS = Número de religamentos automáticos satisfatórios.
+RI = Número de religamentos automáticos insatisfatórios.
+FR = Número de falhas de religamento.
+5.7. Dados utilizados
+5.7.1. As sistemáticas para coleta, consistência e classificação dos dados utilizados para o cálculo dos
+indicadores de desempenho dos ERA estão descritas no Submódulo 6.12 e rotina operacional específica no
+Submódulo 5.13.
+5.8. Agregações
+5.8.1. Sistêmica: sistema.
+5.8.2. Espacial: nível de tensão, função e agente de operação.
+5.8.3. Temporal: anual.
+5.9. Divulgação
+5.9.1. O ONS calcula e divulga os indicadores de desempenho dos ERA por meio de relatório, estabelecido
+no Submódulo 6.12, para os agentes de operação e para a ANEEL e pelo site do ONS.
+5.9.2. A periodicidade de atualização dos indicadores no site do ONS é anual.
+Endereço na internet: http://www.ons.org.br 16 / 17
+Procedimentos de Rede - Módulo 9 - Indicadores
+Nome Submódulo Tipo Revisão Vigência
+Indicadores de desempenho dos sistemas de
+9.3 Indicadores 2020.12 01/01/2021
+proteção
+6. REFERÊNCIAS
+6.1. Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 17 / 17

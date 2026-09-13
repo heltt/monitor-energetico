@@ -1,0 +1,194 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.15-OP_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.15-OP_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.15
+Gerenciamento da qualidade da energia
+elétrica da Rede Básica
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede – Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Gerenciamento da qualidade da energia elétrica
+6.15 Operacional 2020.12 01/01/2021
+da Rede Básica
+ÍNDICE
+1. GERENCIAMENTO DOS INDICADORES DE CONTINUIDADE DO SERVIÇO............................................3
+2. GERENCIAMENTO DOS INDICADORES DE FREQUÊNCIA....................................................................4
+3. GERENCIAMENTO DOS INDICADORES DE TENSÃO DE ATENDIMENTO EM REGIME PERMANENTE....4
+4. GERENCIAMENTO DOS INDICADORES DE FLUTUAÇÃO, DESEQUILÍBRIO E DISTORÇÃO HARMÔNICA
+DE TENSÃO......................................................................................................................................5
+5. GERENCIAMENTO DOS INDICADORES DE VARIAÇÃO DE TENSÃO DE CURTA DURAÇÃO - VTCD........6
+6. REFERÊNCIAS...................................................................................................................................6
+7. ANEXOS...........................................................................................................................................6
+Endereço na internet: http://www.ons.org.br 2 / 6
+Procedimentos de Rede – Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Gerenciamento da qualidade da energia elétrica
+6.15 Operacional 2020.12 01/01/2021
+da Rede Básica
+1. GERENCIAMENTO DOS INDICADORES DE CONTINUIDADE DO SERVIÇO
+1.1. A Qualidade de Energia Elétrica (QEE) quanto à continuidade do serviço, monitorada em pontos de
+controle, é gerenciada conforme estabelecido neste submódulo e representada por indicadores definidos no
+Submódulo 9.7 – Indicadores de qualidade de energia elétrica da Rede Básica, cujos requisitos estão
+estabelecidos no Submódulo 2.9 – Requisitos mínimos de qualidade de energia elétrica para acesso ou
+integração à Rede Básica.
+1.2. Entende-se por ponto de controle a instalação ou conjunto de instalações na fronteira entre as
+instalações sob responsabilidade de concessionária de transmissão e os ativos de conexão com os agentes
+de geração, de distribuição, de importação/exportação e com os consumidores.
+1.3. Entende-se por interrupção de serviço no ponto de controle a condição em que esse ponto de controle
+permanece com tensão nula por um período maior ou igual a 1 (um) minuto, em decorrência de eventos
+locais ou remotos, programados ou não.
+1.4. A interrupção de serviço no ponto de controle não implica necessariamente interrupção de
+fornecimento a consumidores.
+1.5. O gerenciamento dos indicadores referentes à continuidade de serviço tem como objetivo identificar
+pontos de controle com desempenho considerado atípico e propor ações corretivas.
+1.6. O ONS coleta os indicadores de continuidade de forma contínua e os apura em base mensal.
+1.7. Os indicadores são apurados e agregados por causa e origem do evento e, em cada ponto de controle,
+são coletadas as seguintes informações:
+(a) dia do evento;
+(b) horário do início do evento;
+(c) horário do fim do evento;
+(d) origem do evento (interna ou externa às instalações sob responsabilidade de concessionária de
+transmissão);
+(e) identificação do equipamento associado à origem do evento; e
+(f) tipo do evento, segundo o Quadro 1.
+Quadro 1 – Tipo do evento
+Tipo Descrição
+Desligamentos programados
+P1 Manutenção
+P2 Novas conexões, modificações e melhorias
+Outros desligamentos
+O1 Emergências
+O2 Urgências
+O3 Fenômenos naturais e ambientais
+O4 Acidente
+O5 Falha de equipamentos de potência
+O6 Falha de equipamentos de proteção e controle
+O7 Outros
+Endereço na internet: http://www.ons.org.br 3 / 6
+Procedimentos de Rede – Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Gerenciamento da qualidade da energia elétrica
+6.15 Operacional 2020.12 01/01/2021
+da Rede Básica
+2. GERENCIAMENTO DOS INDICADORES DE FREQUÊNCIA
+2.1. A QEE quanto à frequência é representada pelos indicadores de frequência em regime permanente e
+durante distúrbios, DFP e DFD, respectivamente, definidos no Submódulo 9.7, cujos requisitos estão
+estabelecidos no Submódulo 2.9.
+2.2. A avaliação da QEE quanto à frequência é fundamental para se determinar a qualidade da operação da
+Rede Básica, avaliar as condições de estabilidade do sistema elétrico e prevenir a abertura das interligações
+entre subsistemas.
+2.3. O ONS, a partir do gerenciamento do desempenho da frequência, identifica e recomenda ações que
+venham a melhorar o desempenho operacional do SIN.
+2.4. Os indicadores de frequência têm entre suas finalidades:
+(a) avaliar a capacidade e a eficiência do SIN em responder a demandas do sistema elétrico, como
+variação de carga, variação de geração e mudanças de topologia da rede elétrica, mantendo a
+frequência dentro dos limites estabelecidos;
+(b) refletir a qualidade da operação, na coordenação dos recursos de geração do SIN;
+(c) avaliar a eficácia da resposta dos sistemas de Controle Automático de Geração (CAG) em operação no
+período de apuração; e
+(d) refletir a qualidade dos diversos programas de operação elaborados pelas áreas de programação do
+ONS e agentes, mostrando a eficácia desses programas na previsão das condições operacionais do
+sistema.
+2.5. O ONS armazena os valores apurados de frequência utilizados para a determinação dos indicadores, de
+forma a viabilizar sua consulta pelos agentes envolvidos em cada uma das medições.
+2.6. O ONS gerencia o desempenho da frequência com base nos valores dos indicadores de frequência, nos
+relatórios de análise emitidos pelo ONS e nos relatórios de desempenho de CAG emitidos pelos centros de
+operação do ONS detentores de CAG, com a identificação das causas dos desvios de frequência.
+2.7. Quando há violação persistente dos limites dos indicadores de frequência, o ONS identifica as causas e
+propõe ações, inclusive metas e prazos, que corrijam os problemas identificados e previnam novas
+ocorrências.
+2.8. O ONS mantém, para sua referência e dos agentes, uma base de dados que contém o detalhamento de
+cada caso estudado, índices apurados, causas identificadas, recomendações e ações efetivamente realizadas.
+3. GERENCIAMENTO DOS INDICADORES DE TENSÃO DE ATENDIMENTO EM REGIME PERMANENTE
+3.1. A QEE quanto à tensão de atendimento em regime permanente é representada pelos indicadores DRP
+e DRC definidos no Submódulo 9.7, cujos requisitos são estabelecidos no Submódulo 2.9.
+3.2. O gerenciamento dos indicadores relacionados à tensão de atendimento em regime permanente tem
+como objetivo identificar o barramento sob responsabilidade de concessionárias de transmissão com
+desempenho aquém do estabelecido e propor ações corretivas.
+3.3. O ONS armazena os valores de medição utilizados para a obtenção dos indicadores de tensão de
+atendimento em regime permanente de barramentos sob responsabilidade de concessionárias de
+transmissão, de forma a viabilizar sua consulta pelos agentes envolvidos.
+Endereço na internet: http://www.ons.org.br 4 / 6
+Procedimentos de Rede – Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Gerenciamento da qualidade da energia elétrica
+6.15 Operacional 2020.12 01/01/2021
+da Rede Básica
+3.4. Se o desempenho do indicador de tensão de atendimento em regime permanente em determinado
+ponto de observação for classificado como crítico de forma persistente no período de 1 (um) mês, o ONS,
+juntamente com os agentes responsáveis pelo ponto ou afetados por seu desempenho, analisa as causas da
+inadequação.
+3.5. Se a inadequação do desempenho tiver causa de caráter sistêmico, o ONS propõe alternativas de solução
+para a implantação de reforço ou ampliação das instalações de transmissão.
+3.6. Se a inadequação do desempenho for causada pela violação do limite individual por parte de algum
+agente, o ONS indica recomendações a serem atendidas pelo agente em questão.
+3.7. O ONS mantém, para sua referência e dos agentes, uma base de dados contendo o detalhamento de
+cada caso estudado, os índices apurados, as causas identificadas, as recomendações e as ações efetivamente
+realizadas.
+4. GERENCIAMENTO DOS INDICADORES DE FLUTUAÇÃO, DESEQUILÍBRIO E DISTORÇÃO HARMÔNICA DE
+TENSÃO
+4.1. A QEE quanto à flutuação, desequilíbrio e distorção harmônica é representada por indicadores definidos
+no Submódulo 9.7, cujos requisitos estão estabelecidos no Submódulo 2.9.
+4.2. O gerenciamento dos indicadores de flutuação, desequilíbrio e distorção harmônica de tensão tem como
+objetivo identificar barramentos sob responsabilidade de concessionária de transmissão no ponto de
+acoplamento comum (PAC) com desempenho aquém do estabelecido e propor ações corretivas.
+4.3. O ONS repassa ao agente todas as informações necessárias relativas à rede elétrica para a realização
+dos estudos de QEE.
+4.4. O agente apresenta, em formato e prazo estabelecidos pelo ONS, os resultados do processo de apuração
+dos indicadores do sistema de medição instalado pelo agente, realizado através de monitoramento contínuo
+ou de campanhas de medição.
+4.5. Se o desempenho do PAC for considerado em estado de observação, conforme definição constante do
+Submódulo 2.9, e houver reclamações ou evidências de problemas relativos ao desempenho e/ou à
+integridade de alguma instalação, o ONS realiza investigações das causas e responsabilidades em conjunto
+com os agentes envolvidos. Após a conclusão das investigações, o ONS busca alternativas de solução e atribui
+responsabilidades.
+4.6. Se o desempenho do PAC for considerado inadequado, conforme definição constante do Submódulo
+2.9, o ONS realiza investigações das causas e responsabilidades em conjunto com os agentes envolvidos.
+Após a conclusão das investigações, o ONS define as ações corretivas ou mitigadoras.
+4.7. Se ocorrer a violação do desempenho global em determinado barramento sob responsabilidade de
+concessionária de transmissão, o ONS, em conjunto com os agentes envolvidos, realiza:
+(a) medições adicionais no barramento sob análise e nos sistemas dos agentes a ele conectados, de
+maneira a caracterizar o efeito da violação; e
+(b) simulações computacionais para subsidiar o processo de análise e identificação das causas da violação
+e de estabelecimento de medidas corretivas ou mitigadoras.
+4.8. Se a inadequação do desempenho tiver causa de caráter sistêmico, o ONS propõe alternativas de solução
+para a implantação de reforço ou ampliação das instalações de transmissão.
+4.9. Se a inadequação do desempenho for causada pela violação do limite individual por parte de algum
+agente, o ONS indica recomendações a serem atendidas pelo agente em questão.
+Endereço na internet: http://www.ons.org.br 5 / 6
+Procedimentos de Rede – Módulo 6 – Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Gerenciamento da qualidade da energia elétrica
+6.15 Operacional 2020.12 01/01/2021
+da Rede Básica
+4.10. O ONS mantém, para sua referência e dos agentes, os relatórios contendo o detalhamento de cada
+caso estudado, com os índices apurados e as causas identificadas, as recomendações e as ações efetivamente
+realizadas.
+5. GERENCIAMENTO DOS INDICADORES DE VARIAÇÃO DE TENSÃO DE CURTA DURAÇÃO - VTCD
+5.1. A QEE quanto a VTCD é representada por indicadores definidos no Submódulo 9.7, cujos requisitos estão
+estabelecidos no Submódulo 2.9.
+5.2. Os agentes envolvidos em cada uma das medições podem consultar os valores apurados, que são
+armazenados pelo ONS, para posterior determinação dos indicadores.
+5.3. O gerenciamento dos indicadores de VTCD tem como objetivo identificar barramentos sob
+responsabilidade de concessionária de transmissão com desempenho crítico, e propor ações corretivas.
+5.4. O agente apresenta o arquivo de saída do instrumento em formato XML, conforme especificação
+conjunta da Câmara de Comercialização de Energia Elétrica – CCEE e do ONS.
+5.5. A avaliação do desempenho é realizada por meio da comparação dos valores obtidos para cada tipo de
+VTCD com os respectivos valores médios para os demais barramentos de mesmo tipo.
+5.6. Se o desempenho de determinado barramento for classificado como crítico de forma persistente no
+período de 1 ano, o ONS, juntamente com os agentes responsáveis pelo barramento ou afetados por seu
+desempenho, analisa as causas da inadequação do desempenho.
+5.7. O ONS mantém, para sua referência e dos agentes, a base de dados contendo o detalhamento de cada
+caso estudado, com os índices apurados, as causas identificadas, as recomendações e as ações efetivamente
+realizadas.
+6. REFERÊNCIAS
+6.1. Não há referências neste documento.
+7. ANEXOS
+7.1. Não há anexos neste documento.
+Endereço na internet: http://www.ons.org.br 6 / 6

@@ -1,0 +1,91 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.9-OP_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.9-OP_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.9
+Implantação dos sistemas de supervisão
+e controle para a operação
+Operacional
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação dos sistemas de supervisão e
+7.9 Operacional 2020.12 01/01/2021
+controle para a operação
+ÍNDICE
+1. ATUALIZAÇÃO DAS BASES DE DADOS DOS SISTEMAS DE SUPERVISÃO E CONTROLE DO ONS...........3
+1.1. Cadastramento de equipamentos.................................................................................................3
+1.2. Testes de conectividade e testes ponto a ponto...........................................................................3
+2. ADEQUAÇÃO DE INSTALAÇÕES QUANDO DA REVISÃO DA REDE DE SUPERVISÃO.............................3
+3. IMPLANTAÇÃO DO SISTEMA DE MEDIÇÃO DE SINCRONIZADA DE FASORES (SMSF)..........................4
+4. REFERÊNCIAS...................................................................................................................................4
+5. ANEXOS...........................................................................................................................................4
+Endereço na internet: http://www.ons.org.br 2 / 4
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação dos sistemas de supervisão e
+7.9 Operacional 2020.12 01/01/2021
+controle para a operação
+1. ATUALIZAÇÃO DAS BASES DE DADOS DOS SISTEMAS DE SUPERVISÃO E CONTROLE DO ONS
+1.1. Cadastramento de equipamentos
+1.1.1. O Operador Nacional do Sistema Elétrico – ONS define as regras para identificar todos os
+equipamentos que de alguma forma sejam objeto dos requisitos estabelecidos no Submódulo 2.12 –
+Requisitos mínimos de supervisão e controle para a operação, sejam eles pertencentes à Rede de Supervisão
+ou não, conforme rotina operacional relativa à identificação dos equipamentos e medidas do sistema
+computacional de supervisão e controle do ONS no Submódulo 5.13 – Rotinas Operacionais.
+1.1.1.1. Os centros de operação do ONS utilizam essa identificação no relacionamento operacional, em
+particular no que tange à identificação de instalações.
+1.1.1.2. As siglas já adotadas para a identificação das instalações existentes são preservadas, desde que
+garantam o princípio de unicidade de identificação.
+1.1.2. Os agentes que disponham de equipamentos na Rede de Supervisão fornecem as informações
+cadastrais descritivas para a configuração das bases de dados dos centros de operação do ONS, conforme
+detalhado em rotina específica do Submódulo 5.13.
+1.1.3. Quando da integração de novas instalações e ampliações, os agentes encaminham as informações ao
+ONS, para que as bases de dados dos sistemas de supervisão dos centros de operação do ONS possam ser
+atualizadas e testadas.
+1.1.4. No caso de instalações existentes, sempre que forem programadas alterações que modifiquem algum
+dos dados cadastrais aqui especificados, tais como alteração de relação de transformadores, alteração de
+parâmetros de transformador de corrente (TC) etc., os agentes informam essas alterações ao ONS.
+1.2. Testes de conectividade e testes ponto a ponto
+1.2.1. O ONS e o agente programam testes de conectividade e testes ponto a ponto no enlace de
+comunicação entre o ONS e o agente, conforme estabelecido no Submódulo 2.12, quando:
+(a) da entrada em operação de novas instalações ou ampliações;
+(b) de ocorrência de alterações que modifiquem o conjunto de informações armazenadas na base de
+dados do ONS; e
+(c) da necessidade de avaliar o selo de tempo das sinalizações e Sequence of Events (SOE).
+2. ADEQUAÇÃO DE INSTALAÇÕES QUANDO DA REVISÃO DA REDE DE SUPERVISÃO
+2.1. Os agentes adequam suas instalações aos requisitos estabelecidos no Submódulo 2.12 quando da
+inserção de equipamentos ou instalações existentes na Rede de Supervisão em decorrência de sua
+reclassificação, resultante da revisão da Rede de Supervisão, conforme previsto no Submódulo 2.1 –
+Definição das redes do Sistema Interligado Nacional.
+2.2. Quando da revisão da Rede de Supervisão, conforme previsto no Submódulo 2.1, os agentes apresentam
+ao ONS o planejamento para adequação aos requisitos estabelecidos no Submódulo 2.12.
+2.3. O ONS indica as adequações necessárias e as respectivas datas de necessidade, conforme estabelecido
+em regulação [1][2].
+Endereço na internet: http://www.ons.org.br 3 / 4
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação dos sistemas de supervisão e
+7.9 Operacional 2020.12 01/01/2021
+controle para a operação
+3. IMPLANTAÇÃO DO SISTEMA DE MEDIÇÃO DE SINCRONIZADA DE FASORES (SMSF)
+3.1. O ONS estabelece a localização das Unidades de Medição de Sincrofasores (PMU) em função da
+obtenção de subsídios para a operação do Sistema Interligado Nacional (SIN).
+3.2. O ONS acompanha o cumprimento do Plano de Ação para Implantação das PMU pelos agentes, até a
+plena operacionalização de todas as PMU previstas no plano, e registra as não conformidades observadas.
+3.3. O agente de operação responsável pelo ativo no qual será feita a monitoração adquire as PMU e
+providencia a sua instalação, obedecendo aos requisitos estabelecidos no Submódulo 2.13 – Requisitos
+mínimos para Sistemas de Medição Sincronizada de Fasores.
+3.4. O agente de operação providencia os meios de comunicação necessários à disponibilização dos
+sincrofasores das PMU até os Concentradores de Dados Fasoriais (PDC) no ONS, atendendo aos requisitos
+mínimos estabelecidos.
+4. REFERÊNCIAS
+[1] Agência Nacional de Energia Elétrica – ANEEL. Resolução Normativa nº 443, de 26 de julho de 2011.
+[2] ANEEL. Resolução Normativa nº 697, de 16 de dezembro de 2015.
+5. ANEXOS
+5.1. Não há anexos nesse documento.
+Endereço na internet: http://www.ons.org.br 4 / 4

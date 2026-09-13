@@ -1,0 +1,218 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 6.8-PR_2025.06
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 6.8-PR_2025.06.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 6.8
+Apuração dos Montantes de Uso do
+Sistema de Transmissão
+Procedimental
+Revisão Motivo da revisão Data de aprovação
+2025.06 Despacho ANEEL nº 1.700/2025 05/06/2025
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração dos Montantes de Uso do Sistema de
+6.8 Procedimental 2025.06 09/06/2025
+Transmissão
+ÍNDICE
+1. APURAÇÃO DOS MONTANTES DE USO DO SISTEMA DE TRANSMISSÃO............................................3
+1.1. Obtenção de dados.......................................................................................................................3
+1.2. Apuração mensal de ultrapassagem de Montante de Uso do Sistema de Transmissão (MUST) e
+disponibilização dos resultados.....................................................................................................3
+1.3. Apuração mensal de energia e disponibilização dos resultados para Uso do Sistema de
+Transmissão em caráter temporário e de importação/exportação..............................................4
+1.4. Apuração anual da sobrecontratação de MUST dos agentes de distribuição e disponibilização
+dos resultados...............................................................................................................................4
+2. REFERÊNCIAS...................................................................................................................................5
+3. ANEXOS...........................................................................................................................................5
+ANEXO A..................................................................................................................................................6
+Endereço na internet: http://www.ons.org.br 2 / 6
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração dos Montantes de Uso do Sistema de
+6.8 Procedimental 2025.06 09/06/2025
+Transmissão
+1. APURAÇÃO DOS MONTANTES DE USO DO SISTEMA DE TRANSMISSÃO
+1.1. Obtenção de dados
+1.1.1. O ONS obtém o Montante de Uso do Sistema de Transmissão verificado (MUST ), com intervalo de
+V
+integralização de 15 minutos, por ponto de conexão, dos agentes celebrantes de Contratos de Uso do Sistema
+de Transmissão (CUST), conforme Submódulo 8.1 – Administração de Contratos, considerando os dados
+obtidos da Câmara de Comercialização de Energia Elétrica – CCEE, coletados no Sistema de Medição de
+Faturamento (SMF), conforme Submódulo 7.11 – Instalação do sistema de medição para faturamento.
+1.1.1.1. Em caso de falta ou inconsistência de dados do SMF, o ONS considera os dados do Sistema de
+Supervisão e Controle (SSC) do ONS.
+1.1.1.2. Quando necessário, o ONS solicita dados e informações complementares necessários ao processo
+de apuração de MUST aos agentes envolvidos.
+1.2. Apuração mensal de ultrapassagem de Montante de Uso do Sistema de Transmissão (MUST) e
+disponibilização dos resultados
+1.2.1. O ONS compara o MUST , por ponto de conexão, dos agentes de distribuição, agentes de geração e
+V
+unidades consumidoras, com o MUST contratado em caráter permanente (MUST ), estabelecido no CUST.
+PER
+1.2.1.1. Caso sejam identificados períodos em que o MUST é superior ao MUST , estes períodos são
+V PER
+classificados como eventos de ultrapassagem de MUST.
+1.2.2. O ONS identifica, nos eventos de ultrapassagem de MUST, aqueles que são passíveis de aplicação da
+Parcela de Ineficiência por Ultrapassagem (PIu), de acordo com o tipo de agente, conforme detalhado no
+Anexo A.
+1.2.3. O ONS considera, no processo de apuração de ultrapassagem de MUST, a execução dos CUST em
+caráter flexível e de reserva de capacidade, conforme [1][2], de acordo com o tipo de agente:
+(a) no caso de agentes de distribuição, a execução do CUST em caráter flexível é feita mediante
+solicitação do agente.
+(b) no caso de unidades consumidoras, a execução do CUST em caráter flexível ocorre de forma
+automática, quando o MUST for superior a 105% do valor contrato em caráter permanente. A
+V
+execução do CUST em caráter de reserva de capacidade é feita mediante solicitação do agente.
+(c) no caso de unidades consumidoras com MUST igual a zero, a execução do CUST em caráter de
+PER
+reserva de capacidade é feita quando houver demanda de potência elétrica no ponto de conexão
+contratado.
+1.2.4. O ONS disponibiliza, aos agentes envolvidos, os MUST classificados como ultrapassagem de MUST, os
+V
+passíveis de aplicação da PIu, os pontos de medição, as equações utilizadas para obtenção dos MUST e os
+V
+valores financeiros correspondentes.
+1.2.5. Os agentes envolvidos consistem os MUST classificados como ultrapassagem de MUST e, quando
+V
+julgam necessário, indicam ao ONS as situações em que há divergência sobre as medidas ou previsão de
+expurgo da PIu, conforme [1][2].
+1.2.5.1. Os agentes que discordarem da apuração dos dados, informações ou classificações dos eventos,
+formalizam ao ONS a existência de divergência.
+Endereço na internet: http://www.ons.org.br 3 / 6
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração dos Montantes de Uso do Sistema de
+6.8 Procedimental 2025.06 09/06/2025
+Transmissão
+1.2.6. O ONS analisa, quando houver, as contestações dos agentes e as indicações de previsão de expurgo
+da PIu.
+1.2.6.1. Caso não haja manifestação do agente no prazo estabelecido, o ONS considera os eventos
+consistidos automaticamente por decurso de prazo.
+1.2.7. O agente pode solicitar revisão da apuração técnica dos eventos contabilizados ao ONS, sem prejuízo
+da continuidade do processo de apuração do MUST e da apuração de serviços e encargos da transmissão,
+estabelecido no Submódulo 8.3 – Apuração de serviços e encargos da transmissão e encargos setoriais.
+1.2.7.1. O agente pode solicitar pedido de impugnação [3], conforme descrito no Submódulo 1.3 –
+Identificação, Tratamento das não conformidades e Procedimento de Impugnação, após emissão da resposta
+final pelo ONS.
+1.3. Apuração mensal de energia e disponibilização dos resultados para Uso do Sistema de Transmissão
+em caráter temporário e de importação/exportação
+1.3.1. No caso de existência de CUST em caráter temporário e CUST em caráter de importação/exportação
+de energia, o ONS verifica, por ponto de conexão, a ocorrência de MUST maior que zero.
+V
+1.3.2. O ONS disponibiliza aos agentes envolvidos os períodos apurados de ocorrência de MUST maior que
+V
+zero, por ponto de conexão, bem como o valor financeiro referente à energia total medida no mês.
+1.3.3. Os agentes envolvidos consistem os dados, informações, e classificações dos eventos apurados e, caso
+houver discordância, formalizam ao ONS a existência de divergência.
+1.3.3.1. Caso não haja manifestação do agente no prazo estabelecido, o ONS considera os eventos
+consistidos automaticamente por decurso de prazo.
+1.4. Apuração anual da sobrecontratação de MUST dos agentes de distribuição e disponibilização dos
+resultados
+1.4.1. O ONS apura, após o encerramento do ano civil, a sobrecontratação de MUST dos agentes de
+distribuição, conforme [1][2].
+1.4.2. O ONS considera, para a obtenção do MUST verificado para fins de apuração da sobrecontratação
+(MUST ), duas parcelas acrescidas ao MUST :
+S V
+(a) parcela do MUST contratado em mais de um ponto de conexão com a finalidade de garantir
+confiabilidade no atendimento dos usuários, sendo considerados os pontos de conexão relacionados
+no CUST com essa finalidade e os montantes formalizados pelo agente no ato da contratação.
+(b) influência dos efeitos das condições operativas estabelecidas pelo ONS. Neste caso, o agente de
+distribuição envolvido indica ao ONS a existência desta situação durante o processo de apuração.
+1.4.2.1. Caso seja identificado, por ponto de conexão, período em que o maior MUST no ano tenha sido
+S
+inferior a 90% do MUST o ONS caracteriza evento como sendo passível de aplicação da Parcela de
+PER,
+Ineficiência por Sobrecontratação (PI ).
+S
+1.4.3. O ONS disponibiliza, aos agentes envolvidos, os MUST apurados, a classificação dos eventos como
+S
+sobrecontratação, que estão sujeitos à PIS, bem como os valores financeiros correspondentes.
+1.4.4. Os agentes de distribuição envolvidos consistem os eventos caracterizados como sobrecontratação e
+indicam eventuais situações em que há divergências sobre as medidas ou previsão de expurgo da PIS,
+conforme [1][2].
+Endereço na internet: http://www.ons.org.br 4 / 6
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração dos Montantes de Uso do Sistema de
+6.8 Procedimental 2025.06 09/06/2025
+Transmissão
+1.4.4.1. Os agentes que discordarem da apuração dos dados, informações ou classificações dos eventos,
+formalizam ao ONS a existência de divergência.
+1.4.5. O ONS analisa as contestações dos agentes e as de previsão de expurgo da PIS.
+1.4.5.1. Caso não haja manifestação do agente, no prazo estabelecido, o ONS considera os eventos
+consistidos automaticamente por decurso de prazo.
+1.4.6. Os agentes de distribuição que discordarem da apuração dos dados, informações ou classificações dos
+eventos formalizam a existência de divergência, que é tratada pelo ONS sem prejuízo da continuidade dos
+processos de apuração e contabilização mensal.
+1.4.6.1. O agente de distribuição pode solicitar pedido de impugnação [3], conforme descrito no Submódulo
+1.3 – Identificação, Tratamento das não conformidades e Procedimento de Impugnação, após emissão da
+resposta final pelo ONS.
+2. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de Transmissão
+de Energia Elétrica no Sistema Elétrico Nacional. Módulo 5 - Acesso ao Sistema.
+[2] ANEEL. Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de Transmissão
+de Energia Elétrica no Sistema Elétrico Nacional. Módulo 6 - Coordenação e Controle da Operação.
+[3] ANEEL. Resolução Normativa nº 1.017, de 19 de abril de 2022 (alterada pela REN nº 1.107, 3 de
+dezembro de 2024).
+3. ANEXOS
+Anexo A - Condição para caracterização de eventos passíveis de aplicação de Parcela de Ineficiência de
+Ultrapassagem
+Endereço na internet: http://www.ons.org.br 5 / 6
+Procedimentos de Rede - Módulo 6 - Avaliação da Operação
+Nome Submódulo Tipo Revisão Vigência
+Apuração dos Montantes de Uso do Sistema de
+6.8 Procedimental 2025.06 09/06/2025
+Transmissão
+ANEXO A
+Condição para caracterização de eventos passíveis de aplicação de Parcela de Ineficiência de
+Ultrapassagem
+A.1. As Tabelas A1, A2 e A3 apresentam as regras consideradas no processo de apuração de ultrapassagem
+de MUST para a aplicação da PI
+U.
+Tabela A1 – Condições para aplicação de PI para unidades consumidoras
+U
+Situação MUST contratado Condição para aplicação de PI
+U
+(i) MUST
+PER
+(ii) MUST PER e MUST FLEX + )]
+(iii) MUST PER e MUST RC + )]
+MUST e MUST sendo
+(iv) PER RC,
+MUST = 0
+PER
+MUST , MUST e
+(v) PER FLEX
+MUST
+RC
+(1)Em função do uso da reserva de capacidade ser caracterizado em base diária, para a apuração das
+situações (iv) e (v) da Tabela A1, a caracterização das ultrapassagens é realizada comparando
+diariamente os MUST com os contratados (MUST MUST e, se for assim caracterizado, o
+V PER, FLEX
+MUST ).
+RC
+Tabela A2 - Condições para aplicação de PI para agentes de distribuição
+U
+Situação MUST contratado Condição para aplicação de PI
+U
+(i) MUST
+PER
+MUST e
+(ii) PER + )]
+MUST
+FLEX
+(2)Em função do uso do MUST ser caracterizado em base diária para as distribuidoras, para a apuração
+FLEX
+da situação (ii) da Tabela A2, a caracterização das ultrapassagens é realizada comparando diariamente
+os MUST com os contratados (MUST e, se for assim caracterizado, o MUST ).
+V PER FLEX
+Tabela A3 - Condição para aplicação de PI para agentes de geração
+U
+Situação MUST contratado Condição para aplicação de PI
+U
+(i) MUST
+PER
+Endereço na internet: http://www.ons.org.br 6 / 6

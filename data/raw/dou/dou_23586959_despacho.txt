@@ -1,0 +1,34 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 10/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=10/02/2026&jornal=515&pagina=58
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 8/2026
+Fica(m) o(s) abaixo relacionado(s) cientes(s) que o recurso administrativo interposto foi julgado parcialmente procedente; restando-lhe(s) pagar ou parcelar o débito(s) apurado(s), sob pena de inscrição em Dívida Ativa, CADIN e ajuizamento da ação de execução.
+
+
+Nº DO PROCESSO
+INTERESSADO
+48411.915273/2008-19
+Indústria Carbonífera Rio Deserto Ltda
+48411.915938/2012-62
+Carbonífera Criciúma S.A.
+48411.915561/2006-01
+Indústria Carbonífera Rio Deserto Ltda
+48411.915255/2008-29
+Carbonífera Siderópolis Ltda
+48403.935581/2014-08
+Brasical Indústria e Transporte Ltda
+48403.935224/2011-03
+Carlos Fernando Rodrigues da Paz
+48402.920929/2014-64
+Uniporto - Unidade Industrial de Britagem Porto Feliz; Empresa Brasileira de Agregados Minerais S.A.
+MAURO HENRIQUE MOREIRA SOUSA
+Diretor-Geral

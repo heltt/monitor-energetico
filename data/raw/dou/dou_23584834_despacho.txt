@@ -1,0 +1,79 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 10/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=10/02/2026&jornal=515&pagina=61
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado do Rio Grande do Sul
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 20/2026
+Fase de Autorização de Pesquisa
+Aprova o relatório de pesquisa com redução de área(291)
+810.480/2021-GIANCARLO TROSCISKI RIGON- Área de 49,61ha para 44,5ha-BASALTO e ARGILA-Triunfo/RS
+Aprova o relatório de Pesquisa(317)
+811.042/2021-GS EXTRACAO E COMERCIO DE AREIA LTDA-AREIA-Vale Verde/RS
+Fase de Direito de Requerer a Lavra
+Prorroga por 01 (um) ano o prazo para requerer a Concessão de Lavra(2243)
+811.093/2014-GR EXTRACAO DE AREIA E TRANSPORTES RODOVIARIOS LTDA
+811.094/2014-GR EXTRACAO DE AREIA E TRANSPORTES RODOVIARIOS LTDA
+811.096/2014-GR EXTRACAO DE AREIA E TRANSPORTES RODOVIARIOS LTDA
+811.097/2014-GR EXTRACAO DE AREIA E TRANSPORTES RODOVIARIOS LTDA
+Fase de Licenciamento
+Autoriza averbação da Prorrogação do Registro de Licença(742)
+810.290/1992-AGCM CONSTRUTORA E MINERADORA LTDA- Registro de Licença N° 964/1992 - Vencimento em 20/01/2028
+811.027/2017-CONSTRUSINOS IND E COM DE ARTEFATOS DE CIMENTO LTDA- Registro de Licença N° 115/2021 - Vencimento em 22/01/2028
+810.555/2021-SOCIEDADE DOS MINERADORES DE AREIA DO RIO JACUÍ LTDA.- Registro de Licença N° 19/2022 - Vencimento em 04/11/2027
+810.512/2020-SIGNOR USINADOS LTDA.- Registro de Licença N° 164/2020 - Vencimento em 11/09/2027
+811.075/2008-COMERCIAL DE AREIA SILVA LTDA- Registro de Licença N° 1021/2009 - Vencimento em 16/01/2030
+810.258/2019-PORTO DA FIGUEIRA MINERACAO EIRELI- Registro de Licença N° 121/2020 - Vencimento em 12/12/2027
+Determina cumprimento de exigência - Prazo 30 dias(718)
+810.512/2020-SIGNOR USINADOS LTDA.-OF. N°7048/2026
+811.075/2008-COMERCIAL DE AREIA SILVA LTDA-OF. N°7206/2026
+810.258/2019-PORTO DA FIGUEIRA MINERACAO EIRELI-OF. N°7208/2026
+Fase de Registro de Extração
+Aprovo o Plano de Fechamento de Mina(2513)
+810.858/2025-MUNICIPIO DE SERTAO
+810.044/2022-PREFEITURA MUNICIPAL DE VALE DO SOL
+Determina cumprimento de exigência - Prazo 60 dias(2965)
+810.031/2022-MUNICÍPIO DE MARATÁ-OF. N°6657/2026
+810.031/2022-MUNICÍPIO DE MARATÁ-OF. N°6658/2026
+810.552/2019-MUNICÍPIO DE CARLOS BARBOSA-OF. N°6903/2026
+Não conhece requerimento protocolizado.(2942)
+810.552/2019-MUNICÍPIO DE CARLOS BARBOSA
+Autoriza prorrogação do prazo do Registro de Extração por 05 anos(927)
+810.044/2022-PREFEITURA MUNICIPAL DE VALE DO SOL-Registro de Extração N°65/2022 de 10/02/2022
+Fase de Requerimento de Lavra
+Determina cumprimento de exigência - Prazo 60 dias(2106)
+811.093/2014-GR EXTRACAO DE AREIA E TRANSPORTES RODOVIARIOS LTDA-OF. N°6575/2026
+811.094/2014-GR EXTRACAO DE AREIA E TRANSPORTES RODOVIARIOS LTDA-OF. N°6597/2026
+811.096/2014-GR EXTRACAO DE AREIA E TRANSPORTES RODOVIARIOS LTDA-OF. N°6606/2026
+811.097/2014-GR EXTRACAO DE AREIA E TRANSPORTES RODOVIARIOS LTDA-OF. N°6614/2026
+Prorroga prazo para cumprimento de exigência(364)
+810.814/2016-GS EXTRACAO E COMERCIO DE AREIA LTDA-OF. N°49269/2025-60 dias
+Determina cumprimento de exigência - Prazo 60 dias(361)
+810.987/2024-X BRITA MINERACAO E SERVICOS LTDA-OF. N°7172/2026
+Fase de Requerimento de Licenciamento
+Determina o cumprimento de exigência - Prazo 30 dias(1155)
+Processo nº: 810.930/2025
+Titular: GERHARD LOCACAO DE MAQUINAS LTDA
+Ofício nº: 6778/2026
+Processo nº: 811.027/2025
+Titular: GH EMPREENDIMENTOS LTDA
+Ofício nº: 6779/2026
+Processo nº: 810.666/2025
+Titular: CERAMICA ARVOREZINHA LTDA
+Ofício nº: 6776/2026
+Processo nº: 810.352/2025
+Titular: HENRIQUE J TOMAZELLI CIA
+Ofício nº: 7211/2026
+Fase de Requerimento de Registro de Extração
+Indefere requerimento de Registro de Extração- não cumprimento de exigência(830)
+810.814/2025-MUNICIPIO DE PARAI
+Determina cumprimento de exigência - Prazo 60 dias(2964)
+810.978/2025-MUNICIPIO DE QUATRO IRMAOS-OF. N°6845/2026
+FABRICIO SOUZA DE SOUZA
+Gerente Interino

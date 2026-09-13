@@ -1,0 +1,22 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Portaria
+TITULO: PORTARIA SNTEP/MME nº 3045, DE 30 DE JANEIRO DE 2026
+DATA_PUBLICACAO: 02/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=02/02/2026&jornal=515&pagina=86
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Secretaria Nacional de Transição Energética e Planejamento
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+PORTARIA SNTEP/MME nº 3045, DE 30 DE JANEIRO DE 2026
+O SECRETÁRIO NACIONAL DE TRANSIÇÃO ENERGÉTICA E PLANEJAMENTO DO MINISTÉRIO DE MINAS E ENERGIA, no uso da competência que lhe foi delegada pelo art. 1º, inciso VI, da Portaria MME n. 692, de 5 de outubro de 2022, tendo em vista o disposto nos arts. 2º, § 2º e 4º, § 1º, do Decreto n. 5.163, de 30 de julho de 2004, na Portaria MME n. 463, de 08 de dezembro de 2009, e o que consta no Processo nº 48340.005734/2025-17, resolve:
+Art. 1º Definir em 25,58 MW médios o montante de garantia física de energia da Pequena Central Hidrelétrica - PCH Salto Curuá, cadastrada sob o Código Único de Empreendimentos de Geração (CEG) PCH.PH.PA.028672-9.01, de titularidade da empresa Curuá Energia S.A., no município de Novo Progresso, no estado do Pará.
+§ 1º O montante de garantia física de energia da PCH Salto Curuá refere-se ao Ponto de Conexão da Usina.
+§ 2º Para efeitos de comercialização de energia elétrica, as perdas elétricas do Ponto de Conexão até o Centro de Gravidade do referido submercado deverão ser abatidas do montante de garantia física de energia definido nesta Portaria, observando as Regras de Comercialização de Energia Elétrica vigentes.
+Art. 2º Para todos os efeitos, o montante de garantia física de energia da PCH Salto Curuá poderá ser revisado com base na legislação vigente.
+Art. 3º A revisão do montante de garantia física de energia da PCH Salto Curuá, a pedido da titular, implica a aceitação definitiva dos parâmetros e metodologia utilizados.
+Parágrafo Único. Na hipótese em que a empresa Curuá Energia S/A. seja litigante ou que tenha dado autorização expressa, por ato individual seu ou por deliberação em assembleia, para que associação representativa de classe, da qual faça parte, atue como representante processual em ações que versem sobre revisão de garantia física de energia por geração verificada, fica indispensável que a empresa comprove, no prazo de 30 dias, sua desistência formal e renúncia ao direito sobre o qual se funda a ação.
+Art. 4º Fica revogada a energia assegurada, no valor de 160.746 MWh/ano, da PCH Salto Curuá, transcrita no anexo IV da Resolução Normativa ANEEL n. 1.033, de 26 de julho de 2022.
+Art. 5º Esta Portaria entra em vigor na data de sua publicação.
+GUSTAVO CERQUEIRA ATAIDE

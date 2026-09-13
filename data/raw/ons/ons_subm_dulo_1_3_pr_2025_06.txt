@@ -1,0 +1,191 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 1.3-PR_2025.06
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 1.3-PR_2025.06.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 1.3
+Identificação, Tratamento das não
+conformidades e Procedimento de
+Impugnação
+Procedimental
+Revisão Motivo da revisão Data de aprovação
+2025.06 Despacho ANEEL nº 1.700/2025 05/06/2025
+Procedimentos de Rede - Módulo 1 - Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Identificação, Tratamento das não
+1.3 Procedimental 2025.06 09/06/2025
+conformidades e Procedimento de Impugnação
+ÍNDICE
+1. IDENTIFICAÇÃO E TRATAMENTO DAS NÃO CONFORMIDADES..........................................................3
+1.1. Identificação das não conformidades dos agentes de operação..................................................3
+1.2. Tratamento das não conformidades dos Tipos I e II.....................................................................4
+1.3. Tratamento das não conformidades do Tipo III............................................................................4
+1.4. Identificação de não conformidades do ONS pelos agentes de operação....................................5
+2. PROCESSO DE IMPUGNAÇÃO DAS DECISÕES PROFERIDAS PELO ONS...............................................6
+3. REFERÊNCIAS...................................................................................................................................6
+4. ANEXOS...........................................................................................................................................6
+Endereço na internet: http://www.ons.org.br 2 / 6
+Procedimentos de Rede - Módulo 1 - Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Identificação, Tratamento das não
+1.3 Procedimental 2025.06 09/06/2025
+conformidades e Procedimento de Impugnação
+1. IDENTIFICAÇÃO E TRATAMENTO DAS NÃO CONFORMIDADES
+1.1. Identificação das não conformidades dos agentes de operação
+1.1.1. Quando um agente de operação descumpre algum item dos Procedimentos de Rede, o ONS identifica
+este descumprimento como uma não conformidade.
+1.1.2. Quando um agente de operação identifica uma não conformidade de outro agente de operação, este
+envia correspondência ao ONS contendo, no mínimo:
+(a) identificação do agente de operação que cometeu as não conformidades;
+(b) descrição objetiva das não conformidades;
+(c) informações e/ou medidas que deveriam ter sido implementadas pelo agente de operação;
+(d) documentos que comprovem os fatos alegados; e
+(e) assinatura do representante legal.
+1.1.3. O ONS tipifica a não conformidade identificada segundo a tipologia abaixo:
+(a) Tipo I, não conformidades que são decorrentes de:
+(1) não fornecer ou atrasar o envio de dados, informações, relatórios, projetos ou atualizações de
+sua responsabilidade, nas condições definidas nos Procedimentos de Rede;
+(2) fornecer dados, informações e relatórios incompletos ou incorretos;
+(3) não atender, nos prazos e formatos estabelecidos, as solicitações para correção e
+complementação dos dados e informações; e
+(4) fornecer dados, informações, relatórios ou projetos em desacordo com o padrão ou com o meio
+estabelecido.
+(b) Tipo II, não conformidades que são decorrentes de:
+(1) deixar de atender aos requisitos técnicos ou descumprir planos, programas e documentos
+operacionais estabelecidos nos Procedimentos de Rede;
+(2) não atender, nos prazos estabelecidos, a determinações ou recomendações resultantes dos
+processos descritos nos Procedimentos de Rede; e
+(3) não disponibilizar, no prazo estabelecido nos Procedimentos de Rede, as informações
+necessárias para que possa ser realizada a análise de perturbações.
+(c) Tipo III, não conformidades que são decorrentes de:
+(1) não conformidades dos Tipos I e II cujas consequências tragam riscos ou impactos ao sistema ou
+que tenham sido constatadas reiteradamente;
+(2) não atender no prazo estabelecido as recomendações do ONS constantes do Relatório de Análise
+de Perturbações - RAP;
+(3) não atender a determinações operativas ou fornecer informações incorretas na etapa da
+programação e em tempo real;
+Endereço na internet: http://www.ons.org.br 3 / 6
+Procedimentos de Rede - Módulo 1 - Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Identificação, Tratamento das não
+1.3 Procedimental 2025.06 09/06/2025
+conformidades e Procedimento de Impugnação
+(4) executar procedimentos operativos sem a necessária autorização, ressalvados os casos previstos
+nos Procedimentos de Rede;
+(5) realizar intervenção nos equipamentos ou instalações sem a necessária autorização, ressalvados
+os casos previstos nos Procedimentos de Rede;
+(6) recusar-se a fornecer as informações demandadas pelo ONS para que possa ser realizada a
+análise de perturbações; e
+(7) fornecer dados ou informações falsas.
+1.1.4. Ao final da identificação das não conformidades o ONS inicia o processo de tratamento das não
+conformidades dos Tipos I e II, item 1.2, ou o processo de tratamento das não conformidades dos Tipos III,
+item 1.3.
+1.2. Tratamento das não conformidades dos Tipos I e II
+1.2.1. O ONS registra a não conformidade na Base de Registro das Não Conformidades dos Tipos I e II,
+contendo no mínimo:
+(a) a identificação do agente de operação;
+(b) a identificação do item descumprido dos Procedimentos de Rede;
+(c) a descrição objetiva dos fatos apurados e de suas consequências; e
+(d) o tratamento dado para correção da conduta não conforme.
+1.2.2. O agente de operação envolvido trata a não conformidade, buscando sua correção ou a não repetição
+da mesma, e informa ao ONS o tratamento dado para correção ou a não repetição da mesma.
+1.2.3. O ONS registra, na Base de Registro das Não Conformidades dos Tipos I e II, o tratamento dado pelo
+agente de operação para correção da conduta não conforme.
+1.2.3.1. A ANEEL tem pleno acesso, a qualquer momento, à Base de Registro das Não Conformidades dos
+Tipos I e II.
+1.2.3.2. O agente de operação tem pleno acesso, a qualquer momento, aos respectivos registros e ao
+tratamento das não conformidades dos Tipos I e II.
+1.2.4. O ONS encaminha à ANEEL o Relatório Semestral das Não Conformidades dos Tipos I e II e do Tipo III
+Canceladas.
+1.3. Tratamento das não conformidades do Tipo III
+1.3.1. O ONS notifica, por escrito, o agente de operação quanto à identificação de não conformidade do Tipo
+III.
+1.3.2. O agente de operação envolvido executa tratativas buscando a correção da não conformidade, a
+mitigação de seus efeitos e a não repetição da mesma.
+1.3.3. O agente de operação pode apresentar manifestação ao ONS, anexando todos os documentos e
+provas que considere pertinentes.
+1.3.4. Uma vez recebida a manifestação do agente, o ONS pode aduzir comentários e observações em
+relação à manifestação, para o posterior encaminhamento à ANEEL.
+1.3.5. O ONS inclui cópia de todos os documentos relativos à identificação e ao tratamento das não
+conformidades no Relatório de Identificação das Não Conformidades do Tipo III.
+Endereço na internet: http://www.ons.org.br 4 / 6
+Procedimentos de Rede - Módulo 1 - Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Identificação, Tratamento das não
+1.3 Procedimental 2025.06 09/06/2025
+conformidades e Procedimento de Impugnação
+1.3.6. O ONS encaminha à ANEEL, com cópia para o agente de operação, o Relatório de Identificação das
+Não Conformidades do Tipo III, contendo no mínimo:
+(a) a razão social, o endereço e a qualificação do agente de operação;
+(b) a notificação do agente de operação;
+(c) a descrição objetiva dos fatos apurados e de suas consequências;
+(d) as informações e/ou medidas que deveriam ter sido implementadas pelo agente de operação;
+(e) os documentos que comprovem os fatos alegados;
+(f) a identificação do item descumprido dos Procedimentos de Rede;
+(g) a manifestação do agente de operação;
+(h) a análise do ONS em função da manifestação do agente de operação; e
+(i) a data de emissão do mesmo.
+1.3.7. O ONS guarda cópia do Relatório de Identificação das Não Conformidades do Tipo III, juntamente com
+os protocolos de recebimento pela ANEEL e pelo agente de operação.
+1.3.8. O ONS pode cancelar a não conformidade na hipótese do agente de operação demonstrar, de forma
+inequívoca, que houve erro em sua identificação.
+1.3.8.1. No caso de cancelamento a não conformidade do Tipo III e seu respectivo relatório deixam de
+produzir qualquer efeito.
+1.3.8.2. O ONS registra na Base de Registro das Não Conformidades do Tipo III canceladas, no mínimo, as
+seguintes informações:
+(a) a identificação do agente de operação;
+(b) a identificação do item descumprido dos Procedimentos de Rede;
+(c) a descrição objetiva dos fatos apurados e de suas consequências; e
+(d) as justificativas para o cancelamento da não conformidade.
+1.3.8.3. A ANEEL tem pleno acesso, a qualquer momento, à Base de Registro das Não Conformidades do Tipo
+III canceladas.
+1.3.8.4. O ONS encaminha à ANEEL o Relatório Semestral das Não Conformidades dos Tipos I e II e do Tipo
+III Canceladas.
+1.3.9. A notificação e o relatório enviado aos agentes de operação nos termos deste submódulo são
+consideradas efetivadas na data do seu recebimento.
+1.3.10. São considerados tempestivos os documentos devidamente protocolados em quaisquer dos
+endereços do ONS informados no sítio da internet: www.ons.org.br até a data de vencimento do prazo.
+1.4. Identificação de não conformidades do ONS pelos agentes de operação
+1.4.1. O agente de operação que identificar não conformidades resultantes do descumprimento dos
+Procedimentos de Rede pelo ONS deve relatá-las em correspondência, endereçada à ANEEL, contendo no
+mínimo:
+(a) descrição objetiva das não conformidades;
+(b) informações e/ou medidas que deveriam ter sido implementadas pelo ONS;
+Endereço na internet: http://www.ons.org.br 5 / 6
+Procedimentos de Rede - Módulo 1 - Relacionamento com Agentes
+Nome Submódulo Tipo Revisão Vigência
+Identificação, Tratamento das não
+1.3 Procedimental 2025.06 09/06/2025
+conformidades e Procedimento de Impugnação
+(c) documentos que comprovem os fatos alegados; e
+(d) assinatura do representante legal.
+2. PROCESSO DE IMPUGNAÇÃO DAS DECISÕES PROFERIDAS PELO ONS
+2.1. É facultado ao agente o pedido de impugnação das decisões proferidas pelo ONS [1], via sistema
+computacional específico, após cientificação da decisão final do ONS para os seguintes processos:
+(a) apuração de indisponibilidade, restrição da capacidade operativa e sobrecarga nas instalações de
+transmissão da Rede Básica e das Interligações Internacionais, conforme Submódulo 6.7;
+(b) apuração da geração e de indisponibilidade de empreendimentos de geração, conforme Submódulo
+6.5;
+(c) apuração mensal das parcelas variáveis referentes à indisponibilidade ou restrição da capacidade
+operativa de instalações da Rede Básica, conforme Submódulo 8.3 – Apuração mensal de serviços e
+encargos da transmissão e encargos setoriais; e
+(d) apuração das Parcelas de Ineficiência por Ultrapassagem (PIU) e das Parcelas de Ineficiência por
+Sobrecontratação (PIS), conforme Submódulo 6.8 – Apuração dos Montantes de Uso do Sistema de
+Transmissão e Submódulo 8.3.
+2.1.1. Caso o agente indique o processo associado ao pedido de impugnação de forma incorreta ou
+apresente informações incorretas ou incompletas, o ONS cancela o pedido.
+2.2. O ONS analisa o pedido de impugnação considerando exclusivamente a materialidade e respectiva
+documentação apresentada pelo agente nas etapas anteriores do processo e nos prazos regulamentados.
+2.2.1. O ONS informa ao agente, através do sistema, o resultado de sua apreciação.
+2.3. O agente não pode apresentar um novo pedido de impugnação para a mesma decisão do ONS, exceto
+no caso de cancelamento apresentado no item 2.1.1.
+2.4. O ONS encaminha o processo de impugnação à ANEEL, em caso de não aceite ou aceite parcial do
+pedido.
+3. REFERÊNCIAS
+[1] ANEEL. Resolução Normativa nº 1.017, de 19 de abril de 2022 (alterada pela Resolução Normativa nº 1.107, de 10
+de dezembro de 2024).
+4. ANEXOS
+4.1. Não há anexos neste submódulo.
+Endereço na internet: http://www.ons.org.br 6 / 6

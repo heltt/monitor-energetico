@@ -1,0 +1,27 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 26/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=26/02/2026&jornal=515&pagina=66
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado de Rondônia
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 148/2026
+Fase de Concessão de Lavra
+Determina cumprimento de exigência - Prazo 60 dias(470)
+886.028/2005-CONCRENORTE CONCRETO E CONSTRUCOES DO NORTE LTDA-OF. N°10131/2026
+Fase de Requerimento de Lavra Garimpeira
+Determina arquivamento definitivo do processo(565)
+886.151/2017-COOPERATIVA GARIMPEIRA E MINERADORA NACIONAL - COOPERMINE
+Fase de Requerimento de Pesquisa
+Determina cumprimento de exigência - Prazo 60 dias(131)
+886.307/2024-DELTA DO BRASIL IMPORTACAO E EXPORTACAO DE MINERIOS LTDA-OF. N°10307/2026
+886.290/2024-CRISTIAN TESTONI DELAVY-OF. N°10498/2026
+886.289/2024-CRISTIAN TESTONI DELAVY-OF. N°10495/2026
+886.287/2024-AMASON RESOURCE GROUP DO BRASIL LTDA-OF. N°10139/2026
+ANTÔNIO TEOTÔNIO DE SOUZA NETO
+Gerente

@@ -1,0 +1,46 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Autorização
+TITULO: AUTORIZAÇÃO SDL-ANP Nº 95, DE 26 DE FEVEREIRO DE 2026
+DATA_PUBLICACAO: 27/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=27/02/2026&jornal=515&pagina=59
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional do Petróleo, Gás Natural e Biocombustíveis/Superintendência de Distribuição e Logística
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+AUTORIZAÇÃO SDL-ANP Nº 95, DE 26 DE FEVEREIRO DE 2026
+O SUPERINTENDENTE DE DISTRIBUIÇÃO E LOGÍSTICA da AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS - ANP, no uso das atribuições que lhe foram conferidas pela Portaria ANP nº 265, de 10 de setembro de 2020, tendo em vista o disposto na Lei nº 9.478, de 6 de agosto de 1997, considerando as disposições da Resolução ANP nº 960, de 5 de outubro de 2023, e o que consta do processo nº 48610.200736/2026-71, resolve: autorizar a empresa LWART SOLUÇÕES AMBIENTAIS S.A., CNPJ nº 46.201.083/0033-65, a operar a instalação de coleta de óleo lubrificante usado ou contaminado localizada a Avenida Irmã Dulce 761, Área 2, Malhada da Areia, Juazeiro/BA, 48909-571 [Coordenadas Geográficas Aproximadas (Latitude, Longitude): -09:26:42,803; -40:30:22,543 (SIRGAS 2000)]. A capacidade total de armazenamento é de 120,00 m³.
+
+
+TQ
+Ø (m)
+Comp. (m)
+Capacidade (m³)
+Classe
+Tipo
+1A
+2,54
+6,00
+30,00
+IIIB
+Horizontal aéreo compartimentado
+1B
+2,54
+6,00
+30,00
+IIIB
+Horizontal aéreo compartimentado
+2A
+2,54
+6,00
+30,00
+IIIB
+Horizontal aéreo compartimentado
+2B
+2,54
+6,00
+30,00
+IIIB
+Horizontal aéreo compartimentado
+DIOGO VALERIO

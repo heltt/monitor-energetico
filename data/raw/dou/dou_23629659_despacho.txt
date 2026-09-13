@@ -1,0 +1,45 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 27/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=27/02/2026&jornal=515&pagina=57
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado de Santa Catarina
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 49/2026
+Fase de Autorização de Pesquisa
+Concede anuência e autoriza averbação da cessão parcial de direitos(175)
+815.587/2021-A J POTTER & CIA LTDA- Alvará n°9021/2022 - Cessionario:815478/2025, 815479/2025, 815480/2025, 815481/2025, 815483/2025, 815484/2025, 815485/2025-F J P Terraplanagem Ltda- CPF ou CNPJ 20.558.787/0001-19
+815.478/2021-MINERMIX MINERACAO E COMERCIO LTDA- Alvará n°9015/2022 - Cessionario:815.568/2025-Mv Pedras e Materiais de Construção Ltda Epp- CPF ou CNPJ 00.947.976/0001-76
+Fase de Concessão de Lavra
+Determina cumprimento de exigência - Prazo 60 dias(470)
+815.547/2013-TENDENCIA MINERADORA LTDA-OF. N°10669/2026/COROUT-SC/ANM
+Concede prévia anuência e autoriza averbação da transferência da Concessão de Lavra(451)
+815.058/2006-ANR EXTRACAO MINERAL LTDA- Portaria de Lavra nº 116/2018- Cessionário:MINERACAO MINERA LTDA- CNPJ 63.335.451/0001-08
+Determina a interdição da lavra(442)
+003.156/1936-CARBONIFERA CATARINENSE LTDA- N° do Termo de Interdição:10/2026/ANM/UAC-SC, de 24 de fevereiro de 2026- Lacre N° s/nº
+000.631/1936-CARBONIFERA CATARINENSE LTDA- N° do Termo de Interdição:11/2026/ANM/UAC-SC, de 24 de fevereiro de 2026- Lacre N° s/nº
+Fase de Direito de Requerer a Lavra
+Prorroga por 01 (um) ano o prazo para requerer a Concessão de Lavra(2243)
+815.560/2018-EBELE TRANSPORTES LTDA
+Fase de Licenciamento
+Autoriza averbação da Prorrogação do Registro de Licença(742)
+815.512/2010-BRITAGEM VOGELSANGER LTDA- Registro de Licença N° 1503/2011 - Vencimento em 03/11/2026
+Fase de Requerimento de Lavra
+Concede anuência e autoriza averbação da cessão total do requerimento de Lavra(1043)
+815.151/2007-ANR EXTRACAO MINERAL LTDA- Alvará n° 3362/2007 - Cessionário: MINERACAO MINERA LTDA- CNPJ 63.335.451/0001-08
+815.286/2021-NORBERT HUNDT- Alvará n° 9045/2022 - Cessionário: HUNDT & HUNDT LTDA- CNPJ 81.169.864/0001-33
+Fase de Requerimento de Licenciamento
+Determina o cumprimento de exigência - Prazo 30 dias(1155)
+Processo nº: 815.124/2014
+Titular: D'MIROS EXTRACAO E COMERCIO DE AREIA LTDA
+Ofício nº: 10954/2026/COROUT-SC/ANM
+Fase de Requerimento de Pesquisa
+Determina cumprimento de exigência - Prazo 60 dias(131)
+815.636/2025-BRUENING PEREIRA & BRUENING PEREIRA LTDA-OF. N°10932/2026/COROUT-SC/ANM
+JOSE AUGUSTO SIMOES NETO
+Gerente

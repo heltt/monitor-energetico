@@ -1,0 +1,155 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 3.10-RS_2021.06
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 3.10-RS_2021.06.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 3.10
+Estudos para segurança operacional
+elétrica
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2021.06 Despacho ANEEL nº 1.895/2021 29/06/2021
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos para segurança operacional elétrica 3.10 Responsabilidades 2021.06 02/07/2021
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Relatório de Estudos de Otimização de Controladores Sistêmicos...............................................3
+2.2. Relatório de Estudos de Recomposição do Sistema......................................................................3
+2.3. Relatório de Cálculo Anual da Reserva de Potência Operativa.....................................................3
+2.4. Relatório de Estudo do Controle Carga-Frequência......................................................................3
+2.5. Relatório de Requisitos de Medição e Controle do Controle Automático de Geração para
+Expansão do Sistema.....................................................................................................................3
+3. RESPONSABILIDADES.......................................................................................................................4
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................4
+3.2. Agentes de operação.....................................................................................................................4
+4. PRAZOS............................................................................................................................................5
+5. REFERÊNCIAS...................................................................................................................................6
+Endereço na internet: http://www.ons.org.br 2 / 6
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos para segurança operacional elétrica 3.10 Responsabilidades 2021.06 02/07/2021
+1. OBJETIVO
+1.1 Estabelecer as responsabilidades, as diretrizes, a sistemática, os produtos, os prazos e as etapas dos
+processos relativos aos estudos de otimização de controladores, estudos de recomposição do sistema,
+estudos de reserva de potência operativa e estudos de controle carga-frequência, no sentido de garantir a
+segurança operacional elétrica do Sistema Interligado Nacional (SIN).
+2. PRODUTOS
+2.1. Relatório de Estudos de Otimização de Controladores Sistêmicos
+2.1.1. Apresenta as necessidades de otimização e de ajustes para os equipamentos de controle novos e
+existentes e as restrições, diretrizes operativas e procedimentos específicos para os testes de
+comissionamento.
+2.2. Relatório de Estudos de Recomposição do Sistema
+2.2.1. Apresenta os resultados das análises para definição das diretrizes operativas para recomposição do
+sistema, da necessidade de revisão ou de adequação de ajustes em equipamentos de controle ou dos
+Sistemas Especiais de Proteção (SEP) existentes e de novas proteções sistêmicas ou revisão das existentes.
+2.2.2. As análises são realizadas com base na evolução do sistema e nos cronogramas de obras de geração e
+de transmissão e no diagnóstico e priorização das necessidades para cada instalação.
+2.3. Relatório de Cálculo Anual da Reserva de Potência Operativa
+2.3.1. Apresenta os resultados dos estudos elaborados para quantificação e alocação da reserva de potência
+operativa para assegurar o controle adequado da frequência e dos intercâmbios das áreas de controle da
+Rede de Operação.
+2.4. Relatório de Estudo do Controle Carga-Frequência
+2.4.1. Apresenta as análises realizadas no estudo do desempenho da função de controle carga-frequência
+no âmbito do Controle Automático de Geração (CAG), no sentido de dar suporte às análises técnicas relativas
+à prestação dos serviços ancilares, conforme Submódulo 3.11 – Análise técnica dos serviços ancilares de
+suporte de reativos, controle secundário de frequência e autorrestabelecimento integral.
+2.5. Relatório de Requisitos de Medição e Controle do Controle Automático de Geração para Expansão
+do Sistema
+2.5.1. Apresenta a indicação, para cada usina ou conjunto de usinas em início de operação comercial, a
+eventual necessidade de integração ao CAG e os requisitos a serem observados, no sentido de dar suporte
+às análises técnicas relativas à prestação dos serviços ancilares, conforme Submódulo 3.11.
+Endereço na internet: http://www.ons.org.br 3 / 6
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos para segurança operacional elétrica 3.10 Responsabilidades 2021.06 02/07/2021
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Coordenar o processo e realizar os estudos de otimização dos controladores, de recomposição do
+sistema, de reserva de potência operativa e de controle carga-frequência para segurança operacional.
+(b) Solicitar aos agentes de operação os dados e informações necessários à realização dos estudos para
+segurança operacional elétrica.
+(c) Realizar as simulações e as análises dos resultados dos estudos para segurança operacional elétrica
+que afetem a Rede de Operação.
+(d) Zelar pela atualização constante das diretrizes e dos critérios utilizados nos estudos elétricos.
+(e) Manter e atualizar a base de dados necessária aos estudos elétricos.
+(f) Definir a necessidade de novos controladores ou indicar a necessidade de modernização dos
+equipamentos de controle.
+(g) Quantificar a reserva de potência operativa global e suas parcelas.
+(h) Definir as estratégias de otimização da alocação de reserva de potência operativa.
+(i) Avaliar a necessidade de novas metodologias para quantificação e alocação da reserva de potência
+operativa.
+(j) Definir ou rever a filosofia a ser adotada nos novos estudos de recomposição do sistema.
+(k) Avaliar a necessidade de implantação de novas filosofias do CAG.
+(l) Elaborar as diretrizes para os testes em equipamentos de CAG.
+(m)Elaborar e disponibilizar aos agentes os produtos dos estudos para segurança operacional elétrica.
+(n) Avaliar a efetividade da implantação das medidas propostas nos produtos dos estudos para segurança
+operacional elétrica.
+(o) Disponibilizar aos agentes de operação envolvidos as informações necessárias à reprodução dos
+estudos para segurança operacional elétrica.
+3.2. Agentes de operação1
+(a) Fornecer, quando solicitado pelo ONS, os dados e informações necessários à realização dos estudos
+para segurança operacional elétrica.
+1 No caso dos agentes de geração, são considerados aqueles agentes detentores, por concessão ou autorização, de
+usinas classificadas na modalidade de operação como Tipo I, conforme critérios e sistemática estabelecidos no
+Submódulo 7.7 – Modalidade de operação de usinas.
+Endereço na internet: http://www.ons.org.br 4 / 6
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos para segurança operacional elétrica 3.10 Responsabilidades 2021.06 02/07/2021
+(b) Fornecer ao ONS os modelos dos novos controladores com os ajustes iniciais ou com as informações
+sobre os ajustes efetivamente implantados.
+(c) Fornecer todos os registros que se façam necessários para a análise do desempenho do controle
+carga-frequência.
+(d) Participar, sempre que convocados pelo ONS, das atividades previstas para cada etapa do processo.
+(e) Avaliar os impactos da nova instalação no desempenho, disponibilidade, proteções, operação e
+manutenções das instalações sob sua responsabilidade.
+(f) Executar, quando solicitados pelo ONS, o comissionamento e os ensaios dos novos controladores,
+bem como ensaios em controladores existentes.
+(g) Implementar os novos controladores e executar a revisão dos controladores existentes.
+(h) Propor ao ONS a revisão do processo de recomposição em função de alteração da topologia do
+sistema em sua área de atuação.
+(i) Promover a implantação das telemedições nos pontos que vierem a ser definidos para os estudos de
+carga-frequência.
+(j) Disponibilizar os meios físicos para a participação no CAG das usinas definidas pelos estudos do ONS,
+inclusive os recursos de comunicação com o centro de operação designado pelo ONS.
+(k) Implantar as modificações nos ajustes, as medidas propostas e as demais providências estabelecidas
+nos produtos dos estudos para segurança operacional elétrica.
+4. PRAZOS
+Quadro 1 - Prazos dos estudos para segurança operacional elétrica
+Atividade Responsável Periodicidade Prazos
+Solicitação dos dados aos agentes de
+1 ONS Sob demanda -
+operação para realização dos estudos
+Informação aos agentes de operação do
+escopo e cronograma dos estudos de Antecedência mínima
+2 otimização dos controladores, ONS Sob demanda de 10 dias úteis da
+recomposição do sistema e controle atividade 3
+carga-frequência
+Realização dos estudos de otimização de
+Em função do escopo
+3 controladores, recomposição do sistema e ONS Sob demanda
+do estudo
+controle carga-frequência
+Endereço na internet: http://www.ons.org.br 5 / 6
+Procedimentos de Rede - Módulo 3 - Planejamento da Operação
+Nome Submódulo Tipo Revisão Vigência
+Estudos para segurança operacional elétrica 3.10 Responsabilidades 2021.06 02/07/2021
+Atividade Responsável Periodicidade Prazos
+Confirmação ou retificação os dados Até 5 dias úteis após
+Agente de
+4 consolidados e disponibilizados pelo ONS, Sob demanda disponibilização dos
+operação
+quando necessário dados pelo ONS
+Realização dos estudos de reserva de Durante o período de
+5 ONS Anual
+potência operativa 90 dias
+Conclusão dos estudos de reserva de
+6 ONS Anual 31 de julho
+potência operativa
+5. REFERÊNCIAS
+5.1 Não há referências neste documento.
+Endereço na internet: http://www.ons.org.br 6 / 6

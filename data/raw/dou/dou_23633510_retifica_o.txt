@@ -1,0 +1,16 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Retificação
+TITULO: RETIFICAÇÃO
+DATA_PUBLICACAO: 27/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=27/02/2026&jornal=515&pagina=60
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional do Petróleo, Gás Natural e Biocombustíveis/Superintendência de Distribuição e Logística
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+RETIFICAÇÃO
+Na Autorização SDL-ANP nº 2, de 5 de janeiro de 2026, publicada na Seção 1 do D.O.U. nº 3, de 6 de janeiro de 2026, página 208, onde se lê:
+" (...) resolve: autorizar a empresa MAREL BRASIL COMERCIAL E INDUSTRIAL LTDA a exercer a atividade de agente de comércio exterior no(s) CNPJ(s) listado(s) abaixo. (...)"
+Leia-se:
+" (...) resolve: autorizar a empresa MAREL BRASIL COMERCIAL E INDUSTRIAL LTDA a exercer a atividade de agente de comércio exterior no(s) CNPJ(s) listado(s) abaixo. Fica revogada a Autorização SDL-ANP nº 772, de 3 de dezembro de 2021 (...)"

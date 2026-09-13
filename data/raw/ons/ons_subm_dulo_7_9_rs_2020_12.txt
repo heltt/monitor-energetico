@@ -1,0 +1,126 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 7.9-RS_2020.12
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 7.9-RS_2020.12.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 7.9
+Implantação dos sistemas de supervisão
+e controle para a operação
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2020.12 Resolução Normativa nº 903/2020 08/12/2020
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação dos sistemas de supervisão e
+7.9 Responsabilidades 2020.12 01/01/2021
+controle para a operação
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Avaliação de Conformidade dos Sistemas de Supervisão e Controle............................................3
+3. RESPONSABILIDADES.......................................................................................................................3
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................3
+3.2. Agentes responsáveis por equipamentos integrantes das Redes de Operação e/ou Supervisão.3
+3.3. Agentes de operação.....................................................................................................................4
+4. PRAZOS............................................................................................................................................4
+5. REFERÊNCIAS...................................................................................................................................5
+Endereço na internet: http://www.ons.org.br 2 / 5
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação dos sistemas de supervisão e
+7.9 Responsabilidades 2020.12 01/01/2021
+controle para a operação
+1. OBJETIVO
+1.1. Estabelecer os produtos, responsabilidades, prazos e as estapas do processo referentes à implantação
+dos sistemas de supervisão e controle para a operação nas Redes de Operação e/ou Supervisão, definidas no
+Submódulo 2.1 – Definição das redes do Sistema Interligado Nacional, inclusive a implantação de Unidades
+de Medição de Sincrofasores (PMU).
+2. PRODUTOS
+2.1. Avaliação de Conformidade dos Sistemas de Supervisão e Controle
+2.1.1. Apresenta o resultado da avaliação dos requisitos de supervisão e controle das instalações dos agentes
+para integração à Rede Básica, cujo processo é descrito no Submódulo 7.13 – Emissão de declaração de
+atendimento aos Procedimentos de Rede para instalações de geração, Submódulo 7.14 – Emissão de
+declaração de atendimento aos Procedimentos de Rede para instalações de distribuição, autoprodutor com
+carga maior que geração, consumidor livre e agente de exportação ou importação de energia e Submódulo
+7.15 – Emissão de Termo de Liberação para instalações de transmissão.
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Verificar o atendimento aos requisitos de supervisão e controle para o processo de integração da
+instalação do agente.
+(b) Definir e manter atualizado com a evolução tecnológica um conjunto padronizado de protocolos de
+comunicação de dados para escolha pelos agentes nas suas interligações de dados.
+(c) Coordenar a implantação do Sistema de Medição Sincronizada de Fasores (SMSF).
+(d) Implantar e manter infraestrutura para os Concentradores de Dados Fasoriais (PDC) do ONS.
+(e) Estabelecer a localização das PMU.
+(f) Informar aos agentes sobre a indisponibilidade dos Pacotes de Dados Computacionais de
+Sincrofasores nos PDC do ONS.
+(g) Acompanhar e registrar as não conformidades relativas ao cumprimento dos prazos estabelecidos no
+Plano de Ação para Implantação das PMU pelos agentes, até a plena operacionalização de todas as
+PMU previstas no plano de ação.
+(h) Manter a compatibilidade das conexões já acordadas, sempre que as rotinas operacionais relativas a
+protocolos de comunicação para PMU forem atualizadas, mesmo que sejam adicionados
+protocolos/opções que usem novas tecnologias
+3.2. Agentes responsáveis por equipamentos integrantes das Redes de Operação e/ou Supervisão
+(a) Instalar os recursos de supervisão e controle e disponibilizar todas as informações a um ou mais
+centros de operação designados pelo ONS, conforme Submódulo 2.12 – Requisitos mínimos de
+Endereço na internet: http://www.ons.org.br 3 / 5
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação dos sistemas de supervisão e
+7.9 Responsabilidades 2020.12 01/01/2021
+controle para a operação
+supervisão e controle para a operação, incluindo o protocolo de comunicação e os tempos de
+aquisição.
+(b) Prover todas as interligações de dados necessárias de forma a garantir o atendimento aos requisitos
+de qualidade e de disponibilidade definidos nos Procedimentos de Rede.
+(c) Fornecer ao ONS e manter atualizadas as informações cadastrais descritivas para configuração da
+base de dados.
+(d) Realizar testes de conectividade e testes ponto a ponto no enlace de comunicação entre o ONS e o
+agente.
+(e) Adequar suas instalações e/ou equipamentos aos requisitos de supervisão e controle quando da sua
+reclassificação na Rede de Supervisão.
+3.3. Agentes de operação
+(a) Adquirir e instalar as PMU, em conformidade com os requisitos mínimos estabelecidos pelo ONS.
+(b) Prover toda a rede de comunicação de dados necessária para disponibilizar as medições
+sincrofasoriais realizadas pelas PMU até os PDC do ONS.
+(c) Transmitir os sincrofasores por meio de canais de comunicação até os PDC do ONS.
+4. PRAZOS
+Quadro 1 – Prazos para a atualização das bases de dados dos sistemas de supervisão e controle do ONS
+Atividade Responsável Prazos
+Encaminhamento ao ONS das informações de Antecedência mínima de 30 dias
+1 cadastro de novos equipamentos e Agente em relação à entrada em operação
+ampliações dos equipamentos
+Encaminhamento ao ONS de alterações Antecedência mínima de 5 dias
+2 Agente
+programadas de informações de cadastro úteis em relação à modificação
+Comunicação ao ONS dos dados de Antecedência mínima de 5 dias
+Agente de
+3 configuração de novas PMU e as modificações úteis em relação à instalação ou
+operação
+daquelas instaladas na Rede de Operação modificação
+Conclusão dos testes de conectividade das Antecedência mínima de 5 dias
+4 interconexões e testes ponto a ponto de Agente úteis antes da operacionalização da
+novas instalações ou ampliações nova instalação ou ampliação
+Conclusão dos testes de conectividade das
+Antecedência mínima de 2 dias
+interconexões e testes ponto a ponto quando
+5 Agente úteis antes da operacionalização da
+da modificação de informações na base de
+alteração
+dados do ONS
+Endereço na internet: http://www.ons.org.br 4 / 5
+Procedimentos de Rede - Módulo 7 - Integração de Instalações
+Nome Submódulo Tipo Revisão Vigência
+Implantação dos sistemas de supervisão e
+7.9 Responsabilidades 2020.12 01/01/2021
+controle para a operação
+Quadro 2 – Prazos para a adequação aos requisitos quando da reclassificação de equipamento/instalação
+Atividade Responsável Prazos
+Apresentação ao ONS do planejamento Até 3 meses após a inserção de
+1 para adequação aos requisitos de Agente equipamento/instalação na Rede de
+supervisão e controle Supervisão
+5. REFERÊNCIAS
+5.1. Não há referências nesse documento.
+Endereço na internet: http://www.ons.org.br 5 / 5

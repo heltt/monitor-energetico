@@ -1,0 +1,20 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Despacho
+TITULO: Despacho
+DATA_PUBLICACAO: 25/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=25/02/2026&jornal=515&pagina=90
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Agência Nacional de Mineração/Gerência Regional da ANM no Estado de Minas Gerais
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+Despacho
+Relação nº 64/2026
+Fase de Autorização de Pesquisa
+Determina cumprimento de exigência - Prazo 60 dias(250)
+830.004/2017-L LAIGNIER SCHERRE MINERIOS LTDA-OF. N°9549/2026/UAGV-MG/ANM
+831.602/2019-WAISMAN MINERACAO LTDA-OF. N°8681/2026/UAGV-MG/ANM
+831.601/2019-WAISMAN MINERACAO LTDA-OF. N°8335/2026/UAGV-MG/ANM
+CAIRO COSTA DUARTE
+Gerente

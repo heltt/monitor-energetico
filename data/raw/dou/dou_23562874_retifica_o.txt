@@ -1,0 +1,13 @@
+FONTE: DOU
+TIPO_DOCUMENTO: Retificação
+TITULO: RETIFICAÇÃO
+DATA_PUBLICACAO: 03/02/2026
+URL_ORIGINAL: http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=03/02/2026&jornal=515&pagina=170
+TEMA: dou,DO1
+CATEGORIA_ORIGEM: Ministério de Minas e Energia/Secretaria Nacional de Transição Energética e Planejamento
+
+TEXTO_COMPLETO:
+EMENTA: 
+
+RETIFICAÇÃO
+No parágrafo único do art. 1º da Portaria SNTEP/MME Nº 3040, de 30 de Dezembro de 2025, Processo n. 48360.000387/2025-06, publicado no Diário Oficial da União em 06 de janeiro de 2026, Edição 3, Seção 1, página 206, disponível também no endereço eletrônico https://www.gov.br/mme/pt-br/assuntos/secretarias/spe/reidi, onde se lê: "Os projetos de que tratam o caput são alcançados pela Portaria Normativa n. 78/GM/MME, de 4 de junho de 2024, e correspondem aos dados enviados pelas distribuidoras de energia elétrica à Agência Nacional de Energia Elétrica - ANEEL no mês de novembro de 2025.", leia-se: "Os projetos de que tratam o caput são alcançados pela Portaria Normativa n. 78/GM/MME, de 4 de junho de 2024, e correspondem aos dados enviados pelas distribuidoras de energia elétrica à Agência Nacional de Energia Elétrica - ANEEL no mês de dezembro de 2025.".

@@ -1,0 +1,291 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Procedimento de Rede
+TITULO: Submódulo 8.1-RS_2025.02
+URL_ORIGINAL: https://proxyportais.ons.org.br/ons.portalempregado.proxy/garapi/api/processo/retornarpdf?url=/sites/soumaisons/portalgar/ecmpdf/Submódulo 8.1-RS_2025.02.pdf
+TEMA: procedimentos_de_rede,transmissao,transicao_energetica
+
+TEXTO_COMPLETO:
+Submódulo 8.1
+Administração dos contratos
+Responsabilidades
+Revisão Motivo da revisão Data de aprovação
+2025.02 Resolução Normativa ANEEL nº 1.112/2025 11/02/2025
+Procedimentos de Rede – Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Administração dos Contratos 8.1 Responsabilidades 2025.02 01/03/2025
+ÍNDICE
+1. OBJETIVO.........................................................................................................................................3
+2. PRODUTOS......................................................................................................................................3
+2.1. Modelos dos Contratos.................................................................................................................3
+2.2. Contrato de Prestação dos Serviços de Transmissão (CPST).........................................................3
+2.3. Contrato de Uso do Sistema de Transmissão (CUST)....................................................................3
+2.4. Contrato de Constituição de Garantia (CCG).................................................................................3
+2.5. Carta de Fiança Bancária (CFB)......................................................................................................3
+2.6. Contrato de Administração de Contas de Terceiros (ACT)............................................................3
+2.7. Contrato de Conexão às Instalações de Transmissão (CCT)..........................................................4
+2.8. Contrato de Conexão às Instalações de Transmissão – Termo de Ajuste (CCT-TA)......................4
+2.9. Contrato de Compartilhamento de Instalações (CCI)....................................................................4
+2.10. Contrato de Prestação de Serviços Ancilares (CPSA)....................................................................4
+3. RESPONSABILIDADES.......................................................................................................................4
+3.1. Operador Nacional do Sistema Elétrico – ONS..............................................................................4
+3.2. Agentes de transmissão................................................................................................................5
+3.3. Usuários.........................................................................................................................................5
+4. PRAZOS............................................................................................................................................5
+5. REFERÊNCIAS...................................................................................................................................8
+Endereço na internet: http://www.ons.org.br 2 / 8
+Procedimentos de Rede – Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Administração dos Contratos 8.1 Responsabilidades 2025.02 01/03/2025
+1. OBJETIVO
+1.1 Estabelecer os produtos, as responsabilidades, os prazos e as etapas do processo de coordenação,
+elaboração e apresentação dos modelos do CPST, CUST, CCG, CFB, ACT e CPSA, e ainda da celebração,
+aditamento, negociação, registro e acompanhamento dos contratos de transmissão, das garantias
+financeiras vinculadas ao CUST, e dos contratos de serviços ancilares, conforme regulamentações
+[1][2][3][4][5][6][7].
+2. PRODUTOS
+2.1. Modelos dos Contratos
+2.1.1 Modelos do Contrato de Prestação dos Serviços de Transmissão (CPST), Contrato de Uso do Sistema
+de Transmissão (CUST), Contrato de Constituição de Garantia (CCG), Carta de Fiança Bancária (CFB), Contrato
+de Administração de Contas de Terceiros (ACT), Contrato de Prestação de Serviços Ancilares (CPSA) e dos
+seus Termos Aditivos.
+2.2. Contrato de Prestação dos Serviços de Transmissão (CPST)
+2.2.1 Contrato celebrado entre o ONS e o agente de transmissão com o objetivo de estabelecer os termos e
+as condições que regulam [1]:
+(a)a administração, monitoramento e coordenação, por parte do ONS, da prestação dos serviços de
+transmissão pelos agentes de transmissão; e
+(b)a autorização ao ONS para representar os agentes de transmissão na celebração do CUST e em
+Instrumentos de Garantia Financeira permitidos pelo CUST.
+2.3. Contrato de Uso do Sistema de Transmissão (CUST)
+2.3.1 Contrato celebrado entre o ONS, o agente de transmissão representado pelo ONS, conforme
+estabelecido no CPST, e o usuário da Rede Básica com o objetivo de estabelecer os termos e as condições
+que regulam [1][4]:
+(a)o uso das instalações de transmissão integrantes da Rede Básica; e
+(b)a administração pelo ONS da apuração e da liquidação dos encargos estabelecidos pelo uso do sistema
+de transmissão e a administração do Instrumento de Garantia Financeira associado ao contrato.
+2.4. Contrato de Constituição de Garantia (CCG)
+2.4.1 Mecanismos de garantia financeira celebrado entre o ONS, o agente de transmissão representado pelo
+ONS, conforme estabelecido no CPST, o usuário da Rede Básica e uma instituição bancária com o objetivo de
+garantir o recebimento dos valores devidos pelo usuário aos agentes de transmissão e ao ONS, referentes
+aos serviços prestados e discriminados no CUST.
+2.5. Carta de Fiança Bancária (CFB)
+2.5.1 Mecanismo de garantia financeira contratado por um usuário da Rede Básica e aportado ao ONS para
+garantir o recebimento dos valores devidos pelo usuário aos agentes de transmissão e ao ONS, referentes
+aos serviços prestados e discriminados no CUST.
+Endereço na internet: http://www.ons.org.br 3 / 8
+Procedimentos de Rede – Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Administração dos Contratos 8.1 Responsabilidades 2025.02 01/03/2025
+2.6. Contrato de Administração de Contas de Terceiros (ACT)
+2.6.1 Mecanismo de garantia financeira celebrado entre o ONS, o agente de transmissão representado pelo
+ONS, conforme estabelecido no CPST, o usuário da Rede básica e uma instituição bancária com o objetivo de
+garantir o recebimento dos valores devidos pelo usuário aos agentes de transmissão e ao ONS, referentes
+aos serviços prestados e discriminados no CUST.
+2.7. Contrato de Conexão às Instalações de Transmissão (CCT)
+2.7.1 Contrato celebrado entre o agente de transmissão e o usuário da Rede Básica, com o objetivo de
+estabelecer os direitos e as responsabilidades referente às condições de conexão das instalações do usuário
+às instalações de transmissão sob responsabilidade do agente de transmissão, cabendo ao ONS o papel de
+interveniente [1][3].
+2.8. Contrato de Conexão às Instalações de Transmissão – Termo de Ajuste (CCT-TA)
+2.8.1 Contrato celebrado entre o agente de transmissão, o usuário da Rede Básica e o ONS, com o objetivo
+de estabelecer os direitos e as responsabilidades referente às condições de conexão das instalações dos
+usuários às suas próprias instalações de transmissão [1][3].
+2.9. Contrato de Compartilhamento de Instalações (CCI)
+2.9.1 Contrato celebrado entre dois ou mais agentes de transmissão, com o objetivo de estabelecer os
+procedimentos, os direitos e as responsabilidades para uso o compartilhado de instalações, cabendo ao ONS
+o papel de interveniente [1].
+2.10. Contrato de Prestação de Serviços Ancilares (CPSA)
+2.10.1 Contrato celebrado entre o ONS e o agente ou grupo de agentes prestadores de serviços ancilares,
+com o objetivo de estabelecer os deveres, direitos e as responsabilidades referentes à prestação dos serviços
+ancilares conforme regulamentação [5].
+3. RESPONSABILIDADES
+3.1. Operador Nacional do Sistema Elétrico – ONS
+(a) Estabelecer e disponibilizar os modelos dos contratos e Termos Aditivos dos CPST, CUST, CCG, CFB,
+ACT e CPSA.
+(b) Administrar os CPST, CUST, CCT, CCT-TA, CCI, CCG, CFB, ACT e CPSA.
+(c) Celebrar o CPST [2] com os agentes de transmissão.
+(d) Celebrar o CUST com os usuários e representar os agentes de transmissão na celebração dos
+CUST[3] e Instrumentos de Garantia previstos nos CUST.
+(e) Celebrar o CCT-TA com os agentes de transmissão e os usuários.
+(f) Ser interveniente na celebração dos CCT e CCI [1][3].
+(g) Disponibilizar à ANEEL os CPST, CUST, CCT, CCT-TA, CCI, CCG, CFB, ACT e CPSA após celebração entre
+as partes envolvidas.
+Endereço na internet: http://www.ons.org.br 4 / 8
+Procedimentos de Rede – Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Administração dos Contratos 8.1 Responsabilidades 2025.02 01/03/2025
+(h) Celebrar, nos termos da regulamentação vigente [5], o CPSA com os agentes ou grupo de agentes
+que prestam os serviços ancilares.
+(i) Disponibilizar a relação de centrais geradoras e/ou unidades geradoras com CPSA válido.
+3.2. Agentes de transmissão
+(a) Fornecer ao ONS e manter atualizadas, as informações necessárias para as análises associadas aos
+processos de celebração e aditamento dos CPST, CUST, CCT, CCT-TA e CCI.
+(b) Apresentar documentos complementares que, em cláusula contratual, foram definidos como
+necessários à celebração dos CPST, CUST, CCT, CCT-TA e CCI.
+(c) Celebrar o CPST e CCT-TA com o ONS.
+(d) Celebrar os CCT, CCT-TA com os usuários conectados em suas instalações de transmissão [3].
+(e) Disponibilizar as informações referentes às suas instalações e necessárias para o compartilhamento
+de instalações entre transmissoras a todos os agentes de transmissão afetados por esse
+compartilhamento e ao ONS.
+(f) Celebrar o CCI com os agentes de transmissão, por motivo de compartilhamento de instalações, sob
+interveniência do ONS.
+(g) Participar no estabelecimento dos parâmetros do CPST.
+(h) Incluir no CCI e CCT cláusula específica na qual o agente de transmissão acessado declara estar de
+acordo com o traçado das novas linhas de transmissão conforme regulamentação vigente [1].
+3.3. Usuários
+(a) Fornecer ao ONS e manter atualizadas, as informações necessárias e os dados necessários para a
+celebração, aditamento e administração dos CUST, CCT, CCT-TA, Instrumentos de Garantia e CPSA,
+bem como para a manutenção destes documentos e de suas obrigações.
+(b) Indicar e manter atualizada a lista de seus representantes no(s) sistema(s) computacional (ais)
+indicado pelo ONS para o CPSA.
+(c) Celebrar o CUST com o ONS [3].
+(d) Celebrar o CCT com os agentes de transmissão detentores das instalações de transmissão, sob
+interveniência do ONS [1][3].
+(e) Celebrar o CCT-TA com o ONS, quando o usuário também for detentor da instalação de transmissão.
+(f) Solicitar e celebrar o CPSA com o ONS, no caso de prestação dos serviços ancilares estabelecidos na
+regulamentação vigente [5].
+4. PRAZOS
+4.1 Uma vez assinados os contratos, a atualização dos seus parâmetros e anexos atende aos prazos
+estabelecidos pela regulamentação ou pelas cláusulas dos próprios contratos.
+Endereço na internet: http://www.ons.org.br 5 / 8
+Procedimentos de Rede – Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Administração dos Contratos 8.1 Responsabilidades 2025.02 01/03/2025
+Quadro 1 – Prazos para celebração do CPST
+Atividade Responsável Prazo
+Assinatura do CPST e Termos
+Aditivos, exceto aqueles ONS e agente de Até o prazo estabelecido no contrato de
+1
+decorrentes de alteração da transmissão concessão ou ato autorizativo da ANEEL
+Receita Anual Permitida (RAP)
+Assinatura dos Termos Aditivos, Agente de Até 90 dias após o envio da minuta do
+2
+decorrentes de alteração da RAP transmissão Termo Aditivo pelo ONS
+Quadro 2 - Prazos para celebração do CUST, CCG, CFB e ACT
+Atividade Responsável Prazo
+Até a data de início de vigência do
+MUST ou até o prazo de vigência do
+Parecer de Acesso, conforme
+Submódulo 7.1 – Acesso às instalações
+de transmissão, o que ocorrer primeiro.
+Assinatura do CUST e
+1 Usuário
+Termos Aditivos
+Caso não haja vínculo com Parecer de
+Acesso, até a data de início de vigência
+do MUST ou em até 45 dias após a
+disponibilização do CUST para
+assinatura, o que ocorrer primeiro.
+Apresentação da
+Até 25 (vinte e cinco) dias antes da data
+Garantia Prévia para
+2 Agentes de geração limite regulamentar para celebração do
+Celebração do CUST
+CUST
+(GPC) – CFB ou ACT
+Agentes de geração após emissão
+Assinatura do CCG do DAPR/D.
+3 ou ACT ou Agentes de distribuição, consumo, Conforme definido no CUST
+apresentação do CFB importação e/ou exportação e
+temporários.
+Endereço na internet: http://www.ons.org.br 6 / 8
+Procedimentos de Rede – Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Administração dos Contratos 8.1 Responsabilidades 2025.02 01/03/2025
+Atividade Responsável Prazo
+Assinatura do CUST
+relativo à conexão da
+central de geração
+nas Instalações de
+Até 60 dias após a outorga da
+Transmissão de
+4 ONS e usuário concessão de transmissão referente às
+Interesse Exclusivo
+ICG [3]
+de Centrais de
+Geração para
+Conexão
+Compartilhada (ICG)
+Quadro 3 - Prazos para aditamento do CUST referente à contratação anual dos Montantes de Uso do Sistema de
+Transmissão (MUST)
+Atividade Responsável Prazo
+Disponibilizar um ambiente para declaração
+dos MUST por ponto de conexão ao agente
+de distribuição, consumidor livre ou Até 1º de
+1 ONS
+potencialmente livre, autoprodutor e setembro
+produtor independente com geração menor
+que a carga própria
+Agente de distribuição, consumidor
+Envio dos valores declarados dos MUST por livre e potencialmente livre, Até 31 de
+2
+ponto de conexão autoprodutor e produtor independente outubro[3]
+com geração menor que a carga própria
+ONS e agente de distribuição,
+Assinatura do Termo Aditivo ao CUST para
+consumidor livre e potencialmente livre, Até 31 de
+3 aplicabilidade dos novos valores de MUST, a
+autoprodutor e produtor independente dezembro
+partir do primeiro dia do ano seguinte
+com geração menor que a carga própria
+Quadro 4 - Prazos para celebração do CCT, CCT-TA e CCI
+Atividade Responsável Prazo
+Usuário e
+Até o prazo de vigência do Parecer de
+1 Assinatura do CCT e Termos Aditivos agente de
+Acesso, conforme Submódulo 7.1
+transmissão
+Até 60 dias após a outorga da concessão
+Usuário e
+Assinatura do CCT relativo à conexão de transmissão referente às ICG [3] ou
+2 agente de
+da central de geração nas ICG prazo de vigência do Parecer de Acesso,
+transmissão
+conforme Submódulo 7.1
+Endereço na internet: http://www.ons.org.br 7 / 8
+Procedimentos de Rede – Módulo 8 – Administração dos Contratos e
+Contabilização Financeira
+Nome Submódulo Tipo Revisão Vigência
+Administração dos Contratos 8.1 Responsabilidades 2025.02 01/03/2025
+Atividade Responsável Prazo
+Disponibilizar as informações
+referentes às suas instalações e Em até 30 (trinta) dias contados do
+necessárias para o compartilhamento Agentes de recebimento de pedido de
+3
+de instalações de transmissão a todos transmissão compartilhamento das instalações de
+os agentes de transmissão afetados transmissão
+por esse compartilhamento e ao ONS
+Até o prazo estabelecido no contrato de
+concessão ou ato autorizativo da ANEEL.
+Agentes de
+3 Assinatura do CCI e Termos Aditivos Quando não especificado o prazo é de 09
+transmissão
+meses contados da data de publicação do
+ato no DIÁRIO OFICIAL DA UNIÃO.
+Quadro 5 - Prazos para celebração do CPSA
+Atividade Responsável Prazo
+ONS e agente de
+Até 90 dias após a disponibilização da
+prestadores de
+1 Assinatura do CPSA e Termos Aditivos minuta do contrato ou do Termo Aditivo
+serviço de
+pelo ONS para assinatura.
+ancilares
+5. REFERÊNCIAS
+[1] ANEEL, Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de Transmissão de
+Energia Elétrica no Sistema Elétrico Nacional. Módulo 3 – Instalações e Equipamentos.
+[2] ANEEL, Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de Transmissão de
+Energia Elétrica no Sistema Elétrico Nacional. Módulo 4 – Prestação dos Serviços.
+[3] ANEEL, Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de Transmissão de
+Energia Elétrica no Sistema Elétrico Nacional. Módulo 5 - Acesso ao Sistema.
+[4] ANEEL, Resolução Normativa nº 905, de 8 de dezembro de 2020. Regras dos Serviços de Transmissão de
+Energia Elétrica no Sistema Elétrico Nacional. Módulo 6 - Coordenação e Controle da Operação.
+[5] ANEEL, Resolução Normativa nº 1.030, de 26 de julho de 2022.
+[6] ANEEL, Resolução Normativa nº 954, de 3130 de novembro de 2021.
+[7] ANEEL. Despacho nº 3.245, de 1º de setembro de 2023.
+Endereço na internet: http://www.ons.org.br 8 / 8
