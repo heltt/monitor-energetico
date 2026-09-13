@@ -1,0 +1,10 @@
+FONTE: ANEEL
+TIPO_DOCUMENTO: Resolucao Normativa
+NUMERO_ATO: Resolucao Normativa ANEEL no 1.122/2025
+DATA_PUBLICACAO: 2025-05-26
+TEMA: transmissao, conexao_rede, transicao_energetica
+TITULO: Revisao 4 do Modulo 5 das Regras dos Servicos de Transmissao - novas regras de acesso a Rede Basica
+
+RESUMO_EXECUTIVO:
+Resolucao aprovada pela ANEEL em 20/05/2025, publicada em 26/05/2025, que estabelece novas regras de acesso de consumidores livres e grandes cargas a Rede Basica do Sistema Interligado Nacional, com base na Consulta Publica no 23/2024 (152 contribuicoes de 34 instituicoes). O principal ponto e a exigencia de garantias financeiras no momento da solicitacao de Parecer de Acesso: GPA (Garantia para Parecer de Acesso, equivalente a 3 meses de Encargos de Uso do Sistema de Transmissao - EUST, considerando o maior Montante de Uso do Sistema - MUST pretendido em um horizonte de 4 anos) e GPC (Garantia para Contratacao). As regras entram em vigor em 01/01/2026, mas a exigencia de garantias financeiras e imediata, inclusive para projetos ja solicitados. O contexto regulatorio cita crescimento esperado de conexao de grandes cargas a Rede Basica de 610 MW em 2025 para 18.340 MW em 2030 e 37.409 MW em 2037. Relevante para transmissoras porque regula diretamente as condicoes financeiras e tecnicas de conexao de novos agentes (inclusive geradores renovaveis e grandes consumidores) as suas instalacoes.
+FONTE_SECUNDARIA_CITADA: Resolucao Normativa ANEEL no 1.069/2023 (regras de outorga e acesso de centrais geradoras a Rede Basica, usada como base para a revisao do Modulo 5)

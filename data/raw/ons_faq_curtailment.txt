@@ -1,0 +1,29 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Página institucional (FAQ)
+URL_ORIGINAL: https://www.ons.org.br/Paginas/faq_curtailment.aspx
+DATA_COLETA: 2026-09-12
+TEMA: curtailment
+
+TEXTO:
+Curtailment - informações sobre a gestão de excedentes energéticos.
+
+A restrição de geração, conhecida como curtailment, é uma realidade estrutural em países com alta participação de renováveis – e o Brasil não é exceção - e que precisam realizar a gestão dos excedentes de energia. Isso acontece porque a produção dessas fontes varia ao longo do tempo e nem sempre coincide com os momentos de maior consumo. Nessas situações, a restrição não é uma escolha do ONS, mas uma medida técnica necessária para preservar a segurança e a confiabilidade do Sistema Interligado Nacional (SIN).
+
+É importante ressaltar que os critérios que norteiam esse processo são transparentes, amplamente conhecidos pelos agentes e sempre orientados pelo princípio da neutralidade tecnológica do Operador. O papel do ONS é equilibrar segurança e eficiência, utilizando cada recurso da forma mais adequada às necessidades do sistema.
+
+Ferramenta Prospectiva de Curtailment: baseada na reprodução do perfil horário do histórico de carga e de geração das fontes eólica, fotovoltaica e MMGD, considerando um horizonte pré-definido, ajustado por fatores de crescimento projetados. A partir de séries históricas de 8.760 horas, são gerados perfis futuros equivalentes, que permitem construir balanços estáticos horários entre oferta e demanda. As análises contemplam restrições por razões energéticas e de confiabilidade — estas últimas focadas nos limites de exportação do Nordeste e do Norte/Nordeste para o Sudeste/Centro-Oeste.
+
+Notícias recentes relacionadas:
+- 11/09/2026: ONS amplia informações sobre restrição de geração no Portal de Dados Abertos.
+- 09/09/2026: ONS avança em plano de ação para aprimorar dados e comunicação sobre o curtailment.
+- 05/08/2026: ONS divulga cronograma para atualização da apuração das restrições de geração eólica e fotovoltaica.
+- 30/04/2026: ONS promove oficina com Agentes do setor elétrico sobre curtailment.
+- 23/09/2025: ONS publica Nota Técnica sobre critérios para gestão de excedentes de geração.
+- 17/06/2025: Relatório do ONS apresenta situação atual e projeta cenários sobre as restrições de geração no Brasil.
+- 31/03/2025: ONS promove reunião com associações para debater restrição de geração de energia renovável.
+
+Documentos referenciados nesta página:
+1. NOTA TÉCNICA - CRITÉRIOS PARA GESTÃO DE EXCEDENTES ENERGÉTICOS (NT-ONS DOP 0022.2025), publicada em 23/09/2025.
+   URL: https://www.ons.org.br/AcervoDigitalDocumentosEPublicacoes/NT-ONS%20DOP%200022.2025%20-%20Crit%C3%A9rios%20para%20Gest%C3%A3o%20de%20Excedentes%20Energ%C3%A9ticos.pdf
+2. DIAGNÓSTICO E PERSPECTIVA DA EVOLUÇÃO DOS CORTES DE GERAÇÃO NO BRASIL (RT DGL-ONS 0189-2025), publicada em 17/06/2025.
+   URL: https://www.ons.org.br/AcervoDigitalDocumentosEPublicacoes/RT%20DGL-ONS%200189-2025%20-%20GT%20Curtailment%20rev1.pdf

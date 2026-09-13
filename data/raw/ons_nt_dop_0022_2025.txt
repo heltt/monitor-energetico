@@ -1,0 +1,12 @@
+FONTE: ONS
+TIPO_DOCUMENTO: Nota Técnica
+NUMERO_ATO: NT-ONS DOP 0022/2025
+DATA_PUBLICACAO: 2025-08-19
+URL_ORIGINAL: https://www.ons.org.br/AcervoDigitalDocumentosEPublicacoes/NT-ONS%20DOP%200022.2025%20-%20Crit%C3%A9rios%20para%20Gest%C3%A3o%20de%20Excedentes%20Energ%C3%A9ticos.pdf
+TEMA: curtailment, transicao_energetica, transmissao
+TITULO: Critérios para Gestão de Excedentes Energéticos
+
+RESUMO_EXECUTIVO:
+Nota técnica do ONS que consolida os conceitos e procedimentos usados para lidar com o curtailment (restrição forçada de geração eólica/fotovoltaica) em todas as fases da operação do Sistema Interligado Nacional: planejamento (PAR/PEL), programação diária (PDO), operação em tempo real (controle de frequência, inequações e fluxos) e apuração pós-operação. Detalha a classificação regulatória das restrições em três motivos (indisponibilidade externa - REL, confiabilidade elétrica - CNF, razão energética - ENE), conforme a Resolução Normativa ANEEL nº 1.030/2022, e a ordem de prioridade entre eles. Cita dado de que o potencial de geração renovável eólica e fotovoltaica restrito no Brasil em 2024 foi de 9,4%, comparando com Reino Unido (10%), Irlanda do Norte (30%) e China (~3%). Conclui que o crescimento da geração renovável no SIN aumenta o desafio operacional de gestão de excedentes e que o ONS busca soluções mitigadoras e aprimoramentos regulatórios junto à governança setorial.
+
+TEXTO_COMPLETO_LOCAL: ver arquivo original baixado do ONS (25 páginas) - conteúdo integral preservado para uso no pipeline de RAG.

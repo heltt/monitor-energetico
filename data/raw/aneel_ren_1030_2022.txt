@@ -1,0 +1,9 @@
+FONTE: ANEEL
+TIPO_DOCUMENTO: Resolucao Normativa
+NUMERO_ATO: Resolucao Normativa ANEEL no 1.030/2022
+DATA_PUBLICACAO: 2022-07-26
+TEMA: curtailment, transicao_energetica
+TITULO: Classificacao de eventos de restricao de operacao por constrained-off de usinas eolicas e fotovoltaicas
+
+RESUMO_EXECUTIVO:
+Resolucao que estabelece a obrigatoriedade de o ONS classificar os eventos de restricao de operacao (curtailment) de usinas e conjuntos de usinas eolicas e fotovoltaicas despachadas centralizadamente em tres categorias de motivo: (I) indisponibilidade externa - REL, quando a limitacao decorre de instalacoes externas as usinas; (II) confiabilidade eletrica - CNF, quando o corte atende a requisitos de seguranca do sistema; (III) razao energetica - ENE, quando a geracao disponivel supera a capacidade de absorcao do sistema. Tambem define os criterios de atualizacao das curvas de produtividade (eolica) e funcoes de produtividade (fotovoltaica) usadas para calcular a geracao de referencia em casos de restricao por indisponibilidade externa, com atualizacao anual apos o primeiro ano de operacao comercial e mensal antes disso. Essa resolucao e a base regulatoria citada pela Nota Tecnica NT-ONS DOP 0022/2025 para toda a logica de apuracao de curtailment.
