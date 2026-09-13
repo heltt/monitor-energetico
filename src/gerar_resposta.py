@@ -12,9 +12,15 @@ Fluxo:
 3. Busca os chunks mais relevantes no indice TF-IDF para a pergunta
    original E para cada busca alternativa, juntando e removendo
    duplicatas.
-4. Monta um prompt para o Gemini contendo esses chunks, cada um
-   numerado e identificado pela fonte/titulo/data.
-5. Pede ao modelo para responder SOMENTE com base nesses chunks,
+4. Para chunks do ONS cujo submodulo tem uma pagina consolidada na
+   wiki (gerada por construir_wiki_ons.py, para submodulos com mais
+   de uma versao conhecida), troca o chunk bruto pela pagina -- que
+   ja aponta a versao vigente e o historico de revisoes, em vez de
+   deixar o Gemini adivinhar qual versao, entre varias concorrentes,
+   e a valida.
+5. Monta um prompt para o Gemini contendo esses chunks/paginas, cada
+   um numerado e identificado pela fonte/titulo/data.
+6. Pede ao modelo para responder SOMENTE com base nesses chunks,
    citando de qual trecho numerado veio cada afirmacao, e avisando
    quando a informacao fornecida nao for suficiente.
 
@@ -26,12 +32,16 @@ gratuita, gerada em https://aistudio.google.com/apikey).
 """
 
 import os
+import re
 import sys
 
 from google import genai
 from google.genai import types
 
 from utils_busca import carregar_indice, buscar
+from utils_normas_ons import extrair_modulo_sufixo_do_titulo
+
+PASTA_WIKI_ONS = os.path.join("data", "wiki", "ons")
 
 NUMERO_CHUNKS_POR_CONSULTA = 4
 NUMERO_CHUNKS_CONTEXTO = 6
@@ -40,7 +50,7 @@ NUMERO_CHUNKS_CONTEXTO = 6
 # confira o nome atual em https://aistudio.google.com/ e ajuste aqui
 # ou via a variavel de ambiente GEMINI_MODEL. Usado tanto na expansao
 # da pergunta quanto na resposta final.
-MODELO = os.environ.get("GEMINI_MODEL", "gemini-3.6-flash")
+MODELO = os.environ.get("GEMINI_MODEL", "gemini-flash-lite-latest")
 
 PROMPT_EXPANSAO = """Voce ajuda um sistema de busca por palavras-chave (TF-IDF, \
 sem entendimento de sinonimos ou significado) a encontrar documentos \
@@ -135,8 +145,59 @@ def buscar_chunks_com_expansao(pergunta, indice, cliente):
     return chunks_relevantes[:NUMERO_CHUNKS_CONTEXTO], consultas_expandidas
 
 
+def carregar_pagina_wiki(grupo):
+    """Le a pagina da wiki de um submodulo do ONS (numero-SIGLA), se ela
+    existir. Devolve None se nao houver pagina gerada para esse grupo
+    (ex.: submodulos com uma unica versao conhecida nao tem pagina --
+    ver construir_wiki_ons.py)."""
+    nome_arquivo = re.sub(r"[^a-zA-Z0-9_.-]", "_", grupo) + ".md"
+    caminho = os.path.join(PASTA_WIKI_ONS, nome_arquivo)
+    if not os.path.exists(caminho):
+        return None
+    with open(caminho, encoding="utf-8") as f:
+        return f.read()
+
+
+def substituir_por_paginas_wiki(chunks_relevantes):
+    """Para chunks do ONS cujo submodulo tem multiplas versoes (e,
+    portanto, uma pagina consolidada na wiki), troca o chunk bruto pelo
+    conteudo da pagina -- que ja aponta a versao vigente e o historico
+    de revisoes, em vez de deixar o Gemini adivinhar qual versao, entre
+    varios chunks concorrentes, e a que vale.
+
+    Se dois chunks recuperados pertencerem ao mesmo submodulo, a pagina
+    da wiki entra so uma vez (nao faz sentido repetir a mesma pagina
+    duas vezes no prompt)."""
+    resultado = []
+    grupos_ja_incluidos = set()
+
+    for chunk in chunks_relevantes:
+        if chunk["fonte"] != "ONS":
+            resultado.append(chunk)
+            continue
+
+        grupo = extrair_modulo_sufixo_do_titulo(chunk["titulo"])
+        pagina = carregar_pagina_wiki(grupo) if grupo else None
+
+        if pagina is None:
+            resultado.append(chunk)
+            continue
+
+        if grupo in grupos_ja_incluidos:
+            continue
+
+        grupos_ja_incluidos.add(grupo)
+        chunk_wiki = dict(chunk)
+        chunk_wiki["texto_chunk"] = pagina
+        chunk_wiki["titulo"] = f"{chunk['titulo']} (pagina consolidada da wiki -- submodulo {grupo})"
+        resultado.append(chunk_wiki)
+
+    return resultado
+
+
 def gerar_resposta(pergunta, indice, cliente):
     chunks_relevantes, consultas_expandidas = buscar_chunks_com_expansao(pergunta, indice, cliente)
+    chunks_relevantes = substituir_por_paginas_wiki(chunks_relevantes)
 
     resposta = cliente.models.generate_content(
         model=MODELO,
