@@ -8,8 +8,10 @@ Rodar (a partir da raiz do repositorio) com:
 """
 
 import os
+import re
 import sys
 
+import altair as alt
 import pandas as pd
 import streamlit as st
 
@@ -24,13 +26,59 @@ from google import genai  # noqa: E402
 
 CAMINHO_METADADOS = os.path.join("data", "processed", "metadados_documentos.csv")
 
+# Muitos titulos de submodulos do ONS trazem a data de revisao no proprio
+# nome, no formato "AAAA.MM" (ex.: "Submodulo 2.4-OP_2024.10" -> outubro
+# de 2024). Esse padrao captura ano e mes desses casos.
+PADRAO_ANO_MES_TITULO = re.compile(r"(20\d{2})\.(0[1-9]|1[0-2])\b")
+
 st.set_page_config(page_title="Copiloto Regulatorio Inteligente", layout="wide")
+
+
+def extrair_ano_mes_do_titulo(titulo):
+    """Extrai ano e mes de titulos no padrao usado pelo ONS (ex.:
+    'Submodulo 2.4-OP_2024.10' -> ano=2024, mes=10). Devolve (None, None)
+    se o padrao nao for encontrado."""
+    if not titulo:
+        return None, None
+    encontrado = PADRAO_ANO_MES_TITULO.search(titulo)
+    if not encontrado:
+        return None, None
+    return int(encontrado.group(1)), int(encontrado.group(2))
+
+
+def montar_ano_mes_dia(linha):
+    """Decide a data efetiva de um documento: usa a data de publicacao
+    quando disponivel (ex.: DOU, que tem data completa); senao, tenta
+    extrair ano/mes do titulo (ex.: submodulos do ONS), deixando o dia
+    como desconhecido nesse segundo caso."""
+    if pd.notna(linha["DATA_PUBLICACAO_DT"]):
+        data = linha["DATA_PUBLICACAO_DT"]
+        return pd.Series({"ANO": data.year, "MES": data.month, "DIA": data.day})
+
+    ano, mes = extrair_ano_mes_do_titulo(linha["TITULO"])
+    return pd.Series({"ANO": ano, "MES": mes, "DIA": None})
 
 
 @st.cache_data
 def carregar_metadados():
     df = pd.read_csv(CAMINHO_METADADOS, keep_default_na=False)
-    df["DATA_PUBLICACAO_DT"] = pd.to_datetime(df["DATA_PUBLICACAO"], errors="coerce")
+    df["DATA_PUBLICACAO_DT"] = pd.to_datetime(df["DATA_PUBLICACAO"], errors="coerce", dayfirst=True)
+
+    df[["ANO", "MES", "DIA"]] = df.apply(montar_ano_mes_dia, axis=1)
+    df["ANO"] = df["ANO"].astype("Int64")
+    df["MES"] = df["MES"].astype("Int64")
+    df["DIA"] = df["DIA"].astype("Int64")
+
+    # Rotulo "AAAA-MM" usado para agrupar e exibir o grafico por mes.
+    # Fica vazio (None) quando nem a data de publicacao nem o titulo
+    # trazem uma data identificavel.
+    df["PERIODO"] = df.apply(
+        lambda linha: f"{int(linha['ANO']):04d}-{int(linha['MES']):02d}"
+        if pd.notna(linha["ANO"]) and pd.notna(linha["MES"])
+        else None,
+        axis=1,
+    )
+
     return df
 
 
@@ -60,6 +108,55 @@ with aba_painel:
     colunas_metricas[0].metric("Total de documentos", len(df_metadados))
     for coluna, fonte in zip(colunas_metricas[1:], fontes_disponiveis):
         coluna.metric(fonte, (df_metadados["FONTE"] == fonte).sum())
+
+    st.divider()
+    st.subheader("📈 Publicações por mês")
+
+    df_com_periodo = df_metadados.dropna(subset=["PERIODO"])
+    quantidade_sem_data = len(df_metadados) - len(df_com_periodo)
+
+    contagem_por_mes = (
+        df_com_periodo.groupby("PERIODO").size().reset_index(name="quantidade").sort_values("PERIODO")
+    )
+
+    selecao_mes = alt.selection_point(fields=["PERIODO"], name="selecao_mes")
+    grafico_mensal = (
+        alt.Chart(contagem_por_mes)
+        .mark_bar()
+        .encode(
+            x=alt.X("PERIODO:N", sort=None, title="Mês"),
+            y=alt.Y("quantidade:Q", title="Quantidade de documentos"),
+            color=alt.condition(selecao_mes, alt.value("#1f77b4"), alt.value("#c6dbef")),
+            tooltip=[alt.Tooltip("PERIODO:N", title="Mês"), alt.Tooltip("quantidade:Q", title="Documentos")],
+        )
+        .add_params(selecao_mes)
+    )
+
+    evento_grafico = st.altair_chart(grafico_mensal, on_select="rerun", use_container_width=True)
+
+    mes_selecionado = None
+    if evento_grafico and evento_grafico.selection and evento_grafico.selection.get("selecao_mes"):
+        pontos_selecionados = evento_grafico.selection["selecao_mes"]
+        if pontos_selecionados:
+            mes_selecionado = pontos_selecionados[0]["PERIODO"]
+
+    if mes_selecionado:
+        df_do_mes = df_com_periodo[df_com_periodo["PERIODO"] == mes_selecionado]
+        st.markdown(f"**{len(df_do_mes)} documento(s) de {mes_selecionado}:**")
+        st.dataframe(
+            df_do_mes[["FONTE", "TITULO", "DATA_PUBLICACAO", "TEMA", "URL_ORIGINAL"]],
+            use_container_width=True,
+            hide_index=True,
+            column_config={"URL_ORIGINAL": st.column_config.LinkColumn("Link")},
+        )
+    else:
+        st.caption("Clique em uma barra do gráfico para ver os documentos daquele mês.")
+
+    if quantidade_sem_data:
+        st.caption(
+            f"{quantidade_sem_data} documento(s) sem data identificável "
+            "(nem na publicação, nem no título) não aparecem neste gráfico."
+        )
 
     st.divider()
 
