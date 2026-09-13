@@ -113,9 +113,11 @@ with aba_chat:
 
         with st.chat_message("assistant"):
             with st.spinner("Buscando nos documentos e gerando resposta..."):
-                resposta, chunks_relevantes = gerar_resposta(pergunta, indice, cliente)
+                resposta, chunks_relevantes, consultas_expandidas = gerar_resposta(pergunta, indice, cliente)
             st.write(resposta)
-            with st.expander("Ver trechos usados na resposta"):
+            with st.expander("Ver como a resposta foi gerada"):
+                if consultas_expandidas:
+                    st.markdown("**Buscas alternativas usadas:** " + ", ".join(consultas_expandidas))
                 for i, chunk in enumerate(chunks_relevantes, start=1):
                     st.markdown(f"**[Trecho {i}]** {chunk['fonte']} — {chunk['titulo']}")
                     if chunk["url_original"]:

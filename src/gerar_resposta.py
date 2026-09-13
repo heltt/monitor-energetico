@@ -4,10 +4,17 @@ usando a API gratuita do Google Gemini.
 
 Fluxo:
 1. Recebe a pergunta do usuario.
-2. Busca os chunks mais relevantes no indice TF-IDF (utils_busca.buscar).
-3. Monta um prompt para o Gemini contendo esses chunks, cada um
+2. Pede ao Gemini para expandir a pergunta em algumas buscas alternativas,
+   usando vocabulario tecnico/regulatorio mais provavel de aparecer no
+   texto literal dos documentos (necessario porque a busca por TF-IDF,
+   usada no passo 3, so entende correspondencia literal de palavras, nao
+   sinonimos ou termos tematicos abstratos como "transicao energetica").
+3. Busca os chunks mais relevantes no indice TF-IDF para a pergunta
+   original E para cada busca alternativa, juntando e removendo
+   duplicatas.
+4. Monta um prompt para o Gemini contendo esses chunks, cada um
    numerado e identificado pela fonte/titulo/data.
-4. Pede ao modelo para responder SOMENTE com base nesses chunks,
+5. Pede ao modelo para responder SOMENTE com base nesses chunks,
    citando de qual trecho numerado veio cada afirmacao, e avisando
    quando a informacao fornecida nao for suficiente.
 
@@ -26,12 +33,30 @@ from google.genai import types
 
 from utils_busca import carregar_indice, buscar
 
+NUMERO_CHUNKS_POR_CONSULTA = 4
 NUMERO_CHUNKS_CONTEXTO = 6
 # Modelo da camada gratuita do Google AI Studio. Se este nome de modelo
 # parar de funcionar (a lista de modelos gratuitos muda com o tempo),
 # confira o nome atual em https://aistudio.google.com/ e ajuste aqui
-# ou via a variavel de ambiente GEMINI_MODEL.
+# ou via a variavel de ambiente GEMINI_MODEL. Usado tanto na expansao
+# da pergunta quanto na resposta final.
 MODELO = os.environ.get("GEMINI_MODEL", "gemini-3.6-flash")
+
+PROMPT_EXPANSAO = """Voce ajuda um sistema de busca por palavras-chave (TF-IDF, \
+sem entendimento de sinonimos ou significado) a encontrar documentos \
+regulatorios do setor eletrico brasileiro (ONS, ANEEL, DOU).
+
+Dada a pergunta de um usuario, gere de 3 a 4 buscas alternativas, curtas, \
+usando termos tecnicos e regulatorios especificos que provavelmente aparecem \
+no TEXTO LITERAL dos documentos. Evite termos genericos ou tematicos \
+abstratos (como "transicao energetica" ou "sustentabilidade"); prefira \
+nomes tecnicos concretos (exemplos: "geracao eolica e fotovoltaica", \
+"fontes renovaveis variaveis", "curtailment", "geracao distribuida", \
+"armazenamento de energia", "conexao ao sistema de transmissao"), \
+adaptados ao assunto da pergunta.
+
+Responda APENAS com uma busca por linha, sem numeracao e sem explicacao.
+"""
 
 PROMPT_SISTEMA = """Voce e um copiloto regulatorio para o setor eletrico \
 brasileiro, usado por uma empresa transmissora de energia. Sua funcao e \
@@ -47,7 +72,34 @@ responder com confianca, diga isso explicitamente em vez de completar a \
 resposta com suposicoes.
 3. Seja direto e objetivo. Nao repita o texto dos trechos na integra; \
 sintetize com suas proprias palavras.
+4. A pergunta pode usar termos tematicos amplos (ex.: "transicao \
+energetica") que nao aparecem literalmente nos documentos, que costumam \
+usar vocabulario tecnico especifico. Reconheca essa relacao: trechos \
+sobre geracao eolica e fotovoltaica, armazenamento de energia, \
+curtailment, geracao distribuida ou conexao de fontes renovaveis SAO \
+exemplos concretos do tema perguntado, mesmo sem a expressao exata. So \
+diga que falta informacao se os trechos realmente nao tratarem, nem \
+tecnicamente, do assunto perguntado.
 """
+
+
+def expandir_pergunta(pergunta, cliente):
+    """Pede ao Gemini buscas alternativas com vocabulario mais tecnico.
+    Se a chamada falhar por qualquer motivo, degrada graciosamente
+    devolvendo uma lista vazia (a busca segue usando so a pergunta
+    original) -- mas avisa no terminal, para o problema nao passar
+    despercebido."""
+    try:
+        resposta = cliente.models.generate_content(
+            model=MODELO,
+            config=types.GenerateContentConfig(system_instruction=PROMPT_EXPANSAO),
+            contents=pergunta,
+        )
+        linhas = [linha.strip("-• \t") for linha in resposta.text.splitlines()]
+        return [linha for linha in linhas if linha]
+    except Exception as erro:
+        print(f"[aviso] Falha ao expandir a pergunta ({erro}). Usando so a pergunta original.", file=sys.stderr)
+        return []
 
 
 def montar_prompt_usuario(pergunta, chunks_relevantes):
@@ -65,8 +117,26 @@ def montar_prompt_usuario(pergunta, chunks_relevantes):
     return f"Trechos de documentos disponiveis:\n\n{contexto}\n\nPergunta: {pergunta}"
 
 
+def buscar_chunks_com_expansao(pergunta, indice, cliente):
+    """Busca chunks para a pergunta original e para variacoes tecnicas
+    geradas pelo Gemini, juntando os resultados e removendo duplicatas
+    (mantendo, para cada chunk, o maior score obtido entre as buscas)."""
+    consultas_expandidas = expandir_pergunta(pergunta, cliente)
+    consultas = [pergunta] + consultas_expandidas
+
+    chunks_por_id = {}
+    for consulta in consultas:
+        for chunk in buscar(consulta, indice, top_n=NUMERO_CHUNKS_POR_CONSULTA):
+            chunk_id = chunk["chunk_id"]
+            if chunk_id not in chunks_por_id or chunk["score"] > chunks_por_id[chunk_id]["score"]:
+                chunks_por_id[chunk_id] = chunk
+
+    chunks_relevantes = sorted(chunks_por_id.values(), key=lambda c: c["score"], reverse=True)
+    return chunks_relevantes[:NUMERO_CHUNKS_CONTEXTO], consultas_expandidas
+
+
 def gerar_resposta(pergunta, indice, cliente):
-    chunks_relevantes = buscar(pergunta, indice, top_n=NUMERO_CHUNKS_CONTEXTO)
+    chunks_relevantes, consultas_expandidas = buscar_chunks_com_expansao(pergunta, indice, cliente)
 
     resposta = cliente.models.generate_content(
         model=MODELO,
@@ -74,7 +144,7 @@ def gerar_resposta(pergunta, indice, cliente):
         contents=montar_prompt_usuario(pergunta, chunks_relevantes),
     )
 
-    return resposta.text, chunks_relevantes
+    return resposta.text, chunks_relevantes, consultas_expandidas
 
 
 def main():
@@ -86,9 +156,13 @@ def main():
     indice = carregar_indice()
     cliente = genai.Client()  # le GEMINI_API_KEY (ou GOOGLE_API_KEY) do ambiente
 
-    resposta, chunks_relevantes = gerar_resposta(pergunta, indice, cliente)
+    resposta, chunks_relevantes, consultas_expandidas = gerar_resposta(pergunta, indice, cliente)
 
     print(f'Pergunta: "{pergunta}"')
+    if consultas_expandidas:
+        print("Buscas alternativas usadas:")
+        for consulta in consultas_expandidas:
+            print(f"  - {consulta}")
     print()
     print("Resposta:")
     print(resposta)
