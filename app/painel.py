@@ -8,7 +8,6 @@ Rodar (a partir da raiz do repositorio) com:
 """
 
 import os
-import re
 import sys
 
 import altair as alt
@@ -21,29 +20,13 @@ import streamlit as st
 sys.path.append(os.path.join(os.path.dirname(__file__), "..", "src"))
 
 from utils_busca import carregar_indice  # noqa: E402
+from utils_normas_ons import extrair_ano_mes_do_titulo  # noqa: E402
 from gerar_resposta import gerar_resposta  # noqa: E402
 from google import genai  # noqa: E402
 
 CAMINHO_METADADOS = os.path.join("data", "processed", "metadados_documentos.csv")
 
-# Muitos titulos de submodulos do ONS trazem a data de revisao no proprio
-# nome, no formato "AAAA.MM" (ex.: "Submodulo 2.4-OP_2024.10" -> outubro
-# de 2024). Esse padrao captura ano e mes desses casos.
-PADRAO_ANO_MES_TITULO = re.compile(r"(20\d{2})\.(0[1-9]|1[0-2])\b")
-
 st.set_page_config(page_title="Copiloto Regulatorio Inteligente", layout="wide")
-
-
-def extrair_ano_mes_do_titulo(titulo):
-    """Extrai ano e mes de titulos no padrao usado pelo ONS (ex.:
-    'Submodulo 2.4-OP_2024.10' -> ano=2024, mes=10). Devolve (None, None)
-    se o padrao nao for encontrado."""
-    if not titulo:
-        return None, None
-    encontrado = PADRAO_ANO_MES_TITULO.search(titulo)
-    if not encontrado:
-        return None, None
-    return int(encontrado.group(1)), int(encontrado.group(2))
 
 
 def montar_ano_mes_dia(linha):
